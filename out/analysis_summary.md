@@ -1,16 +1,16 @@
 # VIA contract census: analysis summary
 
-Generated from out/via_contract_census.csv: 403 rows = 313 Via contract actions (7 Downtowner pre-acquisition) + 28 competitor awards + 62 app-only observations.
+Generated from out/via_contract_census.csv: 404 rows = 314 Via contract actions (7 Downtowner pre-acquisition) + 28 competitor awards + 62 app-only observations.
 
 ## 1. Scope mix (Via contract actions, excl. Downtowner pre-acquisition)
 
 | Scope | Actions (count) | Distinct agencies | Rows with $ | Annualized $mm (rows with $) |
 |---|---|---|---|---|
-| Turnkey | 138 | 65 | 74 | 268.7 |
+| Turnkey | 139 | 66 | 75 | 269.5 |
 | Hybrid | 9 | 8 | 2 | 23.7 |
 | Software-only | 110 | 68 | 53 | 7.4 |
 | Unknown | 49 | 44 | 8 | 12.4 |
-| **Total** | **306** | **158** | | **312.2** |
+| **Total** | **307** | **159** | | **312.9** |
 
 Dollar-weighted shares among rows with a value and a known scope (annualized; NTE ceilings treated as annual where the document gave only a ceiling and a term, so this overstates spend): Turnkey 90%, Hybrid 8%, Software-only 2%
 
@@ -102,13 +102,14 @@ Post-report mix by count: {'Turnkey': 11, 'Software-only': 2, 'Unknown': 4, 'Hyb
 | 2025-01-01 | Baldwin County Commission | AL | termination | Software-only |  | Via Mobility LLC; mutual termination agreement; original contract approved June 16, 2020 |
 | 2025-01-31 | Baldwin County Commission | AL | competitor-award | Software-only |  | Spare Labs, Inc. (competitor). Microtransit Software contract. Year 1: Base $19,200 + $2,800/vehicle (1-30) + $3,300/vehicle (30+) + $12,000 service/m |
 | 2025-03-05 | Baldwin County Commission | AL | competitor-award | Software-only |  | Competitor-award: Spare Labs, Inc. awarded micro-transit software contract for BRATS (Baldwin Rural Area Transportation System), Baldwin County, AL, r |
-| 2025-03-16 | Los Angeles County Metropolitan Transpor | CA | competitor-award | Software-only |  | RFP Award Listing for 'MICRO-TRANSIT SOFTWARE FOR PUBLIC TRANSPORTATION,' Vendor: Spare Labs, Inc. Pricing table (Years 1/2/3): Base Operating Cost $1 |
+| 2025-03-16 | Baldwin County Commission | CA | competitor-award | Software-only |  | RFP Award Listing for 'MICRO-TRANSIT SOFTWARE FOR PUBLIC TRANSPORTATION,' Vendor: Spare Labs, Inc. Pricing table (Years 1/2/3): Base Operating Cost $1 |
 | 2025-04-14 | City of El Paso | TX | competitor-award | Software-only | 634161.08 | Competitor-award: RideCo US Inc. at City of El Paso, TX. Included page itself is a Campaign Contribution Disclosure Form naming 'RideCo' (contributor: |
 | 2025-05-13 | Sun Metro (City of El Paso) | TX | competitor-award | Software-only | 1350671.56 | Competitor-award: Solicitation 2025-0132R Paratransit Software awarded to Rideco US Inc. (Los Angeles, CA), displacing Via Transportation Inc. dba Via |
 | 2025-08-06 | Baldwin County Commission | AL | termination | Software-only |  | Signing entities Baldwin County Commission and Via Mobility, LLC (Delaware LLC). Quote: "The Parties are bound by that certain Contract for Profession |
 | 2025-11-13 | Los Angeles County Metropolitan Transpor | CA | competitor-award | Software-only | 447400.01 | [relabeled competitor-award from amendment] Spare Labs, Inc. Competitor award. Modification No. 2 to Contract PS124278(2)000 for Metro Micro enhanceme |
 | 2025-11-13 | Ben Franklin Transit | WA | competitor-award | Software-only | 2358300 | Competitor-award: Resolution 42-2025 authorizes BFT to award On-Demand Paratransit Route Scheduling & Management Software & Hardware Solution (Contrac |
 | 2025-11-13 | Los Angeles County Metropolitan Transpor | CA | competitor-award | Software-only | 386150 | Contracting entity Spare Labs, Inc. (Via competitor) for LA Metro's "Metro Micro" on-demand shuttle brand. Quote: "AUTHORIZE the Chief Executive Offic |
+| 2025-11-26 | Milwaukee County Transit System (MCTS) | WI | budget-exclusion | Turnkey |  | Tier-3 manual row. MCTS/DOT Action Item Report 25-792 (11/26/2025): MCTS projects a ~$14M 2026 deficit; base 2026 plan proposed cuts; using the $4,785 |
 |  | Sacramento Regional Transit District (Sa | CA | termination | Turnkey |  | SmaRT Ride, Via-operated on-demand microtransit launched Jan 2020 (Via press release: "the largest on-demand microtransit system in America with 42 ve |
 |  | City of Jersey City | NJ | budget-exclusion | Turnkey |  | PROPOSED, NOT YET ACTED ON as of the source articles (post-2025-12-16 budget-crisis development; exact council-vote date left blank/unknown since no v |
 |  | Hillsborough County | FL | termination | Software-only | 860825 | RFP-23-24177 Paratransit Scheduling Software System, Revised Notice of Intent to Award, posted July 25, 2024. Original contract had been awarded to Vi |
@@ -137,10 +138,11 @@ Post-report mix by count: {'Turnkey': 11, 'Software-only': 2, 'Unknown': 4, 'Hyb
 | 93.87 | City of Cupertino | CA | 2023-02-08 | per vehicle hour | Turnkey |
 | 94.83 | City of Norman | OK |  | per driver hour | Turnkey |
 | 98.73 | Milwaukee County | WI | 2024-08-01 | per vehicle hour | Turnkey |
+| 98.73 | Milwaukee County Transit System (MCTS) | WI | 2025-11-26 | per vehicle hour | Turnkey |
 | 99.70 | City of Norman | OK |  | per vehicle hour | Turnkey |
 | 147.32 | Summit County | UT | 2021-04-13 | per revenue hour | Hybrid |
 
-n=19, min 35.83, median 61.10, max 147.32. OMNIA R250802 list: microtransit turnkey $50.47-$80.75/vehicle hour, paratransit $60.56-$100.94, fixed route $90.85-$141.32 (net).
+n=20, min 35.83, median 62.65, max 147.32. OMNIA R250802 list: microtransit turnkey $50.47-$80.75/vehicle hour, paratransit $60.56-$100.94, fixed route $90.85-$141.32 (net).
 
 ## 5. Stated software fees and implementation fees
 
