@@ -1,0 +1,134 @@
+# source: raw/bleecker_drive/City of Santa Rosa/City of Santa Rosa RFP R166592 Scheduling Software.pdf
+# path: raw/bleecker_drive/City of Santa Rosa/City of Santa Rosa RFP R166592 Scheduling Software.pdf
+# hit page: 6 of 55
+# terms: Via+hourly rate
+
+=== page 5 ===
+milestone), and any dependencies within the control of the AGENCIES that are part of the scope but may 
+extend the timeline. 
+Bidders will provide a thorough description of the implementation approach, which should include, but 
+is not limited to data migration, testing, and training.  
+Bidders will provide a post-implementation plan for support and maintenance which outlines how 
+support cases are handled, primary points of contact for questions and concerns about the product and 
+billing, when routine maintenance is completed on the product, future product enhancements (provide 
+associated costs if any), and how requests for new product components are handled. 
+It is the expectation of the AGENCIES that the winning bidder will provide a weekly status update until 
+the scheduling platform is fully functional. The update can be given verbally or by email.  
+Vendor Qualiﬁcations and References 
+Please provide one example of an agency who upon using your product saw improved service 
+eﬃciencies. 
+Please provide three other agency contacts (name and contact information) at agencies of comparable 
+size (if possible) as references that use your product.  
+Provide a complete list of existing customer agency names currently using the system. Contact 
+information for these agencies is not required. 
+Inquiries or Questions and/or Requests for Clariﬁcation  
+All individuals or ﬁrms interested in submitting an RFP must address any questions or requests for 
+clariﬁcation of the RFP via the PlanetBids website under the question-and-answer tab no later than 
+5:00PM on Wednesday, August 14, 2024. The City will distribute any responses to questions posed 
+during the open period per the schedule. If responses result in a change to the RFP, the City will make 
+those changes in the form of a formal or informal addendum to the RFP. The City will distribute the 
+addendum through PlanetBids ONLY.
+=== page 6 ===
+Proposal Submission Guidelines 
+Vendors shall submit Proposals shall be submitted electronically via PlanetBids ONLY.  
+Vendors should have a fully functioning scheduling platform. Companies should not submit proposals for 
+products that are in beta or are not fully functional at the time the proposals are due. Bidders should 
+also not submit content for products outside the scope of this RFP. 
+The cost proposal should reﬂect costs for a ﬁve (5) year term with two (2) option years. Bidders should 
+price each year separately and indicate their pricing methodology e.g. total ﬂeet size, active ﬂeet, staﬀ 
+size, etc. If the product being proposed is modular in nature, please indicate the costs for each module 
+summing to a total cost for each year of the contract. Cost proposals should be formatted with line items 
+for each contract year and for each agency. Example below:  
+Year 1 
+Year 2 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+Year 7 
+Annual Software 
+(Modules broken out) 
+  
+  
+  
+  
+  
+  
+  
+Annual Maintenance, 
+Hosting, and Support 
+  
+  
+  
+  
+  
+  
+  
+Training (Year 1 
+should have a fixed 
+price for onboarding 
+training with 
+following years as an 
+hourly rate for 
+refresher training) 
+  
+  
+  
+  
+  
+  
+  
+ 
+Evaluation Criteria 
+Proposals will be evaluated based on compliance with technical requirements, implementation approach 
+and expertise, and reasonableness of total price. The weighting for each score is as such: 
+• 
+Compliance with technical requirements – 50% 
+• 
+Implementation Approach and Expertise – 30% 
+• 
+Reasonableness of Total Price – 20%  
+AGENCIES will select the top three scoring bidders to move forward into a practical demonstration 
+round. Bidders will be expected to demonstrate the full functionality of their product from the beginning 
+to the end of the scheduling process. 
+ 
+Terms and Conditions 
+The City of Santa Rosa and City of Petaluma will enter into separate contracts with the awarded 
+proposer. 
+ 
+City of Santa Rosa
+=== page 7 ===
+The winning bidder for one or both platforms will be expected to enter into an agreement per the terms 
+of the City’s standard agreement. The contractual obligations for the vendor will be the deliverables as 
+indicated in their proposal and their associated costs. The standard agreement is provided with the RFP 
+for reference as Exhibit 1. The winning bidder will also be expected to meet the City’s insurance 
+requirements in Exhibit 2 (This will be Attachment One in the actual agreement).  
+Petaluma Transit 
+The winning bidder will be expected to enter into an agreement per the terms of the City’s standard 
+agreement. Per the deliverables provided by the vendor through the RFP process, a ﬁnal scope of work 
+document will be created for inclusion in the Professional Service Agreement. The standard agreement is 
+provided with the RFP for reference as Exhibit 3. The winning bidder will also be expected to meet the 
+City’s insurance requirements in Exhibit 4.  
+PROTEST PROCESS  
+ 
+Any and all protests must be in writing and must comply with the timelines and procedures set forth 
+below:  
+ 
+PROTEST PROCEDURES:  
+Proposers may file a “protest” to an RFP with the City’s Purchasing Department via email to Purchasing 
+Agent Brandalyn Tramel, btramel@srcity.org. For a protest to be considered valid, the protest must:  
+ 
+1. Be filed in writing within five (5) business days of the RFP issue date. A second protest period is 
+allowed for the issuance of the Agreement. Protests for this period must be received in writing on or 
+before 5:00 p.m. of the third business day following the posting of Bid Results/Notice of Intent to 
+Award;  
+2. Clearly identify the specific irregularity or accusation;  
+3. Clearly identify the specific City staff determination or recommendation being protested;  
+4. Specify, in detail, the grounds of the protest and the facts supporting the protest; and  
+5. Include all relevant, supporting documentation with the protest at time of filing.  
+ 
+If the protest does not comply with each of these requirements, it will be rejected as invalid. If the 
+protest is valid, the City’s Purchasing Agent shall review the basis of the protest and all relevant 
+information. The Purchasing Agent will provide a written decision to the protestor within ten (10) 
+business days from receipt of protest. The decision from the Purchasing Agent, or his/her designee, is 
+ﬁnal and no further appeals will be considered.

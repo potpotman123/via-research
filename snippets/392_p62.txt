@@ -1,0 +1,205 @@
+# source: raw/bleecker_drive/Los Alamos (Spare Labs)/1040_24_A_-_AGR_24-37_Spare_Labs_Inc.pdf
+# path: raw/bleecker_drive/Los Alamos (Spare Labs)/1040_24_A_-_AGR_24-37_Spare_Labs_Inc.pdf
+# hit page: 62 of 81
+# terms: Spare Labs
+
+=== page 61 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+61 
+ Agreement Template Version: 04012024 
+Training Module & Description 
+Key Skills Acquired 
+MODULE 3: Driver 
+User Profile: Dispatchers, drivers 
+The driver module empowers operators 
+(dedicated/non-dedicated) to use the Spare Driver 
+App to pick up and drop off Riders. Several drivers, 
+along with the trainer in-training, can be trained 
+simultaneously during one training session. After a 
+satisfactory level of training has been performed, the 
+trainer will organize a full system dry-run with the 
+driver(s), simulating foreseen and unforeseen 
+situations, to test driver readiness. 
+✓ Starting and ending a duty 
+✓ Performing pickups and dropoffs 
+✓ Reading trip information 
+✓ Trip navigation 
+✓ Dealing with no-shows 
+and cancellations 
+✓ Hands-free notification 
+and communication 
+handling 
+✓ Emergency response management 
+✓ Exceptions handling 
+and troubleshooting 
+✓ Communicating with dispatchers 
+✓ Managing “flag-down” trips 
+(if applicable) 
+MODULE 4: Customer Service Representative 
+User Profile: Reservationists, customer support agents, 
+dispatchers 
+This module provides customer service 
+representatives with an overview of how to manage 
+trip requests and rider profiles with shortcuts to 
+reduce booking call times. Training includes 
+demonstrative and interactive components. After 
+training is complete, CSRs gain access to the 
+configured testing and training environment so that 
+they can practice their new workflows ahead of dry 
+run testing and go-live. 
+✓ Live map and dashboards 
+✓ Creating and managing rider profiles 
+✓ Creating and managing trips 
+✓ Creating and managing 
+subscription trips 
+✓ Rider payments and Spare Pay IVR 
+✓ Rider reviews and handling complaints 
+✓ Rider notifications 
+✓ Trip investigations and analysis 
+✓ Exceptions handling 
+and troubleshooting 
+Attachment A
+=== page 62 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+62 
+ Agreement Template Version: 04012024 
+Training Module & Description 
+Key Skills Acquired 
+MODULE 5: Data Analyst 
+User Profile: Data analysts, reporting staff, IT/systems 
+personnel, administrators 
+The data analyst module includes reviewing all metrics, 
+data, reports, and charts in Spare Analyze. Information 
+on how data is collected and how metrics are calculated 
+and represented is explained. Training on how to 
+interpret the data, use the data, perform analysis of the 
+data, and develop insights from the data is given. 
+Insights as to what impacts each metric and what 
+levers can be pulled, in the software and operationally, 
+to affect each metric are explained. 
+✓ Review and define KPIs in: 
+● 
+Service analytics 
+● 
+Fleet analytics 
+● 
+Service reports 
+● 
+Fleet reports 
+✓ Discuss KPIs and how they relate 
+to your service goals 
+✓ Discuss what KPIs to track and set 
+quantitative objectives (if not already 
+set) 
+✓ Discuss how KPIs relate to one 
+another, your service configuration, 
+and your operational processes 
+✓ Discuss any specific reporting 
+needs (regulatory or otherwise) 
+ 
+ 
+System Knowledge Base, Guides, and Help Documents 
+ 
+In addition to our comprehensive user guides, Spare offers extensive help docs and SOPs for our end-
+users. All help docs are available within an online portal accessible from within Spare Platform. 
+These articles will guide your staff through their day to day tasks and workflows. Users will have access to 
+the following SOPs (described at a high-level below): 
+• 
+General Support: How-to information on accessing the Spare Platform Admin Portal (part of Spare 
+Launch), resetting your password, terms of use, privacy policy, and more. 
+• 
+Service Planning: This is where planners and administrators will learn how to set up a service, 
+run a service, and make changes to it, such as creating override flexibility, setting up and enabling 
+API keys for Spare Pay, and using a Stripe account. 
+• 
+Scheduling & Dispatching: How-to information for setting up vehicles, duties/shifts, driver breaks, 
+managing day-to-day operations, exception handling and incident management, and much, much 
+more. 
+• 
+Trip Reservations: This focuses on how to book, track, and edit trip requests, and how to 
+communicate with riders calling in to reserve a trip. 
+• 
+Spare Rider: This section covers all aspects of using the Spare Rider App including how to set-up 
+an account, create favorite locations, apply promo codes, and plan, book, and pay. This information 
+is useful for booking agents and support staff who communicate with the riders. These talking points 
+can help riders set up their own app and use it to book trips. 
+• 
+Spare API: Explains the flexibility and options available with our Open API, as well as providing 
+our API terms of service. 
+• 
+Spare Analyze: Provides guidance on how to use the in-built analytics tool, customize and 
+download reports, and interpret the data. 
+ 
+In addition to Spare’s Help Center articles, Spare offers in-depth guides. These include: 
+Attachment A
+=== page 63 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+63 
+ Agreement Template Version: 04012024 
+• 
+Spare System Administrator Guide: Comprehensive information on the Spare Platform and the 
+Spare Driver App, including step-by-step walkthroughs, pictures, videos, and other useful 
+information. 
+• 
+Spare Dispatcher/Scheduler Guide: Information on the Spare Platform and the actions that you 
+may be required to take, including step-by-step walkthroughs, pictures, and other useful 
+information. 
+• 
+Spare Customer Service Representative Guide: This guide includes information on everything 
+from logging into the Spare Platform to navigating the live map, booking trips, rematching requests, 
+using interactive voice response, adding rider favorite locations and group memberships, and more. 
+• 
+Spare Rider App Guide: Complete with demonstrative screen shots, this guide walks you through 
+setting locations, rider options, adding riders, using accessibility features, choosing payment 
+method, previewing your trip, and notifications. 
+• 
+Spare Driver Guide: Here drivers will find instructions on downloading the Spare Driver app, 
+accessing your account, setting up your profile, settings overview, starting and completing a duty, 
+as well as trip cancellation, adding a walk-on rider, and ending your duty. 
+• 
+Spare Data Analyst Guide: Learn how to use Spare Analyze - Spare’s analytics module - to track 
+system performance and gain insights into day-to-day operations. Understand what each metric is, 
+how it's calculated, and how it can be used. Walk though Spare’s standard reports and learn how 
+to create custom ones. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Attachment A

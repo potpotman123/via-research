@@ -1,0 +1,186 @@
+# source: raw/bleecker_drive/Marin Transit/8-Uber-w-MT.pdf
+# path: raw/bleecker_drive/Marin Transit/8-Uber-w-MT.pdf
+# hit page: 2 of 18
+# terms: RideCo, Spare Labs, Via Mobility
+
+=== page 1 ===
+DATE:  
+May 28, 2020 
+ 
+TO: 
+Transportation Authority of Marin Board of Commissioners 
+FROM: 
+Anne Richman, Executive Director   
+Derek McGill, Planning Manager 
+Scott McDonald, Senior Transportation Planner 
+ 
+SUBJECT: 
+Authorize Agreement with Uber and Enter into MOU with Marin Transit (Action), Agenda Item 
+No. 8 
+ 
+ 
+RECOMMENDATION 
+ 
+The TAM Board authorize the Executive Director to execute a two-year agreement with Uber Technologies, 
+Inc. (Uber) for an amount not to exceed $140,000 to provide first/last mile services to and from transit stations 
+in Marin County and sign a Memorandum of Understanding (MOU) with Marin Transit to formalize an 
+integrated, accessible on-demand transportation program. 
+ 
+At its May 11, 2020 meeting, the Administration, Projects and Planning (APP) Executive Committee reviewed 
+and voted unanimously to refer this item to the TAM Board for approval.   
+ 
+ 
+BACKGROUND 
+ 
+On September 12, 2017, TAM initiated a pilot program to provide on demand first/last mile services to and from 
+Sonoma Marin Area Rail Transit SMART stations in Marin County. This program, “GetSMART” has been in 
+operation continuously, expanding to include the Larkspur and Downtown Novato SMART Stations in 
+December 2019. The GetSMART program was launched in partnership with Lyft, Inc, and Whistlestop to 
+provide Wheelchair Accessible Vehicles as part of this program. 
+ 
+In April of 2018, Marin Transit launched Marin Transit Connect, providing on demand service using wheelchair 
+accessible vehicles in the northern San Rafael Area. TAM and Marin Transit have been coordinating and 
+exploring options to integrate TAM’s GetSMART Program and the Marin Transit Connect Service to address 
+first/last mile needs and provide employer support programs.  
+ 
+ 
+DISCUSSION/ANALYSIS 
+ 
+On October 18, 2019, TAM partnered with Marin Transit to issue a Request for Proposals (RFP) for Mobility 
+On Demand Software to provide both agencies opportunities to assess the current state of technology for the 
+GetSMART and Marin Transit Connect Program. A proposer’s conference was held on November 1, 2019 and 
+proposals were due on November 27, 2019. The RFP received a very high level of interest, receiving 15 
+proposals at time of the submission deadline. 
+ 
+ 
+73
+=== page 2 ===
+TAM Board Meeting, Item 8 
+      Page 2 of 3 
+May 28, 2020 
+ 
+ 
+TAM and Marin Transit staff reviewed all the proposals and completed an initial scoring and ranking based on 
+the criteria included in the proposal: 
+ 
+Criteria  
+Available 
+Points 
+References / Experience with Similar Agencies 
+10 
+Ability to meet Scope of Work 
+50 
+Price Proposal 
+40 
+TOTAL 
+100 
+ 
+The initial scoring process identified five competitive proposals that were advanced into the second round of 
+evaluation which included an oral interview process. Interviews with the five teams were completed between 
+January 6 and17, 2020. The review panel was composed of staff from Marin Transit, TAM, and a non-voting 
+member from the Metropolitan Transportation Commission (MTC). Following oral interviews, staff re-scored 
+all shortlisted vendors using the original criteria. The final scoring is shown in the table below. Based on the 
+outcome of the interview scores, Uber was recommended as the top firm by the review panel and TAM and 
+Marin Transit began contract negotiations. 
+ 
+Vendor 
+Score 
+Uber Technologies, Inc. 
+84 
+Spare Labs, Inc. 
+75 
+Via Mobility, LLC 
+75 
+RideCo, Inc. 
+75 
+Lyft, Inc. 
+69 
+Liftango, Inc. 
+59 
+Ecolane USA, Inc. 
+59 
+TransLoc 
+58 
+Bytemark, Inc. 
+55 
+HBSS Connect Corp 
+50 
+Routematch 
+Software, 
+Inc. 
+47 
+DemandTrans Solutions, 
+Inc. 
+41 
+Shotl 
+36 
+Mobisoft Infotech, LLC 
+31 
+Solyd Transit, Inc. 
+5 
+ 
+ 
+Uber Technologies offers Marin Transit and TAM the ability to seamlessly integrate the existing Marin Transit 
+Connect on-demand service and the GetSMART Program into a single app, providing an integrated user 
+experience. Based on the user’s desired origin and destination, the app will also show the user available public 
+transit options (real-time predictions) and price to complete the trip as well as other on-demand services offered 
+by Uber (UberPool, UberX, etc.). The proposal offers both agencies the required level of custom reporting and 
+oversight needed to meet regulatory reporting requirements. 
+ 
+74
+=== page 3 ===
+TAM Board Meeting, Item 8 
+      Page 3 of 3 
+May 28, 2020 
+ 
+ 
+For Marin Transit, among other benefits, this proposal also allows for a significant expansion of the Marin 
+Transit Connect service area to include roughly 2.5-mile radius around SMART stations in Marin. Uber’s 
+proposed platform allows the wheelchair accessible Marin Transit Connect service to show within the publicly 
+available Uber app but allows the Marin Transit the ability to control service parameters including price, hours 
+of operation, and service area.  
+ 
+For TAM, this arrangement allows for higher level of wheelchair accessible service while reducing the costs to 
+TAM. Additionally, this allows TAM to expand the scope of services to include employer agreements, to provide 
+for public-private  partnerships for employers that wish to further cover the cost of rides using Uber shared rides 
+service (UberPool) or Marin Transit Connect Vehicles.  
+ 
+As part of the next phase of the program, TAM will continue to focus on shared ride services (UberPool) and 
+expand the transit integration component, to a wide array of transit stops in Marin County. TAM will not be 
+required to continue with a separate contract for ADA services under this arrangement, however the GetSMART 
+service area will see a reduction in the service area, and a revised cost structure in alignment with the higher 
+costs of Marin Transit Connect Service. Finally, TAM is also advancing electric vehicle integration opportunities 
+within this partnership, to further TAM’s shared mobility and environmental goals.  It is also worth noting that 
+TAM and Marin Transit staffs are in communication with Uber and Whistlestop staffs regarding health and 
+safety protocols for the present COVID-19 situation. 
+ 
+Marin Transit and TAM will enter into separate agreements with Uber to develop the technology to support the 
+integrated program, and to provide first/last mile, employer agreements, and potential electric vehicle 
+integration. The two agencies will then enter into a Memorandum of Understanding (MOU) to formalize 
+elements of the partnership including consistency on pricing, hours of operation, and service area and also 
+require adequate notice if either agency decides to change their agreement with Uber or the terms and conditions 
+of their service or subsidy. A copy of this MOU is included as Attachment A.  At their May 4th meeting, the 
+Marin Transit Board of Directors authorized the General Manager to enter into agreement with Uber and to 
+execute the MOU with TAM.    
+ 
+ 
+FISCAL CONSIDERATION 
+ 
+Funding for this program is available from Measure B, under Element 3.2, Commute Alternatives Program. Staff 
+is recommending $70,000 annually be made available over the two-year period for a total of $140,000. Upon 
+Board’s approval, $70,000 will be included in the proposed TAM FY2020-21 Annual Budget.  For reference, 
+this is the same amount that was included for the current program for the last 18 months, reflecting a cost savings 
+over the two-year program duration. 
+ 
+ 
+NEXT STEPS  
+ 
+Upon approval of the TAM Board, staff will enter into agreement with Uber, sign the MOU with Marin Transit, 
+and prepare to launch the program on July 1, 2020.  
+ 
+ 
+ATTACHMENTS 
+ 
+Attachment A: TAM/Marin Transit Mobility on Demand MOU 
+Attachment B: TAM Board Meeting Presentation 
+75

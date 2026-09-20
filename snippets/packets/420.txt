@@ -1,0 +1,243 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Utah Transit Authority/Change Order On Demand Technologies Service Order No. 5 - Southern Davis County Southern Salt Lake County (River North Transit LLC Via).pdf
+# pages_total: 14; hit_pages: [1, 2, 3, 4, 6, 7, 8, 11, 12, 13]; included: [1, 2, 4, 11, 12, 13]
+# context: Bleecker Drive folder: Utah Transit Authority
+
+=== page 1 of 14 ===
+1 
+ 
+SERVICE ORDER NO. 5 UNDER THE  
+ON-DEMAND TECHNOLOGIES AND INNOVATIVE MOBILITY SERVICES  
+MASTER SERVICES AGREEMENT 
+UTA Contract No. 20-03399-5 
+ 
+ 
+SERVICE ORDER NO. 5  
+UTA ON DEMAND - SOUTHERN DAVIS COUNTY &  
+SOUTHERN SALT LAKE COUNTY SERVICE AREA 
+ 
+ 
+1. Purpose 
+ 
+On September 1, 2021, each of River North Transit, LLC (“Via”) and the Utah Transit Authority 
+(“UTA” or “Customer”), hereinafter collectively referred to as the “Parties,” entered into an 
+agreement entitled On-Demand Technologies and Innovative Mobility Services (the “MSA”). On 
+December 15, 2021, the Parties entered into Service Order No. 2 (as amended up to the date hereof, 
+the “Service Order No. 2”), under the MSA to collaborate on the UTA On Demand Deployment  
+in southern Salt Lake County, Utah (the “Salt Lake County Deployment”). On July 13, 2022 the 
+Parties also entered into Service Order No. 3 (as amended up to the date hereof, the “Service 
+Order No. 3”), under the MSA to collaborate on UTA’s -demand response transit service in South 
+Davis County, Utah (the “South Davis County Deployment” and, together with the Salt Lake 
+County Deployment, the “Deployment”). Through this Service Order No. 5 (the “Service 
+Order”), with an Effective Date of January 1, 2024, the Parties have agreed to further extend the 
+duration of the Deployment and otherwise amend and restate Service Order No. 2 and Service 
+Order No. 3 as set out herein. For greater certainty, this Service Order supersedes and replaces the 
+Service Order No. 2 and the Service Order No. 3, and Service Order No. 2 and Service Order No. 
+3 shall have no further legal force or effect. 
+ 
+Via will provide UTA with technology and technology-enabled integration services (the 
+“Services”), acting as a broker coordinating the services of third party service providers to 
+effectuate the Deployment. Via will contract with third party service providers to effectuate such 
+integration, including with fleet managers, vehicle suppliers, driver partners, background check 
+providers, customer service support agencies, a payment processor and insurance brokers and 
+underwriters. Via’s Services will include: 
+  
+● A Transportation as a Service (TaaS) solution as defined within the MSA; 
+● Localization of a proprietary cloud-based dynamic vehicle routing and real-time passenger 
+aggregation system;    
+● Access to the Via mobile rider application (iOS and Android) for individuals using UTA’s 
+service (“Riders”) to book and pay for rides through a smartphone; 
+DocuSign Envelope ID: 002455B7-6E53-483F-866B-FB9C401AC130
+
+=== page 2 of 14 ===
+2 
+ 
+● Access to booking via a dedicated phone line for Riders who do not have access to a 
+smartphone; 
+● Access to the Via mobile driver application for drivers to route and service rides through a 
+smartphone or tablet; 
+● Establish relationship with vehicle rental company (“Vehicle Partner”) to provide access 
+to vehicles on a rental basis to independent contractor driver partners (“Driver Partners”) 
+who shall provide transportation services;  
+● Accompanying technical and operational support service; 
+● Marketing and outreach initiatives as described herein. 
+● Data sharing and reporting as described herein. 
+ 
+Conflicts between this Service Order and any other terms and conditions or written agreements 
+between the Parties, including the MSA, shall be resolved in favor of this Service Order. 
+2. Duration & Launch Date 
+  
+The duration of the Deployment shall last for a period of 36 (thirty-six) months, until December 
+31, 2026, inclusive, following the Effective Date (the “Initial Term”), subject to year-by-year 
+extensions based on mutual agreement of the Parties.   
+  
+3. Fees 
+  
+Any new regulatory fees imposed by a governmental entity related to the Services will be 
+charged as a pass-through cost contingent on UTA’s advance agreement which will not be 
+unreasonably withheld or delayed. UTA will have the option of decreasing other Services or 
+expenses in order to off-set these additional fees. 
+ 
+4. Service Parameters 
+  
+Pursuant to the MSA and in accordance with Appendix A and B, Via will provide access to a 
+platform service (the “Platform”) through which Riders will be able to book and pay for rides on 
+a shared and on-demand basis and dedicated vehicles will be offered by the Vehicle Partner to 
+Driver Partners on a rental basis. The Parties may add additional service zones through future 
+amendments to Appendix A, B and/or C of this Service Order. Customer may expect  per vehicle 
+hour pricing for additional service zones to align with the pricing laid out in Appendix C, provided 
+that the service details in the additional service zones are not significantly different from existing 
+service zones, such as vehicle type, geography, and driver requirements. Additional service zones 
+will also require implementation fees. 
+ 
+DocuSign Envelope ID: 002455B7-6E53-483F-866B-FB9C401AC130
+
+=== page 4 of 14 ===
+4 
+ 
+Via will be responsible for the integration of all relevant elements of the Deployment on a 
+continuous basis during the course of the Deployment and will designate a project manager for 
+this purpose (the “Via Project Manager”) who will lead Via’s Project Team.  UTA will designate 
+a project manager to be the primary point of contact with Via throughout the duration of the 
+Deployment (the “UTA Project Manager”).  The Via Project Manager will be in regular contact 
+with the UTA Project Manager through informal and scheduled project meetings.   
+  
+The Via Project Manager will be empowered to enact day-to-day decisions related to the Services 
+and will serve as the primary point of contact with the UTA Project Manager on an ongoing basis.  
+The Via Project Manager will appoint members to the Project Team to assist in the integration of 
+the various elements of the Deployment, to include personnel with expertise in service scoping, 
+independent contractor driver outreach and registration to the Platform, fleet maintenance 
+procurement, marketing, and data analytics.  For the avoidance of doubt, the Via Project Manager 
+will have no power to serve notice or amend the Agreement, or this Order. 
+  
+During the course of the Deployment, Via’s Project Team, led by the Via Project Manager, will 
+liaise with the UTA Project Manager over the key deliverables of this Order and to endeavor to 
+maximize ongoing service optimization. 
+ 
+6. Driver Partner Registration & Supply Management 
+  
+Via will source Driver Partners to provide transportation services to UTA through the Platform.  
+  
+Via will ensure that Driver Partners have appropriate licenses, permits, and insurance required for 
+the type of vehicles being operated as defined within the MSA.  As part of Driver Partner 
+registration for access to the Platform, all Driver Partners will be introduced to Via with the 
+following areas covered: familiarization with the Deployment service areas; hours of service; 
+UTA’s expectations; use of the Driver App; and reporting incidents and delays in service. 
+ 
+Throughout the Deployment, Via will review comments and ride reviews from customers 
+submitted through the UTA On Demand application to identify opportunities for service 
+improvements and address concerns over Driver Partner behavior and performance. 
+ 
+Via will be responsible for ensuring that there is adequate driver supply for each service zone 
+within designated hours to meet demand with optimal quality of service, given constraints. 
+ 
+7. Rider and Driver Partner Support 
+  
+Via will ensure the provision of customer service and support for Driver Partners and Riders on 
+issues that arise in connection with use of the Platform. In addition, Via will provide live translation 
+DocuSign Envelope ID: 002455B7-6E53-483F-866B-FB9C401AC130
+
+=== page 11 of 14 ===
+4 
+ 
+ 
+Appendix B: 
+Deployment Parameters 
+ 
+The Parties agree to the following Deployment Parameters. Upon mutual agreement, the Parties 
+may agree to subsequent modifications of these Parameters during the term of this Agreement. 
+ 
+ Deployment Service Zone: Approximately 28.2 square miles coverage zone in Southern 
+Davis County, Utah. Approximately 71.1 square miles coverage zone in Salt Lake County, 
+Utah. See Appendix A for a map of the service zone boundary. 
+ Service Days/Hours: The Deployment’s operating hours shall be Monday through Friday, 
+6:00am to 9:00pm in South Davis County. In South Salt Lake County, the Deployment’s 
+operating hours shall be Monday through Friday, 4:00am to 12:15am, and Saturdays, 
+6:00am to 9:00pm. 
+ Vehicle Fleet: For South Davis County, Via’s Vehicle Partner will offer a fleet of up to 
+nine (9) branded, licensed, and insured vehicles, including four (4) Americans with 
+Disabilities Act (ADA)-compliant Wheelchair Accessible Vehicles (WAV) to be made 
+available to independent contractor Driver Partners, who will be able to gain access to these 
+vehicles after being registered onto the Platform. Of the nine total vehicles, three (3) 
+vehicles shall be treated by Via as spares in the event that a regular service vehicle requires 
+maintenance or replacement. Fleet size and composition of WAVs and non-WAVs may be 
+adjusted based upon mutual agreement of the Parties as the service grows in 2025 and 
+2026.  
+For South Salt Lake County, Via’s Vehicle Partner will offer a fleet of up to twenty six 
+(26) branded, licensed, and insured vehicles, including nine (9) Americans with Disabilities 
+Act (ADA)-compliant Wheelchair Accessible Vehicles (WAV) to be made available to 
+independent contractor Driver Partners, who will be able to gain access to these vehicles 
+after being registered onto the Platform. Of the twenty six total vehicles, six (6) vehicles 
+shall be treated by Via as spares in the event that a regular service vehicle requires 
+maintenance or replacement. Fleet size and composition of WAVs and non-WAVs may be 
+adjusted based upon mutual agreement of the Parties as the service grows in 2025 and 
+2026.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DocuSign Envelope ID: 002455B7-6E53-483F-866B-FB9C401AC130
+
+=== page 12 of 14 ===
+5 
+ 
+Appendix C: 
+Service Fees 
+ 
+The table below outlines the payment structure, in which UTA would be charged a price per driver 
+hour. Any new regulatory fees imposed by a governmental entity related to the service will be 
+charged as a pass-through cost contingent on UTA advance agreement provided such agreement 
+will not be unreasonably withheld. UTA will have the option of decreasing other services or 
+expenses in order to off-set these additional fees. The Deployment shall include a fleet of vehicles 
+as described in Appendix B, subject to extension by mutual agreement of the parties on terms to 
+be agreed (including any change in fees). The total contract value shall not exceed that listed in 
+this Appendix C, “Not-to-Exceed Fees,” of $21,793,653 for the 36-month duration of this Service 
+Order (through December 31, 2026).  
+ 
+ 
+ 
+Via will separately invoice UTA for marketing expenses incurred and as authorized by UTA under 
+Section 8 of the Service Order. Via will charge its standard labor rate of $150.00 per hour for 
+internal marketing labor cost. All other marketing expenses will be passed through at cost. The 
+DocuSign Envelope ID: 002455B7-6E53-483F-866B-FB9C401AC130
+
+=== page 13 of 14 ===
+6 
+ 
+total combined marketing expenses incurred by Via and UTA shall not exceed $100,000. This 
+amount is not included in the pricing table shown above.  
+The values in the table above are Not-to-Exceed (NTE) amounts and are subject to downward 
+adjustment based on actual revenue hours achieved.  
+UTA will be billed for the above fees as described below. Driver hours will be billed as incurred 
+at the end of each month. UTA shall pay the following fees to Via:  
+Ongoing Invoice Fees  
+UTA shall pay the following fees to be invoiced monthly by Via on or around the 15th of each 
+month:  
+Year 1 (January 1, 2024 – December 31, 2024): $55.23 per driver hour in ongoing project costs, 
+to include driver partner pay, vehicle rental and wheelchair-accessible vehicle (WAV) costs, live 
+customer support, and project operations  
+Year 2 (January 1, 2025 – December 31, 2025): $57.44 per driver hour in ongoing project costs, 
+to include driver partner pay, vehicle rental and wheelchair-accessible vehicle (WAV) costs, live 
+customer support, and project operations  
+Year 3 (January 1, 2026 – December 31, 2026): $59.74 per driver hour in ongoing project costs, 
+to include driver partner pay, vehicle rental and wheelchair-accessible vehicle (WAV) costs, live 
+customer support, and project operations 
+These fees are exclusive of fuel. UTA will continue to provide fuel though UTA’s fuel card 
+network at no additional cost to Via for the UTA On Demand vehicle fleet as set forth within 
+Section 11 of this Service Order.  
+The above per vehicle hour amounts include and account for the Vehicle Partner’s fixed costs to 
+meet the vehicle requirements set forth herein.  Such cost equals a rate of $6 per vehicle hour. For 
+the avoidance of doubt, fuel, maintenance, and other variable costs related to vehicle upkeep are 
+not included in the fixed vehicle costs as outlined above. The Vehicle Partner will be primarily 
+responsible for the provision of vehicles on a rental basis to Driver Partners. 
+Should changes in applicable federal, state, local law result in a significant change in Via’s 
+costs, either an increase or decrease, Via or UTA may opt to renegotiate the ongoing on-
+demand service hour fees or level of service obtained.  
+ 
+ 
+ 
+DocuSign Envelope ID: 002455B7-6E53-483F-866B-FB9C401AC130

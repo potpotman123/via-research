@@ -1,0 +1,190 @@
+# source: raw/bleecker_drive/North Dakota/DM0048_Trip_Master_-_Contract.pdf
+# path: raw/bleecker_drive/North Dakota/DM0048_Trip_Master_-_Contract.pdf
+# hit page: 42 of 76
+# terms: Via+SaaS
+
+=== page 41 ===
+Page 41 of 76 
+ 
+3. Requires the consent of a Federal official, and 
+ 
+g. It will require that each covered lower tier contractor and subcontractor: 
+ 
+1. Comply and facilitate compliance with the Federal requirements of 2 CFR parts 180 and 
+1200, and 
+2. Assure that each lower tier participant in its Project is not presently declared by any 
+Federal department or agency to be: 
+ 
+a. Debarred from participation in its federally funded Project, 
+b. Suspended from participation in its federally funded Project, 
+c. Proposed for debarment from participation in its federally funded Project, 
+d. Declared ineligible to participate in its federally funded Project, 
+e. Voluntarily excluded from participation in its federally funded Project, or 
+f. Disqualified from participation in its federally funded Project, and 
+ 
+3. It will provide a written explanation as indicated on a page attached in FTA’s TrAMS 
+platform or the Signature Page if it or any of its principals, including any of its first 
+tier Subrecipients or its Third-Party Participants at a lower tier, is unable to certify 
+compliance with the preceding statements in this Certification Group. 
+(3) It will provide a written explanation as indicated on a page attached in FTA’s TrAMS 
+platform or the Signature Page if it or any of its principals, including any of its first tier 
+Subrecipients or its Third- Party Participants at a lower tier, is unable to certify compliance 
+with the preceding statements in this Certification Group. 
+ 
+a. Certification 
+ 
+Contractor: 
+ 
+ 
+Signature of Authorized Official:                                       Date 
+    / 
+/ 
+ 
+Name and Title of Contractor's Authorized Official: 
+ 
+ 
+
+
+	
+
+	
+
+
+
+
+
+=== page 42 ===
+Page 42 of 76 
+ 
+EXHIBIT B – Software as a Service (SaaS) Service Level Agreement (SLA) 
+ 
+CONTRACTOR represents and warrants that the services will be performed in a professional manner 
+consistent with industry standards reasonably applicable to such services.  
+1. SAAS AVAILABILITY: 
+The SaaS shall be available twenty-four (24) hours per day, 365 days per year (excluding agreed-
+upon scheduled maintenance downtime).  
+ 
+2. SUPPORT AND ERROR RESOLUTION:  
+CONTRACTOR will respond to PARTICIPATING ENTITY requests for support services regarding 
+the licensed software in accordance with the procedures identified below. In each case, 
+PARTICIPATING ENTITY may describe and submit the problem by telephone, email or online 
+helpdesk/service desk tool.   
+Agencies expect a high level of customer service and product support from the vendor and requires 
+that any issues with the system be resolved in a timely fashion with minimal system downtime. The 
+vendor’s customer support should be available between the hours of 7AM to 7PM (CST), 7 days a 
+week. If hardware failures occur, replacement parts should be readily available and able to be 
+obtained quickly.  Customer support can be reached at techsupport@cts-software.com or via phone 
+at (800)-555-3546. 
+Incident Severity 
+Response 
+Time 
+Resolution 
+Time 
+Escalation Procedure 
+High Impact – 
+System unusable 
+1 hour 
+Final 
+Resolution 
+within: 
+4 hours 
+Issues can be submitted via dedicated support 
+line or dedicated email address.  However, 
+tracking and alerts are present to automatically 
+alert the developers in a system wide outage or 
+significant performance issue.  In the event the 
+issue does not fall under a category of auto 
+alerts, the support team will call the head of 
+development as well as post an alert in our 
+internal instant messaging system, which auto 
+alerts every developer so they can immediately 
+assist. PARTICIPATING ENTITY receives a 
+response within 1 hour. Resolution will be made 
+within 4 hours. 
+ 
+Medium Impact –  
+System useable with 
+severely restricted 
+functionality or 
+performance 
+4 hours 
+Final 
+Resolution 
+within: 
+8 hours 
+(1 business 
+day) 
+Issues can be submitted via dedicated support 
+line or dedicated email address. A ticket is 
+automatically generated in the support tracking 
+system.  The development team is contacted by 
+the support team. PARTICIPATING ENTITY 
+receives a response within 4 hours. Resolution 
+will be made within 8 hours. 
+
+
+	
+=== page 43 ===
+Page 43 of 76 
+ 
+Low Impact –  
+system useable with 
+minor impact on 
+functionality or 
+performance 
+8 hours 
+Final 
+Resolution 
+within: 
+ 
+Determined 
+at the time 
+of WOR 
+execution. 
+ 
+Issues can be submitted via dedicated support 
+line or dedicated email address.  A ticket is 
+automatically generated in the support tracking 
+system.  The development team is contacted by 
+the support team.  PARTICIPATING ENTITY 
+receives a response within a business day and 
+finds resolution within the timeframe determined 
+at the time of WOR execution 
+For Low Impact incidents, PARTICIPATING ENTITY and CONTRACTOR will mutually determine at 
+the time of WOR execution whether a resolution can wait until the next periodic maintenance 
+release, or if the issue needs to be resolved sooner.  
+CONTRACTOR’S failure to meet the above defined Response Times or Resolution Times in any 
+given month during the term and any renewal term shall be deemed a service level default (“Service 
+Level Default”) and PARTICIPATING ENTITY and/or STATE may obtain the non-exclusive 
+remedies set forth below.  
+Response and Resolution Service Levels 
+(calculated monthly on a per incident basis) 
+Service Level Credit 
+(Prorated Fees – Monthly) 
+Meets Response or Resolution Time 
+0% 
+1st Failure to meet Response or Resolution Time 
+Warning, 0% 
+2nd Failure to meet Response or Resolution Time 
+10% 
+3rd Failure to meet Response or Resolution Time 
+20% 
+In the event PARTICIPATING ENTITY is eligible for a 20% Service Level Credit under this section 
+for any two (2) consecutive months of the term, PARTICIPATING ENTITY may terminate an 
+executed WOR without penalty upon written notice to CONTRACTOR.  
+Credits shall be applied against the next invoice. In the event a Service Level Default occurs after a 
+party has given notice of termination, or PARTICIPATING ENTITY has made final payment to 
+CONTRACTOR for the software support services and no further invoices shall issue as a result, 
+CONTRACTOR shall refund to PARTICIPATING ENTITY the amount of the appropriate Service 
+Level Credit due for the period of default. 
+3. AVAILABILITY SERVICE LEVEL: 
+CONTRACTOR’s failure to make the services available at least 99.9% of the time in any given 
+month during the term and any renewal term, excluding scheduled maintenance, shall be deemed a 
+service level default (“Service Level Default”) and PARTICIPATING ENTITY may obtain the non-
+exclusive remedies set forth below. For purposes of this Master Contract, “Available” means that 
+PARTICIPATING ENTITY users are able to access all features and functions of the licensed 
+product and services including, but not limited to the licensed software and licensed content. 
+ 
+
+
+	

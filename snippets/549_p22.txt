@@ -1,0 +1,90 @@
+# source: raw/bleecker_drive/Hall County/Micro-Transit-Feasibility-Study.pdf
+# path: raw/bleecker_drive/Hall County/Micro-Transit-Feasibility-Study.pdf
+# hit page: 22 of 24
+# terms: Via Mobility
+
+=== page 21 ===
+RFP #39-021 – Microtransit Feasibility Study  
+Via Mobility, LLC 
+ 
+ 
+ 
+Page 19 
+ 
+ 
+Appendix 1 - Ridership Data  
+Dial-A-Ride Demand Data 
+Dial-A-Ride data was provided for 10 days in October 2018. A total of 404 trips were 
+completed in this period. 
+ 
+Daily trip requirements: 
+● Busiest day - 51 trips 
+● Average day - 40 trips 
+● Lowest demand day - 33 trips 
+ 
+Trips by time of day: 
+The busiest period is early afternoon, where 39% of daily trips fall within a 3-hour period. 
+See the graph below for more information.
+=== page 22 ===
+RFP #39-021 – Microtransit Feasibility Study  
+Via Mobility, LLC 
+ 
+ 
+ 
+Page 20 
+ 
+ 
+Dial-A-Ride Trips by Origin / Destination 
+The image below shows trip origins (blue) and destinations (orange).
+=== page 23 ===
+RFP #39-021 – Microtransit Feasibility Study  
+Via Mobility, LLC 
+ 
+ 
+ 
+Page 21 
+ 
+ 
+Fixed-route Demand Data 
+Daily trip requirements: 
+● Average day: 617 rides (October 2018 data) 
+● The busiest routes are Route 10, 40, and 30. Route 10 has a utilization of 13 passengers 
+/ revenue hour, Route 40 has a utilization of 11 passengers / revenue hour, and Route 
+30 has a utilization of 10 passengers / revenue hour.  
+ 
+Oct 2018 Data 
+Ave Riders / Day Annual 
+Utilization 
+Route 10 
+150 
+34,036 
+13 
+Route 20 
+82 
+18,606 
+7 
+Route 30 
+107 
+24,279 
+10 
+Route 40 
+136 
+30,859 
+11 
+Route 41 
+46 
+10,438 
+4 
+Route 50 
+96 
+21,783 
+8 
+Total 
+617 
+140,000 
+9 
+ 
+ 
+Trips by time of day: 
+The busiest period is mid-afternoon. 33% of trips fall within this 3 hour period. See graph 
+below for more information.

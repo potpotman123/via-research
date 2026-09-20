@@ -1,0 +1,36 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Springfield Ohio/ORDINANCE - Transit Franchise 2025 - River North Transit.pdf
+# pages_total: 2; hit_pages: [1]; included: [1]
+# context: Bleecker Drive folder: Springfield Ohio
+
+=== page 1 of 2 ===
+ORDINANCE NO. _______________
+Granting to River North Transit, LLC, the authority, right and privilege to 
+establish, maintain and operate a public transportation system in The City of Springfield, 
+Ohio, for the transportation for hire of passengers only for five years with an option to 
+renew for two additional five-year periods, fixing the terms and conditions of such grant, 
+and providing for the City's participation in the cost of such operation.
+...ooo000ooo...
+WHEREAS, the City’s Purchasing Division has advertised for and received 
+proposals for Transit Management Services for Springfield City Area Transit (SCAT); 
+and
+WHEREAS, the City Commission determines that a franchise should be granted 
+to River North Transit, LLC to provide for a public transportation service in the City 
+pursuant to the attached agreement which reflects services negotiated following the bid 
+response:  NOW, THEREFORE:
+BE IT ORDAINED by the City Commission of The City of Springfield, Ohio:
+SECTION 1.  That this Commission hereby adopts the findings set forth in the 
+recitals to this Ordinance and makes them a part hereof.
+SECTION 2.  That the City hereby grants to River North Transit, LLC, subject to 
+the terms and conditions set forth in the Franchise Agreement and Service Order 
+attached hereto as Exhibit 1 and incorporated herein by reference, the authority, right 
+and privilege to establish, maintain and operate a public transportation system in The 
+City of Springfield, Ohio, for the transportation for hire of passengers only for five years 
+with an option to renew for two additional five-year periods.
+SECTION 3.  This ordinance shall take effect and be in force from and after 
+fourteen (14) days from the date of its passage.
+PASSED this __________ day of _________________________, A.D., 2025.
+___________________________________
+PRESIDENT OF THE CITY COMMISSION
+___________________________________
+CLERK OF THE CITY COMMISSION

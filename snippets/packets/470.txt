@@ -1,0 +1,34 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Metro Micro (LA)/RFP Award Listing.pdf
+# pages_total: 1; hit_pages: [1]; included: [1]
+# context: Bleecker Drive folder: Metro Micro (LA)
+
+=== page 1 of 1 ===
+REQUEST FOR PROPOSALS (RFP) FOR MICRO-TRANSIT SOFTWARE FOR PUBLIC TRANSPORTATION
+RFP AWARD LISTING
+VENDOR
+Spare Labs, Inc.
+Item
+Description
+Year 1
+Year 2
+Year 3
+A
+Base Operating Cost Per
+ $     19,200.00  $     20,160.00  $    21,168.00 
+B
+Operating Cost per Vehicle (1-30)
+ $       2,800.00  $       2,940.00  $      3,087.00 
+C
+Operating Cost per Additional Vehicle (30+)
+ $       3,300.00  $       3,465.00  $      3,638.25 
+D
+Transition Costs
+ $     15,378.00 
+ $                  -    $                -   
+E
+Other Costs
+ $                 -    $                  -    $                -   
+F
+Annual Service/Maintenance Cost
+ $     12,000.00  $     12,600.00  $    13,230.00

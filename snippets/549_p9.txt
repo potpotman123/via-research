@@ -1,0 +1,114 @@
+# source: raw/bleecker_drive/Hall County/Micro-Transit-Feasibility-Study.pdf
+# path: raw/bleecker_drive/Hall County/Micro-Transit-Feasibility-Study.pdf
+# hit page: 9 of 24
+# terms: Via Mobility, Via+vehicles
+
+=== page 8 ===
+RFP #39-021 – Microtransit Feasibility Study  
+Via Mobility, LLC 
+ 
+ 
+ 
+Page 6 
+ 
+ 
+Maximum wait time 
+- The maximum time 
+(in minutes) between 
+ride request and 
+pickup. 
+Riders will only be able to book a 
+ride if a vehicle can pick them up in 
+less than the maximum wait time. 
+When a rider requests a ride, the 
+system calculates the time it will 
+take the best-suited vehicle to 
+reach the requested pickup 
+location, and displays this 
+‘proposal’ to the rider. In Via’s 
+experience, user acceptance of 
+proposals is highly correlated with 
+proposed wait time. Users are 
+more likely to reject a ride proposal 
+when wait times are high.  If a 
+vehicle is unable to reach a rider 
+within the maximum wait time, the 
+rider is shown a preconfigured 
+message such as “We can’t find a 
+seat for you right now, please try 
+again in a few minutes”. Average 
+wait time is always significantly 
+less than this maximum. 
+Via used a maximum wait 
+time of 35-40 minutes. This 
+value was chosen to ensure 
+a consistently high quality 
+of service for users who are 
+offered rides while still 
+ensuring riders further out 
+in the County can be 
+reached.  
+Maximum walk - 
+The maximum 
+distance a customer 
+is asked to walk to 
+meet their vehicle or 
+get to their final 
+destination once 
+dropped off. 
+ 
+Average walking distance tends to 
+be significantly less than the 
+maximum value. 
+Via used a maximum walk 
+distance of 400m (~4min). 
+However, with adequate 
+vehicle supply, average 
+walking distance is well 
+below this maximum 
+walking distance. In 
+Gainesville, users might see 
+longer walking distances 
+when demand spikes or 
+when requesting a ride 
+from an area far from a 
+road, such as a park or 
+property with a long, 
+private roadway.
+=== page 9 ===
+RFP #39-021 – Microtransit Feasibility Study  
+Via Mobility, LLC 
+ 
+ 
+ 
+Page 7 
+ 
+ 
+Hall County Simulation Results 
+Via simulated the following 5 scenarios: 
+Scenario 1) Upgrade the Dial-A-Ride service 
+This would be a County-wide service, replacing the existing Dial-A-Ride service, which 
+delivers ~40 rides per day across a 400 sq. mile zone, shown below. Approximately half of 
+Dial-A-Ride trips begin and end within the core microtransit zone, and would be served ‘on-
+demand’, meaning a rider can request an immediate pickup. Via recommends that the rides 
+outside of this core zone, which currently make up about 20 rides per day, be accessed 
+through  pre-scheduling, meaning they are requested in advance. Users will be asked to 
+indicate their pickup window (within a configurable range), allowing Via’s technology to 
+better aggregate these longer trips.  
+Microtransit vehicles required: 5-6 vehicles 
+Expected daily ridership: 40-70 rides / day
+=== page 10 ===
+RFP #39-021 – Microtransit Feasibility Study  
+Via Mobility, LLC 
+ 
+ 
+ 
+Page 8 
+ 
+ 
+Scenario 2) Upgrade all six Gainesville Connection (GC) routes 
+This service would replace the Gainesville Connection fixed-route network, which serves 
+approximately 620 rides /day. The proposed service area is overlaid on the existing routes in 
+the map below.  
+Microtransit vehicles required: 14-16 vehicles 
+Expected Daily Ridership: 600-900 rides / day

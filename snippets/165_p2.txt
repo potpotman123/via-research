@@ -1,0 +1,100 @@
+# source: https://legistar.granicus.com/huntsvilleal/attachments/9800841b-3948-44e2-9e23-ef2ab1007faf.pdf
+# path: raw/cache/bbbdb020c072a8b6124814a71fc2748079790ca2.pdf
+# hit page: 2 of 37
+# terms: RideCo
+
+=== page 1 ===
+308 Fountain Circle
+Huntsville, AL 35801
+Huntsville, Alabama
+Cover Memo
+wHUt"
+ДУ АНАЛі
+Meeting Type: City Council Regular Meeting Meeting Date: 3/28/2024
+File ID: TMP-4024
+Department: Public Transit
+Subject:
+Type of Action: Approval/Action
+Resolution authorizing the Mayor to enter into an Agreement between the City and RideCo US, Inc. for
+Paratransit dispatching software.
+Resolution No:
+Finance Information:
+Account Number: 2000-54-5416D-520200-PT504990
+City Cost Amount: $21,200.00
+Total Cost: $106,000.00
+Special Circumstances:
+Grant Funded: $84,800.00
+Grant Title - CFDA or granting Agency: AL-2024-002-00
+Resolution #: N/A
+Location: (list below)
+Address: 500 B Church St. NW 35801
+District: District 1 D
+District 2 D
+Additional Comments:
+District 3
+District 4 0 District 51
+Huntsville, Alabama
+Page 1 of 2
+Printed on 3/25/2024
+powered by Legislar ne
+=== page 2 ===
+RESOLUTION NO. 24-
+BE IT RESOLVED by the City Council of the City of Huntsville, Alabama, that the
+Mayor be, and is hereby authorized to enter into an Agreement on behalf of the City of
+Huntsville, a municipal corporation in the State of Alabama, by the between the City of
+Huntsville and RideCo US, Inc for paratransit dispatching software in the amount of One
+Hundred Six Thousand dollars and Zero cents($106,000.00), which is similar to certain
+document attached hereto and identified as "Agreement between the City of Huntsville and
+RideCo US, Inc." consisting of thirty four (34) pages and the date of March 28, 2024, appearing
+on the margin of the first page, together with the signature of the President or President Pro Tem
+of the City Council, a copy of said document being permanently kept on file in the Office of the
+City Clerk, of the City of Huntsville, Alabama.
+ADOPTED this the 28th day of March 2024.
+President of the City Council of
+the City of Huntsville, Alabama
+APPROVED this the 28th day of March 2024.
+Mayor of the City of Huntsville,
+Alabama
+=== page 3 ===
+RIDECO SUBSCRIPTION AND SERVICES AGREEMENT
+CITY OF HUNSTVILLE
+This Subscription and Services Agreement is entered into on March. 28, 20 Bke "Effective Date")
+by and between KideCo US, Inc., a Delaware corporation having its registered office at 10880 Wilshire
+Boulevard, Suite 1101, Los Angcles, CA 90024 ("RideCo"), and the City of Huntsville, having its
+registered office at 308 Fountain Circle, Huntsville, Alabama 35801 and mailing address of 500 B Church
+Street, Huntsville, AL. 35801 (the "Customer") and governs use by Customer of RideCo's on-demand
+software & solutions, also known as the Dynamic Transit System (as further defined below).
+NOW THEREFORE, for good and valuable consideration, the receipt and sufficiency of which is hereby
+acknowledged by each of the parties hereto, it is agreed by and between the parties as follows:
+1.
+INTERPRETATION
+1.01
+Definitions: In this Agreement, unless there is something in the subject
+matter or context inconsistent therewith, the following terms shall have the
+following meanings:
+"Agreement" means this subscription and services agreement and includes any amendments,
+supplements, schedules, exhibits or appendices attached, referencing this agreement, or expressly
+made a part hereof by agreement between the parties.
+'Approved Equipment/Third Party Software" means the equipment and third-party softwaro
+required to operate the Distributed Software, specilied in Schedule "I" hereto, including all
+upgrades, enhancements, releases, additions, modifications, and replacements of same from time
+to time approved in writing by RideCo.
+"Distributed Software"
+means the RideCo passenger mobile application and driver mobile
+applications and any other software tools or components made available by RideCo for download
+under this Agreement.
+"Dynamic Transit System" means RideCo's proprietary software programs including
+optimization algorithms, data analysis algorithms, web application, passenger mobile application,
+driver mobile application, dashboards, graphical user interface, ull documentation and end user
+"Documentation"
+i rede in cone on in tie Sarie ofelig: a know how, pro by Ray Co, mary tom
+methodologies, document templates and best practice guides; (b) scripts and data analysis tools:
+(e) user manuals and guides, that explain or facilitate the use of the Software, including all update
+thereto; and (d) data sheets, specifications and other technical documents and materials in respec
+of the Software,
+Ce man per ced in payat co idio entris grome as specified and further
+"Minesente in suin scie mere the setrical services provided by Ridero as
+RideCo Confidential
+President of the City Council of the
+City of Huntsville, Alabama
+Date:

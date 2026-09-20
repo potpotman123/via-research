@@ -1,0 +1,143 @@
+# source: raw/bleecker_drive/Cupertino/23_12042_A_-_Agreement_with_Nomad_Transit_LLC_Via.pdf
+# path: raw/bleecker_drive/Cupertino/23_12042_A_-_Agreement_with_Nomad_Transit_LLC_Via.pdf
+# hit page: 12 of 26
+# terms: Via+drivers, Via+fleet, Via+vehicles
+
+=== page 11 ===
+Deliverables: 
+Weekly and Bi-Weekly meetings 
+Meeting agendas, notes and action items 
+Task 1.3 Monthly Invoicing 
+The Consultant shall submit to the City Project Manager invoices monthly on or around the 20th of each 
+month to include expenses for the preceding month, with the billing period beginning and ending in the same 
+calendar month. 
+Invoices shall have supporting documentation that includes a list of hours by day by Driver Partner ID with 
+the associated applicable rate as well as a schedule showing the operating hours for the month. 
+Deliverables: 
+Monthly invoices 
+Supporting Billing Documentation 
+Task 1.4 General Project Management 
+Consultant will take responsibility for project management on a continuous basis during the course of the 
+project and will designate a Project Manager to coordinate all required deliverables and perform all work 
+described herein. The Consultant Project Manager will be empowered to enact decisions related to the 
+project on the Consultant's behalf, and will serve as primary point of contact with the City Project Manager 
+on an ongoing basis. The Consultant shall oversee subconsultant activities and will ensure that any 
+subcontracted staff performing tasks have the appropriate skill levels and credentials. 
+Consultant shall commit to attending in-person at least (3) City Council meetings or major Program related 
+events over the term of the Contract to provide staff support at key milestones, which may include service 
+Launch Events. The City will give the Consultant at least four ( 4) weeks advance notice of such events. 
+The City will also designate a Project Manager to be the primary point of contact for the Consultant 
+throughout the project duration. The Consultant shall keep the City Project Manager abreast of all 
+coordination related to the project with outside agencies with a direct connection to the City regarding 
+project funding, including both governmental agencies and private organizations, prior to any meeting with 
+any such outside agency or organization. 
+In addition, the Consultant will ensure the project team includes personnel with expertise in service scoping, 
+operations, driver onboarding, fleet maintenance, marketing, and data analytics. Leading up to the launch of, 
+and during the course of the Program, the Consultant's project team, led by its Project Manager, will be 
+closely engaged with the City in order to ensure that key project deliverables are provided in a timely 
+manner, and that learnings from the Program are incorporated into its optimization. 
+Onsite support (pre-launch): Consultant Project Manager will be onsite for at least one (1) week prior to 
+the Launch Date to oversee the implementation of the service. 
+Remote Support (post-launch): For the first month of service, the Consultant Project Manager will lead 
+weekly follow-up calls to review all aspects of the service with City personnel. The Consultant Project 
+Manager will also coordinate additional reviews of key operational topics as mutually decided upon by the 
+Consultant and the City. 
+Deliverables: 
+Attendance at minimum (3) Council meetings or other major events. 
+Onsite and remote support including regular calls 
+Management and oversight for subcontracts General project management 
+Task 2. Preliminary Service Planning, Design & Preparation Task 
+2.1 Project Kick-Off Meeting
+=== page 12 ===
+At start of pre-launch phase, Consultant shall hold a kick-off meeting with the City Project Manager and 
+relevant City personnel. The meeting will focus on establishing and introducing the Consultant and City 
+project teams, reviewing a work plan and schedule for pre- launch preparations, and beginning detailed work 
+on the Detailed Launch Plan & Service Parameters as defined below. 
+Deliverables: 
+Project Kick-off Meeting, including meeting agenda & notes 
+Task 2.2 Detailed Launch Plan & Service Parameters 
+Beginning with the Project Kick-off Meeting and extending throughout the pre-launch phase as necessary, 
+Consultant shall work closely with the City to jointly define and finalize all relevant parameters of the 
+service as outlined below. As part of this collaboration, quality of service standards for the service will be 
+mutually established in order to create a baseline for monitoring Consultant's performance. 
+Over the course of the project, decisions to change key parameters will be made collaboratively, and 
+Consultant will work with the City to continuously adjust and optimize the system's features and settings in 
+order to ensure it supports growing ridership. As such, the Baseline Service Parameters defined below may 
+be re-defined or adjusted by mutual agreement between the 
+City and Consultant either in advance of or after the Launch Date based on additional data or new 
+information collected. Any changes to the Program Service Parameters will be subject to mutual agreement 
+by the City and Consultant. 
+Baseline Service Parameters 
+Coverage Area 
+At Full Launch, the project will include the entire City of Cupertino as well as parts of Santa Clara, including 
+areas mutually agreed upon outside of the City limits, including Kaiser-Permanente Santa Clara, West Valley 
+Medical Center (PAMF), Sunnyvale Caltrain, Mountain View Caltrain and El Camino Hospital. Areas 
+deemed inaccessible, including gated areas, are excluded from the service area. The launch of the system 
+must serve the entire service area, however the Consultant may gradually deploy vehicles to balance efficient 
+coverage with quality of service as data is gathered in order to fine-tune deployment elements as ridership 
+grows. 
+Accessibility 
+Provision of Wheelchair Accessible Vehicles (WAV} 
+Upon receiving the Notice to Proceed, Consultant will commence development of a WA V fleet plan that 
+satisfies relevant Federal Transit Administration (FTA) and Americans with Disabilities Act (ADA) 
+requirements - including the equal provision of service to riders of all physical means. To fulfill this goal, 
+Consultant shall deploy appropriately-trained drivers operating taxi or livery vehicles, or dedicated vehicles 
+specifically deployed for the program. 
+To indicate their need for a WA V vehicle, a rider will select the "Wheelchair accessibility" option within 
+their profile in the Via app that will prompt the system to dispatch an appropriate vehicle each time the rider 
+makes a request (riders booking by phone would convey their need for a WA V vehicle to the dispatcher, 
+who would make a permanent note in the rider's account). A WA V option will be deployed no later than the 
+Launch Date. 
+Phone Booking Option 
+Via's technology is configured to allow a dispatcher to book rides on behalf of riders, allowing users of all 
+technological abilities and access levels to enjoy the same level of service as those with a smartphone 
+( except for the experience and convenience that is specific to in-app rider ordering and tracking). The 
+Consultant will provide as a feature of the service a phone number and a dedicated dispatcher to book and 
+coordinate rides for users without smartphones. A phone booking option will be available as part of the 
+service no later than the Launch Date.
+=== page 13 ===
+Customer Service 
+The Consultant shall provide high-quality customer service to both customers and driver partners during the 
+course of the Program. If an issue arises for a customer or driver before, during, or after a ride, parties will be 
+able to reach Consultant staff by text message in real time, or by submitting an email ticket, which will be 
+replied to promptly by Consultant staff. Riders who booked using the dedicated phone line will be able to 
+receive phone support as required. 
+Hours of Operation 
+The Program will operate Monday through Saturday, excluding holidays, for which a mutual decision 
+whether to operate will be made between the City and Consultant. The Consultant estimates the service will 
+operate from 7am - 7pm Monday - Friday, and 9am-5pm Saturdays, subject to change based on demand data 
+gathered during the initial launch period and subject to mutual decision between the Consultant and City. 
+The Program goal will be to provide operating hours as extensive and consistent as possible within the 
+reasonable cost, as mutually agreed upon between the Consultant and City. As it is the intent of the Program 
+to provide a reliable and predictable service, the Consultant shall seek to limit adjustments to the Hours of 
+Operation to those changes deemed necessary or intended to grow ridership or enhance service. 
+Fare Structure 
+It is the intent of the Program to provide a consistent, flat-fare transportation service that enables community 
+members of all incomes to access a convenient, high quality mobility option. The consumer cost to take a 
+ride using the Program shall be as follows in the fare structure below, unless otherwise mutually agreed upon 
+by Consultant and the City Project Manager: 
+Regular Fare (per trip): $3.50, with the option to reduce post launch as low as $2, as it relates to demand 
+generation and rider acquisition tactics and targets. 
+Rider +friends (additional riders added onto a users' trip request): Half the regular per trip fare per-person, up 
+to a maximum of four ( 4) riders under one (1) reservation (dependent upon vehicle capacity). 
+Weekly ViaPass: Set price per week, starting the first day of the first trip used. Offers up to a set number of 
+trips per-day, each operational day of the week. 
+Senior (ages 65+), disabled, low-income, and students discounted rate passes: Riders who are eligible and 
+submit necessary documentation shall receive 50% off all standard fares, including the Weekly ViaPass. 
+Consultant will work with City staff to determine appropriate fares for mutually agreed-upon out of zone 
+destinations, listed in Cupertino Service Area Map, Exhibit C. 
+Consultant will work with City staff on developing additional fare packages, such as a monthly pass, and 
+other ways to maximize fare-box recovery and increase ridership, including analyzing the benefit of rolling 
+out distance and/or time-based pricing as a lever to control demand, if necessary. 
+The City will be responsible for verifying whether riders qualify for discounted fares. The City will identify 
+simple methods of verification, such as student ID's for the student fare, or cards demonstrating that riders 
+qualify for existing low-income programs to simplify the verification process to the maximum extent 
+feasible. 
+Any changes to base ride cost will be made in response to service data, and with the intention of making the 
+service as efficient and cost-effective as possible while retaining service accessibility. The City will retain 
+full authority to approve any changes to the base ride cost range described above. 
+Fare payment options shall include payment by credit card submitted electronically through the Rider App or 
+submitted through the Via system when booking is made for a rider over the phone. 
+FleetN ehicles 
+Dedicated vehicles will be offered by the Consultant's chosen third-party vehicle provider ("Vehicle 
+Provider") to Driver Partners on a rental basis. The Vehicle Provider will offer a fleet ofup to thirteen (13)

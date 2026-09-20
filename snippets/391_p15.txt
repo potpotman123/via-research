@@ -1,0 +1,103 @@
+# source: raw/bleecker_drive/The Regional Transportation Commission of Southern Nevada/Agreement_No.pdf
+# path: raw/bleecker_drive/The Regional Transportation Commission of Southern Nevada/Agreement_No.pdf
+# hit page: 15 of 19
+# terms: Remix Technologies
+
+=== page 14 ===
+26-007 SUPPLY OF 
+REMIX SOFTWARE 
+ 
+13 
+ 
+REGIONAL TRANSPORTATION COMMISSION OF SOUTHERN NEVADA
+Agenda Item
+REGIONAL TRANSPORTATION COMMISSION OF SOUTHERN NEVADA
+Agenda Item
+Subject:
+Petitioner:
+Recommendation
+by Petitioner:
+R
+ecommendation
+by Petitioner:
+Agreement No. 26-007, Supply of Remix Software
+Sabrina Glenn, Senior Director of Fixed Route Services, RTC
+Approve
+Agreement
+No.
+26-007,
+Supply
+Docusign Envelope ID: 9FC3B236-97B3-4C67-BCCC-29F31330F1A2
+REGIONAL TRANSPORTATION COMMISSION OF SOUTHERN NEVADA
+Agenda Item
+=== page 15 ===
+26-007 SUPPLY OF 
+REMIX SOFTWARE 
+14 
+REGIONAL TRANSPORTATION COMMISSION OF SOUTHERN NEVADA
+Agenda Item
+Recommendation
+by Petit
+ioner:
+Appr
+ove
+of
+Remix
+FISCAL IMPACT:
+Funds in the amount of $77,250.00 are budgeted and available in the Transit Fund for Fiscal Year 2026.
+Funds will be budgeted in the same fund for future fiscal years.
+BACKGROUND INFORMATION:
+The Regional Transportation Commission of Southern Nevada (RTC) Information Technology (IT) and Fixed
+Route staff requests approval to enter into an agreement with Remix Technologies, LLC for annual
+software maintenance and renewals for the period from July 1, 2025, through June 30, 2030.
+Staff recommends approval.
+By: 
+RTC Legal Counsel 
+MARIN DUBOIS 
+Government Affairs Supervisor 
+Docusign Envelope ID: 9FC3B236-97B3-4C67-BCCC-29F31330F1A2
+REGIONAL TRANSPORTATION COMMISSION OF SOUTHERN NEVADA
+Agenda Item
+=== page 16 ===
+26-007 SUPPLY OF 
+REMIX SOFTWARE 
+15 
+REGIONAL TRANSPORTATION COMMISSION OF SOUTHERN NEVADA
+Agenda Item
+Agreement No. 26-007, Supply of Remix Software
+N
+o.
+R
+emix
+R
+emix
+Technologies, LLC in the not-to-exceed amount of $410,295.00 for the period of July
+1, 2025, through June 30, 2030, pursuant to Nevada Revised Statute 332.115.1(h),
+a
+nd authorize the Chair to sign (FOR POSSIBLE ACTION)
+F
+ISCAL IMPACT:
+Funds in the amount of $77,250.00 are budgeted and available in the Transit Fund for Fiscal Year 2026.
+Funds will be budgeted in the same fund for future fiscal years.
+B
+ACKGROUND INFORMATION:
+The Regional Transportation Commission of Southern Nevada (RTC) Information Technology (IT) and Fixed
+Route staff requests approval to enter into an agreement with Remix Technologies, LLC for annual
+software maintenance and renewals for the period from July 1, 2025, through June 30, 2030.
+S
+taff recommends approval.
+•
+Travel-time isochrone visualizations
+•
+Title VI Engine (US) - generate a service equity analysis in less than 10 minutes
+•
+Timetables – generate and customize time points and segment-level runtimes
+•
+Export timetables into excel
+•
+Consistent and regular product improvements / feature launches
+•
+Full Google ready GTFS creation and editing capabilities, including calendaring
+Docusign Envelope ID: 9FC3B236-97B3-4C67-BCCC-29F31330F1A2
+REGIONAL TRANSPORTATION COMMISSION OF SOUTHERN NEVADA
+Agenda Item

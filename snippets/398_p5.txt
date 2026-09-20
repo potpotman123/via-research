@@ -1,0 +1,165 @@
+# source: raw/bleecker_drive/Los Angeles/C-145937_c_08-05-2024...pdf
+# path: raw/bleecker_drive/Los Angeles/C-145937_c_08-05-2024...pdf
+# hit page: 5 of 80
+# terms: Remix Technologies
+
+=== page 4 ===
+On Call Professional Consultant Services 
+ii
+Department of Transportation 
+6.4. 
+Task Order Proposal Evaluation 
+20 
+6.5. 
+Selection and Non-Selection Notices 
+20 
+6.6. 
+Task Order Agreement 
+20 
+6.7. 
+Notice to Proceed 
+21 
+6.8. 
+Consultant Responsibilities 
+21 
+7.
+COMPENSATION AND INVOICING
+22 
+7.1. 
+Compensation 
+22 
+7.2. 
+Invoice Requirements 
+22 
+7.3. 
+Conditions for Payment 
+23 
+8.
+CHANGE ORDERS, DELETIONS OR ADDITIONS
+24 
+8.1. 
+Suggested Changes 
+24 
+8.2. 
+Request for Change 
+24 
+8.3. 
+Consultant Response to Change Order 
+24 
+8.4. 
+Task Order Agreement Revision 
+25 
+9.
+NON-EXCLUSIVE
+25 
+10. OWNERSHIP OF DOCUMENTS AND DISPLAYS
+25 
+10.1. Backup License
+26 
+11. CONFIDENTIAL INFORMATION
+26 
+12. STANDARD PROVISIONS FOR CITY CONTRACTS
+26 
+12.1. Indemnity: Design Professionals
+26 
+12.2. Insurance Requirements
+28 
+13. ENTIRE AGREEMENT
+28 
+13.1. Complete Agreement
+28 
+13.2. Number of Pages and Attachments
+28 
+13.3. Order of Precedence
+28 
+ATTACHMENTS AND EXHIBITS 
+Attachment A – Standard Provisions for City Contracts 
+Attachment B – Selected Firms by Service Category  
+Attachment C – On-Call Professional Consultant Services Hourly Rates Form 
+Attachment D – Sample Fee Schedule for Percentage of Completion Method 
+Attachment E – Sample Fee Schedule for Cost Reimbursement Hourly Billing Method 
+Exhibit A – Insurance Requirements
+=== page 5 ===
+On-Call Professional Consultant Services 
+Page 1 of 29 
+Department of Transportation 
+AGREEMENT NO. 
+BETWEEN  
+THE CITY OF LOS ANGELES 
+AND 
+REMIX TECHNOLOGIES, LLC 
+FOR ON-CALL PROFESSIONAL CONSULTANT SERVICES 
+This Agreement between the City of Los Angeles (hereinafter referred to as “City”), a municipal 
+corporation, acting by and through the Department of Transportation (hereinafter referred to as 
+“LADOT”), and Remix Technologies, LLC, a Delaware Corporation (hereinafter referred to as 
+“Consultant”), individually referred to as “Party” and collectively as “Parties”, is entered into with 
+reference to the following: 
+WHEREAS, the City has a need for various consulting services that are professional, expert, as needed, 
+and of occasional an nature to assist with varying temporary work assignments; and  
+WHEREAS, the City performed a Charter Section 1022 review and outreach and determined the work 
+could be performed more feasibly by independent contractors than by City employees; and  
+WHEREAS, on July 31, 2023, the City issued a Request for Qualifications (RFQ) to solicit responses from 
+firms or individuals interested in being recognized and placed on a pre-qualified services list of on-call 
+consultants; and  
+WHEREAS, Consultant submitted a response to the RFQ demonstrating qualification and experience in 
+one (1) or more of the requested service categories and City found Consultant’s response to satisfy the 
+requirements set forth in the RFQ; and  
+WHEREAS, the Consultant possesses the requisite skills, technologies, and proficiencies in a respective 
+area of specialty and has agreed to provide such services to the LADOT; and 
+WHEREAS, the City and Consultant desire to enter into an agreement to provide on-call professional 
+consultant services for a period of five (5) years; and 
+NOW, THEREFORE, in consideration of the above premises, and the mutual covenants and agreements 
+herein contained, the Parties agree as follows: 
+1. PARTIES TO THE AGREEMENT AND REPRESENTATIVES
+1.1. Parties to the Agreement
+The Parties to this Agreement are:
+1.1.1. City – The City of Los Angeles Department of Transportation, a municipal corporation, 
+having its principal office at 100 South Main Street, 10th Floor, Los Angeles, California, 
+90012.   
+C-145937
+=== page 6 ===
+On-Call Professional Consultant Services 
+ 
+Page 2 of 29 
+Department of Transportation 
+1.1.2. Consultant – Remix Technologies, LLC, a Delaware Corporation, having its principal 
+offices at 10 Crosby Street, Floor 2, New York, New York 10013. 
+ 
+1.2. Representatives of the Parties 
+ 
+The representatives of the parties who are authorized to administer this Agreement and to whom 
+formal notices, demands and communications will be given are as follows:  
+ 
+1.2.1. The City’s representative is, unless otherwise stated in the Agreement:  
+ 
+Laura Rubio-Cornejo, General Manager 
+Los Angeles Department of Transportation 
+100 South Main Street, 10th Floor  
+Los Angeles, California, 90012 
+ 
+With copies to:  
+ 
+Roy Cervantes, Chief Management Analyst  
+Los Angeles Department of Transportation   
+100 South Main Street, 10th Floor    
+Los Angeles, California, 90012 
+ 
+1.2.2. The Consultant’s representative is, unless otherwise stated in the Agreement:  
+Jane Tuszynski 
+Daniel Berkovitz, Strategy Associate 
+Vice President   
+Remix Technologies, LLC 
+10 Crosby Street, Floor 2   
+New York, New York 10013 
+ 
+1.2.3. The designated Project Manager for the City is: 
+ 
+      Lindsey Estes, Senior Management Analyst II   
+      Los Angeles Department of Transportation   
+      100 South Main Street, 10th Floor    
+      Los Angeles, California, 90012  
+ 
+1.3. Notices 
+ 
+Formal notices, demands and communications to be given hereunder by either party must be made 
+in writing (hardcopy or e-mail) and may be effected by personal delivery or by registered or certified

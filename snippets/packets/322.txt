@@ -1,0 +1,328 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Hillsborough County/Completed Contract File.pdf
+# pages_total: 199; hit_pages: [1, 3, 4, 5, 6, 8, 10, 11, 12, 32, 41, 99, 100, 101, 102, 104, 108, 110, 111, 113, 116, 117, 121, 122, 123, 124, 130, 131, 132, 134, 136, 146, 147, 149, 150, 151, 155, 156, 157, 162, 164, 177, 178, 179, 180, 181, 197, 198, 199]; included: [1, 4, 8, 151, 178]
+# context: Bleecker Drive folder: Hillsborough County
+
+=== page 1 of 199 ===
+Hillsborough
+County Florida
+Agenda Item Cover Sheet
+SM
+Agenda Item N° A-45
+Meeting Date 12/20/2023
+Consent Section
+Regular Section
+Public Hearing
+Subject: Award a five (5) year procurement to the highest-ranked and best qualified firm and execute
+the related Deployment Service Order for implementation, administration, and support of a
+new paratransit scheduling system (RFP-23-24177) for the Sunshine Line at a total cost of
+$860,825.00.
+Department Name:
+Procurement Services
+Contact Person:
+Scott Stromer
+Contact Phone:
+301-7095
+Sign-Off Approvals:
+Tom Fesler
+Assistant County Administrator
+Kevin Brickey
+Management and Budget -
+12/8/2023
+Date
+12/6/2023
+Date
+Approved as to Financial Impact Accuracy
+John Hollingshead
+Department Director
+Orlando Perez
+County Attorney -
+Approved as to Legal Sufficiency
+12/6/2023
+Date
+12/6/2023
+Date
+N/A
+N/A
+Deputy or Chief County Administrator
+Date
+Staff's Recommended Board Motion:
+Award a five (5) year procurement to the highest-ranked and best qualified firm, Via Transportation,
+Inc., d/b/a Via Mobility, LLC, and execute the related Deployment Service Order for the implementation,
+administration, and support of a new paratransit scheduling system (RFP-23-24177) for the Sunshine
+Line at a total cost of $860,825.00. Proposals were received from five (5) different proposers, all of
+which were thoroughly reviewed, scored, and ranked by the tending evaluation committee. In this case,
+the opportunity for proposers to receive five (5) bonus points by subcontracting a minimum of 10% of
+the ultimate fees to Certified Disadvantaged Minority/Disadvantaged Women Business Enterprises
+(DM/DWBE) was available; however, none of the proposers requested such points. Funding for this
+procurement is available in the requesting department's approved budget, and purchase orders will only
+be issued against approved budgets.
+Financial Impact Statement:
+Funding for this procurement is available in the requesting department's approved budget, and purchase
+orders will only be issued against approved budgets.
+Background:
+The recommended award amount is approximately 31.1% ($389,175.00) lower than the requesting
+department's annual estimate. Effective competition and transparency were achieved through the use of
+competitive sealed proposals for this procurement and the requesting department determined the offered
+pricing to be fair and reasonable. The recommended firm will install, implement, administer, and
+maintain a new paratransit scheduling system, which will include managing client eligibility, advance
+and real-time trip reservations, issuing bus passes, manual and fully automated trip scheduling,
+dispatching, automatic vehicle tracking, billing, and reporting. The resulting contract will be made
+available to the Hillsborough County Governmental Purchasing Council.
+DELEGATIONS TO DIRECTOR OF PROCUREMENT:
+[N] Unilateral Change Orders up to $25,000 for additions within the scope of the contract
+
+=== page 4 of 199 ===
+DocuSign Envelope ID: 2EA868C0-B16C-4F54-8139-F9C5611E9A02
+Customer Launch and Implementation Plan
+(a) General. Customer will operate and manage the Deployment as set forth in the Terms, Customer shall cooperate
+with Via as necessary for the purpose of setting up the Deployment and its specifications, including by providing
+prompt feedback to Via's inquiries and providing local insights, in order to meet mutually agreed upon deadlines.
+(b) Launch. Within one week of signing this Order, the Parties will mutually agree on the targeted launch date of the
+Deployment ("Launch"). Launch shall be no fewer than 12 weeks following execution of this Order.
+(c) Zone: Customer and Via will agree at least three months prior to launch on the exact geographical scope for the
+Deployment zone ("Deployment Zone"). Any changes or expansions to the Deployment Zone may result in
+(d) Support Requests. At the start of the project, Via will direct Customer towards the relevant CRM tools to log
+requests. In order to trigger a Product Maintenance request, requests for product maintenance must contain
+detailed information about the nature of the request. Requests for additional features may be subject to additional
+(e) Payment Processing. If Customer would like to process digital card payments, Via will facilitate an introduction
+to its recommended payment processor. The fees set forth above do not include any owed to the third party
+payment processor.
+Customer shall pay Via the following Fees for the Term, as set out below:
+Year 1
+Fee Category
+Installation Fee
+MDC Fee
+Amount
+$35,000
+Invoicing Terms
+Payable upon signing of this
+Order
+$99,400 estimated cost for 70 Samsung Galaxy Tab Payable upon purchase of
+S7 devices
+hardware; MDC Fee to be
+treated as a pass-through +10%
+Monthly Fees
+Per-vehicle fees
+Invoiced monthly by Via
+•
+$235 per vehicle per calendar month for
+vehicles 0-40
+•
+$185 per vehicle per calendar month for
+vehicles 40+
+Total Amount (12 Month
+Term)
+Years 2-5
+Fee Category
+Amount
+Ongoing Annual MDC Fees $31,500
+Monthly Fees
+Per-vehicle fees
+$247,200 assuming 40 vehicles (excluding additional Fees for any Additional
+Services)
+Invoicing Terms
+Payable at start of each year
+$250 per vehicle per calendar month for
+Invoiced monthly by Via
+vehicles 0-40
+Total Amount (per 12
+Month Term)
+$151,500 assuming 40 vehicles (excluding additional Fees for any Additional
+Services)
+Each month, Via will calculate the fees due and provide Customer with an invoice calculating the per-vehicle fees actually
+incurred based on the actual number of active vehicles used during the previous month.
+The Customer agrees that the sample invoice set out in Appendix 2 is satisfactory to Customer, both in substance and format.
+vent the duration of the Deployment does not exactly maich calendar months, monthly fees will be prorated for the first and/or last calendar months of the
+
+=== page 8 of 199 ===
+Notice of Intent to Award, RFP-23-24177, Paratransit Scheduling Software System
+POSTED: September 21, 2023
+Notice: Pursuant to Hillsborough County Ordinance 13-24, Protest Process and Procedures and Cone of Silence the bidder(s) identified are being recommended for contract award.
+Interested parties with a grievance pertaining to this procurement shall provide the County written notice no later than five (5) business days from the date the County posts this notice of
+intent to award. See following link for specific ordinance details: http://hcflgov.net/library/hillsborough/media-center/documents/Procurement%20Services/Procurement%20Manual/AppendixCC
+Total
+Quote/Cost Total
+Technical Evaluation
+ Technical approach 
+including proposed 
+system components, 
+implementation 
+plan, training and 
+support
+System capabilities 
+and ease of use.
+Proposer's 
+Qualifications 
+including 
+understanding of the 
+project requirements
+Proposer's 
+Organization 
+Experience.
+DM/DWBE/SBE 
+Bonus Points
+Supplier
+/ 105 pts
+/ 25 pts
+/ 75 pts
+/ 30 pts
+/ 20 pts
+/ 10 pts
+/ 15 pts
+/ 5 pts
+Via Transportation 
+Inc
+94
+25 ($860,825.00)
+69
+28
+17
+10
+14
+0
+Ecolane USA, Inc.
+91
+22 ($990,521.65)
+69
+28
+18
+10
+13
+0
+Spare Labs
+77
+21 ($1,008,114.90)
+56
+22
+15
+9
+10
+0
+HBSS Connect Corp
+70
+24 ($890,929.63)
+46
+18
+10
+8
+10
+0
+TripSpark 
+Technologies
+54
+16 ($1,349,562.90)
+38
+15
+10
+5
+8
+0
+Generated on Sep 19, 2023 9:57 AM EDT - Israel Segarra
+Page 1 of 1
+
+=== page 151 of 199 ===
+Option 1
+8" Tablets
+Option 2
+֜10" Tablets
+Year 1
+One-Time Fees
+Installation Fee ՄIncl.
+GTFS Integration)
+$35,000
+$35,000
+MDC Fee
+$42,490
+$99,400
+Recurring Fees
+Monthly Per-Vehicle
+Fees Մ40 Active
+Vehicles)
+$112,800
+$112,800
+Total Cost - Year 1
+$190,290
+$247,200
+Years 2՞5
+Recurring Fees
+Monthly Per-Vehicle
+Fees Մ40 Active
+Vehicles)
+$120,000
+$120,000
+Ongoing MDC Fees
+$17,850
+$31,500
+Ongoing Total Annual Cost
+$137,850
+$151,500
+Via’s fee structure is fully flexible and we welcome further discussion to determine a pricing
+strategy in line with the County’s goals and needs. For example, we can adjust our fee structure to
+charge more in upfront costs to reduce ongoing support fees, or vice versa.
+Below is our completed Cost Proposal Form, as required by the RFP, which provides additional
+details on the breakdown of our cost proposal for both hardware options.
+Proprietary, Confidential, and Trade Secret Information
+RFP‐23‐24177 | 48
+
+=== page 178 of 199 ===
+DocuSign Envelope ID: 2EA868C0-B16C-4F54-8139-F9C5611E9A02
+Customer Launch and Implementation Plan
+(a) General. Customer will operate and manage the Deployment as set forth in the Terms, Customer shall cooperate
+with Via as necessary for the purpose of setting up the Deployment and its specifications, including by providing
+prompt feedback to Via's inquiries and providing local insights, in order to meet mutually agreed upon deadlines.
+(b) Launch. Within one week of signing this Order, the Parties will mutually agree on the targeted launch date of the
+Deployment ("Launch"). Launch shall be no fewer than 12 weeks following execution of this Order.
+(c) Zone: Customer and Via will agree at least three months prior to launch on the exact geographical scope for the
+Deployment zone ("Deployment Zone"). Any changes or expansions to the Deployment Zone may result in
+(d) Support Requests. At the start of the project, Via will direct Customer towards the relevant CRM tools to log
+requests. In order to trigger a Product Maintenance request, requests for product maintenance must contain
+detailed information about the nature of the request. Requests for additional features may be subject to additional
+(e) Payment Processing. If Customer would like to process digital card payments, Via will facilitate an introduction
+to its recommended payment processor. The fees set forth above do not include any owed to the third party
+payment processor.
+Fees.
+Customer shall pay Via the following Fees for the Term, as set out below:
+Year 1
+Fee Category
+Installation Fee
+MDC Fee
+Monthly Fees
+Per-vehicle fees
+Amount
+$35,000
+Invoicing Terms
+Payable upon signing of this
+Order
+$99,400 estimated cost for 70 Samsung Galaxy Tab Payable upon purchase of
+S7 devices
+hardware; MDC Fee to be
+treated as a pass-through +10%
+$235 per vehicle per calendar month for
+Invoiced monthly by Via
+vehicles 0-40
+$185 per vehicle per calendar month for
+vehicles 40+
+Total Amount (12 Month
+Term)
+Years 2-5
+Fee Category
+Amount
+Ongoing Annual MDC Fees $31,500
+Monthly Fees
+Per-vehicle fees
+$247,200 assuming 40 vehicles (excluding additional Fees for any Additional
+Services)
+Invoicing Terms
+Payable at start of each year
+$250 per vehicle per calendar month for
+Invoiced monthly by Via
+vehicles 0-40
+Total Amount (per 12
+Month Term)
+$151,500 assuming 40 vehicles (excluding additional Fees for any Additional
+Services)
+Each month, Via will calculate the fees due and provide Customer with an invoice calculating the per-vehicle fees actually
+incurred based on the actual number of active vehicles used during the previous month.
+The Customer agrees that the sample invoice set out in Appendix 2 is salisfactory to Customer, both in substance and format.
+vent the duration of the Deployment does not exactly maich calendar months, monthly fees will be prorated for the first and/or last calendar months of the

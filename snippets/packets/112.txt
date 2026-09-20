@@ -1,0 +1,143 @@
+# source_url: https://actransit.legistar1.com/actransit/attachments/f76d1e17-5a46-46d9-b5cb-0789d072b1af.pdf
+# path: raw/cache/56a3edfd81a527c6cd658e3025b17ba837790afc.pdf
+# pages_total: 4; hit_pages: [1, 2, 3]; included: [1, 2, 3]
+# context: legistar client=actransit; matter 24-241 (2024-03-27): Consider authorizing the General Manager to execute a contract, jointly with the Bay Area Rapid Transit District (BART),  with Spare Labs Inc. (Spare) for Software-As-A-Service (SaaS), including turnkey implementation and support services, for the East Bay Paratransit Consortium (EBPC) for a seven-y
+
+=== page 1 of 4 ===
+ALAMEDA-CONTRA COSTA TRANSIT DISTRICT
+STAFF REPORT
+MEETING DATE: 4/24/2024
+Staff Report No. 24-241
+TO:
+AC Transit Board of Directors
+FROM:
+   Michael A. Hursh, General Manager/Chief Executive Officer
+SUBJECT:
+Contract Award: Paratransit System Software
+ACTION ITEM
+AGENDA PLANNING REQUEST:
+☐
+RECOMMENDED ACTION(S):
+Consider authorizing the General Manager to execute a contract, jointly with the Bay Area Rapid Transit
+District (BART),
+with Spare Labs Inc. (Spare) for Software-As-A-Service (SaaS), including turnkey
+implementation and support services, for the East Bay Paratransit Consortium (EBPC) for a seven-year term,
+inclusive of up to a two-year implementation period and a five-year operational period.
+Staff Contact:
+Ramakrishna Pochiraju, Executive Director of Planning & Engineering
+Ahsan Baig, Chief Information Officer
+STRATEGIC IMPORTANCE:
+Goal - Convenient and Reliable Service
+Initiative - Service Quality
+The new software platform will provide innovative features for East Bay Paratransit (EBP), such as dynamic
+vehicle optimization/routing to improve efficiency and reduce costs; expanded customer support and self-
+service functions such as trip booking and cancellation; improved efficiencies in the call center features and
+functions, and the ability to integrate micro-transit options as well as EBP’s contactless paratransit fare
+payment application.
+BUDGETARY/FISCAL IMPACT:
+The base contract cost is $4,074,000, including $1,520,000 for implementation during the first two years and
+$2,554,000 for operations and maintenance (O&M) over the remaining five years of the contract.
+The
+contract also includes an option to use Spare’s text-messaging (SMS) and interactive voice response (IVR)
+systems for an additional $492,000, which would bring the contract amount to $4,566,000.
+AC Transit is responsible for 69 percent of the total contract cost which is $3,150,540.
+The implementation costs and first four years of O&M costs, which are similar to the programmed capital
+ALAMEDA-CONTRA COSTA TRANSIT DISTRICT
+Printed on 4/18/2024
+Page 1 of 4
+powered by Legistar™
+
+=== page 2 of 4 ===
+MEETING DATE: 4/24/2024
+Staff Report No. 24-241
+expense of purchasing software, will be paid of out the capital budget. The remainder of the contract cost will
+be included in future operating budgets as a cost for Purchased Transportation.
+CONTRACT AWARD SUMMARY:
+BART took the lead on this procurement on behalf of the EBPC. The BART Board of Directors awarded the
+contract during its regularly scheduled meeting on April 11, 2024.
+Vendor Outreach Summary:
+No. DBE/SBEs:
+See below
+No. Registered Vendors:
+N/A
+Contract Summary:
+# Proposals/Bids Received:
+4
+Award Type:
+Best Value
+Independent Cost Estimate Range:
+$6,400,000
+Recommended for Award:
+Spare Labs, Inc.
+Small Business Type:
+Not Applicable*
+DBE/SBE Utilization %:**
+See Below
+* Neither SBE, nor DBE
+** The District sets Small Business Enterprise (SBE) goals on contracting opportunities. The Federal Transit Administration (FTA) may
+authorize a Disadvantaged Business Enterprise (DBE) goal; however, SBE goals may result in DBE awards and utilization.
+Levine Act Disclosure
+California Government Code § 84308, commonly referred to as the “Levine Act,” precludes an Officer of a local
+government agency from participating in the award of a contract if he or she receives any political
+contributions totaling more than $250 in the 12 months preceding the pendency of the contract award, and for
+three months following the final decision, from the person or company awarded the contract. This prohibition
+applies to contributions to the Officer, or received by the Officer on behalf of any other Officer, or on behalf of
+any candidate for office or on behalf of any committee. The Levine Act also requires disclosure of such
+contributions by a party to be awarded a specified contract. Disclosure is not required for contracts that are
+competitively bid.
+Pursuant to BART’s Non-Federal Small Business Program, the Office of Civil Rights set a 5% Small Business
+Prime Preference for this Agreement for Small Businesses certified by the California Department of General
+Services (DGS). It was determined that there were no certified Small Businesses certified by the DGS among
+the responsive Proposers and, therefore, the Small Business Prime Preference is not applicable.
+Pursuant to BART’s Non-Discrimination Program for Subcontracting, the Availability Percentages for this
+agreement are 8.4% for Minority Business Enterprises and 5.7% for Women Business Enterprises. Spare Labs
+Inc. will not be subcontracting any portion of the work and therefore, the provisions of BART’s Non-
+Discrimination Program for Subcontracting do not apply.
+BACKGROUND/RATIONALE:
+East Bay Paratransit Consortium (EBPC) is a partnership between the San Francisco Bay Area Rapid Transit
+District (BART) and AC Transit to provide federally-mandated paratransit services as required under the
+ALAMEDA-CONTRA COSTA TRANSIT DISTRICT
+Printed on 4/18/2024
+Page 2 of 4
+powered by Legistar™
+
+=== page 3 of 4 ===
+MEETING DATE: 4/24/2024
+Staff Report No. 24-241
+Americans with Disabilities Act (ADA) in the overlapping service areas of the two agencies.
+EBPC has been using the paratransit software solution “ADEPT” by StrataGen Systems since 2000 to manage
+paratransit eligibility and certifications, store user profiles, schedule rides for passengers, create route and trip
+manifests, and generate reports. This software is nearing its end-of-life and will soon be unsupported by the
+vendor. This procurement to replace the software was undertaken jointly by BART and AC Transit, with BART
+taking the lead. The BART Board of Directors approved the award of this contract to Spare Labs, Inc. during its
+regularly-scheduled meeting on April 11, 2024.
+The Request for Proposal (RFP) sought a software-as-a-service platform that requires minimal development
+and customization, and satisfies all features, functions, and services identified in the Paratransit Software
+Replacement Scope of Services and Technical Requirements of the RFP.
+The RFP was issued August 25, 2023. A pre-proposal meeting was held on September 7, 2023, and bids were
+submitted on October 17, 2023. Four (4) proposals were received from RideCo, Spare Labs, Inc., StrataGen
+Systems, and Trapeze Software Group, Inc.
+The Selection Committee was comprised of staff from both agencies, Transdev (the EBP Broker), TransSIGHT
+(technology consultants) and the Vice-President of Paratransit Operations of New York City. Following an
+extensive evaluation process including one-on-one interviews with numerous transit agencies, two firms
+advanced: Spare and Trapeze. Trapeze was later disqualified, and negotiations began with Spare. Spare
+submitted its Best and Final Offer on March 26, 2024.
+ADVANTAGES/DISADVANTAGES:
+The new software will provide innovative features such as dynamic vehicle optimization/routing to improve
+efficiency and reduce costs; expanded customer support and self-service functions such as trip booking and
+cancellation; improved efficiencies in the call center features and functions, and the ability to integrate micro-
+transit options as well as EBP’s contactless paratransit fare payment application.
+There are no disadvantages in the Board authorizing execution of the contract, jointly with BART, with Spare
+Labs, Inc.
+ALTERNATIVES ANALYSIS:
+The alternative to entering into the contract with Spare Labs, Inc. would be to reject its proposal and re-bid
+the software procurement. This would also impact BART, as its Board of Directors, authorized execution of the
+contract, assuming a multi-party agreement with AC Transit.
+PRIOR RELEVANT BOARD ACTION/POLICIES:
+22-353 - 2024 Board approval Comprehensive Investment Plan (CIP)
+ATTACHMENTS:
+None.
+ALAMEDA-CONTRA COSTA TRANSIT DISTRICT
+Printed on 4/18/2024
+Page 3 of 4
+powered by Legistar™

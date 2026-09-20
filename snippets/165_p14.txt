@@ -1,0 +1,134 @@
+# source: https://legistar.granicus.com/huntsvilleal/attachments/9800841b-3948-44e2-9e23-ef2ab1007faf.pdf
+# path: raw/cache/bbbdb020c072a8b6124814a71fc2748079790ca2.pdf
+# hit page: 14 of 37
+# terms: RideCo, Via+subscription
+
+=== page 13 ===
+RIDECO SUBSCRIPTION AND SERVICES AGREEMENT
+SCHEDULE "A"
+PROJECT TERMS AND INITIAL STATEMENT OF WORK
+Project Term: Commences on the Effective Date and shall run for an initial period of five (5) years
+from the launch date to passengers, with two (2) additional options to extend by a 1-year term at
+Customer's discretion, subject to agreement of applicable terms including the appropriate Fecs.
+Zone: Three (3) zones - 1) ADA zone, 2) Non-ADA zone and 3) City of Madison service area.
+Service model: Curb-to-curb (aka Door-to-Door)
+Vehicles: Up to 28 vehicles in peak service.
+Service Hours: To be determined by Customer
+Scope of Work:
+Project Management, Training, Software Requirements, and Data Reporting:
+manner.
+2.
+RideCo shall coordinate with Customer to refine and approve the service model, including specific
+stops, schedules, service coverage areas, and cost structure (including potential subsidization).
+• RideCo shall ensure adequate and complete training of initial operators, dispatchers, operation
+tanager(s), and Customer staff that are involved in the operation or monitoring of the servic
+Additional training sessions may be requested for an additional fee.
+4. RideCo will ensure that the functions listed in Software Functional Requirements (as outlined
+below) are met.
+5. RideCo and Customer will agree upon data reporting expectations and shall include daily ridership
+information, stop locations, use of referral or promotional codes, qualitative data collected from
+riders to capture travel preferences, and other data as mutually agreed.
+6. RideCo will work with Customer to coordinate a lest run of both the software application and service
+prior to commencement of public revenue service operations.
+7. RideCo will provide a standard daily KPI report, including data mutually agreed upon by Customer
+and RideCo. Custom reporting is out of scope but may be requested for an additional fee.
+8. RideCo will review data dashboard with Customer and transportation partners on weekly basis
+during the first month of revenue service operations and a monthly basis thereafter, during the
+Project Term.
+9. RideCo will periodically provide Customer with any recommendations for changes in stops, service
+hours, or promotions to ensure meeting project goals.
+10. RideCo will provide Customer with a final report summarizing their marke, operational findings,
+viability of long-term service, and recommendations. A presentation on the final report will be
+provided to Customer staff.
+Branding and Markcting:
+1. RideCo will brand the rider mobile application uniquely to the service. Customer will provide
+recessary graphics and content for RideCo to brand the application
+, RideCo will advise Customer in the marketing of the service to passengers, including providing
+examples of successful marketing materials from other client efforts.
+3. RideCo will configure and manage referral and promotional codes throughout, during the Project.
+RideCo Confidential
+Page 11 of 34
+=== page 14 ===
+RIDECO SUBSCRIPTION AND SERVICES AGREEMENT
+Software Functional Requirements:
+Passenger Application Requirements:
+Rider Account
+• Trip history menu to see trip details
+Start & end time
+• Starting & ending address
+• Trip cost (if applicable)
+• Help menu to provide feedback, or report other issue
+Reserved trip details
+Recent destinations are automatically saved to rider account
+Ride Booking and Tracking:
+• Ability to enter an address or select current or specific location on the map
+• Reserve multiple seats or seat types (e.g. accessible)
+• Reserve trips up to 5 business days in advance
+• Reserve multiple trips at once (same trip for multiple days in one week)
+• Retain recently queried locations so they are easy to pull up even if rider does not designate
+them as a "favorite"
+• Ability to restrict stop vs. doorstep drop-off and pick-up points
+Vehicle location, vehicle ID and driver information are displayed while waiting for pickup
+• Ability to call and/or leave a note for driver
+Payment
+Ability to hold credit card information and charge passengers for fares.
+• Ability to record and report on cash payments made to driver as well as on-board validation
+such as passes, transfers and/or tickets.
+• Place lo enter optional promotional codes.
+• Place lo enter promotional codes
+Rating System
+• Ride rating (e.g., | to 5 stars)
+Customer Support
+Legal/terms and conditions
+A place for Frequently Asked Questions (FAQs)
+• In app requests for support
+Customer service system that creates trackable tickets for follow up and resolution
+Ability to mask phone number when contacting driver
+Driver Application Requirements:
+Automatic trip dispatchin
+Dunamic routine capabilities to adjust vehicle allocation efficiently
+Make phone calls to a rider via anonymized phone number
+• Ability 10 launch turn-by-turn driving directions
+Opcrations Dashboard Requirements:
+• Dashboards accessible to operations coordinators and authorized individuals by the City
+RideCo Confidential
+Page 12 of 34
+=== page 15 ===
+RIDECO SUBSCRIPTION AND SERVICES AGREEMENT
+• Dashboard displays real-time data on riders, vehicles, drivers and service performance/Key
+Performance Indicators (KPIs). Data available includes:
+• Ridership
+Travel times
+Trip denial rate
+Booking abandonment rates
+On-time performance
+Trip and driver reviews
+Trip and driver comments
+• Ability to assign different user-level permissions and rights based on operator, seniority, or role.
+• The data gathered will be shared with / available to the operator or agency in multiple formats:
+o Dashboards to visualize rider, driver, and performance data, aggregated across a period
+or at an individual trip/driver level
+• Weekly and monthly performance reports provided in Excel, in a performance format to
+o Exports of the raw data (rides, vehicles, times, locations etc.) in CSV format that can be
+further analyzed by the operator or agency staff if they desire
+Software Security, Reliability & Privacy Requirements:
+• The passenger and driver apps are *stateless' and do not store any confidential passenger data on
+• All data is stored securely in the cloud (Amazon Web Services - 'AWS').
+• The passenger and driver apps communicate securely with the cloud-based platform using
+RESTful APls.
+• The software platform has a 99.9%t historical uptime performance record.
+• Data is encrypted in transit.
+• All public facing webservers have been hardened using industry standard practices.
+• Internal networks are shielded by security groups which define allowable ports and IP addresses
+for internal services.
+APis are all secured using token authentication using an identity management system. Toker
+e only valid for one user and can only be acquired by successfully authenticatine against a
+authentication APL. APis used by internal components are never exposed publicly. For certain
+API calls, throttling exists to prevent against DOS type attacks.
+• Daily backups of production databases for disaster recovery.
+Software does not store any payment card or billing information on company's server
+The mobile applications and operations dashboards include their own terms of service to en
+users that include provisions relating to data privacy, confidentiality, and intellectual property
+rights.
+RideCo Confidential
+Page 13 of 34

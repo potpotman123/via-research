@@ -1,0 +1,316 @@
+# source: raw/bleecker_drive/Denton County Transportation Authority/March 10, 2021 DCTA Board Packet.pdf
+# path: raw/bleecker_drive/Denton County Transportation Authority/March 10, 2021 DCTA Board Packet.pdf
+# hit page: 418 of 476
+# terms: Downtowner, RideCo, Spare Labs, Via+not to exceed, Via+not-to-exceed
+
+=== page 417 ===
+Informational Report 1, Exhibit 1.1
+Transit Agency
+Current Rate
+Net Payment
+This Period
+Comparable 
+Payment Prior Year
+% Change
+Payments YTD    
+(Calendar)
+Prior Year Payments 
+YTD (Calendar)
+% Change
+Austin MTA
+1.00%
+27,126,929
+$
+ 
+28,224,389
+$
+ 
+-3.88%
+48,349,069
+$
+ 
+49,749,081
+$
+ 
+-2.81%
+Corpus Christi MTA
+0.50%
+3,328,096
+$
+ 
+2,421,928
+$
+ 
+37.41%
+5,944,715
+$
+ 
+5,005,923
+$
+ 
+18.75%
+Dallas MTA
+1.00%
+67,587,453
+$
+ 
+68,668,102
+$
+ 
+-1.57%
+116,855,512
+$
+ 
+119,871,304
+$
+ 
+-2.51%
+Denton CTA
+0.50%
+3,356,939
+$
+ 
+3,191,714
+$
+ 
+5.17%
+5,974,820
+$
+ 
+5,379,934
+$
+ 
+11.05%
+El Paso CTD
+0.50%
+5,417,102
+$
+ 
+5,479,310
+$
+ 
+-1.13%
+9,402,977
+$
+ 
+9,404,480
+$
+ 
+-0.01%
+Fort Worth MTA
+0.50%
+8,731,284
+$
+ 
+8,745,093
+$
+ 
+-0.15%
+15,684,748
+$
+ 
+15,121,374
+$
+ 
+3.72%
+Houston MTA
+1.00%
+82,068,522
+$
+ 
+84,843,710
+$
+ 
+-3.27%
+143,220,301
+$
+ 
+147,398,481
+$
+ 
+-2.83%
+Laredo CTD
+0.25%
+914,595
+$
+ 
+924,487
+$
+ 
+-1.06%
+1,614,356
+$
+ 
+1,653,448
+$
+ 
+-2.36%
+San Antonio ATD
+0.25%
+7,857,954
+$
+ 
+7,686,347
+$
+ 
+2.23%
+13,608,653
+$
+ 
+13,336,781
+$
+ 
+2.03%
+San Antonio MTA
+0.50%
+17,421,898
+$
+ 
+17,100,899
+$
+ 
+1.87%
+30,166,975
+$
+ 
+29,606,292
+$
+ 
+1.89%
+TOTALS
+223,810,773
+$
+ 
+227,285,978
+$              
+-1.53%
+390,822,125
+$
+ 
+396,527,098
+$
+ 
+-1.44%
+Sources:   Texas Comptroller of Public Accounts and DCTA Finance Department
+Prepared By: Denton County Transportation Authority Finance Department
+February 11, 2021
+ALL TRANSIT AGENCIES 
+MONTHLY SALES AND USE TAX COMPARISON SUMMARY
+414
+=== page 418 ===
+Informational Report 1, Memo 2 
+ 
+Board of Directors Memo  
+ 
+ 
+ 
+ 
+                     March 10, 2021 
+SUBJECT: Monthly Mobility-as-a-Service Update 
+ 
+Background 
+A Request for Proposals (RFP) was released on January 16, 2019 for Mobility as a Service (MaaS).  Firms were invited 
+to submit proposals (for both federal and non-federal funding project categories) to provide innovative mobility 
+service to DCTA member cities, contract communities, partner organizations, as well as large employment centers 
+and other areas as the need arises.  On March 12, 2019, DCTA received thirty-seven (37) proposals in response to the 
+RFP.  Thirty-three (33) proposals were deemed responsive and were evaluated by the evaluation team.  The evaluation 
+team rejected two proposals that scored less than seventy (70) points and recommended award to thirty-one (31) 
+firms.  The Board of Directors approved the award of Mobility-as-a-Service to thirty-one firms and reduced the total 
+annual contract value of $2,400,000 to $75,000 for all task orders issued under the master on-call contracts. One of 
+the recommended firms will not execute a contract due to business operational changes; therefore, thirty (30) firms 
+remain eligible for contract execution.  As requested by the Board of Directors, staff is providing a monthly update 
+on all Mobility-as-a-Service commitments, activities and expenses.  
+ 
+To date, the following twenty-six contracts have been fully executed: 
+• 
+AJL International  
+• 
+Bird Rides  
+• 
+Bubbl Investments, LLC.  
+• 
+Dashboard Story dba DUET 
+• 
+DemandTrans Solutions 
+• 
+DoubleMap  
+• 
+Downtowner Holdings, LLC.  
+• 
+First Transit 
+• 
+Ford Smart Mobility, LLC.  
+• 
+Irving Holdings  
+• 
+Iteris  
+• 
+Kapsch 
+• 
+Lyft 
+• 
+Moovel 
+• 
+Moovit 
+• 
+MV Transportation  
+• 
+Muve: Quebec, Inc.  
+• 
+Quebec, Inc. dba Transit 
+• 
+RideCo  
+• 
+Rideshark Corporation  
+• 
+River North (Via)  
+• 
+Roundtrip 
+• 
+Routematch  
+• 
+Spare Labs, Inc.  
+• 
+Spare Labs, Inc. (with First 
+Transit)  
+• 
+Transdev North America 
+      
+The remaining four contracts, all with software companies (Passport, SeatsX, Token Transit and Transloc), have been 
+placed on hold until a need arises to enter into a contract for software.  
+ 
+Previous Board Activity & Action 
+Task Order #1 Lewisville Lakeway Zone and Denton Evening Zone was issued to Spart Labs, Inc. for Platform-
+as-a Service (Spare Platform).  The task order was approved for award at the June Board meeting and was issued 
+on 6/30/2020 for a not-to-exceed amount of $50,000 per year with an initial term of two years and one two-
+year option to extend (total of 4 years).  
+ 
+Task Order #2 On-Demand Services in Member Cities and Contracted Cities was discussed at the June Board 
+meeting and was presented at the September Board meeting to authorize negotiations with two firms.  January 
+2021, the Board approved and authorized staff to enter into a Task Order with River North (Via) to move 
+forward with the recommendations and implementation of an On-Demand Service plan.  Staff is working with 
+Via to finalize the Task Order.  
+ 
+Identified Need 
+Provides the Board of Directors a monthly status on Mobility-as-a-Service contracts 
+ 
+ 
+ 
+ 
+415
+=== page 419 ===
+Informational Item 1, Memo 2 
+Financial Impact 
+This item is included for informational purposes only; there is no financial impact associated with this item. 
+Recommendation 
+For information only. No action required 
+Exhibits 
+N/A 
+Submitted By: _________________________ 
+Athena Forrester, AVP of Regulatory Compliance 
+Final Review:  _________________________ 
+Marisa Perry, CPA, CFO/VP of Finance 
+Approval: 
+_________________________ 
+Raymond Suarez, CEO 
+416

@@ -1,0 +1,121 @@
+# source: raw/bleecker_drive/St. Lucie County/2449320_RFP_No_21-011_St_Lucie_County_Microtransit_Software.pdf
+# path: raw/bleecker_drive/St. Lucie County/2449320_RFP_No_21-011_St_Lucie_County_Microtransit_Software.pdf
+# hit page: 13 of 35
+# terms: Via+subscription
+
+=== page 12 ===
+PART III 
+ 
+SCOPE OF SERVICES 
+REQUIREMENTS FOR SLC’S MICROTRANSIT SOFTWARE 
+ 
+ 
+General 
+The  selected  technology  partner  will  provide  project  management,  implementation  and 
+simulation guidance, the microtransit technology, and trip data for SLC’s Connector On‐Demand 
+service.  The microtransit technology will allow riders to manage their transportation on this 
+service, while providing SLC and its microtransit contractor, MV Transportation, to access trip 
+data to evaluate the services. 
+In its response, the proposer is encouraged to detail its approach to each of the requirements 
+below.  For example, clear and transparent communication is critical to making its microtransit 
+service  attractive  to  riders.    Therefore,  the  proposer  should  describe  not  only  the  types  of 
+notifications that are built into the software but also how feasible it would be to expand the types 
+of notifications should an additional need materialize.  
+SLC  is  looking  to  build  a  trusting  relationship  with  the  selected  vendor  as  a  partner.    If  the 
+proposer does not have a particular required capability in a fully tested and deployed version of 
+the technology, the proposer should be transparent and admit as such; the proposer should not 
+state that it is in development.  Not having a specific required capability may not eliminate the 
+proposer from contention, but falsehoods or exaggerations will.  
+ 
+Data Access and Ownership 
+SLC requires full access to and ownership of all data associated with the microtransit service.  
+ 
+Trip Requests 
+In general, riders must have the ability to book their trip themselves via smartphone and via any 
+computer or mobile device with internet access. Trip booking must be available via standard web 
+browsers and from any commonly used internet‐enabled device.  Riders must also have the 
+ability  to  book  their  trip  by  calling  MV  Transportation’s  customer  service;  accordingly,  the 
+technology must provide a booking page for MV’s customer service staff to book rides on behalf 
+of customers who require assistance.  Also, the technology should enable a rider to request and 
+cancel subscription (regularly recurring) trips, advance trips (day before and earlier), same‐day 
+trips (on the day of service but not immediate response), and immediate response trips (come as 
+soon as possible). 
+At a minimum, the technology should: 
+ 
+ Provide a smartphone app for iOS and Android, available as a free download, to reserve, 
+cancel or update/modify trip requests. The app should be able to incorporate custom 
+branding of SLC and potentially any partnering funding sponsors.
+=== page 13 ===
+ Allow for riders to register for the service and reserve, cancel and modify/update trip 
+requests via desktop/laptop computers.  Proposers should describe the registering and 
+on‐boarding process.  
+ Allow for riders without a smart phone or without access to a computer and the internet 
+to call in their requests; SLC’s microtransit service contractor, MV Transportation, will 
+staff a call center for this purpose.  Hence, the staff will need a way to load the called‐in 
+request  into  the  system.    Proposers  in  their  proposal  should  describe  the  features 
+available for staff to enter called in requests.  For example: 
+o Does the system identify a list of possible riders from a partial name? 
+o Does the system have other ways to auto‐populate associated information for a 
+rider, e.g., home address, comments, phone number, default or past drop‐off 
+addresses, mobility aid, etc. 
+o Does the system identify a list of possible addresses from partial addresses? 
+o Does the system recognize common locations?  
+o Does the system allow the identification of a location by pointing and clicking on 
+a map?  And does the map have zoom‐in and zoom‐out capabilities? 
+o Does  the  system  have  “quick  access”  buttons  on  the  booking  screen  to  view 
+calendar, rider bookings (including double and conflicting bookings), rider profile, 
+etc. 
+ Accommodate advance‐request and other same‐day rides requested up to 48 hours in 
+advance; for advance trips requests, allow the rider to define a range of acceptable pick‐
+up times, e.g., 10:00 to 11:00 am, for the date of travel.  While it is expected that most 
+riders will request a trip “in real time” (that is, for immediate fulfillment), the system 
+should accommodate other same‐day trips, advance trips, and subscription trips (see 
+below).  Also,  please  indicate  whether  a  user  is  able  to  schedule  all  booking  legs 
+simultaneously, or whether the rider must schedule each leg one by one. 
+ Also  accommodate  “subscription”  or  “standing  order”  requests,  such  as  a  weekday 
+commuting trip or a 3‐day a week dialysis trip, made at the same time and taken between 
+the  same  origin  and  destination.    Proposers  should  indicate  whether  or  not  the 
+technology has the ability for a rider to enter a start and end date for the subscription 
+trip.  In addition, if such a subscription trip exists, it should be easy for the rider to put 
+that trip “on hold” in case of sickness or vacation. 
+ Have the ability to choose from a list of favorite/past locations (including “home”) and 
+location names for which the address is unknown to the rider.  SLC will make available 
+this data from the Transloc software used in the pilot.  Describe how the rider designates 
+pick‐up and drop‐off locations.
+=== page 14 ===
+ Have the ability to use a rider’s current location as the origin of a trip. 
+ Have the ability to “push” a requested pick‐up location to an SLC‐identified stop.  It is 
+anticipated that the microtransit service will provide curb to curb service for pick‐up and 
+drop‐off  points  identified  by  the  rider.    For  some  locations,  however,  it  may  be 
+problematic for the vehicle to park safely to pick‐up or discharge a passenger.  For such 
+locations, the system must inform the rider that a nearby alternative location has been 
+identified by the system.   
+ Allow riders with mobility devices to enter the mobility device or service animal as part 
+of their request.  Riders who require a wheelchair accessible vehicle should be able to 
+request  one.    Driver  must  be  notified  of  this  information  as  well  as  any  accessibility 
+equipment that will be needed for that trip. 
+ Allows riders to indicate that they will be bringing with them a service animal and/or a 
+companion. 
+ Provide a trip ID to the rider upon trip confirmation, and for immediate trips, notify the 
+rider  as  to  the  expected  ETA.    Proposers  should  describe  what  other  information  is 
+provided to the rider upon trip confirmation. 
+ For all trips, provide the rider with vehicle tracking within two (2) minutes of vehicle 
+arrival and notify the rider when the vehicle assigned to the trip is in the vicinity and 
+traveling toward the rider’s desired location (imminent arrival), and notify the rider when 
+the vehicle has arrived at the requested location.  The technology should also provide 
+vehicle tracking while the rider is on‐board. 
+ Accommodate “walk‐on” riders. 
+ Notify riders of an emergency situation / service suspension. 
+ The proposer’s technology that interfaces with riders must meet or exceed WCAG level 
+AA accessibility standards for web content.  The proposer’s app must be designed in 
+accordance with app development standards published by Apple for its iOS platform and 
+by Google for the Android platform, allowing riders with disabilities, including those who 
+are blind or visually impaired who use screen readers and other assistive technology to 
+access the proposer’s technology. 
+ Allow riders to share both real‐time and post‐trip feedback and rate various aspects of 
+the trip just taken.  While not essential, proposer should describe any additional survey 
+capabilities to obtain general feedback from riders. 
+ Accommodate in‐app marketing capabilities. 
+ 
+Driver Information and Driver/Dispatcher Interface 
+The Proposer’s technology must:

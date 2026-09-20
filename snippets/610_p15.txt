@@ -1,0 +1,129 @@
+# source: raw/bleecker_drive/City of Norman/ITEM-Attachment-001-5dd10c600aad47c78619f616d072ec4a.pdf
+# path: raw/bleecker_drive/City of Norman/ITEM-Attachment-001-5dd10c600aad47c78619f616d072ec4a.pdf
+# hit page: 15 of 25
+# terms: Via+fleet, Via+licensing, Via+vehicles
+
+=== page 14 ===
+that the sample invoice form set forth on Exhibit B is satisfactory to City, both in substance and 
+format, and sufficient to process invoicing such that questions regarding invoice or invoice support 
+format will not delay payment to Consultant. If City requires additional invoice support, Consultant 
+can use best efforts to provide it, and additional costs may apply.  
+ 
+Should changes in applicable federal, state or local law result in a significant change in 
+Consultant’s costs, Consultant or City may opt to renegotiate the ongoing monthly fees. Should 
+changes in applicable market dynamics result in an increase in Consultant’s cost per hour of 10% 
+or more to any of the following categories, compared to costs at the time of contract signing, 
+Consultant may amend the ongoing on-demand vehicle hour rate accordingly: 
+● Labor (driver pay) 
+● Vehicle rental 
+● Fuel 
+  
+Should Consultant elect to adjust the per vehicle hour rate, supporting documentation of the 
+relevant cost increases will be provided to City, and the contract will be amended to reflect the 
+new Fee structure and per vehicle hour rate so that, at the discretion of the City, either: 
+1. The total not-to-exceed contract value is adjusted such that the total not-to-exceed number 
+of vehicle hours remains unchanged, or 
+2. The total not-to-exceed number of vehicle hours is adjusted such that the total not-to-
+exceed contract value remains unchanged. 
+ 
+Fare Revenue  
+Fare revenue collected (net of processing fees), will be reflected as a credit on the City’s invoice 
+on a one month lag. 
+ 
+Launch Delay 
+If the Launch Date is delayed for more than a month by City for any reason, City shall be 
+responsible for paying Consultant for any actual out of pocket costs incurred by Consultant in 
+preparation for launch (the “Upfront Costs”) and a $2,000 technology fee for the cost of 
+maintaining the technology infrastructure for City’s deployment during the period of delay (the 
+“Technology Fee”).  The Upfront Costs shall be payable within thirty days from the date City 
+notifies Consultant of the delay and the Technology Fee shall be payable monthly at the beginning 
+of the month in which it is incurred. 
+  
+4. Service Parameters 
+  
+Consultant will provide access to a platform service (the “Platform”) through which Riders will be 
+able to book and pay for rides on a shared and on-demand basis; and dedicated vehicles will be 
+offered by the Vehicle Provider to Driver Partners on a rental basis.  
+  
+DocuSign Envelope ID: AF22D6C9-3063-4196-BEFB-79BD22904046
+=== page 15 ===
+● Geographic Coverage Zone: Approximately 15.1 square miles coverage zone in 
+Norman, OK with an approximate shape as indicated in the image below. The final zone 
+will be determined by mutual agreement between City and Consultant. 
+ 
+● Service Days/Hours: 7:00 PM to 1:00 AM on Monday through Saturday; 10:00 AM to 
+6:00 PM on Sundays 
+● Rider Fare: The rider fare will be $2.00. During the duration of the launch process and 
+the Pilot, rider fare may be amended by mutual agreement between City and Consultant. 
+● Payment: Consultant will ensure acceptance of Rider payment through the app via credit 
+cards and pre-paid debit cards.  
+● Payment: The Vehicle Provider will offer a fleet of up to four (4) branded, licensed and 
+insured vehicles, to be made available to independent contractor Driver Partners, who will 
+be able to gain access to these vehicles after being registered onto the Platform. One of 
+these four (4) vehicles will be treated as a spare vehicle, which will only be used if one of 
+the core fleet vehicles becomes inoperable. If the branded vehicle fleet is not sufficient to 
+meet service requirements for any reason, Consultant may supplement the fleet with a 
+temporary fleet that would include other makes and models, as necessary in order to 
+increase the supply of vehicle hours. Such vehicles may be unwrapped and identified by 
+magnets. 
+ 
+During the Term of the Agreement, Service Parameters may be modified based on mutual 
+agreement between City and Consultant. City shall be responsible for any cost incurred by 
+Consultant as a result of such changes.  
+ 
+Consultant will ensure the execution of the necessary registrations and licensing to perform the 
+Services, with the cooperation and assistance of the City. 
+ 
+Parking: City shall identify and make available a depot or parking lot with ample overnight parking 
+(at minimum 7 spaces) for the dedicated fleet along with spaces for Driver Partners’ personal 
+vehicles. The depot/lot must be in a safe and lighted area inside the boundaries of the service 
+zone 
+  
+ 
+ 
+DocuSign Envelope ID: AF22D6C9-3063-4196-BEFB-79BD22904046
+=== page 16 ===
+5. Project Team & Governance 
+  
+Consultant will be responsible for the integration of all relevant elements of the Pilot on a 
+continuous basis during the course of the Pilot and will designate a project manager for this 
+purpose (the “Consultant Project Manager”) who will lead Consultant’s Project Team.  City will 
+designate a project manager to be the primary point of contact with Consultant throughout the 
+duration of the Pilot (the “City Project Manager”).  The Consultant Project Manager will be in 
+regular contact with the City Project Manager through informal and scheduled project meetings.   
+  
+The Consultant Project Manager will be empowered to enact day-to-day decisions related to the 
+Services and will serve as the primary point of contact with the City Project Manager on an 
+ongoing basis.  The Consultant Project Manager will appoint members to the Project Team to 
+assist in the integration of the various elements of the Pilot, to include personnel with expertise in 
+service scoping, independent contractor driver outreach and registration to the Platform, fleet 
+maintenance procurement, marketing, and data analytics.  For the avoidance of doubt, the 
+Consultant Project Manager will have no power to serve notice or amend the Agreement, or this 
+Order. 
+  
+Leading up to the launch of, and during the course of the Pilot, Consultant’s Project Team, led by 
+the Consultant Project Manager, will liaise with the City Project Manager over the key deliverables 
+of this Order and to endeavor to maximize ongoing service optimization. 
+  
+6. Driver Partner Registration & Supply Management 
+  
+Consultant will source Driver Partners to provide transportation services to City through the 
+Platform. Consultant will engage in a good faith effort to register Norman residents as Driver 
+Partners.  
+  
+Consultant will ensure that Driver Partners have appropriate licenses, permits, and insurance 
+required for the type of vehicles being operated.  As part of Driver Partner registration for 
+access to the Platform, all Driver Partners will be introduced to Consultant with the following 
+areas covered: familiarization with the Pilot service areas; hours of service; City’s expectations 
+as set out in the Norman Microtransit Pilot Program RFP and Via’s proposal; use of the Driver 
+App; and reporting incidents and delays in service. 
+  
+Consultant will be responsible for ensuring that there is adequate driver supply for each service 
+zone within designated hours to meet demand with optimal quality of service, given constraints. 
+  
+7. Rider and Driver Partner Support 
+  
+Consultant will ensure the provision of customer service and support for Driver Partners and 
+Riders on issues that arise in connection with use of the Platform.  
+  
+DocuSign Envelope ID: AF22D6C9-3063-4196-BEFB-79BD22904046

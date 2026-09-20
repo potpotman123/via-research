@@ -1,0 +1,370 @@
+# source_url: https://cityofcommerce.legistar1.com/cityofcommerce/attachments/2f95cf23-5c17-4113-bb02-656bbe5bd189.pdf
+# path: raw/cache/594b80e919b4d28aced5a31cea026b29bbd623ff.pdf
+# pages_total: 29; hit_pages: [1, 2, 3, 4, 5, 6, 8, 9, 12, 24, 26, 27, 28, 29]; included: [1, 3, 8, 9, 12, 26]
+# context: legistar client=cityofcommerce; matter 14-4272 (2021-07-13): Agreement with Via Mobility, LLC, to Provide On-Demand Transit Software Technology to Improve Transit Service at the City’s Metrolink Station and Dial-A-Ride Program
+
+=== page 1 of 29 ===
+PROFESSIONAL SERVICES AGREEMENT 
+ 
+ 
+ 
+This agreement ("Agreement") is made as of July 20, 2021 (“Effective Date”), by and 
+between the City of Commerce, a California municipal corporation ("City"), and Via Mobility a 
+New York limited liability Corporation ("Consultant").  City and Consultant are sometimes 
+hereinafter individually referred to as a "Party" and collectively referred to as the "Parties." 
+ 
+ 
+R E C I T A L S  
+ 
+ 
+WHEREAS, City desires to utilize the services of Consultant as an independent contractor 
+providing the services outlined in the Scope of Services attached hereto as Exhibit A; and 
+ 
+ 
+WHEREAS, the Consultant represents that it is fully qualified to perform such consulting 
+services by virtue of its experience and the training, education, and expertise of its principals and 
+employees. 
+ 
+ 
+NOW, THEREFORE, in consideration of the performance by the parties of the covenants 
+and conditions herein contained, the parties hereto agree as follows: 
+ 
+1. 
+Company's Scope of Services.  The nature and scope of the specific services to be 
+performed by the Consultant are as described in Exhibit A. 
+ 
+2. 
+Term of Agreement.  This agreement shall commence on July 20, 2021 (the 
+"Commencement Date") and shall remain and continue in effect until tasks described in Exhibit 
+A is completed, but in no event later than July 20, 2024, unless sooner terminated pursuant to the 
+provisions of this agreement.   
+ 
+3. 
+Compensation. 
+ 
+ 
+A.  City agrees to compensate Consultant for services under this Agreement in compliance 
+with the schedule outlined in Exhibit A.  Consultant shall submit invoices in the form and manner 
+specified by City.  Each invoice shall include a breakdown of all monthly services performed 
+together with the hours spent on each service.  Consultant shall maintain appropriate and 
+necessary documentation supporting the invoices detailing the type of service provided.  It shall 
+be available for review by City at all reasonable times upon request.   
+ 
+ 
+B.  Total payment to Consultant pursuant to this agreement shall not exceed One Hundred 
+Twenty-One Thousand Seven Hundred Dollars ($121,700).  
+ 
+ 
+C.  If at the request of City, Consultant is required to incur out of pocket expenses (including 
+but not limited to, out-of-town travel and lodging) which are above and beyond the ordinary costs 
+associated with the performance of this Agreement, Consultant shall be entitled to reimbursement 
+of such expenses.   
+ 
+Consultant shall only be reimbursed for those expenses which: (I) appear on Consultant's monthly 
+invoices; (II) are accompanied by a copy of City's written authorization for Consultant to incur such 
+expenses; and (III) receipts documenting such expenses. 
+ 
+ 
+DocuSign Envelope ID: 1081S57D-3SS8-4C31-9CF4-85D53991AS43
+
+=== page 3 of 29 ===
+EXHIBIT A – SCOPE OF SERVICES AND COMPENSATION SCHEDULE 
+ 
+1. Solution Overview 
+For Commerce, Via Mobility LLC (or “Via”) proposes to deliver our Software-as-a-Service 
+(SaaS) solution, a comprehensive On-Demand Transit platform that meets or exceeds 
+every requirement outlined in the City’s Request for Proposal (“RFP – On Demand 
+Transit Software Technology”). Powered by our backend algorithms for scheduling 
+shared rides and dynamically routing vehicles, our solution will deliver an exceptional 
+user experience for riders, drivers, and system administrators. Please ﬁnd additional 
+detail on each system component in our RFP. At a high level, Via’s SaaS solution includes 
+all of the features and support services outlined in the RFP: 
+ 
+ 
+2. Implementation Plan 
+From designing and launching over 200 on-demand transit services, Via understands 
+that exceptional project management is key to the success of any deployment. We 
+take an agile approach to both product development and project governance: we 
+rapidly test and iterate ideas, communicate frequently with our partners, and 
+incorporate feedback without causing downstream delays. Through productive 
+partner communication and nimble project management, our team meets deliverables 
+within agreed-upon timelines while maintaining the ﬂexibility to course-correct as 
+necessary. Backed by our team of 350 algorithm experts, product managers, systems 
+administrators and developers, along with 350 data scientists, operations and growth 
+marketing experts, and transportation planners, Via will provide Commerce with an 
+experienced launch team to oversee all implementation tasks: 
+• 
+Routing and matching algorithms for 
+automated trip scheduling and dynamic 
+vehicle routing, with parameters conﬁgurable 
+to Commerce’s preferences 
+• 
+Rider App and intuitive web portal for 
+customers to book and plan multimodal trips, 
+manage reservations, easily pay fares, and 
+receive service updates 
+• 
+Driver App that provides drivers with turn-
+by-turn navigation and seamless 
+communication 
+• 
+Administrative tools for overseeing 
+service operations and providing 
+customer support 
+• 
+Data reporting with granular trip data and 
+performance trends to support the City’s 
+planning 
+• 
+Ongoing Partner Success and technical 
+support services to ensure the successful 
+continued operation of our platform 
+DocuSign Envelope ID: 1081S57D-3SS8-4C31-9CF4-85D53991AS43
+
+=== page 8 of 29 ===
+launch 
+module
+4. Updated Price Proposal 
+Below, please ﬁnd an updated price proposal with waived hardware costs. 
+ 
+Installation Fee 
+ 
+ 
+One-time fee payable 50% at signing and 50% at launch 
+ 
+ 
+ 
+ 
+Localization for new zone 
+ 
+ 
+Optimize dynamic vehicle routing and real-time passenger 
+aggregation algorithm; conﬁgure backend (billing, 
+payment, and database); build detailed map; input traﬃc 
+model; deﬁne service zone, including pickup and dropoﬀ 
+points; update monitoring tools 
+Service design consulting 
+System design and simulation services 
+ 
+Co-brand rider app 
+Co-branded app, "Powered by Via" 
+Testing and quality assurance Remote and on-the-ground testing of all Via systems before 
+ 
+Develop service model 
+Build a launch plan and user acquisition strategy 
+Train personnel and oversee 
+launch 
+Instruction for drivers, dispatchers, and managers in Via‘s best 
+practices; onsite and remote launch support 
+ 
+Total Installation Fee (List 
+Price) 
+$50,000 
+Special Discount for the City of 
+Commerce 
+-60% 
+Total Installation Fee 
+(Discounted) 
+$20,000 
+ 
+Monthly Per Vehicle Fees (5 Vehicle Monthly Minimum 
+Per vehicle per month 
+ 
+Access to tech modules 
+Access to Via's tech stack, including rider, driver, and backend 
+ 
+Fleet optimization 
+Dynamic and predictive routing and supply rebalancing 
+Virtual bus stop architecture 
+Maintenance and update of optimal pick-up points 
+Automatic product upgrades   Receive regular software updates 
+Cloud hosting and third-party Amazon Web Services, Twilio, and analytics and communications 
+tools 
+software tools 
+Expert operations and growth Includes oﬀsite service optimization and data-driven marketing 
+support 
+consulting 
+DocuSign Envelope ID: 1081S57D-3SS8-4C31-9CF4-85D53991AS43
+
+=== page 9 of 29 ===
+Analytics and reporting 
+Robust real-time, periodic, and custom reporting 
+ 
+Year 1 Year 2 Year 3 
+ 
+Monthly Fee per Vehicle - 
+Vehicles 1-5 
+      
+Monthly Fee per Vehicle - 
+Vehicles 6-10 
+$550 $565 
+$580 
+$500 $515 
+$530 
+Monthly Fee per Vehicle - 
+Vehicles 11+ 
+$450 $465 
+$480 
+ 
+Per Ride Fees 
+Per ride, billed monthly 
+ 
+Fee per Ride 
+Waived 
+ 
+Illustrative Total Cost 
+5-vehicle ﬂeet 
+ 
+5 vehicles Includes discounted installation fee and 
+monthly per vehicle fees 
+5 vehicles Includes monthly per vehicle fees only 
+(inﬂation + innovation index applied) 
+5 vehicles Includes monthly per vehicle fees 
+only (inﬂation + innovation index 
+applied) 
+ 
+Incremental Hardware Costs (if applicable) 
+Please note Via’s hardware costs do not include 
+cellular data plans. Billed on a per unit basis 
+ 
+ 
+ 
+ 
+Note: Via's driver software is compatible with any recent iOS or Android 
+device, should Commerce prefer to use existing tablets. 
+ 
+C O N F I D E N T I A L 
+ 
+ 
+Year 
+Year 
+Year 
+Fee per Hardware Package 
+Includes android device (Galaxy Tab A 8.4" or similar), 
+case, mount, and installation 
+$476 
+WAIVED 
+for 5 
+vehicles 
+$53,000 
+$33,900 
+$34,800 
+DocuSign Envelope ID: 1081S57D-3SS8-4C31-9CF4-85D53991AS43
+
+=== page 12 of 29 ===
+liability exclusion for claims or suits by one insured against another.  The policy 
+must include contractual liability that has not been amended.  Any endorsement 
+restricting standard ISO "insured contract" language will not be accepted. 
+ 
+(II) 
+Consultant shall maintain Business Auto Coverage on ISO Business Auto 
+Coverage Form CA 00 01 covering bodily injury and property damage for all activities 
+of the Consultant arising out of or in connection with Work to be performed under this 
+agreement, including coverage for any owned, hired, non-owned or rented vehicles, 
+in an amount not less than $1,000,000 combined single limit for each accident.   
+ 
+(III) 
+Consultant shall maintain Workers' Compensation Insurance (Statutory 
+Limits) and Employer's Liability Insurance with on a state approved policy form 
+providing statutory benefits as required by law with employer's liability limits no less 
+than $1,000,000 per accident for all covered losses; 
+ 
+(IV) 
+Consultant shall maintain Professional Liability or Errors and Omissions 
+Insurance that covers the services to be performed in connection with this 
+agreement, in the minimum amount of $1,000,000 per claim and in the aggregate.  
+Any policy inception date, continuity date, or retroactive date must be before the 
+Effective Date of this Agreement and Consultant agrees to maintain continuous 
+coverage through a period no less than three (3) years after completion of the 
+services required by this agreement. 
+ 
+B.  City, its officers, officials, employees and volunteers shall be named as additional 
+insureds on the policy(ies) as to commercial general liability and automotive liability. 
+ 
+C.  All insurance policies shall be issued by an insurance company currently 
+authorized by the Insurance Commissioner to transact business of insurance or is on the 
+List of Approved Surplus Line Insurers in the State of California, with an assigned 
+policyholders' Rating of A- (or higher) and Financial Size Category Class VI (or larger) in 
+accordance with the latest edition of Best's Key Rating Guide, unless otherwise approved 
+by the City's Risk Manager. 
+ 
+D.  All insurance policies shall provide that the insurance coverage shall not be non-
+renewed, canceled, reduced, by the insurance carrier without the insurance carrier giving 
+City thirty (30) days' prior written notice thereof.  Any such thirty (30) day notice shall be 
+submitted to City via certified mail, return receipt requested, addressed to "Director of 
+Human Resources & Risk Management," City of Commerce, 2535 Commerce Way, 
+Commerce, California, 90040.  Consultant agrees that it will not cancel, reduce or otherwise 
+modify said insurance coverage. 
+ 
+E.  Consultant shall submit to City (I) insurance certificates indicating compliance with 
+the minimum worker's compensation insurance requirements above, and (II) insurance 
+policy endorsements indicating compliance with all other minimum insurance requirements 
+above, not less than one (1) day prior to beginning of performance under this Agreement.  
+Endorsements shall be executed on City's appropriate standard forms entitled "Additional 
+DocuSign Envelope ID: 1081S57D-3SS8-4C31-9CF4-85D53991AS43
+
+=== page 26 of 29 ===
+City of Commerce – Transportation Department 
+RFP For On-Demand Transit Software Technology  
+ 
+38 
+ 
+ 
+ 
+CERTIFICATION OF RESTRICTIONS ON LOBBYING 
+ 
+ 
+I,  
+            
+                               ,hereby certify on 
+(Name) 
+(Title) 
+ 
+behalf of  
+that: 
+(Firm) 
+ 
+(1) No Federal appropriated funds have been paid or will be paid, by or on behalf of the 
+undersigned, to any person for influencing or attempting to influence an officer or 
+employee of any agency, a Member of Congress, an officer or employee of Congress, or 
+an employee of a Member of Congress in connection with the awarding of any Federal 
+contract, the making of any Federal grant, the making of any Federal loan, the entering 
+into of any cooperative agreement, and the extension, continuation, renewal, 
+amendment, or modification of any Federal contract, grant, loan, or cooperative 
+Agreement. 
+ 
+(2) If any funds other than Federal appropriated funds have been paid or will be paid to any 
+person for influencing or attempting to influence an officer or employee of any agency, a 
+Member of Congress, an officer or employee of Congress, or an employee of a Member 
+of Congress in connection with this Federal Contract, grant, loan, or cooperative 
+Agreement, the undersigned shall complete and submit Standard Form-LLL, "Disclosure 
+Form to Report Lobbying," in accordance with its instructions. 
+ 
+This certification is a material representation of fact upon which reliance is placed when this 
+transaction was made or entered into. Submission of this certification is a prerequisite for 
+making or entering into this transaction imposed by Section 1352, Title 31, US Code. Any 
+person who fails to file the required certification shall be subject to a civil penalty or not 
+less than $10,000 and not more than 
+$100,000 for each such failure. 
+ 
+ 
+Dated   
+ 
+  
+ 
+(Name) 
+ 
+ 
+(Title) 
+ 
+ 
+            (Firm) 
+Manager
+Erin Abrams
+Via Mobility, LLC
+Erin Abrams
+Manager
+Via Mobility, LLC
+DocuSign Envelope ID: B7FDD403-7BF1-40CA-8A53-B323C499B84A
+6/9/2021
+DocuSign Envelope ID: 1081S57D-3SS8-4C31-9CF4-85D53991AS43

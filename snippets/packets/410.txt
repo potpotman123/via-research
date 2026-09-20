@@ -1,0 +1,51 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Utah Transit Authority/Contract Modification On-Demand Technologies and Innovative Mobility Services (River North Transit LLC DBA Via) Contract Modification 05-02.pdf
+# pages_total: 3; hit_pages: [1, 3]; included: [1, 3]
+# context: Bleecker Drive folder: Utah Transit Authority
+
+=== page 1 of 3 ===
+Docusign Envelope ID: 8AA0B1AD-10C0-432B-BA48-19342E81FC43
+AMENDMENT NO. 2 TO
+SERVICE ORDER NO. 5 UNDER THE
+ON-DEMAND TECHNOLOGIES AND INNOVATIVE MOBILITY SERVICES
+MASTER SERVICES AGREEMENT
+UTA Contract No. 20-03399-5-2
+1. Amendment
+On January 1, 2024, each of River North Transit, LLC ("Via") and the Utah Transit Authority
+("UTA" or "Customer"), hereinafter collectively referred to as the "Parties," entered into Service
+Order No. 5 (the "Service Order") under UTA Contract No. 20-03399 (the "MSA") to establish
+an on-demand transit deployment ("Deployment") in South Davis County, Utah and Southern Salt
+Lake County, Utah, which was subsequently amended to increase the NTE to account for fuel
+charges on April 25, 2024.
+By Amendment No. 1, the Parties agreed to increase the NTE to include fueling costs
+By this Amendment No. 2, the Parties agree to amend the Service Order as follows:
+NTE Increase: the Not-to-Exceed fees, detailed in Appendix C of the Service Order, shall be
+increased by $400,437 to $23,130,090. This NTE will cover additional service hours for 2025.
+The two pricing tables in Appendix C shall be deleted in their entirety and replaced with the
+two tables below.
+
+=== page 3 of 3 ===
+Docusign Envelope ID: 8AA0B1AD-10C0-432B-BA48-19342E81FC43
+IN WITNESS WHEREOF, the Parties hereto have caused this Amendment No. 2 to be executed
+in duplicate as of the date first herein written.
+Via: River North Transit, LLC
+Customer: Utah Transit Authority
+- Signed by:
+Alex Lavoie
+12/17/2024
+A16X 13981€
+Manager or River North Transit, LCC
+Jay Fox
+Executive Director
+Nichol Bourdeaux
+Chief Planning and Engagement Officer
+Hal Johnson
+Director, Innovative Mobility Solutions
+Recommending:
+Shaina Quinn, Program Manager
+- DocuSigned by:
+Mike Bill
+ĐE33А415B444F6
+Mike Bel
+Assistant Attorney General
+UTA Counsel

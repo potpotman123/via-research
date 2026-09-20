@@ -1,0 +1,49 @@
+# source_url: https://austintexas.legistar1.com/austintexas/attachments/50271f8e-2706-4495-84f8-a9c037bd2d42.pdf
+# path: raw/cache/97bd34a5011fc8ee08ba6fe3e500e73052f65514.pdf
+# pages_total: 2; hit_pages: [1]; included: [1]
+# context: legistar client=austintexas; matter 23-3306 (2023-10-23): Authorize negotiation and execution of a contract for cloud-based street design software services with Via Transportation Inc./Remix Technologies LLC, d/b/a Remix Technologies, for up to five years, for a total contract amount not to exceed $475,000.     [Note: Sole source contracts are exempt from 
+
+=== page 1 of 2 ===
+City of Austin
+Recommendation for Action
+301 W. Second Street
+Austin, TX
+File #: 23-3306, Agenda Item #: 43.
+11/30/2023
+Posting Language
+Authorize negotiation and execution of a contract for cloud-based street design software services with Via
+Transportation Inc./Remix Technologies LLC, d/b/a Remix Technologies, for up to five years, for a total
+contract amount not to exceed $475,000.
+[Note: Sole source contracts are exempt from the City Code Chapter 2-9B (Minority-Owned and Women-
+Owned Business Enterprise Procurement Program); therefore, no subcontracting goals were established].
+Lead Department
+Financial Services Department.
+Client Department(s)
+Transportation and Public Works Department.
+Fiscal Note
+Funding in the amount of $100,225 is available in the Fiscal Year 2023-2024 Operating Budget of the
+Transportation and Public Works Department.
+Funding for the remaining contract term is contingent upon available funding in future budgets.
+Purchasing Language:
+Sole Source.
+For More Information:
+Direct questions regarding this Recommendation for Council Action to the Financial Services Department -
+Central Procurement at: FSDCentralProcurementRCAs@austintexas.gov or 512-974-2500.
+Additional Backup Information:
+This contract will provide unlimited licenses for the cloud-based street design software, Remix Street. Remix
+Street is a planning platform for public transit that allows for collaboration between teams, provides tools to
+develop new street design concepts, make data-driven decisions, and move early-stage infrastructure projects
+forward. Some of Remix Street Technology’s unique specifications include initial concepts pulling in
+OpenStreetMap data to auto-populate existing road conditions, opacity controls to clearly see satellite imagery
+while designing, and advanced editing tools to create curves, tapers, and complicated intersections with
+precision.
+Via Transportation Inc./Remix Technologies LLC d/b/a Remix Technologies is the manufacturer and sole
+distributor of Remix Street Technology.
+Contract Details:
+Contract Term
+Length of Term
+Contract Authorization
+City of Austin
+Printed on 11/17/2023
+Page 1 of 2
+powered by Legistar™

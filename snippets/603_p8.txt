@@ -1,0 +1,145 @@
+# source: raw/bleecker_drive/City of Galveston/19367.pdf
+# path: raw/bleecker_drive/City of Galveston/19367.pdf
+# hit page: 8 of 19
+# terms: Via+SaaS, Via+licensing
+
+=== page 7 ===
+●
+Designed for collaboration and communication:​ Remix Transit is designed 
+to assist the planning process. Plans created in Remix can be shared easily 
+with internal and external stakeholders via a hyperlink. Remix Transit 
+includes several collaborative tools, including text annotations, the ability to 
+drag and drop transit routes across maps, and shared organization-wide 
+settings that are customizable per agency. Projects made in Remix Transit 
+are easy to export with Remix’s “Presentation Studio” into 
+presentation-ready visuals for public outreach or marketing. Read-only 
+versions of projects can be shared with external stakeholders like members 
+of the community with a URL. Those with the URL can leave comments on 
+projects while project owners are able to view said comments in Remix, or in 
+their inbox, or export them into a .CSV.  
+ 
+●
+Intuitive and easy-to-use:​ Due to the intuitive design of Remix Transit, most 
+new users can start planning in Remix after a single two-hour training. The 
+software’s ease-of-use allows multiple departments within an agency to 
+leverage Remix as a shared language across teams. 
+ 
+●
+Champions open data standards and is data-agnostic: ​Remix champions 
+open data standards to minimize the agencies’ cost of transforming data and 
+to ensure interoperability with other systems. Over the years, the Remix 
+team has made significant contributions to leading transportation data 
+standards so that a broader ecosystem of technology and tooling exists to 
+help the transportation industry. The Remix platform is also data-agnostic, 
+which means it is able to ingest data from both proprietary and public 
+sources for visualization and analysis. Remix’s fully-integrated pipelines and 
+dedicated data team support over 3,000 datasets to date, including 
+ridership, origin-destination data, collisions, and more. 
+ 
+●
+Increased data discoverability with a complementary product experience, 
+Remix Explore:​ Remix Explore is a product experience that adds additional 
+value to Remix Transit by helping agencies discover transportation data 
+insights quickly. With Remix Explore, agencies can rapidly pull relevant 
+statistics and combine and analyze datasets to uncover multimodal insights, 
+allowing agencies to plan transit in the context of community demographics 
+and as part of the complete transportation picture.  
+ 
+2
+=== page 8 ===
+●
+Immediate setup: ​Upon completing a fully executed contract, Remix can 
+implement and provide agency access to accounts right away. There is no 
+on-premise installation or download required, and trainings are 
+flexibly-scheduled based on the availability of agency staff.  
+ 
+●
+(US Agencies) Default data layers:​ Remix provides immediate value to 
+agencies with out-of-the-box data layers for rapid demographic and equity 
+analysis. Default data layers include demographic data from the American 
+Community Survey (ACS), jobs data from the Longitudinal 
+Employer-Household Dynamics (LEHD) and Census Transportation Planning 
+Product (CTPP), origin-destination data from Origin-Destination 
+Employment Statistics (LODES), essential services data with Homeland 
+Infrastructure Foundation-Level Data (HIFLD), infrastructure data with the 
+Bureau of Transportation Statistics (BTS), and political boundaries data with 
+Community Development Financial Institutions Fund (CDFI Fund) and 
+Census.   
+ 
+●
+Unlimited users and technical support:​ One agency license includes access 
+for an unlimited number of users without the worry of maintenance, hosting, 
+or software updates. Users access Remix via a username/password with no 
+installation or downloads necessary. Remix Software, Inc. maintains the 
+technology infrastructure and releases new features for Remix Transit, 
+available immediately to active customers. Remix also provides unlimited 
+customer support for no additional charge.  
+ 
+●
+Wide range of imports and exports to promote interoperability:​ As a SaaS 
+product, Remix Transit is designed to work with existing agency tools and 
+processes, and the licensing is designed to support maximum collaboration. 
+Users can import and export existing information to GTFS for scheduling, 
+modeling, and other service planning purposes. Other exports include 
+Microsoft Excel, KML, shapefile, PNG images, as well as print-ready visuals 
+in PDF. 
+ 
+Detailed Specifications 
+Remix Software, Inc warrants that it is the manufacturer and sole provider of the 
+Remix software platform. Furthermore, Remix Software, Inc. warrants that they are 
+3
+=== page 9 ===
+the only source for setup and customization, training, and customer support services 
+for the Remix software.  In summary, Remix Transit provides the following features: 
+●
+Fast and accurate sketch planning using existing stop infrastructure, 
+including:  
+○
+Stops database built on latitude and longitude of existing stops, stop 
+IDs, stop names 
+○
+Routes served at each stop 
+○
+Quickdraw, which detects stops on the correct side of the road at 
+the appropriate spacing  
+○
+Exportable stops in: shapefile, Microsoft Excel, KML (Google Earth), 
+and GTFS formats  
+●
+Instant demographic impact analysis using the latest US Census data 
+from the American Community Survey:   
+○
+Minority (people who are non-White or of Hispanic origin), 
+Population (people living per square mile), Poverty (people falling 
+below the nationwide poverty level), Car-free (households with no 
+vehicle available), Senior (people 65 or older), Youth (people 18 
+years or younger), Disabled (people who have a disability) and 
+Limited English (household with limited English speaking status) 
+○
+Jobs data provided from the Longitudinal Employer-Household 
+Dynamics (LEHD) with specific Origin/Destination data from LEHD 
+Origin-Destination Employment Statistics (LODES) 
+○
+Unlimited custom data layers in shapefile format (upon request), 
+such as: stop amenities, historical ridership aggregated, 
+origin/destination overview, flex zones, and jurisdictional/political 
+boundaries.  
+●
+Instant origin-destination analysis using Longitudinal 
+Employer-Household Dynamics (LEHD) and Census Transportation 
+Planning Product (CTPP):  
+○
+Interactive jobs and commuters data to display origin-destination 
+patterns  
+●
+Instant analysis and modification of transit routes with interactive bus 
+graphs, including: 
+○
+Run time, headways, average speed traveled, number of buses 
+required for route 
+○
+Annual cost of operation, annual revenue hours, annual revenue 
+miles  
+○
+Length of route, layover, efficiency analysis  
+4

@@ -1,0 +1,88 @@
+# source: raw/bleecker_drive/Suffolk County/Via - Getting Microtransit Right.pdf
+# path: raw/bleecker_drive/Suffolk County/Via - Getting Microtransit Right.pdf
+# hit page: 12 of 26
+# terms: Via+vehicles
+
+=== page 11 ===
+Data-driven service design and
+computer modeling reduces risk
+VIa
+Via's microtransit experts have thought through service planning challenges in virtually every
+kind of environment: big cities, small towns, resort communities, car-oriented suburbs, and
+even rural areas. After providing more than twenty-five million microtransit rides and collecting
+billions of data points, they know what it takes to analyze a new market and scope out a
+successful service. Via's data scientists and operations professionals work with transit agencies
+to de-risk their microtransit investments by getting answers to key questions:
+• How can microtransit most effectively complement existing service?
+• What are the most attractive use-cases for current customers?
+• How can microtransit service attract new riders?
+• How many vehicles are needed to achieve a compelling quality of service
+(QoS), measured in terms of pickup and trip times?
+• How much should riders pay per trip?
+• What would success look like in terms of total ride volume, service productivity
+(passengers/vehicle/hour), cost-effectiveness, and QoS?
+Via's methodology combines an agency's available ridership and performance data, mapping
+and demographic analysis, computer simulation using Via's real-time passenger aggregation
+and dynamic vehicle routing algorithm, and the practical experience Via has accumulated
+modeling and implementing microtransit around the world. At the end of this interactive
+exercise, the agency will have a vetted service model — built upon Via's industry-leading best
+practices — that is ready to pilot.
+VIO
+=== page 12 ===
+Here's how the
+consultative planning and
+modeling process works:
+VIa
+© WAITING
+МіННі
+А міни
+Step 1 | General Assessment
+The agency describes issues or shortcomings with
+existing services, offers preliminary ideas about how
+microtransit can be integrated into its network, and
+provides a few basic descriptive inputs, like the number of
+vehicles available (including their capacities) and the
+number of budgeted vehicle hours. If this information isn't
+available, Via works with the agency's team to develop the
+stabilizing assumptions needed to scope and model
+microtransit service.
+Step 2 | Analysis
+Via layers technical inputs and assumptions about customer
+expectations onto the basic vision for the service in order to
+identify the most attractive use-case(s) for microtransit. This
+entails analyzing the local physical environment, sorting
+areas by land use-type, size, and density, and mapping
+points of interest according to their functional roles for
+residents.
+→
+12
+=== page 13 ===
+WAITING
+A thin
+ЕД
+A in 6
+VIa
+Step 3 | Simulation
+Via's algorithm team, many of which are former military
+operations analysts (some of whom hold PhDs in physics
+and math), tailors the microtransit algorithm to the specific
+characteristics of the potential operating areas, including
+traffic speeds and congestion patterns, in order to model
+utilization and QoS in a range of scenarios.
+Via generates a comprehensive menu of service model
+options where microtransit could complement - and even
+integrate with — an agency's existing services, generating
+new ridership, capturing new operational efficiencies, and
+driving fare revenue.
+Step 4 | Custom Report
+Via shares an initial report for feedback from the relevant
+agency stakeholders. Once the most promising possibilities
+are identified, the simulations are rerun in order to test the
+viability of the shortlisted models, adjusting assumptions
+where necessary based on feedback.
+Step 5 | Final Recommendation
+Via provides a revised report that highlights the most
+realistic microtransit service outcomes, giving the agency
+the clarity needed to move into the implementation process
+with confidence.
+13

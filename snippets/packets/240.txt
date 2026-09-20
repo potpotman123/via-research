@@ -1,0 +1,402 @@
+# source_url: https://denver.legistar1.com/denver/attachments/3b08e67e-403b-4049-933d-df19a44d8b1a.pdf
+# path: raw/cache/d9bbf72a447993ffe87373b22633daae189c3305.pdf
+# pages_total: 112; hit_pages: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 21, 23, 24, 25, 26, 27, 28, 29, 31, 32, 33, 34, 35, 36, 37, 39, 40, 41, 42, 43, 44, 45, 46, 47, 50, 51, 52, 53]; included: [2, 6, 28, 32, 40, 50]
+# context: legistar client=denver; matter 24-1443 (2024-10-14): A resolution approving a proposed Contract between the City and County of Denver and Montbello Downtowner, LLC to provide microtransit program services in Montbello, Gateway, Globeville, Elyria-Swansea, and west Denver.  Approves a contract with Montbello Downtowner, LLC for $5,991,681 and 3 years t
+
+=== page 2 of 112 ===
+MONTBELLO DOWNTOWNER, LLC
+DOTI-202475705-00
+2
+MILLION NINE HUNDRED AND NINETY-ONE THOUSAND SIX HUNDRED AND 
+EIGHTY-ONE DOLLARS AND NO CENTS ($5,991,681.00) for fees.  Amounts billed may 
+not exceed the rates set forth in Exhibit B.
+b.
+Reimbursable Expenses:   There are no reimbursable expenses allowed 
+under the Agreement. All of the Contractor’s expenses are contained in the rates in Exhibit B.
+c.
+Invoicing:  Consultant shall provide the City with a monthly invoice in a 
+format and with a level of detail acceptable to the City including all supporting documentation 
+required by the City.  The City’s Prompt Payment Ordinance, §§ 20-107 to 20-118, D.R.M.C., 
+applies to invoicing and payment under this Agreement.
+d.
+Maximum Contract Amount: 
+(1)
+Notwithstanding any other provision of the Agreement, the City’s 
+maximum payment obligation will not exceed FIVE MILLION NINE HUNDRED AND 
+NINETY-ONE THOUSAND SIX HUNDRED AND EIGHTY-ONE DOLLARS AND NO 
+CENTS ($5,991,681.00) (the “Maximum Contract Amount”).  The City is not obligated to 
+execute an Agreement or any amendments for any further services, including any services 
+performed by Consultant beyond that specifically described in Exhibit A.  Any services 
+performed beyond those in Exhibit A are performed at Consultant’s risk and without 
+authorization under the Agreement. 
+(2)
+The City’s payment obligation, whether direct or contingent, 
+extends only to funds appropriated annually by the Denver City Council, paid into the Treasury of 
+the City, and encumbered for the purpose of the Agreement.  The City does not by this Agreement 
+irrevocably pledge present cash reserves for payment or performance in future fiscal years.  The 
+Agreement does not and is not intended to create a multiple-fiscal year direct or indirect debt or 
+financial obligation of the City. 
+5.
+STATUS OF CONSULTANT:  The Consultant is an independent contractor 
+retained to perform professional or technical services for limited periods of time.  Neither the 
+Consultant nor any of its employees are employees or officers of the City under Chapter 18 of the 
+Denver Revised Municipal Code, or for any purpose whatsoever.  
+6.
+TERMINATION: 
+Docusign Envelope ID: C130DEF8-ED45-45DB-8D9F-3099A1D21A35
+
+=== page 6 of 112 ===
+MONTBELLO DOWNTOWNER, LLC
+DOTI-202475705-00
+6
+f.
+Workers’ Compensation/Employer’s Liability Insurance:  Consultant 
+shall maintain the coverage as required by statute for each work location and shall maintain 
+Employer’s Liability insurance with limits of $1,000,000 per occurrence for each bodily injury 
+claim, $100,000 per occurrence for each bodily injury caused by disease claim, and $1,000,000 
+aggregate for all bodily injuries caused by disease claims.  Consultant expressly represents to the 
+City, as a material representation upon which the City is relying in entering into this Agreement, 
+that none of the Consultant’s officers or employees who may be eligible under any statute or law 
+to reject Workers’ Compensation Insurance shall effect such rejection during any part of the term 
+of this Agreement, and that any such rejections previously effected, have been revoked as of the 
+date Consultant executes this Agreement.
+g.
+Commercial General Liability:  The Contractor shall maintain a 
+Commercial General Liability insurance policy with limits of $1,000,000 for each occurrence, 
+$1,000,000 for each personal and advertising injury claim, $2,000,000 products and completed 
+operations aggregate, and $2,000,000 policy aggregate. Policy shall not contain an exclusion for 
+sexual abuse, molestation or misconduct.
+h.
+Business Automobile Liability:  Consultant shall maintain Business 
+Automobile Liability with limits of $1,000,000 combined single limit applicable to all owned, 
+hired and non-owned vehicles used in performing services under this Agreement.
+i.
+Technology Errors & Omissions including Cyber Liability: Contractor 
+shall maintain Technology Errors and Omissions insurance including cyber liability, network 
+security, privacy liability and product failure coverage with minimum limits of $1,000,000 per 
+occurrence and $1,000,000 policy aggregate. The policy shall be kept in force, or a Tail policy 
+placed, for three (3) years.  
+j.
+Excess/Umbrella Liability: Contractor shall maintain excess liability 
+limits of $2,000,000. Coverage must be written on a “follow form” or broader basis. Any 
+combination of primary and excess coverage may be used to achieve required limits.
+10.
+DEFENSE AND INDEMNIFICATION
+a.
+Consultant agrees to defend, indemnify, reimburse and hold harmless City, 
+its appointed and elected officials, agents and employees for, from and against all liabilities, 
+claims, judgments, suits or demands for damages to persons or property arising out of, resulting 
+Docusign Envelope ID: C130DEF8-ED45-45DB-8D9F-3099A1D21A35
+
+=== page 28 of 112 ===
+10/10/2024
+Bullington Insurance Group LLC.
+14502 N Dale Mabry Hwy Suite 200
+Tampa, FL 33618
+License #: 203970
+Kim Bayer
+(813)248-6800
+(813)248-6877
+info@bigins.net
+00000714-0
+8
+Downtowner App, LLC & Montbello Downtowner, LLC
+515 N Flagler Dr
+Ste 350
+West Palm Beach, FL 33401
+CRC Group
+A
+Y
+Y
+ESM0039938746
+4/20/2024
+4/20/2025
+Per claim
+$1,000,000
+CRC Group
+A
+Y
+Y
+ESM0039938746
+4/20/2024
+4/20/2025
+Cyber Liability/Tech E&O 
+Cyber Liability/Tech E&O
+Aggregate
+$1,000,000
+City and County of Denver
+Dept. of Transportation & Infrastructure
+201 W Colfax Ave., Dept. 608
+Denver, CO 80202
+(KIM)
+Printed by KIM on 10/10/2024 at 01:07PM
+ANY PROPRIETOR/PARTNER/EXECUTIVE
+OFFICER/MEMBER EXCLUDED?
+INSR
+ADDL SUBR
+LTR
+INSD WVD
+DATE (MM/DD/YYYY)
+PRODUCER
+CONTACT
+NAME:
+FAX
+PHONE
+(A/C, No):
+(A/C, No, Ext):
+E-MAIL
+ADDRESS:
+INSURER A :
+INSURED
+INSURER B :
+INSURER C :
+INSURER D :
+INSURER E :
+INSURER F :
+POLICY NUMBER
+POLICY EFF
+POLICY EXP
+TYPE OF INSURANCE
+LIMITS
+(MM/DD/YYYY)
+(MM/DD/YYYY)
+AUTOMOBILE LIABILITY
+UMBRELLA LIAB
+EXCESS LIAB
+WORKERS COMPENSATION
+AND EMPLOYERS' LIABILITY
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES  (ACORD 101, Additional Remarks Schedule, may be attached if more space is required)
+"Contract # 202475705"
+"Certificate holder is listed as an additional insured with a waiver of subrogation."
+"As required by written contract, the City and County of Denver, its Elected and Appointed Officials, Employees and Volunteers 
+are included as Additional Insured"
+AUTHORIZED REPRESENTATIVE
+EACH OCCURRENCE
+$
+DAMAGE TO RENTED
+CLAIMS-MADE
+OCCUR
+$
+PREMISES (Ea occurrence)
+MED EXP (Any one person)
+$
+PERSONAL & ADV INJURY
+$
+GEN'L AGGREGATE LIMIT APPLIES PER:
+GENERAL AGGREGATE
+$
+PRO-
+POLICY
+LOC
+PRODUCTS - COMP/OP AGG
+$
+JECT
+OTHER:
+$
+COMBINED SINGLE LIMIT
+$
+(Ea accident)
+ANY AUTO
+BODILY INJURY (Per person)
+$
+OWNED
+SCHEDULED
+BODILY INJURY (Per accident)
+$
+AUTOS ONLY
+AUTOS
+HIRED
+NON-OWNED
+PROPERTY DAMAGE
+$
+AUTOS ONLY
+AUTOS ONLY
+(Per accident)
+$
+OCCUR
+EACH OCCURRENCE
+$
+CLAIMS-MADE
+AGGREGATE
+$
+DED
+RETENTION $
+$
+PER
+OTH-
+STATUTE
+ER
+E.L. EACH ACCIDENT
+$
+E.L. DISEASE - EA EMPLOYEE $
+If yes, describe under
+E.L. DISEASE - POLICY LIMIT
+$
+DESCRIPTION OF OPERATIONS below
+INSURER(S) AFFORDING COVERAGE
+NAIC #
+COMMERCIAL GENERAL LIABILITY
+Y / N
+N / A
+(Mandatory in NH)
+SHOULD ANY OF THE ABOVE DESCRIBED POLICIES BE CANCELLED BEFORE
+THE EXPIRATION DATE THEREOF, NOTICE WILL BE DELIVERED IN
+ACCORDANCE WITH THE POLICY PROVISIONS.
+THIS IS TO CERTIFY THAT THE POLICIES OF INSURANCE LISTED BELOW HAVE BEEN ISSUED TO THE INSURED NAMED ABOVE FOR THE POLICY PERIOD
+INDICATED.  NOTWITHSTANDING ANY REQUIREMENT, TERM OR CONDITION OF ANY CONTRACT OR OTHER DOCUMENT WITH RESPECT TO WHICH THIS
+CERTIFICATE MAY BE ISSUED OR MAY PERTAIN, THE INSURANCE AFFORDED BY THE POLICIES DESCRIBED HEREIN IS SUBJECT TO ALL THE TERMS,
+EXCLUSIONS AND CONDITIONS OF SUCH POLICIES. LIMITS SHOWN MAY HAVE BEEN REDUCED BY PAID CLAIMS.
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE CERTIFICATE HOLDER. THIS
+CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR ALTER THE COVERAGE AFFORDED BY THE POLICIES
+BELOW.  THIS CERTIFICATE OF INSURANCE DOES NOT CONSTITUTE A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED
+REPRESENTATIVE OR PRODUCER, AND THE CERTIFICATE HOLDER.
+IMPORTANT:  If the certificate holder is an ADDITIONAL INSURED, the policy(ies) must have ADDITIONAL INSURED provisions or be endorsed.
+If SUBROGATION IS WAIVED, subject to the terms and conditions of the policy, certain policies may require an endorsement.  A statement on
+this certificate does not confer rights to the certificate holder in lieu of such endorsement(s).
+COVERAGES
+CERTIFICATE NUMBER:
+REVISION NUMBER:
+CERTIFICATE HOLDER
+CANCELLATION
+© 1988-2015 ACORD CORPORATION.  All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+Docusign Envelope ID: C130DEF8-ED45-45DB-8D9F-3099A1D21A35
+
+=== page 32 of 112 ===
+POLICY NUMBER: 
+CO-DEC (02/24) 
+Page 1 of 1 
+COMMON POLICY DECLARATIONS 
+Item 1. Named Insured and Mailing Address 
+Agent Name and Address 
+Agent No. 
+Item 2. Policy Period 
+From: 
+To: 
+At 12:01 A.M., Standard Time at your mailing address shown above. 
+Item 3. Business Description: 
+Form of Business: 
+Item 4. In return for the payment of the premium, and subject to all the terms of this policy, we agree with you to 
+provide the insurance as stated in this policy. 
+This policy consists of the following coverage parts from which a premium is indicated. Where no premium is 
+shown, there is no coverage. This premium may be subject to adjustment. 
+Coverage Part(s) 
+Premium 
+Policy Fees 
+Total Policy Premium: 
+Item 5. Forms and Endorsements 
+Form(s) and Endorsement(s) made a part of this policy at time of issue: 
+See Schedule of Forms and Endorsements 
+THIS COMMON POLICY DECLARATION AND THE SUPPLEMENTAL DECLARATION(S), TOGETHER WITH 
+THE COMMON POLICY CONDITIONS, COVERAGE PART(S), COVERAGE FORM(S) AND FORMS AND 
+ENDORSEMENTS, IF ANY, COMPLETE THE ABOVE NUMBERED POLICY. 
+Commercial Auto Coverage Part 
+TOTAL TAXES / SURCHARGES (see SCHED. OF TAXES, SURCHARGES)
+KBAG0000203
+ASPEN DOWNTOWNER GROUP LLC
+515 N. FLAGLER DRIVE
+WEST PALM BEACH, FL 33401
+BULLINGTON INSURANCE GROUP LLC
+14502 N DALE MABRY HWY, SUITE 200 
+TAMPA, FL 33618
+20093
+08/29/2024
+06/16/2025
+CAR SERVICE
+$97,485.00
+$97,870.00
+KNIGHTBROOK INSURANCE COMPANY
+4751 WILSHIRE BLVD, SUITE 111, LOS ANGELES, CA 90010
+STE 350
+$385.00
+Docusign Envelope ID: C130DEF8-ED45-45DB-8D9F-3099A1D21A35
+
+=== page 40 of 112 ===
+POLICY NUMBER: 
+CO-DEC (02/24) 
+Page 1 of 1 
+COMMON POLICY DECLARATIONS 
+Item 1. Named Insured and Mailing Address 
+Agent Name and Address 
+Agent No. 
+Item 2. Policy Period 
+From: 
+To: 
+At 12:01 A.M., Standard Time at your mailing address shown above. 
+Item 3. Business Description: 
+Form of Business: 
+Item 4. In return for the payment of the premium, and subject to all the terms of this policy, we agree with you to 
+provide the insurance as stated in this policy. 
+This policy consists of the following coverage parts from which a premium is indicated. Where no premium is 
+shown, there is no coverage. This premium may be subject to adjustment. 
+Coverage Part(s) 
+Premium 
+Policy Fees 
+Total Policy Premium: 
+Item 5. Forms and Endorsements 
+Form(s) and Endorsement(s) made a part of this policy at time of issue: 
+See Schedule of Forms and Endorsements 
+THIS COMMON POLICY DECLARATION AND THE SUPPLEMENTAL DECLARATION(S), TOGETHER WITH 
+THE COMMON POLICY CONDITIONS, COVERAGE PART(S), COVERAGE FORM(S) AND FORMS AND 
+ENDORSEMENTS, IF ANY, COMPLETE THE ABOVE NUMBERED POLICY. 
+Commercial Auto Coverage Part 
+TOTAL TAXES / SURCHARGES (see SCHED. OF TAXES, SURCHARGES)
+KBAG0000203
+ASPEN DOWNTOWNER GROUP LLC
+515 N. FLAGLER DRIVE
+WEST PALM BEACH, FL 33401
+BULLINGTON INSURANCE GROUP LLC
+14502 N DALE MABRY HWY, SUITE 200 
+TAMPA, FL 33618
+20093
+10/10/2024
+06/16/2025
+CAR SERVICE
+$113,017.00
+$113,442.00
+KNIGHTBROOK INSURANCE COMPANY
+4751 WILSHIRE BLVD, SUITE 111, LOS ANGELES, CA 90010
+STE 350
+$425.00
+Docusign Envelope ID: C130DEF8-ED45-45DB-8D9F-3099A1D21A35
+
+=== page 50 of 112 ===
+Docusign Envelope ID: C130DEF8-ED45-45DB-8D9F-3099A1D21A35
+Policy No. CPS8016441
+SCOTTSDALE INSURANCE COMPANY®
+CHANGE ENDORSEMENT NO. 15
+Effective Date 09/27/2024
+12:01 A.M. Standard Time
+Named Insured
+ASPEN DOWNTOWNER GROUP, LIC;
+Agent No. 05022
+COVERAGE PART INFORMATION -Coverage parts affected by this change as indicated by X below:
+Commercial Property
+X
+Commercial General Liability
+Commercial Crime
+Commercial Inland Marine
+Commercial Liquor Liability
+OCP Liability
+0.00
+CHANGE DESCRIPTION
+In consideration of no change in premium, it is hereby understood and agreed that the
+following amendments have been made to this policy.
+Primary and Noncontributory - Other Insurance Condition added
+Form CG 20 01, 12-19, PRIMARY AND NONCONTRIBUTORY-OTHER INSURANCE CONDITION is added to
+policy.
+UTS-126L, 10-93, SCHEDULE OF TAXES, SURCHARGES OR FEES is added to policy.
+PREMIUM CHANGE
+Additional $ 0.00
+Return $ 0.00
+SURPLUS LINES LICENSEE: CRC Corporate License 183767
+This contract is delivered as a surplus line coverage under the 'Nonadmitted Insurance Act. The insurer issuing this contract is
+not licensed in Colorado but is an ELIGIBLE nonadmitted insurer. There is no protection under the provisions of the 'Colorado
+Insurance Guaranty Association Act'.
+Linda bee
+, 10/04/2024
+AUTHORIZED REPRESENTATIVE
+DATE
+UTS-244L 06-92

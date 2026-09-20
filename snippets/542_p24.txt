@@ -1,0 +1,601 @@
+# source: raw/bleecker_drive/Pierce County/4.14.25-BOC-Packet.pdf
+# path: raw/bleecker_drive/Pierce County/4.14.25-BOC-Packet.pdf
+# hit page: 24 of 65
+# terms: Via Transportation, Via+vehicles
+
+=== page 23 ===
+Pierce Transit Title VI Service Equity Analysis 
+Page 12 
+ 
+Gig Harbor March 2025 
+5.2 Disparate Impact Analysis 
+Pierce Transit’s policy states that a disparate impact occurs when the minority population adversely affected by a fare or service change is 5% 
+more than the average minority population of Pierce Transit’s service area. An adverse effect is defined in the Major Service Change Policy as a 
+geographical or time-based reduction in service which includes but is not limited to: span of service changes, frequency changes, route segment 
+elimination, re-routing, or route elimination. The proposed changes to seasonal service in Gig Harbor would serve a population composed of 
+14% minorities, which is 2.3% less than the prior service configuration of 16.3%, and 27.3% less than the system average minority population of 
+41.3%. Because the impacted minority population is less than the system average in both scenarios, there is no Disparate Impact.  
+5.3 Disproportionate Burden Analysis 
+Pierce Transit’s policy states that a disproportionate burden occurs when the low-income population adversely affected by a fare or service 
+change is 5% more than the average low-income population of Pierce Transit’s service area. An adverse effect is defined in the Major Service 
+Change Policy as a geographical or time-based reduction in service which includes but is not limited to: span of service changes, frequency 
+changes, route segment elimination, re-routing, or route elimination. The proposed changes to seasonal service in Gig Harbor would serve a 
+population composed of 8% households below the poverty level, which is 1.1% more than the prior service configuration of 6.9% and 1.3% less 
+than the system average households below the poverty level of 9.3%. Because the low-income household percentage is less than the system 
+average in both scenarios, there is no Disproportionate Burden.  
+Page 21 of 63
+=== page 24 ===
+CHK 
+CHK 
+CHK 
+CHK 
+EFT 
+EFT 
+EFT 
+EFT 
+EFT 
+EFT 
+EFT 
+EFT 
+EFT 
+EFT 
+EFT 
+EFT 
+EFT 
+EFT 
+EFT 
+EFT 
+Total Payments in Excess of $50,000.00
+4,581,192.39
+Apr 1, 2025   7:48:01 AM
+Page 1 of 2
+00019734
+ICMA RETIREMENT               
+DEF COMP CEO PP6 2025         
+306,892.67
+00019768
+PETROCARD INC                 
+DIESEL USAGE
+99,901.58
+Payments for Fund 1 Total
+4,581,192.39
+00019683
+GILLIG LLC                    
+MISC BUS INVENTORY PARTS
+57,865.51
+00019707
+PETROCARD INC                 
+DIESEL USAGE
+128,962.23
+00019725
+VIA TRANSPORTATION INC        
+GIG HARBOR RUNNER 02/25       
+192,756.22
+00019658
+AWC EMPLOYEE BENEFIT TRUST    
+DENTAL PREM 03.25             
+1,531,916.30
+00019659
+US BANK CORPORATE PAYMENT SYST
+10x10x2 SIGN POST BASE     
+63,462.86
+00019667
+BRIDGESTONE AMERICA           
+TIRES
+77,487.39
+00019633
+PETROCARD INC                 
+DIESEL USAGE
+98,393.87
+00019640
+SOUND TRANSIT SMART CARD CENTR
+2024-4Q-065 VARIOUS SVCS Q424 
+50,052.17
+00019650
+UNITED ENERGY TRADING LLC     
+CNG SUPPLY 02/25              
+112,512.50
+00019597
+FTA                           
+VEHICLES SOLD 03/24           
+56,351.00
+00019613
+FIRST TRANSIT INC             
+ADA PARATRANSIT SERVICES 02/25    
+913,296.26
+00019616
+GILLIG LLC                    
+MISC BUS INVENTORY PARTS
+68,627.94
+SUPPORT HASTUS 04/20/25-04/19/26 
+249,930.00
+00019571
+PETROCARD INC                 
+DIESEL USAGE
+65,608.17
+00019593
+ICMA RETIREMENT               
+DEF COMP CEO PP5 2025         
+318,352.01
+PIERCE TRANSIT
+Board Payments Over $50,000
+Payments From: Mar 1, 2025 to Mar 31, 2025
+Cash and Investment Balance: $250,828,935.54
+     
+Payment Numbers CK 00385331 through CK 00385537  
+Wire Numbers EFT 00019533 through EFT 00019801  
+00385441
+ATU LOCAL 758 CORP            
+EE DED PP6 2025               
+60,218.82
+Total   $6,691,040.78
+Payments in Excess of $50,000 are as follows:
+     
+ Operating Fund
+Check
+Vendor
+Item/Service
+Amount
+00385447
+CITY OF LAKEWOOD              
+POLICING SERVICES 01/25           
+67,379.69
+00385491
+US BANK NA                    
+FUEL VP 02/02-03/01/25        
+61,225.20
+00385509
+GIRO INC                      
+Page 22 of 63
+=== page 25 ===
+Bank ID
+Check Numbe
+Check Date
+Amount
+Vendor Name
+01
+CHK 
+00385331
+03/06/2025
+333.33 AMPLIFIED WIRELESS SOLUTIONS I
+01
+CHK 
+00385332
+03/06/2025
+11,362.99 AT&T                          
+01
+CHK 
+00385333
+03/06/2025
+23,991.93 AT&T                          
+01
+CHK 
+00385334
+03/06/2025
+3,250.00 ATU LOCAL 758 CORP            
+01
+CHK 
+00385335
+03/06/2025
+1,271.98 CENTER ELECTRIC               
+01
+CHK 
+00385336
+03/06/2025
+36,592.50 CITY OF FEDERAL WAY           
+01
+CHK 
+00385337
+03/06/2025
+2,633.38 CITY OF TACOMA                
+01
+CHK 
+00385338
+03/06/2025
+2,639.60 COLONIAL SUPPLEMENTAL LIFE    
+01
+CHK 
+00385339
+03/06/2025
+265.32 COMCAST HOLDINGS CORPORATION  
+01
+CHK 
+00385340
+03/06/2025
+173.36 COMCAST HOLDINGS CORPORATION  
+01
+CHK 
+00385341
+03/06/2025
+723.00 COMMITTEE ON POLITICAL EDUCATI
+01
+CHK 
+00385342
+03/06/2025
+702.02 COPIERS NORTHWEST INC         
+01
+CHK 
+00385343
+03/06/2025
+3,750.00 SIMON AND COMPANY INC         
+01
+CHK 
+00385344
+03/06/2025
+414.80 DAILY JOURNAL OF COMMERCE INC 
+01
+CHK 
+00385345
+03/06/2025
+3,217.98 DM RECYCLING CO INC           
+01
+CHK 
+00385346
+03/06/2025
+13.79 EPIC INDUSTRIAL               
+01
+CHK 
+00385347
+03/06/2025
+12.09 ERIC HADLEY                   
+01
+CHK 
+00385348
+03/06/2025
+1,680.77 FIRST RESPONDER OUTFITTERS INC
+01
+CHK 
+00385349
+03/06/2025
+50.00 FORMFOX INC.                  
+01
+CHK 
+00385350
+03/06/2025
+137.09 FRUITLAND MUTUAL WATER COMPANY
+01
+CHK 
+00385351
+03/06/2025
+1,275.00 GILCHRIST CHEVROLET BUICK GMC 
+01
+CHK 
+00385352
+03/06/2025
+400.00 GRAND TACOMA CINE CLUB        
+01
+CHK 
+00385353
+03/06/2025
+8,226.17 HAROLD LEMAY ENTERPRISES      
+01
+CHK 
+00385354
+03/06/2025
+854.75 IAM & AW                      
+01
+CHK 
+00385355
+03/06/2025
+74.50 INTERMOUNTAIN LOCK AND SECURIT
+01
+CHK 
+00385356
+03/06/2025
+220.00 INTERNAL REVENUE SERVICE      
+01
+CHK 
+00385357
+03/06/2025
+108.00 IOPREDICT INC                 
+01
+CHK 
+00385358
+03/06/2025
+380.00 JOAQUIN'S TREE EXPERT COMPANY 
+01
+CHK 
+00385359
+03/06/2025
+13.23 JOHN WREDE                    
+01
+CHK 
+00385360
+03/06/2025
+7.04 LANGUAGE LINE SERVICES        
+01
+CHK 
+00385361
+03/06/2025
+382.72 LEMAY MOBILE SHREDDING        
+01
+CHK 
+00385362
+03/06/2025
+1,450.37 LOOMIS ARMORED US LLC         
+01
+CHK 
+00385363
+03/06/2025
+79.63 LOUISA SPRINGMAN              
+01
+CHK 
+00385364
+03/06/2025
+2,163.67 SYNCHRONY BANK                
+01
+CHK 
+00385365
+03/06/2025
+250.97 MCMASTER-CARR SUPPLY          
+01
+CHK 
+00385366
+03/06/2025
+10,000.00 METRO GLASS CO INC            
+01
+CHK 
+00385367
+03/06/2025
+685.39 MICHAEL G MALAIER             
+01
+CHK 
+00385368
+03/06/2025
+419.50 NH DEPT OF H&HS               
+01
+CHK 
+00385369
+03/06/2025
+1,000.00 NORTH PIERCE COUNTY COMMUNITY 
+01
+CHK 
+00385370
+03/06/2025
+2,616.90 NORTHWEST IAM BENEFIT TRUST   
+01
+CHK 
+00385371
+03/06/2025
+10,206.27 NORTHWEST PLAYGROUND EQUIPMENT
+01
+CHK 
+00385372
+03/06/2025
+1,055.00 OCCUPATIONAL HEALTH CENTERS OF
+01
+CHK 
+00385373
+03/06/2025
+37.82 WASHINGTON STATE SCHOOL FOR TH
+01
+CHK 
+00385374
+03/06/2025
+264.24 OLYMPIC INDUSTRIAL SUPPLY LLC 
+01
+CHK 
+00385375
+03/06/2025
+120.00 OLYMPIC SPORTS & SPINE PLLC   
+01
+CHK 
+00385376
+03/06/2025
+53.32 AMERIDIAN INDUSTRIES LLC      
+01
+CHK 
+00385377
+03/06/2025
+288.77 PENINSULA LIGHT COMPANY       
+01
+CHK 
+00385378
+03/06/2025
+6,825.18 PIERCE COUNTY                 
+01
+CHK 
+00385379
+03/06/2025
+36.23 PIERCE COUNTY RECYCLING LLC   
+01
+CHK 
+00385380
+03/06/2025
+11,351.67 PUGET SOUND ENERGY            
+01
+CHK 
+00385381
+03/06/2025
+2,610.75 PURE FILTRATION PRODUCTS INC  
+01
+CHK 
+00385382
+03/06/2025
+282.41 REX V PEGG FABRICS INC        
+01
+CHK 
+00385383
+03/06/2025
+348.30 SCA PACIFIC INC               
+01
+CHK 
+00385384
+03/06/2025
+8,700.18 SENTINEL TECHNOLOGIES INC     
+01
+CHK 
+00385385
+03/06/2025
+401.99 OD SNIDER & SON INC           
+01
+CHK 
+00385386
+03/06/2025
+514.50 SSMC CASE MANAGEMENT          
+01
+CHK 
+00385387
+03/06/2025
+466.87 T-MOBILE                      
+01
+CHK 
+00385388
+03/06/2025
+195.00 TARA DUNFORD CPA              
+01
+CHK 
+00385389
+03/06/2025
+13.20 THOMAS ADAMS                  
+01
+CHK 
+00385390
+03/06/2025
+1,530.28 UNITED SITE SERVICES OF NEVADA
+01
+CHK 
+00385391
+03/06/2025
+1,097.51 UNITED WAY OF PIERCE COUNTY   
+01
+CHK 
+00385392
+03/06/2025
+5,154.86 VERIZON WIRELESS              
+01
+CHK 
+00385393
+03/06/2025
+80.02 VERIZON WIRELESS              
+01
+CHK 
+00385394
+03/06/2025
+112.50 WA ST DEPT OF SOCIAL & HEALTH 
+01
+CHK 
+00385395
+03/06/2025
+4,165.08 DIVERSIFICATION INC           
+01
+CHK 
+00385396
+03/13/2025
+1,690.04 20/10 PRODUCTS INC            
+01
+CHK 
+00385397
+03/13/2025
+363.33 ALL STAR RENT A FENCE INC     
+01
+CHK 
+00385398
+03/13/2025
+17,783.34 AMB TOOLS INC                 
+01
+CHK 
+00385399
+03/13/2025
+30.49 AT&T                          
+01
+CHK 
+00385400
+03/13/2025
+1,871.00 BEN'S CLEANER SALES INC       
+01
+CHK 
+00385401
+03/13/2025
+106.63 BUNCE RENTALS INC             
+01
+CHK 
+00385402
+03/13/2025
+56.47 CENTER ELECTRIC               
+01
+CHK 
+00385403
+03/13/2025
+32,891.25 CITY OF FEDERAL WAY           
+01
+CHK 
+00385404
+03/13/2025
+1,432.46 CITY OF TACOMA                
+01
+CHK 
+00385405
+03/13/2025
+1,521.00 CITY OF TACOMA                
+01
+CHK 
+00385406
+03/13/2025
+174.37 COMCAST HOLDINGS CORPORATION  
+01
+CHK 
+00385407
+03/13/2025
+10,047.49 CONVERGINT TECHNOLOGIES LLC   
+01
+CHK 
+00385408
+03/13/2025
+121.13 DISH NETWORK LLC              
+01
+CHK 
+00385409
+03/13/2025
+1,656.87 DYNAMIC COLLECTORS INC        
+01
+CHK 
+00385410
+03/13/2025
+900.00 FIFE MILTON EDGEWOOD CHAMBER O
+01
+CHK 
+00385411
+03/13/2025
+865.50 GENES TOWING CORP             
+01
+CHK 
+00385412
+03/13/2025
+1,900.48 GILCHRIST CHEVROLET BUICK GMC 
+01
+CHK 
+00385413
+03/13/2025
+327.49 HOME DEPOT USA INC            
+01
+CHK 
+00385414
+03/13/2025
+1,884.74 KELLEY CREATE CO              
+01
+CHK 
+00385415
+03/13/2025
+11,933.74 SIT TOOL CO INC               
+01
+CHK 
+00385416
+03/13/2025
+126.43 O'REILLY AUTO ENTERPRISES LLC 
+01
+CHK 
+00385417
+03/13/2025
+69.87 ODP BUSINESS SOLUTIONS LLC    
+01
+CHK 
+00385418
+03/13/2025
+120.00 OLYMPIC SPORTS & SPINE PLLC   
+Pierce Transit
+Payment Certification for Mar 31, 2025
+Payments Mar 1, 2025 to Mar 31, 2025
+Payment Numbers CK 00385331 through CK 00385537
+Wire Numbers EFT 00019533 through EFT 00019801
+Page 23 of 63

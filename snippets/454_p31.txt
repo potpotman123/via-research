@@ -1,0 +1,129 @@
+# source: raw/bleecker_drive/Topeka/Proposal-ViaMobilityLLCforPosting.pdf
+# path: raw/bleecker_drive/Topeka/Proposal-ViaMobilityLLCforPosting.pdf
+# hit page: 31 of 44
+# terms: Via Mobility, Via Transportation, Via+turnkey
+
+=== page 30 ===
+8.4 Price
+Our proposed Software-as-a-Service (SaaS) solution includes two fee categories:
+1.
+Installation Fee: This one-time fee covers all technical tasks and start-up activities
+required to launch a successful microtransit software platform, including app configuration,
+data migration, integrations, zone mapping, and staff training.
+2.
+Hourly Support Fee: After launch, our solution is priced as an all-inclusive hourly
+per-active vehicle fee, granting ongoing access to Via’s cloud-based software. The fee also
+covers our reporting suite, Amazon Web Services cloud hosting, marketing support, and
+continuous software upgrades.
+We have designed our hourly SaaS fee model to deliver greater value for our public transit
+partners. Compared to the standard industry practice of charging on a per-vehicle, per-month
+basis, our hourly pricing model offers several distinct advantages for Metro:
+●
+Pay only for the hours you use: Unlike per-month software models, Via will only charge
+for the precise number of vehicle revenue hours delivered using our microtransit platform.
+This will help ensure that Metro does not overpay for unused technology, and aligns your
+technology purchase with your exact service delivery model.
+●
+Account for service disruptions: Vehicles are often taken out of service due to unforeseen
+events - whether it’s a vehicle accident or a pandemic-induced service shutdown. Our
+hourly model ensures that your microtransit technology budget will always be in step with
+the day-to-day dynamics of service delivery.
+●
+Drive sustainable growth: Paying for more service hours represents a positive trend,
+because more hours reflect growth in microtransit ridership. Our hourly model helps our
+partners rigorously track and manage the growth of their microtransit services over time,
+enabling them to better plan their service and network designs.
+Via’s fee structure is fully flexible, and we welcome further discussion to determine a pricing
+strategy in line with Metro’s goals and needs. For example, we can adjust our fee structure to
+charge more in upfront costs, and convert to a per vehicle model preferred by Metro. Finally, we
+would like to note that our pricing includes annual cost increases according to an inflation and
+innovation index. This 5% annual increase captures both inflation and Via’s ongoing investment in
+product innovation, which ensures we can continue to invest in the long-term growth and
+sustainability of our service for Metro by incorporating and deploying best-in-class technology in a
+constantly-evolving industry. The inflation and innovation index covers the research and testing
+needed to provide a solution that is as cutting-edge in the last year of a contract as in the first,
+and allows us to continue to provide all upgrades and new functionalities at no additional cost.
+=== page 31 ===
+8.6 Subcontractors and DBE Participation
+Via Mobility, LLC
+(a wholly owned subsidiary of Via Transportation, Inc.)
+10 Crosby Street, Floor 2
+New York, NY 10013
+Subject: Request for Proposals Microtransit System
+- DBE Good Faith Effort Documentation
+To: Topeka Metropolitan Transit Authority
+Via is committed to achieving Topeka Metro’s diversity goals as outlined in the Topeka Metro
+Microtransit System RFP for Microtransit System (#RFP TM-22-01). We understand and agree with
+the importance of ensuring opportunity for historically disadvantaged business owners.
+Via conducts periodic and regular outreach to identify qualified DBE subcontractors in a variety of
+scopes of work across the country. We have found that the scopes of work we are able to
+subcontract and have preferred DBE vendors for are marketing, community engagement, as well as
+vehicle-related services for our turnkey microtransit deployments. As this RFP asks for a
+software-only proposal, all DBE vendors would be considered out of scope.
+Should Topeka Metro ’s desire to expand their scope and include any additional services, we would
+be happy to engage DBE subcontractors to meet the DBE goal. Some of our preferred DBE
+partners include:
+●
+Enviroissues, a qualified marketing firm specializing in grassroots marketing and
+community outreach.
+●
+Intellectual Concepts, comprehensive training and documentation specialists who can
+create technical documentation for program operators in addition to facilitating training
+sessions pre and post-launch.
+●
+ADA Guru, ADA consultant and compliance expert providing insight to tailor software and
+operations to meet regulatory requirements and best serve paratransit riders.
+We look forward to continuing to work with you toward meeting the Agency’s goals.
+Sincerely,
+Authorized Corporate Officers:
+Authorized Contacts:
+Erin Abrams
+Manager
+Via Mobility, LLC
+10 Crosby Street, Floor 2
+New York, NY 10013
+Sophie Bandarkar
+Contracting Lead
+Via Transportation, Inc.
+10 Crosby Street, Floor 2
+New York, NY 10013
+sophie.bandarkar@ridewithvia.com
+Nahry Tak
+Head of Partnerships
+Via Transportation, Inc.
+10 Crosby Street, Floor 2
+New York, NY 10013
+nahry.tak@ridewithvia.com
+RFP for Microtransit System | 74
+=== page 32 ===
+- -
+0 
+ter 
+•
+-
+y 27 2022
+T,o ·'"'-a ..... 
+___ _,,,__ __ iiiiii!l!I!!!!!	------------------
+ 
+-
+---- -
+-
+- - -
+-
+-
+- -
+-
+-- -
+- -
+-
+-
+-
+---
+,..._.I . • T 22- 1 
+op Ii · · . -raosi A- tho • ty 
+-- - ------
+-- -
+- ---
+- -----------
+---
+t

@@ -4,7 +4,34 @@
 # terms: Via+drivers, Via+vehicles
 
 === page 41 ===
-
+Turnkey Microtransit, Paratransit, and Fixed-Route
+Transportation Services
+Via partners with many cities and transit agencies around the globe to provide a full
+turnkey transportation solution, wherein we power the service with our software
+(described in more detail in Microtransit, Paratransit, and Non-Emergency Medical
+Transportation Software) and manage all operations. For these partners, Via acts as a
+single vendor and provides everything necessary to design, launch, promote, and operate
+new public transit services from scratch - configuring our software platform, sourcing
+vehicles and drivers, managing scheduling and dispatch, and supporting purchasing
+members with their long-term marketing, funding, and advertising goals. Our integrated
+operations and software solution is designed to deliver unparalleled efficiency and
+exceptional rider experience, and our turnkey partners enjoy significant efficiencies.
+A Fully Flexible Fleet
+With our flexible vehicle leasing model, Via will work with our network of leasing partners
+to procure a fleet for each purchasing member that is attractive, custom-branded, and
+can change over time to meet evolving needs. We have access to a variety of vehicle
+models including conventional and electric vehicles. We can rapidly scale our fleet up or
+down as required to sufficiently meet demand.
+WELCOME ABOAR
+21-102
+CITY
+CITY
+CITY
+Our service in Arlington, TX, has grown from a 16-vehicle pilot fleet to a
+74-vehicle fleet since its launch in 2017. As both ridership and the fleet grew
+dramatically between 2021 and 2022, the service saw a 35% increase in fleet
+efficiency, translating into lower cost per ride.
+RFP No. 25-08 | 4
 === page 42 ===
 High-Quality Driver Acquisition Model 
 Via meticulously screens all new drivers for 

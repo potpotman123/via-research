@@ -1,0 +1,125 @@
+# source: raw/bleecker_drive/North Dakota/DM0220_Via_-_Final_Contract.pdf
+# path: raw/bleecker_drive/North Dakota/DM0220_Via_-_Final_Contract.pdf
+# hit page: 18 of 55
+# terms: Via Mobility
+
+=== page 17 ===
+39. UNANTICIPATED AMENDMENTS 
+If additional work is required within the scope of this Master Contract due to a legitimate unforeseen 
+circumstance, STATE shall provide CONTRACTOR a written description of the additional work and 
+request CONTRACTOR to submit a proposal for accomplishing the scope of work. CONTRACTOR 
+will not commence additional work until all Parties agree in writing. 
+40. SEVERABILITY 
+If any term of this Master Contract is declared to be illegal or unenforceable by a court having 
+competent jurisdiction, the validity of the remaining terms is unaffected and, if possible, the rights 
+and obligations of the Parties are to be construed and enforced as if this Master Contract did not 
+contain that term. 
+41. APPLICABLE LAW AND VENUE 
+This Master Contract, including any executed WOR, is governed by and construed in accordance 
+with the laws of the State of North Dakota. Any action to enforce this Master Contract or any 
+executed WOR must be adjudicated exclusively in the state District Court of Burleigh County, North 
+Dakota. Each Party consents to the exclusive jurisdiction of such court and waives any claim of lack 
+of jurisdiction or forum non conveniens. 
+42. ALTERNATIVE DISPUTE RESOLUTION – JURY TRIAL 
+By entering this Master Contract, STATE does not agree to binding arbitration, mediation, or any 
+other form of mandatory Alternative Dispute Resolution. The Parties may enforce the rights and 
+remedies in judicial proceedings. STATE does not waive any right to a jury trial. 
+43. NONDISCRIMINATION - COMPLIANCE WITH LAWS 
+CONTRACTOR agrees to comply with all applicable federal and state laws, rules, and policies, 
+including those relating to nondiscrimination, accessibility and civil rights. (See N.D.C.C. Title 34 – 
+Labor and Employment, specifically N.D.C.C. ch. 34-06.1 Equal Pay for Men and Women.) 
+CONTRACTOR agrees to timely file all required reports, make required payroll deductions, and 
+timely pay all taxes and premiums owed, including sales and use taxes, unemployment 
+compensation and workers' compensation premiums. CONTRACTOR shall have and keep current 
+all licenses and permits required by law during the Term of this Contract all licenses and permits 
+required by law.  
+CONTRACTOR’s failure to comply with this section may be deemed a material breach by 
+CONTRACTOR entitling STATE to terminate in accordance with the Termination for Cause section 
+of this Master Contract. 
+44. STATE AUDIT 
+Pursuant to N.D.C.C. § 54-10-19, all records, regardless of physical form, and the accounting 
+practices and procedures of CONTRACTOR relevant to this Master Contract, including all executed 
+WOR’s, are subject to examination by the North Dakota State Auditor, the Auditor’s designee, or 
+Federal auditors, if required. CONTRACTOR shall maintain these records for at least three (3) 
+years following completion of this Master Contract and be able to provide them upon reasonable 
+notice. STATE, State Auditor, or Auditor’s designee shall provide reasonable notice to 
+CONTRACTOR prior to conducting examination. 
+DocuSign Envelope ID: 6C4BAD1C-56BD-4CA0-AC37-27F31A878725
+=== page 18 ===
+45. RIGHT TO INSPECT PLACE OF BUSINESS 
+At reasonable times, STATE may inspect those areas of CONTRACTOR’S place of business that 
+relate to the performance of this Master Contract, including any executed WOR. If STATE makes 
+an inspection, CONTRACTOR must provide reasonable assistance. 
+46. COUNTERPARTS 
+This Master Contract may be executed in multiple, identical counterparts, each of which is be deemed 
+an original, and all of which taken together shall constitute one and the same Master Contract.  
+47. EFFECTIVENESS OF CONTRACT 
+This Master Contract is not effective until fully executed by both Parties. If no start date is specified 
+in the Term of Contract, the most recent date of the signatures of the Parties shall be the Effective 
+Date. 
+CONTRACTOR 
+STATE OF NORTH DAKOTA 
+Via Mobility LLC 
+Acting through its Office of Management and 
+Budget 
+BY: 
+BY:  
+Printed Name: Dillon Twombly 
+Printed Name: Sowmya Karumanchi 
+Title: Manager 
+Title: IT Procurement Officer 
+Date: 
+Date: 
+ 
+ 
+ 
+DocuSign Envelope ID: 6C4BAD1C-56BD-4CA0-AC37-27F31A878725
+8/16/2023
+08/29/2023
+=== page 19 ===
+EXHIBIT A – Federal Transit Administration Clauses and Certifications 
+Professional Services over $250,000 
+For purposes of this Exhibit A, the term Agency shall carry the same meaning as 
+Participating Entity. 
+ACCESS TO RECORDS AND REPORTS 
+a. 
+Record Retention. The Contractor will retain, and will require its subcontractors of all tiers to 
+retain, complete and readily accessible records related in whole or in part to the contract, 
+including, but not limited to, data, documents, reports, statistics, leases, subcontracts, 
+arrangements, other third party Contracts of any type, and supporting materials related to those 
+records. 
+ 
+b. 
+Retention Period. The Contractor agrees to comply with the record retention requirements in 
+accordance with 2 C.F.R. § 200.333. The Contractor shall maintain all books, records, accounts and 
+reports required under this Contract for a period of at not less than three (3) years after the date of 
+termination or expiration of this Contract, except in the event of litigation or settlement of claims 
+arising from the performance of this Contract, in which case records shall be maintained until the 
+disposition of all such litigation, appeals, claims or exceptions related thereto. 
+ 
+c. 
+Access to Records. The Contractor agrees to provide sufficient access to FTA and its 
+contractors to inspect and audit records and information related to performance of this contract as 
+reasonably may be required. 
+d. 
+Access to the Sites of Performance. The Contractor agrees to permit FTA and its contractors 
+access to the sites of performance under this contract as reasonably may be required. 
+AMERICANS WITH DISABILITIES ACT (ADA) 
+The contractor agrees to comply with the requirements of 49 U.S.C. § 5301 (d), which states the 
+Federal policy that the elderly and persons with disabilities have the same right as other persons 
+to use mass transportation service and facilities, and that special efforts shall be made in 
+planning and designing those services and facilities to implement that policy. The contractor also 
+agrees to comply with all applicable requirements of section 504 of the Rehabilitation Act of 
+1973, as amended, 29 U.S.C. § 794, which prohibits discrimination on the basis of handicaps, 
+with the Americans with Disabilities Act of 1990 (ADA), as amended, 42 U.S.C. §§ 12101 et seq., 
+which requires that accessible facilities and services be made available to persons with 
+disabilities, including any subsequent amendments to that Act, and with the Architectural Barriers 
+act of 1968, as amended, 42 U.S.C. §§ 4151 et seq., which requires that buildings and public 
+accommodations be accessible to persons with disabilities, including any subsequent 
+amendments to that Act. In addition, the contractor agrees to comply with any and all applicable 
+requirements issued by the FTA, DOT, DOJ, U.S. GSA, U.S. EEOC, U.S. FCC, any subsequent 
+amendments thereto and any other nondiscrimination statute(s) that may apply to the Project. 
+BYRD ANTI-LOBBYING AMENDMENT 
+Contractors who apply or bid for an award of $100,000 or more shall file the required certification. 
+Each tier certifies to the tier above that it will not and has not used Federal appropriated funds to 
+DocuSign Envelope ID: 6C4BAD1C-56BD-4CA0-AC37-27F31A878725

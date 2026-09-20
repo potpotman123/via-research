@@ -1,0 +1,183 @@
+# source: raw/bleecker_drive/City of West Sacramento/2023.06.07_-_City_Council_-_Amendment_No._5_to_NoMad_Transit_LLC_Contract.pdf
+# path: raw/bleecker_drive/City of West Sacramento/2023.06.07_-_City_Council_-_Amendment_No._5_to_NoMad_Transit_LLC_Contract.pdf
+# hit page: 50 of 63
+# terms: NoMad Transit, Via Transportation
+
+=== page 49 ===
+Scenario 2
+WSC Via Year 6 Contract Value
+Price per 
+Driver Hour
+Price per 
+Service Hour
+Price per Ride
+Total Not-to-
+Exceed Price
+ (12 Months)
+Year 6 Service Planning*
+N/A
+N/A
+N/A
+$55,000
+Supply Planning*
+N/A
+N/A
+N/A
+$0
+Total Upfront Costs
+$55,000
+Project Management
+$3.55
+N/A
+N/A
+$203,060
+Performance Monitoring and Reporting
+$0.72
+N/A
+N/A
+$41,184
+Marketing & Promotions Plan and Implementation
+$0.14
+N/A
+N/A
+$8,008
+Program Operations**
+$47.82
+N/A
+N/A
+$2,735,304
+Total Cost per Driver Hour
+$52.23
+$2,987,556
+Customer Service (1.25 FTE X $30.39 per hour)
+N/A
+$37.99
+N/A
+$227,180
+Total Cost per Service Hour
+$37.99
+$227,180
+Estimated Access for All Regulatory Fee***
+$0.10
+$21,736
+Total Cost to West Sacramento (Incl. Fare Revenue), Before PUCTRA Fees
+$3,291,472
+Estimated PUCTRA Regulatory Fee****
+$9,899
+Total Cost to West Sacramento (Incl. Fare Revenue), Incl. PUCTRA Fees
+$3,301,372
+Sources of Funding:
+Fare Revenue
+$313,642
+Funding from City of West Sacramento (Excl. Fare Revenue)
+$2,987,730
+Total
+$3,301,372
+Driver Hours Summary:
+Total Implied Driver Hours
+57,200
+Implied Driver Hours (Weekly)
+1,100
+Service Hours Summary:
+Total Implied Service Hours
+5,980
+Total Implied Service Hours (Weekly)
+115
+* Items to be invoiced in full upon the start of Year 6.
+** Includes driver pay, vehicle cost (incl. WAV retrofits and spares where applicable), insurance, dedicated IT operations and supply admin, technology 
+access, local & central operations support, T&E, rent, and office expenses.
+*** TNC Access for All Fees to be invoiced to West Sacramento on a pass through basis.
+**** PUCTRA Fees to be invoiced to West Sacramento on a pass through basis.
+=== page 50 ===
+NoMad Transit LLC
+PW20-011 Via Citywide Transportation Services
+Amendment 5
+Expires 6/30/2024
+2368104.1 7203.552 
+AMENDMENT NO. 5
+to the
+AMENDED AND RESTATED CONTRACT FOR 
+SERVICES
+between the
+CITY OF WEST SACRAMENTO
+and
+NOMAD TRANSIT LLC
+Dated May 1, 2019
+This Amendment No. 5 (the “Amendment”) to the Amended and Restated Contract for Services 
+dated May 1, 2019 (the “Existing Contract”) by and between the City of West Sacramento (“the 
+City”) and NoMad Transit LLC (“the Contractor”) is made and entered into this July 1, 2023. 
+Except as expressly amended herein, the Existing Contract is in full force and effect.
+RECITALS
+WHEREAS, on January 17, 2018, the City awarded a contract to NoMad Transit LLC, a 
+wholly owned subsidiary of Via Transportation, Inc., for a one (1) year Pilot operation based on 
+the Contractor’s proposal submitted in response to the City’s Request for Proposals dated May 
+26, 2017; and
+WHEREAS, the January 17, 2018 executed agreement provided that, by mutual 
+agreement, the Contract may be extended annually for a total of up to five (5) additional years; 
+and
+WHEREAS, the City Council approved an Amended and Restated Contract on May 1, 
+2019 to NoMad Transit LLC, a wholly owned subsidiary of Via Transportation Inc., to continue 
+operations of the West Sacramento On-Demand Rideshare program, launched on May 14, 2018; 
+and
+WHEREAS, whereas the May 1, 2019, awarded contract has an expiration date of June 
+30, 2020, after which operations would otherwise cease and provided that, by mutual agreement, 
+the Contract may be extended annually for a total of up to four (4) additional years; and
+WHEREAS, on June 17, 2020, the City Council approved a 2-year contract renewal with 
+NoMad Transit LLC to continue operations of the West Sacramento On-Demand Rideshare 
+program from July 1, 2020 through June 30, 2022; and
+WHEREAS, on July 14, 2021, the City Council approved an amendment to the contract 
+with NoMad Transit LLC establishing the schedule of fees for fiscal year 2021/22; and
+WHEREAS, on June 15, 2022, the City Council approved a 1-year contract renewal with 
+NoMad Transit LLC to continue operations of the West Sacramento On-Demand Rideshare 
+program from July 1, 2022 through June 30, 2023; and
+WHEREAS, on June 7, 2023, the City Council approved an amendment on a 1-year 
+contract renewal with NoMad Transit LLC to continue operations of the West Sacramento On-
+Demand Rideshare program from July 1, 2023 through June 30, 2024; and 
+WHEREAS, the City and Contractor desire to modify the Existing Contract as provided
+=== page 51 ===
+NoMad Transit LLC
+PW20-011 Via Citywide Transportation Services
+Amendment 5
+Expires 6/30/2024
+2368104.1 7203.552 
+herein.
+NOW, THEREFORE, IT IS MUTUALLY AGREED by the parties hereto to amend said
+agreement as set forth below. Stricken text (indicated textually in the same manner as the 
+following example: stricken text) is to be deleted and bold and underlined text (indicated 
+textually in the same manner as the following example: Bold and underlined text) is to be 
+added as follows:
+Part I: Amendments
+A. Amendments to Existing Contract Provisions
+1.
+Section 2.A is revised as follows: “The services of Contractor are to commence on May 
+14, 2019 and terminate on June 30, 2024 and shall be undertaken and completed in 
+accordance with the service parameters set forth by Exhibit "A"…”
+2.
+Section 4.A is revised as follows: “The Contractor shall be paid monthly in arrears for 
+the actual fees, costs and expenses, including but not limited to purchased transportation 
+services, and otherwise as set forth in the Schedule of Fees, which in no event shall total 
+compensation exceed the Funding from City of West Sacramento (Excl. Fare Revenue) 
+as identified in Exhibit “B”, without City’s prior written approval…” 
+3.
+Section 4.B is revised as follows: “Said amounts shall be paid by City upon submittal of 
+Contractor’s monthly invoices provided in accordance with Task 1.3, and in no event later 
+than 30 days from its receipt thereof.” 
+4.
+Section 4.H. is revised as follows: “At the expiration or earlier termination of the Contract, 
+all unspent service revenue remaining with the Contractor shall be remitted to the City 
+within sixty (60) days. In the event that actual fare revenues collected exceed the 
+estimated amount stated in Exhibit “B”, all additional fare revenues will be reinvested 
+toward the FY 2023/24 Program operations such that the total amount payable by the 
+City (Section 4A) is reduced by an equivalent amount, unless otherwise directed by the 
+City. Should the actual 2023/24 fare revenues collected be less than the estimated 
+amount stated in Exhibit “B”, the City shall not be billed in excess of the total amount 
+payable by the City (Section 4A) and the Parties shall discuss in good faith how to adapt 
+the services in light of the lower budget and shall mutually agree upon any resulting 
+changes to the services.
+5.
+Section 4.I. is revised as follows: All unspent fare revenues generated by the Program 
+between  July 1, 2022 and June 30, 2023 remaining with the Contractor, and which would 
+have otherwise been remitted directly to the City, shall be reinvested toward the FY 
+2023/24 Program operations and such amount shall be credited towards the invoice(s) 
+payable by the City during FY 2023/24 until all such unspent fare revenues have been 
+credited.

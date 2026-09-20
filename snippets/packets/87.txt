@@ -1,0 +1,43 @@
+# source_url: https://legistar1.granicus.com/McKinney/attachments/8202bae3-b436-411d-abae-7806319c96a8.pdf
+# path: raw/cache/156958d0d4b3a3568bdf30c6c175e9665182746a.pdf
+# pages_total: 20; hit_pages: [10]; included: [10]
+# context: legistar client=mckinney; matter 23-0750 (2023-09-08): Collin County Transit Service Update and Trip and Passenger Data Analysis Report from Spare Labs
+
+=== page 10 of 20 ===
+●
+January 2022
+○
+CCT Service transitions to flat fare model
+○
+Operations Subsidy per boarding: $51.37 ($46.68 ECHO, $52.50 Irving Holdings)
+●
+May 2022
+○
+Lyft is made available, igniting rapid cost per boarding decreases.
+●
+November 2022 
+○
+GoPass App goes live for CCT riders, allowing mobile bookings without need for call center. 
+●
+May 2023
+○
+Service setup optimized for further reduction in cost per trip.
+●
+June 2023
+○
+Spare implements Call In IVR and Responsive SMS text messaging for automating the retrieval of Trip 
+ETAs and Trip Cancellations.
+●
+July 2023
+○
+Spare implements improved Spare Call Center, bringing reduced cost with higher degree of quality
+○
+Spare’s Data Science team performed an analysis of some smaller zone potentials to assign a 
+dedicated vehicle to more more efficient, smaller zone.
+○
+Operations Subsidy per boarding: $17.68 ($56.82 ECHO, $26.47 Irving Holdings, $10.94 Lyft)
+●
+August 2023
+○
+30% of weekly trips are now booked via GoPass App.
+Service Timeline

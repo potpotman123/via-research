@@ -1,0 +1,222 @@
+# source_url: https://legistar.granicus.com/cupertino/attachments/ede09967-ba4f-4ddb-a90c-84a5e475d1c8.pdf
+# path: raw/cache/385d4496299bca08f633b9a36d334b979bf30f3f.pdf
+# pages_total: 28; hit_pages: [1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 15, 16, 21, 26]; included: [1, 2, 4, 21, 26]
+# context: legistar client=cupertino; matter 19-5960 (2019-08-06): Subject:  Agreement with Nomad Transit LLC (Via Transportation Inc.) for the 18-month On-Demand Community Shuttle Pilot Program
+
+=== page 1 of 28 ===
+Select one 
+Page 1 of 8 Professional/Consulting Contracts – Nomad Transit, LLC 
+PROFESSIONAL/CONSULTING SERVICES AGREEMENT 
+1.
+PARTIES
+This Agreement is made and entered into as of August 20, 2019 (“Effective Date”) by and 
+between the City of Cupertino, a municipal corporation (“City”), and Nomad Transit, LLC  
+(“Contractor”), a Delaware Limited Liability Company and a wholly owned subsidiary of Via 
+Transportation, Inc. for the Cupertino 18-Month On-Demand Shuttle Pilot Program. 
+2.
+SERVICES
+Contractor agrees to provide the services and perform the tasks (“Services”) set forth in detail in 
+Scope of Services, attached here and incorporated as Exhibit A. 
+3.
+TIME OF PERFORMANCE
+3.1 
+This Agreement begins on the Effective Date and ends on August 20, 2021 (“Contract 
+Time”), unless terminated earlier as provided herein. Contractor’s Services shall begin on August 
+20, 2019 and shall end on August 20, 2021. 
+3.2 
+Schedule of Performance. Contractor must deliver the Services in accordance with the 
+Schedule of Performance, attached and incorporated here Exhibit B. 
+3.3 
+Time is of the essence for the performance of all the Services. Contractor must have 
+sufficient time, resources, and qualified staff to deliver the Services on time. 
+4.
+COMPENSATION
+4.1 
+Maximum Compensation. City will pay Contractor for satisfactory performance of the 
+Services an amount that will based on actual costs but that will be capped so as not to exceed 
+$1,750,000.00 (“Contract Price”), based upon the scope of services in Exhibit A and the budget 
+and rates included in Exhibit C, Compensation attached and incorporated here. The maximum 
+compensation includes all expenses and reimbursements and will remain in place even if 
+Contractor’s actual costs exceed the capped amount. No extra work or payment is permitted 
+without prior written approval of City. 
+4.2 
+Invoices and Payments. Unless otherwise specified in the scope of services, monthly 
+invoices must state a description of the deliverable completed and the amount due for the 
+preceding month. Within thirty (30) days of completion of Services, Contractor must submit a 
+requisition for final and complete payment of costs and pending claims for City approval. Failure 
+to timely submit a complete and accurate payment requisition relieves City of any further 
+payment or other obligations under the Agreement.
+
+=== page 2 of 28 ===
+Select one 
+Page 2 of 8 Professional/Consulting Contracts – Nomad Transit, LLC 
+5.
+INDEPENDENT CONTRACTOR
+5.1 
+Status. Contractor is an independent contractor and not an employee, partner, or joint 
+venture of City. Contractor is solely responsible for the means and methods of performing the 
+Services and for the persons hired to work under this Agreement. Contractor is not entitled to 
+health benefits, worker’s compensation or other benefits from the City. 
+5.2 
+Contractor’s Qualifications. Contractor warrants on behalf of itself and its subcontractors 
+that they have the qualifications and skills to perform the Services in a competent and professional 
+manner and according to the highest standards and best practices in the industry. 
+5.3 
+Permits and Licenses. Contractor warrants on behalf of itself and its subcontractors that 
+they are properly licensed, registered, and/or certified to perform the Services as required by law 
+and have procured a City Business License. 
+5.4 
+Subcontractors. Only Contractor’s employees are authorized to work under this 
+Agreement. Prior written approval from City is required for any subcontractor, and the terms and 
+conditions of this Agreement will apply to any approved subcontractor. 
+5.5 
+Tools, Materials and Equipment. Contractor will supply all tools, materials and 
+equipment required to perform the Services under this Agreement. 
+5.6 
+Payment of Taxes. Contractor must pay income taxes on the money earned under this 
+Agreement. Upon City’s request, Contractor will provide proof of payment and will indemnify 
+City for violations pursuant to the indemnification provision of this Agreement. 
+6.
+PROPRIETARY/CONFIDENTIAL INFORMATION
+In performing this Agreement, Contractor may have access to private or confidential information 
+owned or controlled by the City, which may contain proprietary or confidential details the 
+disclosure of which to third parties may be damaging to City. Contractor shall hold in confidence 
+all City information provided by City to Contractor and use it only to perform this Agreement. 
+Contractor shall exercise the same standard of care to protect City information as a reasonably 
+prudent contractor would use to protect its own proprietary data. 
+7.
+OWNERSHIP OF MATERIALS
+7.1 
+Property Rights. Any interest (including copyright interests) of Contractor in any 
+product, memoranda, study, report, map, plan, drawing, specification, data, record, document or 
+other information or work, in any medium (collectively, “Work Product”), prepared by Contractor 
+specifically for the City in connection with this Agreement will be the exclusive property of the 
+City and shall not be shown to any third-party without prior written approval of City.  For the 
+avoidance of doubt, no intellectual property will be conceived, created or furnished under 
+this Agreement, and all rights in, to and under Contractor’s proprietary on-demand 
+transit solution (the “Via Solution”) shall remain the exclusive property of the 
+Contractor. Contractor shall grant to the City all rights necessary to receive the benefit of the Via 
+Solution during the term of the Agreement.
+
+=== page 4 of 28 ===
+Select one 
+Page 4 of 8 Professional/Consulting Contracts – Nomad Transit, LLC 
+11.
+INDEMNIFICATION; LIMITATION OF LIABILITY
+11.1 
+To the fullest extent allowed by law, and except for losses caused by the sole and active 
+negligence or willful misconduct of City personnel, Contractor shall indemnify, defend and  hold 
+harmless City, its City Council, boards and commissions, officers, officials, employees, agents, 
+servants, volunteers and consultants (“Indemnitees”), through legal counsel acceptable to City, 
+from and against any and all liability, damages, claims, actions, causes of action, demands, 
+charges, losses, costs and expenses (including attorney fees, legal costs and expenses related to 
+litigation and dispute resolution proceedings) of every nature, arising directly or indirectly from 
+this Agreement or in any manner relating to any of the following: 
+(a) Breach of contract, obligations, representations or warranties;
+(b) Negligent or willful acts or omissions committed by Contractor during performance of the
+Services;
+(c) Personal injury, property damage, or economic loss resulting from the work or performance
+of Contractor or its subcontractors or sub-subcontractors;
+(d) Unauthorized use or disclosure of City’s confidential and proprietary Information;
+(e) Claim of infringement or violation of a U.S. patent or copyright, trade secret, trademark,
+or service mark or other proprietary or intellectual property rights of any third party.
+11.2 
+Contractor must pay the costs City incurs in enforcing this provision. Contractor must 
+accept a tender of defense upon receiving notice from City of a third-party claim, in accordance 
+with California Public Contract Code Section 9201. At City’s request, Contractor will assist City 
+in the defense of a claim, dispute or lawsuit arising out of this Agreement. 
+11.3 
+Contractor’s duties under this section are not limited to the Contract Price, workers’ 
+compensation payments, or the insurance or bond amounts required in the Agreement. Nothing in 
+the Agreement shall be construed to give rise to an implied right of indemnity in favor of 
+Contractor against City or any Indemnitee. 
+11.4.   Contractor’s payments may be deducted or offset to cover any money the City lost due to 
+a claim or counterclaim arising out of this Agreement, a purchase order, or other transaction. 
+11.5.  Contractor’s total liability arising out of this Agreement shall be limited to the greater of 
+(a) Contactor’s total applicable insurance coverage and (b) ten million dollars ($10,000,000).
+12.
+INSURANCE
+Contractor shall comply with the Insurance Requirements, attached and incorporated here as 
+Exhibit D, and must maintain the insurance for the duration of the Agreement, or longer as 
+required by City. City will not execute the Agreement until City approves receipt of satisfactory 
+certificates of insurance and endorsements evidencing the type, amount, class of operations 
+covered, and the effective and expiration dates of coverage. Failure to comply with this provision 
+may result in City, at its sole discretion and without notice, purchasing insurance for Contractor 
+and deducting the costs from Contractor’s compensation or terminating the Agreement.
+
+=== page 21 of 28 ===
+EXHIBIT C - FEES 
+Fees 
+The table below outlines the payment structure, in which Cupertino would be charged on a price 
+per driver hour and price per service hour basis. The total contract value shall not exceed 
+$1,750,000 for the 18-month contract term. 
+ Note: Hours are indicative and subject to change. 
+Cupertino will be billed for the above fees and a revenue share as described below. Driver 
+hours, service hours, and revenue share from rides served will be billed as incurred at the end 
+of each month. Cupertino shall pay the following fees to Via: 
+Installation Fee 
+Cupertino shall pay to Via a non-refundable installation fee of $122,200, 50% of which ($61,100) 
+will be payable upon signing of this Order, and the remaining 50% ($61,100) will be payable 
+upon launch of the Deployment. 
+Monthly Fees 
+Cupertino shall pay the following fees to be invoiced monthly by Via, starting upon launch of the 
+Deployment: 
+●
+$35.83 per driver hour
+●
+$25.00 per service hour
+
+=== page 26 of 28 ===
+Exh. D-Insurance Requirements 
+1 
+Consultant shall procure prior to commencement of Services and maintain for the duration of the contract, 
+at its own cost and expense, the following insurance policies and coverage with companies doing business 
+in California and acceptable to City. 
+INSURANCE POLICIES AND MINIMUMS REQUIRED 
+1.
+Commercial General Liability (CGL) for bodily injury, property damage, personal injury liability
+for premises operations, products and completed operations, contractual liability, and personal and
+advertising injury with limits no less than $5,000,000 per occurrence (ISO Form CG 00 01). If a
+general aggregate limit applies, either the general aggregate limit shall apply separately to this
+project/location (ISO Form CG 25 03 or 25 04) or it shall be twice the required occurrence limit.
+a. 
+It shall be a requirement that any available insurance proceeds broader than or in excess of the
+specified minimum insurance coverage requirements and/or limits shall be made available to the
+Additional Insured and shall be (i) the minimum coverage/limits specified in this agreement; or (ii)
+the broader coverage and maximum limits of coverage of any insurance policy, whichever is greater.
+b. 
+Additional Insured coverage under Consultant's policy shall be "primary and non-contributory,"
+will not seek contribution from City’s insurance/self-insurance, and shall be at least as broad as ISO
+Form CG 20 01 (04/13).
+c. 
+The limits of insurance required may be satisfied by a combination of primary and umbrella or
+excess insurance, provided each policy complies with the requirements set forth in this Contract.
+Any umbrella or excess insurance shall contain or be endorsed to contain a provision that such
+coverage shall also apply on a primary and non-contributory basis for the benefit of City before the
+City’s own insurance or self-insurance shall be called upon to protect City as a named insured.
+2.
+Automobile Liability: ISO CA 00 01 covering any auto (including owned, hired, and non-owned
+autos) with  limits  no less than $5,000,000 per accident for bodily injury and property
+damage.
+3.
+Workers’ Compensation: As required by the State of California, with Statutory Limits and
+Employer’s Liability Insurance of no less than $1,000,000 per occurrence for bodily injury or
+disease.
+4.
+Sexual Abuse/Molestation: Insurance or the equivalent as required for activities/services involving
+minors, (i.e., after school activities, recreational programs, athletics, study/training events and
+transportation of minors). Coverage may be included under General Liability or be obtained in a
+separate policy, such as Educators Legal Liability (ELL) policy, with a limit of no less than
+$1,000,000 per occurrence. If a general aggregate limit applies, it must apply separately to this
+contract or be twice the required occurrence limit.
+5.
+Cyber Liability: Insurance with limits not less than $5,000,000 per occurrence / $5,000,000 aggregate.
+Coverage shall be sufficiently broad to respond to the duties and obligations as is undertaken by
+Consultant in this agreement and shall include, but not be limited to, claims involving
+infringement of intellectual property, including but not limited to infringement of copyright,
+trademark, trade dress, invasion of privacy violations, information theft, damage to or destruction
+of electronic information, release of private information, alteration of electronic information,
+extortion and network security. The policy shall provide coverage for breach response costs as
+EXHIBIT D 
+Insurance Requirements 
+Via Transportation, Inc – On-Demand Community Shuttle

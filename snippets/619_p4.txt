@@ -1,0 +1,261 @@
+# source: raw/bleecker_drive/City of Cottonwood Arizona/DM0179_Cooperative_Purchase_Agreement_fully_executed.pdf
+# path: raw/bleecker_drive/City of Cottonwood Arizona/DM0179_Cooperative_Purchase_Agreement_fully_executed.pdf
+# hit page: 4 of 25
+# terms: Via Mobility, Via+drivers, Via+hourly rate, Via+vehicles
+
+=== page 3 ===
+3
+IN WITNESS WHEREOF, the Parties have executed this Agreement effective as of the Effective Date set forth 
+above. 
+ 
+ 
+ 
+ 
+ 
+ 
+City of Cottonwood, an Arizona municipal corporation 
+ 
+Date: ____________ 
+ 
+By:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tom Whitmer, Acting City Manager 
+ 
+ 
+ 
+ 
+Attest: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tami Mayes, City Clerk 
+ 
+ 
+ 
+ 
+ 
+Approved as to form: 
+ 
+ 
+ 
+By:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+John A. Gaylord, City Attorney 
+ 
+ 
+ 
+ 
+Via Mobility LLC, a Delaware limited liability company 
+ 
+ 
+ 
+Date: ____________  
+ 
+ 
+By:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Its:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Docusign Envelope ID: C429F67A-FCDE-4439-AAC1-E86EBC70B3B5
+3/10/2025
+dillon@ridewithvia.com
+Vice President
+3/10/2025
+=== page 4 ===
+CITY OF COTTONWOOD DEPLOYMENT SERVICE ORDER 
+ 
+By this service order (the “Order”), Via Mobility LLC, a Delaware company with its principal office located at 114 5th Avenue, Floor 
+17, New York, New York 10011 (“Via”), and the customer identified below (“Customer”) agree to collaborate towards the operation 
+by Customer of  the deployment (the “Deployment”) in Cottonwood, AZ 
+ 
+Customer Name: City of Cottonwood 
+Customer Entity Type / State of Incorporation: Government 
+Agency, AZ 
+Customer Notice Address: 340 Happy Jack Way, 
+Cottonwood, AZ 86326 
+Customer Email: lboring@cottonwoodaz.gov 
+Term: The duration of the Deployment shall last until the last day of the calendar month during which a period of 36 
+months following Launch expires, subject to extension by mutual agreement of the parties on terms to be agreed (including 
+any increase in monthly fees for additional months).   
+Services: Customer will receive access to the standard Via Solution and automatic software updates, comprised of: 
+(a) Fully localized proprietary routing and matching algorithms that analyze all trip requests, assign riders      
+dynamically to the best-suited vehicle, and group passengers headed in the same direction into efficient shared 
+rides powered by Via’s patented technology; 
+(b) Downloadable iOS and Android rider apps that allow customers to book rides, track vehicles in real time, pay for 
+trips, and troubleshoot any issues; 
+(c) Downloadable driver app that provides efficient turn-by-turn directions; the app allows drivers to start and end 
+driving time, schedule breaks, and contact live support; and 
+(d) Access to the Via Operations Console (“VOC”), which allows administrators to perform a variety of functions, 
+including booking trips, checking trip details, adjusting account information, and providing customer support, and 
+accessing reports, as provided for in Appendix 1; 
+(e) Access to the data reporting  set out in Appendix 1, made available via the VOC; 
+Support Services – Installation. Via provides installation support for up to four weeks after the Deployment begins 
+serving Riders , consisting of:  
+(a) Localization for the Deployment Zone (defined below), including optimizing the algorithm, configuring back-end, 
+and defining acceptable pick-up and drop off points; 
+(b) Testing and quality assurance; and 
+(c) Instruction for drivers, dispatchers, and managers on Via’s best practices as remote launch support. 
+ 
+Via will finalize and mutually agree upon scope with Customer during the first phase of the launch process. 
+Support Services – Ongoing. The following services are included in the fees up to the number of hours per month 
+identified below:  
+(a) Operational support and system adjustments: Includes algorithm adjustments and changes to virtual bus stops / 
+pickup points at request of Customer: up to 10 hours per month 
+(b) Expert consulting: up to 5 hours per month 
+● 
+Operations: Including supply optimization analysis, payment & fraud investigation, and business 
+case/unit economics analysis 
+● 
+Service expansion: Including feasibility analysis for service expansions or additional projects 
+(c) Tech Support: Dedicated Via point of contact will use commercially reasonable efforts to respond within one 
+business day for non-critical issues (upon receipt of a detailed description of the issue as requested by Via) and to 
+ensure that assistance is provided within a reasonable time frame. Via will also provide Customer with an 
+appropriate channel for alerting Via to system outages or other critical issues, with respect to which Via will 
+provide emergency assistance. 
+Via will notify Customer if Customer is within 1 hour of exceeding the capped hourly limit on Operational Support and 
+System Adjustments and/or Consulting Services. If requested, hours beyond those set out above will be charged on an 
+hourly rate.  
+Marketing Services. Via will provide a set of marketing guides and playbooks based on best practices, along with editable 
+templates that partners can customize with their branding and service details. 
+Additional Services. Via can provide optional add-on services, including consulting, web-based booking portal, fixed route 
+referral, live agent support, multi-modal or third party trip planner integrations, media and advertising services, marketing 
+support, or access to our Remix® transit planning software for an additional fee. More details available upon request. 
+Docusign Envelope ID: C429F67A-FCDE-4439-AAC1-E86EBC70B3B5
+=== page 5 ===
+Customer Responsibilities.  
+(a) General. Customer will operate and manage the Deployment as set forth in the Terms, Customer shall cooperate 
+with Via as necessary for the purpose of setting up the Deployment and its specifications, including by providing 
+prompt feedback to Via’s inquiries and providing local insights, in order to meet mutually agreed upon deadlines. 
+(b) Launch. Within one week of signing this Order, the Parties will mutually agree on the targeted launch date of the 
+Deployment (“Launch”). Launch shall be no fewer than 12 weeks following execution of this 
+Order. In the event that the  Launch date is moved at Customer’s request or delayed due to Customer’s inaction, 
+Customer will be charged a Technology Fee (as defined in Section “Fees” below) to accommodate hosting and 
+other direct IT costs.   
+(c) Zone: Customer and Via will agree at least three months prior to launch on the exact geographical scope for the 
+Deployment zone (“Deployment Zone”). Any changes or expansions to the Deployment Zone may result in 
+additional fees.  
+(d) Support Requests. At the start of the project, Via will direct Customer towards the relevant CRM tools to log 
+requests.  In order to trigger a Product Maintenance request, requests for product maintenance must contain 
+detailed information about the nature of the request. Requests for additional features may be subject to additional 
+fees.  
+(e) Payment Processing. The fees set forth above do not include any owed to the third party payment processor. Via 
+will facilitate an introduction to its recommended payment processor and Customer is responsible for entering an 
+agreement with such payment processor in order to be able to process credit card payments.   
+Fees.  
+Customer shall pay Via the following Fees for the Term, subject always to the Minimum Annual Fee set out below: 
+Fee Category 
+Amount 
+Invoicing Terms 
+Installation Fee (Part 1) 
+$7,500 
+Payable upon signing of this 
+Order 
+Installation Fee (Part 
+2) 
+$7,500 
+Payable upon start of 
+year 2 
+Minimum Annual Fee $24,000 calculated based on a minimum 
+of 4 active vehicles per calendar month 
+Payable upon signing of 
+this Order and annually 
+on the anniversary of the 
+Launch Date thereafter 
+Incremental Monthly 
+Fee 
+ 
+If the number of active vehicles in service exceeds 
+the minimum on any given month, the “Incremental 
+Monthly Fee” shall be calculated as follows: 
+• 
+$400 per active vehicle per 
+calendar month for vehicles 5+ 
+Invoiced for a given 
+month at the beginning 
+of the following month 
+with payment due with 
+net 30 payment terms  
+Total Fee (36 Months) 
+$87,000 assuming 4 vehicles (excluding Incremental Monthly Fees and Fees 
+for any Additional Services)  
+1. Installation and Minimum Annual Fees:  
+The Customer agrees to pay the Installation Fee and Minimum Annual Fee (as set out in the table 
+above) upon signing of this Order, with payment due in accordance with the Terms. In 
+subsequent years, the Minimum Annual Fee shall be payable annually on the anniversary of the 
+Launch Date. 
+2. 
+Incremental Monthly Fee: 
+In the event that more than 4 vehicles are used during a given calendar month, Via will calculate 
+Incremental Monthly Fees and provide Customer with an invoice based on the actual number of 
+active vehicles used during the previous month. Customer shall be responsible for paying the 
+Incremental Monthly Fee within 30 days of the date of such invoice.  
+ 
+The Customer agrees that the sample invoice set out in Appendix 2 is satisfactory to Customer, both in substance and 
+format. 
+Docusign Envelope ID: C429F67A-FCDE-4439-AAC1-E86EBC70B3B5

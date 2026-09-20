@@ -1,0 +1,130 @@
+# source: raw/bleecker_drive/Metro Micro (LA)/2019_0833_Attachment_A_-_Third_Quarter_Report.pdf
+# path: raw/bleecker_drive/Metro Micro (LA)/2019_0833_Attachment_A_-_Third_Quarter_Report.pdf
+# hit page: 4 of 6
+# terms: Via+fleet, Via+vehicles
+
+=== page 3 ===
+Utilization was at 0.1 rides to driver hours in Week 1 and by Week 12, Via had 1.2 rides
+to driver hours, a tenfold increase over the quarter. The ratio continued to climb over the
+second quarter reaching nearly two rides per driver hour by the end of the second
+quarter. The close of the third quarter saw a ratio of 2.7 rides per driver hour, exceeding
+the performance goal of 2.5.
+Rides per Driver Hour
+3.00
+2.50
+2.00
+1.50
+1.00
+0.50
+0.00
+Target KPI
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Key Performance Indicators
+As detailed in the chart below, three out of the four target KPIs were met and exceeded
+in Q3.
+KPI
+Target
+Q1 end
+Q2 end
+Q3 end
+Avg wait time
+Avg Customer Rating
+Rides/ driver hour
+Weekly rides
+10 min
+4.5
+2.5
+1000
+7 min
+4.9
+1.12
+585
+9 min
+4.9
+1.8
+1675
+11.5 min
+4.8
+2.7
+2336
+Target
+Met?
+No
+Yes
+Yes
+Yes
+In the final weeks of Q3, the rides/driver hour goal was met, but the average customer
+wait time slipped over the 10-minute goal. This 10-minute goal has been met for a vast
+majority of the service operation. This highlights the tradeoff between service quality
+and efficiency, and Via will continue to adjust the service supply to balance both.
+Customer Payment and Fares
+The free transfer fare has continued through Q3 and will remain in effect until the
+completion of the first year of service. This means that while customers are not paying
+Via for the service, but all Via customers are paying to ride Metro, the net fare remains
+$1.75.
+MOBILITY ON DEMAND: THIRD QUARTER REPORT AND ASSEMBLY BILL 5 COMPLIANCE
+3
+=== page 4 ===
+Subsidy
+At the close of Q3, ride subsidies were averaging about $13 per ride, and 2.5 miles in
+length. By comparison, an infrequent bus route can cost up to $21 per ride for a ride of
+similar length and only provide service about once an hour. Access Services trips have
+a subsidy of $39 regardless of length, require booking a day in advance, and pick up
+times are subject to negotiation depending on vehicle availability. While Access
+Services trips average ten miles in length (much longer than MOD trips), Access
+Services pays their contractors same price for rides of any distance, and 35% of the
+trips are less than five miles.
+Reaching hard to reach populations
+Requests for wheelchair accessible vehicles continue to account for about 1% of total
+rides. By comparison, 0.5% of Metro Bus trips are made by people in wheelchairs. Via
+call center trips continue to account for about 1% of the total trips while 48% of Metro
+Bus riders and 27% of Metro Rail riders do not have smart phones.
+Research
+The Eno Center for Transportation, as well as University of California Los Angeles,
+University of Oregon, and University of Washington are analyzing both qualitative and
+quantitative data from the pilot that will inform a final project report. That data will help to
+determine whom the pilot has been able to serve, and if the benefits have been in line
+with the project goals.
+Findings to inform Micro Transit
+Findings from the partnership with Via are being shared with the Micro Transit team to
+provide insights in preparation for the launch of Micro Transit in 2020.
+Lessons from Seattle
+The Via service in the Seattle area has seen even higher adoption and efficiency with
+over 7,000 rides per week and over five rides per driver hour. The Seattle area service
+differs in that the service additionally runs during evenings and weekends, the rides are
+provided in a dedicated, branded fleet of consistent vehicles, transit patrons can tap
+their transit passes on a card reader inside the vehicles, and the service zones are
+contiguous for more efficient operation. Metro staff is exploring the possibility of
+implementing several of these features in a potential second year of the Via partnership.
+NEXT STEPS
+Assembly Bill 5 Compliance
+The Governor signed AB5 in September 2019, which will require many workers
+classified as independent contractors to become company employees. Metro asked Via
+to change the driver employment model under the contract from independent
+contractors to employees. Via has agreed to work with Metro to change the model on
+MOBILITY ON DEMAND: THIRD QUARTER REPORT AND ASSEMBLY BILL 5 COMPLIANCE
+=== page 5 ===
+January 1, 2020. Metro is working with Via to ensure that any updates to the contract
+documents that need to be made are completed in advance of January 1, 2020.
+Contract Option
+The contract for the pilot with Via has a base term of one year, with an option to extend
+to a second year. Metro is now negotiating a potential second year of the pilot contract
+with Via. Assuming consensus is reached on a second year, staff will bring a
+recommendation to the Board for a second year of service in early 2020. The design of
+a second year of service will take into account the findings from the first year of the
+service and will seek to improve customer experience and to increase marketing and
+outreach efforts to low-income patrons and patrons without smart phones.
+If the Board approves a negotiated second year of the pilot, the additional research
+learnings would continue to inform the service design for Micro Transit throughout the
+potential second year. The pilot would not extend beyond a second year as the contract
+with options will expire January 28, 2021.
+MOBILITY ON DEMAND: THIRD QUARTER REPORT AND ASSEMBLY BILL 5 COMPLIANCE
+5

@@ -1,0 +1,126 @@
+# source: raw/bleecker_drive/Utah Transit Authority/877423.pdf
+# path: raw/bleecker_drive/Utah Transit Authority/877423.pdf
+# hit page: 34 of 141
+# terms: River North Transit
+
+=== page 33 ===
+FISCAL IMPACT:
+Microtransit Services:
+2022: $462,667
+2023: $1,110,401
+2024: $1,079,256
+2025: $1,132,420
+2026: $1,188,260
+2027: $1,246,829
+Total Expenses for Microtransit Services: $6,219,833
+Route F453:
+2022: $204,333
+2023: $485,592
+2024: $509,703
+2025: $534,983
+2026: $561,552
+2027: $589,437
+Total Route F453 Expenses: $2,885,601
+Total Contract Not to Exceed Amount:
+2022 NTE: $667,000
+2023 NTE: $1,595,994
+2024 NTE: $1,588,960
+2025 NTE: $1,667,403
+2026 NTE: $1,749,811
+2027 NTE: $1,836,266
+Total Contract Not to Exceed Amount: $9,105,434
+Includes 10% contingency to be used at UTA’s discretion
+ATTACHMENTS:
+UTA Contract No. 22-03600: UTA-Tooele County Flex Route and On-Demand Microtransit Services Operating
+Agreement
+Page 3 of 3
+33
+=== page 34 ===
+PROFESSIONAL SERVICES AGREEMENT
+UTA CONTRACT # 22-03600
+FLEX ROUTE AND ON-DEMAND MICROTRANSIT SERVICES 
+AGREEMENT
+THIS FLEXROUTE
+AND ON-DEMAND MICROTRANSIT
+SERVICES 
+AGREEMENT ("Agreement") is made this 7th DAY OF AUGUST_ 2022 by and between 
+UTAH TRANSIT AUTHORITY (UTA), a public transit district and TOOELE COUNTY 
+HEALTH AND AGING SERVICES, a County Government, whose principal place of 
+business is 151 North Main, Tooele, UT 84074, (hereinafter referred to as "Tooele County").
+RECITALS
+WHEREAS, UTA is the provider of fixed-route, rail, flex route, and microtransit
+transit service in all or part of Salt Lake, Tooele, Utah, Weber, Davis and Box Elder 
+Counties, and is also responsible for providing complementary paratransit service in 
+accordance with the Americans with Disabilities Act;
+WHEREAS, UTA plans, develops, and operates public transit services for the 
+community as defined within the Regional Transportation Plan, UTA’s Long Range Transit 
+Plan, UTA’s Five-Service Plan, and UTA’s Service Design Standards.
+WHEREAS, UTA desires to engage Tooele County to collaborate with UTA in 
+providing Flex Route services as described in this Agreement, and
+WHEREAS, UTA desires to engage Tooele County to collaborate with UTA and 
+River North Transit (Via) in providing on-demand microtransitservices in the UTA's Tooele 
+County Service Area (the "Microtransit Services"), as described in this Agreement; and
+WHEREAS, UTA has received a 2021 Federal Transit Administration (FTA) NoLo
+Emissions grant to support the deployment of a fully electrified microtransit service which 
+will be deployed during the terms of this Agreement;
+WHEREAS, UTA and Tooele County desire to agree on the respective roles and 
+responsibilities in fulfillment of this Agreement;
+AGREEMENT
+NOW, THEREFORE, on the stated Recitals, which are incorporated herein by 
+34
+=== page 35 ===
+Page 2 of 46
+reference, and for and in consideration of the mutual covenants and agreements hereafter set 
+forth, the mutual benefits to the parties to be derived here from, and for other valuable 
+consideration, the receipt and sufficiency of which the parties acknowledge, it is hereby 
+agreed as follows:
+1.
+OVERVIEW
+a.
+Tooele County shall provide the day-to-day operations, including administrative oversight 
+and support, customer support, and vehicle maintenance responsibilities for Flex Route
+Services between Tooele and Salt Lake County and Microtransit Services within Tooele 
+County.
+b.
+Tooele County shall operate vehicles as part of the UTA Flex Route Service connecting 
+Tooele and Salt Lake Countiesas determined by UTA in full accordance with the Scope
+of Services contained in the Exhibits to this Agreement.
+c.
+Tooele County shall provide the Microtransit services using the Via software system.
+Such Microtransit services shall be provided in portions of Tooele County (the cities of 
+Erda, Tooele, Stansbury Park and Grantsville) as determined by UTA in full accordance 
+with the Scope of Services contained in the Exhibits to this Agreement.
+d.
+UTA shall provide service vehicles for Flex Route Services and Microtransit Services.
+e.
+UTA shall provide Tooele County access to Via’s software operating system under 
+sublicense to Tooele County and provide access to scheduling software for scheduled 
+route deviations.
+f.
+UTA will provide electrical charging infrastructure under sublicense to Tooele County.
+g.
+UTA will provide technical support for the operations of Flex Route Services and 
+Microtransit Services.
+h.
+UTA and Tooele County shall annually establish shared goals and objectives for Flex 
+Route Services and Microtransit Services.
+i.
+Tooele County shall work with UTA to ensure a well-coordinated transition from existing 
+Flex Route and Dial-a-Ride services to Microtransit Services with a seamless transition 
+that aims to provide customers with high-quality and uninterrupted service throughout 
+this process
+j.
+UTA and Tooele County shall collaborate and support joint marketing, communications, 
+and community engagement initiatives for Flex Route Services and Microtransit 
+Services.
+2.
+SERVICES TO BE PROVIDED 
+a.
+Tooele County shall perform all Work as set forth in the Scope of Services (Attached 
+Exhibits). Except for items (if any) which thisAgreementspecifically states willbe UTA-
+provided, Tooele County shall furnish all the labor, material,and incidentals necessary for 
+the Work.
+b.
+Tooele County shall perform all Work under this Agreement in a professional manner, 
+using at least that standard of care, skill and judgment which can reasonably be expected 
+35

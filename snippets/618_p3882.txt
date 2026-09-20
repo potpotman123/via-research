@@ -1,0 +1,227 @@
+# source: raw/bleecker_drive/Broward/MA_Report.pdf
+# path: raw/bleecker_drive/Broward/MA_Report.pdf
+# hit page: 3882 of 6451
+# terms: Via+not to exceed, Via+not-to-exceed
+
+=== page 3881 ===
+Current Procurement Contracts Sorted by Contract ID # As of 11/24/25
+Page 3881 of 6451
+Lead Agency Contact (Contact Unit Mgr if Incorrect)
+EOCONNELL@broward.org
+Contract ID #
+Document Description
+Start Date
+End Date
+Not To Exceed
+Amount Ordered
+OPN2126585G1_2
+Lab Testing & Sampling Srvcs.
+7/1/2023
+6/30/2028
+$130,000.00
+$85,214.00
+Vend#-AddrID-ContactID
+Legal Name
+Vendor Contact Email
+Vendor Phone #
+VC00105628
+FLORIDA SPECTRUM ENVIRONMENTAL 
+SERVICES
+LAJOHNSON1@AOL.COM
+  
+Item #
+Category
+Description
+Total Line Qty
+Released
+UO
+M
+Maximum Line 
+Amount
+Unit Price
+Total Line Released 
+Amount
+Amount Paid
+Dade# EVN0000098, 
+Group B Line 4.
+OPN2126585G1_2_10
+2 
+9899180
+HALOACETONITRIL
+ES GROUP. Miami 
+Dade# EVN0000098, 
+Group B Line 5.
+0.0000
+EA
+$0.0000
+$320.0000
+$0.0000
+$0.0000
+OPN2126585G1_2_10
+3 
+9899180
+HALOACETIC ACIDS
+GROUP. Miami Dade# 
+EVN0000098, Group B 
+Line 6
+0.0000
+EA
+$0.0000
+$130.0500
+$0.0000
+$0.0000
+OPN2126585G1_2_10
+4 
+9899180
+CHLORAL 
+HYDRATE. Proven 
+method performance via
+method specific 
+protocol- must show in 
+QA manual. Miami 
+Dade# EVN0000098, 
+Group B Line 7.
+0.0000
+EA
+$0.0000
+$300.0000
+$0.0000
+$0.0000
+OPN2126585G1_2_10
+5 
+9899180
+CYANOGEN 
+CHLORIDE. Proven 
+method performance via
+method specific 
+protocol- must show in 
+QA manual. Miami 
+Dade# EVN0000098, 
+Group B Line 8.
+0.0000
+EA
+$0.0000
+$240.0000
+$0.0000
+$0.0000
+OPN2126585G1_2_10
+6 
+9899180
+TOTAL ORGANIC 
+CARBON. Proven 
+415.0000
+EA
+$0.0000
+$21.6000
+$8,964.0000
+$6,328.8000
+=== page 3882 ===
+Current Procurement Contracts Sorted by Contract ID # As of 11/24/25
+Page 3882 of 6451
+Lead Agency Contact (Contact Unit Mgr if Incorrect)
+EOCONNELL@broward.org
+Contract ID #
+Document Description
+Start Date
+End Date
+Not To Exceed
+Amount Ordered
+OPN2126585G1_2
+Lab Testing & Sampling Srvcs.
+7/1/2023
+6/30/2028
+$130,000.00
+$85,214.00
+Vend#-AddrID-ContactID
+Legal Name
+Vendor Contact Email
+Vendor Phone #
+VC00105628
+FLORIDA SPECTRUM ENVIRONMENTAL 
+SERVICES
+LAJOHNSON1@AOL.COM
+  
+Item #
+Category
+Description
+Total Line Qty
+Released
+UO
+M
+Maximum Line 
+Amount
+Unit Price
+Total Line Released 
+Amount
+Amount Paid
+method performance via
+method specific 
+protocol- must show in 
+QA manual. Miami 
+Dade# EVN0000098, 
+Group B Line 9.
+OPN2126585G1_2_10
+7 
+9899180
+TOTAL ORGANIC 
+HALIDES. Proven 
+method performance via
+method specific 
+protocol- must show in 
+QA manual. Miami 
+Dade# EVN0000098, 
+Group B Line 10.
+415.0000
+EA
+$0.0000
+$180.0000
+$74,700.0000
+$52,740.0000
+OPN2126585G1_2_10
+8 
+9899180
+UV ABSORBANCE 
+AT 254 NM. Proven 
+method performance via
+method specific 
+protocol- must show in 
+QA manual. Miami 
+Dade# EVN0000098, 
+Group B Line 11.
+0.0000
+EA
+$0.0000
+$60.0000
+$0.0000
+$0.0000
+Vendor Total
+$0.0000
+$85,214.0000
+$59,812.8000
+Departmental Usage
+# of PO's
+Amount Ordered
+Amount Paid
+WATER & WASTEWATER 
+5
+$85,214.0000
+$59,812.8000
+=== page 3883 ===
+Current Procurement Contracts Sorted by Contract ID # As of 11/24/25
+Page 3883 of 6451
+Departmental Usage
+# of PO's
+Amount Ordered
+Amount Paid
+OPERATIONS 
+Department Totals
+5
+$85,214.0000
+$59,812.8000
+Renewals
+Line #
+Starts
+Expires
+1 
+7/1/23 
+6/30/28

@@ -1,0 +1,135 @@
+# source: https://legistar.granicus.com/huntsvilleal/attachments/9800841b-3948-44e2-9e23-ef2ab1007faf.pdf
+# path: raw/cache/bbbdb020c072a8b6124814a71fc2748079790ca2.pdf
+# hit page: 24 of 37
+# terms: RideCo
+
+=== page 23 ===
+RIDECO SUBSCRIPTION AND SERVICES AGREEMENT
+SCHEDULE "C"
+DATA PROTECTION UNDERTAKING
+Definitions. Capitalized ternis used herein shall have the meanings set forth in this Section 1.
+Terms that are capitalized but not otherwise defined in this Schedule shall have the meaning set forth
+in the RideCo Subscription and Services Agreement ("Agreement")
+"Personal Data" means data, whether true or not, about an individual who can be identific -
+from that data; or
+(a)
+(b)
+from that data and other information to which the organization has or is likely to have access;
+"Security Incident" means —
+(a)
+any act or omission that compromises the security, confidentiality, or integrity of Operational
+Data as it relates to Customer or the physical, technical, administrative, or organizational safeguards
+put in place by RideCo, or by Customer should RideCo have access to Customer's systems, that relate
+to the protection of the security, confidentiality, or integrity of Operational Data, or
+(b)
+eceipt of a complaint in relation to the privacy and data security practices of RideCo, or :
+reach or alleged breach of this Schedule relating to such privacy and data security practices. Withou
+limiting the foregoing, the loss of or unauthorized access, disclosure, or acquisition of Operational Data,
+or an incident that prevents or limits users or Customer from accessing a system or any Operational
+Data (through the use of malware, ransomware, or otherwise) is a Security Incident.
+RideCo agrees that the following terms shall apply where RideCo accesses, handles or uses any
+Operational Data under the Agreement, including in the course of and/or in connection with
+exercising its rights or carrying out its obligations under the Agreement:
+a. Standard of Care. Except as provided in the Agreement, RideCo shall not sell, rent, transfer,
+listribute, or otherwise disclose Operational Data for RideCo's own purposes or for the benefit of
+nyone other than Customer, in cach case, without prior written consent. RideCo shall comply witt
+any reasonable written instructions the Customer gives RideCo in advance relating to compliance
+with any laws, regulations, court orders, or self-regulatory programs applicable to the collection.
+b. Information Security. RideCo shall maintain reasonable and appropriate policies and procedures to
+protect the security, privacy, integrity, and confidentiality of Operational Data, including a written
+information security program that is reviewed at least annually.
+i.
+RideCo shall implement administrative, physical, and technical safeguards to protect
+Operational Data from unauthorized access, acquisition, or disclosure, destruction, alteration,
+ecidental loss, misuse, or damage that are no less rigorous than accepted industry practic
+cluding the National Institute of Standards and Technology (NIST) Cybersecuri
+Framework, and the Payment Card Industry Data Security Standard), and shall ensure that all
+such safeguards, including the manner in which Operational Data is Processed, comply with
+RideCo Confidential
+Page 21 of 34
+=== page 24 ===
+RIDECO SUBSCRIPTION AND SERVICES AGREEMENT
+applicable data protection and privacy laws, as well as the lerms and conditions of this
+Schedule.
+At a minimum, RideCo's safeguards for the protection of Operational Data shall include: (i)
+limiting access of Operational Data to authorized users; (ii) securing business facilities, data
+centers, paper files, servers, backup systems, and computing equipment, including, but not
+limited to, all mobile devices and other equipment with information storage capability; (iii)
+implementing network, application, database, and platform security; (iv) securing information
+transmission, storage, and disposal; (v) implementing authentication and access controls
+vithin media, applications, operating systenis, and equipment; (vi) encrypting Operationa
+Data stored on any media; (vii) encrypting Operational Data transmitted over public or wireles
+networks; (viii) logically segregating Operational Data from information of RideCo or its other
+customers so that Operational Data is not commingled with any other types of information;
+(ix) conducting risk assessments, penetration testing,
+implementing, at RideCo's sole cost and expense, a corrective action plan to correct any
+material issues that are reported as a result of the testing: (x) implementing appropriate
+personnel security and integrity procedures and practices; and (xi) providing appropriate
+privacy and information security training to RideCo's employees.
+c. PCI-DSS.
+If, in the course of its engagement by Customer, RideCo has access to or will collect, handle,
+access, use. store, process, transmit, dispose of or disclose credit, debit or other payment
+cardholder information (as such term is defined by the PCI-DSS, "Cardholder Data"):
+RideCo: (i) acknowledoes that RideCo is responsible for the security of Cardholder Data that
+RideCo collects, handles, accesses, uses, stores, processes, transmits, disposes of, discloses, or
+otherwise possesses, for or on behalf of Customer or to the extent that RideCo could impact the
+security of Customer's Cardholder Data environment; and ii) shall comply and remain in
+compliance with all rules, regulations, standards, and security requirements of the payment
+brands, including, without limitation, the PCI-DSS, in cach case, as such may be amended,
+modified, supplemented, or replaced from time to time ("PCI Security Requirements")
+including remaining aware at all times of changes to the PCI DSS and promptly implementing
+all procedures and practices as may be necessary to remain in compliance with the PCI-DSS at
+RideCo's sole cost and expense.
+ii.
+RideCo shall, not less than once per year, at RideCo's sole cost and expense undergo a PCI-
+DSS assessment in the form and manner as required by the PCI-DSS and the payment brands
+(a "Security Assessment"), on all of RideCo's systems and System Components (as defined in
+the PCI DSS) used by RideCo to perform the services
+RideCo Confidential
+Page 22 of 34
+=== page 25 ===
+RIDECO SUBSCRIPTION AND SERVICES AGREEMENT
+protection requirements or as otherwise reasonably required by the Customer, RideCo shall not
+inform any third party of any Security Incident involving Customer without first obtaining
+Customer's prior written consent, except when law or regulation requires it.
+RideCo agrecs that Customer has the sole right to determine: (i) whether to provide notice of
+a Security Incident to any affected individuals, regulators, law enforcement, agencies, or
+others, as required by law or regulation or in the Customer's discretion, including the contents
+and delivery method of the notice; and ii) whether to offer any type of remedy to individuals
+affected by the Security Incident, including the nature and extent of such remedy..
+RideCo shall notify the Customer promptly in the event of any claim or complaint from any
+individual to whom the Operational Data relates and/or where there has been an event of non-
+compliance with any data privacy laws by RideCo, whether discovered by RideCo or forming
+the subject of an investigation and/or action by the relevant authorities.
+RideCo shall notify the Customer promptly in the event that RideCo is required by law, court
+order, warrant, subpoena, or other legal or judicial process to disclose any Operational Data to
+any person, unless prohibited by law.
+e. Oversight of Security Compliance. At least once per year, RideCo shall conduct audits of the
+information technology and information security controls for all facilities used in complying with
+its obligations under this Schedule, including, but not limited to, ubtaining a network-level
+vulnerability assessment performed by a recognized third-party audit firm based on recognized
+industry best practices.
+i.
+Upon Customer's written request, to confirm compliance with this Schedule, as well as any
+applicable laws and industry standards, RideCo shall promptly and accurately complete a
+written information security questionnaire provided by Customer, or a third party on
+Customer's behalf, regarding RideCo's business practices and information technology
+environment in relation 10 all Operational Data being handled and/or services being provided
+by RideCo to Customer pursuant to this Schedule. RideCo shall fully cooperate with such
+iii.
+At no charge to Customer, RideCo shall, at least once each calendar year at no greater than a
+twelve month interval from the previous audit (such interval, the "Audit Period"), carry out an
+audit, report, attestation, and opinion that evaluates the security controls over RideCo's sites.
+facilities, systems (including infrastructure, software, people, procedures, and data), and
+system components through or from which the Services are provided, including those of all of
+RideCo's authorized users, subcontractors and subservice organizations, (collectively,
+"RideCo Systems") throughout the entirety of the Audit Period. Without limiting the
+foregoing, RideCo shall document any changes made to RideCo Systems relating to the Audit,
+including RideCo changes in the Subcontractors or subservice organizations used by RideCo,
+as well as assessments and attestations from RideCo, its subcontractors and any subservice
+organizations with respect to the effectiveness of the controls prior to and after the
+implementation of any such change.
+Audit Findings. If: RideCo at any time discovers a material or significant weakness or
+deficiency in RideCo's controls that could reasonably be expected to cause data loss or
+RideCo Confidential
+Page 23 of 34

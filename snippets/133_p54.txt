@@ -1,0 +1,147 @@
+# source: https://nashville.legistar1.com/nashville/attachments/3945d95e-aee0-4c5e-b3cd-bf8bbef09364.pdf
+# path: raw/cache/861aba2527e3a0632e2bf924485acb3a363c182a.pdf
+# hit page: 54 of 70
+# terms: Via Transportation
+
+=== page 53 ===
+Docusign Envelope ID: FB67CC8E-A5D2-4D73-ADD1-FC7AE1463C8E
+& remix
+by @via
+COMPANY AWARDS
+Company awards include:
+→ 2020 World Economic Forum Tech Pioneer - awarded to innovative
+organizations that the World Economic Forum considers "Technology
+Pioneers"
+→ 2020 BloombergNEF Pioneer - awarded to "game changing" organizations
+working in energy, transportation, and sustainable spaces
+2016, 2017, 2018, 2019, 2020, and 2021 GovTech Top 100
+→ 2021 StateUp Top 21 Digital Innovation Company
+Dillon Twombly
+Dillon deang
+Chief Revenue Officer
+dillon@ridewithvia.com
+Remix by Via
+10 Crosby St., Floor 2
+New York, NY 10013
+www.remix.com
+www.ridewithvia.com
+Confidentiality Notice: Please note that this document contains proprietary, confidential, and trade
+secret information of Remix Technologies LLC, a subsidiary of Via
+Transportation Inc., and is exempt from disclosure under California State Law
+and reference to specific exemptions. We request that your office maintain the
+confidentiality of this document and provide Remix and Via with notice of any
+request for disclosure of this information prior to production by contacting
+compliance@ridewithvia.com.
+9
+PROPRIETARY & CONFIDENTIAL
+=== page 54 ===
+Docusign Envelope ID: FB67CC8E-A5D2-4D73-ADD1-FC7AE1463C8E
+Sole Source Review
+Reviewed By:
+Received for Review:
+Recommendation:
+Supplier:
+Description:
+Zak Kelley
+06/25/2024
+Approve
+Via Transportation
+Remix Steet - Street Design Software
+Reviewed:
+Department:
+Pricing:
+Method:
+07/02/2024
+NDOT
+$266,500.00
+Multi-Year Contract
+Procurement Code:
+Procurement Regulations:
+Department Justification:
+MC 4.12.060
+R4.12.060.02 - Other
+See justification.
+Review: Under section R4.12.060.02 of the procurement regulations, a contract may be awarded without competition when only a
+single source is available to provide the good or service.
+This is a request to sole source street design software from Via Transpiration (VT). If VT is found to be the only supplier for SDS, as
+sole source may be recommended. If other supplies are available, a sole source may not be recommended.
+After considerable market research, the division of purchases concurs that this is a sole source. While there are providers with
+similar street design products, the division of purchases is unable to find a platform that combines all the elements of Remix Street
+including but not necessarily limited to design, GIS integration, and the ability to collaborate with/collect feedback from the public.
+Were a competitive solicitation to be issued, it seems reasonably doubtful that Metro would find a provider who could perform the
+same scope of work.
+Further, the department argues that only this product will meet their need due to a variety of factors detailed in their request. The
+division of purchases can neither affirm nor disaffirm this assertion, but defers to NDOT as the subject matter expert.
+A sole source is recommended pursuant to R4.12.060.02.
+=== page 55 ===
+Contract Purchase Agreement 6577813 
+Contract Purchase Agreement # 
+ 
+Document # K5000 Rev C 
+ 
+1 
+ 
+Formatted: Right
+Terms and Conditions 
+ 
+ 
+1. GOODS AND SERVICES CONTRACT 
+ 
+1.1. Heading 
+ 
+This contract is initiated by and between The Metropolitan Government of Nashville and Davidson County 
+("METRO") and Remix Technologies, LLC Enter Legal Name ("CONTRACTOR") located at 114 5th Avenue, Fl 
+17 New York, NY 10011. Enter Address, City, ST ZIP.  This Contract consists of the following documents: 
+• 
+Any properly executed contract amendment (most recent with first priority), 
+• 
+This document, including exhibits, 
+●      Exhibit A – (Pricing)  
+●      Exhibit B – (Scope of Services) 
+ 
+●      Exhibit C – (MISA Terms and Conditions) 
+ 
+• 
+The solicitationSole Source documentation for RFQ# this agreement[Enter Number] and affidavit(s)   (all 
+made a part of this contract by reference), 
+• 
+Purchase Orders (and PO Changes), 
+• 
+CONTRACTOR's response to the solicitation, 
+• 
+Equal Business Opportunity (EBO) Program forms (incorporated by reference). 
+In the event of conflicting provisions, all documents shall be construed in the order listed above. 
+ 
+2. THE PARTIES HEREBY AGREE TO THE FOLLOWING TERMS AND CONDITIONS: 
+ 
+2.1. Duties and Responsibilities 
+ 
+CONTRACTOR agrees to provide Remix: Streets Software the goods and/or services as fully defined in the 
+solicitation and as outlined in Exhibit B – Scope of Services. 
+ 
+2.2. Delivery and/or Installation. 
+ 
+All deliveries (if provided by the performance of this Contract) are F.O.B. Destination, Prepaid by Supplier, Inside 
+Delivery, as defined by METRO. METRO assumes no liability for any goods delivered without a purchase order. All 
+deliveries shall be made as defined in the solicitation or purchase order and by the date specified on the purchase 
+order. Installation, if required by the solicitation and/or purchase order shall be completed by the date specified on the 
+purchase order. 
+ 
+3. CONTRACT TERM 
+ 
+3.1. Contract Term 
+ 
+The Contract Term will begin on the date (the “Effective Date”) of [insert date here], or the date this Contract is 
+approved by all required parties and filed in the Metropolitan Clerk's Office, whichever date last occurs. This Contract 
+Term will end (60) months from the Effective Date. The The Contract Term will begin on the date (the “Effective 
+Date”) this Contract is approved by all required parties and filed in the Metropolitan Clerk's Office. This Contract Term 
+will end (36) months from the Effective Date. In no event shall the term of this Contract exceed thirty-six (36) months 
+from the Effective DateContract Term will begin on the date (the “Effective Date”) of April 2, 2024 or the date this 
+Contract is approved 
+by all required parties and filed in the Metropolitan Clerk's Office whichever date last occurs. This Contract Term will 
+end (60) months from the Effective Date.. This Contract may be extended by Contract Amendment. The option to 
+Formatted: Centered
+Formatted: Font: Not Bold, Not Italic
+	
+		
+

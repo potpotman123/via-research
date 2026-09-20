@@ -1,0 +1,47 @@
+# source: raw/bleecker_drive/North Carolina/AII_On_Demand_Microtransit_Webinar.pdf
+# path: raw/bleecker_drive/North Carolina/AII_On_Demand_Microtransit_Webinar.pdf
+# hit page: 70 of 79
+# terms: Via+SaaS, Via+turnkey, Via+vehicles
+
+=== page 69 ===
+MATS
+• Turnkey: Operated by River North 
+Transit, subsidiary of Via
+• Goals:
+• Control costs: Fixed route 
+service was being cut by 45%, 
+use microtransit to fill gap
+• Modernize operations
+• Results:
+• Not only filled the gaps from service reduction, but also able to expand 
+hours of service at lower cost.
+• New technology has been adopted easily by people who like tech and has 
+brought in new users. However, some aspects have been challenging for 
+older riders.
+• Goal was 175 trips/day. Currently doing 180-240 trips/day.
+• Generating more fare revenue than expected.
+=== page 70 ===
+RAPID CONNECT
+• Evolved from $8 Million Michigan Mobility Challenge pilot project, “Rapid On 
+Demand.” That was turnkey model operated by Via. Only paratransit service 
+in small area. Now using SaaS model from Ecolane.
+• Goals: 
+• Operational analysis found underserved areas that weren’t dense enough 
+to support fixed route. Wanted to fill gaps in service area.
+• Provide first mile-last mile connections
+• Use underutilized vehicles
+• Results:
+• Goals were met, but agency is surprised that more people aren’t using 
+service. Averaging 1 rider/hour – reaching out beyond “super users.”
+=== page 71 ===
+• SaaS model, using Liftango
+• Has very small fleet of BCGo-branded vans. 
+Exploring partnership with local 5310 agency 
+to use their underutilized vehicles.
+• Goal:
+• Test demand for countywide service
+• Result:
+• Data generate proves there is demand 
+for countywide service. Agency hopes to 
+transition from city department to 
+countywide authority.

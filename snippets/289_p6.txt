@@ -1,0 +1,131 @@
+# source: raw/bleecker_drive/Arlington, Texas/Via_Contract_Renewal_redacted.pdf
+# path: raw/bleecker_drive/Arlington, Texas/Via_Contract_Renewal_redacted.pdf
+# hit page: 6 of 13
+# terms: Via+not to exceed, Via+not-to-exceed, Via+per hour
+
+=== page 5 ===
+EXHIBIT A 
+RIDESHARE SERVICES SCOPE OF SERVICES 
+ 
+1. Purpose; Scope 
+Contractor will provide rideshare services as described below (the “Service”) for the City and its residents 
+and visitors. Contractor's Services include: 
+ Access to Via's fully localized dynamic vehicle routing and real-time passenger aggregation 
+system; 
+ Establishing relationship with vehicle rental company ("Vehicle Partner") to provide access to 
+Vehicles on a rental basis to independent contractor driver partners; 
+ Accompanying technical and operational support services in order to provide a turnkey solution; 
+ A series of service development meetings to refine service scope for a supplemental microtransit 
+service that operates during peak hours to maximize efficiency across modes and improve quality 
+of service (the “Dynamic Direct Route”); 
+ Data sharing and reporting as described under Section 9 below; 
+ Access to the Via mobile application for users to book rides from a smartphone; 
+ Integration of the Arlington Student Transportation Program as described under Section 10 
+below; 
+ Integration of the Arlington RAPID service as described under Section 11 below; and 
+ Advertising services as described under Section 12 
+ 
+2. Duration 
+The Project Scope will begin on January 1, 2025, unless otherwise mutually agreed by both parties. The 
+Service shall operate through December 31, 2026, with the option to renew in accordance with the 
+Contract. 
+3. Fees 
+A. Contractor Fees 
+ 
+The City agrees to pay Contractor the amounts below, not to exceed $20,791,648.32 in the aggregate for 
+the term of this Contract. 
+ 
+The fees for rideshare services shall be on a cost per on-demand service hour basis, corresponding with 
+the tasks outlined in the Contractor's response to the RFP, as outlined below. The fees for the Dynamic 
+Direct Route portion of the Services shall be on fixed costs and a cost per on-demand service hour basis, 
+corresponding with the tasks outlined below.
+=== page 6 ===
+Service
+Arlington On-Demand
+(Micro TaaS)
+Cost Category
+Year 8: January 1, 2025 -
+December 31, 2025
+Year 9: January 1, 2026 -
+December 31, 2026
+Total
+$9,156,776.20
+$9,432,069.40
+Dynamic Direct Route
+Total
+$834,070.25
+$252,790.00
+RAPID
+(Autonomous Vehicle Program)
+Total
+Grand Service Total (without farebox)
+$816,713.35
+$10,807,559.80
+$0.00
+$9,684,859.40
+"On-demand service hours" or "service hour" means an hour that one driver is providing service pursuant
+to this Contract. The total number of service hours may differ from those set forth herein based on the
+mutual agreement of the parties, as long as the total cost paid by the City does not exceed the total "not to
+exceed" amount (subject to the provisions of the Contract). The Total Annual Cost shown above is based
+on the below assumptions with respect to source of funding. That amount (and the resulting number of
+service hours and operating hours required to be provided by Contractor) may change if the actual fare
+revenue differs from projections.
+Upon reasonable request, Via will provide customization and development services subject to the
+following fee:
+Service
+Customize Via's service as may
+be requested
+Description
+Fee
+B. Invoicing
+The Fees shown above will vary month-to-month and be invoiced on a cost-per-hour basis (for service
+hours actually provided), or otherwise as outlined in subsection A above.
+Contractor shall invoice the City monthly on or about the 15* of each month, starting on or about January
+15, 2025, to include fees for the previous calendar month.
+Invoices shall include:
+• Costs of services provided during previous calendar month;
+• Dates of service work;
+• Any necessary reconciliations of charges or payments from previous calendar months), if
+applicable;
+=== page 7 ===
+Amount of any Service Revenue and Advertising Revenue (if applicable) collected during the 
+invoice period; and 
+ Amount of Service Revenue and Advertising Revenue (if applicable) applied to invoice balance. 
+The following information should be submitted with each invoice as supporting documentation: 
+ Documentation of any charges on the invoice, including but not limited to amount of driver tips, 
+record of van hours, and cleaning costs for the month; 
+ Detailed list of all rides taken with any promotional campaign or other special ride program for 
+the month;. 
+ The following information regarding the Advertising services, as described in Section 12: 
+ Total revenue collected during the reporting period from Advertising services, broken out 
+by type of advertising solution; 
+ List of expenses and fees incurred during the reporting period; and 
+ Total revenue net of fees and expenses. 
+ 
+4. Project Team  
+Contractor will take responsibility for the project management and integration of all relevant elements of 
+the on-demand rideshare service on a continuous basis during the course of such service and will 
+designate a “General Manager” 
+ 
+. Contractor will subsequently designate a “Partner 
+Success Manager” 
+ 
+ 
+ 
+ 
+  
+The City will designate a Project Manager to be the primary point of contact with Contractor throughout 
+the duration. The Contractor General Manager will be empowered to enact decisions related to the project 
+on the Contractor’s behalf and will serve as the primary point of contact with the City’s Project Manager 
+on an ongoing basis. 
+  
+During the course of the Service, Contractor’s Project Team, led by its General Manager and Partner 
+Success Manager, will be closely engaged with the City in order to ensure that key deliverables are 
+provided in a timely way, and that learnings from the Service are incorporated into its optimization. 
+  
+5. Service Scope Parameters 
+On an ongoing basis, Contractor shall set service scope parameters that yield a successful, sustainable, 
+and efficient Service. 
+The service scope parameters will be updated from time to time, and ultimately be determined by both 
+learnings generated about demand patterns and economics over time, as well as the level of City financial 
+resources available for the Service over the year. Based on these factors, the Contractor shall use

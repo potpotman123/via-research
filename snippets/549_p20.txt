@@ -1,0 +1,104 @@
+# source: raw/bleecker_drive/Hall County/Micro-Transit-Feasibility-Study.pdf
+# path: raw/bleecker_drive/Hall County/Micro-Transit-Feasibility-Study.pdf
+# hit page: 20 of 24
+# terms: Via Mobility
+
+=== page 19 ===
+RFP #39-021 – Microtransit Feasibility Study  
+Via Mobility, LLC 
+ 
+ 
+ 
+Page 17 
+ 
+ 
+Conclusions 
+The report provides the following conclusions: 
+ 
+Service Area: Hall County seeks to understand 
+whether 
+microtransit 
+should 
+be 
+provided 
+throughout Hall County (400sq. mi), the urbanized 
+area (130sq. mi) or the Gainesville City Limits (35sq. 
+mi). Currently, Dial-A-Ride is provided across the 
+entire county, while the Gainesville Connection runs 
+largely within the City Limits and a small portion of 
+the urbanized area.  
+ 
+Via recommends that microtransit cover the entire 
+County, providing both a replacement for Dial-A-
+Ride and some fixed-route services, as well as 
+capturing new riders such as those who currently 
+use a taxi or their own private vehicle.  
+ 
+However, providing microtransit across the entire 
+County 
+could 
+induce 
+significant 
+demand, 
+particularly if fares are kept low. Currently, Hall 
+County completes around 40 Dial-A-Ride trips per day. Approximately half of these trips are 
+within the core, ‘on-demand’ zone, with the remainder extending to the outer county, which 
+would be operated on a pre-scheduled basis. Given these outer county trips cover long 
+distances and are geographically spread throughout the zone, a significant increase in the 
+number of County-wide trips could result in the microtransit service reaching capacity during 
+peak periods. If this does occur, Via recommends implementing the following tools to 
+manage demand: 
+● Limiting access to rides in outer Hall County to those who need them most: For 
+example, Hall County may choose to only accept bookings outside the urbanized area 
+from elderly and disabled riders. 
+● Managing demand by using dynamic pricing: Hall County could manage demand during 
+peak periods by increasing fares. If desired, concession holders and priority riders 
+could be exempt from these fare increases.  
+● Increasing maximum wait times:  By increasing maximum wait times, some riders may 
+need to wait longer periods during peak periods. This will limit demand, as riders who 
+have the option to drive may choose to do so when wait times are high.  
+ 
+Hours of Operation: Hall County seeks to understand during what hours of operation 
+microtransit should be available. Via recommends launching the service with hours that
+=== page 20 ===
+RFP #39-021 – Microtransit Feasibility Study  
+Via Mobility, LLC 
+ 
+ 
+ 
+Page 18 
+ 
+ 
+match the current Dial-A-Ride and fixed-route services, from 6am to 7pm, Monday to Friday. 
+As ridership grows, Hall County can extend hours of operation based on rider demand.  
+ 
+Quality of Service: Hall County seeks to understand what quality of service metrics are 
+appropriate for a microtransit service in the region. Via recommends designing a service with 
+average wait times of around 15 minutes, with maximum wait times of 35 - 40 minutes. 
+ 
+Financial Resources: Hall County seeks a microtransit service which does not exceed 
+approximately $1.5M per year. Via recommends Scenario 5, which will provide the highest 
+quality of service while remaining within this budget. Fare revenue will also offset some of 
+this cost.
+=== page 21 ===
+RFP #39-021 – Microtransit Feasibility Study  
+Via Mobility, LLC 
+ 
+ 
+ 
+Page 19 
+ 
+ 
+Appendix 1 - Ridership Data  
+Dial-A-Ride Demand Data 
+Dial-A-Ride data was provided for 10 days in October 2018. A total of 404 trips were 
+completed in this period. 
+ 
+Daily trip requirements: 
+● Busiest day - 51 trips 
+● Average day - 40 trips 
+● Lowest demand day - 33 trips 
+ 
+Trips by time of day: 
+The busiest period is early afternoon, where 39% of daily trips fall within a 3-hour period. 
+See the graph below for more information.

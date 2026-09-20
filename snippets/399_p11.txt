@@ -1,0 +1,220 @@
+# source: raw/bleecker_drive/Mountain Line/Mountain-Line-On-Demand-Feasibility-Study_Final.pdf
+# path: raw/bleecker_drive/Mountain Line/Mountain-Line-On-Demand-Feasibility-Study_Final.pdf
+# hit page: 11 of 56
+# terms: Via+per hour, Via+per vehicle per month, Via+vehicles
+
+=== page 10 ===
+3  
+ 
+MOUNTAIN LINE ON-DEMAND FEASIBILITY STUDY 
+Chater 2: On-Demand Strategies 
+There are two main on-demand strategies to choose from: microtransit and partnership with 
+transportation network companies (TNCs). The following provides information on the types of 
+operation models and applicability of each strategy.  
+MICROTRANSIT  
+The Federal Transit Administration (FTA) defines microtransit as IT-enabled, multi-passenger 
+transportation service that serves passengers using dynamically generated routes to maximize 
+ridership and productivity. The rides are real-time hailed through a smart phone app. This 
+transportation option is intended to increase passenger convenience by keeping wait times between 5 
+– 20 minutes and reduces walking distances since it is a curb to curb program.   
+OPERATION MODELS 
+There are a variety of private companies that partner with transit agencies to provide this service 
+through a spectrum of operation models, from software only to a turn-key solution. Hybrid operation 
+models also exist wherein the private company can provide software and vehicles, or software and 
+operations.   
+SOFTWARE  
+Most of the companies offering microtransit services provide the software only operation model. This 
+includes both a passenger app and a driver app. The software for the driver app will dynamically route 
+drivers in real-time to pick up riders in the most efficient manner. The software matches riders together 
+with similar origins and destinations, creating shared rides. The driver has a tablet that gives directions 
+to pick up passengers. The software only model also includes a smartphone app and website for 
+passengers to request rides; some companies also provide a call-in option for people who do not have 
+a smart phone or would rather talk to a person to order a ride. However, based on the peer cities, if the 
+app-based option is advertised and promoted, people tend to use the app since it results in a faster pick 
+up. Through the app, the passengers can see where the vehicle is in real-time and the estimated wait 
+time. 
+Through the software only model, the drivers, vehicles, and operations management are all provided 
+by the transit agency. This provides the agency more control of the overall program, driver training, 
+customer service expectations, and vehicle maintenance. Agencies can also use underutilized 
+paratransit vehicles for microtransit service. In this scenario, drivers do not need a Commercial Drivers 
+License (CDL) to operate a paratransit van, making it easier to hire drivers and expedited training.  
+TURN-KEY 
+The turn-key solution is an operation model where the private company deploys and operates the 
+microtransit service on the agency’s behalf. The model includes the technology needs as well as the 
+drivers, vehicles, and operations management. This option can be more expensive than the software 
+only model, and the agency has less control of the overall operations and program details. This solution 
+works best for transit agencies that do not have capacity to either repurpose existing vehicles or 
+purchase additional vehicles. In addition, if an agency is facing driver shortages or is at management or 
+dispatching capacity, this solution can relieve some of the added workload of establishing a new 
+program. With the turn-key model, there needs to be in-house oversite of the program and
+=== page 11 ===
+4  
+ 
+MOUNTAIN LINE ON-DEMAND FEASIBILITY STUDY 
+management of the private company to ensure not only the success of the program, but that it 
+complements the transit agency’s brand and reputation in the community.   
+EXAMPLES 
+The following table shows examples of private companies that provide microtransit software; this is not 
+an exhaustive list and was updated October 2018. There is additional information in Appendix A. 
+Table 1: Microtransit service providers 
+ 
+TransLoc 
+Routematch 
+Ecolane 
+Via 
+Transdev 
+Type of 
+service 
+provided 
+Software only 
+Software only 
+Software only 
+Software or 
+turn-key 
+Software or 
+turn-key 
+Cost for 6-
+month pilot 
+6-month pilot: 
+$25,000 
+(subsidized) 
+6 months pilot 
+with 6 vehicles: 
+$45,000 - 
+$50,000 
+N/A 
+6-month pilot is 
+$23,500, 12-
+month for 
+$44,000  
+N/A 
+Software 
+start-up 
+costs 
+Included in 
+pilot 
+Included in 
+pilot 
+$33,000 first 
+year, 20% less 
+the next year 
+$40,000 set up 
+fee 
+$15,000 - 
+$35,000  
+Reoccurring 
+software 
+costs 
+1-5 vehicles 
+$500 per 
+month, 6-10 
+$450 per month 
+$1,000 per 
+vehicle per 
+month  
+$800 per 
+vehicle per 
+month 
+$700 per 
+vehicle per 
+month 
+Depends on 
+partnership 
+agreement 
+Turn-key cost 
+per hour 
+N/A 
+N/A 
+N/A 
+$45-49 per hour 
+Call center 
+$1.80 per call. 
+$28-$33 per 
+hour 
+Order rides 
+through app 
+and phone 
+option 
+Both 
+Both 
+Both 
+Both 
+Both 
+ADA vehicle 
+option 
+Software only 
+Software only 
+Software only 
+Yes 
+Yes 
+Provide data 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Payment 
+through app 
+No? 
+Yes 
+Yes 
+Yes 
+Yes 
+Integrate 
+fare with 
+Mountain 
+Line 
+No? 
+Yes 
+Yes 
+Yes 
+Yes 
+TRANSPORTATION NETWORK COMPANY (TNC)  
+Transportation Network Companies (TNC) such as Uber and Lyft have provided app-based ride-
+sourcing services in U.S. cities since 2012. These companies match passengers with vehicles via a 
+mobile app and website. These services are also known as ride-hailing and ridesharing.
+=== page 12 ===
+5  
+ 
+MOUNTAIN LINE ON-DEMAND FEASIBILITY STUDY 
+TRANSIT PARTNERSHIPS 
+When TNCs began expanding in U.S. cities, it was uncertain if this new service would complement 
+transit or detract from ridership growth. Several transit agencies partnered with TNCs directly to try 
+and understand the relationship between transit and this new technology. The primary motivation for 
+transit agencies to partner with TNCs include demonstrating innovation, increasing mobility for existing 
+and new transit customers, and improving cost efficiency. TNC companies are motivated by attracting 
+new customers and demonstrating efforts to solve local mobility challenges. Many of the partnerships 
+with TNCs have been in the form of agencies subsidizing TNC trips within a certain area or time of day 
+to fill in transportation gaps. Taxi’s have also been utilized to provide a cash-only and call-in option.  
+COMPARING STRATEGIES  
+Both a TNC partnership and a microtransit program are best used in areas and/or times of day when 
+there is low fixed-route ridership, such as late-night service or serving a suburban neighborhood. 
+However, there are two major differences between the on-demand solutions. The first difference is 
+program oversight and management. Transit agencies have less control with a TNC partnership in terms 
+of vehicle type, drivers, and data sharing. However, these programs run more like a turn-key since there 
+is less staff needed and utilizes existing vehicles. A challenge with a TNC partnership is the availability 
+of data. TNCs have been hesitant to provide trip data, including origin and destination data, due to 
+concerns over privacy and public record requests. The second difference is the cost of service. 
+Microtransit operations are often budgeted using cost per hour, like traditional fixed-route services. 
+TNC partnerships are subsidizing trips and therefore budgeted using cost per trip. Depending on the 
+estimated ridership, a service might be more cost efficient through one of the on-demand strategies, 
+but not the other.  
+PEER CITY RESEARCH 
+Peer city research was conducted to understand the types of on-demand programs that are being 
+implemented around the country. Researching how these programs are being implemented, lessons 
+learned, and successes associated with the services is pertinent to the development of this On-Demand 
+Study. Additional information about the research can be found in Appendix F. 
+Fourteen different on-demand programs were researched; six of those were TNC partnerships and eight 
+were microtransit programs. From the research conducted, 47% are first mile-last mile programs, 40% 
+of the programs serve areas with no or limited transit service, and 13% are programs to fill late-night or 
+weekend service gaps.  
+There are four main lessons learned from the peer city research. The first is marketing. It is important 
+to create a robust plan, educate customers, and use both traditional outreach methods and social 
+media to promote the program. Second is demand. Many of the programs had more demand than 
+predicted, which causes difficulties with wait times and budget. It is important to be flexible and track 
+the program daily, especially during the beginning of implementation. The third lesson learned is to 
+have a pilot or demonstration. It is important to test and make adjustment often. Lastly is planning. Be 
+clear on the goals to help design the program. The agencies researched include: 
+City of Phoenix | San Joaquin Regional Transit District | Capital Metro | Pinellas Suncoast Transit Authority | Norwalk 
+Transit District | York Regional Transit | City of Arlington | Gwinnett County Transit | Harvard University | Tri-Valley 
+Wheels | City of Monrovia | Valley Regional Transit | Dayton RTA| Marin Transit | Ann Arbor Area Transit Authority

@@ -4,7 +4,47 @@
 # terms: Via+drivers, Via+subscription
 
 === page 127 ===
-
+ii. Describe how any high-level issues (outside normal complaints) will be
+handled.
+Via handles all service-related complaints, concerns, and recommendations with the
+utmost diligence and efficiency. As described in the table below, we have developed
+predefined escalation procedures to ensure that any registered complaints are addressed
+with the appropriate level of support and oversight, and that all relevant parties are kept
+apprised of updates and resolution timelines. We classify complaints according to a 4-tier
+scale:
+Tier Example
+Typical Response
+L1
+L2
+Minor issue
+Driver education and written warning (with further
+steps if there is a pattern of the issue).
+Minor policy violation
+Customer service refresher training and written
+warning (with further steps if there is a pattern of
+the issue).
+Via takes immediate action by suspending the
+driver while an in-depth investigation is run by our
+Serious issue requiring investigation Incident Management Operations (IMO) team.
+Depending on the outcome of the investigation, the
+driver may be terminated or given a final warning.
+Serious issue requiring investigation
+and legal follow-up
+Via takes immediate action by suspending a driver
+while an in-depth investigation is run by the IMO
+team. A legal response is provided as part of the
+process. Depending on the investigation, the driver
+may be terminated or given a final warning.
+Via's Incident Management Operations (IMO) team, which is staffed 24/7, completes all
+investigations promptly. When an L3 or L4 incident occurs, the IMO or the Project Lead
+will notify the customer within 24 hours and will subsequently provide an in-depth
+readout after the investigation is completed. Following each investigation, an IMO team
+member presents a recommendation for next steps, and a team leader reviews and either
+approves or adjusts that recommendation. Via uses a points-based system to evaluate a
+driver's safety and customer service record. Each incident has an associated point and
+drivers are subject to refresher training and disciplinary action when they reach certain
+points thresholds. Disciplinary action could range from a formal warning to termination.
+RFP No. 25-08 40
 === page 128 ===
 iii. Provide additional information and documentation related to these services.
 As described in the above sections, our customer’s riders and booking agents have many

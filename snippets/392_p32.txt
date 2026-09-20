@@ -1,0 +1,343 @@
+# source: raw/bleecker_drive/Los Alamos (Spare Labs)/1040_24_A_-_AGR_24-37_Spare_Labs_Inc.pdf
+# path: raw/bleecker_drive/Los Alamos (Spare Labs)/1040_24_A_-_AGR_24-37_Spare_Labs_Inc.pdf
+# hit page: 32 of 81
+# terms: Spare Labs
+
+=== page 31 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+31 
+ Agreement Template Version: 04012024 
+Table 2. Annual Software Platform Fees 
+Annual Software Platform Fees shall not vary based on number of County’s Active Vehicles as described in Table 5.  
+Contract 
+Year 
+Base Annual 
+Fee 
+CPI % 
+Increase 
+Cap 
+CPI Dollar 
+Amount 
+Increase Cap 
+Total NTE 
+Annual Fee 
+Cap 
+# of 
+Years 
+Total Fees 
+NTE 
+Year 1  
+ 
+ $13,300.00  
+0% 
+ $0.00 
+ $13,300.00  
+1 
+ $13,300.00  
+Years 2 - 15 
+ $13,300.00  
+8% 
+ $1,064.00  
+ $14,364.00  
+14 
+ $201,096.00  
+TOTAL 
+  
+  
+  
+  
+  
+ $214,396.00  
+ 
+Table 3. Annual Maintenance and Support Fees – Premium Partner Success Package 
+Annual Maintenance and Support Fees shall not vary based on number of County’s Active Vehicles as described in 
+Table 5. 
+Contract 
+Year 
+Base Annual 
+Fee 
+CPI % 
+Increase 
+Cap 
+CPI Dollar 
+Amount 
+Increase Cap 
+Total NTE 
+Annual Fee 
+Cap 
+# of 
+Years 
+Total Fees 
+NTE 
+Year 1  
+ 
+ $7,200.00  
+0% 
+ $0.00 
+ $7,200.00 
+1 
+ $7,200.00 
+Years 2 - 15 
+$7,200.00 
+8% 
+ $576.00  
+ $7,776.00 
+14 
+ $108,864.00  
+TOTAL 
+  
+  
+  
+  
+  
+ $116,064.00  
+ 
+Table 4. One-Time Implementation Fee 
+One-Time Implementation Fees shall not vary based on number of County’s Active Vehicles as described in Table 5. 
+One-Time Implementation fee includes all implementation Services describe herein and shall 
+be billed to County as follows: 
+ 
+Completion of Phases 1 - 3 
+$1,666.50 
+Completion of Phases 4 - 6 
+$1,666.50 
+Completion of Phases 7 - 8 
+$1,667.00 
+Total 
+$5,000.00 
+ 
+ 
+ 
+ 
+ 
+(This section intentionally left blank) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Attachment A
+=== page 32 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+32 
+ Agreement Template Version: 04012024 
+Table 5. Annual Vehicle Fees 
+Contract 
+Year 
+Base Fee 
+CPI % 
+Increase 
+Cap 
+CPI Dollar 
+Amount 
+Increase 
+Cap 
+Total NTE Fee 
+Per Vehicle 
+# of 
+Vehicles 
+(Total NTE Fee Per 
+Vehicle)  
+X  
+(# of Vehicles) 
+Year 1  
+ $4,212.00  
+0% 
+ $0.00 
+ $4,212.00  
+3 
+ $12,636.00  
+Year 2 
+$4,212.00 
+8% 
+ $336.96  
+ $4,548.96  
+3 
+ $13,646.88  
+Year 3 
+$4,212.00 
+8% 
+ $336.96  
+ $4,548.96  
+3 
+ $13,646.88  
+Year 4 
+$4,212.00 
+8% 
+ $336.96  
+ $4,548.96  
+3 
+ $13,646.88  
+Year 5  
+$4,212.00 
+8% 
+ $336.96  
+ $4,548.96  
+3 
+ $13,646.88  
+Year 6  
+$4,212.00 
+8% 
+ $336.96  
+ $4,548.96  
+3 
+ $13,646.88  
+Year 7  
+$4,212.00 
+8% 
+ $336.96  
+ $4,548.96  
+3 
+ $13,646.88  
+Year 8  
+$4,212.00 
+8% 
+ $336.96  
+ $4,548.96  
+3 
+ $13,646.88  
+Year 9  
+$4,212.00 
+8% 
+ $336.96  
+ $4,548.96  
+3 
+ $13,646.88  
+Year 10  
+$4,212.00 
+8% 
+ $336.96  
+ $4,548.96  
+3 
+ $13,646.88  
+Year 11  
+$4,212.00 
+8% 
+ $336.96  
+ $4,548.96  
+3 
+ $13,646.88  
+Year 12  
+$4,212.00 
+8% 
+ $336.96  
+ $4,548.96  
+3 
+ $13,646.88  
+Year 13  
+$4,212.00 
+8% 
+ $336.96  
+ $4,548.96  
+3 
+ $13,646.88  
+Year 14  
+$4,212.00 
+8% 
+ $336.96  
+ $4,548.96  
+3 
+ $13,646.88  
+Year 15  
+$4,212.00 
+8% 
+ $336.96  
+ $4,548.96  
+3 
+ $13,646.88  
+SUBTOTAL  
+ $203,692.32  
+Additional estimated cap for possible vehicle increases throughout the Term of this 
+Agreement, at County's sole option.   
+Estimated at ($4,548.96 X 6 vehicles) X 14 years 
+ $382,112.64  
+TOTAL NTE Amount 
+ $585,804.96  
+ 
+Additional Notes Applicable to Pricing for Table 5. 
+ 
+1. 
+Increasing or Decreasing Active Vehicles.  “Active Vehicles” as defined herein, means the County’s vehicles, 
+identified by the County and monitored by Contractor, for Microtransit and Paratransit services, wherein the 
+Platform is used by County staff. As of the Effective Date of this Agreement, Project Implementation shall include 
+three (3) Active Vehicles utilized in County’s Microtransit and Paratransit fleet.  Parties acknowledge that County 
+estimates a possible increase in Active Vehicles up to nine (9) total Active Vehicles throughout the Term of this 
+Agreement, or more.  Nothing in Exhibit A shall be construed to limit the County’s option to increase its number 
+of Active Vehicles above the aforementioned nine (9) total estimated Active Vehicles. County may, at County’s 
+sole option, increase or decrease the number of Active Vehicles at any time throughout the Term of this 
+Agreement.  Increases and decreases to the number of Active Vehicles shown on Table 5 shall be documented 
+to reflect the actual revised number of Active Vehicles and shall be authorized through Amendment to this 
+Agreement as described in Section AG. Contractor reserves the right to remotely monitor County’s use of the 
+Platform in Active Vehicles to verify that the number of agreed-upon Active Vehicles matches actual Platform 
+usage. Annual Vehicle Fees for Active Vehicles added by County for a partial contract year shall be calculated 
+using a prorated monthly rate of the then-current Annual Vehicle Fee/12 months. Contractor shall invoice County 
+Annual Vehicle Fees pursuant to Section E(3).  Unless otherwise agreed upon in writing, Vehicle Fee increases 
+shall take effect, and County shall be invoiced the applicable additional Vehicle Fee upon the effective date of 
+any applicable Amendment to this Agreement.  Unless otherwise mutually agreed upon in writing, Vehicle Fee 
+decreases shall take effect upon the effective date of any applicable Amendment to this Agreement, and the 
+Attachment A
+=== page 33 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+33 
+ Agreement Template Version: 04012024 
+decreased Vehicle Fee shall be reflected in the next annual invoice for Annual Vehicle Fees.  County agrees that 
+should County decrease its number of Active Vehicles to less than three (3) Active Vehicles, County’s minimum 
+Vehicle Fee shall be calculated as the then current Total NTE Fee Per Vehicle X 3. Vehicle Fees are based on 
+the net number of vehicles in service.  County may replace vehicles as needed due to wrecks, obsolescence, or 
+other events requiring replacements. 
+ 
+2. 
+Temporary Increases to Active Vehicles.  Notwithstanding the foregoing, County may, at County’s sole option, 
+temporarily increase its number of Active Vehicles for up to a forty-eight (48) hour period, at no additional charge 
+to County and with no additional notification to Contractor, for special circumstances, including but not limited to, 
+inclement weather events and special County sponsored events. For temporary Active Vehicle increases 
+exceeding a forty-eight (48) hour period, the County Project Manager shall notify Contractor of such an increase 
+in writing via e-mail.  In that case, Contractor may then either waive, in writing, additional Active Vehicle fees for 
+a temporary increase in the number of Active Vehicles or may charge County for an increase in Active Vehicles, 
+as described herein. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(This section intentionally left blank) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Attachment A

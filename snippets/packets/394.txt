@@ -1,0 +1,346 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/North San Diego/Board Agenda Packet - March 20, 2025.pdf
+# pages_total: 255; hit_pages: [2, 116, 135]; included: [2, 116, 135]
+# context: Bleecker Drive folder: North San Diego
+
+=== page 2 of 255 ===
+2 
+Any writings or documents provided to a majority of the members of the NCTD Board 
+of Directors regarding any item on this agenda will be made available for public 
+inspection at the office of the Clerk of the Board located at 810 Mission Avenue, 
+Oceanside, CA 92054, during normal business hours. 
+ 
+PUBLIC COMMENT 
+ 
+IN-PERSON PARTICIPATION AT THE BOARD MEETINGS: All persons wishing to 
+address the Board of Directors during the meeting can do so in-person. Speakers 
+must complete a “Request to Speak” form provided before entering the Board Room 
+at NCTD, 810 Mission Avenue, Oceanside, CA. The completed form must be given 
+to the Clerk of the Board before that agenda item is called. Members of the public 
+may also submit their comments via email at publiccomment@nctd.org. All 
+comments received prior to the start of the Board or Committee meeting will be 
+provided to the Board/Committee and made available for public inspection on the 
+NCTD website at: https://gonctd.com/about-nctd/board-information/ prior to the 
+meeting and included in the record of the Board/Committee Meeting.  
+ 
+VIRTUAL PARTICIPATION AT THE BOARD MEETINGS: Pursuant to Government 
+Code section 54953, NCTD is providing alternatives to in-person attendance for 
+viewing and participating in NCTD Board and/or Committee meetings.  
+ 
+Zoom Participation: 
+Members of the public may view or participate in the meeting through Zoom from a 
+PC, 
+MAC, 
+iPad, 
+iPhone, 
+or 
+Android 
+device, 
+at 
+the 
+following 
+URL: 
+https://nctd.zoom.us/j/82846871954?pwd=ePwWP5oOePYu8jLGGr4qBW7AVaTH9h.1  
+Passcode: 507406 
+ 
+Phone Participation: 
+To join the meeting by phone, dial 669-900-6833 
+Webinar ID: 828 4687 1954 
+Passcode: 507406 
+ 
+If you would like to speak on an agenda item via Zoom during the meeting, you must 
+email the Clerk of the Board at clerk@nctd.org. Please provide the Clerk your name 
+and item number you wish to comment on. If you plan on calling into the Zoom 
+meeting rather than videoconferencing, you must also provide the telephone number 
+you will be using. You must be logged on to the Zoom meeting by phone or online to 
+speak. When it is your turn to comment, the Clerk of the Board will call you by name 
+or phone number. Members of the public may register with the Clerk of the Board to 
+speak on an agenda item until the public comment period for that item is closed. 
+ 
+The public may also provide oral comments on agenda items by calling (760) 966-
+6560. When prompted, the caller should identify the agenda item they wish to speak 
+about and leave a message not to exceed three minutes. All telephonic comments 
+received prior to the start of the Board or Committee meeting will be provided to the 
+Board/Committee prior to the meeting and made available for public inspection on 
+the NCTD website at: https://gonctd.com/about-nctd/board-information/.
+
+=== page 116 of 255 ===
+October 1, 2024 – December 31, 2024 
+ 
+ 
+1 
+ 
+Introduction  
+ 
+The Customer Experience Department supports the mission and vision established by the Board of 
+Directors by proactively developing plans, training staff, and managing processes to foster positive 
+customer experiences when utilizing NCTD’s services, identifying opportunities for improvement, and 
+by ensuring action is taken when our standards are not being met.  
+ 
+NCTD receives feedback from customers via phone, email, website, and in-person. All feedback is 
+entered into NCTD’s customer relationship management software (CRM) and forwarded to the 
+appropriate department personnel for review, investigation, and potential action. Most customer 
+feedback reports are complaints related to modal service, security, or facilities related. Tools like 
+operator interviews, video, GPS data, and other technology are used to complete all investigations 
+where applicable. NCTD’s Customer Experience department has a goal of responding back to 
+customer feedback within 10 business days of receipt.  
+ 
+In addition to customer feedback, NCTD’s Customer Experience department also utilizes a third-party 
+vendor to conduct ‘mystery rides’ on BREEZE, FLEX, COASTER, and SPRINTER. These mystery rides 
+provide an additional independent assessment of the customer experience. The data collected from 
+mystery riders is then examined against customer feedback complaint results and other data points to 
+paint an overall picture of the customer experience on NCTD services or at our facilities 
+ 
+Core Categories 
+ 
+To provide insight into customer feedback trends, all complaints are assigned to a core category via a 
+sub-code. Each of the ten core categories are defined below. Note, there may be a small number of 
+feedback reports that fall outside of core categories; such instances are included in overall complaint 
+totals. 
+ 
+Core Category Definitions: 
+Core Category  
+Definition  
+Service Related 
+Complaints involving transit services including late or early service, pass by, 
+missed stop requests, no shows and cancellations, and incorrect pick up or drop 
+off location (paratransit). 
+Operator Related 
+Complaints involving operators, including interpersonal operator behavior (rude), 
+dangerous driving, driving off route, closing the door on passenger, refusal of 
+service issues, left before seated. 
+Equipment Related Complaints involving damaged or dirty vehicles or equipment, automated 
+announcement issues, door malfunctions, HVAC (air conditioning) on board 
+vehicles, ADA ramp issues, or signal issues (Rail), farebox, validator, TVM issues.  
+Safety  
+Complaints involving actual or perceived safety hazards, either on board vehicles 
+or on NCTD property such as fencing. 
+Security 
+Complaints involving actual or perceived security risks, either on board vehicles or 
+on NCTD property, customer altercation issues and trespassing.  
+Claims/Accidents  
+Complaints resulting in the initiation of the Claims process. 
+Paratransit 
+Related  
+Complaints related to EZ-Wallet, mobility devices, MTS transfers, reservations and 
+dispatch, and time onboard vehicle violations.  
+Facilities Related 
+Complaints related to graffiti, station cleanliness, electrical, plumbing, and 
+landscaping at NCTD property including the right-of-way.  
+Policy Related  
+Complaints regarding E-bikes, PRONTO fare issues, rules of ridding and policy 
+disputes on board vehicles or on NCTD property. 
+Planning Related 
+Complaints involving bus stop amenities, request for additional bus stops, issues 
+pertaining to NCTD service planning and wayfinding requests.
+
+=== page 135 of 255 ===
+Original Commitments 500K in Value or Less and Change Order Commitments 250K in Value or Less 
+October 1, 2024 to December 31, 2024 
+ 
+Page 8 of 8 
+ 
+Order 
+Number 
+Original 
+Order 
+Change 
+Order 
+Supplier Description 
+Service/Product Description 
+ Extended Cost  
+Fed 
+Funds 
+Sole 
+Source 
+36722 
+X 
+  
+CDW Government, Inc. 
+Ocularis Licensing 
+ $        15,141.90  
+N 
+  
+25011 
+X 
+  
+Quadient, Inc. 
+Postage Machine 
+ $        19,009.80  
+N 
+  
+36727 
+X 
+  
+GovConnection, Inc dba Connect 
+VMWare Support Contract 
+ $        20,663.50  
+N 
+  
+36721 
+X 
+  
+ESRI, Inc. 
+ARCGIS LICENSES 
+ $        22,225.00  
+N 
+X 
+23027 
+X 
+  
+STV, Inc. 
+MOW Building Tenant Improvements 
+ $        24,326.00  
+Y 
+  
+20032 
+  
+X 
+Alstom Transportation, Inc. 
+Bilingual Decals 
+ $        25,046.26  
+N 
+  
+35760 
+  
+X 
+Verizon 
+Toughbook Data Plans - ROW 
+ $        28,808.64  
+N 
+  
+22013 
+X 
+  
+Sardo Bus & Coach Upholstery 
+Passenger Seat Reupholstery 
+ $        30,017.86  
+Y 
+  
+36765 
+X 
+  
+AT&T Calnet 3 
+Circuits AT&T MPLS 
+ $        40,780.15  
+N 
+  
+25010 
+X 
+  
+Razor Safe 
+Welders Training 
+ $        40,800.00  
+N 
+  
+24061 
+X 
+  
+Dilax 
+APC Software 
+ $        45,565.00  
+N 
+  
+36865 
+X 
+  
+MyCOI LLC 
+COI Management Service 
+ $        52,532.00  
+N 
+  
+36807 
+X 
+  
+Railquip 
+SPRINTER Auxiliary Bogies 
+ $        71,973.09  
+Y 
+  
+22016 
+  
+X 
+Trillium 
+Replace Fleetwatch Fuel Management System 
+ $      109,607.65  
+Y 
+  
+36658 
+X 
+  
+Penske Chevrolet 
+Non-revenue Vehicles-Extended Cab and Hi-Rail 
+ $      127,962.99  
+Y 
+  
+18007 
+X 
+  
+STV, Inc. 
+Fuel Cell Electric Buses Inspections 
+ $      188,473.13  
+Y 
+  
+36799 
+X 
+  
+WorkTango, Inc. 
+Rewards & Recognition Software 
+ $      245,449.83  
+N 
+  
+20009 
+X 
+  
+Liebert Cassidy Whitmore 
+On Call Legal Services 
+ $      249,999.00  
+N 
+  
+20011 
+X 
+  
+Devaney Pate Morris & Cameron 
+On Call Legal Services 
+ $      249,999.00  
+N 
+  
+20013 
+X 
+  
+McDougal Love Boehmer Foley et al 
+On Call Legal Services 
+ $      249,999.00  
+N 
+  
+36850 
+X 
+  
+Balfour Beatty Infrastructure, 
+115lb Crossing Panels 
+ $      308,809.23  
+Y 
+  
+25015 
+X 
+  
+Remix Technologies, LLC dba Remix 
+Remix Software License 
+ $      362,643.01  
+N 
+X 
+23020 
+X 
+  
+Zones, LLC 
+Microsoft License Subscriptions 
+ $      432,683.00  
+N 
+  
+25016 
+X 
+  
+Vincor Construction, Inc. 
+SOF Finish Improvements 
+ $      441,855.48  
+N

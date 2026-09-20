@@ -1,0 +1,150 @@
+# source: raw/bleecker_drive/Metropolitan Council/Microtransit-Solutions _Peer-Case-Studies-Report.pdf
+# path: raw/bleecker_drive/Metropolitan Council/Microtransit-Solutions _Peer-Case-Studies-Report.pdf
+# hit page: 11 of 68
+# terms: Spare Labs
+
+=== page 10 ===
+CASE STUDIES 
+ 
+October 24, 2024 ■ PEER MICROTRANSIT CASE STUDIES REPORT 
+9 
+◼ Microtransit fare structure: 
+ Regular fare: $3.00 
+ 
+◼ Fixed-route fare structure*: 
+ Regular fare: $2.50 
+ 65+: $1.25 
+ People with disabilities: $1.25 
+ People with Medicare: $1.25 
+*Only considers local fixed-route service 
+◼ Transfer policy: Yes, free with transit card 
+◼ Payment options: Cash, mobile application, transit card, credit card  
+◼ Connections (transit and points of interest): 
+ Ride Gwinnett, local fixed-route operated by Ride Gwinnett—connects to local commercial 
+districts, supermarkets, and heavy rail stations. 
+ Xpress, regional commuter bus service operated by Atlanta-Region Transit Link Authority (The 
+ATL) —connects to Midtown Atlanta  
+Service Model 
+Hybrid 
+◼ Technology provider: RideCo 
+◼ Vehicle provider: Transdev 
+◼ Driver provider: Transdev 
+Scheduling 
+◼ Booking method: Mobile application and call center 
+◼ Advance scheduling: up to 1 day in advance 
+◼ Target wait time: 10 minutes 
+Fleet 
+◼ Fleet size: 4 total 
+◼ Vehicle types: 12-passenger vehicles (shuttles/vans)  
+◼ ADA accommodations: ADA-compliant, able to load mobility-aid devices  
+IMPLEMENTATION METHOD 
+Funding Sources 
+◼ Lawrenceville and Snellville: Total amount not available  
+ Ride Gwinnett operating funds 
+ The ATL: $1,600,000, 2024 
+◼ Proposed Southwest Gwinnett Microtransit: $1,300,000, 2024 
+ Gateway 85 Community Improvement District: $572,000, 2024 
+ City of Norcross: $572,000, 2024 
+ Ride Gwinnett operating funds: $156,000, in 2024 
+◼ Future zones: 1% sales tax for transit investment to be voted on in fall 2024 
+Marketing and Education 
+Led by: Ride Gwinnett 
+◼ Local newspapers (North Gwinnett Voice, Gwinnett Daily Post, WSB-TV) 
+◼ Vehicle (Ride Gwinnett-wrapped) 
+◼ Social media (YouTube Videos, LinkedIn posts, Instagram posts) 
+ 
+Source: Ride Gwinnett
+=== page 11 ===
+CASE STUDIES 
+ 
+October 24, 2024 ■ PEER MICROTRANSIT CASE STUDIES REPORT 
+10 
+CPACS RIDE 
+Center for Pan Asian Community Services (CPACS) 
+Service Objective – Expand transit connections and mobility options. Investigate ridership potential in 
+new areas  
+AGENCY SERVICE AREA 
+◼ Size: 698 square miles 
+◼ Area type:  Suburban, metropolitan 
+◼ Population: 1,738,173 people 
+◼ Population density: 2,489 people per square mile 
+MICROTRANSIT SERVICE 
+CHARACTERISTICS 
+General Information 
+◼ Status: Not operational (pilot complete)  
+◼ Service type: Curb-to-curb, door-to-door (only 
+available for customers with mobility challenges) 
+◼ Number of zones: 1 
+◼ Size: 698 square miles 
+◼ Dates in service: November 2021 – July 2022 
+ Phase 1: November 2021 – December 2021 
+ Phase 2: March 2022 – July 2022 
+◼ Service hours: 9:00 am to 4:00 pm from Monday to 
+Friday. Weekend available on request. 
+◼ Microtransit fare structure: 
+ 65+: Free 
+ People with disabilities: Free 
+ Not over 65 or disabled: $2:00 (Must be 
+with someone of the targeted group) 
+◼ Fixed-route fare structure*: 
+ Regular fare: $2.50 
+ 65+: $1.25 
+ People with disabilities: $1.25 
+ People with Medicare: $1.25 
+*Only considers Ride Gwinnett local fixed-route service 
+◼ Transfer policy: No, not applicable (no fare) 
+◼ Payment options: Cash (non-eligible rider) 
+◼ Connections (transit and points of interest): 
+ Ride Gwinnett, local fixed-route operated by Ride Gwinnett—connects to local commercial 
+districts, supermarkets 
+ Xpress, regional commuter bus service operated by Atlanta-Region Transit Link Authority—
+connects to Midtown Atlanta  
+ MARTA, the regional metro system with bus, streetcar, and rail service operated by Metropolitan 
+Atlanta Rapid Transit Authority—connects to Downtown Atlanta and Hartsfield-Jackson Atlanta 
+International Airport 
+Service Model 
+Software 
+ 
+◼ Technology provider: Spare Labs 
+◼ Vehicle provider: CPACS 
+◼ Driver provider: CPACS, Spare Labs subcontracted to Lyft for additional drivers/vehicles 
+Source: Defining Metro Atlanta - Issuu
+=== page 12 ===
+CASE STUDIES 
+ 
+October 24, 2024 ■ PEER MICROTRANSIT CASE STUDIES REPORT 
+11 
+Scheduling 
+◼ Booking method: Mobile application and call center 
+◼ Advance scheduling: Up to 30 days in advance 
+◼ Target wait time: 25 minutes 
+Fleet 
+◼ Fleet size: 8 
+◼ Vehicle types: Sedans and vans 
+◼ ADA accommodations: Some wheelchair-accessible vehicles  
+IMPLEMENTATION METHOD 
+Partnerships 
+◼ Atlanta Regional Commission (ARC), the regional planning agency for the Atlanta metropolitan 
+region, partnered with CPACS to assist with the procurement and execution of CPACS Ride 
+◼ Atlanta-Region Transit Link Authority, a state agency focused on transit planning and funding in 
+the Atlanta metropolitan region, partnered with CPACS to provide insight into better rider 
+experience and program consideration for regional connections 
+◼ Ride Gwinnett, a transit system in Gwinnett County, partnered with CPACS to find potential 
+collaboration opportunities in its rideshare service 
+◼ Shared-Use Mobility Center, a shared mobility nonprofit consultant, partnered with CPACS to 
+provide technical planning and implementation support 
+Funding Sources 
+◼ Administration for Community Living (ACL), 2020 
+Marketing and Education 
+Led by: CPACS 
+◼ Vehicle (CPACS Ride-wrapped) 
+◼ Educational ride-alongs by staff with riders to flea markets 
+and shopping centers 
+◼ Internal organization connections (CPACS) 
+◼ Internal meetings to discuss how the service works to 
+CPACS 
+◼ Brochures and how-to guides 
+ 
+ 
+Source: Shared Use Mobility Center 
+(SUMC)

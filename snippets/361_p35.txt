@@ -1,0 +1,86 @@
+# source: raw/bleecker_drive/Lake County/21-0450.pdf
+# path: raw/bleecker_drive/Lake County/21-0450.pdf
+# hit page: 35 of 75
+# terms: Remix Technologies
+
+=== page 34 ===
+DocuSign Envelope ID: 41500079-9022-478D-A994-BCD35DE0510E
+EXHIBIT C - FEDERALLY REQUIRED and OTHER MODEL CONTRACT CLAUSES
+Flow Down
+The Buy America requirements flow down from FTA recipients and subrecipients to first tier
+contractors, who are responsible for ensuring that lower tier contractors and subcontractors are in
+compliance.
+Model Clause/Language
+The Buy America regulation at 49 C.F.R. § 661.13 requires notification of the Buy America
+requirements in a recipients' bid or request for proposal for FTA funded contracts. Recipients can draw on.
+the following language for inclusion in their federally funded procurements. Note that recipients are
+responsible for including the correct Buy America certification based on what they are acquiring.
+Recipients should not include both the rolling stock and steel, iron, or manufactured products certificates
+in the documents unless acquiring both in the same procurement.
+Buy America
+The contractor agrees to comply with 49 U.S.C. 5323() and 49 C.F.R. part 661, which provide that
+Federal funds may not be obligated unless all steel, iron, and manufactured products used in FTA funded
+projects are produced in the United States, unless a waiver has been granted by FTA or the product is
+subject to a general waiver. General waivers are listed in 49 C.F.R. § 661.7. Separate requirements for
+rolling stock are set out at 49 U.S.C. 5323(j)(2)(C) and 49 C.F.R. § 661.11.
+The [bidder or offeror] must submit to [Recipient] the appropriate Buy America certification
+below with its (bid or offer]. Bids or offers that are not accompanied by a completed Buy America
+certification will be rejected as nonresponsive.
+Đ-12
+=== page 35 ===
+DocuSign Envelope ID: 41500079-9022-478D-A994-BCD35DE0510E
+EXHIBIT C - FEDERALLY REQUIRED and OTHER MODEL CONTRACT CLAUSES
+In accordance with 49 C.F.R. § 661.6, for the procurement of steel, iron or manufactured products,
+use the certifications below.
+Certificate of Compliance with Buy America Requirements
+The bidder or offeror hereby certifies that it will comply with the requirements of 49 U.S.C.
+5323(j)(1), and the applicable regulations in 49 C.F.R. part 661.
+Date: 5/24/2021
+-DacuSigned by:
+Signature:
+Titansy les
+- A7F5346D1EB34A3...
+Company: Remix Technologies, LLC
+Name: Tiffany Chu
+Title: CEO
+Certificate of Non-Compliance with Buy America Requirements
+The bidder or offeror hereby certifies that it cannot comply with the requirements of 49 U.S.C.
+5323(), but it may qualify for an exception to the requirement pursuant to 49 U.S.C. 5323(i)(2), as
+amended, and the applicable regulations in 49 C.F.R. § 661.7.
+Date: 5/24/2021
+- DocuSigned by:
+Signature:
+Tirany luk
+-A7F5346D1EB34A3...
+Company: Remix Technologies, LLC
+Name: Tiffany chu
+Title: CEO
+D-13
+=== page 36 ===
+DocuSign Envelope ID: 41500079-9022-478D-A994-BCD35DE0510E
+EXHIBIT C - FEDERALLY REQUIRED and OTHER MODEL CONTRACT CLAUSES
+In accordance with 49 C.F.R. § 661.12, for the procurement of rolling stock (including train control,
+communication, and traction power equipment) use the following certifications:
+Certificate of Compliance with Buy America Rolling Stock Requirements
+The bidder or offeror hereby certifies that it will comply with the requirements of 49 U.S.C.
+5323(j), and the applicable regulations of 49 C.F.R. § 661.11.
+Date: 5/24/2021
+- DocuSigned by:
+Signature:
+Tiffany lu
+-A7F5346D1EBЭ4А3.
+Company: Remix Technologies, LLC
+Name: Tiffany chu
+Title: CEO
+Certificate of Non-Compliance with Buy America Rolling Stock Requirements
+The bidder or offeror hereby certifies that it cannot comply with the requirements of 49 U.S.C.
+5323(j) but may qualify for an exception to the requirement consistent with 49 U.S.C. 5323(j)(2)(C), and
+the applicable regulations in 49 C.F.R. § 661.7.
+Date:
+5/24/2021
+-A7F5346D1EB34A3...
+Company:
+Remix Technologies, LLC
+Name: Tiffany chu
+Title: CEO
+D-14

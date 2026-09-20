@@ -1,0 +1,106 @@
+# source: raw/bleecker_drive/Mountain Line/Mountain-Line-On-Demand-Feasibility-Study_Final.pdf
+# path: raw/bleecker_drive/Mountain Line/Mountain-Line-On-Demand-Feasibility-Study_Final.pdf
+# hit page: 40 of 56
+# terms: Via+per hour, Via+vehicles
+
+=== page 39 ===
+32  
+ 
+MOUNTAIN LINE ON-DEMAND FEASIBILITY STUDY 
+Appendix 
+ 
+Appendix A: Private Software Companies for microtransit 
+Appendix B: Estimated Ridership in Flagstaff Metropolitan Planning Organization (FMPO) 
+Appendix C: Risk Assessment of on-demand programs 
+Appendix D: Pinellas Suncoast Transit Authority (PSTA)’S contract with Uber 
+Appendix E: Program design spreadsheet 
+Appendix F: Peer city research spreadsheet
+=== page 40 ===
+33  
+ 
+MOUNTAIN LINE ON-DEMAND FEASIBILITY STUDY 
+APPENDIX A: PRIVATE SOFTWARE COMPANIES FOR MICROTRANSIT 
+The following provides detailed information about private software companies for microtransit 
+services. The companies researched include TransLoc, Via, Routematch, Ecolane, and Transdev. This is 
+not an exhausted list of private software providers. The information was gathered in October 2018.   
+TRANSLOC 
+TransLoc is a technology provider with the mission to make public transit the first choice for all.  
+TransLoc provides transit agencies will the tools to optimize their service, through real-time tracking 
+and dispatch for fixed-route, transit model app for passengers, and On-Demand software solution for 
+microtransit. In January 2018, TransLoc joined Ford Smart Mobility Business Group. Through this 
+partnership, TransLoc has a focus on “ushering in the future of mobility with agency-owned flexible 
+microtransit solutions.” 
+SOLUTION    
+TransLoc provides software for operating microtransit. This includes On-Demand Dispatching and real-
+time rider communications and tracking. Currently TransLoc has implemented 36 pilots through the 
+United States. These pilots have been used to tackle transportation issues such as first mile-last mile 
+connection, underperforming routes, and underserved areas.  
+TECHNOLOGY AND HARDWARE NEEDS 
+The technology needs from the transit agency are minimal. Each vehicle needs an iPad to run the driver 
+app, which provides a map and directions of the route. It also includes passenger information, such as 
+name, number of passengers, and picture (optional) so the driver knows who and how many people 
+they are picking up.  
+FARE 
+The price of fare is very flexible and up to the agency. Most agencies have made the microtransit service 
+free during the pilot period. Others, who have fareboxes installed in the vehicles, take cash only. 
+TransLoc does not have payment integration with the app, limiting the flexibility of pay options.  
+EQUITY  
+TransLoc has both a call option and app-based option to request rides. A smart phone is not required 
+to use this service, but the app-based option is faster, and the user can see wait times and estimated 
+arrival. Vehicles are provided by the transit agency, so the vehicles can be ADA accessible. Many 
+agencies have repurposed paratransit vehicles. The app does not have any features for people who are 
+visually impaired, and the app is only in English.  
+DATA  
+TransLoc provides the transit agency with all the data and the agency can keep the data. Data includes 
+origin and destination, ridership, and passengers per hour. TransLoc is flexible to work with the agency 
+if other data points are desired. Ridership data can be used for NTD reporting.  
+COST 
+Currently, TransLoc is focusing on implementing pilots with transit agencies. Ford Mobility is 
+subsidizing pilots, which include use case consulting, simulator tool (estimates which use cases are 
+most successful), implementation (includes weekly calls, training, help with staging), and marketing 
+support throughout the whole pilot. Ford Mobility is subsidizing the first 44 pilots at $25,000 for a 6-
+=== page 41 ===
+34  
+ 
+MOUNTAIN LINE ON-DEMAND FEASIBILITY STUDY 
+month pilot. After the pilot, the software costs are $500 for 1-5 vehicles per month, $450 for 1-6 vehicles 
+per month. Without the subsidy, a pilot costs $114,175.  
+PLANNING ASSISTANCE 
+TransLoc has a simulator tool which takes origin and destination data, census data, paratransit data, 
+and other data sources to predict ridership and estimate if certain areas or use cases, would be more 
+successful than others. They predict passengers per hour and ridership.  
+WHAT STANDS OUT? 
+TransLoc is focusing on starting pilots with transit agencies, and Ford Mobility is subsidizing majority of 
+the cost. This software is new to TransLoc and the company is using pilot projects to “fool-proof” the 
+software. There are currently 36 pilots on-line and the simulator tool has been 90% accurate in 
+predictions verse outcomes. TransLoc has a strong focus on partnership and working with the transit 
+agency step by step. Their microtransit app is not customizable and does not reflect the branding of the 
+transit agency. They do not have dynamic routing capabilities. Meaning, once a vehicle’s route is 
+created, if another customer requests a ride along the recently created route, the route will not change 
+and deviate to pick them up, reducing the efficiency of the vehicle and extending wait times.  
+VIA 
+Via is a real-time hailed, dynamically routed shuttle service. Their mission of “we ride together”, 
+represents the various technology options the company delivers to match riders together who are 
+traveling with similar origins and destinations. Via provides a Transportation Network Company (TNC) 
+option, Ride with Via, which is currently deployed in Chicago, New York, and Washington DC. Via also 
+has a microtransit platform as both software only and turn-key option.  
+SOLUTION    
+Via boasts to have the “technology for the future of mobility.” Through Via’s microtransit platform, 
+there is powerful rider aggregation algorithm, dynamic predictive routing, and custom apps. Via has a 
+Transit as a Service (TaaS) model, providing a turn-key solution. They also have a software as a service 
+(SaaS) solution to integrate the software with agency operations. Their solutions have been deployed 
+to tackle first mile-last mile solutions and frequency vs. coverage tradeoff. 
+TECHNOLOGY AND HARDWARE NEEDS 
+The technology needs from the transit agency are minimal. Each vehicle needs a tablet or smartphone 
+to run the driver app, which provides a map and directions of the route. It also includes passenger 
+information, such as name, number of passengers, and picture (optional) so the driver knows who and 
+how many people they are picking up.  
+FARE 
+The price of fare is very flexible and up to the agency. Most agencies have made the microtransit service 
+free during the pilot period. Via is primarily a cashless service. There is payment integration with the 
+app. There is also an option for people who do not have bank services. Customers can pay cash to buy 
+pre-paid vouchers at, for example a grocery store. Then, customer enters voucher code in the app.   
+EQUITY  
+Via has both a call option and app-based option to request rides. A smart phone is not required to use 
+this service, but the app-based option is faster, and the user can see wait times and estimated arrival. 
+With the TaaS model, vehicles can be ADA accessible. Through the SaaS model, vehicles are provided

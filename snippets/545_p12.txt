@@ -1,0 +1,179 @@
+# source: raw/bleecker_drive/City of West Sacramento/2023.06.07_-_City_Council_-_Amendment_No._5_to_NoMad_Transit_LLC_Contract.pdf
+# path: raw/bleecker_drive/City of West Sacramento/2023.06.07_-_City_Council_-_Amendment_No._5_to_NoMad_Transit_LLC_Contract.pdf
+# hit page: 12 of 63
+# terms: Via+vehicles
+
+=== page 11 ===
+Executive Summary 
+ 
+Michael Baker International - iii
+ 
+ 
+ 
+the City by Nomad Transit LLC, a subsidiary of Via Transportation, Inc. Riders are able to book a 
+ride using a smart phone app and over the phone. The pilot service launched on May 14, 2018. 
+ 
+2. The City’s rideshare program is administered by a senior transportation planner in the 
+Community Development Department and by a team composed of a partner success manager, 
+general manager, and local field manager. On January 17, 2018, the City Council approved a 
+contract with NoMad Transit LLC, a wholly owned subsidiary of Via Transportation, Inc., in the 
+amount of $720,000 for a one-year pilot. This original contract was amended in February 2019 
+to utilize $90,000 in fare revenues. The contract may be extended annually up to five additional 
+years. The contract is reviewed annually. 
+ 
+3. Via Rideshare driver partners are classified as independent contractors. All driver partners 
+undergo thorough criminal background checks before driving on the Via platform. Applicants 
+may complete their applications, provide required documentation, and sign required 
+agreements through Via’s Driver Portal (https://my.drivewithvia.com/). Candidate screening 
+consists of a four-step process. The number of driver partners available for West Sacramento 
+Via Rideshare ranges between 20 and 40 drivers.  
+ 
+4. Vehicle maintenance is the responsibility of the driver partners. The driver partners conduct pre- 
+and post-inspections on the vehicle at the Via Rideshare staging lot. The inspections involve 
+drivers taking photos of the exterior and interior of the vehicle and uploading them to the Via 
+Driver Portal. The Rideshare vans are parked along the northern perimeter of the lot composed 
+of 16 spaces. 
+ 
+5. West Sacramento’s Via Rideshare is marketed through several media, including a rider’s guide, 
+mobile app, and a dedicated web page on the City of West Sacramento website 
+(https://www.cityofwestsacramento.org/via). Other fare media and promotions include the Via 
+Pass and discounts to senior citizens and disabled people. The service is branded with the City’s 
+Tower Bridge logo. 
+ 
+Recommendations 
+ 
+Performance Audit 
+Recommendation 
+Background 
+Timeline 
+1. Complete the annual 
+Transit Operators’ 
+Financial Transactions 
+Report for submittal to 
+the State Controller. 
+ 
+Pursuant to Public Utilities Code Section 99243, transit 
+operators are required to submit an annual report, 
+called the Transit Operators’ Financial Transactions 
+Report, to the regional transportation planning agency 
+(RTPA) based upon the Uniform System of Accounts and 
+Records established by the State Controller. This report 
+is due within seven months after the end of the fiscal 
+year (on or before January 31). The report shall contain 
+underlying data from audited financial statements 
+High Priority
+=== page 12 ===
+Executive Summary 
+ 
+Michael Baker International - iv
+ 
+ 
+ 
+Performance Audit 
+Recommendation 
+Background 
+Timeline 
+prepared in accordance with generally accepted 
+accounting principles, if this data is available.   
+ 
+In lieu of submitting the Transit Operators’ Financial 
+Transactions Report, the City of West Sacramento 
+completed and submitted the Cities' Financial 
+Transactions Report to the State Controller during the 
+audit period. The Cities' Financial Transactions Report 
+does not include financial and operating data that 
+pertain to the Via Rideshare service. It is recommended 
+that commencing with FY 2022, the City use the Transit 
+Operators’ Financial Transactions Report for reporting 
+transit financial and operational data. The City would 
+need to set up an account through the Local 
+Government Financial Reporting System as a transit 
+operator. See link: 
+https://lgrsonline.sco.ca.gov/Account/Login?Remember
+Me=False&Optentitytype=TRS.  
+General instructions for reporting transit expenditures, 
+revenues and operating data are found at the link:  
+https://www.sco.ca.gov/Files-ARD-
+Local/LocRep/TO_FTR_Instructions_20-21.pdf. 
+ 
+2. Ensure that 
+performance measures 
+are consistent with 
+TDA statute 
+definitions, in 
+particular with regard 
+to vehicle service 
+hours and mileage as 
+well as employee 
+hours. 
+The auditor queried the Via Rideshare contractor about 
+how vehicle service hours and miles are reported. It was 
+revealed that vehicle service hours and miles are 
+recorded when the vehicles leave the staging yard, 
+which would include deadhead hours and mileage. 
+According to the TDA statute, actual vehicle revenue 
+hours are:  
+The hours that vehicles travel while in revenue service. 
+Vehicle revenue hours include layover/recovery time 
+but exclude deadhead, training operators prior to 
+revenue service and road tests, as well as school bus 
+and charter services. 
+Actual vehicle revenue miles are:  
+The miles that vehicles travel while in revenue service. 
+Vehicle revenue miles exclude deadhead, training 
+High Priority
+=== page 13 ===
+Executive Summary 
+ 
+Michael Baker International - v
+ 
+ 
+ 
+Performance Audit 
+Recommendation 
+Background 
+Timeline 
+operators prior to revenue service and road as well as 
+school bus and charter services. 
+In addition, vehicle service hours per employee data 
+were not calculated due to the unavailability of full-time 
+equivalent (FTE) data, which would be reported in the 
+Transit Operators’ Financial Transactions Report. Proper 
+calculation of this measure is based on the number of 
+employee FTEs using employee pay hours from the State 
+Controller Report and dividing by 2,000 hours. In lieu of 
+submitting the Transit Operators’ Financial Transactions 
+Report, the City of West Sacramento completed and 
+submitted the Cities' Financial Transactions Report to 
+the State Controller. 
+It is recommended that the contractor have the driver 
+partners begin to record vehicle revenue hours and 
+miles according to TDA definitions including starting at 
+the first customer pickup and ending at the last 
+customer drop-off, including layover/recovery. Layover 
+and recovery are "out-of-service" time allowances 
+allocated to a vehicle at a certain location or locations 
+along the route, generally at a terminal location. Layover 
+time is rest or "break" time allocated to the operator 
+somewhere along the line, usually at a terminal location 
+at the end of a trip. Recovery time can be thought of as 
+"buffer" break time built into the schedule. It may or 
+may not be used by the operator. In addition, it is 
+suggested that the City work closely with Via Rideshare 
+to ensure the accuracy of the operating data reported. 
+ 
+3. Insert TDA and transit 
+reporting standards in 
+the Via Transportation 
+contract.  
+Building upon the above recommendations for the City 
+and contractor to follow TDA definitions in tracking and 
+collecting key performance data, the requirements to 
+properly report operations data should be added to the 
+conditions in the service contract. While dashboard 
+measures are listed in the contract of available 
+information for City use, they do not specify or define 
+how the data are to be presented. For example, the 
+contract should include defining vehicle revenue hours 
+and miles separately from total vehicle revenue hours 
+Medium Priority

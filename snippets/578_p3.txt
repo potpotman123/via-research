@@ -1,0 +1,103 @@
+# source: raw/bleecker_drive/Fresno/24_1308_Committee_Evaluation_Report.pdf
+# path: raw/bleecker_drive/Fresno/24_1308_Committee_Evaluation_Report.pdf
+# hit page: 3 of 4
+# terms: Remix Technologies
+
+=== page 2 ===
+CLOUD BASED TRANSIT PLANNING SOFTWARE                                     
+EVALUATION COMMITTEE RECOMMENDATION
+SIGNIFICANT EVENTS 
+ 
+July 8, 2014 
+Bid Release 
+August 6, 2024 
+Bid Opening 
+August 27, 2024 
+Committee Meeting 
+August 27, 2024 
+Committee Evaluations 
+ 
+EVALUATION CRITERIA 
+FAX’s solicitation included the following five evaluation criteria ranked in order of 
+relative importance: 
+1. Proposed Solution 
+This category will evaluate the Proposed Approach included in the submittal. 
+Some factors that will be considered when evaluating this category are:  
+• What is the proposed approach to completing the work?  
+• What is the proposed approach to project management and quality 
+control?  
+• What are the team’s expectations of FAX staff?  
+2. Qualifications, Related Experience, and References  
+This category will examine the qualifications and experience of each firm, 
+associated staff, and specific individuals that will be assigned to the project. Some 
+factors that will be considered when evaluating this category are:  
+• What is the experience of each firm in performing similar work?  
+• Does the firm possess the technical capabilities to deploy the   
+application?  
+• What is the background and experience of the staff from each firm?  
+• Does the team have sufficient staffing and technical/analytical skills to 
+complete the proposed tasks?  
+3. Cost Proposal and Conformance to the Terms and Conditions 
+This category will evaluate the reasonableness and competitiveness of the 
+proposed costs and the proposer’s conformance to the terms and conditions of the 
+RFP. 
+4. References 
+This category will evaluate each firm and/or team member based on the 
+information obtained from the references listed in the submittal.  
+• Did FAX receive favorable information about each firm and/or team 
+member when conducting reference checks?
+=== page 3 ===
+CLOUD BASED TRANSIT PLANNING SOFTWARE                                     
+EVALUATION COMMITTEE RECOMMENDATION
+ 
+ 
+COMMITTEE NOTES 
+Remix Technologies –  
+ Meets all the FAX requirements 
+ Current provider of the service 
+ Jane and Network Jane are excellent features for evaluating service area 
+ Multi-user editing 
+ Well written proposal 
+ Turnkey product with no additional resources needed 
+ Best value for the price 
+ 
+Trapeze Software Group -  
+ New product for Trapeze.   
+ Lacks desired features. 
+ Proposed software is not in use anywhere 
+ Inability to share maps 
+ Inability to shift trips based on trip times 
+ Inability to export to Excel 
+ Highest price for an inferior product 
+ 
+Podaris Limited –  
+ Training on-site is an additional fee ($8,000) 
+ References are from 2 consulting firms in the US and the only transit agency 
+using the product is in Ireland 
+ Excellent training and follow-up plan  
+ Well written proposal 
+ 
+ 
+Schedule Masters –  
+ Experience is with small operators with less than 1 million passenger trips (FAX 
+9.6 million) 
+ Proposal not clear about their abilities and do not fully address the requirements 
+ Insufficient details 
+ Low bid 
+ 
+Optibus -  
+ Exceptions to Indemnification and General Conditions 
+ Data is hosted in Ireland with backup in the European Union. (CoF IT requires 
+hosting in the US) 
+ Optibus offers multiple modules, similar to our current provider Trapeze, but is 
+only proposing the Planning Module 
+ Machine learning run times, utilizing real times, historic times (if available) and 
+car travel times from Google Maps
+=== page 4 ===
+SUMMARY RECOMMENDATION 
+The City received five (5) responses to the solicitation. After independent evaluation of 
+the proposals, using the evaluation criteria noted above, the evaluation committee 
+unanimously determined that the most qualified, responsible, and responsive proposer 
+was Remix Technologies.  Remix Technologies is a proven vendor with extensive 
+experience in transit planning software and has been the service provider for FAX since 
+2018.

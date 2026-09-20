@@ -1,0 +1,137 @@
+# source: raw/bleecker_drive/Metropolitan Council/Microtransit-Solutions _Peer-Case-Studies-Report.pdf
+# path: raw/bleecker_drive/Metropolitan Council/Microtransit-Solutions _Peer-Case-Studies-Report.pdf
+# hit page: 23 of 68
+# terms: Spare Labs
+
+=== page 22 ===
+CASE STUDIES 
+ 
+October 24, 2024 ■ PEER MICROTRANSIT CASE STUDIES REPORT 
+21 
+MVTA CONNECT 
+Minnesota Valley Transit Authority (MVTA) 
+Service Objective – Expand transit connections and mobility options. Investigate ridership potential in 
+new areas. 
+AGENCY SERVICE AREA 
+◼ Size: 139 square miles  
+◼ Area type: Suburban, metropolitan 
+◼ Population: 318,976 people 
+◼ Population density: 2,295 people 
+per square mile 
+MICROTRANSIT SERVICE 
+CHARACTERISTICS 
+General Information 
+◼ Status: Operational 
+◼ Service type: Curb-to-curb, curb-to-
+hub 
+◼ Number of zones: 2 
+◼ Size: 83 square miles 
+ Main Zone: Approximately 60 
+square miles 
+ Eagan Zone: Approximately 23 
+square miles 
+◼ Dates in service: June 2019 – 
+Present   
+ Main Zone: June 2019 – 
+Present 
+ Eagan Zone: October 2021 – 
+Present 
+◼ Service hours: 6:00 am to 9:00 pm 
+from Monday through Sunday 
+◼ Microtransit fare structure: 
+ Regular fare: $3.00  
+◼ Fixed-route fare structure*: 
+ Non-Rush Hour fare: $2.00 
+ Rush Hour Fare: $2.50  
+ 65+: $1.00 (rush hour will apply) 
+ 6-12: $1.00 (rush hour will apply) 
+ People with disabilities: $1.00 
+*Only considers local fixed-route service 
+◼ Transfer policy: Yes, free 2-hour transfer to fixed-route 
+◼ Payment options: Cash, mobile application, transit card, credit card 
+ 
+ 
+Source: MVTA
+=== page 23 ===
+CASE STUDIES 
+ 
+October 24, 2024 ■ PEER MICROTRANSIT CASE STUDIES REPORT 
+22 
+◼ Connections (transit and points of interest):  
+ MVTA fixed-route service—connects to Downtown Minneapolis and the University of Minnesota 
+through its local transit stations like Cedar Grove, Eagan, and Apple Valley Transit Station 
+Service Model 
+Hybrid  
+◼ Technology provider: Spare Labs 
+◼ Vehicle provider: Unknown 
+◼ Driver provider: Unknown 
+Scheduling 
+◼ Booking method: Mobile application and call center 
+◼ Advance scheduling:  Up to 3 hours in advance 
+◼ Target wait time: 10 to 30 minutes 
+Fleet 
+◼ Fleet size: 25 
+◼ Vehicle types: Cutaway buses, full-size ADA vans  
+◼ ADA accommodations: Available upon request 
+IMPLEMENTATION METHOD 
+Funding Sources 
+◼ MVTA’s operating budget, Present 
+Marketing and Education 
+Led by: MVTA 
+◼ Vehicle (MVTA Connect-wrapped) 
+◼ News articles (Minnesota Reformer, SWNewsMedia, 
+MPR News) 
+ 
+ 
+ 
+Source: Car-Free MSP
+=== page 24 ===
+CASE STUDIES 
+ 
+October 24, 2024 ■ PEER MICROTRANSIT CASE STUDIES REPORT 
+23 
+PLYMOUTH METROLINK CLICK-AND-RIDE 
+Plymouth Metrolink 
+Service Objective – Expand transit connections and mobility options. Investigate ridership potential in 
+new areas.  
+AGENCY SERVICE AREA 
+◼ Size: 35 square miles 
+◼ Area type: Suburban, small city 
+◼ Population: 81,026  
+◼ Population density: 2,315 people 
+per square mile 
+MICROTRANSIT SERVICE 
+CHARACTERISTICS 
+General Information 
+◼ Status: Operational 
+◼ Service type: Door-to-door  
+◼ Number of zones: 1 
+◼ Size:  
+ Plymouth Zone: 32.7 square 
+miles 
+◼ Dates in service:  
+ Plymouth Zone: December 
+2021 – Present 
+◼ Service hours: 5:00 am to 8:30 
+pm from Monday through Friday, 
+6 am to 6:30 pm on Saturdays, 
+6:00 am to 5:00 pm on Sundays 
+◼ Microtransit fare structure: 
+ Regular fare: $3.00  
+◼ Fixed-route fare structure*: 
+ Non-Rush Hour fare: $2.50 
+ Rush Hour fare: $3.25  
+ 65+: $1.00 (rush hour: $2.50) 
+ 6-12: $1.00 (rush hour: $2.50) 
+ <5: Free 
+ People with Medicare: $1.00 (rush hour: $3.25) 
+ People with disabilities: $1.00 
+*Only considers local fixed-route service 
+◼ Transfer policy: Yes, to all regional transit services 
+◼ Payment options: Cash, mobile application, transit card 
+◼ Connections (transit and points of interest):  
+ Plymouth Metrolink fixed-route service—connects to Downtown Minneapolis through local bus 
+stops in Plymouth 
+ Maple Grove My Ride, shared-ride service provided by the City of Maple Grove—connects to 
+Maple Grove downtown through the Maple Grove Transit Station 
+Source: City of Plymouth

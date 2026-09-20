@@ -1,0 +1,128 @@
+# source: raw/bleecker_drive/State of Vermont/VIA_MOBILITY_LLC_-_CONTRACT__PS1018_-_CONTRACT_-_PUBLIC_TRANSIT_CONSULTANT_SERVICES_2023_-_VERMONT.pdf
+# path: raw/bleecker_drive/State of Vermont/VIA_MOBILITY_LLC_-_CONTRACT__PS1018_-_CONTRACT_-_PUBLIC_TRANSIT_CONSULTANT_SERVICES_2023_-_VERMONT.pdf
+# hit page: 47 of 103
+# terms: Via Mobility
+
+=== page 46 ===
+23 | P a g e
+Z. WORK SCHEDULE AND PROGRESS REPORTS
+As required by VTrans, prior to initiating any work, the Contractor shall work with VTrans’ Project 
+Manager to develop a work schedule showing how the contractor will complete the various phases 
+of work to meet the completion date and any interim submission dates in the contract. VTrans will 
+use this work schedule to monitor the contractor.
+The Contractor during the life of the contract shall make monthly progress reports, or as otherwise   
+determined by the Project Manager, or set forth in the statement of work, indicating the work 
+achieved through the date of the report. The Contractor shall link the monthly progress reports to the 
+schedule. The report shall indicate any matters that have, or are anticipated to, adversely affected 
+progress of the work. VTrans may require the Contractor to prepare a revised work schedule in the 
+event that a specific progress achievement falls behind the scheduled progress by more than thirty 
+(30) days. The revised work schedule shall be due as of the date specified by VTrans.
+AA.
+WORK ASSIGNED UNDER PRIMARY-TYPE CONTRACTS
+Specific tasks or projects under primary (ie. retainer or Indefinite Delivery/Indefinite Quantity 
+[“IDIQ”]) type contracts will be awarded and managed as provided in the scope of work section 
+of the contract. Contractors should not begin work on any task or project under a primary contract 
+until they have received authorization as described in the scope of work.  
+BB.
+UTILITIES
+Whenever a facility or component of a private, public, or cooperatively-owned utility will be affected 
+by proposed construction, the  Contractor shall consult with the State’s Utility Section and initiate 
+contacts or discussions with the affected owners regarding requirements necessary for revision of 
+facilities, both above and below ground. All revisions must be completely and accurately exhibited 
+on detail sheets or plans. The Contractor shall inform the State, in writing, of all contacts with utility 
+facility owners, and the results thereof. Further details should be provided in the scope of work 
+section of the contract. 
+CC.
+PUBLIC RELATIONS 
+Whenever it is necessary to perform work in the field (e.g., with respect to reconnaissance, testing, 
+construction inspection, and surveying) the contractor shall endeavor to maintain good relations 
+with the public and any affected property owners. Personnel employed by or representing the 
+contractor shall conduct themselves with propriety. If there is a need to enter upon private property 
+to accomplish the work under the contract, the Contractor shall inform property owners and tenants 
+in a timely manner and in accordance with relevant statutes. All work will be done with minimum 
+damage to the land and disturbance to the owners thereof. Upon request of the Contractor, the State 
+shall furnish a letter of introduction to property owners soliciting their cooperation and explaining 
+that the contractor is acting on behalf of the State.
+PS1018 - Public Transit Consultant Services 2023
+                                    Via Mobility LLC
+Page 45 of 82
+=== page 47 ===
+24 | P a g e
+DD.
+INSPECTION OF WORK
+1. The State and applicable federal agencies shall, at all times, have access to the contractor's 
+work for the purposes of inspection, accounting, and auditing, and the Contractor shall 
+provide appropriate and necessary access to accomplish inspections, accounting, and 
+auditing. 
+2. The contractor shall permit the State and its representatives the opportunity at any time to 
+inspect any plans, drawings, estimates, specifications, or other materials prepared or 
+undertaken by the Contractor pursuant to the contract.
+3. A conference, visit to a site, or inspection of the work may be held at the request of the 
+Contractor, State, and appropriate federal agencies.
+EE.
+WRITTEN DELIVERABLES/REPORTS
+All communications and deliverables presented under terms of the contract shall be in a form and 
+format identified in the statement of work section of the contract, including, but not limited to 
+CADD Requirements, Data Specifications, and Geographic Information System Requirements.  
+FF.
+ELECTRONIC DATA MEDIA.
+VTrans Web Page and File Transfer Protocol (FTP) Site Disclaimer.  The files located on the VTrans 
+web page and FTP site are subject to change. The contractor is responsible for maintaining contact 
+with VTrans to determine if any changes affect the work produced by the contractor. Although VTrans 
+makes every effort to ensure the accuracy of its work, it cannot guarantee that transferred files are 
+error free. 
+GG. REVIEWS AND APPROVALS.
+All work prepared by the Contractor, subcontractors, and representatives thereof pursuant to the 
+contract shall be subject to review and approval by VTrans. Approval for any work shall be 
+documented in writing. Approvals shall not relieve a contractor of its professional obligation to 
+correct any defects or errors in the work at the contractor’s expense.
+The pertinent federal agencies may independently review and comment on the contract deliverables. 
+The Contractor, through VTrans, shall respond to all official comments regardless of their source. 
+The Contractor shall supply VTrans with written copies of all correspondence relating to reviews. 
+All comments must be satisfactorily resolved before the affected work is advanced.
+HH. PAYMENT PROCEDURES
+Payment procedures will be set forth in Attachment B. 
+II. AUDIT REQUIREMENTS
+PS1018 - Public Transit Consultant Services 2023
+                                    Via Mobility LLC
+Page 46 of 82
+=== page 48 ===
+25 | P a g e
+1. Design and Engineering Contracts of Five Hundred Thousand Dollars ($500,000.00) and 
+over:
+a.
+Annually, the Contractor shall furnish the State with independently-prepared, properly 
+supported indirect cost rates for all the time periods covered under the contract.  These 
+rates must be developed in accordance with the cost principles in 48 CFR Part 31. Unless 
+otherwise specified in the contract, the Contractor’s overhead rate shall be based on 
+actual, audited overhead costs.
+2. Design and Engineering Contracts  Under Five Hundred Thousand Dollars 
+($500,000.00):
+a.
+The contractor may submit internally generated indirect cost computations and the 
+related schedules.
+b. Additional information may be requested from a new contractor executing a contract 
+under $500,000.00 or in some cases from contractors with existing or previous contracts 
+with the State if any of the following conditions or areas of concern exist:
+i.
+There is insufficient knowledge of the consultant’s accounting system.
+ii. There is previous unfavorable experience regarding the reliability of the 
+consultant’s accounting system
+iii. The contract involves procurement of new equipment or supplies for which cost 
+experience is lacking.
+iv. There have been issues with adherence to Federal and State regulations and 
+policies.
+v. Capacity – ensuring ongoing delivery
+JJ.
+RECORDS RETENTION: 
+The Contractor shall maintain all records related to the contract for a period of seven (7) years 
+unless required to keep them longer as indicated Federal provisions or in the scope of work section 
+of the contract.  
+KK. REGISTRATION WITH SECRETARY OF STATE
+1. The Contractor shall be registered with the Vermont Secretary of State to do business in the 
+State of Vermont if the Contractor:
+a.
+Is a domestic or foreign corporation,
+PS1018 - Public Transit Consultant Services 2023
+                                    Via Mobility LLC
+Page 47 of 82

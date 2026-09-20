@@ -1,0 +1,48 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Ben Franklin Transit/BFT-Transit-Development-Plan-2025-2031-Final.pdf
+# pages_total: 88; hit_pages: [26]; included: [26]
+# context: Bleecker Drive folder: Ben Franklin Transit
+
+=== page 26 of 88 ===
+2025-2031 TRANSIT DEVELOPMENT PLAN 
+Ben Franklin Transit 
+22 
+Safety Performance Measures and Targets 
+BFT's Public Transportation Agency Safety Plan (PTASP) aligns with and supports a Safety 
+Management System (SMS) approach to safety risk management. SMS is a comprehensive 
+framework of policies, processes, and practices designed to ensure a formal, proactive, and data-
+driven approach to managing safety risks. The goal of SMS is to enhance transit system safety by 
+proactively identifying, assessing, and mitigating safety risks. This approach is both flexible and 
+scalable, allowing transit agencies of all types and sizes to effectively meet fundamental federal 
+requirements. 
+Between 2022 and 2023, BFT’s emphasis on incident reporting and safety measures has led to 
+several significant improvements. The modernization and upgrade of safety reporting software to 
+Trackit Manager now enables staff to submit incident and driver reports more efficiently, 
+streamlining and accelerating the process. As a result, there has been an increase in recorded 
+incidents for 2023 and 2024, as the previous manual reporting process was less comprehensive. 
+This shift reflects improved monitoring and heightened awareness of safety issues across all 
+departments. 
+The agency’s Safety team has also launched an awareness campaign aimed at reducing incidents 
+and providing safety tips, with a particular focus on fixed route and DAR operations. Past reports 
+highlighted the need for increased safety awareness and a more proactive approach to identifying 
+and addressing safety concerns. With the transition to digital reports, the agency can now quickly 
+identify areas that require immediate attention and improvement. Staff will focus on emerging 
+issues, particularly in divisions that were previously incident-free, allowing for more targeted safety 
+interventions and preventive measures to reduce future incidents. 
+By recognizing these improvements and continuing to refine safety protocols, BFT staff will be 
+better equipped to enhance the overall safety and reliability of the agency’s transit operations. 
+Over the next several years, BFT’s training department will undergo a significant transformation to 
+enhance safety and transit services: 
+ 2025: Comprehensive Driver Training Programs 
+o Target: Develop and implement comprehensive driver training and ride/drive 
+programs along with an annual refresher training program. 
+o Measure: All drivers will be equipped with essential skills for safe and efficient 
+transit operations. 
+o Goal: Achieve a 15% reduction in incidents related to driver error. 
+ 2025: Defensive Driving Focus 
+o Target: Intensify emphasis on defensive driving techniques via the Smith System 
+Defensive Driving method. 
+o Measure: All drivers will undergo advanced defensive driving training and receive 
+annual driver performance evaluations. 
+o Goal: Reduce collision rates by 15% across the transit system. 
+ 2026: Organization-Wide Training and Talent Development

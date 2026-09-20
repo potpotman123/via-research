@@ -4,7 +4,31 @@
 # terms: Via+fleet, Via+vehicles
 
 === page 62 ===
-
+For the avoidance of doubt, the information above constitutes proprietary trade secrets of
+Contractor, and shall be subject to the confidentiality obligations set forth in the Contract.
+10. Arlington Student Transportation Program
+The City has received additional federal funding on the condition that it implement an Arlington
+Student Transportation Program, whereby eligible Tarrant County College (TCC) and Arlington
+Independent School District (AISD) students can use the Services at no cost to the student. The
+amount of additional federal funding received is equal to the amount of local funding necessary
+to implement the Program and as a result the implementation has no financial impact on the City.
+This program may be extended to other schools and/or colleges upon approval of funding.
+Contractor shall provide City with promotional/discount codes ("Promo Codes") on an as needed
+basis, beginning December 11, 2022. Each Promo Code will have a unique identifier, will cover
+the full Ride Cost of any ride taken during a specific period of time, and will have an expiration
+date to be determined by the City. When the user uses the Promo Code, that user will be able to
+use the Service at no cost to the user. Contractor shall provide Promo Codes to the City on an as
+needed basis, but no later than 14 calendar days after City sends Contractor the request.
+11. Arlington RAPID
+The City wishes to continue the Arlington RAPID (Rideshare, Automation, and Payment
+Integration Demonstration). Through Arlington RAPID, Contractor will continue to collaborate
+with the City to integrate a fleet of autonomous vehicles into the current vehicle fleet, including
+at least one wheelchair accessible autonomous vehicle, to provide Services in a zone covering
+Downtown Arlington and the University of Texas at Arlington (UTA) campus (shown in the
+Autonomous Vehicle General Service Area Map in Exhibit B). Contractor will configure the
+existing application to allow all riders the booking of autonomous vehicle trips in the proposed
+zone depicted in the map included herein. The map may be amended from time to time upon the
+written agreement between City and Contractor.
 === page 63 ===
 Contractor will subcontract autonomous vehicles and autonomous vehicle operations to a 
 subcontractor, May Mobility. To the extent any third party liability arises from May Mobility’s 

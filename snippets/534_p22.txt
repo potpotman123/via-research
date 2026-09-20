@@ -1,0 +1,118 @@
+# source: raw/bleecker_drive/State of Vermont/VIA_MOBILITY_LLC_-_CONTRACT__PS1018_-_CONTRACT_-_PUBLIC_TRANSIT_CONSULTANT_SERVICES_2023_-_VERMONT.pdf
+# path: raw/bleecker_drive/State of Vermont/VIA_MOBILITY_LLC_-_CONTRACT__PS1018_-_CONTRACT_-_PUBLIC_TRANSIT_CONSULTANT_SERVICES_2023_-_VERMONT.pdf
+# hit page: 22 of 103
+# terms: Via Mobility
+
+=== page 21 ===
+VIOLATION AND BREACH OF CONTRACT 
+Disputes: 
+Disputes arising in the performance of this Contract that are not resolved by agreement of the parties shall be decided in writing by the authorized 
+representative of the agency. This decision shall be final and conclusive unless within [10] days from the date of receipt of its copy, the Contractor 
+mails or otherwise furnishes a written appeal to the agencies authorized representative. In connection with any such appeal, the Contractor shall be 
+afforded an opportunity to be heard and to offer evidence in support of its position. The decision of the agencies authorized representative shall be 
+binding upon the Contractor and the Contractor shall abide be the decision. 
+ 
+Performance during Dispute: 
+Unless otherwise directed by the agencies authorized representative, contractor shall continue performance under this contract while matters in 
+dispute are being resolved. 
+Claims for Damages: 
+Should either party to the contract suffer injury or damage to person or property because of any act or omission of the party or of any of his 
+employees, agents or others for whose acts he is legally liable, a claim for damages therefore shall be made in writing to such other party within a 
+reasonable time after the first observance of such injury or damage. 
+ 
+Remedies: 
+Unless this contract provides otherwise, all claims, counterclaims, disputes and other matters in question between the agencies authorized 
+representative and contractor arising out of or relating to this agreement or its breach will be decided by arbitration if the parties mutually agree, 
+or in a court of competent jurisdiction within the State in which the Agency is located. 
+Rights and Remedies: 
+Duties and obligations imposed by the contract documents and the rights and remedies available thereunder shall be in addition to and not a 
+limitation of any duties, obligations, rights and remedies otherwise imposed or available by law. No action or failure to act by the Agency or 
+contractor shall constitute a waiver of any right or duty afforded any of them under the contract, nor shall any such action or failure to act constitute 
+an approval of or acquiescence in any breach thereunder, except as may be specifically agreed in writing. 
+ 
+SIMPLIFIED ACQUISITION THRESHOLD 
+Contracts for more than the simplified acquisition threshold, which is the inflation adjusted amount determined by the Civilian Agency Acquisition 
+Council and the Defense Acquisition Regulations Council (Councils) as authorized by 41 U.S.C. § 1908, or otherwise set by law, must address 
+administrative, contractual, or legal remedies in instances where contractors violate or breach contract terms, and provide for such sanctions and 
+penalties as appropriate. (Note that the simplified acquisition threshold determines the procurement procedures that must be employed pursuant to 
+2 C.F.R. §§ 200.317–200.327. 
+The simplified acquisition threshold does not exempt a procurement from other eligibility or processes requirements that may apply. For example, 
+Buy America’s eligibility and process requirements apply to any procurement in excess of $150,000. 49 U.S.C. § 5323(j)(13). 
+NOTIFICATION TO FTA 
+If a current or prospective legal matter that may affect the Federal Government emerges, the Recipient must promptly notify the FTA Chief Counsel 
+and FTA Regional Counsel for the Region in which the Recipient is located. The Recipient must include a similar notification requirement in its 
+Third Party Agreements and must require each Third Party Participant to include an equivalent provision in its sub agreements at every tier, for 
+any agreement that is a “covered transaction” according to 2 C.F.R. §§ 180.220 and 1200.220. 
+ 
+(1) The types of legal matters that require notification include, but are not limited to, a major dispute, breach, default, litigation, or naming 
+the Federal Government as a party to litigation or a legal disagreement in any forum for any reason. 
+(2) Matters that may affect the Federal Government include, but are not limited to, the Federal Government’s interests in the Award, the 
+accompanying Underlying Agreement, and any Amendments thereto, or the Federal Government’s administration or enforcement of federal 
+laws, regulations, and requirements. 
+ 
+(3) The Recipient must promptly notify the U.S. DOT Inspector General in addition to the FTA Chief Counsel or Regional Counsel for the Region in 
+which the Recipient is located, if the Recipient has knowledge of potential fraud, waste, or abuse occurring on a Project receiving assistance from 
+FTA. The notification provision applies if a person has or may have submitted a false claim under the False Claims Act, 31 U.S.C. § 3729 et seq., 
+or has or may have committed a criminal or civil violation of law pertaining to such matters as fraud, conflict of interest, bribery, gratuity, or similar 
+misconduct. This responsibility occurs whether the Project is subject to this Agreement or another agreement between the Recipient and FTA, or 
+an agreement involving a principal, officer, employee, agent, or Third Party Participant of the Recipient. It also applies to subcontractors at any tier. 
+Knowledge, as used in this paragraph, includes, but is not limited to, knowledge of a criminal or civil investigation by a Federal, state, or local law 
+enforcement or other investigative agency, a criminal indictment or civil complaint, or probable cause that could support a criminal indictment, or 
+any other credible information in the possession of the Recipient. 
+ 
+ 
+PROHIBITION ON CERTAIN TELECOMMUNICATIONS AND VIDEO SURVEILLANCE SERVICES OR 
+EQUIPMENT. 
+ 
+a. Recipients and subrecipients are prohibited from obligating or expending loan or grant funds to: 
+ 
+1. Procure or obtain; 
+ 
+2. Extend or renew a contract to procure or obtain;or 
+ 
+ 
+ 
+PS1018 - Public Transit Consultant Services 2023
+                                    Via Mobility LLC
+Page 20 of 82
+=== page 22 ===
+3. Enter into a contract (or extend or renew a contract) to procure or obtain equipment, services, or systems that uses covered 
+telecommunications equipment or services as a substantial or essential component of any system, or as critical technology as 
+part of any system. As described in Public Law 115-232, section 889, covered telecommunications equipment is 
+telecommunications equipment produced by Huawei Technologies Company or ZTE Corporation (or any subsidiary or affiliate 
+of such entities). 
+ 
+i. For the purpose of public safety, security of government facilities, physical security surveillance of critical infrastructure, 
+and other national security purposes, video surveillance and telecommunications equipment produced by Hytera 
+Communications Corporation, Hangzhou Hikvision Digital Technology Company, or Dahua Technology Company(or any 
+subsidiary or affiliate of such entities). 
+ 
+ii. Telecommunications or video surveillance services provided by such entities or using such equipment. 
+ 
+iii. Telecommunications or video surveillance equipment or services produced or provided by an entity that the Secretary of 
+Defense, in consultation with the Director of the National Intelligence or the Director of the Federal Bureau of Investigation, 
+reasonably believes to be an entity owned or controlled by, or otherwise connected to, the government of a covered foreign 
+country. 
+ 
+b. In implementing the prohibition under Public Law 115-232, section 889, subsection (f), paragraph (1), heads of executive agencies 
+administering loan, grant, or subsidy programs shall prioritize available funding and technical support to assist affected businesses, 
+institutions and organizations as is reasonably necessary for those affected entities to transition from covered communications equipment 
+and services, to procure replacement equipment and services, and to ensure that communications service to users and customers is 
+sustained. 
+ 
+c. See Public Law 115-232,section 889 for additional information. 
+ 
+d. See also § 200.471. 
+ 
+PS1018 - Public Transit Consultant Services 2023
+                                    Via Mobility LLC
+Page 21 of 82
+=== page 23 ===
+General Terms and Conditions 
+for Contracts for Services
+VERMONT AGENCY OF TRANSPORTATION
+"UUBDINFOU'
+3FWJTFE.BZ
+PS1018 - Public Transit Consultant Services 2023
+                                    Via Mobility LLC
+Page 22 of 82

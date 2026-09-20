@@ -1,0 +1,176 @@
+# source: raw/bleecker_drive/Miami Dade/212269.pdf
+# path: raw/bleecker_drive/Miami Dade/212269.pdf
+# hit page: 12 of 35
+# terms: Remix Technologies, Via+annual fee, Via+not to exceed, Via+not-to-exceed
+
+=== page 11 ===
+Miami-Dade County, FL 
+Contract No. BW-10126 
+Page 5 of 29 
+Rev 8-4-21 
+ 
+section of, or schedule to this Agreement unless otherwise indicated. 
+2.
+Reference to any agreement or other instrument shall be deemed to include such agreement or other instrument as
+such agreement or other instrument may, from time to time, be modified, amended, supplemented, or restated in
+accordance with its terms.
+3.
+The terms "hereof", "herein", "hereinafter", "hereby", "herewith", "hereto", and "hereunder" shall be deemed to refer
+to this Agreement.
+4.
+The titles, headings, captions and arrangements used in these Terms and Conditions are for convenience only and
+shall not be deemed to limit, amplify or modify the terms of this Contract, nor affect the meaning thereof.
+NATURE OF THE AGREEMENT 
+A.
+This Agreement incorporates and includes all prior negotiations, correspondence, conversations, agreements, and
+understandings applicable to the matters contained in this Agreement.  The parties agree that there are no commitments,
+agreements, or understandings concerning the subject matter of this Agreement that are not contained in this Agreement,
+and that this Agreement contains the entire agreement between the parties as to all matters contained herein.  Accordingly,
+it is agreed that no deviation from the terms hereof shall be predicated upon any prior representations or agreements,
+whether oral or written.  It is further agreed that any oral representations or modifications concerning this Agreement shall
+be of no force or effect, and that this Agreement may be modified, altered or amended only by a written amendment duly
+executed by both parties hereto or their authorized representatives.
+B.
+The Consultant shall provide the services set forth in the Scope of Work, and render full and prompt cooperation with the
+County in all aspects of the Services performed hereunder.
+C.
+The Consultant acknowledges that this Agreement requires the performance of all things necessary for or incidental to the
+effective and complete performance of all Work and Services under this Contract.  All things not expressly mentioned in
+this Agreement but necessary to carrying out its intent are required by this Agreement, and the Consultant shall perform
+the same as though they were specifically mentioned, described and delineated.
+D.
+The Consultant shall furnish all labor, materials, tools, supplies, and other items required to perform the Work and Services
+that are necessary for the completion of this Contract. However, the County acknowledges that timely input and
+cooperation from the County will be required at all times and any delays or costs incurred by either party as a result of the
+lack of such timely cooperation from the County shall be borne solely by the County. All Work and Services shall be
+accomplished at the direction of and to the satisfaction of the County's Project Manager, in accordance with Appendix A
+and the Parties’ established metrics, milestones and plans during the Term of this Agreement.
+E.
+The Consultant acknowledges that the County shall be responsible for making all policy decisions regarding the Scope of
+Work.  The Consultant agrees to provide input on policy issues in the form of recommendations.  The Consultant agrees
+to implement all commercially reasonable changes in providing Services hereunder as a result of a policy change
+implemented by the County.  The Consultant agrees to act in an expeditious and fiscally sound manner in providing the
+County with input regarding the time and cost to implement said changes and in executing the activities required to
+implement said changes. The County shall be responsible for all resources and change fees required to implement its
+policy decisions and requested changes, if any, to the Scope of Work.
+CONTRACT TERM 
+The Contract shall become effective on the date of the Parties’ execution, whichever is later, and shall continue through the 
+last day of the third (3rd) year, thereafter. The County may extend this Contract for up to an additional one hundred-eighty (180) 
+calendar days beyond the current Contract period and will notify the Contractor in writing of the extension. This Contract may 
+be extended beyond the initial one hundred-eighty (180) calendar day extension period by mutual agreement between the 
+County and the Contractor, upon approval by the Board of County Commissioners (the "Board"). 
+11
+=== page 12 ===
+Miami-Dade County, FL 
+Contract No. BW-10126 
+Page 6 of 29 
+Rev 8-4-21 
+ 
+NOTICE REQUIREMENTS 
+All notices required or permitted under this Agreement shall be in writing and shall be deemed sufficiently served if delivered 
+by Registered or Certified Mail, with return receipt requested; or delivered personally; or delivered via e-mail (if provided below) 
+and followed with delivery of hard copy; and in any case addressed as follows: 
+(1)
+To the County
+a)
+To the Project Manager:
+Miami-Dade County
+Attention: Julian Guevara
+Phone:  (786) 469-5133
+E-mail:  Julian.Guevara@miamidade.gov
+ 
+and, 
+b)
+To the Contract Manager:
+Miami-Dade County
+Internal Services Department, Strategic Procurement Division
+Attention:   Chief Procurement Officer
+111 N.W. 1st Street, Suite 1375, Miami, FL  33128-1974 
+Phone:    (305) 375-4900 
+E-mail:  Namita.Uppal@miamidade.gov
+(2)
+To the Consultant
+ 
+Remix Technologies, LLC 
+ 
+Attention:  Olivia Ius 
+Phone:    (415) 712-0654 
+E-mail:  olivia@remix.com
+Either party may at any time designate a different address and/or contact person by giving notice as provided above to the 
+other party.  Such notices shall be deemed given upon receipt by the addressee. 
+PAYMENT FOR SERVICES/AMOUNT OBLIGATED 
+The Consultant warrants that it has reviewed the County's requirements and has asked such questions and conducted such 
+other inquiries as the Consultant deemed necessary in order to determine the price the Consultant will charge to provide the 
+Work and Services to be performed under this Contract.  The compensation for all Work and Services performed under this 
+Contract, including all costs associated with such Work and Services, shall be in the total not-to-exceed amount of Nine 
+Hundred Sixty Thousand Dollars ($960,000.00).  The County shall have no obligation to pay the Consultant any additional 
+sum in excess of this amount, except for a change and/or modification to the Contract, which is approved and executed in 
+writing by the County and the Consultant.  
+All Services undertaken by the Consultant before County’s approval of this Contract shall be at the Consultant’s risk and 
+expense. 
+PRICING 
+A.
+The annual fee shall remain firm and fixed for the term of the Contract, including any extension periods; however, the
+Consultant may offer incentive discounts to the County at any time during the Contract term, including any extension
+thereof.
+12
+=== page 13 ===
+Miami-Dade County, FL 
+Contract No. BW-10126 
+Page 7 of 29 
+Rev 8-4-21 
+ 
+B.
+The Consultant shall provide the following products at the identified prices:
+Remix Transit + 
+Explore Planning 
+License 
+$150,000 USD per year (based on fixed route fleet size of 700) Includes: 
+• Access to Transit Planning platform
+• Remix licenses for an unlimited number of users within Miami Dade County
+• Enhanced data visualization and analysis
+• Software as a Service (SaaS): fully hosted, cloud-based web platform
+• Dedicated Customer Success staff; Premium Enterprise Support: response to requests in 1
+business day
+Remix Street 
+Design + Mobility 
+Management 
+Platform License 
+$170,000 USD per year (based on County’s population of 2.7M) Includes: 
+• Access to Street Design platform
+• Remix licenses for an unlimited number of users within Miami-Dade County
+• Enhanced data visualization and analysis
+• Ongoing mobility data loading and storage for data analysis, provider evaluation, and trip
+aggregation
+• Availability and accuracy of this data dependent on city's ability to access provider data
+• Software as a Service (SaaS): fully hosted, cloud-based web platform
+• Dedicated Customer Success staff; Premium Enterprise Support: response to requests in 1
+business day
+METHOD AND TIMES OF PAYMENT 
+A.
+The Consultant agrees that under the provisions of this Agreement, as reimbursement for those actual, reasonable and
+necessary costs incurred by the Consultant, which are directly attributable or properly allocable to the Services, the
+Consultant may bill the County periodically, but not more than once per month, upon invoices certified by the Consultant
+pursuant to Appendix A – Scope of Work.  All invoices shall be taken from the books of account kept by the Consultant,
+shall be supported by copies of payroll distribution, receipt bills or other documents reasonably required by the County,
+shall show the County’s contract number, and shall have a unique invoice number assigned by the Consultant.
+It is the policy of Miami-Dade County that payment for all purchases by County agencies and the Public Health Trust shall
+be made in a timely manner and that interest payments be made on late payments.  All firms, including Small Business
+Enterprises, providing goods and services to the County, shall receive payment to maintain sufficient cash flow.  In
+accordance with Section 218.74 of the Florida Statutes, and Section 2-8.1.4 of the Code of Miami-Dade County, the time
+at which payment shall be due from the County or the Public Health Trust shall be forty-five (45) days from receipt of a
+proper invoice.
+Billings from prime Consultants under services and goods contracts with the County or Public Health Trust, that are Small
+Business Enterprise contract set-aside, bid preference or contain a subconsultant goal, shall be promptly reviewed and
+payment made by the County or Trust on those amounts not under dispute within fourteen (14) calendar days of receipt
+of such billing by the County or the Trust pursuant to Sections 2-8.1.1.1.1 and 2-8.1.1.1.2 of the Code of Miami-Dade.  All
+payments due from the County or the Public Health Trust, and not made within the time specified by this section shall bear
+interest from thirty (30) days after the due date at the rate of one percent (1%) per month on the unpaid balance.
+Further, proceedings to resolve disputes for payment of obligations shall be concluded by final written decision of the
+County Mayor, or his or her designee(s), not later than sixty (60) days after the date on which the proper invoice was
+received by the County or the Public Health Trust.
+B.
+In accordance with Miami-Dade County Implementing Order 3-9, Accounts Receivable Adjustments, if money is owed by
+the Consultant to the County, whether under this Contract or for any other purpose, the County reserves the right to retain
+such amount from payment due by County to the Consultant under this Contract.  Such retained amount shall be applied
+13

@@ -1,0 +1,126 @@
+# source: raw/bleecker_drive/City of Philadelphia/DM0012_2023_Remix_Philadelphia_Services_Agreement.pdf
+# path: raw/bleecker_drive/City of Philadelphia/DM0012_2023_Remix_Philadelphia_Services_Agreement.pdf
+# hit page: 4 of 13
+# terms: Remix Technologies, Via Transportation
+
+=== page 3 ===
+Contact Us 
+We love discussing all things cities and transportation.  
+If you have questions about this proposal, please reach out to us at:  
+ 
+Olivia Ius 
+Head of Remix Partner Success |  olivia@remix.com 
+ 
+TEAM INFO  
+www.remix.com  |  team@remix.com
+=== page 4 ===
+REMIX TERMS AND CONDITIONS 
+These Terms and Conditions (“Terms”, together with an Order Form referencing these Terms, the “Agreement”), are entered between 
+Remix Technologies, LLC., a subsidiary of Via Transportation, Inc. ("Company"), and the customer identified on the Order Form 
+(“Customer”), and are effective as of the date that the Order Form is executed by both parties (the “Effective Date”). 
+ 
+1. 
+DEFINITIONS. Capitalized terms will have the meanings set forth in this Section 1, or in the section in which they are first 
+used. 
+1.1 
+“Authorized User” means each of Customer’s employees, agents, and independent contractors who are authorized 
+to access the Remix Solution under this Agreement. 
+1.2 
+“Customer Content” means any content, data and information provided to Remix by or on behalf of Customer or its 
+Authorized Users for use with the Services, including, without limitation, any Mobility Provider Data.  Customer Content does not 
+include Licensed Material or Resultant Data.  
+1.3 
+“Documentation” means the materials describing the use and operation of the Remix Solution that are made 
+available to Customer as written technical briefs or on https://help.remix.com/ or such other web page as Remix may designate to 
+Customer from time to time. 
+1.4 
+“Intellectual Property Rights” means any and all now known or hereafter existing (a) rights associated with works 
+of authorship, including copyrights, mask work rights, and moral rights; (b) trademark or service mark rights; (c) trade secret rights; 
+(d) patents, patent rights, and industrial property rights; (e) layout design rights, design rights, and other proprietary rights of every 
+kind and nature other than trademarks, service marks, trade dress, and similar rights; and (f) all registrations, applications, renewals, 
+extensions, or reissues of the foregoing, in each case in any jurisdiction throughout the world. 
+1.5 
+“Licensed Material” means reports, results, materials and documentation made available to Customer as part of the 
+Services. Licensed Material does not include the Remix Solution or any component thereof.  
+1.6 
+“Mobility Provider” means an operator of a transportation or rideshare service or platform that provides or 
+facilitates transportation by train, bus, car, bicycle, scooter or any other mode of transportation and is required to provide 
+transportation related data and information to Customer (or its third party designees) by contract, permit or other applicable 
+ordinance, regulation or law. 
+1.7 
+“Mobility Provider Data” means any data or other information made available to Remix by a Mobility Provider at 
+the direction, or for the specific benefit, of the Customer, even if Remix’s receipt of such information is governed by its own agreement 
+with the Mobility Provider. 
+1.8 
+“Order Form” means an order form, scope of work or scope of services signed by both parties that references this 
+Agreement. 
+1.9 
+“Professional Services” means professional services provided by Remix to Customer as described in any Order Form 
+(as may be further described in any statement of work). 
+1.10 
+“Remix Solution” means the Remix software-as-a-service application identified in any Order Form that allows 
+Authorized Users to access certain features and functions through a web interface. 
+1.11 
+ “Resultant Data” means statistics, data, insights, observations, analyses, ideas and other information that does not 
+identify any natural person and is derived from the categorization, modeling or other processing of one (or more) data set(s), including, 
+without limitation, data sets that include Customer Content and data of Remix’s other customers. 
+1.12 
+“Services” means any services provided by Remix to Customer under this Agreement as described in an Order Form, 
+including, but not limited to, provision of the Remix Solution and Professional Services.
+=== page 5 ===
+2. 
+PROVISION OF SERVICES 
+2.1 
+Access. Subject to Customer’s payment of the fees set forth in the Order Form (“Fees”), Remix will provide Customer 
+with access to the Remix Solution during the Term (as defined below). Customer will use commercially reasonable efforts to prevent 
+unauthorized access to, or use of, the Remix Solution, and notify Remix promptly of any such unauthorized use known to Customer. 
+2.2 
+Support Services. Subject to the terms and conditions of this Agreement, Remix will exercise commercially 
+reasonable efforts to (a) provide support for the use of the Remix Solution to Customer, (b) keep the Remix Solution operational and 
+available to Customer, in each case in accordance with its standard policies and procedures, and (c) provide the Service in accordance 
+with the Service Level Terms set out in Exhibit A.  
+2.3 
+Professional Services. As contemplated in Section 6.1 below, Remix can provide auxiliary Professional Services.  
+These Professional Services are outlined in Exhibit B. The provision of these Professional Services, together with the fees to be charged 
+by Remix, will be set forth in an Order Form or a statement of work signed by both parties at the time they are requested. 
+ 
+2.4 
+Hosting. Remix will, at its own expense, provide for the hosting of the Remix Solution, provided that nothing herein 
+will be construed to require Remix to provide, or bear any responsibility with respect to, any telecommunications or computer network 
+hardware required by Customer or any Authorized User to access the Remix Solution from the Internet.   
+3. 
+INTELLECTUAL PROPERTY 
+3.1 
+License Grant. Subject to the terms and conditions of this Agreement, Remix grants to Customer a non-exclusive, 
+non-transferable (except as permitted under Section 13.6) license during the Term (as defined below), solely for Customer’s internal 
+business purposes and in accordance with the limitations (if any) set forth in the Order Form, (a) to access and use the Remix Solution 
+and in accordance with the Documentation; and (b) to use and reproduce a reasonable number of copies of the Documentation solely 
+to support Customer’s use of the Remix Solution. Customer may permit any Authorized Users to access and use the features and 
+functions of the Remix Solution as contemplated by this Agreement, provided Customer remains responsible for compliance by such 
+individuals with all of the terms and conditions of this Agreement, and any use of the Services by such individuals is for the sole benefit 
+of Customer. 
+3.2 
+Restrictions. Customer will not, and will not permit any Authorized User or other party to: (a) allow any third party 
+to access the Remix Solution, Licensed Material or Documentation, except as expressly allowed herein; (b) modify, adapt, alter or 
+translate the Remix Solution, Licensed Material or Documentation; (c) sublicense, lease, sell, resell, rent, loan, distribute, transfer or 
+otherwise allow the use of the Remix Solution or Documentation for the benefit of any unauthorized third party; (d) reverse engineer, 
+decompile, disassemble, or otherwise derive or determine or attempt to derive or determine the source code (or the underlying ideas, 
+algorithms, structure or organization) or nonpublic APIs of the Remix Solution, except as permitted by law; (e) interfere in any manner 
+with the operation of the Remix Solution or the hardware and network used to operate the Remix Solution; (f) modify, copy or make 
+derivative works based on any part of the Remix Solution or Documentation; (g) access or use the Remix Solution to build a similar or 
+competitive product or service; (h) attempt to access the Remix Solution through any unapproved interface; or (i) otherwise use the 
+Remix Solution, Licensed Material, or Documentation in any manner that exceeds the scope of use permitted under Section 3.1 or in 
+a manner inconsistent with applicable law, the Documentation, or this Agreement. Customer acknowledges and agrees that the Remix 
+Solution will not be used, and is not licensed for use, in connection with any of Customer’s time-critical or mission-critical functions. 
+Customer will not remove, alter, or obscure any proprietary notices (including copyright and trademark notices) of Remix or its 
+licensors on the Licensed Material or any copies thereof. 
+3.3 
+Ownership. As between the parties, the Customer Content, and all worldwide Intellectual Property Rights in it, is 
+the exclusive property of Customer. All rights in and to the Customer Content not expressly granted to Remix in this Agreement are 
+reserved by Customer.  As between the parties, the Remix Solution, Licensed Materials, Documentation and Resultant Data, and all 
+worldwide Intellectual Property Rights in each of the foregoing, are the exclusive property of Remix and its suppliers. All rights in and 
+to the Remix Solution, Licensed Materials, Documentation and Resultant Data not expressly granted to Customer in this Agreement 
+are reserved by Remix and its suppliers.  
+3.4 
+License to Licensed Material.  Subject to the terms and conditions of this Agreement, Remix grants Customer a non-
+exclusive, non-transferable (except as permitted under Section 13.6), non-sublicensable, royalty-free and fully-paid  license to use

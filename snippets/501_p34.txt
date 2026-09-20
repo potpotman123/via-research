@@ -1,0 +1,163 @@
+# source: raw/bleecker_drive/Miami Dade/212269.pdf
+# path: raw/bleecker_drive/Miami Dade/212269.pdf
+# hit page: 34 of 35
+# terms: Via+SaaS, Via+fleet, Via+subscription
+
+=== page 33 ===
+Scope of Work  
+Contract No. BW-10126 
+Page 27 of 29 
+Rev 8-4-21 
+A.
+SUMMARY
+The Department of Transportation and Public Works (“DTPW”) of Miami-Dade County (“County”) requires the
+Consultant to provide a web-based tool to rapidly analyze and evaluate transit concepts. This software tool shall
+provide an unlimited number of logins to County Engineers and Planners to easily and rapidly sketch ideas, review
+mobility data and inventories, evaluate transit planning scenarios and be able to ingest/log stakeholder feedback,
+all within the same application.
+Estimations:
+•
+Transit fleet size – 700 Vehicles
+•
+Miami-Dade County Population – 2.7 Million
+B.
+CONTRACTOR LICENSE INCLUSIONS
+A full transit planning platform for the County, as an annual subscription for unlimited users, which
+includes:
+•
+Fast and accurate sketch planning using existing stop infrastructure
+•
+Instant demographic impact analysis
+•
+Instant cost estimates
+•
+Unlimited exports (excel, shapefile, KML, frequency-based GTFS, high-resolution image)
+•
+Unlimited custom data layers (polygon-based shapefiles)
+•
+Unlimited GTFS uploads
+•
+Public engagement and share features
+•
+Travel-time isochrone visualizations
+•
+Title VI Engine (US) - generate a service equity analysis in less than 10 minutes
+•
+Timetables – generate and customize timepoints and segment-level runtimes
+•
+Export timetables into excel
+•
+Consistent and regular product improvements / feature launches
+A full street design platform for County staff, as an annual subscription for unlimited users, to include: 
+•
+Drag and drop editing, with an easy-to-learn graphic interface
+•
+Satelitte, topographic, and sketch view to support sketching existing conditions
+•
+Sketch abilities for street design in plan and cross section view
+•
+Ability to sketch out multiple lane types: vehicle, turn lanes, bike lanes, bus lanes, pedestrian infrastructure,
+crosswalks, and more
+•
+On the fly editing of right of way widths and curb-to-curb widths, including lane measurements
+•
+Comment, call-out, and labeling features for public engagement and sharing
+•
+Custom street elements to visualize concepts (signs, lane symbols, street furniture, etc.)
+•
+Editable street grid to modify or add existing street segments or intersections
+•
+Capacity estimates to approximate free flow capacity of each lane type
+•
+Unlimited custom data layers (polygon-based shapefiles)
+•
+Public engagement and share features
+•
+Consistent and regular product improvements / feature launches
+•
+Export to CAD
+33
+=== page 34 ===
+Miami-Dade County, FL 
+Contract No. BW-10126
+Page 28 of 29 
+Rev 8-4-21 
+A full mobility management platform for the County staff, as an annual subscription for unlimited users, 
+to include: 
+•
+Vehicle location ground truth and metrics: view dockless vehicle location and filter based on vehicle status,
+service provider, vehicle type, and geographic zone
+•
+Fleet distribution and trends via heatmap views
+•
+Understand the most popular spots in your city rider dropoff and deployment to inform parking zones
+•
+Set fleet cap and equity zone regulation and compliance rules to monitor over the course of your mobility
+program
+•
+Geofence policy zone creation: create zones to restrict or encourage parking/riding in specific geographic
+areas within your city
+•
+Trip path visualization by segment across your city based on the average daily usage based on a monthly
+average
+•
+Bike network analysis: Compare trip paths compared to current bike infrastructure to quickly identify key
+corridors of risk
+•
+Trip origin and destination: Understand where dockless trips start and end, based on custom geographic
+areas
+•
+Overall program metrics: utilization, total trips per day, average distance, average duration
+•
+Docked bikeshare support and key station metrics Exports to CSV for further analysis
+C.
+CUSTOMER SUPPORT REQUIREMENTS
+The Contractor shall provide the following support:
+•
+Onboard (First 60 Days): Identify a first project and work on it together.
+-
+Workshops, Project-Assisted Training, Individual Sessions, Video Guides
+•
+Plan (Months 2+):
+-
+Regular Check-ins, Best Practices Blog, Contractor Webinars, Contractor Conference
+•
+Measure Results (Months 6+): Document your return on investment (ROI).
+-
+Develop ROI Report, Set Yearly Goals, Manage Renewal, Plan Ahead
+D.
+TECHNICAL REQUIREMENTS
+Contractor shall provide an entirely web-based and software-as-a-service (SaaS):
+•
+Everything is in the cloud -- no installations or downloads. Can access from anywhere.
+•
+Every user gets a login + password
+•
+Works on the latest version of any browser
+•
+County-wide annual subscription -- no maintenance fees
+E.
+SERVICE LEVELS
+The Services shall be available 99.9% of the time, measured monthly, excluding holidays and weekends and
+scheduled maintenance. If County requests maintenance during these hours, any uptime or downtime calculation
+will exclude periods affected by such maintenance. Further, any downtime resulting from outages of third party
+connections or utilities or other reasons beyond the Contractor’s control will also be excluded from any such
+calculation. County's sole and exclusive remedy, and Contractor's entire liability, in connection with Service
+availability shall be that for each period of downtime lasting longer than one hour, Contractor will credit the County
+5% of Service fees for each period of 30 or more consecutive minutes of downtime; provided that no more than
+one such credit will accrue per day. Downtime shall begin to accrue as soon as the County (with notice to the
+34
+=== page 35 ===
+Miami-Dade County, FL 
+Contract No. BW-10126
+Page 29 of 29 
+Rev 8-4-21 
+Contractor) recognizes that downtime is taking place, and continues until the availability of the Services is restored. 
+In order to receive downtime credit, the County shall notify the Contractor in writing within 24 hours from the time 
+of downtime, and failure to provide such notice will forfeit the right to receive downtime credit. Such credits may 
+not be redeemed for cash and shall not be cumulative beyond a total of credits for one (1) week of Service Fees 
+in any one (1) calendar month in any event. The Contractor will only apply a credit to the month in which the 
+incident occurred. The Contractor’s blocking of data communications or other Service in accordance with its 
+policies shall not be deemed to be a failure of the Contractor to provide adequate service levels under this 
+Agreement. 
+35

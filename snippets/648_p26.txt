@@ -1,0 +1,113 @@
+# source: raw/bleecker_drive/Cupertino/19_5960_A_-_Draft_Agreement.pdf
+# path: raw/bleecker_drive/Cupertino/19_5960_A_-_Draft_Agreement.pdf
+# hit page: 26 of 28
+# terms: Via Transportation
+
+=== page 25 ===
+Dropoff request locations (by 
+polygon) 
+week 
+Top 5 pickup request 
+intersections 
+week 
+Top 5 dropoff request 
+intersections 
+week
+=== page 26 ===
+Exh. D-Insurance Requirements 
+1 
+Consultant shall procure prior to commencement of Services and maintain for the duration of the contract, 
+at its own cost and expense, the following insurance policies and coverage with companies doing business 
+in California and acceptable to City. 
+INSURANCE POLICIES AND MINIMUMS REQUIRED 
+1.
+Commercial General Liability (CGL) for bodily injury, property damage, personal injury liability
+for premises operations, products and completed operations, contractual liability, and personal and
+advertising injury with limits no less than $5,000,000 per occurrence (ISO Form CG 00 01). If a
+general aggregate limit applies, either the general aggregate limit shall apply separately to this
+project/location (ISO Form CG 25 03 or 25 04) or it shall be twice the required occurrence limit.
+a. 
+It shall be a requirement that any available insurance proceeds broader than or in excess of the
+specified minimum insurance coverage requirements and/or limits shall be made available to the
+Additional Insured and shall be (i) the minimum coverage/limits specified in this agreement; or (ii)
+the broader coverage and maximum limits of coverage of any insurance policy, whichever is greater.
+b. 
+Additional Insured coverage under Consultant's policy shall be "primary and non-contributory,"
+will not seek contribution from City’s insurance/self-insurance, and shall be at least as broad as ISO
+Form CG 20 01 (04/13).
+c. 
+The limits of insurance required may be satisfied by a combination of primary and umbrella or
+excess insurance, provided each policy complies with the requirements set forth in this Contract.
+Any umbrella or excess insurance shall contain or be endorsed to contain a provision that such
+coverage shall also apply on a primary and non-contributory basis for the benefit of City before the
+City’s own insurance or self-insurance shall be called upon to protect City as a named insured.
+2.
+Automobile Liability: ISO CA 00 01 covering any auto (including owned, hired, and non-owned
+autos) with  limits  no less than $5,000,000 per accident for bodily injury and property
+damage.
+3.
+Workers’ Compensation: As required by the State of California, with Statutory Limits and
+Employer’s Liability Insurance of no less than $1,000,000 per occurrence for bodily injury or
+disease.
+4.
+Sexual Abuse/Molestation: Insurance or the equivalent as required for activities/services involving
+minors, (i.e., after school activities, recreational programs, athletics, study/training events and
+transportation of minors). Coverage may be included under General Liability or be obtained in a
+separate policy, such as Educators Legal Liability (ELL) policy, with a limit of no less than
+$1,000,000 per occurrence. If a general aggregate limit applies, it must apply separately to this
+contract or be twice the required occurrence limit.
+5.
+Cyber Liability: Insurance with limits not less than $5,000,000 per occurrence / $5,000,000 aggregate.
+Coverage shall be sufficiently broad to respond to the duties and obligations as is undertaken by
+Consultant in this agreement and shall include, but not be limited to, claims involving
+infringement of intellectual property, including but not limited to infringement of copyright,
+trademark, trade dress, invasion of privacy violations, information theft, damage to or destruction
+of electronic information, release of private information, alteration of electronic information,
+extortion and network security. The policy shall provide coverage for breach response costs as
+EXHIBIT D 
+Insurance Requirements 
+Via Transportation, Inc – On-Demand Community Shuttle
+=== page 27 ===
+Exh. D-Insurance Requirements 
+2 
+well as regulatory fines and penalties as well as credit monitoring expenses with limits sufficient 
+to respond to these obligations. 
+OTHER INSURANCE PROVISIONS 
+The aforementioned insurance shall be endorsed and have all the following conditions and provisions: 
+Additional Insured Status 
+The City of Cupertino, its City Council, officers, officials, employees, agents, servants and volunteers 
+(“Additional Insureds”) are to be covered as additional insureds on all insurance coverages required by this 
+Agreement. General Liability coverage can be provided in the form of an endorsement to Consultant’s 
+insurance (at least as broad as ISO Form CG 20 10 (11/ 85) or both CG 20 10 and CG 20 37 forms, if later 
+editions are used). 
+Primary Coverage 
+Coverage afforded to City/Additional Insureds shall be primary insurance. Any insurance or self-insurance 
+maintained by City, its officers, officials, employees, or volunteers shall be excess of Consultant’s insurance 
+and shall not contribute to it. 
+Notice of Cancellation 
+Each insurance policy shall state that coverage shall not be canceled or allowed to expire, except with written 
+notice to City 30 days in advance or 10 days in advance if due to non-payment of premiums. 
+Waiver of Subrogation 
+Consultant waives any right to subrogation against City/Additional Insureds for recovery of damages to the 
+extent said losses are covered by the insurance policies required herein. Specifically, the Workers’ 
+Compensation policy shall be endorsed with a waiver of subrogation in favor of City for all work performed 
+by Consultant, its employees, agents and subconsultants. This provision applies regardless of whether or not 
+the City has received a waiver of subrogation endorsement from the insurer. 
+Deductibles and Self-Insured Retentions 
+Any deductible or self-insured retention must be declared to and approved by the City. At City’s option, 
+either: the insurer must reduce or eliminate the deductible or self-insured retentions as respects the 
+City/Additional Insureds; or Consultant must show proof of ability to pay losses and costs related 
+investigations, claim administration and defense expenses. The policy shall provide, or be endorsed to 
+provide, that the self-insured retention may be satisfied by either the insured or the City. 
+Acceptability of Insurers 
+Insurers must be licensed to do business in California with an A.M. Best Rating of A-VII, or better. 
+Verification of Coverage 
+Consultant must furnish acceptable insurance certificates and mandatory endorsements (or copies of the policies 
+effecting the coverage required by this Agrement), and a copy of the Declarations and Endorsement Page of 
+the CGL policy listing all policy endorsements prior to commencement of the Contract. City retains the right 
+to demand verification of compliance at any time during the Contract term. 
+Subcontractors 
+Consultant shall require and verify that all subcontractors maintain CGL, Automobile Liability, Sexual Abuse 
+and Molestation, and Workers’ Compensation and Employer Liability (if applicable) insurance that meet the 
+requirements of this Agreement, including naming the City as an additional insured on subcontractors’ 
+insurance policies.

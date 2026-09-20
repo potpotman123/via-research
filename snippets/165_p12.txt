@@ -1,0 +1,127 @@
+# source: https://legistar.granicus.com/huntsvilleal/attachments/9800841b-3948-44e2-9e23-ef2ab1007faf.pdf
+# path: raw/cache/bbbdb020c072a8b6124814a71fc2748079790ca2.pdf
+# hit page: 12 of 37
+# terms: RideCo
+
+=== page 11 ===
+7.01
+7.02
+7.03
+7.04
+7.05
+7.06
+7.07
+7.08
+7.09
+RIDECO SUBSCRIPTION AND SERVICES AGREEMENT
+Sub-Contract: RideCo may sub-contract the performance of aspects of the Maintenance
+nd Support Services set forth herein. For the avoidance of doubt, RideCo shall rema
+ully responsible for the performance of all aspects of the Maintenance and Suppo
+Services and shall be liable for the acts and omissions of its sub-contractors.
+artial Invalidity: If any provision in this Agreement should be held illegal
+enforceable by a court having jurisdiction, such provision shall be modified to th
+shall remain in full force and effect.
+Assignment: Either party may not assign this Agreement without the written consent of
+(but on notice to) the other party. Notwithstanding the generality of the foregoing, RideCo
+ray feedy on ch this of control, or sa sofa or vitaly on is ase, acquision,
+assignment shall not require the consent of the Customer.
+This Agreement shall be
+binding on and shall inure to the benefit of the parties, their successors and permitied
+assigns.
+Governing Law and Venue: This Agreement shall be governed by the laws of the State
+of Alabama. All disputes relating to this Agreement shall be exclusively subject to the
+courts of Madison County, Alabama.
+blicity. RideCo shall be entitled lo disclose and publicize in the form of customer lis
+d on its web site and marketing materials. the identity of the Customer as a client
+RideCo, provided that the use of any trademark/logo of Customer shall be subject to
+Customer's prior written consent.
+RideCo shall be entitled to include a "powered by
+RideCo" statement in the white labeled versions of the Distributed Soflware.
+orce Maicure: Except for payment obligatons, n
+elay or taure in peror mane due to bight as of God, earhual e, Iliar dispan
+strikes, shortages of supplies, riots, war,
+dikes, she to es of sup his control of such any nice pligations ard rans otion
+excused party shall be extended on a week to week basis, provided, however, that a delay
+of thirty (30) days shall entitle the other party to terminate this Agreement without
+liability.
+Miscellaneous: This Agreement constitutes the entire agreement between the parties
+iened by both partics. A waiver by either party of any term or condition of this Agreemen
+or any breach thereof, in any one instance, shall not waive such term or condition or any
+RideCo Confidential
+Paye 9 of 34
+=== page 12 ===
+RIDECO SUBSCRIPTION AND SERVICES AGREEMENT
+between Customer and RideCo. This Agreement shall not be deemed to constitute a joint
+venture or partnership between the Parties.
+RideCo agrees that as an independent
+contractor, Customer will not provide insurance coverage for it and it is not covered under
+he Customer's workers compensation insurance. RideCo also agrees that it will not be
+treated or seek to be treated as an employee of Customer for any purpose.
+Request for Proposal Governs.
+ne terms, conditions, and requirements of ti
+for Proposals Paratransit Software,
+umber 20-2024-54 are express
+ncorporated herein as if set out fully, and if any term of this agreement is inconsisten
+vith the provisions of the Request for Proposal then the requirements of the Request for
+Proposal shall prevail.
+IN WITNESS WHEREOF, the parties have executed this Agreement by their duly authorized officers
+in that behalf.
+RideCo US, Inc.
+City of Huntsville
+Signature
+I have authority to bind RideCo.
+Signature
+I have authority to bind Customer.
+Name (typed or printed)
+Title
+Date
+Name: (typed or printed)
+Title
+Date
+RideCo Confidential
+Page 10 of 34
+=== page 13 ===
+RIDECO SUBSCRIPTION AND SERVICES AGREEMENT
+SCHEDULE "A"
+PROJECT TERMS AND INITIAL STATEMENT OF WORK
+Project Term: Commences on the Effective Date and shall run for an initial period of five (5) years
+from the launch date to passengers, with two (2) additional options to extend by a 1-year term at
+Customer's discretion, subject to agreement of applicable terms including the appropriate Fecs.
+Zone: Three (3) zones - 1) ADA zone, 2) Non-ADA zone and 3) City of Madison service area.
+Service model: Curb-to-curb (aka Door-to-Door)
+Vehicles: Up to 28 vehicles in peak service.
+Service Hours: To be determined by Customer
+Scope of Work:
+Project Management, Training, Software Requirements, and Data Reporting:
+manner.
+2.
+RideCo shall coordinate with Customer to refine and approve the service model, including specific
+stops, schedules, service coverage areas, and cost structure (including potential subsidization).
+• RideCo shall ensure adequate and complete training of initial operators, dispatchers, operation
+tanager(s), and Customer staff that are involved in the operation or monitoring of the servic
+Additional training sessions may be requested for an additional fee.
+4. RideCo will ensure that the functions listed in Software Functional Requirements (as outlined
+below) are met.
+5. RideCo and Customer will agree upon data reporting expectations and shall include daily ridership
+information, stop locations, use of referral or promotional codes, qualitative data collected from
+riders to capture travel preferences, and other data as mutually agreed.
+6. RideCo will work with Customer to coordinate a lest run of both the software application and service
+prior to commencement of public revenue service operations.
+7. RideCo will provide a standard daily KPI report, including data mutually agreed upon by Customer
+and RideCo. Custom reporting is out of scope but may be requested for an additional fee.
+8. RideCo will review data dashboard with Customer and transportation partners on weekly basis
+during the first month of revenue service operations and a monthly basis thereafter, during the
+Project Term.
+9. RideCo will periodically provide Customer with any recommendations for changes in stops, service
+hours, or promotions to ensure meeting project goals.
+10. RideCo will provide Customer with a final report summarizing their marke, operational findings,
+viability of long-term service, and recommendations. A presentation on the final report will be
+provided to Customer staff.
+Branding and Markcting:
+1. RideCo will brand the rider mobile application uniquely to the service. Customer will provide
+recessary graphics and content for RideCo to brand the application
+, RideCo will advise Customer in the marketing of the service to passengers, including providing
+examples of successful marketing materials from other client efforts.
+3. RideCo will configure and manage referral and promotional codes throughout, during the Project.
+RideCo Confidential
+Page 11 of 34

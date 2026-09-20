@@ -1,0 +1,104 @@
+# source: raw/bleecker_drive/City of Norman/ITEM-Attachment-001-5dd10c600aad47c78619f616d072ec4a.pdf
+# path: raw/bleecker_drive/City of Norman/ITEM-Attachment-001-5dd10c600aad47c78619f616d072ec4a.pdf
+# hit page: 11 of 25
+# terms: River North Transit, Via Transportation, Via+drivers, Via+fleet, Via+vehicles
+
+=== page 10 ===
+10 | Page 
+ 
+ 
+ 
+CONSULTANT 
+Signature:__________________________________ 
+Name:____________________________________ 
+Title: _____________________________________ 
+ 
+                          
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dillon Twombly
+Manager
+DocuSign Envelope ID: AF22D6C9-3063-4196-BEFB-79BD22904046
+=== page 11 ===
+Exhibit A (Scope of Services)1 
+  
+  
+Date: _____________ 
+  
+          
+1. Purpose; Scope  
+  
+By this service order (the “Order”), River North Transit, LLC (“Consultant”), a wholly owned 
+subsidiary of Via Transportation, Inc. (“Via”) and The City of Norman, Oklahoma (“City”) agree 
+to collaborate towards the initiation of City’s demand response transit service in Norman, 
+Oklahoma (as agreed upon by the parties during the planning and design stages of the Pilot) for 
+twelve months following launch thereof, subject to extension by mutual agreement of the 
+parties. 
+  
+In accordance with the Agreement, Consultant will provide City with technology and technology- 
+enabled integration services (the “Services”), acting as a broker coordinating the services of 
+third party service providers to effectuate the on-demand transit service (the “Pilot”). Consultant 
+will contract with third party service providers to effectuate such integration, including with fleet 
+managers, vehicle suppliers, driver partners, background check providers, customer service 
+support agencies, a payment processor and insurance brokers and underwriters. Consultant’s 
+Services will include: 
+  
+●      Localization of a proprietary cloud-based dynamic vehicle routing and real-time 
+passenger aggregation system; 
+●      Access to the Via mobile rider application (iOS and Android) for individuals using 
+the City’s service (“Riders”) to book and pay for rides through a smartphone; 
+●      Access to booking via a dedicated phone line for Riders who do not have access to 
+a smartphone; 
+●      Access to the Via mobile driver application for drivers to route and service rides 
+through a smartphone or tablet; 
+●      Establish relationship with vehicle rental company (“Vehicle Partner”) to provide 
+access to vehicles on a rental basis to independent contractor driver partners (“Driver 
+Partners”) who shall provide transportation services;  
+●      Accompanying technical and operational support service; 
+●      Marketing and outreach initiatives as described herein. 
+●      Data sharing and reporting as described herein. 
+  
+Conflicts between this Service Order and any other terms and conditions or written agreements 
+between the parties shall be resolved in favor of this Service Order. 
+ 
+1 A  cap ta zed terms used but not def ned here n sha  have the mean ng set forth n the Agreement for M crotrans t 
+Serv ces s gned by R ver North Trans t, LLC and the C ty (the “Terms”). 
+DocuSign Envelope ID: AF22D6C9-3063-4196-BEFB-79BD22904046
+=== page 12 ===
+2. Duration & Launch Date 
+  
+The duration of the Pilot shall last for a period of 12 months following the launch date (the 
+“Initial Term”), subject to extension by mutual agreement of the parties on terms to be agreed 
+(including any increase in monthly fees for additional months).   
+   
+The City will provide written notice to proceed to Consultant at least 8 weeks prior to service 
+launch.  For the avoidance of doubt, notice to proceed can only be written by City once the 
+contract and appendices (including the Order) are final and signed, and any necessary local and 
+regulatory approvals have been received or registrations completed. Upon receipt of such 
+written notice to proceed, Consultant will commence local preparation for launch (“Launch 
+Preparation Period”). Service operation will begin on a mutually agreeable date, no earlier than 
+August 21, 2023, unless Consultant and the City define an alternative mutually agreeable date 
+in writing (“Launch Date”). 
+  
+3. Fees 
+  
+The Fees for the service described in this Order are: 
+  
+The table below outlines the payment structure, in which City would be charged an upfront fee, 
+ongoing monthly fees based on vehicle hours. All regulatory fees related to the service will be 
+charged as a pass-through cost. The Pilot shall include a fleet of vehicles as described in Section 
+4, Service Parameters, subject to extension by mutual agreement of the parties on terms to be 
+agreed (including any change in fees). The total contract value shall not exceed $639,413 for the 
+initial contract term.  
+  
+DocuSign Envelope ID: AF22D6C9-3063-4196-BEFB-79BD22904046

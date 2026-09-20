@@ -1,0 +1,139 @@
+# source: https://legistar.granicus.com/huntsvilleal/attachments/9800841b-3948-44e2-9e23-ef2ab1007faf.pdf
+# path: raw/cache/bbbdb020c072a8b6124814a71fc2748079790ca2.pdf
+# hit page: 7 of 37
+# terms: RideCo
+
+=== page 6 ===
+2.03
+2.04
+2.05
+2.06
+2.07
+2.08
+RIDECO SUBSCRIPTION AND SERVICES AGREEMENT
+RideCo will inform end users that the transportation services are provided by
+Customer (or its partner drivers, as appropriate); not RideCo.
+RideCo Intellectual Property. All intellectual property created or developed by or on
+behalf of RideCo prior to or independently of this Agreement shall remain vested in
+RideCo, which background intellectual property of RideCo includes know-how,
+processes, methodologies and all proprietary information and materials of RideCo, the
+RideCo micro transit technology and all soflware code and algorithms used in the
+provision of services hereunder.
+Except as specifically set out in this Agreement or a
+SOW, no rights whatsoever are granted to Client in the patents, copyrights, trade secrets,
+trademarks or other intellectual property of RideCo whether created prior to, during or
+after the performance of this Agreement. For certainty, any improvements, modifications
+or customizations made to RideCo's background intellectual property, whether requested
+or suggested by Client, will belong exclusively to RideCo and to the extent Client acquires
+any right therein, Client will assign the same immediately to RideCo and waive any moral
+rights in connection with the same. Any deliverubles developed specifically for Client as
+right, title and interest and all intellectual property rights to any deliverables created by
+RideCo pursuant to this Agreement or any SOW hereunder and such deliverables shall
+not be considered "works made for hire".
+Operational Data. As
+between Customer and RideCo, Customer will own the
+oyalty-free right and license to access and use the Operational Data For thomance o05c
+Service Offerings; and (li) creating System Log Data (as defined in Section 2.05 below).
+Customer is not entitled to receive any compensation or re-imbursement of any kind from
+RideCo for use of said Operational Data. Except as otherwise expressly permitted in this
+Agreement, RideCo docs not claim any right, title or interest in the Operational Data
+customer represents and warrants that Customer has all necessary consents (if any)
+relating to the collection, retention, use, processing and disclosure of Operational Data
+Data Protection Undertaking. RideCo hereby agrees and undertakes to comply with the
+eggestions. RideCo shall have a royalty-free, worldwide, transferable, sub licensat
+evocable, perpetual, unrestricted license to use and/or incorporate into its produc
+Necdos no did by eus soner tining hate operation ests, Service dating or other
+RideCo Confidential
+Page 4 of 34
+=== page 7 ===
+RIDECO SUBSCRIPTION AND SERVICES AGREEMENT
+Customer no further licenses of any kind hereunder, whether by implication, estoppel or
+otherwise.
+Customer acknowledges that only RideCo shall have the right to maintain,
+enhance or otherwise modify the Service Offerings.
+Confidentiality:
+2.09
+(a)
+(b)
+(c)
+(d)
+Obligations.
+Neither party shall use any Confidential Information of the other party
+except as necessary to excreise its rights or perform its obligations under this Agreement
+or as expressly authorized in writing by the other party. Each party shall use the same
+degree of care to protect the other party's Confidential Information as it uses to protect its
+vn Confidential Information of like nature. Neither party shall disclose the other party
+onfidential Information to any person or entity other than its officers, employees, servic
+artners, consultants and legal advisors who need access to such Confidential Informatio
+1 order to effect the intent of the Agreement and who have entered into writte
+confidentiality agreements with it at least as restrictive as those in this Section. Upon any
+crmination of this Agreement, the recciving party will promptly return to the disclosing
+party or destroy, at the disclosing party's option, all of the disclosing party's Confidentia
+Information.
+munctive Relief. Each party acknowledges that due to the unique nature of the other
+party's Confidential Information, the disclosing party may not have an adequate remedy
+in money or damages if any unauthorized use or disclosure of its Confidential Information
+occurs or is threatened. In addition to any other remedies that may be available in law, in
+equity or otherwise, the disclosing party shall be entitled to seek injunctive relief 10
+prevent such unauthorized use or disclosure.
+Other Exemptions:
+Notwithstanding the foregoing provisions in this Section 2.09, the
+parties may disclose this Agreement: (i) as otherwise required by law or the rules of any
+stock exchange or over-the-counter trading system provided that reasonable measures are
+used to preserve the confidentiality of the Agreement: (ii) in confidence to legal counsel;
+(in in connection with the requirements of a public offering or securitics filing provided
+used to preserve the confidentiality of the Agreement; (v) in confidence, to auditors.
+accountants and their advisors; and (vi) in confidence, in connection with a change of
+control or potential change of control of a party or an affiliate of a party, provided that
+reasonable measures are used to preserve the
+raine meisure we use coon see tito Fide analy a competest, sure
+equirements. For greater certainty, nothing in this Section 2.08 will diminish a Receiving
+Party's obligations under this Agreement to comply with applicable privacy and persona
+RideCo Confidential
+Page 5 of 34
+=== page 8 ===
+(e)
+RIDECO SUBSCRIPTION AND SERVICES AGREEMENT
+information protection laws (including the obligations set out in the applicable Statement
+of Work).
+Statutory Disclosure Requirements. Any documents or work product that Customer
+receives from RideCo pursuant to this Agreement may be considered public records or
+records subject to access to information laws which govem Customer. Notwithstanding
+any other provision of this Agreement, RideCo acknowledges that Customer is a
+governmental entity and as such is subject certain law, including but not limited to the
+on behal fof Customer to comply with any applicable law.
+3. MAINTENANCE AND SUPPORT SERVICES
+Maintenance and support for the Software will be provided in accordance with
+the terms of Schedule "B".
+4. FEES AND PAYMENT
+4.01
+Fees: In consideration of the provision of the license and services under this Agreement
+to Customer, Customer agrees to pay RideCo the Fees in accordance with any applicable
+Statement of Work and/or Exhibit attached thereto.
+4.02
+5.
+5.01
+5.02
+Agrement, including without limitation excise, sales, use, property, license, value-added
+taxes, goods and services, harmonized, franchise, withholding or similar taxes, customs
+or other import duties or other taxes, tariffs or duties other than taxes that are imposed
+ised on the net income of RideCo. Any such taxes that are imposed on the net incon
+RideCo shall be the sole responsibility of RideCo. Notwithstanding the generality
+the foregoing, if Customer is a purely governmental organizations exempt from payment
+of any taxes, then Customer shall not be churged taxes under this Agreement.
+TERM AND TERMINATION
+Term: This Agreement commences on the Effective Date and shall run for an initial
+period specified in the applicable Statement of Work together with any agreed extensions,
+unless terminated sooner in accordance with the terms of this Section 5.
+Termination: Either party may terminate this Agreement with written notice if the other
+party: (i) fails to correct a material breach of its obligations under this Agreement within
+5.03
+or against the other party.
+rvival. The following Sections shall survive the te iatricions rats ad d
+Intellectual Property), 2.06 (System Log Data), 2.07 (Suggestions), 2.08 (Reservation of
+Lights), 2.09 (Confidentiality), 5.03 (Survival), 5.04 (Effect of Termination), 6.0
+Disclaimer of Warranties), 6.03 (Service Disclaimer and Liability Waiver), 6.0
+imitation of Liability), 7 (General Provisions) and all terms related to payment (unt
+ayments have been made in full) and any other terms herein which expressly state th
+RideCo Confidential
+Page 6 of 34

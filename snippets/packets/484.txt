@@ -1,0 +1,273 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/North Dakota/DM0220_Via_-_Final_Contract.pdf
+# pages_total: 55; hit_pages: [1, 18, 50]; included: [1, 18, 50]
+# context: Bleecker Drive folder: North Dakota
+
+=== page 1 of 55 ===
+TECHNOLOGY CONTRACT:  Paratransit and/or Fixed-Transit Scheduling and Dispatch Software 
+ 
+1. PARTIES 
+The parties to this contract (Master Contract) are the state of North Dakota, acting through its Office 
+of Management and Budget (STATE), and Via Mobility LLC, a Delaware limited liability company 
+having its principal place of business at 10 Crosby Street, Floor 2, New York, New York 10013 
+(CONTRACTOR). 
+2. COOPERATIVE PURCHASE  
+The contract resulting from this solicitation is a cooperative purchasing contract established 
+pursuant to North Dakota Century Code (N.D.C.C.) sections 54-44.4-13. This Master Contract is 
+made available to state entities, institutions under the jurisdiction of the State Board of Higher 
+Education, other government entities (including counties, cities, townships, public primary and 
+secondary educational entities, governmental boards and commissions), nonprofit entities 
+established on behalf of public entities, tribal agencies, transportation providers under N.D.C.C 
+chapter 39-04.2, and the International Peace Garden.  Participation by other governmental entities 
+is not mandated or guaranteed; therefore, the estimated volume of this contract is not known. 
+3. DEFINITIONS 
+a) Control Environment - is the set of standards, processes, and structures that provide the basis 
+for carrying out internal control across the organization. 
+b) Data - means any information provided to, or collected, generated, stored, or processed by the 
+system. Data includes user identification information and metadata which may contain Data or 
+from which the STATE’s Data may be ascertainable.  
+c) Data Breach - means any access, destruction, loss, theft, use, modification or disclosure of 
+Data by an unauthorized party or that is in violation of Contract terms and/or applicable state or 
+federal law. 
+d) Data Classification - means the process of defining data into relevant categories so the 
+information has the appropriate controls in place to protect confidentiality, integrity, and 
+availability based on the type of information. 
+e) Personally Identifiable Information (PII) - information about an individual maintained by an 
+agency, including that 1) can be used to distinguish or trace an individual’s identity, such as 
+name, social security number, date and place of birth, mother‘s maiden name, or biometric 
+records; or (2) is linked or linkable to an individual, such as medical, educational, financial, and 
+employment information. 
+f) PARTICIPATING ENTITY – means the eligible entity pursuant to Section 2 of this Master 
+Contract that may participate in this Master Contract by executing a separate Work Order 
+Request (WOR) specific to the work needed by PARTICIPATING ENTITY. 
+g) Recovery Point Objective (RPO) - means the point in time to which Data can be recovered 
+and/or systems restored when service is restored after an interruption. The Recovery Point 
+Objective is expressed as a length of time between the interruption and the most proximate 
+backup of Data immediately preceding the interruption. The RPO is detailed in the SLA. 
+h) Recovery Time Objective (RTO) - means the period of time within which information 
+technology services, systems, applications and functions must be recovered following an 
+unplanned interruption. The RTO is detailed in the SLA. 
+i) Software as a Service (SaaS). The capability provided to the consumer is to use the provider’s 
+applications running on a provider’s infrastructure. The applications are accessible from various 
+client devices through interfaces such as a web browser (e.g., web-based email), or a program 
+interface. The consumer does not manage or control the underlying infrastructure including 
+network, servers, operating systems, storage, or even individual application capabilities, with the 
+DocuSign Envelope ID: 6C4BAD1C-56BD-4CA0-AC37-27F31A878725
+
+=== page 18 of 55 ===
+45. RIGHT TO INSPECT PLACE OF BUSINESS 
+At reasonable times, STATE may inspect those areas of CONTRACTOR’S place of business that 
+relate to the performance of this Master Contract, including any executed WOR. If STATE makes 
+an inspection, CONTRACTOR must provide reasonable assistance. 
+46. COUNTERPARTS 
+This Master Contract may be executed in multiple, identical counterparts, each of which is be deemed 
+an original, and all of which taken together shall constitute one and the same Master Contract.  
+47. EFFECTIVENESS OF CONTRACT 
+This Master Contract is not effective until fully executed by both Parties. If no start date is specified 
+in the Term of Contract, the most recent date of the signatures of the Parties shall be the Effective 
+Date. 
+CONTRACTOR 
+STATE OF NORTH DAKOTA 
+Via Mobility LLC 
+Acting through its Office of Management and 
+Budget 
+BY: 
+BY:  
+Printed Name: Dillon Twombly 
+Printed Name: Sowmya Karumanchi 
+Title: Manager 
+Title: IT Procurement Officer 
+Date: 
+Date: 
+ 
+ 
+ 
+DocuSign Envelope ID: 6C4BAD1C-56BD-4CA0-AC37-27F31A878725
+8/16/2023
+08/29/2023
+
+=== page 50 of 55 ===
+Page 50 of 55 
+ 
+Exhibit C – Offeror’s BAFO Cost Proposal 
+VIA 
+Description (with possible sub-categories) of Product 
+or Service   
+(Provide cost information for each referenced area of the 
+RFP, if any. If no cost is associated, indicate such with a 0 
+in Column F. 
+Select One 
+  
+Vendor Name: Via Mobility, 
+LLC 
+Category A 
+One-Time Cost 
+Ongoing Cost 
+  
+Quantity 
+Unit of 
+Measure/Term 
+(time) 
+Price per Unit 
+ Extension  
+BASE Package 
+Initial Product & Software Licensing Costs (Enter one-
+time costs only. Recurring support & Maintenance 
+costs are to be entered in "Ongoing Costs" section 
+below) 
+  
+  
+  
+  
+  
+  
+  
+Base price per agency (if applicable) 
+One-Time Initial 
+Cost 
+  
+  
+  
+  
+ $                                       -    
+  
+Specify License (minimums per entity if applicable) - 
+Price per Vehicle/User/Trips  
+One-Time/On-going 
+Cost 
+  
+180 
+per Vehicle per 
+Month* 
+$500.00   $                        90,000.00  
+  
+Required Third Party software, applications, libraries or 
+drivers  
+One-Time Initial 
+Cost 
+  
+  
+  
+  
+ $                                       -    
+  
+Hosting Setup/Initialization (if applicable) 
+One-Time Initial 
+Cost 
+  
+  
+  
+  
+ $                                       -    
+TOTAL COST INITIAL PRODUCT & SOFTWARE LICENSING COSTS 
+ $                        90,000.00  
+Deliverables based upon the proposed Scope of Work 
+(The specific items below must be priced, please add 
+all deliverables pertaining to your specific solution.)  
+  
+  
+  
+  
+  
+  
+  
+Project Kick Off Meeting 
+One-Time Cost 
+  
+1 
+One-time fee 
+$0.00   $                                       -    
+  
+Planning 
+One-Time Cost 
+  
+1 
+One-time fee 
+$5,000.00   $                          5,000.00  
+  
+Application Configuration 
+One-Time Cost 
+  
+1 
+One-time fee 
+$2,500.00   $                          2,500.00  
+  
+Reports 
+One-Time Cost 
+  
+1 
+One-time fee 
+$0.00   $                                       -    
+  
+Data Conversion 
+One-Time Cost 
+  
+1 
+One-time fee 
+$0.00   $                                       -    
+  
+Data Migration (If applicable) 
+One-Time Cost 
+  
+1 
+One-time fee 
+$0.00   $                                       -    
+  
+Interfaces 
+One-Time Cost 
+  
+1 
+One-time fee 
+$0.00   $                                       -    
+  
+Installation 
+One-Time Cost 
+  
+1 
+One-time fee 
+$5,000.00   $                          5,000.00  
+  
+System Setup/Configuration 
+One-Time Cost 
+  
+1 
+One-time fee 
+$0.00   $                                       -    
+  
+Testing 
+One-Time Cost 
+  
+1 
+One-time fee 
+$2,500.00   $                          2,500.00  
+  
+Training 
+One-Time Cost 
+  
+1 
+One-time fee 
+$5,000.00   $                          5,000.00  
+  
+System Documentation 
+One-Time Cost 
+  
+1 
+One-time fee 
+$0.00   $                                       -    
+  
+Implementation  
+One-Time Cost 
+  
+1 
+One-time fee 
+$0.00   $                                       -    
+  
+Final Acceptance 
+One-Time Cost 
+  
+1 
+One-time fee 
+$0.00   $                                       -    
+TOTAL DELIVERABLES COSTS 
+ $                        20,000.00  
+DocuSign Envelope ID: 6C4BAD1C-56BD-4CA0-AC37-27F31A878725

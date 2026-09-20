@@ -1,0 +1,51 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Metro Micro (LA)/2018_0355_Presentation.pdf
+# pages_total: 17; hit_pages: [5]; included: [5]
+# context: Bleecker Drive folder: Metro Micro (LA)
+
+=== page 5 of 17 ===
+KEY DIFFERENCES
+5
+Mobility on Demand
+MicroTransit Pilot
+•
+Serving first and last mile rides 
+to/from Metro stations
+•
+1 year of operation with option 
+for one additional year 
+•
+3 zones focused around Metro 
+stations
+•
+Testing a business model using 
+independent contractors 
+•
+Mixed fleet of driver-owned 
+vehicles, inspected and approved 
+by Via
+•
+Lite TAP integration for pilot 
+period
+•
+Rides are requested using Via’s 
+app or Via’s call center
+•
+Serving all trip types
+•
+Up to three years of operations in 
+pilot phase
+•
+Number and types of zones to be 
+determined
+•
+Testing a business model using 
+Metro operators
+•
+Mixed fleet of vehicles to be 
+leased by private sector 
+•
+TAP Integration anticipated
+•
+Rides are requested using an app 
+and call center

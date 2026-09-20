@@ -1,0 +1,239 @@
+# source_url: https://rideuta.legistar1.com/rideuta/attachments/7082b6f7-e2a6-435f-99c8-a71933c1ef45.pdf
+# path: raw/cache/871800fa93efe67009d0da07483da0a218db3da2.pdf
+# pages_total: 13; hit_pages: [1, 2, 3, 4, 5, 6, 7, 9, 10, 11]; included: [1, 4, 9, 10, 11]
+# context: legistar client=rideuta; matter 20-03399-3 (2022-06-16): Change Order: Microtransit Master Service Agreement Service Order No. 3 - UTA On Demand Southern Davis County (River North Transit LLC “Via”)
+
+=== page 1 of 13 ===
+Service Order No. 3 UTA Contract No. 20-03399-3 
+(Confidential) ∙ Page 1 of 13 
+ 
+ 
+SERVICE ORDER NO. 3 UNDER THE  
+ON-DEMAND TECHNOLOGIES AND INNOVATIVE MOBILITY SERVICES  
+MASTER SERVICES AGREEMENT 
+UTA Contract No. 20-03399-3 
+ 
+ 
+SERVICE ORDER NO. 3  
+UTA ON DEMAND - SOUTHERN DAVIS COUNTY SERVICE AREA 
+DATE: JULY 13, 2022 
+ 
+ 
+1. Purpose 
+ 
+On September 1, 2021, each of River North Transit, LLC (“Via”) and the Utah Transit Authority 
+(“UTA” or “Customer”), hereinafter collectively referred to as the “Parties,” entered into an 
+agreement entitled On-Demand Technologies and Innovative Mobility Services (the “MSA”). By 
+this Service Order No. 3 (the “Service Order”) under the MSA, the parties agree to collaborate 
+towards the initiation of UTA’s demand response transit service (hereinafter the “Deployment”) 
+in Southern Davis County for a period of approximately seventeen (17) months, from August, 
+2022 through December, 2023, subject to extension by mutual agreement of the Parties. 
+ 
+Via will provide UTA with technology and technology-enabled integration services (the 
+“Services”), acting as a broker coordinating the services of third party service providers to 
+effectuate the Deployment. Via will contract with third party service providers to effectuate such 
+integration, including with fleet managers, vehicle suppliers, driver partners, background check 
+providers, customer service support agencies, a payment processor and insurance brokers and 
+underwriters. Via’s Services will include: 
+  
+● A Transportation as a Service (TaaS) solution as defined within the MSA; 
+● Localization of a proprietary cloud-based dynamic vehicle routing and real-time passenger 
+aggregation system;   
+● Access to the Via mobile rider application (iOS and Android) for individuals using UTA’s 
+service (“Riders”) to book and pay for rides through a smartphone; 
+● Access to booking via a dedicated phone line for Riders who do not have access to a 
+smartphone; 
+● Access to the Via mobile driver application for drivers to route and service rides through a 
+smartphone or tablet; 
+● Establish relationship with vehicle rental company (“Vehicle Partner”) to provide access 
+to vehicles on a rental basis to independent contractor driver partners (“Driver Partners”) 
+who shall provide transportation services;  
+● Accompanying technical and operational support service; 
+● Marketing and outreach initiatives as described herein. 
+● Data sharing and reporting as described herein. 
+ 
+Conflicts between this Service Order and any other terms and conditions or written agreements 
+between the Parties, including the MSA, shall be resolved in favor of this Service Order. 
+DocuSign Envelope ID: 826AE357-F515-43E8-9CE8-4FE893CD8E27
+DocuSign Envelope ID: A0FF694A-53D0-4ABA-B4BD-FDFD5120E455
+
+=== page 4 of 13 ===
+Service Order No. 3 UTA Contract No. 20-03399-3 
+(Confidential) ∙ Page 4 of 13 
+ 
+  
+Via will ensure that Driver Partners have appropriate licenses, permits, and insurance required for 
+the type of vehicles being operated as defined within the MSA.  As part of Driver Partner 
+registration for access to the Platform, all Driver Partners will be introduced to Via with the 
+following areas covered: familiarization with the Deployment service areas; hours of service; 
+UTA’s expectations; use of the Driver App; and reporting incidents and delays in service. 
+ 
+Throughout the Deployment, Via will review comments and ride reviews from customers 
+submitted through the UTA On Demand application to identify opportunities for service 
+improvements and address concerns over Driver Partner behavior and performance. 
+ 
+Via will be responsible for ensuring that there is adequate driver supply for each service zone 
+within designated hours to meet demand with optimal quality of service, given constraints. 
+ 
+7. Rider and Driver Partner Support 
+  
+Via will ensure the provision of customer service and support for Driver Partners and Riders on 
+issues that arise in connection with use of the Platform. In addition, Via will provide live translation 
+services to customer using their call center in order to communicate with those who have limited 
+English proficiency. Live support for Driver Partners and riders will be provided during service 
+days/hours. Driver Partners and riders may call or text into the service during service days/hours 
+and will receive prompt response to their inquiry. Riders may also email into the center 24/7 with 
+inquiries about the service and will typically receive a response to their inquiry within 24 hours.  
+  
+Following each ride, the Rider will be prompted to submit a ride rating with feedback in the app. 
+If an issue arises for a Rider or Driver Partner before, during, or after a ride, these parties will be 
+able to reach customer support staff by phone, or by submitting an email ticket, which will be 
+replied to promptly by such customer support staff.    
+ 
+8. Marketing, Promotions, & Press 
+  
+Via shall work closely with UTA to determine a unified marketing and promotional program that 
+increases community awareness of the service and maximizes its success.  
+  
+The Deployment, including the rider app, will be co-branded as “powered by Via”. The “powered 
+by Via” banner must be used only in the exact format provided by Via and will be prominent on 
+all assets promoting the Deployment, including (but not limited to) printed collateral, digital 
+materials, websites, and any vehicle wraps. The “powered by Via” banner will have equal 
+prominence on all marketing materials to any additional partner logos or trademarks. Via may 
+provide pre-approved brand assets and guidelines that must be complied with in all marketing 
+communications distributed by UTA. 
+  
+All UTA-developed content that pertains to Via’s brand, technology, and operations must be 
+reviewed and approved in writing (i.e. email) by Via before distribution. Via requests a minimum 
+review time of five (5) working days for all such requests. 
+ 
+9. Service Goals and Objectives 
+ 
+The Parties agree to collaborate towards the achievement of service goals and objectives. The 
+Parties further agree to reassess and renegotiate the service goals and objectives no later than three 
+DocuSign Envelope ID: 826AE357-F515-43E8-9CE8-4FE893CD8E27
+DocuSign Envelope ID: A0FF694A-53D0-4ABA-B4BD-FDFD5120E455
+
+=== page 9 of 13 ===
+Service Order No. 3 UTA Contract No. 20-03399-3 
+(Confidential) ∙ Page 9 of 13 
+ 
+Appendix B: 
+Deployment Parameters 
+ 
+The Parties agree to the following Deployment Parameters for the UTA On Demand Deployment 
+in Southern Davis County. Upon mutual agreement, the Parties may agree to subsequent 
+modifications of these Parameters during the term of this Agreement. 
+ 
+ Deployment Service Zone: Approximately 28.2 square miles coverage zone in Southern 
+Davis County, Utah. See Appendix A for a map of the service zone boundary. 
+ Service Days/Hours: The Deployment’s operating hours shall be Monday through Friday, 
+6:00am to 9:00pm. 
+ Vehicle Fleet: Via’s Vehicle Partner will offer a fleet of up to eight (8) branded, licensed, 
+and insured vehicles, including two (2) Americans with Disabilities Act (ADA)-compliant 
+Wheelchair Accessible Vehicles (WAV) to be made available to independent contractor 
+Driver Partners, who will be able to gain access to these vehicles after being registered 
+onto the Platform. Of the eight total vehicles, two (2) vehicles shall be treated by Via as 
+spares in the event that a regular service vehicle requires maintenance or replacement. Fleet 
+size and composition of WAVs and non-WAVs may be adjusted based upon mutual 
+agreement of the Parties.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DocuSign Envelope ID: 826AE357-F515-43E8-9CE8-4FE893CD8E27
+DocuSign Envelope ID: A0FF694A-53D0-4ABA-B4BD-FDFD5120E455
+
+=== page 10 of 13 ===
+Service Order No. 3 UTA Contract No. 20-03399-3 
+(Confidential) ∙ Page 10 of 13 
+ 
+Appendix C: 
+Service Fees 
+ 
+The table below outlines the payment structure, in which UTA would be charged a price per driver 
+hour and a fixed monthly price for Technology and IT Operations. Any new regulatory fees 
+imposed by a governmental entity related to the service will be charged as a pass-through cost 
+contingent on UTA advance agreement provided such agreement will not be unreasonably 
+withheld. UTA will have the option of decreasing other services or expenses in order to off-set 
+these additional fees. The Deployment shall include a fleet of vehicles as described in the Service 
+Order in Section 4, Service Parameters, subject to extension by mutual agreement of the parties on 
+terms to be agreed (including any change in fees). The total contract value shall not exceed that 
+listed in the Service Order’s Appendix C, “Not-to-Exceed Fees,” of $2,282,200 for the 17-month 
+duration of this Service Order (through December 31, 2023).  
+ 
+ 
+Via will separately invoice UTA for marketing expenses incurred and as authorized by UTA under 
+Section 8 of the Service Order. Via will charge its standard labor rate of $150.00 per hour for 
+internal marketing labor cost. All other marketing expenses will be passed through at cost. The 
+DocuSign Envelope ID: 826AE357-F515-43E8-9CE8-4FE893CD8E27
+DocuSign Envelope ID: A0FF694A-53D0-4ABA-B4BD-FDFD5120E455
+
+=== page 11 of 13 ===
+Service Order No. 3 UTA Contract No. 20-03399-3 
+(Confidential) ∙ Page 11 of 13 
+ 
+total combined marketing expenses incurred by Via and UTA shall not exceed $100,000. This 
+amount is not included in the pricing table shown above.  
+The values in the table above are Not-to-Exceed (NTE) amounts and are subject to downward 
+adjustment based on actual revenue hours achieved.  
+UTA will be billed for the above fees as described below. Driver hours will be billed as incurred 
+at the end of each month. UTA shall pay the following fees to Via:  
+ 
+Ongoing Invoice Fees  
+UTA shall pay the following fees to be invoiced monthly by Via on or around the 15th of each 
+month, starting upon launch of the Deployment. 
+ 
+$55.97 per driver hour in ongoing project costs, to include driver partner pay, vehicle rental 
+and wheelchair-accessible vehicle (WAV) costs, live customer support, and project 
+operations  
+ 
+$8,308 per month in technology access fees and dedicated IT operations costs  
+These fees are exclusive of fuel. UTA will continue to provide fuel though UTA’s fuel card 
+network at no additional cost to Via for the UTA On Demand vehicle fleet as defined within 
+Section 11 of this Service Order.  
+The above per vehicle hour amounts include and account for the Vehicle Partner’s fixed costs to 
+meet the vehicle requirements set forth herein.  Such cost equals to a rate of $6 per vehicle hour 
+and will be treated as a pass-through and remitted directly to the Vehicle Partner by Via (the “pass-
+through rate”). For the avoidance of doubt, fuel, maintenance, and other variable costs related to 
+vehicle upkeep are not included in the pass-through rate. The Vehicle Partner will be primarily 
+responsible for the provision of vehicles on a rental basis to Driver Partners. 
+Should changes in applicable federal, state, local law result in a significant change in Via’s costs, 
+either an increase or decrease, Via or UTA may opt to renegotiate the ongoing on-demand service 
+hour fees or level of service obtained.  
+Fare Revenue  
+UTA shall maintain its partner Braintree (or follow-on vendor) account throughout the 
+Deployment and shall collect and own all revenue from service fares (“farebox revenue”), net of 
+Braintree service fees, in the account.  
+ 
+ 
+ 
+DocuSign Envelope ID: 826AE357-F515-43E8-9CE8-4FE893CD8E27
+DocuSign Envelope ID: A0FF694A-53D0-4ABA-B4BD-FDFD5120E455

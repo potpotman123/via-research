@@ -1,0 +1,13 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Metropolitan Council/0113_2025_7-presentation.pdf
+# pages_total: 8; hit_pages: [7]; included: [7]
+# context: Bleecker Drive folder: Metropolitan Council
+
+=== page 7 of 8 ===
+Proposed Council Action
+That the Metropolitan Council authorize the Regional Administrator to 
+execute Contract Amendment Authorization (CAA) #2 for Contract 23M006 
+with Remix Technologies LLC for transit planning tools (Transit, Streets, and 
+On-demand Planning) for a term no longer than three months, in the 
+amount not to exceed $65,625.
+7

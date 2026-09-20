@@ -1,0 +1,434 @@
+# source: raw/bleecker_drive/Stark Area Regional Transit Authority/6-26-24.pdf
+# path: raw/bleecker_drive/Stark Area Regional Transit Authority/6-26-24.pdf
+# hit page: 65 of 140
+# terms: River North Transit
+
+=== page 64 ===
+5/31/2024 095893
+INTERSTATE GAS SUPPLY INC
+IGS001
+13,183.72
+$                          
+5/20/2024 095876
+IHEART MEDIA
+IHEA001
+10,925.00
+$                         
+5/9/2024 095860
+INTEGRATED SENSING SOLUTIONS  INC.
+INTE008
+48,266.22
+$                        
+5/31/2024 095894
+JACKSON TOWNSHIP TRUSTEES
+JACK008
+1,500.00
+$                           
+5/31/2024 095895
+LEGAL SHIELD
+LEGA003
+628.30
+$                             
+5/9/2024 095861
+Legacy Roofing Services
+LEGA005
+1,256.00
+$                           
+5/9/2024 095862
+LIBERTY FORD
+LIBE003
+430.73
+$                             
+5/20/2024 095877
+LIBERTY FORD
+LIBE003
+1,566.33
+$                           
+5/9/2024 095863
+MASSILLON MUNICIPAL COURT
+MASS006
+441.25
+$                              
+5/31/2024 095896
+MASSILLON MUNICIPAL COURT
+MASS006
+439.86
+$                             
+5/31/2024 095897
+MIDWEST POLY PACK
+MIDW001
+1,432.85
+$                           
+5/9/2024 095864
+NEW FLYER PARTS
+NEWF001
+73.94
+$                               
+5/20/2024 095878
+NEW FLYER PARTS
+NEWF001
+1,564.78
+$                           
+5/31/2024 095898
+NEW FLYER PARTS
+NEWF001
+372.21
+$                              
+5/8/2024 095854
+OHIO EDISON
+OHIO011
+508.74
+$                             
+5/20/2024 095879
+OHIO EDISON
+OHIO011
+783.15
+$                              
+5/31/2024 095899
+OHIO EDISON
+OHIO011
+588.20
+$                             
+5/20/2024 095880
+RICHARD PATERSON
+PATE001
+55.50
+$                               
+5/20/2024 095881
+PROGRESSIVE CHEVROLET
+PROG002
+379.10
+$                              
+5/31/2024 095900
+PROGRESSIVE CHEVROLET
+PROG002
+723.38
+$                             
+5/9/2024 095865
+RIVER NORTH TRANSIT LLC
+RIVE002
+36,140.00
+$                         
+5/31/2024 095901
+RIVER NORTH TRANSIT LLC
+RIVE002
+90,000.00
+$                        
+5/31/2024 095906
+STANLEY MILLER CONSTRUCT
+STAN002
+113,425.16
+$                        
+5/31/2024 095902
+STANDARD INS CO
+STAN005
+1,589.08
+$                           
+5/8/2024 095855
+STARK COUNTY SANITARY ENGINEERING
+STAR034
+326.70
+$                             
+5/20/2024 095882
+STATE OF OHIO UST FUND
+STAT004
+1,050.00
+$                           
+5/20/2024 095883
+VENDRICK CONSTRUCTION INC
+VEND002
+99,716.98
+$                         
+5/31/2024 095903
+VERIZON WIRELESS
+VERI001
+2,598.19
+$                           
+*END OF REPORT*
+63
+=== page 65 ===
+Document Date
+Document Number
+Vendor Name
+Vendor ID
+Document Amount
+5/8/2024 095856
+ALLIANCE WATER UTILITY
+ALLI004
+219.83
+$                              
+5/8/2024 095852
+ESTHER BEIGHT
+BEIG001
+100.00
+$                              
+5/8/2024 095853
+DOMINION EAST OHIO
+DOMI001
+142.74
+$                              
+5/8/2024 095854
+OHIO EDISON
+OHIO011
+508.74
+$                             
+5/8/2024 095855
+STARK COUNTY SANITARY ENGINEERING
+STAR034
+326.70
+$                             
+5/9/2024 095857
+BIG TIME SPORTS
+BIGT002
+450.00
+$                             
+5/9/2024 095858
+FED EX
+FEDE001
+43.73
+$                               
+5/9/2024 095859
+FIFTH THIRD BANK
+FIFT003
+52,090.90
+$                        
+5/9/2024 095860
+INTEGRATED SENSING SOLUTIONS  INC.
+INTE008
+48,266.22
+$                        
+5/9/2024 095861
+Legacy Roofing Services
+LEGA005
+1,256.00
+$                           
+5/9/2024 095862
+LIBERTY FORD
+LIBE003
+430.73
+$                             
+5/9/2024 095863
+MASSILLON MUNICIPAL COURT
+MASS006
+441.25
+$                              
+5/9/2024 095864
+NEW FLYER PARTS
+NEWF001
+73.94
+$                               
+5/9/2024 095865
+RIVER NORTH TRANSIT LLC
+RIVE002
+36,140.00
+$                         
+5/20/2024 095866
+AEP OHIO
+AEPO001
+32,479.86
+$                        
+5/20/2024 095867
+AMAZON
+AMAZ001
+1,701.52
+$                            
+5/20/2024 095868
+AQUA OHIO INC
+AQUA001
+27.95
+$                               
+5/20/2024 095869
+MARK BIGSBEE
+BIGS001
+25.00
+$                               
+5/20/2024 095870
+CANTON CITY UTILITIES
+CANT011
+1,934.51
+$                           
+5/20/2024 095871
+CASH
+CASH001
+153.03
+$                              
+5/20/2024 095872
+CFIS GROUP
+CFIS001
+911.26
+$                              
+5/20/2024 095873
+DOMINION EAST OHIO
+DOMI001
+13,991.31
+$                          
+5/20/2024 095874
+FED EX
+FEDE001
+209.57
+$                             
+5/20/2024 095875
+FLOWPATH LLC
+FLOW005
+49,507.50
+$                        
+5/20/2024 095876
+IHEART MEDIA
+IHEA001
+10,925.00
+$                         
+5/20/2024 095877
+LIBERTY FORD
+LIBE003
+1,566.33
+$                           
+5/20/2024 095878
+NEW FLYER PARTS
+NEWF001
+1,564.78
+$                           
+                MAY CHECKS-DATE ORDER
+64
+=== page 66 ===
+5/20/2024 095879
+OHIO EDISON
+OHIO011
+783.15
+$                              
+5/20/2024 095880
+RICHARD PATERSON
+PATE001
+55.50
+$                               
+5/20/2024 095881
+PROGRESSIVE CHEVROLET
+PROG002
+379.10
+$                              
+5/20/2024 095882
+STATE OF OHIO UST FUND
+STAT004
+1,050.00
+$                           
+5/20/2024 095883
+VENDRICK CONSTRUCTION INC
+VEND002
+99,716.98
+$                         
+5/31/2024 095884
+AEP OHIO
+AEPO001
+2,054.13
+$                           
+5/31/2024 095904
+AMAZON
+AMAZ001
+2,239.08
+$                          
+5/31/2024 095885
+AT&T 5011
+ATT5011
+2,126.32
+$                           
+5/31/2024 095886
+BAKER MEDIA GROUP LLC
+BAKE002
+860.00
+$                             
+5/31/2024 095905
+ESTHER BEIGHT
+BEIG001
+100.00
+$                              
+5/31/2024 095887
+MARK BIGSBEE
+BIGS001
+500.00
+$                             
+5/31/2024 095888
+CBS CORP
+CBSC002
+166.00
+$                              
+5/31/2024 095889
+CFIS GROUP
+CFIS001
+877.69
+$                             
+5/31/2024 095890
+CHAMBER OF COMMERCE
+CHAM001
+16,500.00
+$                         
+5/31/2024 095891
+COLUMBIA GAS OF OHIO
+COLU001
+49.18
+$                                
+5/31/2024 095892
+IBI GROUP
+IBIG001
+2,250.00
+$                          
+5/31/2024 095893
+INTERSTATE GAS SUPPLY INC
+IGS001
+13,183.72
+$                          
+5/31/2024 095894
+JACKSON TOWNSHIP TRUSTEES
+JACK008
+1,500.00
+$                           
+5/31/2024 095895
+LEGAL SHIELD
+LEGA003
+628.30
+$                             
+5/31/2024 095896
+MASSILLON MUNICIPAL COURT
+MASS006
+439.86
+$                             
+5/31/2024 095897
+MIDWEST POLY PACK
+MIDW001
+1,432.85
+$                           
+5/31/2024 095898
+NEW FLYER PARTS
+NEWF001
+372.21
+$                              
+5/31/2024 095899
+OHIO EDISON
+OHIO011
+588.20
+$                             
+5/31/2024 095900
+PROGRESSIVE CHEVROLET
+PROG002
+723.38
+$                             
+5/31/2024 095901
+RIVER NORTH TRANSIT LLC
+RIVE002
+90,000.00
+$                        
+5/31/2024 095906
+STANLEY MILLER CONSTRUCT
+STAN002
+113,425.16
+$                        
+5/31/2024 095902
+STANDARD INS CO
+STAN005
+1,589.08
+$                           
+5/31/2024 095903
+VERIZON WIRELESS
+VERI001
+2,598.19
+$                           
+*END OF REPORT*
+65

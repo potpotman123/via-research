@@ -1,0 +1,169 @@
+# source: raw/bleecker_drive/Broward/MA_Report.pdf
+# path: raw/bleecker_drive/Broward/MA_Report.pdf
+# hit page: 1077 of 6451
+# terms: Via+not to exceed, Via+not-to-exceed
+
+=== page 1076 ===
+Current Procurement Contracts Sorted by Contract ID # As of 11/24/25
+Page 1076 of 6451
+Departmental Usage
+# of PO's
+Amount Ordered
+Amount Paid
+AVIATION - MAINTENANCE 
+45
+$13,841,301.1200
+$11,827,925.5300
+Department Totals
+45
+$13,841,301.1200
+$11,827,925.5300
+Renewals
+Line #
+Starts
+Expires
+1 
+1/31/20 
+11/28/22
+2 
+11/29/22 
+11/28/23
+3 
+11/29/23 
+11/28/24
+4 
+11/29/24 
+11/28/25
+5 
+11/29/25 
+11/28/26
+6 
+11/29/26 
+11/28/27
+7 
+11/29/27 
+11/28/28
+8 
+11/29/28 
+11/28/29
+=== page 1077 ===
+Current Procurement Contracts Sorted by Contract ID # As of 11/24/25
+Page 1077 of 6451
+Lead Agency Contact (Contact Unit Mgr if Incorrect)
+EBAIG@broward.org
+Contract ID #
+Document Description
+Start Date
+End Date
+Not To Exceed
+Amount Ordered
+BLD2115682G1_1
+MRO SUPPLIES
+2/27/2018
+12/31/2025
+$2,141,424.00
+$0.00
+Vend#-AddrID-ContactID
+Legal Name
+Vendor Contact Email
+Vendor Phone #
+VC00019468
+THE HOME DEPOT PRO
+steven_waldorf@homedepot.com
+ 954/701-3654 
+Item #
+Category
+Description
+Total Line Qty
+Released
+UO
+M
+Maximum Line 
+Amount
+Unit Price
+Total Line Released 
+Amount
+Amount Paid
+BLD2115682G1_1_00
+1 
+4504150
+MRO SUPPLIES
+0.0000
+LPS
+$300,000.0000
+$1.0000
+$82,374.7600
+$0.0000
+ 
+ALL OTHER 
+AGENCIES USE 
+(EXCEPT FOR PARKS
+AND RECREATION 
+DIVISION) - 
+PROCUREMENTS TO 
+BE MADE VIA THE P-
+CARD - US 
+COMMUNITIES 
+CONTRACT WITH 
+HOME DEPOT 16154-
+RFP
+0.0000
+0
+$300,000.0000
+$0.0000
+$248,973.7300
+$0.0000
+ 
+PARKS AND 
+RECREATION 
+DIVISION USE ONLY 
+- PROCUREMENTS 
+TO BE MADE VIA 
+THE P-CARD - US 
+COMMUNITIES 
+CONTRACT WITH 
+HOME DEPOT 16154-
+RFP
+0.0000
+0
+$1,841,424.0000
+$0.0000
+$1,413,906.1800
+$0.0000
+Vendor Total
+$2,441,424.0000
+$1,745,254.6700
+$0.0000
+=== page 1078 ===
+Current Procurement Contracts Sorted by Contract ID # As of 11/24/25
+Page 1078 of 6451
+Departmental Usage
+# of PO's
+Amount Ordered
+Amount Paid
+Department Totals
+0
+$0.0000
+$0.0000
+Renewals
+Line #
+Starts
+Expires
+1 
+2/27/18 
+12/31/21
+2 
+1/1/22 
+12/31/22
+3 
+1/1/23 
+12/31/23
+4 
+1/1/24 
+12/31/24
+5 
+1/1/25 
+12/31/25
+6 
+1/1/26 
+12/31/26

@@ -1,0 +1,111 @@
+# source_url: https://legistar.granicus.com/Sunnyvale/attachments/a9e16984-7aba-4342-b396-6ca1ac689e3e.pdf
+# path: raw/cache/5295a42b27f7a643bbfccb09e46bd83fd07632c8.pdf
+# pages_total: 35; hit_pages: [13, 14]; included: [13, 14]
+# context: legistar client=sunnyvaleca; matter 26-0001 (2025-08-15): Authorize the Issuance of the Service Order for the Sunnyvale Microtransit Service with Via Transportation, Inc. Doing Business as Nomad Transit LLC for the Sunnyvale Microtransit Service for $8,358,000, Authorize City Manager to Execute all Agreements Related to the Operations of the Sunnyvale Micr
+
+=== page 13 of 35 ===
+Attachment 3 
+Page 13 of 35 
+ 
+ 
+ 
+software back end of the Program shall identify clusters of trip requests and 
+provide a hybrid-style service combining features of traditional fixed service and 
+door-to-door on-demand response service. While the Program will generally 
+operate without a schedule in order to adapt to trip requests, it shall prioritize 
+trips to various transit hubs that includes Sunnyvale and Lawrence Caltrain 
+Stations, VTA Rapid Lines 522 and 523 stops, VTA Light Rail Orange Line 
+stops (which also provide a connection to riders on Bay Area Rapid Transit 
+(BART), and Altamont Corridor Express (ACE), during the morning (7 a.m. to 
+10 a.m.) and afternoon (4 p.m. to 7 p.m.) commute hours. In addition, the 
+Program shall also prioritize trips to and from Fremont and Homestead High 
+Schools. 
+ 
+c. Hours of Operation 
+The City estimates the Program will operate Monday through Friday from 7:00 
+a.m. to 9:00 p.m. and on Saturday, Sunday and Holidays listed below from 9:00 
+a.m. to 5:00 p.m. 
+ 
+Holidays 
+i. 
+New Year’s Day 
+ii. 
+Memorial Day 
+iii. Independence Day 
+iv. Labor Day 
+v. Thanksgiving Day 
+vi. Christmas Day 
+ 
+The proposed service hours are provided as a baseline assumption for 
+planning. They are subject to change based on data collected during the 
+planning phase, the initial launch period, and/or input from [VENDOR]; 
+however, The City will make the final determination as to the hours during which 
+services are provided. [VENDOR] may suggest alternate service levels to meet 
+anticipated and/or observed demand during peak and non-peak periods with 
+supporting data. 
+ 
+d. Vehicles/Fleet 
+[VENDOR] shall provide a minimum of nine (9) dedicated electric, branded, 
+licensed, and insured vehicles, including three (3) Wheelchair Accessible 
+Vehicles (WAV) for the Program, that can accommodate at least five (5) 
+passengers per vehicle to be made available to Driver Partners. The non-WAV 
+vehicles must be equipped with bicycle racks, and WAV vehicles must be 
+accessible to wheelchair and mobility devices to comply with existing State and 
+Federal access laws. Each vehicle must be equipped with a working 
+communications system linking the vehicle with its operating facility. The 
+communications system must be operable in all locations in the Service Area. 
+[VENDOR] will have at its disposal, and document for The City, a sufficient 
+number of spare vehicles available via ownership, lease or other arrangement 
+to meet service requirements. [VENDOR] shall have the capability to
+
+=== page 14 of 35 ===
+Attachment 3 
+Page 14 of 35 
+ 
+ 
+ 
+provide additional vehicles should the need arise. All vehicles used must first 
+be approved and accepted by The City before placed in service. 
+ 
+[VENDOR] shall ensure the fleet receives routine maintenance at scheduled 
+intervals. This will be completed as part of the contracted amount and no 
+additional fees will be incurred. Maintenance shall include, at a minimum: 
+interior and exterior vehicle cleaning, mechanical maintenance, tire pressure, 
+engine oil, bicycle racks, and other safety systems. [VENDOR] shall develop a 
+maintenance plan describing how and where vehicles will be maintained and 
+any maintenance system or procedures that will be utilized. [VENDOR] shall 
+ensure fleet vehicles are maintained in good working order to prevent vehicle 
+downtime due to unplanned repairs. Routine maintenance shall also ensure 
+wheelchair accessible vehicles (WAV) equipment is kept in good working order. 
+ 
+[VENDOR] shall identify an appropriate location (depot or parking lot) to store 
+the Program service fleet. The depot/lot must be in a safe and lighted area 
+inside or near the boundary of the Service Area. Should The City make 
+available a location for overnight vehicle parking and storage, [VENDOR] shall 
+reduce the Program’s Parking Costs to remove the cost of the vehicle storage 
+fee. 
+ 
+e. Fares 
+The rider fare shall be $3.50 for the general population, and $1.75 for disabled, 
+low-income, youth, and senior riders. Fare for additional riders shall be $1.00 
+each per ride. During the duration of the Program, rider fare may be amended 
+by mutual agreement between The City and [VENDOR]. Any changes to the 
+rider fare shall be made in response to service data, and with the intention of 
+making the service as efficient and cost-effective as possible while retaining 
+service accessibility. 
+ 
+[VENDOR] should have a mechanism in place to discourage “no-show” 
+bookings to maintain a high quality of service to passengers. [VENDOR] shall 
+ensure acceptance of rider payment through the mobile application via credit 
+cards and pre-paid debit cards. 
+ 
+[VENDOR] and its employees or Driver Partners are prohibited from soliciting 
+or accepting any gratuities or gifts of any kind while operating a vehicle for this 
+Program. 
+ 
+f. Phone Booking Option 
+[VENDOR] shall provide, as a feature of the Program, a phone number and 
+dedicated dispatchers to book and coordinate rides for users without a 
+smartphone. The technology must be configured to allow a dispatcher to book 
+rides on behalf of riders, allowing users of all technological abilities and access 
+levels to enjoy the same level of service as those with a smartphone (except

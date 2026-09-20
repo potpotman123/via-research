@@ -1,0 +1,140 @@
+# source: raw/bleecker_drive/Hall County/Micro-Transit-Feasibility-Study.pdf
+# path: raw/bleecker_drive/Hall County/Micro-Transit-Feasibility-Study.pdf
+# hit page: 4 of 24
+# terms: Via Mobility, Via+fleet
+
+=== page 3 ===
+RFP #39-021 – Microtransit Feasibility Study  
+Via Mobility, LLC 
+ 
+ 
+ 
+Page 1 
+ 
+ 
+Executive Summary 
+Hall County seeks to understand how shared, on-demand transit (‘microtransit’) can play a 
+role in its future transportation offerings. Due the the expected reclassification of Gainesville 
+as a ‘large urbanized area’ after the 2020 census, Hall County anticipates a reduction in 
+federal funding for public transit in the region. To ensure Hall County can continue to provide 
+convenient and comprehensive access to transit for its residents and visitors, the County 
+engaged Via to analyze existing demand data, develop models from simulation of 
+microtransit services, and determine fleet requirements for a shared, on-demand 
+transportation network that is both compelling for customers and operationally efficient. 
+This report identifies challenges and inefficiencies in the existing fixed-route bus and dial-a-
+ride networks, explores opportunities for strategic deployment of microtransit technologies, 
+and recommends next steps for Hall County. 
+ 
+To understand how microtransit could be most effective in Hall County, Via considered the 
+following data as initial inputs: 
+• Historic Dial-A-Ride and Gainesville Connection ridership data to understand base 
+demand and travel patterns; 
+• Quality of service assumptions grounded in customer expectations in Via’s other 
+markets; 
+• OpenStreetMaps data including road layout, traffic speeds, and turn restrictions. 
+ 
+These data were analyzed and converted into inputs for Via’s proprietary simulations and 
+analytics tools. Via simulated permutations of several scenarios, considering that 
+microtransit could replace and upgrade the Dial-A-Ride service, the Gainesville Connection, 
+or both. In addition to simulating base demand, Via also modeled high-demand scenarios, 
+given that a high-quality microtransit service will effectively compete with taxis and private 
+vehicles, resulting in a significant increase in ridership.  
+ 
+From these analyses, we recommend retaining Hall County’s three highest performing bus 
+routes, and using microtransit to replace all other routes, along with the Dial-A-Ride service.  
+● Recommended microtransit fleet: 8-10 vehicles 
+● Recommended fixed-route fleet: 3 vehicles (one vehicle per route) 
+● Estimated ridership: 20% - 50% increase in ridership
+=== page 4 ===
+RFP #39-021 – Microtransit Feasibility Study  
+Via Mobility, LLC 
+ 
+ 
+ 
+Page 2 
+ 
+ 
+Via recommends providing a fully 
+on-demand microtransit service 
+for trips within a core 34 sq. mi 
+zone (approximately 90% of all 
+trips). For riders in this zone, a 
+microtransit service will reduce 
+wait times and journey durations, 
+with the majority of riders 
+waiting less than 15 minutes from 
+the time they request a vehicle. 
+For passengers travelling to or 
+from the outer county, riders 
+should pre-schedule their trip in 
+order 
+to 
+maximize 
+fleet 
+utilization by more efficiently 
+aggregating 
+riders 
+on 
+these 
+longer trips. All microtransit 
+users will benefit from real-time 
+vehicle 
+tracking, 
+automated 
+payments, and more direct trips 
+to their destinations.  
+ 
+For many Hall County residents, microtransit will dramatically improve their quality of life, 
+increasing access to healthcare providers, educational institutions, and other community 
+centers. 
+ 
+It is our pleasure to be Hall County’s partner in this initiative. We look forward to hearing 
+questions and feedback, and to adjusting the modeling based on revised inputs or clarified 
+service goals.
+=== page 5 ===
+RFP #39-021 – Microtransit Feasibility Study  
+Via Mobility, LLC 
+ 
+ 
+ 
+Page 3 
+ 
+ 
+Via Overview 
+Via develops and operates the most powerful on-demand transport systems in the world. 
+Our technology enables customers to share rides by dynamically routing vehicles in real-
+time in response to demand. Using advanced algorithms developed by elite researchers and 
+engineers, Via optimizes the balance between maximizing fleet utilization and ensuring that 
+each rider has a high-quality experience. 
+Firm History 
+Via was co-founded in 2012 by Daniel Ramot and Oren Shoval in New York City, with a simple, 
+yet highly ambitious mission -- to deliver the world’s most convenient and affordable shared 
+rides to everyone, everywhere. Ramot (Via’s CEO) has a Ph.D. from Stanford in neuroscience, 
+and Shoval (Via’s CTO) has a Ph.D. in systems biology from the Weizmann Institute. Prior to 
+Via, Ramot built supercomputers designed to discover new pharmaceutical drugs and 
+developed avionic systems for F-15s and F-16s for the Israeli Air Force. Shoval led engineering 
+projects for the Air Force and worked as consultant at McKinsey & Company. 
+  
+Via delivered its first rides in 2013 in Manhattan, starting with just a handful of drivers. 
+Identifying a gap in the transit network between the Upper East Side and Midtown 
+Manhattan, Via launched as a shared, dynamic service that enabled commuters to reach work 
+conveniently, and at a transit-comparable price. Via was the first transportation network 
+company to offer shared, dynamic rides, and is still the most efficient and most advanced 
+shared ride platform in the world -- we provide more shared rides in New York City, for 
+example, than Uber and Lyft combined. 
+Current Operations  
+Today, in 2019, Via powers microtransit services with over 30 partners, helping cities, transit 
+agencies, and private operators seeking to improve their existing transit networks. When we 
+partner with transit providers, we localize our on-demand transit operating system to meet 
+the mobility needs of the communities we serve. Often, partners will plug our on-demand 
+transit software into an existing fleet of vehicles, driven by agency-employed or agency-
+contracted drivers, and rely on Via to provide, maintain, and support the software that 
+powers the system (a Software as a Service, or SaaS, solution). Via also operates  consumer-
+facing services at scale in New York City, Chicago, Washington DC, London, Milton Keynes, 
+and Amsterdam and operates services on behalf of public sector partners in Arlington, Texas, 
+West Sacramento, California, and Berlin, Germany. Across our services, Via has delivered 
+nearly 50 million rides to date. To support our growth and global operations, Via has a 
+software team of 200 full-time professionals with deep experience in advanced algorithms, 
+data science, digital mapping, database architecture, product management, and app 
+development, and 250 full-time employees focused on operations, growth, member services, 
+expansion, business development, and partner success.

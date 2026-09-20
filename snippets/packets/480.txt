@@ -1,0 +1,68 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Washington DC/CW117882-Base Period-D&Fs-DF_for Sole Source_Remix_Software_final.pdf
+# pages_total: 4; hit_pages: [1, 2]; included: [1, 2]
+# context: Bleecker Drive folder: Washington DC
+
+=== page 1 of 4 ===
+DETERMINATION AND FINDINGS 
+FOR A 
+SOLE SOURCE PROCUREMENT 
+PROGRAM AGENCY: 
+District Department of Transportation 
+CONTRACT NO: 
+TBD 
+PROPOSED CONTRACTOR: 
+VIA Transportation, Inc. dba Remix Technologies 
+CAPTION: 
+Cloud-Based Software for Street Design Concepts 
+FINDINGS 
+1. 
+AUTHORIZATION: 
+D.C. Official Code § 2-354.04, 27 DCMR 1304, 1205.1, 1700 and 1701 
+2. 
+MINIMUM NEED: 
+The Government of the District of Columbia, Department of Transportation ("District" or 
+“DDOT”) has an immediate need for a cloud-based multimodal street design software for 
+use by engineering and non-technical professionals, that combines bus route priority, 
+cycling infrastructure, pedestrian initiatives, geospatial analysis, and stakeholder 
+engagement, to design safer streets and to manage shared mobility to support the 
+District’s Vision Zero initiative to end traffic fatalities by 2025. The software must create 
+corridor-level street designs that integrate planning-level cross sections to aid the design 
+of safer streets. 
+3. 
+ESTIMATED REASONABLE PRICE: 
+The estimated fair and reasonable price is $109,500.00 per year. 
+4. 
+FACTS WHICH JUSTIFY SOLE SOURCE PROCUREMENT: 
+A. In 2015, the Vision Zero Pedestrian and Bicycle Safety Fund (“Vision Zero”) (DC
+Code § 50–921.20) was established in response to the US Department of
+Transportation’s Mayor’s Challenge for Safer People and Safer Streets. Vision Zero
+aims to create safe streets, protect vulnerable users, and prevent dangerous driving
+through more effective use of data, education, enforcement, and engineering, in order
+to reach zero fatalities and serious injuries to travelers of our transportation system by
+2025.
+
+=== page 2 of 4 ===
+Determination and Findings for a Sole Source Procurement 
+Cloud-Based Software Platform for Street Design Concepts 
+Page 2 of 4 
+B. VIA Transportation, Inc (Remix) is the only provider of a cloud-based multimodal
+street design software that provides planning, design, geospatial analysis,
+infrastructure, multimodal analysis, before/after studies, and equity analysis under one
+software license. Additionally, this software allows non-technical staff to use
+functions and to collaborate with technical staff and other stakeholders on designs
+without specialized training.
+C. A market survey for other software licenses was conducted and none had the ability to
+create planning-level cross sections for customized segments of a plan-view roadway
+and produce a corridor-level street design that integrates them.  Further, other
+software licenses that exist required technical knowledge and training in engineering.
+Examples of software that have some functions, but lack all the capabilities are
+Streetmix and AutoCAD.  Streetmix only allows for the creation of cross-sections
+which greatly limits production of fully integrated plans and AutoCAD can only be
+used by trained individuals with some engineering backgrounds.
+D. Remix is the only software that is cloud-based; for use by engineers and non-technical
+professionals; and combines bus route priority, cycling infrastructure, pedestrian
+initiatives, geospatial analysis, and stakeholder engagement, which DDOT needs to
+make data-driven decisions, perform multimodal analysis, before/after studies, and
+equity analyses, to move early-stage infrastructure projects forward, faster under one
+system, and to design safer streets to further the District’s Vision Zero goals.

@@ -1,0 +1,29 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Doral/20_3828_Denton_County_Sole_Source.pdf
+# pages_total: 5; hit_pages: [2]; included: [2]
+# context: Bleecker Drive folder: Doral
+
+=== page 2 of 5 ===
+Sole Source Justification and Approval (J&A) Form (Continued)
+6. Explain why the product or service requested is the only one that can satisfy your
+requirements, as well as why alternatives are unacceptable. Be specific with regard
+to specifications. Attach additional pages if necessary.
+Remix is the only company that can provide a product (Transitmix) that meets DCTA's
+needs: Transitmix is the only product designed to:
+• help transit agencies sketch transit scenarios
+• estimate costs in real-time
+• upload routes via GTFS data format
+• overlay geospatial data
+• allow for rapid evaluation and comparison
+• be delivered according to a Software as a Service (SaaS) model: users receive access
+to an easy-to-use online platform without the worry of maintenance, hosting, or software
+updates. Remix Software, Inc. maintains the technology infrastructure and enhances
+Transitmix over time.
+• whereas transit planning often requires a time-intensive, multi-step process with many
+disparate tools, the technology in Transitmix enables planners to understand the impact
+of multiple planning options immediately all in a visual, easy to use interface -- saving
+valuable time and money for the
+DCTA.
+Currently DCTA uses Microsoft Excel spreadsheets for developing and analyzing route
+schedules and ArcGIS to create and modify routes, and conduct demographic analysis.
+The current process is time consuming and prone to errors.

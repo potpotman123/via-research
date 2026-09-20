@@ -1,0 +1,36 @@
+# source: raw/bleecker_drive/Metropolitan Council/Equity-Advisory-Committee_Microtransit_7-19-22.pdf
+# path: raw/bleecker_drive/Metropolitan Council/Equity-Advisory-Committee_Microtransit_7-19-22.pdf
+# hit page: 7 of 12
+# terms: Via Mobility, Via+SaaS
+
+=== page 6 ===
+Service Design and Operations Details
+• One year pilot, launch Fall 2022
+• Curb to curb service design 
+• ~2.5 square miles 
+• Service hours to cover all or most of high frequency fixed route in the 
+service area (5am-12am) 
+• Max 5 vehicles in service/2 spares
+• Fares: Same as bus fare, normal transfer rules 
+• TAP eligible and student discounts accepted
+6
+=== page 7 ===
+Contracting Updates
+• Software as a service 
+(SAAS) Contract 
+– Microtransit software 
+provider will be Via Mobility
+• Operations Contract 
+– Transit Team
+7
+=== page 8 ===
+Metro Transit role v. MTS 
+• Metro Transit is 
+responsible for marketing, 
+promotion, service design, 
+and software procurement
+• MTS is responsible for 
+contracted operations, 
+running the system, and 
+service design
+8

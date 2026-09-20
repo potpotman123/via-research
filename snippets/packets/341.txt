@@ -1,0 +1,423 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Ben Franklin Transit/Board-Packet-2025-07-17-REVISED-1.pdf
+# pages_total: 253; hit_pages: [8, 61, 142, 143, 145, 183]; included: [8, 61, 142, 143, 145]
+# context: Bleecker Drive folder: Ben Franklin Transit
+
+=== page 8 of 253 ===
+1000 Columbia Park Trail, Richland, WA 99352
+509.735.4131 | 509.735.1800 fax | www.bft.org
+Thursday, July 10, 2025
+To:       Ben Franklin Board of Directors
+From:   Julie Thompson, Director of Finance and Accounting
+RE:      Vouchers for June 2025
+June 2025 vouchers totaled $5,616,018.93.  An analysis of the vouchers had the following
+significant vendor payment amounts:
+Vendor
+Description
+Amount
+INTERNAL REVENUE SERVICE
+PAYROLL TAX SERVICES
+544,438.18
+$                        
+N.W. ADMIN. TRANSFER
+MEDICAL INS PAYABLE
+480,721.30
+$                        
+RIVER NORTH TRANSIT LLC
+CONTRACTED SERVICES
+458,656.83
+$                        
+DEPT OF RETIREMENT SYSTEMS
+PERS PAYABLE
+449,608.84
+$                        
+ARC OF THE TRI-CITIES INC
+CONTRACTED SERVICES
+278,600.86
+$                        
+CUMMINS INC
+PARTS, EQUIP., BUS A/C
+212,473.28
+$                        
+COLEMAN OIL COMPANY LLC
+FUEL
+173,268.98
+$                        
+STATE OF WASHINGTON
+MED INS PAYABLE
+123,139.11
+$                        
+WESTERN CONFERENCE OF
+TMSTR PENSION
+121,878.91
+$                        
+AVAAP USA LLC
+CONTRACTED SERVICES
+100,000.00
+$                        
+US BANK CORPORATE PAYMENT SYSTEMS
+PCARD
+97,095.34
+$                          
+KPFF INC
+CONSULTING
+94,852.88
+$                          
+BUD CLARY CHEVROLET INC.
+CONTRACTED SERVICES
+91,706.40
+$                          
+CLARY LONGVIEW LLC
+VEHICLES
+46,879.00
+$                          
+STARK DESIGN LLC
+DECALS
+41,904.60
+$                          
+WEX BANK
+CONTRACTED SERVICES
+36,386.44
+$                          
+ALSC ARCHITECTS PS
+A & E SERVICES
+35,768.07
+$                          
+ROCKWALLA IT LLC
+NETWORK SERVICES
+31,413.55
+$                          
+TRAPEZE SOFTWARE GROUP INC
+SOFTWARE
+31,168.79
+$                          
+HERITAGE PROFESSIONAL LANDSCAPING INC
+LANDSCAPE MAINTENANCE
+22,779.24
+$                          
+AVAIL TECHNOLOGIES INC
+SOFTWARE
+22,300.00
+$                          
+CITY OF RICHLAND
+UTILITY
+21,885.23
+$                          
+GARDA CL NORTHWEST INC
+ARMORED CAR SERV.
+18,365.31
+$                          
+HRA VEBA TRUST
+VEBA PAYABLE
+17,520.00
+$                          
+PLANETERIA MEDIA LLC
+SERVICES
+16,890.00
+$                          
+TEAMSTERS UNION
+UNION DUES
+15,852.00
+$                          
+BRIDGESTONE AMERICAS INC
+BUS TIRE LEASE
+15,590.21
+$                          
+CDW GOVERNMENT INC.
+COMPUTER SUPPLY
+15,388.03
+$                          
+ALLIANT INSURANCE SERVICES INC
+CONSULTING
+15,000.00
+$                          
+ROACH & BISHOP LAW LLP
+LEGAL SERVICES
+14,365.50
+$                          
+DEPT OF RETIREMENT SYSTEMS - DCP
+EMP DEFERRED COMP
+13,987.22
+$                          
+HACKNEY PATRICK
+LEGAL SETTLEMENT
+13,500.00
+$                          
+ANR GROUP INC
+TEMPORARY STAFFING SERVICES
+13,211.10
+$                          
+COMPENSATION CONNECTIONS LLC
+CONSULTING
+12,060.00
+$                          
+MCCURLEY INTEGRITY DEALERSHIPS LLC
+PARTS, EQUIP., BUS A/C
+11,653.30
+$                          
+MOSS ADAMS LLP
+PROFESSIONAL SERVICES
+11,462.85
+$                          
+SOMETHING UNLIMITED
+CONSULTING
+11,456.25
+$                          
+VERIZON WIRELESS
+UTILITY
+11,327.55
+$                          
+EXPRESS SERVICES
+TEMPORARY STAFFING SERVICES
+10,609.11
+$                          
+PEAK INDUSTRIAL INC
+PARTS EQUIP BUS A/C
+10,124.31
+$                          
+SCHETKY N.W. SALES INC.
+PARTS, EQUIP., BUS A/C
+10,090.21
+$                          
+Total Significant Vendors
+3,775,378.78
+$                       
+Payroll Total
+1,546,190.28
+$                       
+Total Non-Significant Vendors
+294,449.87
+$                          
+GRAND TOTAL
+5,616,018.93
+$
+
+=== page 61 of 253 ===
+Memorandum  
+ 
+Date: July 10, 2025 
+ 
+To: 
+Thomas Drozt, Chief Executive Officer 
+ 
+From: Kevin Sliger, Chief Planning & Development Officer 
+ 
+Re: 
+2025 Title VI Program Update Approval 
+ 
+Background 
+As a direct recipient of federal funds via the Federal Transit Administration (FTA), Ben Franklin 
+Transit (BFT) is obligated to operate its programs and services without regard to race, color, and 
+national origin in accordance with Title VI and other applicable laws.  
+ 
+As outlined in FTA Circular 4702.1B, to demonstrate BFT’s compliance with Title VI, the 
+Language Assistance Plan (LAP) must be reviewed and updated on a triennial basis. Additionally, 
+BFT operates its programs and services in compliance with the Federal Department of 
+Transportation’s (DOT) guidance. BFT’s commitment to meeting Title VI, Environmental Justice, 
+and Limited English Proficiency (LEP) requirements is reflected in the agency’s planning, public 
+involvement, and decision-making processes.  
+ 
+BFT updates the Title VI Program every three years and submits results from the service and fare 
+equity analysis, internal service monitoring, and passenger surveys to the FTA for review. BFT’s 
+current Title VI Program will expire on July 31. An updated Title VI Program needs to be approved 
+by the Board of Directors and submitted to FTA before this date. A draft version of the Title VI 
+Program update was released for a 30-day public comment period on June 8. There were no major 
+comments received during the public comment period.  
+ 
+Service Monitoring  
+Using census data, BFT gathered and analyzed data on race, national origin, language, and 
+economic status for the entire Public Transit Benefit Area (PTBA). This information was used to 
+update the draft 2025 Title VI Program. Additionally, Planning staff analyzed the fixed route 
+performance metrics to determine whether current transit service and amenities are distributed 
+equitably across the service area.  
+ 
+Title VI requirements for service monitoring include:  
+• Vehicle load factor 
+• Vehicle headway 
+• On-time performance 
+• Distribution of service  
+• Distribution of amenities 
+• Distribution of vehicles 
+• Access to services 
+• Fare equity
+
+=== page 142 of 253 ===
+12 | P a g e  
+ 
+Transit System Trifold 
+Ben Franklin Transit has available 
+trifolds that contain a map, 
+schedules, and all services available 
+in Spanish. The detailed guide is 
+available in digital format through 
+BFT’s website. 
+BFT continues to print and 
+update these trifolds to 
+ensure that information is 
+readily available to the 
+public. 
+Ongoing 
+Passenger Surveys in 
+Spanish 
+Ben Franklin Transit conducts 
+ridership surveys as needed and 
+makes surveys available in Spanish. 
+Continue conducting surveys 
+with Spanish-translated 
+questions. 
+Ongoing 
+Comment/Complaint 
+Cards 
+Comment/complaint cards are 
+located on all Ben Franklin Transit 
+buses and at transit centers, 
+including in Spanish. 
+Ben Franklin Transit makes 
+customer 
+comment/complaint cards 
+available in Spanish at any 
+location the English version is 
+available. 
+Ongoing 
+Translated Agency 
+Website 
+Ben Franklin Transit’s website can 
+be translated to over 100 different 
+languages via Google Translate.  
+Continue utilizing Google 
+Translate on updated 
+versions of website.  
+Ongoing 
+Prisma Flyer 
+Ben Franklin Transit fixed route 
+buses. 
+Distribute flyers that give LEP 
+individuals information about 
+BFTs translation services. 
+Ongoing 
+Facebook & Instagram 
+Ben Franklin Transit has established 
+Instagram and Facebook accounts 
+and monitors public comments and 
+messages regularly. Staff use 
+embedded translation services in 
+these platforms, or other tools, to 
+communicate with Spanish-
+speaking customers.  
+Continue to monitor and 
+respond to customer 
+comments via social media. 
+Make efforts to 
+communicate with LEP 
+persons via social media. 
+Ongoing 
+Voicemail/ Message 
+Machine – Spanish 
+Option 
+Spanish translation request can be 
+made when customers call in. 
+Establish an agency phone 
+menu with a Spanish 
+information option for after-
+hours calls. 
+Ongoing 
+Spanish ADA 
+announcements 
+ Fixed-route vehicles 
+ Continue making 
+announcements in both 
+English and Spanish. 
+ Ongoing  
+Optional Handheld 
+Translation Device for 
+forward-facing staff 
+ Forward-facing Customer Service 
+staff at Three Rivers Transit Center 
+ Continue the utilization of 
+translation devices.  
+ Ongoing 
+Spanish Mobile 
+Ticketing  
+ Mobile devices with data 
+capabilities 
+ Implement mobile ticketing 
+with translation feature. 
+ Spring 2026 
+Targeted Outreach to 
+LEP Populations  
+BFT seeks out and actively engages 
+in community outreach activities 
+Continue to proactively 
+identify a variety of outreach 
+Ongoing
+
+=== page 143 of 253 ===
+13 | P a g e  
+ 
+tailored to the Spanish-speaking 
+public.  
+ 
+opportunities that allow BFT 
+staff to provide information 
+about services to the 
+Spanish-speaking 
+community.  
+ 
+ 
+Task #2: Providing Notice about Language Assistance to LEP Persons  
+Ben Franklin Transit uses a range of communication methods to reach customers and the public. These 
+include signage on vehicles, at transit centers, and park-and-ride locations, as well as customer service 
+outlets, headquarters reception, the BFT website, and social media platforms like Facebook and 
+Instagram. Information is also shared through news releases, advertisements, community meetings, 
+presentations, and flyers distributed via various media channels. 
+In 2016, BFT introduced Translation Services flyers on all fixed-route buses. These flyers feature simple, 
+recognizable symbols along with the phone number for BFT’s Prisma translation service. They are 
+designed to help coach operators assist individuals who appear to need help but face a language barrier. 
+Figure 5 – Summary of Language Assistance to LEP Persons
+
+=== page 145 of 253 ===
+15 | P a g e  
+ 
+over 100 languages. Additionally, whenever public input is needed, BFT ensures timely communication 
+about significant service or fare changes. To reach the public effectively, BFT uses a variety of methods, 
+including: media releases in both English and Spanish to the Tri-City Herald and local TV and radio stations, 
+direct letters to vanpool drivers, updates on the BFT website and social media platforms, flyers on all fixed-
+route buses, emails to human service providers, mailers sent to schools and agencies like DSHS and Meals 
+on Wheels, flyers on Dial-A-Ride buses, posted flyers at Transit Center shelters, and notifications at public 
+hearings. To ensure LEP populations are informed, BFT also collaborates with local Spanish-language 
+media outlets such as Tú Decides, and Bustos Media to share information about language services and 
+service or fare changes. 
+ 
+Task #4: Employee Training   
+BFT provides staff training to help reduce barriers when assisting individuals with Limited English 
+Proficiency. The training includes role-playing various scenarios and techniques to help drivers better 
+understand how to support LEP customers. Periodic training refreshers are also offered to ensure staff 
+members are equipped with the knowledge to effectively interact with individuals who have limited 
+English skills. Additionally, BFT is developing a Spanish-language handbook to assist staff in their daily 
+interactions with the public. This handbook will include: 
+• 
+Language assistance options available through BFT 
+• 
+Procedures for handling customer complaints 
+The following excerpts below were taken from BFT’s Operator Training Manual: 
+3.3.4 LIMITED ENGLISH PROFICIENCY CUSTOMERS 
+• 
+As BFT operators, it is important to be mindful that not all customers speak English. Situations 
+may arise where non-English speakers may need assistance in understanding how to utilize our 
+various modes of transportation services. In a case where you come in to contact with a 
+customer that needs assistance, but a language barrier exists, please direct them to BFT 
+Customer Service. Customer service staff will either translate information to the customer 
+directly or connect them to a translation service via BFT’s Prisma. “Prisma” handouts are located 
+within reach of operators and are meant to be handed to customers when language barriers 
+exist. This handout includes easily recognizable symbols that will be able to direct customers to 
+Customer Service and our Prisma service.  
+• 
+Providing assistance to non-English speakers is crucial in a service area such as BFT’s, because 
+there is a large Spanish-speaking community that utilizes our transit services on a daily basis. 
+Operators are given a Spanish handbook that has simple phrases to help staff interact Spanish-
+speaking customers. If possible, please use this book to try and communicate with the customer 
+in question. Also, BFT has several Spanish-speaking Customer Service representatives in each 
+department that are valuable resources. 
+• 
+Please remember to be respectful and patient with all customers, especially those who do not 
+speak English.

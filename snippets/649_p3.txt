@@ -1,0 +1,161 @@
+# source: raw/bleecker_drive/Cupertino/23_12042_Staff_Report.pdf
+# path: raw/bleecker_drive/Cupertino/23_12042_Staff_Report.pdf
+# hit page: 3 of 5
+# terms: Via+not to exceed, Via+not-to-exceed
+
+=== page 2 ===
+The attached four-year agreement with Via is substantially similar to the existing 
+contract approved by Council on September 20, 2022, which expires on June 30. The new 
+contract will replace the current contract and includes a revised scope of work closely 
+tied to the TIRCP grant application, consisting of an updated service zone map, 
+requirements for an EV only fleet, and other general updates to the City of Cupertino’s 
+standard contractual language. Additionally, contract negotiations resulted in minor 
+changes to how subcontractors are described in the contract, to the mutual satisfaction of 
+both parties. 
+ 
+Expansion & Electrification 
+At the February 15, 2022, City Council meeting, Transportation staff presented the 
+TIRCP grant proposal that would expand Via-Cupertino’s services into the City of Santa 
+Clara, with two sites outside of the service zone in Mountain View. The proposal was 
+crafted to be attractive to CalSTA, as the TIRCP program is used to fund large projects 
+that can bring additional passengers into the rail transit network. The Council was 
+supportive of the application and staff filed an application on behalf of the City in March 
+2022. 
+ 
+The two City of Mountain View’s stops will include the Caltrain Station and El Camino 
+Hospital as new destinations accessible from both Cupertino and Santa Clara. Staff plans 
+to pursue additional grant funding opportunities in anticipation of continuation of the 
+program to year five and beyond. Preliminary conversations with the City of Sunnyvale 
+staff indicate a strong interest in participation in the future.  
+ 
+As the TIRCP grant requires the use of Zero Emissions Vehicles, the current fleet of vans 
+will be replaced with Kia Niro EV’s, and with three Lighting 3ZEV wheelchair accessible 
+vehicles (WAV). The installation of dedicated EV chargers at the Sports Center exit to 
+Stelling Road is being planned to support the fleet. Although the City has a variety of 
+existing public charging stations, it is necessary for transit vehicles to have a dedicated 
+space to recharge at all times, without the risk of stations being occupied by the general 
+public. The dedicated charging stations will be reserved for Via and City vehicles, 
+however additional public charging stations are being considered adjacent to the new 
+Via charging stations for use by the community.  
+ 
+Reduction in Project Length 
+The Via-Cupertino expansion described in the TIRCP grant application was initially 
+proposed as a five-year program; however, Cupertino ridership has grown faster than 
+anticipated since the grant application was submitted necessitating reconsideration of 
+the original anticipated budget. In March 2022, the month the TIRCP application was 
+submitted, Via-Cupertino completed 999 trips. In comparison, in January 2023, Via-
+Cupertino’s monthly ridership reached 3,112 trips, with a growing utilization rate and a 
+high level of ridesharing in the vehicle fleet. A memo from Via (Attachment E) provides
+=== page 3 ===
+additional information regarding how Cupertino ridership recovery has outpaced other 
+Via services in California. 
+While increased ridership is positive news, expansion into the City of Santa Clara and 
+parts of Mountain View may cause the service to struggle to meet demand with the 
+number of driver hours that were initially budgeted for in the proposal. This could 
+result in long wait times and some rides being unserved. To address this, the project 
+team proposes compressing the funding award to a four-year project schedule, which 
+will enable scheduling more driver hours to accommodate the current and anticipated 
+ridership. As the budget is a not-to-exceed amount, if ridership declines or does not 
+meet expectations funds can be conserved to be used in future years to accommodate 
+ridership fluctuations caused by external factors, such as economic or social conditions. 
+This proposed change will allow Via to increase driver hours and vehicle supply over 
+four years, while serving the same number of trips envisioned in the original 
+application. The $16,931,283 budget and estimated greenhouse gas (GHG) reduction of 
+76,000 MTCO₂e would remain unchanged. A request to Caltrans for this change was 
+informally accepted by phone and authorization in writing is anticipated in the coming 
+weeks. Staff will seek grant funding opportunities to help cover City matching funds 
+and to extend the length of the program.  
+ 
+Caltrans Master Agreement 
+An active Caltrans Master Agreement is a pre-requisite for the City to receive Caltrans 
+funds. Once executed, the agreement will remain active for a period of 10 years. If 
+additional Caltrans funds are solicited for this project or other City projects, an 
+additional agreement will not be necessary until the Master Agreement expires. 
+ 
+Sustainability Impact 
+The electrification and expansion of Via-Cupertino will reduce GHG by providing 
+residents with convenient, sustainable EV transportation that is local and includes 
+regional rail stations. The expanded service will add the Mountain View Caltrain 
+station, which has “Baby Bullet” express rail with service to San Francisco. The 
+expansion also includes Caltrain stations in Santa Clara, providing a first/last mile 
+connection to four regional rail stations (and a fifth station beginning in year four of the 
+grant.) Enabling long distance commuter rail trips enhances the environmental benefit of 
+the program, which was a key reason the City’s TIRCP application was approved by 
+CalSTA. 
+ 
+Fiscal Impact 
+As Via-Cupertino transitions from a pilot program to an ongoing City program, the 
+project will be included as part of the City’s base budget. The $16,931,283 four-year 
+budget will be divided into two accounts, one for expenditures and another for offsets 
+anticipated from the TIRCP grant and the City of Santa Clara, pursuant to a funding 
+agreement that will be brought to Council in the coming months (Attachment F). Staff is 
+also requesting a $350,000 allocation to pay for the installation of EV charging stations at 
+the Cupertino Sports Center to support the electrified program. Staff will solicit grant
+=== page 4 ===
+funds for the installation of the EV charging stations in addition to soliciting grant funds 
+to cover the local match owed as part of this program. 
+The following accounts have been created to track Via expenses, offsets from grants, 
+funds from the City of Santa Clara, and to better track grant reimbursements.  
+ 
+100-88-265 (General Fund, Transportation, Via Shuttle)  
+1. 100-88-265 440-430 (General Fund, Transportation, Via Shuttle – 
+Intergovernmental State Grants) 
+2. 100-88-265 440-439 (General Fund, Transportation, Via Shuttle – 
+Intergovernmental Government Agency Cost-Share) 
+ 
+Budget modification #2223-248 increases appropriations to the General Fund 
+Transportation, Via Shuttle Program (budget unit 100-88-430) by $3,594,928 for the 
+planning, launch, and operation of the Via-Cupertino-Santa Clara expansion, including 
+design, construction, and contingency funds for installation of EV charging equipment 
+to support the program. These costs are offset by revenue from TIRCP and City of Santa 
+Clara, resulting in new costs to Cupertino of $932,917. These costs are recommended to 
+be funded by an unassigned fund balance that is estimated at $63 million. 
+ 
+The following chart summarizes the anticipated four-year project budget as mentioned 
+in Attachment F: 
+ 
+Total Cost:  
+Year 1 
+$3,244,928 
+Year 2 
+$3,806,378 
+Year 3 
+$4,070,272 
+Year 4 
+$5,809,705 
+Contract Total: 
+$16,931,283 
+ 
+Cost Share  
+TIRCP  
+$1,622,464  $1,903,189  
+$2,035,136  
+$2,904,211 
+$8,465,000  
+Cupertino  
+$932,917  
+$1,094,334  
+$1,170,203  
+$1,260,876 
+$4,458,330  
+Santa Clara  
+$689,547  
+$808,855  
+$864,933 
+$1,644,618  
+$4,007,953 
+ 
+California Environmental Quality Act (CEQA) 
+The project is exempt from CEQA under CEQA Guidelines section 15301 (operation of 
+an existing program), Public Resources Code section 21080.25 (transportation-related 
+projects), and CEQA Guidelines section 15061(b)(3) (“common sense” exemption). 
+ 
+Next Steps 
+As the City of Cupertino was the recipient of the TIRCP grant, the City will administer 
+the program for both cities. A funding agreement between the City of Cupertino and the 
+City of Santa Clara will be brought to Council prior to the expansion into Santa Clara 
+along with an update on the launch progress and schedule.  
+ 
+_____________________________________ 
+ 
+Prepared by: Chris Corrao, Senior Transit & Transportation Planner

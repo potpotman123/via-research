@@ -1,0 +1,144 @@
+# source: raw/bleecker_drive/Metropolitan Council/Microtransit-Solutions _Peer-Case-Studies-Report.pdf
+# path: raw/bleecker_drive/Metropolitan Council/Microtransit-Solutions _Peer-Case-Studies-Report.pdf
+# hit page: 25 of 68
+# terms: RideCo
+
+=== page 24 ===
+CASE STUDIES 
+ 
+October 24, 2024 ■ PEER MICROTRANSIT CASE STUDIES REPORT 
+23 
+PLYMOUTH METROLINK CLICK-AND-RIDE 
+Plymouth Metrolink 
+Service Objective – Expand transit connections and mobility options. Investigate ridership potential in 
+new areas.  
+AGENCY SERVICE AREA 
+◼ Size: 35 square miles 
+◼ Area type: Suburban, small city 
+◼ Population: 81,026  
+◼ Population density: 2,315 people 
+per square mile 
+MICROTRANSIT SERVICE 
+CHARACTERISTICS 
+General Information 
+◼ Status: Operational 
+◼ Service type: Door-to-door  
+◼ Number of zones: 1 
+◼ Size:  
+ Plymouth Zone: 32.7 square 
+miles 
+◼ Dates in service:  
+ Plymouth Zone: December 
+2021 – Present 
+◼ Service hours: 5:00 am to 8:30 
+pm from Monday through Friday, 
+6 am to 6:30 pm on Saturdays, 
+6:00 am to 5:00 pm on Sundays 
+◼ Microtransit fare structure: 
+ Regular fare: $3.00  
+◼ Fixed-route fare structure*: 
+ Non-Rush Hour fare: $2.50 
+ Rush Hour fare: $3.25  
+ 65+: $1.00 (rush hour: $2.50) 
+ 6-12: $1.00 (rush hour: $2.50) 
+ <5: Free 
+ People with Medicare: $1.00 (rush hour: $3.25) 
+ People with disabilities: $1.00 
+*Only considers local fixed-route service 
+◼ Transfer policy: Yes, to all regional transit services 
+◼ Payment options: Cash, mobile application, transit card 
+◼ Connections (transit and points of interest):  
+ Plymouth Metrolink fixed-route service—connects to Downtown Minneapolis through local bus 
+stops in Plymouth 
+ Maple Grove My Ride, shared-ride service provided by the City of Maple Grove—connects to 
+Maple Grove downtown through the Maple Grove Transit Station 
+Source: City of Plymouth
+=== page 25 ===
+CASE STUDIES 
+ 
+October 24, 2024 ■ PEER MICROTRANSIT CASE STUDIES REPORT 
+24 
+Service Model 
+Hybrid 
+◼ Technology provider: RideCo 
+◼ Vehicle provider: First Transit 
+◼ Driver provider: First Transit 
+Scheduling 
+◼ Booking method: Mobile application and call center 
+◼ Advance scheduling: Up to 30 days in advance 
+◼ Target wait time: 15 minutes 
+Fleet 
+◼ Fleet size: Not available 
+◼ Vehicle types: Minibuses 
+◼ ADA accommodations: All vehicles are ADA accessible and have bicycle racks 
+IMPLEMENTATION METHOD 
+Funding Sources 
+◼ Plymouth Metrolink’s operating 
+budget, 2019 - Present 
+Marketing and Education 
+Led by: City of Plymouth, MN 
+◼ Vehicle (Plymouth Metrolink Click-
+and-Ride-wrapped) 
+◼ News articles (Minnesota 
+Reformer, CCX Media) 
+ 
+Source: CCX Media
+=== page 26 ===
+CASE STUDIES 
+ 
+October 24, 2024 ■ PEER MICROTRANSIT CASE STUDIES REPORT 
+25 
+SOUTHWEST PRIME 
+SouthWest Transit 
+Service Objective – Expand transit connections and mobility options. Investigate ridership potential in 
+new areas.  
+AGENCY SERVICE AREA 
+◼ Size: 81 square miles 
+◼ Area type: Suburban, metropolitan, small town 
+◼ Population: 118,588 people 
+◼ Population density: 1,464 people per square 
+mile 
+MICROTRANSIT SERVICE 
+CHARACTERISTICS 
+General Information 
+◼ Status: Operational 
+◼ Service type: Curb-to-curb, Curb-to-hub 
+◼ Number of zones: 1 
+◼ Size: Not available 
+◼ Dates in service: July 2015 – Present 
+◼ Service hours: 5:30 am to 7:00 pm from Monday to Friday, 6:00 am to 5:30 pm on Saturdays 
+◼ Microtransit fare structure: 
+ Regular fare: $5.00 
+ 65+: $5:00 (Mondays 9:00 am to 3:00 pm are 
+$2.50) 
+ 6-12: $5.00 
+ <5: Free 
+ People with low income: $2.50 (TAP card) 
+ People who are disabled veterans: Free 
+ Other: SW Prime Edge, SW Prime Essential, 
+SW Prime MSP Airport Service, and SW 
+Prime MD (separate microtransit fare 
+structure due to select location) 
+◼ Fixed-route fare structure*: 
+ Regular Fare: $2.50 
+ Rush Hour Fare: $3.25 
+ 65+: $1.00 (rush hour: $3.25) 
+ 6-12: $1.00 (rush hour: $3.25) 
+ <5: Free 
+ People with disabilities: $1.00 
+ People who are disabled veterans: Free 
+*Only considers local fixed-route service 
+◼ Transfer policy: Yes, free for transit card users 
+◼ Payment options: Cash, credit card, transit card, mobile application 
+◼ Connections (transit and points of interest):  
+ SouthWest Transit fixed-route service— connects to Downtown Minneapolis though bus stops 
+and light rail transit stations in the Eden Prairie area  
+ Connects directly to local community assets like the Mall of America, Minneapolis Saint Paul 
+(MSP) International Airport, grocery stores, and medical operators (these are under the special 
+SW Prime programs) 
+Service Model 
+Hybrid 
+◼ Technology provider: Spare Labs 
+◼ Vehicle provider: Transdev, May Mobility, Lyft (depends on specific SW Prime service) 
+◼ Driver provider: Transdev, May Mobility, Lyft (depends on specific SW Prime service) 
+Source: SouthWest Transit

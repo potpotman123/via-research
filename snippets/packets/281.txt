@@ -1,0 +1,274 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Arlington, Virginia/arlington-transit-fy25-34-tsp-final.pdf
+# pages_total: 333; hit_pages: [91, 164, 181, 210, 242, 243, 248]; included: [91, 164, 181, 210, 242]
+# context: Bleecker Drive folder: Arlington, Virginia
+
+=== page 91 of 333 ===
+Evaluation of Transit Market Demand and Underserved Areas
+Arlington Transit Strategic Plan | Chapter 2 - System Performance and Operations Analysis
+73
+Table 15 details the existing transit trips to each transit center, showing how many trips are serving each location 
+for all bus services, including ART, and ART independently of the other services.
+Locations such as the Ballston – MU Metrorail Station and the Shirlington Transit Center received “above” 
+average assessments for all bus trips and ART trips only, suggesting that these locations receive adequate bus 
+coverage. 
+Conversely, locations such as East Falls Church Metrorail Station and the Crystal City Metrorail station have 
+“below” average assessments for all bus trips and when only considering ART services, which strongly suggests 
+that additional solutions should be considered for these locations.
+There are several locations where overall bus service is “above” average, yet ART service is “below” average. 
+This suggests that bus service to destinations that are farther away (often provided by Metrobus) are decent; 
+however, bus service to more local destinations should be reviewed in order to ensure all connections can be 
+made. This condition exists at the Pentagon City Metrorail Station and the Pentagon Metrorail Station & Transit 
+Center.
+Additionally, there are also several locations where ART service is at “above” average levels, yet the overall bus 
+services are considered “below” average. This situation suggests that coverage oriented towards more local 
+areas is provided at a sufficient level, yet there may be opportunities to provide better connections to jobs in other 
+neighboring areas or for neighboring residents who may be traveling into Arlington via transit. This is occurring at 
+the Clarendon Metrorail Station and the Virginia – GMU Metrorail Station.
+Arlington has implemented parking ratio requirements at transit centers in exchange for elements such as transit 
+infrastructure which can benefit all riders at the station. It is worth noting that both the Arlington Cemetery 
+Metrorail Station and the Ronald Reagan Washington National Airport do not currently have any bus services that 
+operate to either location. Both are served by Metrorail and strengthening connections to existing services should 
+continue to be prioritized. Furthermore, the proposed CC2DCA connector will provide a direct ADA- accessible 
+pathway between ART service on Crystal Drive, the Crystal City Metro, a relocated Crystal City VRE station and 
+National Airport.
+
+=== page 164 of 333 ===
+Planned Service Improvements
+Arlington Transit Strategic Plan | Chapter 3 - Planned Improvements and Modifications
+38
+of the 2019 high. This illustrates how telework resulting from the COVID-19 pandemic has had a huge impact on 
+transit usage along certain routes.
+Service Recommendations
+1.
+Discontinue Service between East Falls Church and N Glebe Road on N Sycamore Street and 
+Williamsburg Boulevard in conjunction with the implementation of an On-Demand Service Zone.
+2.
+Shift Western/Northern Terminus from East Falls Church to N Glebe Road and Military Road 
+(Madison Community Center), which is shared with an extended Route 72.
+3.
+Shift Southern/Eastern Terminus from Ballston to Rosslyn (service to Ballston eliminated), via 
+northern portion of discontinued Route 61 loop.
+4.
+Extend service coverage by absorbing Route 61 alignment and service hours (inherits better of two 
+service levels).
+5.
+Increase Span of Service to maintain STN guidelines, by adding midday service with the same 25-
+minute frequency from peak period to match the STN 30-minute guideline.
+Expected Outcomes
+The proposed Route 53 would absorb portions of Route 61, which is recommended for elimination. The proposed 
+new alignment would create a direct connection between Rosslyn and Arlington’s northern tier. Because of the 
+realignment, ART service will be discontinued to Discovery Elementary School and Williamsburg Middle School.
+The recommendations would increase ART’s level of service provided to equity-focus populations and high-transit 
+propensity neighborhoods as defined in Tech Memo #4 Gaps and Needs. This would extend route coverage and 
+reach nearby neighborhoods, improving network connectivity. The recommendations aim to provide improved 
+levels of service for existing Route 51 and Route 61 passengers by reducing the need for transfer, which may 
+potentially reduce overall travel times. 
+The proposed changes will increase the share of the minority population within a quarter mile of the route from 
+27% to 31% and low-income population from 7% to 10%, a 4% and 3% increase respectively. 
+This service increase will also allow the route to meet and exceed the STN service guidelines, with the inclusion 
+of midday and extended evening service. This extended span is expected to improve ridership productivity 
+metrics and support riders who depend on this route daily. 
+The proposed changes will keep an average headway of 25 minutes and result in an increase of about 21 Vehicle 
+Revenue Hours during each weekday, with an annual increase of approximately 5,330 Vehicle Revenue Hours, 
+an increase of about 97%.
+TABLE 38 | ROUTE 53 EXISTING PERFORMANCE METRICS
+Target 
+(STN)
+Weekday 
+ART Rank
+Weekday
+Saturday
+Sunday
+Average Daily Ridership
+-
+13th 
+ 33 
+-
+-
+Farebox Recovery
+20%
+14th (Tied)
+2%
+-
+-
+Passengers Per One Way Trip
+-
+12th 
+2.1
+-
+-
+Passengers Per Revenue Hour
+15
+15th 
+ 1.8 
+-
+-
+Passengers Per Revenue Mile
+-
+14th (Tied)
+0.1
+-
+-
+On-Time Performance
+95%
+8th 
+86.0%
+-
+-
+
+=== page 181 of 333 ===
+Planned Service Improvements
+Arlington Transit Strategic Plan | Chapter 3 - Planned Improvements and Modifications
+55
+The two busiest stops on the route are S Hayes Street at 12th Street S with 32 average weekday boardings in 
+2021, and S Walter Reed Drive at Columbia Pike, with 26 average weekday boardings. Over the past four years, 
+Route 74 ridership peaked in February 2020 at 95 average weekday boardings, with service suspended from April 
+2020 to August 2021. Ridership was at its lowest point at 12 average weekday boardings in January 2022, 13% of 
+the 2019 high. This illustrates how teleworking during the COVID crisis and afterward has had a huge impact on 
+transit usage along certain routes.
+Service Recommendations
+1.
+Extend to Crystal City and Long Bridge Aquatic Center.
+2.
+Shift eastern terminus from Pentagon City to Long Bridge Park via Crystal City.
+3.
+Add weekend services and lengthen the weekday span with midday/evening service.
+Expected Outcomes
+The proposed Service Recommendations should generate a positive benefit to the community with an increase in 
+ART service to operate all-day 30-minute headways on weekdays and weekends. This would significantly 
+increase the level of service provided to equity-focus populations and high-transit propensity neighborhoods. The 
+route currently operates in an area where half the population within a quarter mile are minority individuals, well 
+above the countywide share of 39%. Adding midday and weekend services should improve ridership productivity 
+metrics and support riders who depend on this route daily. The proposed changes will add 22 Vehicle Revenue 
+Hours per weekday, and an approximate annual increase in Vehicle Revenue Hours of about 7,850 hours, an 
+increase of 371%. There is no anticipated need for additional vehicles to support this new service.
+TABLE 49 | ROUTE 74 EXISTING PERFORMANCE METRICS
+Target 
+(STN)
+Weekday 
+ART Rank
+Weekday
+Saturday
+Sunday
+Average Daily Ridership
+-
+15th (Tied)
+ 16 
+-
+-
+Farebox Recovery
+20%
+14th (Tied)
+2%
+-
+-
+Passengers Per One Way Trip
+-
+15th
+1.2
+-
+-
+Passengers Per Revenue Hour
+15
+14th
+2.4
+-
+-
+Passengers Per Revenue Mile
+-
+14th (Tied)
+0.1
+-
+-
+On-Time Performance
+95%
+14th 
+80.2%
+-
+-
+
+=== page 210 of 333 ===
+4.1 Asset Management
+Arlington Transit Strategic Plan | Chapter 4 Implementation Plan
+4
+tandards for bus stop placement, spacing, and necessary passenger amenities, as well as detailed policies on 
+bus stop design physical elements and accessibility standards. 
+Maintenance is performed as often as necessary to create a positive impression for the public and includes:
+
+Cleaning of bus shelters and benches and/or lean bars to include but not limited to the removal of dirt, graffiti, 
+posted materials, or stickers;
+
+Fixing real-time information signage;
+
+Removal of trash and recycling by SWB or other responsible entity per agreements as scheduled or 
+dependent on the amount of trash that accumulates at the stop;
+
+Manual or chemical removal of weeds and pruning of obstructing foliage;
+
+Verifying shelter lighting levels and replacement of bad bulbs and ballasts;
+
+Cleaning a location to make a site safe and repairing items that pose a safety concern as soon as possible 
+including broken glass panels, broken frames of shelters, damaged benches and/or lean bars, and snow and 
+ice removal.
+Arlington’s Bus Stop Guidelines & Standards Manual also includes a chapter with policies to coordinate 
+construction at/near bus stops to ensure buses and passengers can safely access the stop during periods of 
+construction. The County follows FTA and DRPT guidelines to provide condition ratings for passenger facilities to 
+DRPT’s TransAM database. This information is compiled as part of the statewide group TAM plan. 
+4.1.5. Technology and ITS Policies
+A variety of transit technologies are used throughout Arlington - at transit stations and bus stops, on buses, and 
+through data-sharing via websites, mobile phone applications, and real-time displays. Arlington County’s Transit 
+Intelligent Transportation Systems (ITS) and Security Program are dedicated to the installation and maintenance 
+of technology to improve transit operations and rider information systems and to identify and mitigate agency 
+security and safety issues. Arlington is committed to implementing technologies that make transit trips faster, 
+easier, and more reliable.
+The County’s ongoing initiatives focus on providing accurate and timely information to both operations staff and 
+transit customers. This program builds upon and expands technologies already in place as well as introduces new 
+technologies recommended in the Transit ITS master plan. Compared to other asset classes like vehicles and 
+facilities, technology assets need more frequent replacement. ART aims to replace its ITS and technology assets 
+when they are no longer supported by the vendor or when their software cannot be updated, they come to the end 
+of their useful life, and/or the technology no longer cross-integrates. 
+Recently implemented ITS and security projects include:
+
+Real-time Delivery Preference Study3 – focused on what Arlington transit riders expect in terms of real-time 
+information delivery.
+
+Installation of a real-time multimodal information display at the Arlington Mill Community Center.
+
+Conversion of electronic displays from scheduled arrival time to real-time arrival information at the South Bell 
+Street bus bays adjacent to the Crystal City Metrorail station.
+
+Addition of ADA-accessible speaker boxes at Crystal City and Rosslyn bus bays.
+
+Addition of two bus stops at Shirlington Bus Station with real-time information displays.
+
+Installation of security systems at the new ART bus facility on South Eads Street.
+
+Installation of onboard video cameras on ART buses to increase the safety of riders and bus operators.
+The specifics regarding technology projects currently in planning or development are described in Technology 
+and ITS in section 4.2.2. 
+3 https://arlingtonva.s3.amazonaws.com/wp-content/uploads/sites/31/2019/04/DES-Transit-ITS-Real-
+time_Preference_Study_Final_Report_2018.pdf
+
+=== page 242 of 333 ===
+Appendix A
+Arlington Transit Strategic Plan | Appendix A - Agency Profile and System Overview
+3
+The Transit Accessibility Subcommittee reviews accessibility issues in Arlington, including access to transit 
+vehicles, stops and stations and the specialized transit services provided by Metrorail, Metrobus, ART, STAR and 
+MetroAccess. Members are:
+
+Alexis Mavroidis (Chair)
+
+Herschel Kanter
+
+Laura MacNeil
+The TAC usually meets every two months for 90 minutes via Microsoft Teams or by phone. The subcommittee 
+usually meets every two months.
+A.3 Organizational Structure
+Arlington County’s Department of Environmental Services (DES) is responsible, through its Transit Bureau, for 
+providing public transportation that encompasses a network of transit services and facilities. Arlington Transit 
+(ART) is one element of the program that also includes Metrorail, Metrobus, MetroAccess, STAR, Commuter 
+Services, and Virginia Railway Express.
+FIGURE 2 | ORGANIZATION CHART FOR ARLINGTON COUNTY DEPARTMENT OF ENVIRONMENTAL SERVICES, 
+TRANSIT BUREAU

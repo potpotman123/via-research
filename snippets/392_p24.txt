@@ -1,0 +1,177 @@
+# source: raw/bleecker_drive/Los Alamos (Spare Labs)/1040_24_A_-_AGR_24-37_Spare_Labs_Inc.pdf
+# path: raw/bleecker_drive/Los Alamos (Spare Labs)/1040_24_A_-_AGR_24-37_Spare_Labs_Inc.pdf
+# hit page: 24 of 81
+# terms: Spare Labs
+
+=== page 23 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+23 
+ Agreement Template Version: 04012024 
+performance of various aspects of the Platform and related systems and technologies, 
+including, without limitation, Learning Data. Contractor shall hold all right, title and interest to 
+such data and other information and Learning Data and, without limiting such ownership, will 
+be free (during and after the term hereof) to (i) use such information and data to improve and 
+enhance the Platform or the Services and for other development, diagnostic and corrective 
+purposes in connection with the Platform and other Contractor offerings; and (ii) disclose such 
+data solely in aggregate and de-identified form in connection with its business (including 
+without limitation for marketing and sales purposes); 
+ 
+5. County hereby covenants that it will not, directly or indirectly, jointly or severally: (i) reverse 
+engineer, decompile, disassemble or otherwise attempt to discover the source code, object 
+code, or underlying structure, know-how or algorithms relevant to the services or any software, 
+Documentation or data related to the Platform (“Software”); (ii) modify, translate, or create 
+derivative works based on the Platform or any Software (except to the extent expressly 
+permitted in writing by Contractor or authorized within the Platform); (iii) use the Platform or 
+any Software for timesharing or service bureau purposes or otherwise for the benefit of a third 
+party; or (iv) remove any proprietary notices or labels; County shall, respectively, comply with 
+all applicable local, municipal, provincial, federal and foreign laws in using the Platform; and 
+ 
+6. County shall use commercially reasonable efforts to obtain the requisite permission, consent 
+or other lawful basis from or in respect of end users for the use, storage and processing of 
+their personal information by Contractor through the provision of the Platform or services, as 
+required by applicable laws. 
+7. Should the Platform or services become, or in Contractor’s opinion be likely to become, the 
+subject of a claim of infringement of any patent, copyright, trademark, trade name, trade 
+secret, or other proprietary or contractual right of any third party, Contractor will provide written 
+notice to County of the circumstances giving rise to such claim or likely claim. In the event that 
+County receives notice of a claim of infringement or is made a party to or is threatened with 
+being made a party to any claim of infringement related to the Platform or Services, County 
+will forthwith provide Contractor with notice of such claim or threat. Following receipt of such 
+notice, Contractor will either (at Contractor’s sole election) (i) procure for County the right to 
+continue to use the affected portion of the Platform or Services, or (ii) replace or otherwise 
+modify the affected portion of the Platform or Services to make them non-infringing, or obtain 
+a reasonable substitute product for the affected portion of the Platform or Services, provided 
+that any replacement, modification or substitution under this paragraph does not effect a 
+material change in the Platform or Services’ functionality. If none of the foregoing options is 
+reasonably acceptable to County, County will have the right to terminate the Agreement in 
+accordance with the provisions herein. 
+ 
+SECTION J. EMPLOYEES AND SUB-CONTRACTORS:  Contractor shall be solely responsible 
+for payment of wages, salary, or benefits to any and all employees or contractors retained by 
+Contractor in the performance of the Services.  Contractor agrees to indemnify, defend, and hold 
+harmless County for any and all claims that may arise from Contractor's relationship to its 
+employees and subcontractors. 
+ 
+SECTION K. INSURANCE: Contractor shall obtain and maintain insurance of the types and in 
+the amounts set out below throughout the term of this Agreement with an insurer acceptable to 
+County. Contractor shall assure that all subcontractors maintain like insurance. Compliance with 
+the terms and conditions of this Section is a condition precedent to County’s obligation to pay 
+compensation for the Services, and Contractor shall not provide any Services under this 
+Agreement unless and until Contractor has met the requirements of this Section.  County requires 
+Attachment A
+=== page 24 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+24 
+ Agreement Template Version: 04012024 
+Certificates of Insurance, or other evidence acceptable to County, stating that Contractor has met 
+its obligation to obtain and maintain insurance and to assure that subcontractors maintain like 
+insurance.  Should any of the policies described below be cancelled before the expiration date 
+thereof, notice shall be delivered in accordance with the policy provisions.  General Liability 
+Insurance, Automobile Liability Insurance, and Cyber Insurance shall name County as an 
+additional insured. 
+1. General Liability Insurance: ONE MILLION DOLLARS ($1,000,000.00) per occurrence; 
+ONE MILLION DOLLARS ($1,000,000.00) aggregate. 
+2. Workers’ Compensation: In an amount as may be required by law. County may immediately 
+terminate this Agreement if Contractor fails to comply with the Worker’s Compensation Act 
+and applicable rules when required to do so. 
+3. Automobile Liability Insurance for Contractor and its Employees:  ONE MILLION 
+DOLLARS ($1,000,000.00) combined single limit per occurrence; ONE MILLION DOLLARS 
+($1,000,000.00) aggregate on any owned, and/or non-owned motor vehicles used in 
+performing Services under this Agreement. 
+4. Cyber Insurance: In addition to other insurance required under the Agreement, Contractor 
+shall, at its sole cost and expense, procure and maintain through the term of the Agreement 
+and for two (2) years following the termination or expiration of the Agreement, cyber/network 
+privacy insurance with limits of THREE MILLION DOLLARS ($3,000,000.00) per claim/in 
+aggregate. Such policy shall provide coverage for disclosures and/or breaches of County Data 
+arising out of or relating to Contractor’s Services. Such policy shall also include coverage for 
+the costs associated with restoring lost or damaged County Data, sending breach notifications 
+to affected individuals, public relations expenses, fines, and penalties. Such policy shall not 
+contain exclusions for the acts or omissions of either Contractor, County, or their respective 
+employees, agents, subcontractors, or volunteers, whether intentional or unintentional, 
+resulting in or relating to any use of County Data not expressly permitted by this Agreement. 
+Contractor must notify County at least thirty (30) days prior to the cancellation or modification 
+of such policy. 
+SECTION L. RECORDS:  Contractor shall maintain, throughout the term of this Agreement and 
+for a period of six (6) years thereafter, records that indicate the date, time, and nature of the 
+services rendered. Contractor shall make available, for inspection by County, all records, books 
+of account, memoranda, and other documents pertaining to County at any reasonable time upon 
+request. Where Contractor is required to provide access to books, records, accounts, reports or 
+other documents, it shall be sufficient that Contractor provide an electronic copy of such books, 
+records, accounts, reports or other documents, and Contractor shall not be required to grant 
+physical or other access (including access to information technology systems or their equivalent) 
+to the foregoing. 
+ 
+SECTION M. DUTY TO ABIDE:  Contractor shall abide by all applicable federal, state, and local 
+laws, regulations, and policies and shall perform the Services in accordance with all applicable 
+laws, regulations, and policies during the term of this Agreement.   
+ 
+SECTION N. NON-DISCRIMINATION:  During the term of this Agreement, Contractor shall not 
+discriminate against any employee or applicant for an employment position to be used in the 
+performance of the obligations of Contractor under this Agreement, with regard to race, color, 
+religion, sex, age, ethnicity, national origin, sexual orientation or gender identity, disability, or 
+veteran status. 
+ 
+Attachment A
+=== page 25 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+25 
+ Agreement Template Version: 04012024 
+SECTION O.  CHOICE OF LAW:  The interpretation and enforcement of this Agreement shall be 
+governed by and construed in accordance with the laws of the State of New Mexico. 
+ 
+SECTION P. VENUE, FORUM NON-CONVENIENS, EXCLUSIVE STATE JURISDICTION: 
+County and Contractor knowingly, voluntarily, intentionally, and irrevocably agree that any and all 
+legal proceedings related to this Agreement, or to any rights or any relationship between the 
+parties arising therefrom, shall be solely and exclusively initiated, filed, tried, and maintained in 
+the First Judicial District Court of the State of New Mexico. County and Contractor each expressly 
+and irrevocably waive any right otherwise provided by any applicable law to remove the matter to 
+any other state or federal venue, consents to the jurisdiction of the First Judicial District Court of 
+the State of New Mexico in any such legal proceeding, waives any objection it may have to the 
+laying of the jurisdiction of any such legal proceeding. County and Contractor also agree that this 
+term is a material inducement for each to enter this Agreement, and that both County and 
+Contractor warrant and represent that each have had the opportunity to review this term with legal 
+counsel. 
+ 
+SECTION Q.  WAIVER OF JURY TRIAL:  In the event of any action or proceeding, (including 
+without limitation, any claim, counterclaim, cross-claim or third party claim) arising out of or, 
+relating to this Agreement, or the transaction contemplated by this Agreement, County and 
+Contractor KNOWINGLY, VOLUNTARILY, INTENTIONALLY, AND IRREVOCABLY  WAIVE 
+ANY RIGHT TO A JURY TRIAL, and agree that a court shall determine and adjudicate all issues 
+of law and fact with a jury trial being expressly waived.  County and Contractor also agree that 
+this waiver of a jury trial was a material inducement for each to enter this Agreement, and that 
+both County and Contractor warrant and represent that each have had the opportunity to review 
+this jury waiver with legal counsel.  
+ 
+SECTION R. INDEMNITY AND LIMITATION OF LIABILITY:   
+ 
+1. Indemnity. Contractor shall indemnify, defend, and hold harmless County, its Council 
+members, employees, agents, and representatives, from and against all liability, claims, 
+demands, actions (legal or equitable), damages, losses, costs, or expenses, including 
+attorney fees, of any kind or nature, to the extent that the liability, claims, demands, actions, 
+damages, losses, costs, and expenses are caused by, or arise out of, the acts or omissions 
+of the Contractor or Contractor’s officers, employees, agents representatives, and 
+subcontractors in the performance or breach of the Services under this Agreement.  
+ 
+2. LIMITATION OF LIABILITY. NOTWITHSTANDING ANYTHING TO THE CONTRARY IN 
+THIS AGREEMENT OR ANY OTHER AGREEMENT BETWEEN THE PARTIES, EXCEPT 
+FOR (I) BODILY INJURY OF A PERSON; OR (II) ANY OBLIGATIONS ARISING OUT OF AN 
+INDEMNIFICATION BY CONTRACTOR UNDER THIS CONTRACT THAT RELATE OR 
+PERTAIN TO IP INFRINGEMENT, WILLFUL MISCONDUCT, OR FRAUD, CONTRACTOR 
+AND ITS SUBCONTRACTORS (INCLUDING BUT NOT LIMITED TO ALL EQUIPMENT AND 
+TECHNOLOGY 
+CONTRACTORS), 
+OFFICERS, 
+AFFILIATES, 
+REPRESENTATIVES, 
+CONTRACTORS AND EMPLOYEES SHALL NOT BE RESPONSIBLE OR LIABLE WITH 
+RESPECT TO ANY SUBJECT MATTER OF THIS AGREEMENT OR TERMS AND 
+CONDITIONS RELATED THERETO UNDER ANY CONTRACT, NEGLIGENCE, STRICT 
+LIABILITY OR OTHER THEORY: (A) FOR ERROR OR INTERRUPTION OF USE OR FOR 
+LOSS OR INACCURACY OR CORRUPTION OF DATA OR COST OF PROCUREMENT OF 
+SUBSTITUTE GOODS, SERVICES OR TECHNOLOGY OR LOSS OF BUSINESS;  (B) FOR 
+ANY INDIRECT, EXEMPLARY, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES 
+OR (C) FOR ANY AMOUNTS THAT, TOGETHER WITH AMOUNTS ASSOCIATED WITH 
+Attachment A

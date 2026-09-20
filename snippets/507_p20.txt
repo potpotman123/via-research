@@ -1,0 +1,62 @@
+# source: raw/bleecker_drive/Suffolk County/Via - Getting Microtransit Right.pdf
+# path: raw/bleecker_drive/Suffolk County/Via - Getting Microtransit Right.pdf
+# hit page: 20 of 26
+# terms: Via Transit, Via+per trip
+
+=== page 19 ===
+Getting you hides aear you location
+Getting you a ride
+Stay tingg
+Solving the first and
+last mile challenge
+=== page 20 ===
+While all transit agencies want to maximize ridership on their fixed-route
+lines, even the most expansive networks struggle to provide complete
+origin-to-destination journeys for their riders. With Via, transit agencies
+can seamlessly connect their customers to existing bus and train stations,
+enhancing the customer experience, increasing ridership, and improving the
+overall efficiency of their networks.
+VIA'S CREDENTIALS
+know what it takes to deliver a superior customer experience in an exceptionally efficient way,
+wherever your agency is located.
+Based on our experience connecting riders to fixed-route services as diverse as the Metrolink
+regional rail system in southern California, the New York City subway, the Washington D.C.
+Metro, and the Sittingbourne railway station in Kent, UK, we suggest the following quality of
+service and productivity benchmarks for a mature first and last mile service:
+market
+Average
+wait time
+(Minutes)
+Urban
+Suburban
+Average
+trip time
+compared
+to private
+car trip
+(Minutes)
++1.5
++2.70
+Rides per
+vehicle/hr
+% Utilization
+improvement
+(Based on US
+average of 2)
+% Cost
+reduction per
+trip (Based
+on US average
+of $35/trip)
+4-6
+3-5
+100-200%
+50-150%
+50-67%
+33-60%
+=== page 21 ===
+6470
+@ ARRIVA
+Q ARRIVA
+Optimizing the bus
+frequency/coverage tradeoff

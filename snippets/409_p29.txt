@@ -1,0 +1,580 @@
+# source: raw/bleecker_drive/Utah Transit Authority/Utah Transit Authority.pdf
+# path: raw/bleecker_drive/Utah Transit Authority/Utah Transit Authority.pdf
+# hit page: 29 of 469
+# terms: Via Transportation, Via+fleet, Via+vehicles
+
+=== page 28 ===
+SUMMARY OF ACCOUNTS RECEIVABLE
+EXHIBIT 1-9
+(UNAUDITED)
+As of October 31, 2024
+Classification
+Total
+Current
+31-60 Days
+61-90 Days
+90-120 Days Over 120 Days
+1
+Federal Grants Government ¹
+796,305
+$          
+796,305
+$          
+-
+                     
+-
+                 
+-
+                 
+-
+                 
+2
+Sales Tax Contributions
+82,659,482
+       
+39,460,517
+       
+43,198,965
+$      
+-
+                 
+-
+                 
+-
+                 
+3
+Warranty Recovery
+1,944,770
+         
+1,944,770
+         
+-
+                     
+-
+                 
+-
+                 
+-
+                 
+4
+Build America Bond Subsidies
+4,995,670
+         
+-
+                   
+-
+                     
+785,525
+$        
+785,525
+$        
+3,424,620
+$     
+5
+Product Sales and Development
+3,132,899
+         
+878,641
+            
+21,055
+               
+8,340
+             
+1,104,511
+       
+1,120,352
+       
+6
+Pass Sales
+15,171
+              
+96,782
+              
+49,575
+               
+(9,180)
+            
+45,800
+           
+(167,806)
+        
+7
+Property Management
+211,966
+            
+50,245
+              
+42,500
+               
+(5,057)
+            
+1,825
+             
+122,453
+          
+8
+Vanpool/Rideshare
+135,180
+            
+53,227
+              
+46,295
+               
+10,036
+           
+16,048
+           
+9,574
+             
+9
+Salt Lake City Agreement
+1,656,691
+         
+1,600,987
+         
+55,704
+               
+-
+                 
+-
+                 
+-
+                 
+10
+Planning
+-
+                   
+-
+                   
+-
+                     
+-
+                 
+-
+                 
+-
+                 
+11
+Capital Development Agreements
+20,563,678
+       
+7,410,567
+         
+-
+                     
+-
+                 
+-
+                 
+13,153,111
+     
+12
+Other 
+80,147,380
+       
+913,018
+            
+6,250
+                 
+203
+                
+(292,404)
+        
+352,023
+          
+13
+Total
+196,259,192
+$   
+53,205,061
+$     
+43,420,343
+$      
+789,868
+$        
+1,661,305
+$     
+18,014,326
+$   
+Percentage Due by Aging
+14
+Federal Grants Government ¹
+100.0%
+0.0%
+0.0%
+0.0%
+0.0%
+15
+Sales Tax Contributions
+47.7%
+52.3%
+0.0%
+0.0%
+0.0%
+16
+Warranty Recovery
+100.0%
+0.0%
+0.0%
+0.0%
+0.0%
+17
+Build America Bond Subsidies
+0.0%
+0.0%
+15.7%
+15.7%
+68.6%
+18
+Product Sales and Development
+28.0%
+0.7%
+0.3%
+35.3%
+35.8%
+19
+Pass Sales
+637.9%
+326.8%
+-60.5%
+301.9%
+-1106.1%
+20
+Property Management
+23.7%
+20.1%
+-2.4%
+0.9%
+57.8%
+21
+Vanpool/Rideshare
+39.4%
+34.2%
+7.4%
+11.9%
+7.1%
+22
+Salt Lake City Agreement
+96.6%
+3.4%
+0.0%
+0.0%
+0.0%
+23
+Planning
+24
+Capital Development Agreements
+36.0%
+0.0%
+0.0%
+0.0%
+64.0%
+25
+Other 
+1.1%
+0.0%
+0.0%
+-0.4%
+0.4%
+26
+Total
+27.1%
+22.1%
+0.4%
+0.8%
+9.2%
+¹ Federal preventive maintenance funds and federal RideShare funds
+28
+=== page 29 ===
+SUMMARY OF APPROVED DISBURSEMENTS OVER $200,000 
+EXHIBIT 1-10
+FROM Oct 1, 2024 THROUGH Oct 31, 2024
+(UNAUDITED)
+Contract # and Description
+Contract Date
+Vendor
+Check #
+Date
+Check Total
+02003267
+OGX Bus order NTP 2
+4/29/2021 GILLIG CORPORATION
+901267
+10/2/2024
+(1,765,332.00)
+          
+02303738
+SOFTWARE SERVICE
+12/22/2023 TRAPEZE SOFTWARE GROUP, INC.
+901272
+10/2/2024
+(447,207.00)
+             
+02203566
+MKV20-System
+6/3/2020 SCHEIDT & BACHMANN USA, INC.
+901273
+10/2/2024
+(344,119.70)
+             
+02403819
+TRAX Platform in South Jordan
+5/8/2024 PAULSEN CONSTRUCTION, INC.
+901275
+10/2/2024
+(890,412.10)
+             
+00203399
+ON DEMAND MOBILITY
+9/7/2021 VIA TRANSPORTATION INC
+901276
+10/2/2024
+(212,215.22)
+             
+02033993
+ON DEMAND MOBILITY
+9/7/2021 VIA TRANSPORTATION INC
+901276
+10/2/2024
+(532,647.51)
+             
+00017232
+LIABILITY INSURANCE POLICIES
+7/6/2022 Alliant Insurance Services, IN
+901278
+10/2/2024
+(374,186.77)
+             
+00017232
+LIABILITY INSURANCE POLICIES
+7/6/2022 Alliant Insurance Services, IN
+901278
+10/2/2024
+(335,065.97)
+             
+00017232
+LIABILITY INSURANCE POLICIES
+7/6/2022 Alliant Insurance Services, IN
+901278
+10/2/2024
+(451,203.00)
+             
+00017232
+LIABILITY INSURANCE POLICIES
+7/6/2022 Alliant Insurance Services, IN
+901278
+10/2/2024
+(405,751.05)
+             
+R2024-10-03
+Pension Contribution
+10/23/2024 Cambridge Associates, LLC.
+385803
+10/3/2024
+(1,231,494.77)
+          
+R2024-10-03
+Pension Contribution
+10/23/2024 UTAH ST TAX (WITHHOLDING ONLY)
+385831
+10/3/2024
+(333,700.05)
+             
+00017162
+FLEET Vehicles
+11/30/2023 TONY DIVINO TOYOTA
+901363
+10/9/2024
+(242,838.00)
+             
+02003243
+PARA SERVICE NORTH
+6/3/2020 MV PUBLIC  TRANSPORTATION
+901366
+10/9/2024
+(289,178.92)
+             
+02403819
+TRAX Platform in South Jordan
+5/8/2024 PAULSEN CONSTRUCTION, INC.
+901367
+10/9/2024
+(635,291.00)
+             
+00233797
+Construction Oper. Restrooms
+4/25/2024 Calvin L Wadsworth Constr. Com
+901369
+10/9/2024
+(877,106.03)
+             
+00017248
+FLEET Vehicles
+11/30/2023 TONY DIVINO TOYOTA
+901447
+10/16/2024
+(223,860.72)
+             
+00243813
+TRAX Platform in South Jordan
+5/8/2024 PAULSEN CONSTRUCTION, INC.
+901450
+10/16/2024
+(467,716.00)
+             
+00213531
+Insurance
+4/26/2023 SELECT HEALTH
+901454
+10/16/2024
+(939,654.30)
+             
+R2024-10-03
+UTILITIES
+10/23/2024 ROCKY MOUNTAIN POWER
+386019
+10/16/2024
+(213,167.52)
+             
+R2024-02-02
+Pension Contribution
+2/14/2024 Cambridge Associates, LLC.
+386108
+10/17/2024
+(1,231,075.71)
+          
+R2024-10-03
+Income Taxes
+10/23/2024 UTAH ST TAX (WITHHOLDING ONLY)
+386137
+10/17/2024
+(333,593.25)
+             
+02003243
+PARA SERVICE NORTH
+6/3/2020 MV PUBLIC  TRANSPORTATION
+901535
+10/23/2024
+(264,936.41)
+             
+R2024-10-03
+UTILITIES
+10/23/2024 ROCKY MOUNTAIN POWER
+386193
+10/23/2024
+(724,352.74)
+             
+00203378
+TPSS UPGRADE/REHAB
+8/23/2021 C3M Power Systems LLC
+901626
+10/30/2024
+(1,170,376.53)
+          
+00203378
+TPSS UPGRADE/REHAB
+8/23/2021 C3M Power Systems LLC
+901626
+10/30/2024
+(420,620.77)
+             
+01135719
+ON-CALL MAINTENANCE
+6/9/2021 Stacy and Witbeck, Inc.
+901627
+10/30/2024
+(353,051.00)
+             
+00233786
+ON-CALL MAINTENANCE
+6/9/2021 Stacy and Witbeck, Inc.
+901627
+10/30/2024
+(808,927.00)
+             
+00233786
+ON-CALL MAINTENANCE
+6/9/2021 Stacy and Witbeck, Inc.
+901627
+10/30/2024
+(434,794.17)
+             
+00233786
+ON-CALL MAINTENANCE
+6/9/2021 Stacy and Witbeck, Inc.
+901627
+10/30/2024
+(1,188,375.00)
+          
+00233786
+ON-CALL MAINTENANCE
+6/9/2021 Stacy and Witbeck, Inc.
+901627
+10/30/2024
+(217,138.86)
+             
+00233786
+ON-CALL MAINTENANCE
+6/9/2021 Stacy and Witbeck, Inc.
+901627
+10/30/2024
+(307,783.00)
+             
+00233786
+ON-CALL MAINTENANCE
+6/9/2021 Stacy and Witbeck, Inc.
+901627
+10/30/2024
+(469,495.35)
+             
+R2024-10-03
+Pension Contribution
+10/23/2024 Cambridge Associates, LLC.
+386431
+10/31/2024
+(1,237,319.79)
+          
+R2024-10-03
+Income Taxes
+10/23/2024 UTAH ST TAX (WITHHOLDING ONLY)
+386460
+10/31/2024
+(326,772.82)
+             
+29
+=== page 30 ===
+Utah Transit Authority
+MEETING MEMO
+669 West 200 South
+Salt Lake City, UT 84101
+Board of Trustees
+Date: 12/18/2024
+TO:
+Board of Trustees
+THROUGH:
+Jay Fox, Executive Director
+FROM:
+Viola Miller, Chief Financial Officer
+PRESENTER(S):
+Gregg Larsen, Manager of Grant Services
+Alma Haskell, Grants Administrator
+TITLE:
+Discretionary Grants Report
+AGENDA ITEM TYPE:
+Report
+RECOMMENDATION:
+Informational report for discussion
+BACKGROUND:
+This grant update is providing information on grant applications proposed, not selected for award, grant
+applications submitted waiting selection and those that have been selected for award but have not yet been
+obligated in a grant agreement and not previously presented to the Board. There are 2 proposed grants, 0
+grants not selected, 20 grants that are awaiting selection and 3 grants have been selected for award and not
+yet in a grant funding agreement.
+DISCUSSION:
+Gregg Larsen, Manager of Grant Services will give a grants update
+ALTERNATIVES:
+NA
+FISCAL IMPACT:
+Local match for the awarded and requested grants will come from existing UTA capital project or operating
+Page 1 of 2
+30

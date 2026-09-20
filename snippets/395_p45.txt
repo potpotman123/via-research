@@ -1,0 +1,109 @@
+# source: raw/bleecker_drive/The Metropolitan Government of Nashville and Davidson County/2025_1155_Contract.pdf
+# path: raw/bleecker_drive/The Metropolitan Government of Nashville and Davidson County/2025_1155_Contract.pdf
+# hit page: 45 of 70
+# terms: Remix Technologies
+
+=== page 44 ===
+Docusign Envelope ID: FB67CC8E-A5D2-4D73-ADD1-FC7AE1463C8E
+DEPARTMENT
+of FINANCE
+DIVISION OF PURCHASES
+PURCHASING.NASHVILLE.GOV
+Sole Source Signature Form
+Sole Source Number
+Date Received
+552024153
+June 25, 2024
+To Whom It May Concern,
+I have read the attached Sole Source Review and concur with the recommendation contained
+therein.
+Should you have questions, please contact the reviewer or reach out to me directly.
+Regards,
+Dennis Rowland
+Dennis Rowland
+Purchasing Agent & Chief Procurement Officer
+7/3/2024 | 9:31 AM CDT
+Date Signed
+=== page 45 ===
+Docusign Envelope ID: FB67CC8E-A5D2-4D73-ADD1-FC7AE1463C8E
+M remix
+by @via
+Remix Technologies, LLC
+Documentation of Unique Functionality and Features
+EXECUTIVE SUMMARY
+Remix is the only provider of integrated transportation planning software that can
+connect street design to transit planning, mobility management, and flexible data
+analysis, enabling transportation professions with the complete mobility toolkit.
+The software empowers 350+ local governments and over 11,000 transportation
+professionals to plan safer street infrastructure and better public transit. Remix
+Technologies, LLC brings decades of transportation expertise alongside
+accomplished software development experience to provide technology specifically
+designed for local government.
+With Remix's flexible and robust data analysis capabilities, the Remix platform is
+the only transportation software specifically designed to help professionals
+integrate equity analysis into all workflows. Remix is built on, and champions,
+open data standards, making us uniquely positioned to work within an agency's
+existing processes, and minimizes an organization's risk for vendor lock-in,
+maximizing the potential for collaboration. Remix is the first and only collaborative
+mapping platform made to be used by multiple departments across a diverse set
+of stakeholders and, unlike other technology offerings, is intentionally designed for
+community engagement.
+Remix is cloud-based and provides an unlimited number of user accounts within a
+customer organization, providing the flexibility to use Remix at home offices, team
+meetings, or stakeholder outreach, as well as access to the most-up-to-date
+version of Remix without hidden update fees or costly en-premise installation and
+maintenance. Remix is updated continuously based on customer feedback and
+research; in 2020, the product development team launched over 120 new features
+to the platform. Remix's best-in-class software is paired with Remix's expert
+customer success team, a team of consultants and transportation professionals to
+support the long-term success of our clients' transportation programs and
+projects. Each customer organization is assigned a dedicated Customer Success
+Manager, ready to ensure an organization is thriving from the moment it becomes
+a customer. When an organization procures Remix, they don't just procure
+technology — they procure transportation expertise, influence in software
+innovation, and access to Remix's large network of planning professionals.
+1128 Howard St.
+SF, CA 94103
+remix.com
+PROPRIETARY & CONFIDENTIAL
+=== page 46 ===
+Docusign Envelope ID: FB67CC8E-A5D2-4D73-ADD1-FC7AE1463C8E
+> remix
+by @via
+Key Distinguishing Features
+Powerfu
+multimodal
+analysis
+Remix is the only provider
+of integrated transportation
+planning software.
+REMIX STREETS
+Remix Streets is the only platform to explore new street design concepts,
+make data-driven decisions, and move a team's early-stage
+infrastructure projects forward, faster. Unique specifications include:
+→ Cloud-based software with drag-and-drop interface for right-of-way street
+design
+Initial concepts pull in OpenStreetMap data to auto-populate existing
+conditions for roads
+→ Plan view provides flexibility to incorporate changing conditions within a
+corridor
+→ Copy/paste, delete, and undo functionality
+→ Opacity controls to clearly see satellite imagery while designing
+→ Advanced Editing tools to create curves, tapers, and complicated
+intersections with precision
+→ Out-of-the-box or user uploaded Street Elements to add detail and clarity to
+street designs - Street Elements include MUTCD street signage,
+landscaping features, traffic signals, and more
+→ Out-of-the-box and custom data layer uploads like collisions and traffic
+volumes, to help make data-driven decisions
+ADDITIONAL PLATFORMS FOR HOLISTIC MULTIMODAL ANALYSIS:
+REMIX TRANSIT
+Remix Transit is the first platform for public transit where an agency can
+design and evaluate anything from a route detour to a full system
+redesign, and everything in between.
+REMIX MOBILITY
+Remix Mobility is the only planning-focused mobility platform where you
+can manage shared mobility programs within the context of the broader
+transportation ecosystem.
+2
+PROPRIETARY & CONFIDENTIAL

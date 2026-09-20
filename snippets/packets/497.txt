@@ -1,0 +1,218 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Miami Dade/231379.pdf
+# pages_total: 13; hit_pages: [1, 2, 4, 5, 6, 9, 11, 12]; included: [5, 9, 11, 12]
+# context: Bleecker Drive folder: Miami Dade
+
+=== page 5 of 13 ===
+Honorable Chairman Oliver G. Gilbert, III 
+and Members, Board of County Commissioners 
+Page 5 
+assistance downloading and creating a GO Connect account. The agents are well trained in the 
+specifics of the service and River North Transit, LLC has a process for keeping agents informed 
+as the service evolves over time. Additionally, the call center operates in both English and Spanish 
+and leverages a translation service should riders request a different language. 
+•
+Marketing Services: River North Transit, LLC has developed marketing materials (e.g., user
+guidelines, pamphlets with service information material, photos, etc.) with the GO Connect
+branding used for promoting service. The team has also developed an on-going marketing plan
+that targets communities within service zones.
+•
+Experience Servicing Large Service Zones: River North Transit, LLC is operating a service that is
+similar to Miami-Dade’s in King County, Washington and Jersey City, New Jersey. It has a long
+track record as the industry leader of providing turnkey microtransit services for municipalities at
+scale.
+Most importantly, the communities in the current service zones are already familiar with the program and 
+mobile app. Splitting providers can lead to a poor rider experience as riders have to learn multiple 
+technologies and switch between fleets as they pass through the County. River North Transit, LLC is 
+uniquely positioned to support the upcoming deployment of the Better Bus Network and South Dade Bus 
+Rapid Transit, improving the overall rider experience. Furthermore, it is the only microtransit service 
+vendor that offers the ability to deploy on-demand autonomous vehicles, with successful AV deployments 
+in both Arlington, Texas and Grand Rapids, Michigan. Accordingly, it is in the County’s best interest to 
+approve this designated purchase pursuant to Section 2-8.1(b)(3) of the Code. Pursuant to Resolution No. 
+R-391-17, while competition is not feasible at this time, the contract contains all current Board mandated
+terms.
+Scope 
+The impact of this item is countywide in nature. 
+Delegated Authority 
+The County Mayor or the County Mayor’s designee will have the authority to execute Supplemental 
+Agreement No. 3 and exercise all provisions of the contract, including any renewals, cancellation or 
+extensions, pursuant to Section 2-8.1 of the County Code and Implementing Order 3-38. 
+Fiscal Impact/Funding Source 
+The fiscal impact is $11,837,375 for the 18-month option to renew term and associated designated 
+purchase. The current contract term expires on August 31, 2023, and the option to renew term will 
+commence on September 1, 2023. The contract has a current cumulative allocation of $5,596,200. If this 
+request is approved, the contract will have a modified cumulative allocation of $17,433,575 and will expire 
+on March 31, 2025.  The additional expenditure being requested was approved by the Board as part of 
+the Fiscal Year 2022-23 County budget. The cost for operating GO Connect within the municipal area of 
+the Town of Cutler Bay will be fully reimbursed by the Town of Cutler Bay. 
+Department 
+Current 
+Cumulative 
+Allocation 
+Predetermined 
+Allocation for 
+the Option to 
+Renew Term 
+Designated 
+Purchase for 
+the Option to 
+Renew Term 
+Modified 
+Cumulative 
+Allocation 
+Funding 
+Source 
+Contract 
+Manager 
+DTPW 
+$5,596,200 
+$2,310,375 
+$9,527,000 
+$17,433,575 
+State 
+Funds and 
+DTPW 
+Operating 
+Carlos Cruz-
+Casas, P.E. 
+Total 
+$5,596,200 
+$2,310,375 
+$9,527,000 
+$17,433,575 
+MDC005
+
+=== page 9 of 13 ===
+[[$4,620,750.00]] >>$2,310,375.00<< for Contract No. RFP-01083 for on-demand transit services 
+for the Department of Transportation and Public Works.  
+Section 2. 
+This Board finds it is in the best interest of Miami-Dade County to authorize 
+a designated purchase for the option to renew term in an amount not to exceed [[$18,237,237.00]] 
+>>$9,527,000.00<< 
+for 
+a 
+total 
+modified 
+contract 
+amount 
+of 
+[[$28,454,187.00]] 
+>>$17,433,575.00<<, pursuant to section 2-8.1(b)(3) of the Code of Miami-Dade County, by a 
+two-thirds vote of the Board members present.  
+Section 3. 
+This Board authorizes the County Mayor or County Mayor’s designee to 
+execute Supplemental Agreement No. 3, in substantially the form attached, and exercise all 
+provisions of the contract, including any renewal, cancellation or extension provisions, pursuant 
+to section 2-8.1 of the County Code. A copy of the contract document is on file with and available 
+upon request from the Strategic Procurement Department. 
+>>Section 4. This Board directs the County Mayor or County Mayor’s designee to
+prepare and provide a cost analysis report detailing the ridership, cost per rider, and trip distance 
+information for the on-demand transit services provided during the initial term of Contract No. 
+RFP-01083 to River North Transit, LLC. The completed report shall be placed on an agenda of 
+the full Board without committee review pursuant to rule 5.06(j) of the Board’s Rules of 
+Procedure.<< 
+MDC009
+Agenda Item No. 8(P)(2) 
+Page 2
+
+=== page 11 of 13 ===
+Miami-Dade County, FL    
+ Supplemental Agreement No. 3 to Contract No. RFP-01083 
+SUPPLEMENTAL AGREEMENT NO. 3 
+Contract Number: RFP-01083 
+Contract Title: 
+ON-DEMAND TRANSIT SERVICES 
+Contractor: 
+River North Transit, LLC 
+10 Crosby Street, 2nd Fl. 
+New York, NY 10013 
+In accordance with the above referenced Contract, this Supplemental Agreement, when properly executed, shall 
+become part of the Contract and amend the Contract as follows: 
+1.
+>>Article 5, Contract Term, of the Contract is hereby modified to reduce the option to renew term of this
+Contract from one (1) additional three-year period to one (1) additional 18-month period commencing on
+September 1, 2023 and expiring on March 31, 2025 at 11:59 pm. <<
+2.
+Attachment A, Price Schedule, of the Contract is hereby modified to insert the Pricing Schedule appended
+hereto in place of the Pricing Schedule appended to the Contract, to incorporate the following changes:
+a.
+Establish a billable hourly rate of $57.50, for the hours of service outside of the scope defined in
+Appendix A, Section 2.3 of the Contract.
+b.
+Include the cost of Dadeland Weekend service.
+c.
+Add vehicles to meet growth in ridership.
+d.
+>>Add new service zones.<<
+e.
+Include pricing and budget for May Mobility Autonomous Vehicles to be added to the service.
+3.
+Attachment B, Integration Details, of the Contract is hereby modified to include the addition of the
+following:
+³Integration 5: Additional fees incurred to effect Transit app integration shall be reimbursed to Contractor
+by County at a cost recovery basis with no mark-up or other charges conditional upon County¶s receipt of
+a fully-executed contract between Contractor and Transit app for the benefit of the County. Fees eligible
+for reimbursement are a monthly service fees at a rate not to exceed $1,500 per month unless amended by
+mutual written agreement.´
+4.
+The parties agree to the following changes to the Contract allocations:
+a.
+The total contract value of the [[three option to renew years]] >>18-month option to renew term<< is
+increased by [[$4,856,477]]  >>$2,500,000 << from [[$4,620,750]] >>$2,310,375<< to [[$9,477,227]]
+to >> $4,810,375<< to account for growth in the base contract years and continued estimated growth
+in the [[three option years]]  >>18-month option period<<.
+b.
+>>The total contract value of the 18-month option to renew term is further increased by $3,500,000
+from $4,810,375 to $8,310,375 to account for the implementation of new service zones. <<
+c.
+The total contract value of the [[three option to renew years]] >>18-month option to renew term<<  is
+further increased by [[$6,976,760]]  >>$3,500,000<< from [[$9,477,227]] >>$8,310,375<< to
+[[$16,453,987]] >>$11,810,375<< to account for the addition of Autonomous Vehicles to the Go-
+MDC0011
+
+=== page 12 of 13 ===
+Miami-Dade County, FL  
+  Supplemental Agreement No. 3 to Contract No. RFP-01083 
+Page 2 of 3
+Connect service. County and Contractor will work together to refine and agree upon the exact scope 
+and timeline of the addition of the May Mobility autonomous vehicles to the service.  Such agreement 
+shall be set forth in writing in an amendment to the Agreement. 
+d.
+The total contract value of the [[three option to renew years]] >>18-month option to renew term<< is
+further increased by [[$54,000]] >>$27,000<< from [[$16,453,987]] >>$11,810,375<< to
+[[$16,507,987]]  >>$11,837,375<<  to account for the monthly costs of integration between River North
+Transit, LLC and Transit App on behalf of the County.
+[[The scope of services is hereby amended in include the implementation of new service zones,
+allocated in the amount of $6,350,000.]]
+The >>total<< amount of this change >>and Miami-Dade County¶s total expenditure authority pursuant 
+to this Supplemental Agreement No. 3<< is [[$18,237,237]] >>$11,837,375<<. 
+This Supplemental Agreement, when executed, will increase the total contract allocation, base term ($5,596,200) 
+and Option to Renew [[($4,620,750)]]  >>($2,310,375)<<  by [[$18,237,237]]  >>$9,527,000<<  from 
+[[$10,216,950]]  >>$7,906,575<<  to [[$28,454,187]]  >>$17,433,375<<.  The contract amount for the base term 
+was increased by $932,700[[, via an internal budget adjustment]]. >>on March 7, 2023<<. 
+These changes are subject to approval by the Board of County Commissioners. 
+All other terms, covenants and conditions of the original Contract and any prior Supplemental Agreements 
+issued thereto shall remain in full force and effect, except to the extent herein amended. 
+IN WITNESS WHEREOF, the parties have executed this Supplemental Agreement No. 3 to County Contract No. 
+RFP-01083, On-Demand Transit Services. 
+River North Transit, LLC 
+Miami-Dade County 
+By: _________________________ 
+By: __________________________  
+Name: ______________________ 
+Name: Daniella Levine Cava          . 
+Title: ________________________ 
+Title: Mayor       
+  . 
+Date: ________________________ 
+Date: _________________________ 
+Attest: _______________________ 
+Attest: ________________________ 
+  Corporate Secretary/Notary 
+  Clerk of the Board 
+Corporate Seal/Notary 
+Approved as to form 
+and legal sufficiency 
+______________________________ 
+Assistant County Attorney 
+MDC0012

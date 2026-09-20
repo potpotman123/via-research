@@ -1,0 +1,58 @@
+# source: raw/bleecker_drive/Suffolk County/Via - Getting Microtransit Right.pdf
+# path: raw/bleecker_drive/Suffolk County/Via - Getting Microtransit Right.pdf
+# hit page: 22 of 26
+# terms: Via Transit, Via+drivers, Via+per trip, Via+vehicles
+
+=== page 21 ===
+6470
+@ ARRIVA
+Q ARRIVA
+Optimizing the bus
+frequency/coverage tradeoff
+=== page 22 ===
+Every transit agency has to decide how best to allocate its scarce resources
+-- there are, after all, never enough buses and drivers to provide high-
+quality service everywhere. With Via, transit agencies can reduce costs by
+providing real-time demand-responsive service using smaller vehicles in
+low-density areas, while freeing up bus capacity for high-demand corridors.
+VIA'S CREDENTIALS
+We know what it takes to make microtransit successful in diverse areas because we've done it
+many times in places as disparate as Orange County (CA) and Brooklyn, New York. We suggest
+the following quality of service and productivity benchmarks for a mature lower-density
+microtransit service:
+Type of
+market
+Average
+wait time
+(Minutes)
+Urban
+Suburban
+10
+Average
+trip time
+compared
+to private
+car trip
+(Minutes)
+>1.5
+>3.5
+Rides per
+vehicle/hr
+% Utilization
+improvement
+(Based on US
+average of 2.0)
+% Cost
+reduction per
+trip (Based
+on US average
+of $35/trip)
+4-6
+3-5
+100-200%
++50%
+>50%
+>40%
+=== page 23 ===
+Upgrading paratransit and
+dial-a-ride

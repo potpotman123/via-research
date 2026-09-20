@@ -1,0 +1,149 @@
+# source: raw/bleecker_drive/Capital Area Transit System/RFP_2025-BakerMicrotransit-001.pdf
+# path: raw/bleecker_drive/Capital Area Transit System/RFP_2025-BakerMicrotransit-001.pdf
+# hit page: 24 of 74
+# terms: Via+drivers, Via+turnkey
+
+=== page 23 ===
+23 
+ 
+added to the list shall be provided to CATS prior to performing tasks as an Operator for the 
+Rideshare Service. 
+• 
+General information sheet for each driver 
+• 
+Copy of current valid Louisiana driver’s license 
+• 
+Copy of CPR/First Aid certification 
+• 
+Copy of Drug and Alcohol Training attendance/certification 
+• 
+Copy of Defensive Driving Course attendance/certification 
+• 
+Copy of Sensitivity Training attendance 
+• 
+Copy of Criminal Background Check 
+• 
+Copy of passed drug test 
+ 
+The proposer shall clearly demonstrate that insurance and liability coverage will be provided for 
+drivers. Proposals that include the use of unionized labor must clearly state all terms and conditions 
+that may influence Project operations. 
+ 
+G. INSTALL AND IMPLEMENT SOFTWARE AND HARDWARE COMPONENTS 
+Software and Hardware Installation Plan 
+The Proposer shall develop a software and hardware installation plan that will be approved by CATS 
+Project Manager. The installation plan will detail all the necessary tasks and the schedule to 
+complete the installation of all software and hardware. 
+In conformance to the Technology Platform Documentation and Software and Hardware Installation 
+Plan, the Proposer shall perform the following: 
+• 
+Installation of the suite of modules contained in the software component 
+• 
+Application of all configurations identified in the Software Solution Design 
+• 
+Installation of necessary hardware on vehicles 
+• 
+Test suite of modules 
+• 
+System acceptance testing 
+• 
+Mock go-live 
+• 
+Go live/roll out 
+ 
+H. SYSTEM AND USER TRAINING 
+This Project is expected to be provided by the selected Proposer as a full-turnkey solution with 
+minimal City staff resources needed to implement the service. However, the Proposer shall provide 
+training and manuals for CATS staff needed to monitor, assess, access data, and develop reports 
+using the dashboard and other tools provided by the Proposer. The Proposer shall also ensure
+=== page 24 ===
+24 
+ 
+adequate and complete training of drivers takes place prior to placing the drivers on the Approved 
+Drivers List submitted to CATS.  
+I. TECHNICAL SUPPORT 
+The Proposer shall provide ongoing technical support for the duration of the Project, which will be 
+one year from the start of revenue service. The Proposer should indicate the level of technical 
+support and ongoing monitoring that will be provided to ensure the system is functioning properly. 
+Software upgrades should be provided as soon as they are available. Technical support could 
+include but is not limited to: 
+1. Application and User Support: 
+• 
+Phone and email responses to software failures or questions within one business day 
+• 
+Assistance with questions on use of approved software configuration and software version 
+• 
+Availability of experts to confer on software new release installation and fixes to bugs 
+• 
+Software upgrades 
+2. Hardware Support: 
+• 
+Troubleshooting hardware or network failure 
+• 
+Assistance with technical recommendations focused on improving system performance 
+ 
+J. CUSTOMER SERVICE 
+Customer service shall be available to riders while the Rideshare Service is in operation. CATS 
+expects this service as part of the overall turnkey approach and will not have staff available to 
+respond to customer service requests. 
+• 
+Riders shall have immediate access to customer service assistance via mobile application or 
+phone call at any point while service is in operation. 
+• 
+Customer service concerns related to safety shall be addressed immediately and reported to 
+CATS within two (2) hours. 
+• 
+CATS shall have access to all customer service comments, questions, requests, or 
+complaints. 
+ 
+K.  DEPLOYMENT PLAN 
+The proposer shall submit a draft plan for CATS Project Manager approval detailing all tasks 
+necessary to deploy the Project. Include timelines and indicate responsible parties. Tasks may 
+include but are not limited to: 
+• 
+Vehicle Procurement and Branding 
+• 
+Stop or Station Preparation (if fixed stops are used)
+=== page 25 ===
+25 
+ 
+• 
+Driver Procurement and Training 
+• 
+Administrative processes 
+• 
+Compliance with Safety and Drug/Alcohol policies 
+• 
+Test runs 
+• 
+Promotional Events & Marketing 
+• 
+Full-Service Deployment 
+ 
+L. MARKETING/PROMOTIONS PLAN AND IMPLEMENTATION 
+The proposer shall develop a comprehensive marketing and promotions plan based upon previous 
+experience deploying a new rideshare or similar service. CATS envisions a combination of hard copy 
+marketing materials, promotional events and subsidies, and online advertising. Strategic and robust 
+marketing of the Project will be critical to its success. Proposers shall conduct a minimum of five (5) 
+marketing events in addition to ongoing electronic, print, and social media related marketing efforts. 
+M.  DRUG AND ALCOHOL TESTING 
+U.S. Department of Transportation regulations require that any contractor that provides 
+transportation services to a Federal Transit Administration (FTA) grant recipient (i.e., CATS) must 
+establish and maintain a program for the prevention of prohibited drug use and alcohol misuse in 
+transit operations. This anti-drug use and alcohol misuse program must include a written substance 
+abuse policy and drug and alcohol testing program in accordance with Federal regulations as 
+contained in 49 CFR Part 40, 49 CFR655, and 49 CFR Part 29. All relevant FTA documents and 
+regulations are included in the RFP. 
+Successful bidders will have in place a comprehensive anti-drug use and alcohol misuse program, 
+which meets or exceeds all Federal requirements. CATS will, from time to time, audit the contractor’s 
+records and drug testing program to ensure total compliance. All successful contractors shall be 
+required to comply with this requirement. 
+The contractor agrees to carry out pre-employment and other drug testing as to all safety-sensitive 
+employees and subcontractors performing safety-sensitive functions related to this service. The 
+contractor agrees to NOT hire or contract with any persons who test positive for substances 
+prohibited under the approved contractor drug and alcohol policy to perform any services under this 
+contract. 
+SMOKE-FREE WORKPLACE 
+CATS is a smoke-free workplace employer. The CATS Board of Commissioners has also adopted 
+a policy requiring CATS construction and service contractors to provide a smoke-free workplace in 
+the performance of any city contract. Smoking on CATS property is prohibited at all times.

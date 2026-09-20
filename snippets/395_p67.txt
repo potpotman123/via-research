@@ -1,0 +1,235 @@
+# source: raw/bleecker_drive/The Metropolitan Government of Nashville and Davidson County/2025_1155_Contract.pdf
+# path: raw/bleecker_drive/The Metropolitan Government of Nashville and Davidson County/2025_1155_Contract.pdf
+# hit page: 67 of 70
+# terms: Remix Technologies
+
+=== page 66 ===
+Contract Purchase Agreement 6577813 
+Contract Purchase Agreement # 
+ 
+Document # K5000 Rev C 
+ 
+12 
+ 
+Formatted: Right
+shall pay all expenses of such action incurred at any and all stages of the litigation, including costs, and reasonable 
+attorney fees for METRO and any costs awarded by the final judgment, . 
+ 
+8.23. Assignment--Consent Required 
+ 
+The provisions of this Contract shall inure to the benefit of and shall be binding upon the respective successors and 
+assignees of the parties hereto.  Except for the rights of money due to CONTRACTOR under this Contract, neither 
+this Contract nor any of the rights and obligations of CONTRACTOR hereunder shall be assigned or transferred in 
+whole or in part without the prior written consent of METRO.  Any such assignment or transfer shall not release 
+CONTRACTOR from its obligations hereunder. 
+NOTICE OF ASSIGNMENT OF ANY RIGHTS TO MONEY DUE TO CONTRACTOR UNDER THIS 
+CONTRACT MUST BE SENT TO THE ATTENTION OF:  
+ 
+ 
+PRG@NASHVILLE.GOV (preferred method) 
+OR 
+METRO PURCHASING AGENT 
+DEPARTMENT OF FINANCE 
+PROCUREMENT DIVISION 
+PO BOX 196300 
+NASHVILLE, TN 37219-6300  
+ 
+Funds Assignment Requests should contain complete contact information (contact person, organization name, 
+address, telephone number, and email) for METRO to use to request any follow up information needed to complete or 
+investigate the requested funds assignment. To the extent permitted by law, METRO has the discretion to approve or 
+deny a Funds Assignment Request. 
+ 
+8.24. Entire Contract 
+ 
+This Contract sets forth the entire agreement between the parties with respect to the subject matter hereof and shall 
+govern the respective duties and obligations of the parties. 
+ 
+8.25. Force Majeure 
+ 
+No party shall have any liability to the other hereunder by reason of any delay or failure to perform any obligation or 
+covenant if the delay or failure to perform is occasioned by force majeure, meaning any act of God, storm, fire, 
+casualty, unanticipated work stoppage, strike, lockout, labor dispute, civil disturbance, riot, war, national emergency, 
+act of Government, act of public enemy, or other cause of similar or dissimilar nature beyond its control.  
+ 
+8.26. Governing Law 
+ 
+The validity, construction, and effect of this Contract and any and all extensions and/or modifications thereof shall 
+be governed by the laws of the State of Tennessee. Tennessee law shall govern regardless of any language in any 
+attachment or other document that CONTRACTOR may provide. 
+ 
+8.27. Venue 
+ 
+Any action between the Parties arising from this Contract shall be maintained in the courts of Davidson County, 
+Tennessee. 
+ 
+8.28. Severability 
+ 
+Should any provision of this Contract be declared to be invalid by any court of competent jurisdiction, such 
+provision shall be severed and shall not affect the validity of the remaining provisions of this Contract. 
+ 
+[BALANCE OF PAGE IS INTENTIONALLY LEFT BLANK] 
+	
+		
+
+=== page 67 ===
+Certificate Of Completion
+Envelope Id: FB67CC8E-A5D2-4D73-ADD1-FC7AE1463C8E
+Status: Sent
+Subject: URGENT!!! Metro Contract 6577813 with Remix Technologies, LLC (NDOT)
+Source Envelope: 
+Document Pages: 68
+Signatures: 10
+Envelope Originator: 
+Certificate Pages: 17
+Initials: 4
+Procurement Resource Group
+AutoNav: Enabled
+EnvelopeId Stamping: Enabled
+Time Zone: (UTC-06:00) Central Time (US & Canada)
+730 2nd Ave. South 1st Floor
+Nashville, TN  37219
+prg@nashville.gov
+IP Address: 170.190.198.185
+Record Tracking
+Status: Original
+             3/5/2025 1:44:06 PM
+Holder: Procurement Resource Group
+             prg@nashville.gov
+Location: DocuSign
+Security Appliance Status: Connected
+Pool: StateLocal
+Storage Appliance Status: Connected
+Pool: Metropolitan Government of Nashville and 
+Davidson County
+Location: Docusign
+Signer Events
+Signature
+Timestamp
+Gary Clay
+Gary.Clay@nashville.gov
+Asst. Purchasing Agent
+Security Level: Email, Account Authentication 
+(None)
+Signature Adoption: Uploaded Signature Image
+Using IP Address: 170.190.198.185
+Sent: 3/26/2025 11:16:14 AM
+Viewed: 3/26/2025 12:48:24 PM 
+Signed: 3/26/2025 12:48:31 PM
+Electronic Record and Signature Disclosure: 
+      Not Offered via Docusign
+Kristin C. Kumrow
+Kristin.Kumrow@nashville.gov
+Security Level: Email, Account Authentication 
+(None)
+Signature Adoption: Pre-selected Style
+Using IP Address: 170.190.198.240
+Sent: 3/26/2025 12:48:34 PM
+Viewed: 3/26/2025 12:49:19 PM 
+Signed: 3/26/2025 12:49:45 PM
+Electronic Record and Signature Disclosure: 
+      Accepted: 3/26/2025 12:49:19 PM
+      ID: a9017f10-cab5-4207-95f6-86277a5b0716
+Alla Cross
+alla.cross@nashville.gov
+Security Level: Email, Account Authentication 
+(None)
+Signature Adoption: Pre-selected Style
+Using IP Address: 170.190.198.185
+Sent: 3/26/2025 12:49:49 PM
+Viewed: 3/26/2025 1:57:05 PM 
+Signed: 3/26/2025 1:57:19 PM
+Electronic Record and Signature Disclosure: 
+      Accepted: 3/26/2025 1:57:05 PM
+      ID: 300e8ecf-bb1b-41fe-9c05-6a906f4059ee
+Dillon Twombly
+dillon@ridewithvia.com
+Manager
+Remix Technologies, LLC
+Security Level: Email, Account Authentication 
+(None)
+Signature Adoption: Pre-selected Style
+Using IP Address: 73.100.179.2
+Sent: 3/26/2025 1:57:23 PM
+Viewed: 3/26/2025 2:28:00 PM 
+Signed: 3/26/2025 2:28:44 PM
+Electronic Record and Signature Disclosure:
+=== page 68 ===
+Signer Events
+Signature
+Timestamp
+      Accepted: 3/26/2025 2:28:00 PM
+      ID: cae48db4-bf73-4a0c-a385-b11c3b5e8e10
+Dennis Rowland
+dennis.rowland@nashville.gov
+Purchasing Agent & Chief Procurement Officer
+Security Level: Email, Account Authentication 
+(None)
+Signature Adoption: Pre-selected Style
+Using IP Address: 170.190.198.185
+Sent: 3/26/2025 2:28:48 PM
+Viewed: 3/26/2025 3:28:18 PM 
+Signed: 3/26/2025 3:28:46 PM
+Electronic Record and Signature Disclosure: 
+      Not Offered via Docusign
+Diana Alarcon
+diana.alarcon@nashville.gov
+Director
+Metro Nashville
+Security Level: Email, Account Authentication 
+(None)
+Signature Adoption: Pre-selected Style
+Using IP Address: 170.190.198.240
+Sent: 3/26/2025 3:28:49 PM
+Viewed: 3/26/2025 3:31:18 PM 
+Signed: 3/26/2025 3:31:51 PM
+Electronic Record and Signature Disclosure: 
+      Accepted: 3/26/2025 3:31:18 PM
+      ID: dd3ff832-d2c0-412d-a049-52acda728ed2
+Jenneen Reed/MAL
+michelle.Lane@nashville.gov
+Deputy Director of Finance 
+Metro
+Security Level: Email, Account Authentication 
+(None)
+Signature Adoption: Pre-selected Style
+Using IP Address: 170.190.198.185
+Sent: 3/26/2025 3:31:58 PM
+Viewed: 3/26/2025 3:32:29 PM 
+Signed: 3/26/2025 3:32:47 PM
+Electronic Record and Signature Disclosure: 
+      Not Offered via Docusign
+Jenneen Reed/mjw
+MaryJo.Wiggins@nashville.gov
+Security Level: Email, Account Authentication 
+(None)
+Signature Adoption: Pre-selected Style
+Using IP Address: 170.190.198.185
+Sent: 3/26/2025 3:32:52 PM
+Viewed: 3/26/2025 3:43:14 PM 
+Signed: 3/26/2025 3:45:07 PM
+Electronic Record and Signature Disclosure: 
+      Accepted: 3/26/2025 3:43:14 PM
+      ID: 9a23b8c7-aea9-4452-b237-711a10d1714d
+Sally Palmer
+sally.palmer@nashville.gov
+Security Level: Email, Account Authentication 
+(None)
+Completed
+Using IP Address: 170.190.198.100
+Sent: 3/26/2025 3:45:13 PM
+Viewed: 3/27/2025 8:58:19 AM 
+Signed: 3/27/2025 10:51:29 AM
+Electronic Record and Signature Disclosure: 
+      Accepted: 3/27/2025 8:58:19 AM
+      ID: 4f1bd9d2-5b33-4d7c-9ef4-02708a07049c
+Balogun Cobb
+balogun.cobb@nashville.gov
+Insurance Division Manager
+Security Level: Email, Account Authentication 
+(None)
+Signature Adoption: Pre-selected Style
+Using IP Address: 170.190.198.144
+Sent: 3/27/2025 10:51:36 AM
+Viewed: 4/1/2025 11:16:01 AM 
+Signed: 4/1/2025 11:16:14 AM
+Electronic Record and Signature Disclosure:

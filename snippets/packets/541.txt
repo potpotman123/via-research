@@ -1,0 +1,781 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Pierce County/04-08-24-BOC-Packet.pdf
+# pages_total: 50; hit_pages: [1, 5, 9, 10, 19, 20]; included: [1, 5, 9, 19, 20]
+# context: Bleecker Drive folder: Pierce County
+
+=== page 1 of 50 ===
+Board of Commissioners Regular Meeting Agenda  
+ 
+ 
+April 8, 2024 - 4:00 p.m.                                          
+ 
+ 
+ 
+ 
+ 
+Physical Meeting Location: 
+Pierce Transit Training Center 
+3720 96th Street SW 
+Lakewood, WA 98499
+Virtual Meeting Participation Information: 
+Dial: 1-253-215-8782 Meeting ID No. 83626450476 
+Webinar link: https://us02web.zoom.us/j/83626450476 
+                                                                                                    
+    
+ 
+Call to Order 
+ 
+ 
+ 
+Roll Call                                                                           
+ 
+Flag Salute and Land Acknowledgement 
+ 
+ 
+Presentations 
+ 
+ 
+1. Honoring Marty Van Scyoc for Operator of the 
+Month for March 2024 
+Scott Gaines 
+Assistant Transportation Manager 
+ 
+ 
+2. 2024 Q1 CTAG Update 
+ 
+Deirdre Maxwell 
+CTAG Member 
+ 
+Public Comment  
+ 
+Citizens wishing to provide comment will be given up to three minutes to comment on transit-related 
+matters regardless of whether it is an agenda item or not. The Chair, at his or her discretion, may reduce 
+the comment time to allow sufficient time for the Board to conduct business.  
+ 
+To request to speak virtually during public comment, please press the Raise Hand button near the 
+bottom of your Zoom window or press *9 on your phone. If speaking in person, please sign in at the 
+table at the back of the room. Your name or the last four digits of your phone number will be called out 
+when it is your turn to speak. Written comments may also be emailed to Djacobson@piercetransit.org. 
+ 
+ 
+Consent Agenda 
+ 
+ 
+1. Approval of Vouchers: March 1-31, 2024 
+ 
+ 
+2. Approval of Minutes: March 11, 2024 
+ 
+3. FS 2024-015, Authorize the Chief Executive Officer to Increase the Contract Spending Authority 
+by $175,835 with Via Transportation, Contract No. 1214 to provide Remix Software as a Service 
+Application, for a total Contract Spending Authority Amount of $321,631.50 
+ 
+ 
+4. FS 2024-016, Authorize the Chief Executive Officer to Increase the Contract Spending Authority 
+by $438,140 with Genfare, Contract No. 1306, to Extend the Service Years for Farebox System 
+Software Maintenance and Support Services, for a Total Contract Spending Authority Amount of 
+$707,224   
+ 
+ 
+5. FS 2024-017, Authorize the Chief Executive Officer to Increase the Contract Spending Authority 
+by 2,250,000 with Software House International, Contract No. 1210, to Extend the Service Years 
+of the Microsoft Enterprise Services License Agreement for a Total Contract Spending Authority of 
+$4,470,291
+
+=== page 5 of 50 ===
+CHK 
+CHK 
+CHK 
+CHK 
+CHK 
+EFT 
+EFT 
+EFT 
+EFT 
+EFT 
+EFT 
+EFT 
+EFT 
+EFT 
+EFT 
+EFT 
+EFT 
+EFT 
+EFT 
+EFT 
+EFT 
+EFT 
+EFT 
+CHK 
+EFT 
+EFT 
+EFT 
+EFT 
+EFT 
+EFT 
+00016537
+PUGET PAVING & CONSTRUCTION   
+Construction Narrows P&R 02/24
+162,075.25
+Payments for Fund 9 Total
+934,040.67
+Total Payments in Excess of $50,000.00
+5,272,287.85
+Apr 1, 2024   9:39:44 AM
+Page 1 of 2
+00016491
+WA ST DEPT OF REVENUE         
+Proofs (3) Enhanced Bus       
+17.17
+00016499
+ABSHER CONSTRUCTION COMPANY   
+ANGI FREIGHT BMP F/W 02/24    
+162,614.27
+00016510
+CONSTRUCT INC                 
+All other Items SpanTC 02/24  
+403,367.18
+00383001
+SECURITY SOLUTIONS NORTHWEST I
+Install Camera TMTC 02/24     
+145,999.80
+00016387
+HUITT-ZOLLARS INC             
+Prof Sv BMP F/W 01/27/24      
+58,773.24
+00016431
+US BANK CORPORATE PAYMENT SYST
+Permit Fee - Tire Shop Hoist  
+1,193.76
+ Self Insurance Fund
+Check
+Vendor
+Item/Service
+Amount
+Payments for Fund 4 Total
+0.00
+ Capital Fund
+Check
+Vendor
+Item/Service
+Amount
+00016535
+PETROCARD INC                 
+DIESEL USAGE
+74,216.60
+00016543
+SOUND TRANSIT                 
+FARES COLLECTED 02/24         
+58,111.24
+Payments for Fund 1 Total
+4,338,247.18
+00016492
+AWC EMPLOYEE BENEFIT TRUST    
+ER BGLI 03.24                 
+1,352,851.24
+00016493
+EMPOWER                       
+DEF COMP PP6 2024             
+92,516.74
+00016494
+ICMA RETIREMENT               
+DEF COMP CEO PP6 2024         
+258,695.68
+00016431
+US BANK CORPORATE PAYMENT SYST
+2024 GAM Virtual Conference   
+78,710.17
+00016467
+PETROCARD INC                 
+DIESEL USAGE
+71,078.05
+00016491
+WA ST DEPT OF REVENUE         
+01-71799-000 - BELLOWS; BELLOW
+54,325.74
+00016398
+PETROCARD INC                 
+DIESEL USAGE
+74,169.91
+00016424
+UNITED ENERGY TRADING LLC     
+CNG Supply 02/24              
+60,181.11
+00016427
+VIA TRANSPORTATION INC        
+Runner Svc Puy 02/24          
+96,088.68
+00016359
+ICMA RETIREMENT               
+DEF COMP CEO PP5 2024         
+269,016.27
+00016370
+BRIDGESTONE AMERICA           
+TIRE MILES 02/24              
+62,671.84
+00016384
+FIRST TRANSIT INC             
+ADA PARATRANSIT SVC 02/24     
+884,237.75
+00016323
+GOVERNMENTJOBS.COM INC        
+NEOGOV SUBSCRIPTION 3/24/24-3/23/25
+165,828.68
+00016354
+VIA TRANSPORTATION INC        
+RUN SVC PUY  01/24        
+90,974.68
+00016358
+EMPOWER                       
+DEF COMP PP5 2024             
+87,031.72
+00383018
+AT&T                          
+ADJ CRED ERR REV 10/23-01/24  
+60,815.15
+00383021
+CITY OF LAKEWOOD              
+DUES SS MILITARY PART 2024    
+55,980.20
+00016315
+CUMMINS INC                   
+MISC BUS INVENTORY PARTS
+94,914.09
+00382920
+UNIVERSAL PROTECTION SERVICE L
+SECURITY FIRST TRANSIT 01/26-02/29/24
+181,733.14
+00382965
+ATU LOCAL 758 CORP            
+EE DED PP6 2024               
+51,166.87
+00383010
+US BANK NA                    
+MISC BUSN EXPENSES
+62,931.63
+No Advance Travel Checks
+Total   $7,296,705.74
+Payments in Excess of $50,000 are as follows:
+     
+ Operating Fund
+Check
+Vendor
+Item/Service
+Amount
+PIERCE TRANSIT
+Board Payments Over $50,000
+Payments From: Mar 1, 2024 to Mar 31, 2024
+Cash and Investment Balance: $232,150,541.22
+     
+Payment Numbers CK 00382867 through CK 00383068  
+Wire Numbers EFT 00016305 through EFT 00016567  
+Page 3 of 48
+
+=== page 9 of 50 ===
+01
+EFT 
+00016340
+03/07/2024
+36,489.08 PARAMETRIX ENGINEERING        
+01
+EFT 
+00016341
+03/07/2024
+5,839.61 ROMAINE ELECTRIC CORP         
+01
+EFT 
+00016342
+03/07/2024
+330.00 SHUMAN LLC                    
+01
+EFT 
+00016343
+03/07/2024
+100.62 RS AMERICAS INC               
+01
+EFT 
+00016344
+03/07/2024
+1,935.86 SEATTLE AUTOMOTIVE DISTRIBUTIN
+01
+EFT 
+00016345
+03/07/2024
+880.80 SECURITYINSPECTION.COM INC    
+01
+EFT 
+00016346
+03/07/2024
+581.66 SOUND TRANSIT SMART CARD CENTR
+01
+EFT 
+00016347
+03/07/2024
+642.05 SOUTH TACOMA GLASS            
+01
+EFT 
+00016348
+03/07/2024
+1,711.92 STANDARD PARTS CORP           
+01
+EFT 
+00016349
+03/07/2024
+1,664.02 STAPLES INC                   
+01
+EFT 
+00016350
+03/07/2024
+1,237.60 UNIVERSAL AUTO GROUP 1        
+01
+EFT 
+00016351
+03/07/2024
+436.48 TACOMA SCREW PRODUCTS INC     
+01
+EFT 
+00016352
+03/07/2024
+28,896.44 THE AFTERMARKET PARTS CO LLC  
+01
+EFT 
+00016353
+03/07/2024
+2,985.64 VANNER INC                    
+01
+EFT 
+00016354
+03/07/2024
+90,974.68 VIA TRANSPORTATION INC        
+01
+EFT 
+00016355
+03/07/2024
+2,477.03 WOFSCO INC                    
+01
+EFT 
+00016356
+03/07/2024
+30,580.76 ASSOCIATED PETROLEUM          
+01
+EFT 
+00016357
+03/07/2024
+1,937.76 ZUMAR INDUSTRIES INC          
+01
+EFT 
+00016358
+03/08/2024
+87,031.72 EMPOWER                       
+01
+EFT 
+00016359
+03/08/2024
+269,016.27 ICMA RETIREMENT               
+01
+EFT 
+00016360
+03/08/2024
+17,815.50 NAVIA BENEFIT SOLUTIONS       
+01
+EFT 
+00016361
+03/08/2024
+15,168.85 TACOMA EMPLOYEES RETIREMENT SY
+01
+EFT 
+00016362
+03/08/2024
+5,202.91 WA ST CHILD SUPPORT REGISTRY  
+01
+EFT 
+00016363
+03/14/2024
+369.78 22ND CENTURY TECHNOLOGIES INC 
+01
+EFT 
+00016364
+03/14/2024
+8,922.50 A & E IMAGING                 
+01
+EFT 
+00016365
+03/14/2024
+23,135.00 AMERICAN CUSTODIAN INC        
+01
+EFT 
+00016366
+03/14/2024
+250.30 AIRGAS INC                    
+01
+EFT 
+00016367
+03/14/2024
+10,172.29 ALL STARZ STAFFING AND CONSULT
+01
+EFT 
+00016368
+03/14/2024
+6,820.05 AMAZON CAPITAL SERVICES INC   
+01
+EFT 
+00016369
+03/14/2024
+878.60 CONTINENTAL BATTERY COMPANY   
+01
+EFT 
+00016370
+03/14/2024
+62,671.84 BRIDGESTONE AMERICA           
+01
+EFT 
+00016371
+03/14/2024
+21.67 PACIFIC WELDING SUPPLY INC    
+01
+EFT 
+00016372
+03/14/2024
+90.38 CHRISTIAN CARLSON             
+01
+EFT 
+00016373
+03/14/2024
+1,206.04 CHRISTINE BARRY               
+01
+EFT 
+00016374
+03/14/2024
+487.19 CINTAS CORPORATION NO 2       
+01
+EFT 
+00016375
+03/14/2024
+28,273.68 CLEVER DEVICES LTD            
+01
+EFT 
+00016376
+03/14/2024
+1,400.00 COACHING SYSTEMS LLC          
+01
+EFT 
+00016377
+03/14/2024
+2,804.10 COGENT COMMUNICATIONS INC     
+01
+EFT 
+00016378
+03/14/2024
+12,290.72 CUMMINS INC                   
+01
+EFT 
+00016379
+03/14/2024
+165.00 DAVID TAUTALA                 
+01
+EFT 
+00016380
+03/14/2024
+6,886.62 DELL MARKETING LP             
+01
+EFT 
+00016381
+03/14/2024
+1,042.50 TRUCKPRO HOLDING CORPORTATION 
+01
+EFT 
+00016382
+03/14/2024
+3,108.00 DRUG FREE BUSINESS            
+01
+EFT 
+00016383
+03/14/2024
+178.18 ELLEN SCOTT                   
+01
+EFT 
+00016384
+03/14/2024
+884,237.75 FIRST TRANSIT INC             
+01
+EFT 
+00016385
+03/14/2024
+35,600.31 GILLIG LLC                    
+01
+EFT 
+00016386
+03/14/2024
+5,411.15 GRAINGER                      
+01
+EFT 
+00016387
+03/14/2024
+58,773.24 HUITT-ZOLLARS INC             
+01
+EFT 
+00016388
+03/14/2024
+61.33 KAMAN FLUID POWER LLC         
+01
+EFT 
+00016389
+03/14/2024
+343.10 KATHY WALTON                  
+01
+EFT 
+00016390
+03/14/2024
+227.69 KNOWBE4 INC                   
+01
+EFT 
+00016391
+03/14/2024
+474.17 MALLORY SAFETY & SUPPLY LLC   
+01
+EFT 
+00016392
+03/14/2024
+512.10 MOHAWK MFG & SUPPLY           
+01
+EFT 
+00016393
+03/14/2024
+1,036.70 MOTOROLA SOLUTIONS INC        
+01
+EFT 
+00016394
+03/14/2024
+1,600.75 MUNCIE RECLAMATION & SUPPLY CO
+01
+EFT 
+00016395
+03/14/2024
+1,025.61 NEOPART TRANSIT LLC           
+01
+EFT 
+00016396
+03/14/2024
+3,767.00 PACIFICA LAW GROUP LLP        
+01
+EFT 
+00016397
+03/14/2024
+2,935.99 PEAK INDUSTRIAL INC           
+01
+EFT 
+00016398
+03/14/2024
+74,169.91 PETROCARD INC                 
+01
+EFT 
+00016399
+03/14/2024
+160.71 PRINT NW                      
+01
+EFT 
+00016400
+03/14/2024
+3,120.90 QUADIENT FINANCE USA INC      
+01
+EFT 
+00016401
+03/14/2024
+612.71 QUALITY PRESS                 
+01
+EFT 
+00016402
+03/14/2024
+164.06 SHUMAN LLC                    
+01
+EFT 
+00016403
+03/14/2024
+45.14 RS AMERICAS INC               
+01
+EFT 
+00016404
+03/14/2024
+177.29 RYAN WHEATON                  
+01
+EFT 
+00016405
+03/14/2024
+591.61 SAMBA HOLDINGS INC            
+01
+EFT 
+00016406
+03/14/2024
+284.06 SCHETKY NORTHWEST SALES INC   
+01
+EFT 
+00016407
+03/14/2024
+98.55 SCOTT TUTTLE                  
+01
+EFT 
+00016408
+03/14/2024
+183.93 SEATTLE AUTOMOTIVE DISTRIBUTIN
+01
+EFT 
+00016409
+03/14/2024
+4,131.81 SHI INTERNATIONAL CORP        
+01
+EFT 
+00016410
+03/14/2024
+844.55 SOUND TRANSIT SMART CARD CENTR
+01
+EFT 
+00016411
+03/14/2024
+500.00 MARK W MEROD                  
+01
+EFT 
+00016412
+03/14/2024
+642.05 SOUTH TACOMA GLASS            
+01
+EFT 
+00016413
+03/14/2024
+2,606.79 SPORTWORKS GLOBAL LLC         
+01
+EFT 
+00016414
+03/14/2024
+996.06 STANDARD PARTS CORP           
+01
+EFT 
+00016415
+03/14/2024
+86.36 STERICYCLE INC                
+01
+EFT 
+00016416
+03/14/2024
+15.00 STEVE ADAMS                   
+01
+EFT 
+00016417
+03/14/2024
+1,284.11 UNIVERSAL AUTO GROUP 1        
+01
+EFT 
+00016418
+03/14/2024
+234.38 TACOMA SCREW PRODUCTS INC     
+01
+EFT 
+00016419
+03/14/2024
+10,158.38 THE WW WILLIAMS COMPANY LLC   
+01
+EFT 
+00016420
+03/14/2024
+153.96 TINY'S TIRE                   
+01
+EFT 
+00016421
+03/14/2024
+1,339.62 TITUS-WILL FORD SALES INC     
+01
+EFT 
+00016422
+03/14/2024
+3,251.43 THE AFTERMARKET PARTS CO LLC  
+Page 7 of 48
+
+=== page 19 of 50 ===
+Board of Commissioners 
+Fact Sheet No.:  2024-015 
+Date: April 8, 2024  
+ 
+ 
+ 
+TITLE:   Authority to Increase the Contract Spending 
+Authority with Via Transportation, Contract No. 1214, for 
+the Transit Planning Software and to Extend the Service 
+Years of the Contract   
+DIVISION:   Planning & Community Development   
+ 
+SUBMITTED BY:   Brent Campbell, IT Assistant Manager 
+ 
+ 
+RELATED ACTION: 
+N/A 
+ 
+ATTACHMENTS: 
+N/A
+ 
+ 
+ 
+RELATION TO STRATEGIC PLAN:   Internal 
+BUDGET INFORMATION 
+ 
+Is it Budgeted? ☒ Yes / ☐ No 
+Project Name or Number:  
+ 
+☒Operating Budget                               
+☐Capital Budget   
+ 
+CONTRACT SUMMARY 
+Current Contract 
+Authority 
+ 
+$ 145,796.50 
+This Increase Request 
+$ 175,835.00 
+New Contract 
+Authority   
+$ 321,631.50 
+EXPLANATION: 
+This amendment will be for up to three additional 
+years. The annual costs, inclusive of sales tax, are 
+detailed as follows: $54,725.00 for 2024, 
+$58,520.00 for 2025, and $62,590 for 2026.  
+ 
+BACKGROUND:  
+ 
+In 2018 the Chief Executing Officer authorized the sole-source selection of the Remix software (now provided by 
+Via Software). 
+ 
+The Pierce Transit Planning Department uses Remix for fixed route scenario planning and testing of potential routes.  
+It allows planning to plan a route, and then identify predictive schedule and fleet requirements. This software is 
+also used for long range planning and coordination with partner agencies. Another module that is part of this 
+agreement is the Remix on Demand Planning License.  This allows planning to predict use of potential new on-
+demand service areas as well as manage existing Runner Zones.  This contract will combine both maintenance 
+agreements together under one contract. 
+ 
+ 
+ 
+ 
+ 
+Page 17 of 48
+
+=== page 20 of 50 ===
+FACT SHEET 
+PAGE 2 
+ 
+ 
+ 
+STAFF RECOMMENDATION: 
+ 
+Staff recommends increasing the contract amount by $175,835.00 to extend the years of service on this contract 
+so that the agency can continue to conduct essential fixed route and on demand planning scenarios of existing and 
+potential routes.  
+ 
+ALTERNATIVES: 
+ 
+Do not authorize the contract extension and stop using Remix.  This is not recommended as it would remove access 
+to a tool that our planning department relies upon. 
+ 
+PROPOSED MOTION: 
+ 
+Move to: Authorize the Chief Executive Officer to increase to the contract spending authority by $175,835 with Via 
+Transportation, Contract No. 1214, to extend the service years of the contract for a total contract spending authority 
+of $321,631.50.   
+Page 18 of 48

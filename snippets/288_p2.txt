@@ -146,3 +146,42 @@ Via will notify Customer if Customer is within 1 hour of exceeding the capped ho
 System Adjustments and/or Consulting Services. If requested, hours beyond those set out above will be charged on an 
 hourly rate.
 === page 3 ===
+(d) Additional Services. Via can provide optional add-on services, including consulting, web-based booking portal,
+fixed route referral, live agent support, multi-modal or third party trip planner integrations, media and advertising
+services, marketing support, or access to our Remix® transit planning software for an additional fee. More details
+available upon request.
+Customer Responsibilities.
+(a) General. Customer will operate and manage the Deployment as set forth in the Terms, Customer shall cooperate
+with Via as necessary for the purpose of setting up the Deployment and its specifications, including by providing
+prompt feedback to Via's inquiries and providing local insights, in order to meet mutually agreed upon deadlines.
+(b) Launch. Within one week of signing this Order, the Parties will mutually agree on the targeted launch date of the
+Deployment ("Launch"). The launch date will be finalized after the first phase of the launch process is complete
+and the Customer has approved the Design document in writing. Launch shall be no fewer than 12 weeks following
+execution of this order. In the event that the Launch date is moved at Customer's request or delayed due to
+Customer's inaction, Customer will be charged a Technology Fee (as defined in Section "Fees" below) to
+accommodate hosting and other direct IT costs.
+(c) Zone: Customer and Via will agree at least three months prior to launch on the exact geographical scope for the
+Deployment zone ("Deployment Zone"). Any changes or expansions to the Deployment Zone may result in
+additional fees.
+(d) Support Requests. At the start of the project, Via will direct Customer towards the relevant CRM tools to log
+requests. In order to trigger a Product Maintenance request, requests for product maintenance must contain
+detailed information about the nature of the request. Requests for additional features may be subject to additional
+fees.
+(e) Payment Processing. The fees set forth above do not include any owed to the third party payment processor. Via
+will facilitate an introduction to its recommended payment processor and Customer is responsible for entering an
+agreement with such payment processor in order to be able to process credit card payments.
+Fees.
+Customer shall pay Via the following Fees for the Term, subject always to the Minimum Monthly Fee set out below:
+Fee Category
+Installation Fee
+Amount
+Invoicing Terms
+Monthly Fees
+Per-vehicle fees
+TNC Ride Fees
+Total Minimum Amount
+for 16 Months
+Year 1 (Months 1-12):
+$58,500 assuming 15 vehicles
+Year 2 (Months 13-16):
+• $20,540 assuming 15 vehicles

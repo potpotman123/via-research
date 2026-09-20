@@ -1,0 +1,51 @@
+# source_url: https://metro.legistar1.com/metro/attachments/b5a62e78-a7aa-42b8-98d8-1a845f5c313b.pdf
+# path: raw/cache/a304d6205668fa8f247da42760fb382f12b08e4e.pdf
+# pages_total: 17; hit_pages: [5]; included: [5]
+# context: legistar client=metro; matter 2018-0355 (2018-05-31): AUTHORIZE the Chief Executive Officer to execute a twelve-month sole source contract to NoMad Transit LLC in an amount not-to-exceed $2,506,410, inclusive of sales tax, to operate a first and last mile(s) transportation network company pilot service to/from the North Hollywood, Artesia, and El Monte
+
+=== page 5 of 17 ===
+KEY DIFFERENCES
+5
+Mobility on Demand
+MicroTransit Pilot
+•
+Serving first and last mile rides 
+to/from Metro stations
+•
+1 year of operation with option 
+for one additional year 
+•
+3 zones focused around Metro 
+stations
+•
+Testing a business model using 
+independent contractors 
+•
+Mixed fleet of driver-owned 
+vehicles, inspected and approved 
+by Via
+•
+Lite TAP integration for pilot 
+period
+•
+Rides are requested using Via’s 
+app or Via’s call center
+•
+Serving all trip types
+•
+Up to three years of operations in 
+pilot phase
+•
+Number and types of zones to be 
+determined
+•
+Testing a business model using 
+Metro operators
+•
+Mixed fleet of vehicles to be 
+leased by private sector 
+•
+TAP Integration anticipated
+•
+Rides are requested using an app 
+and call center

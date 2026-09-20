@@ -1,0 +1,140 @@
+# source: raw/bleecker_drive/Springfield Ohio/Via_Springfield - Transportation as a Service_MSA.pdf
+# path: raw/bleecker_drive/Springfield Ohio/Via_Springfield - Transportation as a Service_MSA.pdf
+# hit page: 10 of 23
+# terms: River North Transit, Via Transit, Via Transportation, Via+drivers, Via+fleet, Via+vehicles
+
+=== page 9 ===
+SIGNATURE PAGE TO MASTER TERMS AND CONDITIONS FOR TRANSIT AS A SERVICE
+IN WITNESS WHEREOF, the parties to these Master Terms and Conditions for Transit as a Service have caused them
+to be duly executed by their respective duly authorized representatives
+SERVICE PROVIDER: RIVER NORTH TRANSIT, LLO
+AUTHORIZED SIGNATURE
+PRINTED NAME
+TITLE
+DATE SIGNED
+CITY OF SPRINGFIELD, OH
+AUTHORIZED SIGNATURE
+PRINTED NAME
+TITLE
+DATE SIGNED
+CUSTOMER LEGAL
+NAME
+CUSTOMER PRINCIPAL
+BUSINESS ADDRESS
+CUSTOMER STATE OF
+INCORPORATION
+CUSTOMER CONTACT
+INFORMATION FOR
+NOTICES
+CITY OF SPRINGFIELD, OH
+76 E HIGH ST, SPRINGFIELD, OH 45502
+OHIO
+JASON VIA
+JVIA@SPRINGFIELDOHIO.GOV
+• Page 9 of 9
+=== page 10 ===
+Transportation-as-a-Service (TAAS) SERVICE ORDER1
+Date: May [ ], 2025
+1. Purpose; Scope
+By this service order (the "Order"), River North Transit, LLC("River North"), a wholly
+owned subsidiary of Via Transportation, Inc. ("Via") and City of Springfield, OH
+("Customer") agree to collaborate towards the initiation of Customer's demand
+response transit service in Springfield, OH (as agreed upon by the parties during the
+planning and design stages of the Service) for five years following launch thereof,
+subject to extension by mutual agreement of the parties.
+In accordance with the Agreement, River North will provide Customer with technology
+and technology- enabled integration services (the "Services"), acting as a broker
+coordinating the services of third-party service providers to effectuate the on-demand
+transit service (the "Service"). River North will contract with third party service providers
+to effectuate such integration, including with fleet managers, vehicle suppliers, driver
+partners, background check providers, customer service support agencies, a payment
+processor and insurance brokers and underwriters. River North's Services will include:
+• On-demand public transit service including microtransit and ADA accessible
+service
+• Localization of a proprietary cloud-based dynamic vehicle routing and real-
+time passenger aggregation system;
+• Access to the Via mobile rider application (iOS and Android) for individuals
+using the Customer's service ("Riders") to book and pay for rides through a
+smartphone;
+• Access to booking via a dedicated phone line for Riders who do not have
+access to a smartphone;
+• Access to the Via mobile driver application for drivers to route and service
+rides through a smartphone or tablet;
+• Establish relationship with vehicle rental company ("Vehicle Partner") to
+provide access to vehicles on a rental basis to independent contractor driver
+partners ("Driver Partners") who shall provide transportation services;
+• Accompanying technical and operational support service;
+• Marketing and outreach initiatives as described herein.
+' All capitalized terms used but not defined herein shall have the meaning set forth in the Master Terms and
+Conditions for Via Transit as a Service signed by River North and Customer (the "Terms").
+=== page 11 ===
+• Data sharing and reporting as described herein.
+Conflicts between this Service Order and any other terms and conditions or written
+agreements between the parties shall be resolved in favor of this Service Order.
+2. Duration & Launch Date
+The duration of the Service shall last for a period of 60 months following the launch date (the
+"Initial Term"), subject to two 5-year extensions by mutual agreement of the parties on terms to
+be agreed and fees below.
+The Customer will provide written notice to proceed to River North at least 8 weeks prior to
+service launch. For the avoidance of doubt, notice to proceed can only be written by Customer
+once the contract and appendices (including the Order) are final and signed, and any necessary
+local and regulatory approvals have been received or registrations completed. Upon receipt of
+such written notice to proceed, River North will commence local preparation for launch
+("Launch Preparation Period"). Service operation will begin on a mutually agreeable date, no
+earlier than June 23, 2025, unless River North and the Customer define an alternative mutually
+agreeable date in writing ("Launch Date").
+3. Fees
+The Fees for the service described in this Order are outlined below:
+The table below outlines the payment structure, in which Customer would be charged an upfront
+fee, additional fixed fees every 3 years, and ongoing monthly fees based on revenue hours. All
+regulatory fees related to the service will be charged as a pass-through cost. The Service shall
+include a fleet of vehicles as described in Section 4, Service Parameters.
+One-Time
+Costs*
+Variable Fee
+per Revenue
+Hour
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Year 7
+Year 8
+$239,120
+$O
+$0
+$239,438
+$0
+SO
+$261,641
+$0
+$82.32
+$84.79
+$87.33
+$89.95
+$92.65
+$95.43
+$98.29
+$101.24
+Annual
+Operational Cost
+$2,270,387
+$2,338,576
+$2,408,631
+$2,480,893
+$2,555,361
+$2,632,036
+$2,710,917
+$2,792,280
+Total Annual
+Cost
+$2,509,507
+$2,338,576
+$2,408,631
+$2,720,331
+$2,555,361
+$2,632,036
+$2,972,558
+$2,792,280

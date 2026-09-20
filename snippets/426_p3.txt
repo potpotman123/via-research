@@ -1,0 +1,136 @@
+# source: raw/bleecker_drive/Utah Transit Authority/Tooele County/contracts-22-08-04.pdf
+# path: raw/bleecker_drive/Utah Transit Authority/Tooele County/contracts-22-08-04.pdf
+# hit page: 3 of 47
+# terms: Via+vehicles
+
+=== page 2 ===
+UTAH TRANSIT AUTHORITY
+TOOELE COUNTY CORPORATION
+CONTRACT # _
+12-08-04
+PROFESSIONAL SERVICES AGREEMENT
+UTA CONTRACT # 22-03600
+FLEX ROUTE AND ON-DEMAND MICROTRANSIT SERVICES
+AGREEMENT
+THIS FLEXROUTE AND ON-DEMAND MICROTRANSIT SERVICES
+AGREEMENT ("Agreement") is made this 7th DAY OF AUGUST, 2022 by and between
+UTAH TRANSIT AUTHORITY (UTA), a public transit district and TOOELE COUNTY
+HEALTH AND AGING SERVICES, a County Government, whose principal place of
+business is 151 North Main, Tooele, UT 84074, (hereinafter referred to as "Tooele County").
+RECITALS
+WHEREAS, UTA is the provider of fixed-route, rail, flex route, and microtransit
+transit service in all or part of Salt Lake, Tooele, Utah, Weber, Davis and Box Elder
+Counties, and is also responsible for providing complementary paratransit service in
+accordance with the Americans with Disabilities Act;
+WHEREAS, UTA plans, develops, and operates public transit services for the
+community as defined within the Regional Transportation Plan, UTA's Long Range Transit
+Plan, UTA's Five-Service Plan, and UTA's Service Design Standards.
+WHEREAS, UTA desires to engage Tooele County to collaborate with UTA in
+providing Flex Route services as described in this Agreement, and
+WHEREAS, UTA desires to engage Tooele County to collaborate with UTA and
+River North Transit (Via) in providing on-demand microtransit services in the UTA's Tooele
+County Service Area (the "Microtransit Services"), as described in this Agreement; and
+WHEREAS, UTA has received a 2021 Federal Transit Administration (FTA) NoLo
+Emissions grant to support the deployment of a fully electrified microtransit service which
+will be deployed during the terms of this Agreement;
+WHEREAS, UTA and Tooele County desire to agree on the respective roles and
+responsibilities in fulfillment of this Agreement;
+AGREEMENT
+NOW, THEREFORE, on the stated Recitals, which are incorporated herein by
+=== page 3 ===
+reference, and for and in consideration of the mutual covenants and agreements hereafter set
+forth, the mutual benefits to the parties to be derived here from, and for other valuable
+consideration, the receipt and sufficiency of which the parties acknowledge, it is hereby
+agreed as follows:
+1. OVERVIEW
+a.
+Tooele County shall provide the day-to-day operations, including administrative oversight
+and support, customer support, and vehicle maintenance responsibilities for Flex Route
+Services between Tooele and Salt Lake County and Microtransit Services within Tooele
+County.
+b.
+Tooele County shall operate vehicles as part of the UTA Flex Route Service connecting
+Tooele and Salt Lake Counties as determined by UTA in full accordance with the Scope
+of Services contained in the Exhibits to this Agreement.
+C.
+Tooele County shall provide the Microtransit services using the Via software system.
+Such Microtransit services shall be provided in portions of Tooele County (the cities of
+Erda, Tooele, Stansbury Park and Grantsville) as determined by UTA in full accordance
+with the Scope of Services contained in the Exhibits to this Agreement.
+d. UTA shall provide service vehicles for Flex Route Services and Microtransit Services.
+e. UTA shall provide Tooele County access to Via's software operating system under
+sublicense to Tooele County and provide access to scheduling software for scheduled
+route deviations.
+f. UTA will provide electrical charging infrastructure under sublicense to Tooele County.
+g. UTA will provide technical support for the operations of Flex Route Services and
+Microtransit Services.
+h.
+UTA and Tooele County shall annually establish shared goals and objectives for Flex
+Route Services and Microtransit Services.
+i.
+Tooele County shall work with UTA to ensure a well-coordinated transition from existing
+Flex Route and Dial-a-Ride services to Microtransit Services with a seamless transition
+that aims to provide customers with high-quality and uninterrupted service throughout
+this process
+UTA and Tooele County shall collaborate and support joint marketing, communications,
+and community engagement initiatives for Flex Route Services and Microtransit
+Services.
+2.
+SERVICES TO BE PROVIDED
+a.
+Tooele County shall perform all Work as set forth in the Scope of Services (Attached
+Exhibits). Except foritems (if any) which this Agreementspecifically states will be UTA-
+provided, Tooele County shall furnish all the labor, material, and incidentals necessary for
+the Work.
+b.
+Tooele County shall perform all Work under this Agreement in a professional manner;
+using at least that standard of care, skill and judgment which can reasonably be expected
+Page 2 of 46
+=== page 4 ===
+from similarly situated professionals.
+C.
+All Work shall conform to generally accepted standards in the transit industry. Tooele
+County shall perform all Work in compliance with applicable laws, regulations, rules,
+ordinances, permitconstraints and other legal requirements including, without limitation,
+those related to safety and environmental protection.
+Tooele County shall furnish only qualified personnel and materials necessary for the
+performance of the Work.
+e.
+When performing Work on UTA property, Tooele County shall comply with all UTA
+work site rules including, without limitation, those related to safety and environmental
+protection.
+MANAGEMENT OF WORK
+a.
+Tooele County's Mobility Manager will be the day-to-day contact person for Tooele
+County and will be responsible for all Work, as well as the coordination of such Work
+with UTA.
+UTA's Project Manager will be the day-to-day contact person for UTA and shall act as the
+liaison between UTA and Tooele County with respect to the Work. UTA's Project
+Manager shall also coordinate any design reviews, approvals orother direction required from
+UTA with respect to the Work.
+4. PROGRESS OF WORK
+a.
+Tooele County shall prosecute the Work in a diligent and continuous manner and in
+accordance with all applicable notice to proceed, critical path schedule and guaranteed
+completion date requirements set forth in (or developed and agreed by the parties in
+accordance with) the Scope of Services.
+Tooele County shall conduct regular meetings to update UTA's Project Manager
+regarding the progress of the Work including, but not limited to, any unusual conditions
+or critical path schedule items that could affect or delay the Work. Such meetings shall
+be held at intervals mutually agreed to between the parties.
+C.
+Tooele County shall deliver monthly progress reports and provide all Contract submittals
+and other deliverables as specified in the Scope of Services.
+d.
+Any drawing or other submittal reviews to be performed by UTA in accordance with the
+Scope of Services are for the sole benefit of UTA and shall not relieve Tooele County of
+its responsibility to comply with the Contract requirements.
+e.
+UTA will have the right to inspect, monitor and review any Work performed by Tooele
+County hereunder as deemed necessary by UTA to verify that such Work conforms to the
+Contract requirements. Any such inspection, monitoring and review performed by UTA is
+for the sole benefit of UTA and shall not relieve Tooele County of its responsibility to
+comply with the Contract requirements.
+f.
+UTA shall have the right to reject Work which fails to conform to the requirements of
+Page 3 of 46

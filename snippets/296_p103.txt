@@ -1,0 +1,120 @@
+# source: raw/bleecker_drive/0.0 OMNIA Cooperative Agreement/R250802_Via_Transportation_MAD_Redacted_081825_01.pdf
+# path: raw/bleecker_drive/0.0 OMNIA Cooperative Agreement/R250802_Via_Transportation_MAD_Redacted_081825_01.pdf
+# hit page: 103 of 191
+# terms: Via+vehicles
+
+=== page 102 ===
+MetroConnect
+Fixed-route planning, microtransit,
+autonomous vehicles, and Maas solutions.
+MIAMI-DADE
+COUNTY
+Miami-Dade County, FL
+Microtransit operations
+and fixed-route planning
+50+ vehicles
+3x
+Lower cost per ride than
+replaced fixed route
+917=
+63%
+Of trips connect to a
+fixed-route stop
+11
+Number of microtransit
+zones
+BAKERY
+CONNECT
+Via Solution
+In October 2020, Via partnered with Miami-Dade County
+to launch MetroConnect, an on-demand microtransit
+service that complements the existing transit
+infrastructure and encourages wider transit usage.
+MetroConnect provides shared, wheelchair accessible,
+first-and-last mile rides to and from Metrorail and bus
+stations within the service zones.
+In 2023, the County leveraged Via's Remix planning suite
+to conceptualize, solicit feedback on, and implement the
+Better Bus Network (BBN) - the first redesign of the
+Miami network of bus routes in 40 years. With more than
+130+ routes designed on Via's Remix platform, the County
+continues to improve transit outcomes for residents,
+growing ridership while lowering cost per ride.
+Via and Miami Dade County continue to innovate with the
+launch of autonomous vehicle shuttle service in 2024 and
+the roll out of Citymapper MaaS journey planning
+solutions in early 2025.
+66 It's a service that is very helpful for the
+community and for us who are
+struggling with cash, knowing that the
+city has something for us as well is
+very nice."
+6 6 "This service has helped me save
+thousands on car fares, fees, gas, etc"
+=== page 103 ===
+Detroit Public Schools
+Delivering critical transportation for
+students experiencing housing instability
+DETROIT
+PUBLIC SCHOOLS
+@VIa
+Detroit, MI
+Student transportation
+operations
+20+ vehicles
+92
+Students transported by
+Via since launch
+100%
+Of students in need
+served by DPSCD's small
+vehicle transportation
+program
+Via Solution
+In August 2023, Detroit Public Schools Community
+District faced driver shortages that impacted the delivery
+of its yellow school bus routes. Fortunately, DPSCD
+already had a robust small vehicle transportation program
+for students with complex needs, including nearly 500
+students experiencing housing instability. By partnering
+with Via, among other vendors, the District was able to
+expand the small vehicle program to ensure that students
+in need — particularly students with disabilities and those
+accommodated under the McKinney Vento Act — could
+be transported despite limited yellow bus resources.
+Now, DPSCD's small vehicle program has the capacity to
+offer safe and reliable transportation to every student in
+need, even as this population grows or fluctuates. DPSCD
+looked for vendors that not only had experience
+transporting sensitive populations, but also could
+accommodate the flexibility required to deliver routes that
+change with student circumstances and schedules. For
+some students, the small vehicle program is a way to get
+to school day-to-day; for others, it can meet a specific
+need, like an after-school program or special event.
+Choosing the right suppliers, and growing the District's
+roster of vendors, has been critical in building a strong
+program that delivers quality transportation throughout
+the year.
+=== page 104 ===
+C. Quality of the Vendor’s Goods and Services
+1. How does the vendor ensure product/service quality?
+Every aspect of Via’s approach to service delivery is informed by our robust data analysis 
+and performance monitoring capabilities. From initial service design to day-to-day 
+operations and retroactive performance evaluation, our dedicated project team for each 
+customer, led by a Partner Success Manager, will work closely with the customer to 
+ensure that service quality matches customer expectations, and all decisions are 
+informed by performance data. We deliver monthly progress reports and key performance 
+indicator reports, including insights regarding the delivery of equivalent service standards 
+for ambulatory customers and customers requiring mobility assistance. Our unique ability 
+to conduct in-depth analysis on behalf of our partners and produce impactful reporting is 
+unmatched in the market. Furthermore, we equip our customers with self-service 
+reporting tools, which provide complete transparency around service performance.  
+We also continually monitor the quality of the software and systems that underlie all of our 
+on-demand transportation solutions. In order to ensure the accountability of our system 
+and the integrity of databases, deployments, operational performance, and data, we apply 
+a stringent Quality Assurance (QA) process to each project we undertake. For every new 
+feature or parameter adjustment, we carefully check our system against the customer’s 
+product visions. Our procedures test the quality of the system across several dimensions, 
+including: 
+    RFP No. 25-08  |  17

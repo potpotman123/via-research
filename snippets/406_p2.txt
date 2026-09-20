@@ -1,0 +1,201 @@
+# source: raw/bleecker_drive/Utah Transit Authority/Change Order On Demand Technologies Service Order No. 1 Amendment No. 3 - SLC Westside Contract Renewal (River North Transit LLC “Via”).pdf
+# path: raw/bleecker_drive/Utah Transit Authority/Change Order On Demand Technologies Service Order No. 1 Amendment No. 3 - SLC Westside Contract Renewal (River North Transit LLC “Via”).pdf
+# hit page: 2 of 6
+# terms: Via+fleet, Via+licensing, Via+not to exceed, Via+not-to-exceed
+
+=== page 1 ===
+Amendment No. 3 UTA Contract No. 20-03399-3 &RQILGHQWLDO෬3DJH1 of 6 
+ 
+ 
+AMENDMENT NO. 3 TO 
+SERVICE ORDER NO. 1 UNDER THE  
+ON-DEMAND TECHNOLOGIES AND INNOVATIVE MOBILITY SERVICES  
+MASTER SERVICES AGREEMENT 
+UTA Contract No. 20-03399-1-3 
+ 
+DECEMBER 21, 2022 
+ 
+1. Amendment 
+ 
+On September 30, 2021, each of River North Transit, LLC (“Via”) and the Utah Transit Authority 
+(“UTA” or “Customer”), hereinafter collectively referred to as the “Parties,” entered into Service 
+Order No. 1 (as amended, the “Service Order”) under UTA Contract No. 20-03399 (the “MSA”) 
+to establish and on-demand transit deployment (“Deployment”) in the westside of Salt Lake City, 
+Utah.  
+ 
+By Amendment No. 1, the Parties agreed to upfit all wheelchair accessible vehicles with “side 
+entry” ramp access for the Deployment.  
+ 
+By Amendment No. 2, the Parties agreed to install bike racks on all vehicles for the Deployment.  
+ 
+By this Amendment No. 3, the Parties agree to further amend the Service Order as follows: 
+ 
+a) Extension. The Parties hereby agree to extend the duration of the Deployment under 
+the Service Order beyond its original duration effective December 13, 2022 through 
+June 30, 2024.  This full extension is contingent on receipt of additional funding from 
+Salt Lake City in the Summer/Fall of 2023 and will be terminated at UTA’s discretion 
+if additional City funding is not received.  
+ 
+b) Section 3. Fees shall be deleted entirely and replaced with: 
+3.1 Fees 
+The table below outlines the payment structure, in which UTA would be charged a 
+price per driver hour and a fixed monthly price for Technology and IT Operations. 
+Any new regulatory fees imposed by a governmental entity related to the service 
+will be charged as a pass-through cost contingent on UTA advance agreement 
+provided such agreement will not be unreasonably withheld. UTA will have the 
+option of decreasing other services or expenses in order to off-set these additional 
+fees. The Deployment shall include a fleet of vehicles as described in Section 4, 
+Service Parameters, subject to extension by mutual agreement of the parties on 
+terms to be agreed (including any change in fees).   
+DocuSign Envelope ID: 82E010F4-D5C7-4B57-B7AD-CE8320CC5D46
+=== page 2 ===
+Amendment No. 3 UTA Contract No. 20-03399-3 &RQILGHQWLDO෬3DJH2 of 6 
+ 
+ 
+ 
+The values in the table above are Not-to-Exceed (NTE) amounts and are subject to 
+downward adjustment based on actual revenue hours achieved. 
+ 
+UTA will be billed for the above fees as described below. Driver hours will be 
+billed as incurred at the end of each month. UTA shall pay the following fees to 
+Via: 
+ 
+Ongoing Invoice Fees 
+UTA shall pay the following fees to be invoiced monthly by Via on or around the 
+15th of each month, starting upon launch of the Deployment: 
+● $62.65 per driver hour in ongoing project costs, to include driver partner 
+pay, vehicle rental and wheelchair-accessible vehicle (WAV) costs, live 
+customer support, twice weekly cleaning and project operations 
+● $15,244 per month in technology access fees and dedicated IT operations 
+costs 
+ 
+These fees are exclusive of fuel. UTA will continue to provide fuel though UTA’s 
+fuel card network at no additional cost to Via for the UTA On Demand vehicle fleet 
+as defined within Exhibit C of this Service Order. 
+ 
+Should changes in applicable federal, state, local law result in a significant change 
+in Via’s costs, either an increase or decrease, Via or UTA may opt to renegotiate 
+the ongoing on-demand service hour fees or level of service obtained. 
+ 
+3.2 Fare Revenue 
+UTA shall maintain its partner Braintree account throughout the Deployment and 
+shall collect and own all revenue from service fares (“farebox revenue”), net of 
+Braintree service fees, in the account. 
+Via + Utah Transit Authority | Rose Park Expansion Contract Pricing
+Dec 1, 2022 - June 30, 2024
+ITEM 
+NO.
+DESCRIPTION
+EST. MONTHLY 
+QTY.
+UNIT
+UNIT PRICE
+ESTIMATED 
+MONTHLY COSTS
+ ESTIMATED TOTAL 
+PRICE 
+1
+WAV Retrofit & Bike Rack Costs
+2
+Lump sum
+$25,900 
+$51,800 
+$51,800 
+2
+Driver Pay (1)
+3,500
+1 driver hour
+$27.69 
+$96,915 
+$1,841,385 
+3
+Vehicle Rental and WAV Costs (1)
+3,500
+1 driver hour
+$12.61 
+$44,135 
+$838,565 
+4
+Live Customer Support (1)
+3,500
+1 driver hour
+$3.22 
+$11,270 
+$214,130 
+5
+Other Project Operations (2)
+3,500
+1 driver hour
+$19.13 
+$66,955 
+$1,272,145 
+6
+Technology Fee & Dedicated IT Operations (3)
+1
+1 month
+$15,244 
+$15,244 
+$289,631 
+Estimated Total Price - Dec 1, 2022 - June 30, 2024
+$237,245 
+$4,507,656 
+Memo: Total Hourly Costs
+$62.65
+Memo: Total Hourly Costs (Excl. Vehicle Rental and WAV Costs)
+$50.04
+Note: Pricing excludes all taxes.
+(1) Billed on an "as used" basis. Assumes fuel card program continues and Via is not responsible for purchasing fuel. Includes capex-like items (vehicle leases and WAV costs).
+CONFIDENTIAL
+(2) Includes insurance, local & central operations support, acquisition/marketing costs, vehicle wraps, T&E, miscellaneous office expenses, and other administrative costs.
+(3) Includes Via technology access fees, cloud hosting costs (Amazon Web Services, Google Maps), third-party licensing fees for data capture, database maintenance and data 
+DocuSign Envelope ID: 82E010F4-D5C7-4B57-B7AD-CE8320CC5D46
+=== page 3 ===
+Amendment No. 3 UTA Contract No. 20-03399-3 &RQILGHQWLDO෬3DJH3 of 6 
+ 
+ 
+3.3 Wheelchair Accessible Vehicle (WAV) Configuration Fees  
+UTA shall pay to Via a one-time sum of $25,000 per WAV for configuring up to 
+two additional service WAVs as “side entry” ramp access. The foregoing fee(s) 
+shall be payable within 30 days of UTA authorization to proceed.. 
+ 
+3.4 Bike Hitch and Rack Installation Fees  
+UTA shall pay to Via a one-time sum of $900 for the installation of bicycle carrying 
+hitches and racks as part of the configuration of each WAV vehicle described in 
+section 3.3. The total sum of $1,800 represents Via’s cost with no additional mark-
+ups and shall be treated as pass-through revenue by Via. The fee(s) shall be payable 
+to Via by UTA within 30 days of UTA authorization to proceed. 
+ 
+3.5 Marketing Fees 
+Via will separately invoice UTA for marketing expenses incurred and as authorized 
+by UTA under Section 8 of this Service Order. Via will charge its standard labor 
+rate of $150.00 per hour for internal marketing labor cost. All other marketing 
+expenses will be passed through at cost. The total combined marketing expenses 
+incurred by Via and UTA shall not exceed $100,000. This amount is not included 
+in the pricing table shown above. 
+ 
+3.6 Compensation 
+The not-to-exceed (NTE) total compensation for performance for the duration of 
+Amendment No. 3 is $4,750,000. These NTE amounts include, but are not limited 
+to, service expenses for WAV retrofits, bike racks, vehicle wrapping, driver pay, 
+vehicle rental fees, live customer support, project operations, rider acquisition, 
+technology, dedicated IT operations, vehicle cleaning, and marketing expenses. 
+Annual expenses and NTEs are subject to downward adjustment based on actual 
+revenue hours achieved.  Annual NTE’s shall be distributed as follows (exclusive 
+of fuel):  
+ 
+x December 1, 2022 – December 31, 2023, NTE: $1,800,000*   
+* At UTA’s sole discretion, and contingent upon receipt of 
+additional funds from Salt Lake City, the NTE may be increased to 
+a maximum of $3,000,000 during the period of December 1, 2022 – 
+December 31, 2023. 
+x January 1, 2024 – June 30, 2024 NTE: $1,750,000 -This amount shall be 
+contingent on receipt of additional funds from Salt Lake City in 
+Summer/Fall 2023.  
+ 
+c) Section 4 is hereby amended by deleting the paragraph beginning with “Vehicle Fleet” 
+in its entirety and replacing it with the below: 
+Vehicle Fleet: The Vehicle Partner will offer a fleet of up to twelve (12) branded, 
+licensed and insured vehicles, including five (5) Americans with Disabilities Act 
+(ADA) compliant Wheelchair Accessible Vehicles (WAV) to be made available to 
+independent contractor Driver Partners, who will be able to gain access to these 
+DocuSign Envelope ID: 82E010F4-D5C7-4B57-B7AD-CE8320CC5D46

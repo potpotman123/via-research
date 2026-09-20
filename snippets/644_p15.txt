@@ -1,0 +1,139 @@
+# source: raw/bleecker_drive/Cupertino/23_12042_A_-_Agreement_with_Nomad_Transit_LLC_Via.pdf
+# path: raw/bleecker_drive/Cupertino/23_12042_A_-_Agreement_with_Nomad_Transit_LLC_Via.pdf
+# hit page: 15 of 26
+# terms: Via+drivers, Via+fleet, Via+vehicles
+
+=== page 14 ===
+branded, licensed and insured vehicles ("Fleet Vehicles"), all of which can fit a minimum of 4 passengers. 
+Those vehicles that can physically be fit with bike racks will have bike racks installed. The Fleet Vehicles 
+shall include three (3) Wheelchair Accessible Vehicles (WA V) (approximately 20% of the total Fleet 
+Vehicles) to be made available to independent contractor Driver Partners, who will be able to gain access to 
+these vehicles after being registered onto the Platform. Consultant will ensure Vehicle Provider keeps 
+vehicles clean and maintained in a preventive maintenance program for vehicles used in this program. 
+Fleet Electrification 
+Dedicated vehicles under this agreement will be electric vehicles. However, the WA Vs may be gas powered 
+until such time as the on-order electric WA Vs can be in-fleeted (targeting May 2023). Consultant shall work 
+with the City to align on a location and installation plan for electric vehicle charging infrastructure, which 
+shall be paid for by the City. The City agrees to make such infrastructure dedicated for Consultant's use. 
+Consultant shall put in place standard operating procedures for charging the electric vehicles to ensure 
+adequate fleet availability during all service hours. 
+Drivers 
+Qualified and accredited independent contractor drivers will be able to gain access to the Fleet Vehicles after 
+being registered onto the Via system, enabling these individuals to sign up for specific daily slots or longer 
+periods of work. Consultant shall establish driver registration and certification protocols designed to ensure 
+compliance with applicable laws, regulations, or terms of project funding sources. Consultant shall ensure 
+drivers are aware of the program and can articulate to riders program basics, including how to get additional 
+program information. 
+Smartphone App 
+Consultant shall work closely with the City to provide a custom branded Smartphone App. As mutually 
+agreed upon, the app may suggest locations to customers, or present service announcements, promotions, or 
+discounted pricing through in-app messages or push notifications. 
+Consultant shall also work closely with the City on the eventual integration of Clipper Card payments into 
+the Smartphone App, pending Clipper Card timelines for streamlined product rollout. 
+Technology Platform 
+Via will leverage its powerful suite of apps, real-time operations and administrative tools, and data analysis 
+and reporting features to power the service. This platform will be the same one used to manage each Via 
+service around the world. The Consultant will provide use of the Via technology platform that in real time 
+aggregates riders traveling from multiple origins to multiple destinations efficiently, while optimizing the 
+balance between vehicle utilization fleet- wide and a high quality of service. The Via system has fully 
+automated ride proposal, booking, and dispatch services, and is accessible by mobile application and, as 
+required, phone bookings. In order to serve those users who do not have a smartphone or may require 
+additional technology assistance, the Consultant shall provide the option for account creation by phone 
+during service hours. 
+Deliverables: 
+Final Launch Plan 
+Additional documentation of Parameters, as mutually agreed upon by Consultant and City 
+Task 2.3 Technology Localization & Back-end Systems Setup 
+Consultant shall localize all infrastructure technology, including mapping and real-time routing systems, 
+specifically for the project, taking into account local geography and any algorithmic adjustments required in 
+order to achieve system and service efficiency. Back-end operational systems, including those required for 
+driver registration and supply monitoring, will be fully localized and maintained over the course of the 
+Program.
+=== page 15 ===
+Deliverables: 
+Completion of Technology Localization & Back-end Systems Setup 
+Task 2.4 Driver Acquisition & On-Boarding 
+Consultant shall source independent contractor drivers from the community and surrounding areas if possible 
+and shall verify that drivers possess all data and documentation to satisfy Via's standards as well as local and 
+State requirements. Independent contractor drivers will go through registration, which includes an 
+introduction to Via's system, customer service expectations, and customer and driver safety protocol and 
+policies. Drivers will be subject to comprehensive background checks as required by local and State law. 
+Deliverables: Drivers fully registered to drive on the Via platform 
+Task 2.5 Vehicle Delivery & Branding 
+· Vehicle Provider shall coordinate the delivery and availability of a fleet of up to thirteen (16) Fleet Vehicles 
+such that these vehicles are ready to be driven by independent contractor drivers on the Launch Date. 
+Vehicle preparation will include successful completion of all relevant insurance, registration, licensure, and 
+maintenance requirements. Fleet Vehicles will have custom co-branding in the form of vehicle decals or 
+wrapping as to be easily recognizable to users of the service. Vehicle branding design will be finalized in 
+collaboration with the City. 
+Deliverables: 
+Vehicle Fleet with custom co-branding 
+Task 2.6 WA V Service 
+The Wheelchair Accessible Vehicle (WA V) service shall satisfy relevant FT A ADA requirements, including 
+the equal provision of service to potential riders of all physical means. To fulfill this goal, Consultant will 
+either ( 1) ensure Vehicle Provider provides dedicated WA V to be used for the project or (2) identify and 
+subcontract with wheelchair accessible vehicle (WA V) providers who have personnel that are trained to 
+operate vehicles and equipment safety and to assist and treat individuals with disabilities in a respectful and 
+courteous way, with appropriate attention to the difference among individuals with disabilities. Consultant 
+will ensure that any drivers providing WA V service as part of the program will be trained to operate WA V 
+vehicles and equipment safely, as well as to properly assist and treat individuals with disabilities in a 
+courteous and respectful manner. 
+Deliverables: 
+WAV service 
+Task 2. 7 External Stakeholder Coordination Meetings 
+City and Consultant will together identify key external stakeholders relevant to or interested in the service 
+(i.e., Santa Clara Valley Transportation Authority, neighboring cities of Cupertino in the western portion of 
+Santa Clara County, City of San Jose, Sunnyvale, etc.) and setup meetings in advance of the Launch Date in 
+order to gather data and local information relevant to the project, build community support, and identify 
+opportunities to support multi-modal linkages. This initiative will be spearheaded by the City so as to best 
+utilize local relations, with significant involvement provided by Contractor. 
+Deliverables: 
+Participation in external stakeholder meetings Meeting agendas & notes 
+Task 3. Deployment & Operations 
+The Consultant will collaborate with the City of Cupertino to design and operate a service that meets the 
+project's operational goals. Consultant will establish a project team in the area and will draw on expertise in 
+Operations, Expansion, Growth and Data Science teams in order to grow and optimize the service across the
+=== page 16 ===
+duration of the project. Consultant will proactively suggest enhancements to the service to improve rider 
+experience, quality of service, and cost per ride. Consultant shall procure all required licenses, permits, and 
+insurance to operate an on- demand rideshare solution in the City of Cupertino. 
+Task 3.1 Launch Period & Launch Event 
+A launch event will be held on the Launch Date to raise awareness of the service locally and initiate formal 
+marketing and media outreach. 
+Deliverables 
+Coordination and Completion of Launch Event, including appropriate marketing and media 
+outreach. 
+Operation of Service Launch 
+Task 3.2 Full Service Launch, Operations & Maintenance 
+The Consultant shall operate the Full Service for the duration of the service, unless otherwise mutually 
+agreed upon by the Consultant and City. Following Launch, the Consultant shall continue to operate, 
+maintain, and evaluate system data and service information to optimize, iterate on, and scale the service in 
+collaboration with the City. 
+Deliverables: 
+Ongoing operations 
+Task 4. Marketing Plan & Implementation Task 4.1 Draft & Final Marketing Plan 
+Consultants shall work closely with the City to develop and refine a unified marketing and promotional 
+program that increases community awareness of the Program, and maximizes its success for implementation 
+by Consultant. As reasonable, the City will cooperate with Consultant to promote the service and create local 
+awareness and will support the Consultant's team by providing useful local insights and leveraging existing 
+marketing platforms, associations, and social media presence to promote the program. Marketing and 
+branding guidelines, including initial marketing material templates, will be presented by the Consultant to 
+the City for review and approval in advance of finalization and distribution. 
+Consultant and City shall collaborate on the following key marketing activities during the course of the 
+Program: 
+Initial collateral and branding development 
+New custom app build and campaign to move existing riders from Via app to custom app 
+Vehicle wrapping/branding design 
+Launch press and media campaign 
+Rider acquisition campaigns 
+Ongoing promotional campaigns 
+Partnership with key City stakeholders and community organizations 
+Deliverables: 
+Final Marketing Plan, including branding guidelines 
+Task 4.2 Production of Marketing Collateral 
+Per the Marketing Plan developed in Task 4.1, marketing and branding guidelines, including initial 
+marketing material templates, will be presented by the Consultant to the City for review ahead of 
+finalization, production, and distribution. 
+Deliverables: 
+Marketing Collateral 
+Task 4.3 Implement Marketing Plan

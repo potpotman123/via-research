@@ -1,0 +1,243 @@
+# source_url: https://rideuta.legistar1.com/rideuta/attachments/87d00177-6e8c-484d-a64d-5aea968ce6b0.pdf
+# path: raw/cache/9297b630c24b643d11122c6286ddd3a3a16b1d2e.pdf
+# pages_total: 13; hit_pages: [1, 2, 3, 4, 5, 6, 8, 10, 12]; included: [2, 3, 6, 10]
+# context: legistar client=rideuta; matter 20-03399BM-1 (2021-09-16): Change Order: Microtransit Master Service Agreement Service Order No.1 - Rose Park, Poplar Grove & Glendale Microtransit Service (River North Transit LLC - Via)
+
+=== page 2 of 13 ===
+Service Order No. 1 UTA Contract No. 20-03399BM 
+(Confidential) ∙ Page 2 of 13 
+ 
+2. Duration & Launch Date 
+  
+The duration of the Deployment shall last for a period of 12 (twelve) months following the launch 
+date (the “Initial Term”), subject to year-by-year extensions based on mutual agreement of the 
+Parties.   
+  
+UTA will provide to Via written notice to proceed at least eight (8) weeks prior to service launch.  
+For the avoidance of doubt, notice to proceed can only be written by UTA once the contract and 
+appendices (including the Service Order) are final and signed, and any necessary local and 
+regulatory approvals have been received or registrations completed. Upon receipt of such written 
+notice to proceed, Via will commence local preparation for launch (“Launch Preparation 
+Period”). Service operation will begin on a mutually agreeable date, no earlier than November 1, 
+2021, unless Via and UTA define an alternative mutually agreeable date in writing (“Launch 
+Date”). 
+ 
+3. Fees 
+  
+The table below outlines the payment structure, in which UTA would be charged a price per driver 
+hour and a fixed monthly price for Technology and IT Operations. Any new regulatory fees 
+imposed by a governmental entity related to the service will be charged as a pass-through cost 
+contingent on UTA advance agreement provided such agreement will not be unreasonably 
+withheld. UTA will have the option of decreasing other services or expenses in order to off-set 
+these additional fees.  The Deployment shall include a fleet of vehicles as described in Section 4, 
+Service Parameters, subject to extension by mutual agreement of the parties on terms to be agreed 
+(including any change in fees). The total contract value shall not exceed $1,740,000. for the Initial 
+Term. 
+ 
+ 
+Via will separately invoice UTA for marketing expenses incurred and as authorized by UTA under 
+Section 8 of this Service Order. Via will charge its standard labor rate of $150.00 per hour for 
+internal marketing labor cost. All other marketing expenses will be passed through at cost. The 
+total combined marketing expenses incurred by Via and UTA shall not exceed $100,000. This 
+amount is not included in the pricing table shown above. 
+ 
+DocuSign Envelope ID: 804E0FF8-6929-4168-9728-F38F78F591C9
+
+=== page 3 of 13 ===
+Service Order No. 1 UTA Contract No. 20-03399BM 
+(Confidential) ∙ Page 3 of 13 
+ 
+The values in the table above are Not-to-Exceed (NTE) amounts and are subject to downward 
+adjustment based on actual revenue hours achieved.  
+ 
+UTA will be billed for the above fees as described below. Driver hours will be billed as incurred 
+at the end of each month. UTA shall pay the following fees to Via: 
+  
+Ongoing Invoice Fees 
+UTA shall pay the following fees to be invoiced monthly by Via on or around the 15th of each 
+month, starting upon launch of the Deployment: 
+● $58.83 per driver hour in ongoing project costs, to include driver partner pay, vehicle rental 
+and wheelchair-accessible vehicle (WAV) costs, live customer support, and project 
+operations 
+● $8,781 per month in technology access fees and dedicated IT operations costs 
+ 
+These fees are exclusive of fuel.  UTA will continue to provide fuel though UTA’s fuel card 
+network at no additional cost to Via for the UTA On Demand vehicle fleet as defined within 
+Exhibit C of this Service Order. 
+ 
+Should changes in applicable federal, state, local law result in a significant change in Via’s costs, 
+either an increase or decrease, Via or UTA may opt to renegotiate the ongoing on-demand service 
+hour fees or level of service obtained.  
+Fare Revenue 
+UTA shall maintain its partner Braintree account throughout the Deployment and shall collect and 
+own all revenue from service fares (“farebox revenue”), net of Braintree service fees, in the 
+account. 
+ 
+4. Service Parameters 
+  
+Via will provide access to a platform service (the “Platform”) through which Riders will be able 
+to book and pay for rides on a shared and on-demand basis; and dedicated vehicles will be offered 
+by the Vehicle Provider to Driver Partners on a rental basis.  
+  
+● Geographic Coverage Zone: Approximately 15.1 square miles coverage zone in Salt 
+Lake City, Utah, USA. See Appendix A for a map of the service zone boundary. UTA and 
+Via may mutually agree to modifications of the Geographic Coverage Zone. 
+● Service Days/Hours: Monday through Saturday, 4:00am to 12:15am (midnight, following 
+day); and Sunday, 6:00am to 9:00pm. UTA may determine to expand service hours at the 
+same rate per revenue hour.  
+● Rider Fare: Rider fare and rider fare discounts will be set by UTA. During the duration of 
+the Deployment, discounted and promotional rider fares may be implemented upon mutual 
+agreement between the Parties. 
+● Payment: Via will ensure acceptance of Rider payment through the app via credit cards, 
+Apple Pay, Google Pay, pre-paid debit cards, FAREPAY cards, and all electronic pass 
+cards accepted by UTA. Riders may also book trips using a “paper ticket” payment method 
+and will be permitted to ride if the Driver Partner serving that Rider’s trip deems the paper 
+ticket valid. Via will also provide a concierge booking service for customers without 
+DocuSign Envelope ID: 804E0FF8-6929-4168-9728-F38F78F591C9
+
+=== page 6 of 13 ===
+Service Order No. 1 UTA Contract No. 20-03399BM 
+(Confidential) ∙ Page 6 of 13 
+ 
+  
+All UTA-developed content that pertains to Via’s brand, technology, and operations must be 
+reviewed and approved in writing (i.e. email) by Via before distribution. Via requests a minimum 
+review time of five (5) working days for all such requests. 
+ 
+9. Service Goals and Objectives 
+ 
+UTA and Via will collaborate to work towards the service goals and objectives for the Deployment 
+as noted below. Via agrees to use commercially reasonable efforts to meet the goals and objectives, 
+but the parties acknowledge that failure to meet the goals and objectives shall not constitute a 
+breach of the MSA or this Service Order No. 1.  
+ 
+The Parties agree to hold regular performance reviews throughout the duration of the Deployment 
+to review service performance metrics, track progress toward the goals listed below, and, as 
+appropriate, to jointly re-assess strategies to ensure the Deployment’s long-term success. 
+ 
+Objectives: 
+• Attract and build new ridership to promote the use of public transit rather than single-
+occupancy vehicle automobile trips 
+• Provide new mobility options for residents of the neighborhoods served. 
+• Support connections to UTA fixed route services and other popular locations for the 
+residents of the neighborhoods served 
+• Provide support to UTA and Salt Lake City for stimulating the local economy and small 
+businesses 
+• Promote more fuel-efficient vehicle usage, including the use of electric vehicles where 
+circumstances allow 
+• Build brand recognition and awareness for UTA On Demand by Via 
+ 
+Goals 
+• High quality customer experience, 15-20 minute ETA, 90% on time 
+• Equitable service for WAV riders, 15-20 minute ETA, 90% on time 
+• Safety, avoidable accidents <1/100,000 miles 
+• Customer satisfaction, > 4.8 ride rating 
+• Weekly ridership of 2,100 passengers, or 106,000 passengers during the 12-month 
+Deployment, with ridership increasing throughout the Deployment year on a month-by-
+month basis 
+• Average cost per ride of $15.50 throughout the 12-month Deployment, with average cost 
+per ride decreasing throughout the Deployment year on a month-by-month basis 
+• Incentivize shared rides, with an average of 30% of all rides shared 
+ 
+10. Data Sharing & Reporting 
+  
+Via will share data from the Deployment, including any required National Transit Database 
+required (NTD) data as set forth in Exhibit B (the “Deployment Data”). Deployment Data shall be 
+made available in formatted numerical and graphical reports. The Parties recognize that in order 
+to determine the effectiveness of this Deployment, UTA may have the need to collect additional 
+data (“Additional Data”). Via agrees to cooperate with UTA in obtaining and compiling such data 
+as requested by UTA.  
+ 
+DocuSign Envelope ID: 804E0FF8-6929-4168-9728-F38F78F591C9
+
+=== page 10 of 13 ===
+Service Order No. 1 UTA Contract No. 20-03399BM 
+(Confidential) ∙ Page 10 of 13 
+ 
+Exhibit B 
+UTA On Demand by Via – Salt Lake City 
+Deployment Data 
+ 
+STANDARD REPORTING SET 
+Data Point 
+Level of Detail 
+rider ID 
+per request 
+ride ID 
+per request 
+request date + time 
+per request and truncated to minute 
+request origin lat/long 
+per request and truncated to 3rd decimal 
+request destination lat/long 
+per request and truncated to 3rd decimal 
+pickup date + time 
+per request and truncated to minute 
+dropoff date + time 
+per request and truncated to minute 
+wheelchair accessible vehicle (WAV) 
+per request 
+number of riders per request 
+per request 
+ride distance (miles) 
+per request 
+ride duration (minutes) 
+per request 
+ride rating 
+per request 
+fare paid 
+per request 
+ride status (completed, no-showed, cancelled, 
+not accepted, seat unavailable, out of zone, or 
+out of hours) 
+per request 
+completed rides 
+hourly, daily, weekly, monthly and avg. per hour (absolute # and % of all 
+requests) 
+no-showed rides 
+hourly, daily, weekly, monthly and avg. per hour (absolute # and % of all 
+requests) 
+cancelled rides 
+hourly, daily, weekly, monthly and avg. per hour (absolute # and % of all 
+requests) 
+non-accepted rides 
+hourly, daily, weekly, monthly and avg. per hour (absolute # and % of all 
+requests) 
+non-accepted rides with ETA<5min 
+daily, weekly, monthly and avg. per hour (absolute # and % of all requests) 
+non-accepted rides with ETA between 5 and 
+10min 
+daily, weekly, monthly and avg. per hour (absolute # and % of all requests) 
+non-accepted rides with ETA>10min 
+daily, weekly, monthly and avg. per hour (absolute # and % of all requests) 
+seat unavailable requests 
+hourly, daily, weekly, monthly and avg. per hour (absolute # and % of all 
+requests) 
+out of zone requests 
+hourly, daily, weekly, monthly and avg. per hour (absolute # and % of all 
+requests) 
+out of hours requests 
+hourly, daily, weekly, monthly and avg. per hour (absolute # and % of all 
+requests) 
+sessionized requests 
+daily, weekly, monthly and avg. per hour 
+utilization 
+hourly, daily, weekly and monthly 
+ETA (waiting time) (minutes) 
+per request, daily, weekly, monthly and avg. per hour 
+ETA error (lateness) (minutes) 
+daily, weekly and monthly 
+avg. walking distance to pickup (meters) 
+daily, weekly and monthly 
+supply hours 
+daily, weekly, monthly and avg. per hour 
+unique riders 
+daily, weekly and monthly 
+new unique riders (for the period selected) 
+daily, weekly and monthly 
+rider signups 
+daily, weekly, monthly and aggregated by date range selected 
+riders with no requests made 
+daily, weekly, monthly and aggregated by date range selected (absolute # and % 
+of all rider signups) 
+DocuSign Envelope ID: 804E0FF8-6929-4168-9728-F38F78F591C9

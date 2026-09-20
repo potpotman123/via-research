@@ -1,0 +1,228 @@
+# source_url: https://baldwincountyal.legistar1.com/baldwincountyal/attachments/fffa904c-a5b9-4c77-98fe-31702445130d.pdf
+# path: raw/cache/8db7659bd70916d9701ef639f1b7970b0584cd1b.pdf
+# pages_total: 41; hit_pages: [1, 2, 3, 4, 5, 8, 9, 10, 11, 12, 13, 14, 17, 18, 19, 22, 24]; included: [2, 11, 12, 22]
+# context: legistar client=baldwincountyal; matter 22-1480 (2022-09-06): Extension and Amendment of Contract for Professional Services with Via Mobility, LLC for Provision of Innovative Software Services
+
+=== page 2 of 41 ===
+DocuSign Envelope ID: B1BD89FD-CD3F-41BC-B5BF-0BA2CE9591F0
+EXTENSION AND AMENDMENT OF THE CONTRACT FOR PROFESSIONAL SERVICES
+1. Purpose; Scope
+Each of Via Mobility LLC, a Delaware company with its principal office located at 10 Crosby
+Street, Floor 2, New York, New York 10013 ("Via"), and Baldwin County Commission
+("Customer"), hereinafter the "Parties," entered into an agreement titled Contract for Professional
+Services (the "Agreement') and a service order titled Baldwin County Deployment Service Order
+(the "Original Order"), dated June 18, 2020. By this Extension and Amendment Agreement
+("Extension") the parties agree towards continued collaboration of operation of the services
+provided under the Original Order. The Parties further agree to amend the fees paid by Customer
+to Via for the use of Via's software, and that Via shall develop and deploy specific capabilities
+within its software for Customer's benefit.
+Amendment
+2. Duration
+This Extension shall extend the period of performance of the Agreement by a period of twelve
+months, from October 1, 2021 until September 30, 2022 (inclusive). The Effective Date of this
+Extension shall be October 1, 2021.
+3. Fees
+Starting on October 1, 2021, and continuing through September 30, 2022, Customer shall pay to
+Via the following Monthly Fees, reflecting a minimum of 25 vehicles at the rates detailed below:
+Fee Category
+Charges Per Month Invoicing Terms
+Fee Per
+Vehicle Per
+Month
+$550
+$11,000
+Invoiced monthly by Via
+$500
+$2,500
+Invoiced monthly by Via
+Monthly Fees (Per Vehicle) for
+vehicles 1-20, inclusive
+(Guaranteed)
+Monthly Fees (Per Vehicle) for
+vehicles 21-25, inclusive
+(Guaranteed)
+Monthly Fees
+(Per Vehicle) for any additional
+vehicles above 25 (As used)
+Total for 12 months
+$450
+as used
+Invoiced monthly by Via
+$162,000 (minimum, excluding additional vehicles above the
+25-vehicle monthly minimum, and any additional services)
+For the avoidance of doubt, (i) the number of vehicles per month for purposes of the above fees
+shall be the maximum number of distinct vehicles input to service in the Deployment by Customer
+that use the Via solution on any given day over the course of the applicable calendar month; and
+(ii) in the event the duration of the Deployment does not exactly match calendar months, monthly
+fees will be prorated for the first and/or last calendar months of the Deployment, as applicable, so
+that Customer will only be charged for the portion of such months during which the Via solution
+was available to be used for the Deployment.
+1
+
+=== page 11 of 41 ===
+DocuSign Envelope ID: 46D7BA63-9178-46AF-89F7-BA6A63C7B28B 
+D. 
+VIA and CUSTOMER coordinated on the preparation of an application for 
+participation in the IMI Program. The application package, attached hereto as Exhibit B, is 
+incorporated herein by reference as documentation of VIA 's representations regarding the 
+Services hereunder. 
+E. 
+The representations and warranties described above are a material inducement 
+to the CUSTOMER in entering this Contract, and the parties agree that the breach thereof shall 
+be deemed material at the CUSTOMER's option. 
+3. 
+Tenn. This Contract shall be effective for sixteen (16) months and shall be effective 
+and commence immediately upon the same date as its full execution and shall tenninate upon the 
+expiration of sixteen ( 16) months thereafter unless terminated sooner as set forth in Paragraph 6 below. 
+VIA and CUSTOMER may agree to renew the contract for up to three (3) additional one (1) year te1n1s. 
+4. 
+General Responsibilities of the CUSTOMER. 
+A. 
+The CUSTOMER shall pay to VIA the compensation as, and subject to, the 
+tem1s set out below. 
+B. 
+Nothing in this Contract shall be construed as granting VIA any right or 
+guarantee to be selected or exclusively retained to provide the Services to the County. 
+5. 
+Ownership of Documents/Work. The CUSTOMER shall be the owner of all copyright 
+and other intellectual property rights in reports, documents and all other deliverables produced and paid 
+for under this Contract, including any derivative works thereof or improvements thereto ( excluding, for 
+the avoidance of doubt, VIA's pre-existing intellectual property and any derivatives of or improvements 
+thereto), and to the extent permitted by Alabama law, any such material may be reproduced and reused 
+at the discretion of the CUSTOMER without payment of further consideration. VIA shall not transfer, 
+disclose, or otherwise use such information for any purpose other than in performance of the Services, 
+without the CUSTOMER's prior written consent, which may be witW1eld or granted in the sole 
+discretion of the CUSTOMER. 
+For the avoidance of doubt, and notwithstanding anything to the contrary herein, no intellectual 
+property will be conceived, created or furnished under this contract. All intellectual property rights in 
+and to VIA's cloud-based solution (the "Via Solution") and all of its derivative works and improvements 
+are owned by, and are proprietary to the Via, and no such rights are or shall be granted to or transferred 
+to the CUSTOMER, other than the limited subscription, access and use rights to the Via Solution during 
+the Term of this Agreement. 
+6. 
+Tennination of Contract. CUSTOMER or VIA may terminate this Contract upon the 
+other party's material breach of the Contract provided that (a) the non-breaching party sends written 
+notice to the breaching party describing the breach in reasonable detail; (b) the breaching party does not 
+cure the breach within thirty (30) days following its receipt of such notice (the "Notice Period"); and 
+(iii) following the expiration of the Notice Period, the non-breaching party sends a second written notice 
+indicating its election to terminate this Contract. In the event of termination, the CUSTOMER shall 
+pay VIA for Services satisfactorily rendered and for any expenses incurred pursuant to this Contract 
+prior to the date of termination and reimbursable in accordance with the Service Order. 
+7. 
+Compensation. The compensation to be paid to the VIA shall be as provided in this 
+Contract, the Service Order and any future service orders. Said compensation shall be all inclusive of, 
+including without limitation, reimbursement of all costs, incidentals and operating expenses associated 
+with those directly engaged in performance of Services hereunder. Any and all additional expenditures 
+Page 3 of9
+
+=== page 12 of 41 ===
+DocuSign Envelope ID: 46D7BA63-9178-46AF-89F7-BA6A63C7B28B 
+or expenses of VIA not listed in full within this Contract or the Service Order shall not be considered 
+as a part of this Contract and shall not be demanded by VIA or paid by CUSTOMER. 
+VTA understands that CUSTUMER has received a Letter of No Prejudice from the Federal 
+Transit Administration providing pre-award authority for CUSTOMER to begin work on the Project 
+prior to the CUSTOMER's execution of a Cooperative Agreement with the Federal Transit 
+Administration. CUSTUMER understands that compensation for work performed prior to the execution 
+of the Cooperative Agreement is subject to the full execution of the Cooperative Agreement, and all 
+applicable regulations regarding eligible expenses. If the Cooperative Agreement is not executed for 
+any reason VIA will not receive any payment for any expenses incmTed or any work perfonned under 
+this Agreement or the attached Exhibit A. If any expense related to work under this Agreement or the 
+attached Exhibit A is deemed ineligible for any reason, VIA will not receive payment for the ineligible 
+expense. 
+8. 
+Method of Payment. VIA shall submit invoices to the CUSTOMER for payment for 
+work performed in accordance with the Service Order. Such invoice shall be accompanied by a detailed 
+account of compensation to be paid to VIA. Payment shall be made by the CUSTOMER within thirty 
+(30) days of the submission of the invoice by VIA. The CUSTOMER agrees to review and approve 
+invoices submitted for payment in a timely manner. 
+9. 
+Indemnification. VIA shall indemnify, defend and hold the CUSTOMER, and its 
+Commissioners, affiliates, employees, agents, and representatives ( collectively referred to in this 
+Paragraph as "CUSTOMER") harmless from and against any and all claims, demands, liabilities, 
+damages, losses,judgments, costs, and expenses including, without limitation, attorneys' fees and costs, 
+for any and all personal injury (including death) and property damage of any kind or nature whatsoever, 
+incurred by, asserted against, or imposed upon CUSTOMER, as a result of the gross negligence or 
+willful misconduct of VIA, its agents, representatives, employees, members, managers, or contractors 
+(collectively referred to in this Paragraph as " VLA"), any breach by VIA of any applicable law, data 
+security or privacy obligations arising from perfomrnnce of this Contract, or any action or omission of 
+VIA related to or arising out of any failure of VIA to perform its obligations under this Contract. This 
+indemnification shall survive the expiration or termination of this Contract. Notwithstanding anything 
+to the contrary herein, the liability of either party under this Contract, by reason of breach or otherwise, 
+shall be limited to the amount of fees payable to VIA hereunder as set forth on Exhibit A attached 
+hereto. 
+10. 
+Insurance. Prior to perfonning Services pursuant to this Contract, VIA shall carry, with 
+insurers satisfactory to CUSTOMER, throughout the term hereof, Auto Liability Insurance, including 
+owned, hired and non-owned vehicles, with limits of not less than $1,000,000, combined single limit, 
+for both bodily injury liability and property damage liability each occurrence; Commercial General 
+Liability Insurance, including all contractual liability hereunder, with lin1its not less than $1,000,000.00, 
+combined single limit, for both bodily injury liability and property damage liability for each occurrence; 
+and Worker's Compensation Insurance meeting the statutory limits of the State of Alabama and 
+Employer's Liability Insurance fully covering all employees and supervisors pa11icipating in the 
+Services. All Liability insurance shall name the CUSTOMER as an additional insured. Prior to 
+commencing VIA's Services hereunder, a Certificate of Insurance evidencing such coverage, 
+satisfactory to CUSTOMER, shall be furnished to CUSTOMER, which shall specifically state that such 
+insurance shall provide for at least thirty (30) days' notice to CUSTOMER in the event of cancellation, 
+termination or any change in such insurance policies. The worker's compensation certificate shall bear 
+an endorsement clearly evidencing a waiver of the right of subrogation against the CUSTOMER and 
+its representatives. Should VIA fail to furnish current evidence upon demand of any insurance required 
+hereunder, or in the event of cancellation, termination or change in any such insurance, CUSTOMER 
+may, at its option, suspend this Contract until insurance is obtained, terminate this Contract in1mediately 
+without further action, or hold VIA in material default and pursue any and all remedies available. 
+Page 4 of9
+
+=== page 22 of 41 ===
+DocuSign Envelope ID: 46D7BA63-9178-46AF-89F7-BA6A63C7B28B 
+3. Fees 
+Customer shall pay to Via the following Fees: 
+Fee Category 
+" 
+Amount 
+Invoicing Terms 
+Installation Fee 
+$110,000 
+Via In-Kind Contributior $22,000 
+for Federal /Ml Grant 
+Installation Fee (with In $88,000 
+Kind) 
+• First installment 
+50% ($44,000) 
+Payable upon signing of thi~ 
+Order 
+• Second installment 
+50% ($44,000) 
+Payable upon launch of the 
+Deployment 
+Monthly Fees 
+$216,000 (minimum for 12 months) 
+Via In-Kind Contributior, $18,000 
+for Federal !Ml Grant 
+Monthly Fees (with In• $198,000 (minimum for 12 months) 
+Kind) 
+• Per-Vehicle Fees 
+$16,500 minimum per calendar month, Invoiced monthly by Via 
+with a minimum of $550 per vehicle per 
+month (i.e., 30-vehicles) 
+!Total for 12 months 
+$286,000 (minimum excluding additional vehicles, Fees for an~ 
+Additional Services, and travel expenses) 
+For the avoidance of doubt, (i) the number of vehicles per month for purposes of the above fees 
+shall be the maximum number of distinct vehicles input by Customer that use the Via Solution (ii) 
+in the event the duration of the Deployment does not exactly match calendar months, monthly 
+fees will be pro-rated for the first and/or last calendar months of the Deployment, as applicable, 
+so that Customer will only be charged for the portion of such months during which the Via Solution 
+was available to be used for the Deployment. 
+The above fees do not include any fees owed to the third party payment processor. Via will 
+facilitate an introduction to its recommended payment processor and Customer is responsible for 
+entering an agreement with such payment processor in order to be able to process credit card 
+payments. 
+4. Branding 
+The Deployment will be branded as BRATS On-Demand powered by Via. The "powered by Via" 
+banner must be used only in the exact format provided by Via, and will be prominent on all assets 
+promoting the Deployment, including (but not limited to) printed collateral, digital materials, 
+websites, and any vehicle wraps. The "powered by Via" banner will have equal prominence on all 
+marketing materials to any additional partner logos or trademarks. Via may provide pre-approved 
+brand assets and guidelines that must be complied with in all marketing communications 
+distributed by the Customer. 
+5. Marketing and Communications Planning and Execution 
+Confidential · Page 5 of 9

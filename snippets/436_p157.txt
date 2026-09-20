@@ -1,0 +1,157 @@
+# source: raw/bleecker_drive/Williston/Williston_Adopted_MunicipalPlan_August_2025.pdf
+# path: raw/bleecker_drive/Williston/Williston_Adopted_MunicipalPlan_August_2025.pdf
+# hit page: 157 of 376
+# terms: Via Mobility, Via Transit, Via+vehicles
+
+=== page 156 ===
+108 
+ 
+• 
+Most of the areas that people feel unsafe walking and biking are along major roads7 
+A town-wide network of paths reduces congestion on our roads for local trips and provides opportunities 
+for recreation and connection. When combined with bicycle infrastructure, public transportation, and 
+first/last mile connection, expanded pedestrian pathways improve job and housing options without the 
+need to own a car. This has significant social benefits for low-income households, single-parent and 
+younger homes, individuals with disabilities, and non-white individuals, who are less likely to own cars.8  
+The Official Map shows existing trails and paths and those proposed.  The Official Map was developed 
+through a public process and adopted in 2022. Per 24 V.S.A. § 4421, the intent of an Official Map is to 
+identify the location of future municipal utility and facility improvements, such as road or recreational path 
+rights-of-way, parkland, utility rights-of-way, and other public improvements, in order to provide the 
+opportunity for the community to acquire land identified for public improvements prior to development 
+for other use.9 
+Williston last took out a bond for sidewalks in 2004, and alongside that has relied on developers to build 
+sidewalks and paths as part of their projects. This has resulted in gaps – sidewalks that go to nowhere with 
+no plans to be connected, primarily due to lack of funding.  
+ 
+Figure 10.1: Summary of responses to online survey question about funding new paths and sidewalks. 
+Surrounding communities such as South Burlington have utilized a Penny for Paths program to ensure 
+that these projects get consistent funding, both to increase pedestrian safety and close gaps in existing 
+networks. A typical mechanism may be a dedicated 1 cent on the tax rate, such that a $300,000 property 
+would pay $30 into this fund.  
+Public Transit 
+Williston currently has limited, fixed-route bus service provided by the Green Mountain Transit (GMT) and 
+on-demand special transportation services provided by the Special Services Transportation Agency (SSTA). 
+Map 8 – Existing Transportation Network shows the present bus routes. The #1 Williston/Burlington route 
+runs every 20 minutes from 6:00 am to 11:10 pm Monday-Friday and on Saturday every 30 minutes from 
+7:40 am to 7:40 pm with less frequent service in the early morning and late evening hours. Sunday service 
+runs about every 45 minutes from 8:40 am to 7:10 pm. The #10 Williston/Essex route runs Monday-Friday, 
+7:00 am to 6:15 pm with trips spaced 75 minutes apart.10 
+Williston should 
+even if it results in an increase in taxes. 
+66% agreed, 17% disagreed, and 17% were neutral. 
+Strongly Agree 
+97 
+Agree 
+119 
+Question type: Ukert scale. Response rate: 329, 98% 
+Neutral 
+57 
+building new paths and sidewalks, 
+Disagree 
+24 
+Strongly Disagree 
+32
+=== page 157 ===
+109 
+ 
+Route #1 (Williston/Burlington) is one of GMT’s most successful routes and serves over 55,000 trips per 
+month. Route 1 ridership had returned to pre-COVID levels by January of 2023. Currently, Route #10 
+(Williston/Essex) delivers around 1,800 trips per month.11 
+Some service reductions have been implemented since the last Town Plan was written. The Williston 
+Village route was discontinued in 2019 due to low ridership (about 1,000 trips/month). In GMT’s efforts 
+to manage a near-term financial cliff due to the conclusion of covid-relief funds, several route adjustments 
+are being made. This includes the elimination of the Saturday run of the #10 Williston/Essex route and 
+less frequent service for the #1 Williston/Burlington route.12  
+GMT also provides on demand service for people eligible for special transportation services. In FY 2024 
+1,795 trips were provided for the Older & Disabled Transportation program in Williston.  
+Recently Williston has begun to explore microtransit as an option to supplement fixed route bus service 
+and provide a locally focused public transportation option. Microtransit, also known as “on-demand 
+transit,” is a form of public transit that features flexible routing and flexible scheduling of vehicles. 
+Passengers must request a trip, and this is most commonly done using a smartphone application. On-
+demand microtransit services match passenger demand (trips) with supply (vehicles) to improve service 
+quality and extend the reach of the transit system. Passengers who live or work beyond walking distance 
+from fixed-route bus stops can use on-demand microtransit to bridge the “first-and-last-mile” gap to reach 
+the longer-distance service. In lower density areas on-demand microtransit’s primary application is to 
+improve mobility by offering high-quality service where fixed-route buses cannot operate efficiently.13 
+In 2023, Williston engaged the services of Via Mobility to complete a Microtransit Feasibility Study. The 
+Study found that Williston is suitable for a microtransit service, and that the community would benefit 
+from additional transportation options. While the Town is served by fixed routes, most residents live 
+beyond walking distance of stops, and there are no locally focused options open to the general public. 
+Residents would likely use microtransit for errand-running trips, and for connection to fixed routes, 
+llowing community members to meet their daily needs without a personal vehicle. This will benefit those 
+without access to personal cars, and those who would prefer to travel via transit and on foot, making for 
+a more livable community where everyone has access to transit service. The Town should continue to 
+pursue avenues for microtransit service.
+=== page 158 ===
+110 
+ 
+ 
+Objectives, Strategies, and Actions 
+Objectives  
+10.A 
+Williston evaluates its current bicycle and pedestrian infrastructure 
+and has a plan, including adequate funding to upgrade the system over 
+time. 
+10.B 
+Gaps in the existing multi-use path and sidewalk system are rapidly 
+connected with new sidewalks and paths to create a more 
+interconnected network. 
+10.C 
+Existing sidewalks and paths are maintained and enhanced where 
+needed. 
+10.D 
+Bike lanes and space for walking are added to roads where cyclists and 
+walkers feel unsafe. 
+10.E 
+Transit that is frequent, affordable, and fast enough to compete with 
+driving alone, is available to most people in Williston. 
+10.F 
+Vehicle congestion on Williston’s roads is monitored, and intersection 
+and street improvements are made when congestion is predicted to 
+create a safety or accessibility issue. Congestion mitigation is focused 
+on vehicle throughput as opposed to vehicle speed. 
+ 
+ 
+Strategies   
+10.1 
+Create a Bicycle and Pedestrian Plan as an addendum to the          
+Comprehensive Plan.                                                                                
+Actions 
+ 
+Responsibility 
+Timeframe 
+Cost 
+10.1.1 
+Evaluate the current Bicycle and Pedestrian 
+network in Williston and identify gaps and 
+places in town where bicycle and pedestrian 
+infrastructure is desired. 
+Planning 
+Commission 
+Public Works 
+Short Term 
+$ 
+10.1.2 
+Prioritize “gap closing” bicycle and 
+pedestrian infrastructure projects based on 
+Williston’s “Livable, Resilient, Equitable” 
+vision as stated in the Comprehensive Plan. 
+Planning 
+Commission 
+Public Works 
+Selectboard 
+Short Term 
+$ 
+10.1.3 
+Evaluate and rank projects called for by the 
+Plan in terms of cost, effectiveness, relative 
+difficulty to implement, and population 
+served. 
+Planning 
+Commission 
+Public Works 
+Selectboard 
+Short Term 
+$ 
+0 
+I

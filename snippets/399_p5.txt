@@ -1,0 +1,121 @@
+# source: raw/bleecker_drive/Mountain Line/Mountain-Line-On-Demand-Feasibility-Study_Final.pdf
+# path: raw/bleecker_drive/Mountain Line/Mountain-Line-On-Demand-Feasibility-Study_Final.pdf
+# hit page: 5 of 56
+# terms: Via+vehicles
+
+=== page 4 ===
+ii 
+ 
+MOUNTAIN LINE ON-DEMAND FEASIBILITY STUDY 
+Appendix ............................................................................................................................................................ 32 
+Appendix A: Private software companies for microtransit ...................................................................... 33 
+Appendix B: Estimated ridership in FMPO ................................................................................................. 39 
+Appendix C: Risk assessment of on-demand programs ........................................................................... 40 
+Appendix D: Pinellas Suncoast Transit Authority (PSTA)’S contract with Uber .................................... 42 
+Appendix E: Program design spreadsheet ................................................................................................. 43 
+Appendix F: Peer city research spreadsheet .............................................................................................. 44
+=== page 5 ===
+iii 
+ 
+MOUNTAIN LINE ON-DEMAND FEASIBILITY STUDY 
+Exective Summary 
+The purpose of the Mountain Line On-Demand Feasibility Study (On-Demand Study) is to analyze the 
+cost, considerations, and benefits of implementing an on-demand program within the Mountain Line 
+boundary. On-demand transportation is defined as a 
+flexible, real-time hailed transportation option which 
+utilizes emerging technologies and private sector 
+partnerships. As new mobility service providers disrupting 
+transportation services with cutting edge technology 
+emerge, there is a growing trend for public transit agencies 
+to partner with these private companies to enhance public 
+transit. Such partnerships tend to focus on on-demand 
+services that can be hailed in real-time such as subsidizing 
+Transportation Network Companies (TNC), like Uber and 
+Lyft, trips to connect to a transit stop or implementing an 
+in-house microtransit program through a software 
+partnership that allows agency vehicles to be summoned 
+on-demand. 
+Chapter 1: Introduction – Provides information on the purpose of this study, types of on-demand 
+strategies researched, the benefits of implementing on-demand program, and applicability of these 
+strategies. On-demand transportation can complement a fixed-route transit system by helping fill 
+transportation gaps, such as a first mile-last mile connection, serve suburban or rural areas where fixed-
+route transit is not warranted, or provide late-night or weekend service when fixed-route transit 
+ridership is low. In areas that are dense and have linear streets, fixed-route is still the most cost-efficient 
+way to move people from one place to another. On-demand transportation should not replace high 
+ridership routes. 
+Chapter 2: On-Demand Strategies – Provides information on the two main on-demand strategies: 
+microtransit and partnership with TNCs. Microtransit is IT-enabled, multi-passenger transportation 
+service that serves passengers using dynamically generated routes to maximize ridership and 
+productivity. There are a variety of private companies that partner with transit agencies to provide this 
+service through a spectrum of operation models, from software only to a turn-key solution. TNCs, such 
+as Uber and Lyft match passengers with vehicles via a mobile app and website.  
+Chapter 3: Performance Analysis - This section includes three different analyses which feed into the 
+program design of an on-demand strategy. The first part analyzes Mountain Line’s fixed-route system 
+and identifies low performing routes and sections of routes to understand if an on-demand system 
+would be more cost-effective than providing fixed-route in these areas. This analysis demonstrated that 
+for the Thorpe Loop area, an on-demand program can be more cost efficient than fixed-route and 
+provide a higher level of service. 
+The second part of this chapter includes a geographic analysis which identifies areas within Mountain 
+Line’s boundary where there currently is no transit service and assesses travel patterns and number of 
+trips to and from these areas.  The geographic analysis shows that University Heights, Country Club 
+Estates, Industrial Drive, and Doney Park are the areas where on-demand transportation are 
+recommended for further analysis.  
+GOALS OF STUDY: 
+• 
+To provide a cost-effective 
+solution in areas along low 
+performing routes 
+• 
+To provide a level of service 
+where there is currently no 
+fixed-route transit, both 
+spatially and temporally 
+• 
+To provide a first mile-last 
+mile connection to fixed-
+route
+=== page 6 ===
+iv 
+ 
+MOUNTAIN LINE ON-DEMAND FEASIBILITY STUDY 
+Lastly, a temporal analysis which identifies the time gap in which of no transit service is provided by 
+Mountain Line from about 10:30 pm – 5:45 am. Further analysis shows that the period from 11 pm – 3 
+am on Friday and Saturday has the highest concentration of vehicle trips outside of Mountain Line’s 
+current service hours. These results indicate that this time period would be the priority to fill a temporal 
+gap when there is no transit service. If funding allows, the program could expand to other days of the 
+week. 
+Chapter 4: Program Design – The section incorporates the data results from Chapter 3 and designs an 
+on-demand program which addresses a specific goal identified in Chapter 1.  
+Goal 1: Provide a cost-effective solution in areas along low performing routes. Thorpe Loop is the one 
+area in the Mountain Line system where there are more benefits than challenges to streamlining a low 
+performing route with an on-demand solution. It is recommended that this program will use the 
+microtransit strategy with one dedicated vehicle during Route 5 service hours and will rely on utilizing 
+Mountain Lift paratransit vehicles that are in service to supplement the service.  
+Goal 2: Provide a level of service where there is none, either spatially or temporally. This chapter has 
+two different on-demand programs to meet this goal; a Late-Night program and a program in Doney 
+Park.  
+The Late-Night zone will cover Flagstaff city limits and run from 11 pm – 2:30am Fridays and Saturdays. 
+Since Mountain Line currently does not run service during this time, a TNC partnership can be the first 
+phase to understand demand and travel patterns. To receive the Late-Night TNC subsidy, this study 
+recommends it by required that a passenger must use fixed-route for one part of their journey.  For 
+example, using the bus to get to work but then using a TNC to get home when the fixed-route is no 
+longer running. 
+Doney Park is an area that is outside of Flagstaff city limits that could be considered for an on-demand 
+program. However, through additional analysis, Doney Park is not recommended at this time. Funding 
+for this program poses a challenge since it is outside of Flagstaff city limits. Due to the large service area 
+and high ridership numbers, Mountain Line would need 3 - 4 dedicated vehicles in the area for 
+microtransit. This equates to over $700,000 in operating costs and Mountain Line would need to buy 
+additional vehicles.  
+Goal 3: Provide first mile-last mile connection to fixed-route. Based on results from geographic gaps in 
+Chapter 3, University Heights and Country Club/Industrial are two areas where a first mile-last mile on-
+demand program could be implemented. 
+The hills and narrow roads in the University Heights neighborhood are challenging for a 40-foot bus to 
+safely navigate. Connecting people from University Heights to Routes 4, 14, and 10 is a viable option for 
+a first mile-last mile solution since there are three different fixed-route options. It is recommended that 
+this program utilizes the microtransit strategy since it is about $70,000 less than a TNC partnership.   
+The second on-demand zone includes the Country Club neighborhood and Industrial Drive area north 
+of I-40 and south of Route 66 and the railroad tracks. The on-demand solution could be delivered 
+through either the TNC or microtransit strategy since the overall program costs are similar for both 
+programs. Microtransit has advantages and is the recommended strategy since it is operated in-house, 
+there is more ownership of the program, and there are Mountain Lift vehicles that pickup and drop-off 
+in the area.

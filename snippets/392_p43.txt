@@ -1,0 +1,275 @@
+# source: raw/bleecker_drive/Los Alamos (Spare Labs)/1040_24_A_-_AGR_24-37_Spare_Labs_Inc.pdf
+# path: raw/bleecker_drive/Los Alamos (Spare Labs)/1040_24_A_-_AGR_24-37_Spare_Labs_Inc.pdf
+# hit page: 43 of 81
+# terms: Spare Labs
+
+=== page 42 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+42 
+ Agreement Template Version: 04012024 
+Exhibit C 
+County Technology Standards 
+AGR24-37 
+ 
+The following County Technology Standards marked as “Yes” under “Required” shall be supported by the 
+Contractor, throughout the Term of this Agreement. The table below indicates the Contractor has either 
+agreed to a specific standard or a standard has been agreed by County to not be required or not 
+applicable to this Agreement. 
+ 
+STANDARD REQUIREMENT 
+Required or  
+Not Applicable (“N/A”) 
+Server 
+Operating 
+system (OS) 
+(On-Premises) 
+Microsoft (MS) Windows Server 2019, 64 bit or current 
+(Standard and Datacenter). Contractor software must be 
+maintained to run on a supported platform service level as 
+defined by Microsoft at the latest stable patch level. 
+Departments shall be responsible for licensing costs and must 
+request cost estimates from Information Management (IM) 
+Division. 
+N/A 
+Server 
+Hardware 
+(On-Premise) 
+Preferred: Use of County VMware server platform. 
+Environment design must be submitted and reviewed by IM 
+Division for acceptance. Proposals shall include required 
+hardware and licensing of VMware, operating system, and 
+proposed application-based requirements. Application with 
+a proven Virtual installation template is preferred. 
+ 
+Physical Server minimum hardware specifications consist 
+of: Multi Socket/Multi Core processor Intel or AMD based 
+server (standalone or blade server as determined by Los 
+Alamos County IM Division with a minimum 64 GB RAM 
+and RAID capability. Contractor software must be 
+maintained to run on a supported platform service levels as 
+defined by Microsoft at the latest stable patch level. 
+N/A 
+Network 
+Infrastructure 
+See LAC Standards and Specifications for Building and 
+Campus Distribution Systems Version 3 (Primarily used for 
+building construction purposes). 
+N/A 
+Network 
+(On-Premise) 
+Supported network protocol is TCP/IP (IPv4). Standards 
+based NIC rated at 100/1000/10G copper or fiber is 
+supported. If considering a 10G connection County IT 
+network group shall be consulted to ensure equipment 
+compatibility and availability at proposed site. Additional 
+hardware cost, may be required of the project, based on 
+project requirements, equipment and availability. The County 
+uses Cisco technology as its default network equipment 
+standard. Solutions shall be compatible with Cisco Network 
+Technology. 
+N/A 
+Remote 
+Network 
+Access (On- 
+Premise) 
+Direct remote access to the County network and server 
+environment shall be done using the County’s Cisco 
+AnyConnect SSH VPN. Once a VPN connection is 
+established end-point connections are supported via 
+Microsoft RDP. Contractor support accounts shall be set up 
+in accordance with the adopted Los Alamos County IT 
+Usage and Security Policy #1210. 
+N/A 
+LAC Network 
+Account 
+Privilege (On- 
+Premise & 
+Hosted) 
+Desktop Client Software shall function for end users with 
+standard user privileges. user cannot install software and shall 
+not have administrative rights. 
+YES 
+Attachment A
+=== page 43 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+43 
+ Agreement Template Version: 04012024 
+STANDARD REQUIREMENT 
+Required or  
+Not Applicable (“N/A”) 
+Desk Hardware 
+(On-Premise & 
+Hosted) 
+Physical unit minimum hardware requirements consist of: 
+Intel core i5 based processor, minimum 8 GB RAM, Intel 
+integrated graphics 1280 capable video minimum, display 
+port, input or HDMI, 4 USB 2/3 ports. 
+ 
+Support deployment onto Virtual Desktop Infrastructure (VDI) 
+platform, specifically cloud-based platforms from Microsoft 
+Azure, Amazon Web Service (AWS) or Google Cloud 
+Platform. 
+YES 
+Desktop OS 
+(On-Premise 
+& Hosted) 
+Microsoft Windows 10 at current Service Pack (SP). 
+YES 
+Internet 
+Browser 
+(On-Premise 
+& Hosted) 
+Internal County Network: Google Chrome and Edge, at its 
+latest version, are the installed browsers on county devices. 
+Google Chrome is the county standard. New web 
+Applications must be based on HTML5. Applications 
+requiring Internet Explorer, Microsoft Silverlight, Java and 
+Flash are not supported. Web applications requiring .NET 
+framework shall not be considered. IM Division shall be 
+consulted for compatibility issues prior to considering new 
+application purchases requiring Java. 
+YES 
+Database 
+Software 
+Products 
+(On-Premise) 
+Supported database software is Microsoft (MS) SQL server 
+version 2016 through current. New MS SQL Server product 
+installations shall require review, purchasing of licenses, 
+appropriate hardware, and maintenance in support of 
+proposed project or instance install to the County MS SQL 
+Server Environment. MS SQL server software for new 
+implementations shall be at within the Microsoft certified 
+support release level or current. Server components for 
+proposed projects require review and purchasing as part of 
+the project initiative. Contractor software must be maintained 
+to run on a supported platform service level as defined by 
+Microsoft. 
+• Passwords are not permitted to be transported 
+in clear\plain text. 
+• Contractor implementation shall not use the SA 
+password for user level functions. SA passwords 
+shall be maintained by the County DBA. 
+• Only database instances can be installed on the 
+County MS-SQL Environment. If a Contractor 
+software component install is necessary on the 
+database server, a standalone installation shall 
+be required. 
+• Contractor software must use standard Access & 
+Connection architecture for accessing databases 
+on the County MS-SQL Environment. 
+• Applications based on Microsoft Access are 
+not supported. Applications based on 
+SQLEXPRESS version should be reviewed 
+and the limitation understood by the 
+customers and the Contractor. 
+Hosted solutions shall be compliant with or provide a 
+method to provide the County with database exports in the 
+MS-SQL Server format. 
+YES 
+Attachment A
+=== page 44 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+44 
+ Agreement Template Version: 04012024 
+STANDARD REQUIREMENT 
+Required or  
+Not Applicable (“N/A”) 
+ 
+Internet: 
+Collaboration 
+and Web 
+Publishing 
+(On-Premise 
+& Hosted) 
+Use of Internet apps or links shall be considered in 
+collaboration with the Los Alamos Information Management 
+Division Applications group for review to ensure that 
+compatibility and Internet publishing protocols have been 
+satisfied prior to formation of any agreement or installation. 
+N/A 
+Intranet: 
+Collaboration 
+and Web 
+Publishing 
+(On-Premise 
+& Hosted) 
+Microsoft SharePoint Online is the basis for the County’s 
+Intranet. Any products that shall integrate or utilize the 
+County’s Intranet site shall require a compatibility 
+consultation with IM Division before purchase and 
+implementation. Contractor software shall be maintained to 
+run on supported platform service levels as defined by 
+Microsoft and/or the Intranet site Contractor. Proposed 
+Intranet software products shall be accompanied by roadmap 
+for compatibility with MS SharePoint Online. 
+N/A 
+Productivity 
+Software 
+(On-Premise 
+& Hosted) 
+Los Alamos County uses Microsoft M365 Office Suite at its 
+most recent version and service pack. Contractor software 
+using the Office suite must be maintained to run on 
+supported platform service levels as defined by Microsoft. 
+N/A 
+Email 
+(On-Premise 
+& Hosted) 
+Microsoft M365 with hub transport for relay. If SMTP relay 
+access from on premise Contractor specific software is 
+necessary, permission to use the County Email exchange 
+shall be obtained prior to contracting or purchase of the 
+software or solution. If SMTP relay access from hosted 
+Contractor specific software is necessary, preference is for 
+SMTP relay to be hosted by Contractor. The Contractor 
+specific solution must be supported and maintained to relay 
+off County email domain and directed to hand off the email 
+message to another mail server that can get the message 
+closer to its intended recipient in accordance with service 
+levels as defined by Microsoft for 
+the M365 product. 
+N/A 
+Geographic 
+Information 
+Standards 
+(GIS) 
+(On-Premise 
+& Hosted) 
+The County uses strictly ArcGIS products by Esri for 
+GIS. Desktop software for end users includes ArcGIS 
+Desktop and ArcGIS Pro. GIS web services are provided as 
+REST endpoints from ArcGIS Server using Internet 
+Information Services (IIS). Our enterprise geodatabase is 
+managed using ArcSDE with Microsoft SQL Server. 
+Supported versions are one or two iterations behind the 
+latest ESRI-supported release. The preferred method for 
+applications to interact with GIS is via REST services. Web 
+applications must be hosted in either ArcGIS Online or 
+ArcGIS Portal. 
+N/A 
+ 
+Mobile Devices 
+Shall conform to Los Alamos County Mobile Policy 
+#1240. Mobile devices requiring Intranet access must be 
+secured through the County Mobile Device Management 
+System. 
+N/A 
+ 
+Security & SSL 
+(On-Premise & 
+Hosted) 
+Intranet devices must be capable of multi-factor 
+authentication (MFA) using the County’s current MFA 
+systems. Any requirements for access to ports from the 
+Internet into the County Network shall be approved via a 
+technical review by the IM Division before product(s) 
+purchase and implementation. Cisco Secure Endpoint 
+Antivirus and Antispyware Enterprise software are used on 
+all intranet computing devices; Contractor solutions shall 
+work in conjunction with stated antivirus products. 
+YES 
+Attachment A

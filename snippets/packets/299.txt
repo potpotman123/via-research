@@ -1,0 +1,395 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/0.0 OMNIA Cooperative Agreement/25-08_Via_Transportation_Response_Combined_2025_05_01_Redacted__1___1_.pdf
+# pages_total: 191; hit_pages: [1, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 54, 65, 66, 68, 70, 72, 73, 74, 75, 76, 79, 83, 84, 85, 86, 87, 90, 92, 94, 96, 97, 99, 100, 101, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 117, 121, 123, 124, 125, 126, 129, 130, 131, 132, 135, 136, 139, 140, 152, 153, 166, 170, 172, 173, 176, 177, 181, 184, 185, 187, 189]; included: [72]
+# context: Bleecker Drive folder: 0.0 OMNIA Cooperative Agreement
+
+=== page 72 of 191 ===
+RFP 25-08   |  37
+Region 4 ESC – OMNIA
+Request for Proposals | Solicitation No. 25-08
+Via Transportation, Inc. | Pricing Catalogue
+Line #
+Vendor Part #
+Product & Equipment 
+/Manufacturer
+Description
+% Discount
+List Price (Before 
+Discount)
+Net Price to Region 4 ESC
+1
+Micro-T1-Inst
+Via Transportation, Inc.
+Microtransit software installation fee <= 20 vehicles
+2%
+$28,325.00
+$27,758.50
+2
+Micro-T2-Inst
+Via Transportation, Inc.
+Microtransit software installation fee - >20 vehicles
+2%
+$38,625.00
+$37,852.50
+3
+Para-T1-Inst
+Via Transportation, Inc.
+Paratransit / NEMT software installation fee <= 20 vehicles
+2%
+$38,625.00
+$37,852.50
+4
+Para-T2-Inst
+Via Transportation, Inc.
+Paratransit / NEMT software installation fee - >20 vehicles
+2%
+$48,925.00
+$47,946.50
+5
+Micro-PVPM-1
+Via Transportation, Inc.
+Via Microtransit software fee per vehicle per month - Vehicle 1
+2%
+$1,545.00
+$1,514.10
+6
+Micro-PVPM-2
+Via Transportation, Inc.
+Via Microtransit software fee per vehicle per month - Vehicle 2
+2%
+$515.00
+$504.70
+7
+Micro-PVPM-3
+Via Transportation, Inc.
+Via Microtransit software fee per vehicle per month - Vehicle 3
+2%
+$257.50
+$252.35
+8
+Micro-PVPM-4
+Via Transportation, Inc.
+Via Microtransit software fee per vehicle per month - Vehicle 4
+2%
+$154.50
+$151.41
+9
+Micro-PVPM-5
+Via Transportation, Inc.
+Via Microtransit software fee per vehicle per month - Vehicle 5
+2%
+$103.00
+$100.94
+10
+Micro-PVPM-6-10
+Via Transportation, Inc.
+Via Microtransit software fee per vehicle per month - Vehicles 6-10
+2%
+$360.50
+$353.29
+14
+Micro-PVPM-11-20
+Via Transportation, Inc.
+Via Microtransit software fee per vehicle per month - Vehicles 11-20
+2%
+$334.75
+$328.06
+15
+Micro-PVPM-21+
+Via Transportation, Inc.
+Via Microtransit software fee per vehicle per month - Vehicles 21+
+2%
+$309.00
+$302.82
+16
+Para-PVPM-1
+Via Transportation, Inc.
+Via Paratransit / NEMT software fee per vehicle per month - Vehicle 1
+2%
+$1,339.00
+$1,312.22
+17
+Para-PVPM-2
+Via Transportation, Inc.
+Via Paratransit / NEMT software fee per vehicle per month - Vehicle 2
+2%
+$283.25
+$277.59
+18
+Para-PVPM-3
+Via Transportation, Inc.
+Via Paratransit / NEMT software fee per vehicle per month - Vehicle 3
+2%
+$206.00
+$201.88
+19
+Para-PVPM-4
+Via Transportation, Inc.
+Via Paratransit / NEMT software fee per vehicle per month - Vehicle 4
+2%
+$128.75
+$126.18
+20
+Para-PVPM-5
+Via Transportation, Inc.
+Via Paratransit / NEMT software fee per vehicle per month - Vehicle 5
+2%
+$103.00
+$100.94
+21
+Para-PVPM-6-10
+Via Transportation, Inc.
+Via Paratransit / NEMT software fee per vehicle per month - Vehicles 6-10
+2%
+$309.00
+$302.82
+22
+Para-PVPM-11-20
+Via Transportation, Inc.
+Via Paratransit / NEMT software fee per vehicle per month - Vehicles 11-
+20
+2%
+$283.25
+$277.59
+23
+Para-PVPM-21+
+Via Transportation, Inc.
+Via Paratransit / NEMT software fee per vehicle per month - Vehicles 21+
+2%
+$257.50
+$252.35
+24
+Micro-Turnkey-Ops-Hr
+Via Transportation, Inc.
+Via turnkey operations - recurring all-inclusive fee per vehicle hour (varies 
+based on location, service hours, vehicle type, and other requirements, to 
+be scoped and priced for each individual service)
+2%
+$51.50-$82.40
+$50.47-$80.75
+25
+Turnkey-Ops-Wrap
+Via Transportation, Inc.
+Via turnkey operations - upfront fee per vehicle wrap (must be procured 
+alongside #24)
+2%
+$3,000.00
+$2,940.00
+26
+Turnkey-Ops-Rear-WAV
+Via Transportation, Inc.
+Via turnkey operations - upfront fee per rear-entry WAV retrofit (ICE 
+vehicles, must be procured alongside #24)
+2%
+$22,000.00
+$21,560.00
+27
+Turnkey-Ops-Side-WAV
+Via Transportation, Inc.
+Via turnkey operations - upfront fee per side-entry WAV retrofit (ICE 
+vehicles, must be procured alongside #24)
+2%
+$25,750.00
+$25,235.00
+28
+Consulting-Hr
+Via Transportation, Inc.
+Hourly rate for consulting services
+2%
+$257.50
+$252.35
+29
+Technology-Hr
+Via Transportation, Inc.
+Hourly rate for development work or other technology customization
+2%
+$206.00
+$201.88
+30
+School-Turnkey-Ops-Hr
+Via Transportation, Inc.
+Via TaaS for Schools operations - recurring all-inclusive fee per vehicle 
+hour (varies based on location, service hours, and other requirements, to 
+be scoped and priced for each individual service). Assumes driver-owned 
+vehicles.
+2%
+$61.80-$82.40
+$60.56-$80.75
+31
+Para-Turnkey-Ops-Hr
+Via Transportation, Inc.
+Paratransit operations - recurring all-inclusive fee per vehicle hour (varies 
+based on services provided, location and other factors, to be scoped and 
+priced for each individual service)
+2%
+$61.80-$103.00
+$60.56-$100.94
+32
+FR-Turnkey-Ops-Hr
+Via Transportation, Inc.
+Fixed Route operations - recurring all-inclusive fee per vehicle hour (varies 
+based on services provided, location and other factors, to be scoped and 
+priced for each individual service)
+2%
+$92.70-$144.20
+$90.85-$141.32
+33
+Transit-Mgmt
+Via Transportation, Inc.
+End-to-end management of full transit service - recurring annual fee 
+(varies based on scope of services provided, to be scoped and priced for 
+each individual service)
+2%
+$206,000.00-$515,000.00
+$201,880.00-$504,700.00
+34
+1Y-T1-RSched-RR
+Remix Technologies LLC
+Remix Scheduling - 1Y Contract - Fee per Bus per Year: 0-50 Buses, Subject 
+Always to a $28,930 Annual Minimum
+2%
+$920.00
+$901.60
+35
+1Y-T2-RSched-RR
+Remix Technologies LLC
+Remix Scheduling - 1Y Contract - Fee per Bus per Year: 51-100 Buses, 
+Subject Always to a $28,930 Annual Minimum
+2%
+$725.00
+$710.50
+36
+1Y-T3-RSched-RR
+Remix Technologies LLC
+Remix Scheduling - 1Y Contract - Fee per Bus per Year: 101-500 Buses, 
+Subject Always to a $28,930 Annual Minimum
+2%
+$640.00
+$627.20
+37
+1Y-T4-RSched-RR
+Remix Technologies LLC
+Remix Scheduling - 1Y Contract - Fee per Bus per Year: 501+ Buses, 
+Subject Always to a $28,930 Annual Minimum
+2%
+$490.00
+$480.20
+38
+3Y-T1-RSched-RR
+Remix Technologies LLC
+Remix Scheduling - 3Y Contract - Fee per Bus per Year: 0-50 Buses, Subject 
+Always to a $28,100 Annual Minimum
+2%
+$892.00
+$874.16
+39
+3Y-T2-RSched-RR
+Remix Technologies LLC
+Remix Scheduling - 3Y Contract - Fee per Bus per Year: 51-100 Buses, 
+Subject Always to a $28,100 Annual Minimum
+2%
+$703.00
+$688.94
+40
+3Y-T3-RSched-RR
+Remix Technologies LLC
+Remix Scheduling - 3Y Contract - Fee per Bus per Year: 101-500 Buses, 
+Subject Always to a $28,100 Annual Minimum
+2%
+$621.00
+$608.58
+41
+3Y-T4-RSched-RR
+Remix Technologies LLC
+Remix Scheduling - 3Y Contract - Fee per Bus per Year: 501+ Buses, 
+Subject Always to a $28,100 Annual Minimum
+2%
+$475.00
+$465.50
+42
+5Y-T1-RSched-RR
+Remix Technologies LLC
+Remix Scheduling - 5Y Contract - Fee per Bus per Year: 0-50 Buses, Subject 
+Always to a $27,300 Annual Minimum
+2%
+$865.00
+$847.70
+43
+5Y-T2-RSched-RR
+Remix Technologies LLC
+Remix Scheduling - 5Y Contract - Fee per Bus per Year: 51-100 Buses, 
+Subject Always to a $27,300 Annual Minimum
+2%
+$682.00
+$668.36
+44
+5Y-T3-RSched-RR
+Remix Technologies LLC
+Remix Scheduling - 5Y Contract - Fee per Bus per Year: 101-500 Buses, 
+Subject Always to a $27,300 Annual Minimum
+2%
+$602.00
+$589.96
+45
+5Y-T4-RSched-RR
+Remix Technologies LLC
+Remix Scheduling - 5Y Contract - Fee per Bus per Year: 501+ Buses, 
+Subject Always to a $27,300 Annual Minimum
+2%
+$461.00
+$451.78
+46
+Base-RT-RR
+Remix Technologies LLC
+Remix Planning - Base Fee
+2%
+$18,690.00
+$18,316.20
+47
+1Y-T1-RT-RR
+Remix Technologies LLC
+Remix Planning - 1Y Contract - Fee per Bus per Year for Fleets >19 Buses: 
+0-50 Buses, Subject Always to a $18,690 Annual Minimum
+2%
+$293.00
+$287.14
+48
+1Y-T2-RT-RR
+Remix Technologies LLC
+Remix Planning - 1Y Contract - Fee per Bus per Year for Fleets >19 Buses: 
+51-100 Buses, Subject Always to a $18,690 Annual Minimum
+2%
+$285.00
+$279.30
+49
+1Y-T3-RT-RR
+Remix Technologies LLC
+Remix Planning - 1Y Contract - Fee per Bus per Year for Fleets >19 Buses: 
+101-500 Buses, Subject Always to a $18,690 Annual Minimum
+2%
+$280.00
+$274.40
+50
+1Y-T4-RT-RR
+Remix Technologies LLC
+Remix Planning - 1Y Contract - Fee per Bus per Year for Fleets >19 Buses: 
+501+ Buses, Subject Always to a $18,690 Annual Minimum
+2%
+$275.00
+$269.50
+51
+3Y-T1-RT-RR
+Remix Technologies LLC
+Remix Planning - 3Y Contract - Fee per Bus per Year for Fleets >19 Buses: 
+0-50 Buses, Subject Always to a $18,690 Annual Minimum
+2%
+$283.00
+$277.34
+52
+3Y-T2-RT-RR
+Remix Technologies LLC
+Remix Planning - 3Y Contract - Fee per Bus per Year for Fleets >19 Buses: 
+51-100 Buses, Subject Always to a $18,690 Annual Minimum
+2%
+$278.00
+$272.44

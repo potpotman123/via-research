@@ -1,0 +1,89 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Metro Micro (LA)/2019_0833_Attachment_A_-_Third_Quarter_Report.pdf
+# pages_total: 6; hit_pages: [1, 4]; included: [1, 4]
+# context: Bleecker Drive folder: Metro Micro (LA)
+
+=== page 1 of 6 ===
+M
+Los Angeles County
+Metropolitan Transportation Authority
+One Gateway Plaza
+Los Angeles, CA 90012-2952
+213.922.2000 Tel
+metro.net
+Metro
+NOVEMBER 25, 2019
+TO:
+THROUGH:
+BOARD OF DIRECTORS
+PHILLIP A. WASHINGTON
+CHIEF EXECUTIVE OFFICER
+RAW
+FROM:
+SUBJECT:
+JIS
+CHIEF IANOVATION OFFICER JES
+MOBILITY ON DEMAND: THIRD QUARTER REPORT AND
+ASSEMBLY BILL 5 COMPLIANCE
+Metro's Mobility on Demand pilot has completed nine months of service and more than
+45,000 rides. This on-demand, shared-ride pilot is delivered through a partnership with
+ride share company Via. It makes ride-hailing services available to users who would not
+otherwise have access, promotes sustainability and congestion reduction through
+shared rides, and expands the reach of Metro fixed-route services. Additional
+information about the service can be found in Attachment A.
+The pilot has now been operational for nine months; the third quarter (Q3) concluded
+October 25, 2019. Since the second quarter report was delivered to the Board in
+September, ridership has continued to grow far beyond the original target Key
+Performance Indicators (KP|s). The utilization per service hour has also continued to
+rise, exceeding the target 2.5 rides per driver hour near the close of the third quarter.
+A new California Law (AB 5) changes the test that determines whether drivers and other
+workers are employees and goes into effect on January 1, 2020. Staff is amending the
+contract with Via to require drivers to be employees. Staff is pursuing a potential second
+year of this short-term research pilot, which would adjust the service design based on
+findings from the first year.
+PERFORMANCE
+Ridership
+Since service launched in January, the number of rides has increased from 160 in the
+first week of service to 2,336 per week at the close of the third quarter, a nearly 15-fold
+increase since the beginning of the pilot. The steadily increasing ridership is a likely
+indicator of customer satisfaction and efficacy of the service.
+
+=== page 4 of 6 ===
+Subsidy
+At the close of Q3, ride subsidies were averaging about $13 per ride, and 2.5 miles in
+length. By comparison, an infrequent bus route can cost up to $21 per ride for a ride of
+similar length and only provide service about once an hour. Access Services trips have
+a subsidy of $39 regardless of length, require booking a day in advance, and pick up
+times are subject to negotiation depending on vehicle availability. While Access
+Services trips average ten miles in length (much longer than MOD trips), Access
+Services pays their contractors same price for rides of any distance, and 35% of the
+trips are less than five miles.
+Reaching hard to reach populations
+Requests for wheelchair accessible vehicles continue to account for about 1% of total
+rides. By comparison, 0.5% of Metro Bus trips are made by people in wheelchairs. Via
+call center trips continue to account for about 1% of the total trips while 48% of Metro
+Bus riders and 27% of Metro Rail riders do not have smart phones.
+Research
+The Eno Center for Transportation, as well as University of California Los Angeles,
+University of Oregon, and University of Washington are analyzing both qualitative and
+quantitative data from the pilot that will inform a final project report. That data will help to
+determine whom the pilot has been able to serve, and if the benefits have been in line
+with the project goals.
+Findings to inform Micro Transit
+Findings from the partnership with Via are being shared with the Micro Transit team to
+provide insights in preparation for the launch of Micro Transit in 2020.
+Lessons from Seattle
+The Via service in the Seattle area has seen even higher adoption and efficiency with
+over 7,000 rides per week and over five rides per driver hour. The Seattle area service
+differs in that the service additionally runs during evenings and weekends, the rides are
+provided in a dedicated, branded fleet of consistent vehicles, transit patrons can tap
+their transit passes on a card reader inside the vehicles, and the service zones are
+contiguous for more efficient operation. Metro staff is exploring the possibility of
+implementing several of these features in a potential second year of the Via partnership.
+NEXT STEPS
+Assembly Bill 5 Compliance
+The Governor signed AB5 in September 2019, which will require many workers
+classified as independent contractors to become company employees. Metro asked Via
+to change the driver employment model under the contract from independent
+contractors to employees. Via has agreed to work with Metro to change the model on
+MOBILITY ON DEMAND: THIRD QUARTER REPORT AND ASSEMBLY BILL 5 COMPLIANCE

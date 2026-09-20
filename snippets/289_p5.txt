@@ -106,3 +106,50 @@ the tasks outlined in the Contractor's response to the RFP, as outlined below. T
 Direct Route portion of the Services shall be on fixed costs and a cost per on-demand service hour basis, 
 corresponding with the tasks outlined below.
 === page 6 ===
+Service
+Arlington On-Demand
+(Micro TaaS)
+Cost Category
+Year 8: January 1, 2025 -
+December 31, 2025
+Year 9: January 1, 2026 -
+December 31, 2026
+Total
+$9,156,776.20
+$9,432,069.40
+Dynamic Direct Route
+Total
+$834,070.25
+$252,790.00
+RAPID
+(Autonomous Vehicle Program)
+Total
+Grand Service Total (without farebox)
+$816,713.35
+$10,807,559.80
+$0.00
+$9,684,859.40
+"On-demand service hours" or "service hour" means an hour that one driver is providing service pursuant
+to this Contract. The total number of service hours may differ from those set forth herein based on the
+mutual agreement of the parties, as long as the total cost paid by the City does not exceed the total "not to
+exceed" amount (subject to the provisions of the Contract). The Total Annual Cost shown above is based
+on the below assumptions with respect to source of funding. That amount (and the resulting number of
+service hours and operating hours required to be provided by Contractor) may change if the actual fare
+revenue differs from projections.
+Upon reasonable request, Via will provide customization and development services subject to the
+following fee:
+Service
+Customize Via's service as may
+be requested
+Description
+Fee
+B. Invoicing
+The Fees shown above will vary month-to-month and be invoiced on a cost-per-hour basis (for service
+hours actually provided), or otherwise as outlined in subsection A above.
+Contractor shall invoice the City monthly on or about the 15* of each month, starting on or about January
+15, 2025, to include fees for the previous calendar month.
+Invoices shall include:
+• Costs of services provided during previous calendar month;
+• Dates of service work;
+• Any necessary reconciliations of charges or payments from previous calendar months), if
+applicable;

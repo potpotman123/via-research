@@ -1,0 +1,119 @@
+# source: raw/bleecker_drive/City of Galveston/19367.pdf
+# path: raw/bleecker_drive/City of Galveston/19367.pdf
+# hit page: 5 of 19
+# terms: Remix Technologies
+
+=== page 4 ===
+Renewal #1 of the November 1, 2021 Remix Services Agreement between
+Island Transit and Remix Technologies, LLC
+Remix Technologies LLC (“Remix”) and Island Transit (“Customer” and together with Remix, the
+“Parties”) have entered into an agreement titled Remix Services Agreement between Island Transit
+and Remix Technologies, LLC (the “Agreement”) dated as of November 1, 202. Upon execution of
+this Renewal (the “Renewal”), the Parties agree to the following:
+1.
+Renewal. With effect from November 1, 2024 (the “Effective Date”) the Parties hereby
+agree to extend the duration of the Agreement beyond its original duration from the
+Effective date for a period of 3 years until October 31, 2027.
+2.
+Price. The Parties hereby agree to the following price structure:
+Remix Planning
+Platform License
+Planning
+●
+2024: $18,500 USD
+●
+2025: $19,500 USD
+●
+2026: $20,500 USD
+License Summary
+Total Contract Value: $58,500 USD / 3 years
+Includes:
+●
+Remix licenses for an unlimited number of users within organization.
+●
+Software as a Service (SaaS): fully hosted, cloud-based web platform.
+●
+Platform functionality as described in the Agreement with continuous
+improvements released throughout the course of the contract
+●
+Dedicated Customer Success staff
+Marketing Terms
+Willingness to work with Remix to develop a case study, mutually agreeable press
+release, ability to use Customer as a reference.
+Additional Services
+Customer acknowledges that additional services, such as access to Company's
+(including its affiliates) proprietary technology platform used to establish, monitor,
+operate and/or manage fixed-route and demand responsive transit networks, may be
+added to this Agreement at an additional cost during the Term.
+Payment Terms
+Fees invoiced annually in advance of access, payable in 30 days from the date of
+invoice.
+3.
+Conflicts, Use of Terms, Governing Law. Capitalized terms used but not defined herein have
+the meanings set forth in the Agreement. Except as expressly provided herein, the terms
+and conditions of the Agreement remain unchanged. This Renewal will be governed by the
+same law as the Agreement.
+=== page 5 ===
+REMIX TECHNOLOGIES LLC
+ISLAND TRANSIT
+By:
+By:
+Name:
+Name:
+Title:
+Title:
+Date:
+Date:
+Remix Billing Information
+Attn
+Accounts Receivable
+Address
+114 Fifth Avenue, Floor 17
+New York, NY 10011
+Email
+AR@ridewithvia.com
+Customer Billing Information
+Attn
+__________________________________
+Address
+__________________________________
+Email
+__________________________________
+Phone
+__________________________________
+=== page 6 ===
+Remix Transit 
+Documentation of Software Features and Unique 
+Functionality 
+ 
+Executive Summary: ​Remix Transit is the only cloud-based transit planning software 
+that provides quick route design and analysis capabilities designed for team 
+collaboration, including: map-based route and stop planning, stop-based 
+demographic analysis, operating cost calculations based on both frequencies and 
+timetables, Title VI analysis, customizable accessibility visualizations, and flexible 
+data visualization with analytics through a complementary product experience with 
+Remix Explore. Remix Transit is uniquely designed for community outreach: external 
+stakeholders can comment electronically on publicly-shareable Remix projects 
+through read-only links. Remix Transit is also uniquely designed for collaboration 
+and cohesive planning: maps are easy to share across an organization and users can 
+analyze neighboring transit datasets for additional regional context and 
+collaboration. The Remix software is designed to work within existing transit 
+planning processes, including the ability to import routes and data through General 
+Transit Feed Specification (GTFS) and shapefile, and to export data for use in 
+existing transit tools. As a Software-as-a-Service (SaaS) product, Remix Transit is 
+available to an unlimited number of users under one organizational license, includes 
+an unlimited number of custom shapefile imports, exports, and technical customer 
+support, and is ready for immediate deployment.  
+ 
+Key Distinguishing Features 
+●
+Browser-based, interactive, and dynamic:​ Remix Transit is a transit 
+planning software platform that uses an internet browser to provide a 
+drag-and-drop interface for designing and modifying routes. By using 
+cloud-based software, the agency avoids being encumbered by the cost and 
+time of on-premise installation or updates, and users are provided the 
+flexibility of accessing the software anywhere, whether that be at their home 
+office or at a public engagement meeting.   
+1128 Howard St. 
+ SF, CA 94103 
+remix.com

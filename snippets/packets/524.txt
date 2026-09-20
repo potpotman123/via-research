@@ -1,0 +1,105 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Milwaukee/25-26 JULY REPORT (received 061825).pdf
+# pages_total: 6; hit_pages: [1, 4]; included: [1, 4]
+# context: Bleecker Drive folder: Milwaukee
+
+=== page 1 of 6 ===
+25-26 
+COUNTY OF MILWAUKEE 
+Inter-office Communication 
+ 
+DATE: 
+6/18/2025 
+ 
+TO: 
+Marcelia Nicholson, Chairwoman, Milwaukee County Board of Supervisors  
+ 
+FROM: 
+Donna Brown-Martin, Director, Department of Transportation 
+ 
+Julie Esch, Interim President & CEO, Milwaukee County Transit System 
+ 
+SUBJECT: 
+From the Director, Department of Transportation and the Interim President 
+and CEO, Milwaukee County Transit System, providing an informational 
+report regarding transit/paratransit-related matters responsive to or within 
+the 2025 Adopted Budget. 
+ 
+FILE TYPE: Reference File Report 
+ 
+ 
+REQUEST 
+This report provides information on the Transit Plus Same Day Pilot Program 
+ 
+BACKGROUND 
+The Milwaukee County Transit System (MCTS) paratransit program, known as Transit 
+Plus, provides transportation for persons with disabilities whose disability prevents them 
+from using the fixed route bus system for some or all of their trips. The primary 
+responsibility of the Transit Plus office is to administer the federally required ADA 
+paratransit program.  In addition, Transit Plus also administers the Same Day Pilot 
+program. 
+ 
+The Transit Plus Same Day Pilot was developed in collaboration with the Paratransit 
+Taxi Task Force to provide same day trips for persons with disabilities that could not 
+have been scheduled the day before and thus could not have been scheduled on the 
+existing paratransit vans.   
+ 
+MCTS Service began on the Transit Plus Same Day Pilot at the end of August 2024 and 
+is provided under contract with Tidewater Transit, dba Via. Service is provided using 
+wheelchair accessible minivans which can transport a maximum of four ambulatory 
+riders or one ambulatory rider and one wheelchair user at a time. Contract terms are 
+currently being updated to provide service through December 2025 or until budgeted 
+funds are expired. 
+ 
+TRIP PURPOSE 
+ 
+The original parameters for the program limited trip purpose to trips for health/medical 
+or employment purposes only. Some examples of the use cases under this umbrella 
+included a same day trip to urgent care, going to pick up a sick child, or being called into
+
+=== page 4 of 6 ===
+approximately $55,000 per month.  Administrative and staff costs are approximately 
+$60,000 per year.  Of the $1,117,054 allocated for this program, there remains a 
+balance of just under $495,000 in operating funds which is sufficient to continue the 
+program at the same level of service hours through the end of 2025. 
+ 
+The cost per trip on this service was extremely high due to low ridership in the early 
+months.  As ridership has increased that cost has been dropping but remains 
+significantly higher than the cost for prescheduled paratransit service.  In April, the cost 
+to Milwaukee County was just over $360 per client trip. The cost for May is unavailable 
+at the time of this report. 
+ 
+ 
+ 
+FUTURE STATE 
+ 
+Short term: 
+If growth continues at this same accelerated rate, it is anticipated that the current levels 
+of service will no longer be sufficient to meet demand in the very near future.  The result 
+will be clients who are unable to get a ride when they want one.  There are several 
+options that could be considered to mitigate this situation. These include: 
+• Deploy additional vehicle hours to ensure that riders are getting the ride 
+they request at least 95% of the time. This would reduce the number of 
+months that funds would be available for this service and could deplete 
+remaining funds as soon as August 2025. 
+• Adjust program service span to discontinue service on Saturdays and/or 
+Sundays as these days have lower ridership and shift those service hours 
+to the more popular weekday time periods in order to increase capacity 
+during high demand hours. 
+• Switch from a service model where all drivers are employees of Via to a 
+model that would have drivers be independent contractors. Standards for 
+driver training, service expectations and random drug and alcohol testing 
+would remain the same; but would result in a lower per vehicle hour rate. 
+This would allow us to put approximately 80 additional vehicle hours on 
+the road per week and still have funds to continue service until the end of 
+the year.  
+ 
+$0.00
+$1,000.00
+$2,000.00
+$3,000.00
+$4,000.00
+$5,000.00
+$6,000.00
+$7,000.00
+Cost per Client trip

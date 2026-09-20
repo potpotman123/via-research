@@ -1,0 +1,166 @@
+# source: raw/bleecker_drive/Cap Metro/500030.pdf
+# path: raw/bleecker_drive/Cap Metro/500030.pdf
+# hit page: 45 of 63
+# terms: Via+subscription
+
+=== page 44 ===
+DocuSign Envelope ID: 50401B53-7427-4701-AC18-B2EE4856E9D0 
+CAPITAL METROPOLITAN TRANSPORTATION AUTHORITY 
+SSP 308552 (11/19/2019) 
+Page 1 of 3 
+Exhibit F 
+EXHIBIT F 
+SCOPE OF SERVICES 
+Transit, Streets, and On-Demand Planning software: Scope of Services 
+BACKGROUND 
+The Capital Metro Planning Department needs to continue to use the Remix Transit, Streets, and On-Demand 
+software as a service platform that can be utilized by existing staff to help aid in the route design, census data 
+analysis and public engagement process as well as fulfilling federal requirements for transit service changes 
+such as conducting a Title VI analysis. 
+Every five years, Capital Metro undergoes a holistic update to their 10-year service plan in order to address 
+changing demographic markets, new development, and a variety of other factors. The development of this plan 
+involves the extraction and analysis of loads of data for every route in the Capital Metro system along with 
+demographic and accessibility analyses of all areas within Capital Metro’s service area (whether they are 
+served by a route or not). The creation of this plan involves the hiring of a team of consultants and is only 
+carried out once every five years. The planning and public engagement required for the implementation of 
+these service plans requires exhaustive and extensive efforts by internal planning, public engagement, and 
+communications staff for each and every system or route change. 
+PRIMARY WORK TASKS 
+The software as a service platform should address each of the following: 
+1)
+Route Design – Ability to quickly and easily draw transit routes and stops on existing street network
+and alter spans of service, travel speeds, and vehicle headway. Ability to import existing Capital Metro
+routes and stops for individual or system-wide analysis using GTFS feed or other data format.
+2)
+Demographic Analysis – Ability to instantly view affected demographic populations within defined
+distance from bus stop placement along selected transit route. Including the ability to export
+demographic data.
+3)
+Operations Costing – Ability to instantly view estimated annual operations costs and bus requirements
+for selected transit route, based on editable user inputs (e.g. span of service, travel speed, vehicle
+headway, etc.)
+4)
+Title VI Reporting – Ability to generate federally-mandated reports in a format and using a methodology
+accepted by the Federal Transportation Agency (FTA), pertaining to Low-Income and Minority access
+to transit, based on a proposed route/system change drawn or created within the software as a service
+platform. Title VI reporting functionality will be updated as FTA regulations or other governmental
+requirements change.
+5)
+Ability to integrate NearMap to ensure the most up to date aerials are being viewed.
+6)
+Ability to add custom agency data such as ridership, active transportation networks, bike share
+locations, trail networks, and more.
+7)
+Public Outreach – Ability to display and interact with multiple route options while instantly updating
+corresponding demographic and operations cost analyses. Ability to share interactive web maps to
+interested parties outside of Capital Metro. Ability to share maps and comment and text annotations
+with internal and external stakeholders via a hyperlink.
+8)
+System Accessibility – Ability to analyze locational travel sheds - how far a potential customer could
+travel in a given amount of time (e.g. 10, 15, 30, 60 minutes) from a particular location – using proposed
+(or existing) route or route network by time of day and day of week.
+=== page 45 ===
+SSP 308552 (11/19/2019) 
+Page 2 of 3 
+Exhibit F 
+DocuSign Envelope ID: 50401B53-7427-4701-AC18-B2EE4856E9D0 
+CAPITAL METROPOLITAN TRANSPORTATION AUTHORITY 
+9)
+Ability to analyze existing conditions of street network, develop custom visualizations, import data such
+as stops to quickly analyze street design and transit stop locations.
+10) Ability to general models that estimate cost and service quality based on real deployment data and
+characteristics of agencies proposed on-demand program.
+11) Ability to plan for an on-demand service, view demographic impacts, and understand tradeoffs of
+different service areas.
+PROJECT PLAN & MILESTONES: 
+- 
+Within first two weeks following contract execution: 
+o
+Establish login information and accounts for all relevant CMTA Staff
+o
+Upload Current Street Network, updated GTFS feed and relevant data
+o
+Provide on-boarding/training sessions as described in “Other Work Tasks/Services” section
+below.
+OTHER WORK TASKS/SERVICES 
+- 
+Vendor will provide on-boarding/Training Sessions for all staff who plan to actively use the program 
+and maintain a user account either on-site or via webinar/video conference. On-boarding/Training 
+sessions will be provided upon request for new staff. Full user documentation will be provided by the 
+vendor. 
+- 
+Vendor will aid in the updating of underlying demographic data and transit route/stop data within the 
+software as a service platform. Demographic data, drawing from most up-to-date annual American 
+Community Survey (ACS) data, should be updated by vendor automatically as the data becomes 
+available online. GTFS or other data format feeding the transit route/stop data should be updated with 
+each triennial service change (January, June and August), by request of Capital Metro staff. 
+- 
+Vendor will aid in the uploading of custom data layers to the software as a service platform 
+- 
+Vendor will be available to help troubleshoot problems with the platform and/or data outputs throughout 
+the time that Capital Metro maintains a subscription license during business hours (Monday-Friday, 
+9am-5pm CST). Service response and resolution time during these hours should be less than 48 
+hours. 
+- 
+Vendor will consider custom software changes or updates based on customer needs/requests. 
+- 
+For setting user logins, Capital Metro prefers an option to have user authentication integration with 
+Microsoft Active Directory. Capital Metro will evaluate if this implementation is feasible with given 
+security needs. 
+- 
+Vendor will provide secure web access to hosted system 24x7x365 except for agreed upon periods of 
+maintenance. 
+- 
+Describe the safeguards in place to prevent unauthorized access to the domain, software, and data. 
+- 
+Vendor might perform interviews of Capital Metro IT personnel to determine business requirements 
+and address all business requirements in the proposed specifications. 
+- 
+Describe the process and procedures for regular backups of analysis/maps/data output created by 
+Capital Metro accounts.
+=== page 46 ===
+SSP 308552 (11/19/2019) 
+Page 3 of 3 
+Exhibit F 
+DocuSign Envelope ID: 50401B53-7427-4701-AC18-B2EE4856E9D0 
+CAPITAL METROPOLITAN TRANSPORTATION AUTHORITY 
+- 
+Describe the process and procedures for restoring analysis/maps/data output created by Capital Metro 
+accounts in the event of a disaster. 
+- 
+Provide a copy of the disaster recovery plan for a hosted solution. 
+- 
+Provide systems reliability at 99.95% 
+- 
+For each host/cloud service provider, provide copies of all security certifications and clearances of 
+host data center (such as SSAE 16); 
+- 
+Provide a proposed network integration plan (or amendments to Capital Metro existing data security 
+plan) associated with the hosted solution and any interface to Capital Metro’s network. 
+- 
+All data and layers created by a licensed Capital Metro user will be retained until the termination of a 
+contract with vendor. 
+- 
+All upgrades to the SaaS platform will occur automatically online and will not affect user compatibility 
+- 
+Capital Metro and vendor will evaluate ability to interweave vendor data feed processing with the 
+Capital Metro Ridership Processing System 
+CONTRACTOR QUALITY ASSURANCE 
+Software should function with the most up to date and relevant data including: 
+1)
+Demographic Data (drawn from most recent/relevant American Community Survey and/or Census
+data)
+2)
+Capital  Metro  Existing  Services  and  Stops  (drawn  from  existing  GTFS  feed  or  other  output)
+TECHNICAL PROPOSAL 
+1)
+Provide a technical proposal that describes how vendor will provide this service and that it will meet
+each requirement identified in the scope of services.
+2)
+Provide copies of all agreements, maintenance terms, and software license agreements that would be
+effective with this service.
+COST PROPOSAL 
+1)
+Provide a quote for services for a base year of 12 months.
+2)
+Provide a quote for services for 3 one (1) year options.

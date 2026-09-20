@@ -1,0 +1,253 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Arlington, Texas/FTA-Report-No-0244.pdf
+# pages_total: 74; hit_pages: [1, 3, 5, 9, 10, 12, 13, 14, 15, 16, 17, 20, 22, 23, 24, 25, 27, 28, 31, 35, 36, 37, 38, 40, 42, 47, 48, 49, 53, 64, 65, 67]; included: [14, 23, 38, 40, 47, 64]
+# context: Bleecker Drive folder: Arlington, Texas
+
+=== page 14 of 74 ===
+Section 2 
+	
+FEDERAL TRANSIT ADMINISTRATION 	
+5
+RAPID Project Description
+Context and Project Overview
+Arlington, Texas is in the middle of the Dallas-Fort Worth metropolitan region, 
+one of the fastest growing regions in the United States. It is the 50th largest 
+city in the country, with a population of nearly 400,000 residents in an area of 
+99 square miles. Over the past few decades, Arlington has transitioned from a 
+bedroom community to a core city, with the growing UTA campus and major 
+employers, such as General Motors and Texas Health Resources, as well as a 
+thriving entertainment district that attracts over 15 million visitors to Arlington 
+each year.
+In December 2017, Arlington launched a comprehensive, fully on-demand 
+microtransit service, powered by Via, which uses a fleet of six-passenger vans 
+to provide shared rides anywhere within the city limits. The service operates 
+Monday through Friday from 6:00 a.m. to 9:00 p.m. and Saturday from 9:00 am 
+to 9:00 p.m. Riders without a smartphone can call a local telephone number 
+to book a ride with a customer service agent. Fares range between $3.00 and 
+$5.00, depending on distance traveled, and are paid with a credit or debit card. 
+Prepaid cards are accepted for riders who are not traditionally banked. Via has 
+wheelchair accessible vehicles (WAV) operating on the platform, and riders can 
+request a WAV and door-to-door service, as necessary. 
+Arlington has also completed two AV pilot programs, which operated in the 
+entertainment district using SAE Level 4 vehicles. Both services were open to 
+the public and free to ride, allowing residents, visitors, and City staff to learn 
+more about AV technology. The first pilot was called Milo and used two EasyMile 
+vehicles on an off-street route connecting remote parking lots to stadium 
+destinations within the entertainment district. The Milo pilot operated from 
+August 2017 to August 2018 as an event service during events at the stadiums. 
+The pilot also operated for public demos and special group tours. The second 
+pilot was a partnership with Drive.ai operating on-street in mixed traffic at 
+speeds up to 35 mph in the entertainment district. From October 2018 to May 
+2019, the Drive.ai pilot operated a circulator route Monday through Friday from 
+11:00 a.m. to 4:00 p.m., as well as during some events at the stadium. More 
+information about Arlington’s AV program can be found here. 
+A summary of Arlington’s microtransit and AV services is shown in Figure 2-1.
+
+=== page 23 of 74 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+14
+SECTION  | 3 
+the May Mobility team were also considered, including the shift duration for 
+safety drivers, called autonomous vehicle operators (AVOs) and the need for the 
+vehicles to go out of service to charge and download data. Using these inputs, the 
+team established Monday to Friday, 7 a.m. to 7 p.m. as the RAPID service hours. 
+In keeping with the integration of the AV service into the city’s existing Via 
+rideshare service, it had been established that the fare structure on RAPID would 
+match that on Via rideshare. Fares range from $3.00 to $5.00, depending on 
+distance traveled, although due to the size of the RAPID service area, most fares 
+on RAPID would be $3.00. Via and UTA also worked closely to determine the best 
+method for creating free rides on RAPID for current UTA students. While several 
+methods were discussed, it was determined that the most effective method was 
+through email domain verification. UTA students would use their active student 
+email account to book rides, and Via configured its platform to recognize this 
+unique email domain and apply free fares for RAPID rides only. UTA students 
+would still be charged the standard fare for non-RAPID rides on the Via service. 
+With plans to launch the RAPID service during the COVID-19 pandemic, 
+health and safety concerns were top-of-mind for the entire project team. For 
+consistency with the existing Via rideshare service in Arlington, RAPID vehicles 
+were outfitted with partitions between the AVO and rider space in the vehicle, 
+daily vehicle cleaning was performed, and all AVOs and riders were required 
+to wear masks, per Federal Transit Administration (FTA) regulations for public 
+transit. The RAPID vehicles were also outfitted with UV-C lights2 to regularly 
+disinfect the interior of the vehicle. At the time of launch, the UV-C lights were 
+deployed between each ride (after dropping off a rider and before picking up 
+the next rider). The vehicle capacity was also limited to only one booking at a 
+time, to prevent close contact between unrelated groups of passengers. These 
+measures decreased the service’s capacity, due to lack of shared rides and 
+disinfecting time between each ride, but these measures were deemed prudent 
+at the time of launch. After launch, as vaccination rates increased and COVID-19 
+infection rates decreased in the region, the COVID-19 protocol was modified in 
+July 2021 to remove the vehicle partitions, use the UV-C light to disinfect during 
+vehicle shift changes rather than between every ride, and allow shared rides 
+with up to two bookings at a time. These changes increased service capacity in 
+line with increased demand, as discussed in the following section of this report. 
+The UTA campus operated in a largely virtual format for the 2020-2021 academic 
+year, with face-to-face enrollment at approximately 25-30 percent of traditional 
+on-campus enrollment in spring 2021. It was anticipated that this might 
+negatively affect ridership demand for the first several months of RAPID service, 
+but the expectation of a return to traditional campus operations for the fall 2021 
+semester was expected to positively affect ridership.
+2 The UV-C devices use light to break down chemical compounds in bacteria and viruses, including the 
+coronavirus, which prevents them from multiplying.
+
+=== page 38 of 74 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+29
+SECTION  | 3 
+Most negative rider comments were related to vehicle climate control and 
+noise (discussed above) and compliance with wearing masks while on-board, 
+in accordance with FTA regulations. The Via in-app ride satisfaction rating is 
+a prompt that all riders receive in the Via app after completing each ride on 
+RAPID. The rating is based on a scale of 1 (unsatisfied) to 5 (very satisfied) stars. 
+As presented in Table 3-1, this rating for RAPID was very high, with an overall 
+average of 4.9 out of 5 stars for the demonstration.
+Additional key indicators of rider experience, as well as other information 
+about riders, was obtained from survey responses. The short survey developed 
+by the UTA research team was sent to each rider after completing their first 
+ride on RAPID, as well as promoted through project websites and other 
+outreach. This survey asked questions about trip purpose, aspects of the trip 
+experience such as booking and safety, other transportation modes used, and 
+sociodemographic data. For the entire term of the demonstration, a total of 
+402 responses were received for this survey, of which 261 completed the entire 
+survey.
+Survey respondents reported using RAPID for a range of trip purposes, including 
+travel to school, work, shopping, and recreation (Figure 3-11). RAPID riders 
+also reported using a range of other transportation modes, including private 
+vehicles, the Via rideshare service, private ride-hailing services, and the UTA 
+campus shuttle service (Figure 3-12). 
+Figure 3-11 Survey Responses: Trip Purpose on RAPID (n=295)
+
+=== page 40 of 74 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+31
+SECTION  | 3 
+Question
+Riders who Agree
+The speed of the vehicle was reasonable
+92%
+I felt safe when riding RAPID
+97%
+I felt safe while sharing the vehicle on my RAPID ride with other passengers
+94%
+I would ride RAPID again in the future
+98%
+Survey questions about sociodemographic characteristics show the following of 
+RAPID riders:
+•	 79 percent report being non-white
+•	 56 percent report having an annual household income of less than $20,000
+•	 47 percent report having no access to a personal vehicle
+•	 79 percent report being a UTA student
+•	 54 percent report being 18-24 years old
+•	 68 percent report being male
+To receive more in-depth feedback regarding rider experiences on RAPID, the 
+UTA research team conducted individual interviews with 11 people after the 
+conclusion of the demonstration. Of these 11 interviewees, seven had ridden 
+RAPID and six out of these seven were UTA students. While the interview results 
+are not representative of all RAPID riders, some key insights resulted from the 
+interviews. Like the survey findings, interviewees reported satisfaction with 
+using the Via app to book RAPID rides and found RAPID rides to be comfortable. 
+They also reported some issues with longer wait times for some rides, as well 
+as receiving aggregated pickup and drop off locations, rather than at their 
+exact desired locations. Interviewees also raised some questions about the 
+ability of the AV technology to perform in all areas and situations in the service 
+area, such as needing the AVOs to take over in manual mode for some turns. 
+They did report several benefits of the RAPID service and AV technology more 
+broadly, including the ability to multitask while riding, affordability, safety 
+improvements, and environmental benefits of shared AVs. Interviewees also 
+reported some concerns about general lack of trust in AV technology and 
+challenges with communication once AVOs are removed from the vehicles, but 
+notably, while some interviewees reported feeling skeptical about riding in AVs, 
+they stated that they became more confident after experiencing the technology 
+firsthand and having an opportunity to ride and understand how AVs work. 
+In addition to conducting individual interviews, the UTA research team also held 
+a focus group to discuss the service after the conclusion of the demonstration. 
+A total of four participants attended the focus group, of which one had ridden 
+RAPID and three had not ridden RAPID. While the size of the focus group limits 
+representativeness to all RAPID riders, the group discussion yielded some 
+helpful insights and feedback. Some challenges with automated and shared
+
+=== page 47 of 74 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+38
+SECTION  | 4
+important to note that senior citizens and individuals with disabilities may have 
+been less likely to travel during the time of the RAPID demonstration due to 
+increased risk from COVID-19 health concerns. Additionally, the City of Arlington 
+has an established ADA complementary paratransit service available for eligible 
+persons whose disabilities prevent them from independently using the fixed 
+route busy system. Finally, while ADA accessible vehicles are provided on the 
+City of Arlington’s broader Via rideshare service, data from the first one and 
+half years of city-wide service shows that only about 4 percent of all rides taken 
+were from riders needing WAVs. As the RAPID service was part of the broader 
+rideshare service, it is reasonable that there would also be low demand for WAV 
+rides on RAPID.
+A second evaluation regards access to modes of transportation to meet the 
+needs of individuals. RAPID rider survey results show that 47.3 percent of 
+respondents do not have access to a personal vehicle at all, while an additional 
+32.8 percent of respondents have one vehicle available to their household. 
+Income can also be a proxy for personal mobility, and survey results show 
+that 73.8 percent of RAPID riders had an annual household income of less than 
+$35,000 (Figure 4-2). It is clear that the RAPID service increased access for riders 
+in the service area, especially for UTA students and for individuals with limited 
+access to other forms of personal mobility. 
+Figure 4-1 Age Distribution of RAPID Riders, Based on Survey Responses (n= 262)
+
+=== page 64 of 74 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+55
+APPENDIX  | B 
+6.  What is your usual mode of transportation?
+ Private vehicle	
+	
+ Private app-based ride services, such as Uber or Lyft
+ Via Service	
+	
+ Handitran service	
+	
+ UTA transportation	
+ Walking/biking	
+	
+ RAPID service
+ Other (Please specify) 
+7.  How often have you ridden RAPID so far?
+ This is my first time 	
+ This is my second time 	
+ About once per month 	
+ About twice per month 	  About once per week   	
+ More than two times per week
+8.  What is your age group?
+ 18-24	
+ 25-34	
+ 35-44	
+ 45-54	
+ 55-64	
+ 65+
+9.  What is your home zip code? 
+10.  What gender do you identify with?
+ Female	        Male	
+ Other
+	
+ Prefer not to answer 
+11.  Are you currently a UTA student? 
+ Yes	
+ No 
+12.  With which racial group do you most identify?
+ American Indian or Alaska Native	
+ Asian	
+ Black or African American 	  
+ Native Hawaiian or Pacific Islander 	
+ White	
+ Other
+13.  With which ethnicity group do you most identify? 
+ Hispanic		
+ Non-Hispanic
+14.  What was your household income last year?
+ Less than $20,000	
+ $20,000-$34,999	
+ $35,000-$49,999	
+ $50,000-$74,999
+ $75,000-$99,999		
+ $100,000 or more
+15.  How many vehicles are available to you and members of your household for daily travel? 
+Vehicles
+16.  Do you have any further feedback for us to consider about our AV service?

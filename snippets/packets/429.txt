@@ -1,0 +1,86 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/St. Lucie County/2460806_21-011RFP_Tab.pdf
+# pages_total: 1; hit_pages: [1]; included: [1]
+# context: Bleecker Drive folder: St. Lucie County
+
+=== page 1 of 1 ===
+BOARD OF  
+COUNTY           
+COMMISSIONERS 
+PURCHASING            
+DEPARTMENT            
+ 
+TABULATION SHEET – RFP# 21-011 
+ 
+ 
+                             St. Lucie County Microtransit Software 
+                             
+OPENED: December 22, 2020   AT 3:00 PM 
+ 
+                        Seven (7) Submittal was received for subject proposal:  
+  
+Demand Trans Solutions, Inc. 
+Contact: 
+Roger F. Teal 
+Phone: 
+847-256-8866 Fax: 
+ 
+Address: 
+222 W. Merchandise Mart Plaza, Suite 570, Chicago, IL 60654 
+ 
+Ecolane 
+Contact: 
+Ryan J. Larson 
+Phone: 
+712-249-6156 Fax: 
+712-764-6101 
+Address: 
+940 West Valley Road, Suite 1400, Wayne, PA 19087 
+ 
+RideCO Inc. 
+Contact: 
+Dustin Heimler 
+Phone: 
+226-240-1089 Fax: 
+866-837-2786 
+Address: 
+101-279 Weber St. N Waterloo, Ontario, CA N2J 3H8 
+ 
+Shotl Transportation, SL 
+Contact:   
+Osvald Martret 
+Phone: 
+786-233-6253 Fax: 
+n/a 
+Address: 
+2655 Le Jeune Rd., Suite 81, Coral Gables, FL 33134 
+ 
+Uber Routematch 
+Contact:     
+Mary Catherine 
+Campbell 
+Phone: 
+404-293-6366 Fax: 
+n/a 
+Address: 
+1455 Market Street, 4th Floor, San Franscio, CA 94103 
+ 
+Via Mobility, LLC 
+Contact: 
+Zack Wasserman 
+Phone:  
+336-259-7734 Fax: 
+ 
+Address:  
+160  Varick Street, Flor 4, New York, NY 10013 
+ 
+                   
+ 
+ 
+NUMBER OF COMPANIES NOTIFIED*:   
+           278  
+NUMBER OF BID DOCUMENTS DISTRIBUTED*:       21 
+NUMBER OF BIDS RECEIVED:  
+ 
+              7 
+* - Per demandstar.com

@@ -1,0 +1,293 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Miami Dade/212269.pdf
+# pages_total: 35; hit_pages: [1, 2, 5, 7, 10, 12, 31, 34]; included: [1, 2, 5, 12, 34]
+# context: Bleecker Drive folder: Miami Dade
+
+=== page 1 of 35 ===
+Recommendation 
+It is recommended that the Board of County Commissioners (Board) approve this request for award of 
+Designated Purchase Contract No. BW-10126, Transit Planning Data Tool Software, to Remix 
+Technologies, LLC (Remix) in the amount of $960,000 for the Department of Transportation and Public 
+Works (DTPW).  Approval of a designated purchase is requested, pursuant to Section 2-8.1(b)(3) of the 
+Miami-Dade County Code, by a two-thirds vote of the Board members present, for the purchase of transit 
+planning data tool software.  
+The contract provides for a web-based software tool to rapidly analyze and evaluate transit concepts. It 
+will be used by County Engineers and Planners to review mobility data and inventories, evaluate transit 
+planning scenarios, sketch ideas and log stakeholder feedback, integrate all required functions sought 
+by the County , and will be supported by cloud access from any work location and computer.  
+Additionally, the software has the capability for transit planning, conceptual street design, and mobility 
+management, which will, in part: 1) facilitate sketch planning, provide instant demographic impact 
+analysis, and provide instant cost estimates; 2) sketch conceptual roadway designs to be used in 
+connection with transit demonstration projects, sketch out multiple lane types including vehicle, turn 
+lanes, bike lanes, bus lanes, pedestrian infrastructure, crosswalks, and support public engagement and 
+share features for stakeholder input; and 3) generate vehicle location ground truth and metrics, view 
+dockless vehicle location, identify the most popular spots in the County for rider drop-off and deployment, 
+and display trip path visualization by segment across the County.  
+DTPW, working with the Information Technology Department (ITD), experienced access to the Remix 
+tool both through an ITD procured demo license during fiscal year 2019 and the Vision Zero Program, 
+currently under development. The Vision Zero Program set the goal of zero pedestrian and bicycle 
+deaths and implements new safety strategies using technology. Remix’s software tool provided data 
+analytical services that supported this program. 
+DTPW Engineers and Planner’s interaction with the Remix tool has been extremely positive, as it has 
+yielded higher productivity, time savings and better cooperation among divisions. Before the Remix tool 
+was available, DTPW divisions spent a significant amount of time searching data from several sources, 
+and creating maps to visualize proposed routes among other efforts.  Previous to the use of Remix’s 
+tool, the required software functionality was completed through rudimentary processes.  The use of the 
+requested planning functionality promotes cooperation through a holistic transit analysis approach which 
+incorporates conceptual street design and traffic analysis features.  
+Comprehensive market research was conducted, including an NIGP query to research other public entity 
+contracts, national search of past bids in BidSync, a Google search, and issuance of a Request for 
+Information (RFI). The RFI yielded three firms offering software tools, including Remix.  Only Remix 
+offered a tool which will support the full requirements of the County. 
+Competition for the provision of the software is not practicable at this time because market research has 
+shown that other commercial off-the-shelf software lacks the capability to integrate all required system 
+functionality into a single platform that can quickly, effectively, and seamlessly share and analyze data. 
+Date: 
+To: 
+Honorable Chairman Jose “Pepe” Diaz 
+  and Members, Board of County Commissioners 
+From: 
+Daniella Levine Cava 
+Mayor 
+Subject: 
+Recommendation for Approval to Award a Designated Purchase Contract: Transit 
+Planning Data Tool Software 
+November 2, 2021
+1
+Agenda Item No. 8(F)(8)
+
+=== page 2 of 35 ===
+Honorable Chairman Jose “Pepe” Diaz 
+  and Members, Board of County Commissioners 
+Page 2 
+Therefore, none of the software identified in the market is a viable solution for DTPW. Prior to the 
+expiration of the proposed contract term, the County will survey the market to identify available software 
+systems to support the County’s transit planning requirements at that time.  
+Accordingly, it is in the County’s best interest to award this designated purchase contract pursuant to 
+Section 2-8.1(b)(3) of the County Code to continue purchase of Remix’s Transit Planning Data Tool 
+Software. 
+Scope 
+The scope of this item is countywide in nature. 
+Fiscal Impact/Funding Source 
+The fiscal impact for the three-year term is $960,000. Project funding is provided by the ITD Operating 
+Budget.  
+Department 
+Allocation 
+Funding Source 
+Project Manager 
+Transportation and Public Works 
+$960,000 
+    ITD Operating 
+     Julian Guevara 
+Total: 
+$960,000 
+Track Record/Monitor 
+Vanessa Stroman of the Internal Services Department is the Procurement Contracting Manager.  Julian 
+Guevara, Municipal Manager for DTPW, is responsible for this project.  
+Delegated Authority 
+If this item is approved, the County Mayor or County Mayor’s designee will have the authority to exercise 
+all provisions of the contract, including any cancellation or extension provisions, pursuant to Section 2-
+8.1 of the County Code and Implementing Order 3-38.   
+Vendor Recommended for Award  
+Pursuant to Resolution No. R-477-18, the vendor recommended for award is non-local as there is no 
+local company that provides this transit planning software tool.  
+Vendor 
+ Principal Address 
+Local Address 
+Number of 
+Employee 
+Residents 
+Principal 
+1) Miami-Dade
+2) Percentage*
+Remix Technologies, 
+LLC [a wholly owned 
+subsidiary of Via 
+Transportation, Inc.] 
+10 Crosby Street 
+Floor 2 
+New York, NY 
+None 
+0 
+Erin Abrams 
+   0% 
+*Provided pursuant to Resolution No. R-1011-15.  Percentage of employee residents is the percentage
+of vendor’s employees who reside in Miami-Dade County as compared to the vendor’s total workforce.
+Due Diligence 
+Pursuant to Resolution No. R-187-12, due diligence was conducted in accordance with the Internal 
+Services Department’s Procurement Guidelines to determine vendor responsibility, including verifying 
+corporate status and that there are no performance and compliance issues through various vendor 
+responsibility lists.  The lists that were referenced included convicted vendors, debarred vendors, 
+delinquent contractors, suspended vendors, and federal excluded parties.  There were no adverse 
+findings relating to vendor responsibility. 
+2
+
+=== page 5 of 35 ===
+Approved    
+ Mayor 
+Agenda Item No. 8(F)(8)
+11-2-21 
+Veto 
+__________ 
+Override __________ 
+RESOLUTION NO. ________________________ 
+RESOLUTION AUTHORIZING DESIGNATED PURCHASE 
+PURSUANT TO SECTION 2-8.1(B)(3) OF THE COUNTY CODE 
+BY A TWO-THIRDS VOTE OF THE BOARD MEMBERS 
+PRESENT; AUTHORIZING AWARD OF CONTRACT NO. BW-
+10126 FOR THE PURCHASE OF TRANSIT PLANNING DATA 
+TOOL SOFTWARE TO REMIX TECHNOLOGIES, LLC IN AN 
+AMOUNT NOT TO EXCEED $960,000.00 FOR A THREE-YEAR 
+TERM FOR THE DEPARTMENT OF TRANSPORTATION AND 
+PUBLIC WORKS; AND AUTHORIZING THE COUNTY 
+MAYOR OR COUNTY MAYOR’S DESIGNEE TO EXECUTE 
+THE CONTRACT AND EXERCISE ALL PROVISIONS OF THE 
+CONTRACT, 
+INCLUDING 
+ANY 
+CANCELLATION 
+OR 
+EXTENSION PROVISIONS, PURSUANT TO SECTION 2-8.1 
+OF THE COUNTY CODE AND IMPLEMENTING ORDER 3-38  
+WHEREAS, this Board desires to accomplish the purposes outlined in the accompanying 
+memorandum, a copy of which is incorporated herein by reference, 
+NOW, THEREFORE, BE IT RESOLVED BY THE BOARD OF COUNTY 
+COMMISSIONERS OF MIAMI-DADE COUNTY, FLORIDA, that: 
+Section 1. 
+This Board finds it is in the best interest of Miami-Dade County to award 
+Contract No. BW-10126, in substantially the form attached and made a part hereof, for purchase 
+of transit planning data tool software to Remix Technologies, LLC in an amount not to exceed 
+$960,000.00 for a three-year term for the Department of Transportation and Public Works, 
+pursuant to Section 2-8.1(b)(3) of the Code of Miami-Dade County, by a two-thirds vote of the 
+Board members present.  
+Section 2. 
+This Board authorizes the County Mayor or County Mayor’s designee to 
+execute the contract and exercise all provisions of the contract, including any cancellation or 
+extension provisions, pursuant to Section 2-8.1 of the County Code and Implementing Order 3-38. 
+5
+
+=== page 12 of 35 ===
+Miami-Dade County, FL 
+Contract No. BW-10126 
+Page 6 of 29 
+Rev 8-4-21 
+ 
+NOTICE REQUIREMENTS 
+All notices required or permitted under this Agreement shall be in writing and shall be deemed sufficiently served if delivered 
+by Registered or Certified Mail, with return receipt requested; or delivered personally; or delivered via e-mail (if provided below) 
+and followed with delivery of hard copy; and in any case addressed as follows: 
+(1)
+To the County
+a)
+To the Project Manager:
+Miami-Dade County
+Attention: Julian Guevara
+Phone:  (786) 469-5133
+E-mail:  Julian.Guevara@miamidade.gov
+ 
+and, 
+b)
+To the Contract Manager:
+Miami-Dade County
+Internal Services Department, Strategic Procurement Division
+Attention:   Chief Procurement Officer
+111 N.W. 1st Street, Suite 1375, Miami, FL  33128-1974 
+Phone:    (305) 375-4900 
+E-mail:  Namita.Uppal@miamidade.gov
+(2)
+To the Consultant
+ 
+Remix Technologies, LLC 
+ 
+Attention:  Olivia Ius 
+Phone:    (415) 712-0654 
+E-mail:  olivia@remix.com
+Either party may at any time designate a different address and/or contact person by giving notice as provided above to the 
+other party.  Such notices shall be deemed given upon receipt by the addressee. 
+PAYMENT FOR SERVICES/AMOUNT OBLIGATED 
+The Consultant warrants that it has reviewed the County's requirements and has asked such questions and conducted such 
+other inquiries as the Consultant deemed necessary in order to determine the price the Consultant will charge to provide the 
+Work and Services to be performed under this Contract.  The compensation for all Work and Services performed under this 
+Contract, including all costs associated with such Work and Services, shall be in the total not-to-exceed amount of Nine 
+Hundred Sixty Thousand Dollars ($960,000.00).  The County shall have no obligation to pay the Consultant any additional 
+sum in excess of this amount, except for a change and/or modification to the Contract, which is approved and executed in 
+writing by the County and the Consultant.  
+All Services undertaken by the Consultant before County’s approval of this Contract shall be at the Consultant’s risk and 
+expense. 
+PRICING 
+A.
+The annual fee shall remain firm and fixed for the term of the Contract, including any extension periods; however, the
+Consultant may offer incentive discounts to the County at any time during the Contract term, including any extension
+thereof.
+12
+
+=== page 34 of 35 ===
+Miami-Dade County, FL 
+Contract No. BW-10126
+Page 28 of 29 
+Rev 8-4-21 
+A full mobility management platform for the County staff, as an annual subscription for unlimited users, 
+to include: 
+•
+Vehicle location ground truth and metrics: view dockless vehicle location and filter based on vehicle status,
+service provider, vehicle type, and geographic zone
+•
+Fleet distribution and trends via heatmap views
+•
+Understand the most popular spots in your city rider dropoff and deployment to inform parking zones
+•
+Set fleet cap and equity zone regulation and compliance rules to monitor over the course of your mobility
+program
+•
+Geofence policy zone creation: create zones to restrict or encourage parking/riding in specific geographic
+areas within your city
+•
+Trip path visualization by segment across your city based on the average daily usage based on a monthly
+average
+•
+Bike network analysis: Compare trip paths compared to current bike infrastructure to quickly identify key
+corridors of risk
+•
+Trip origin and destination: Understand where dockless trips start and end, based on custom geographic
+areas
+•
+Overall program metrics: utilization, total trips per day, average distance, average duration
+•
+Docked bikeshare support and key station metrics Exports to CSV for further analysis
+C.
+CUSTOMER SUPPORT REQUIREMENTS
+The Contractor shall provide the following support:
+•
+Onboard (First 60 Days): Identify a first project and work on it together.
+-
+Workshops, Project-Assisted Training, Individual Sessions, Video Guides
+•
+Plan (Months 2+):
+-
+Regular Check-ins, Best Practices Blog, Contractor Webinars, Contractor Conference
+•
+Measure Results (Months 6+): Document your return on investment (ROI).
+-
+Develop ROI Report, Set Yearly Goals, Manage Renewal, Plan Ahead
+D.
+TECHNICAL REQUIREMENTS
+Contractor shall provide an entirely web-based and software-as-a-service (SaaS):
+•
+Everything is in the cloud -- no installations or downloads. Can access from anywhere.
+•
+Every user gets a login + password
+•
+Works on the latest version of any browser
+•
+County-wide annual subscription -- no maintenance fees
+E.
+SERVICE LEVELS
+The Services shall be available 99.9% of the time, measured monthly, excluding holidays and weekends and
+scheduled maintenance. If County requests maintenance during these hours, any uptime or downtime calculation
+will exclude periods affected by such maintenance. Further, any downtime resulting from outages of third party
+connections or utilities or other reasons beyond the Contractor’s control will also be excluded from any such
+calculation. County's sole and exclusive remedy, and Contractor's entire liability, in connection with Service
+availability shall be that for each period of downtime lasting longer than one hour, Contractor will credit the County
+5% of Service fees for each period of 30 or more consecutive minutes of downtime; provided that no more than
+one such credit will accrue per day. Downtime shall begin to accrue as soon as the County (with notice to the
+34

@@ -1,0 +1,149 @@
+# source: raw/bleecker_drive/Hillsborough County/Completed Contract File.pdf
+# path: raw/bleecker_drive/Hillsborough County/Completed Contract File.pdf
+# hit page: 179 of 199
+# terms: Via Mobility
+
+=== page 178 ===
+DocuSign Envelope ID: 2EA868C0-B16C-4F54-8139-F9C5611E9A02
+Customer Launch and Implementation Plan
+(a) General. Customer will operate and manage the Deployment as set forth in the Terms, Customer shall cooperate
+with Via as necessary for the purpose of setting up the Deployment and its specifications, including by providing
+prompt feedback to Via's inquiries and providing local insights, in order to meet mutually agreed upon deadlines.
+(b) Launch. Within one week of signing this Order, the Parties will mutually agree on the targeted launch date of the
+Deployment ("Launch"). Launch shall be no fewer than 12 weeks following execution of this Order.
+(c) Zone: Customer and Via will agree at least three months prior to launch on the exact geographical scope for the
+Deployment zone ("Deployment Zone"). Any changes or expansions to the Deployment Zone may result in
+(d) Support Requests. At the start of the project, Via will direct Customer towards the relevant CRM tools to log
+requests. In order to trigger a Product Maintenance request, requests for product maintenance must contain
+detailed information about the nature of the request. Requests for additional features may be subject to additional
+(e) Payment Processing. If Customer would like to process digital card payments, Via will facilitate an introduction
+to its recommended payment processor. The fees set forth above do not include any owed to the third party
+payment processor.
+Fees.
+Customer shall pay Via the following Fees for the Term, as set out below:
+Year 1
+Fee Category
+Installation Fee
+MDC Fee
+Monthly Fees
+Per-vehicle fees
+Amount
+$35,000
+Invoicing Terms
+Payable upon signing of this
+Order
+$99,400 estimated cost for 70 Samsung Galaxy Tab Payable upon purchase of
+S7 devices
+hardware; MDC Fee to be
+treated as a pass-through +10%
+$235 per vehicle per calendar month for
+Invoiced monthly by Via
+vehicles 0-40
+$185 per vehicle per calendar month for
+vehicles 40+
+Total Amount (12 Month
+Term)
+Years 2-5
+Fee Category
+Amount
+Ongoing Annual MDC Fees $31,500
+Monthly Fees
+Per-vehicle fees
+$247,200 assuming 40 vehicles (excluding additional Fees for any Additional
+Services)
+Invoicing Terms
+Payable at start of each year
+$250 per vehicle per calendar month for
+Invoiced monthly by Via
+vehicles 0-40
+Total Amount (per 12
+Month Term)
+$151,500 assuming 40 vehicles (excluding additional Fees for any Additional
+Services)
+Each month, Via will calculate the fees due and provide Customer with an invoice calculating the per-vehicle fees actually
+incurred based on the actual number of active vehicles used during the previous month.
+The Customer agrees that the sample invoice set out in Appendix 2 is salisfactory to Customer, both in substance and format.
+vent the duration of the Deployment does not exactly maich calendar months, monthly fees will be prorated for the first and/or last calendar months of the
+=== page 179 ===
+DocuSign Envelope ID: 2EA868C0-B16C-4F54-8139-F9C5611E9A02
+Deployment, as applicable, so that Customer will only be charged for the portion of such months during which the Via Solution was available to be used for
+the Deployment.
+ocation for additional trips upon reasonable request
+Tivilio. Price includes our generic package for Tivilio cost for 4 SMS notifications and I.25 minutes of Tivilio voice time per ride, at a maximum of S0.06*
+per ride on average for all rides completed within each calendar month.
+Branding. The Deployment will be branded as Sunshine Line powered by Via. The "powered by Via" banner must be used
+only in the exact format provided by Via, and will be prominent on all assets promoting the Deployment, including (but not
+[limited to) printed collateral, digital materials, websites, and any vehicle wraps. The "powered by Via" banner will have
+equal prominence on all marketing materials to any additional partner logos or trademarks. Via may provide pre-approvec
+brand assets and guidelines that must be complied with in all marketing communications distributed by the Customer
+Juring the Launch process, Via will deliver a service design document to be reviewed by the Customer and mutually agreec
+o by the parties in writing. The target Launch Date, project scope, and detailed phasing of services will be set in the servic
+design document.
+This Order shall be governed by the terms and conditions set forth in the attached Terms of Service (the "Terms") and as
+provided in Section 16 of the Terms. Capitalized terms used herein and not otherwise defined shall have the meaning in the
+Sections in trouer 2y hi: 12 or 2, 2417d ust ape he ty Deployment and shal have no effect By signing
+VIA MOBILITY LLC
+- DocuSigned by:
+By: Dillon twombly
+3D9717A739E245E
+Vame: Dillon Twombly
+Title: Manager
+Date: 11/29/2023
+HILLSBOROUGH COUNTY
+By:
+Name:
+Title:
+Date:
+BOCC Staff
+Approval
+Date
+Department Fiscal
+Department Director
+Procurement
+County Attorney:
+Approved as to Form and
+Legal Sufficiency
+Renee Campbell
+Jerry Stickney
+Potts
+Orland
+o Perez
+Stales I=US United Slates
+asHiscotouan County
+au=County Atorney
+esperezo@hillsboroughcounty.
+Reason: I have reviewed this
+document
+Locabon,
+Date: 2023-11-26 13:39.05:00
+'''(38|202)
+=== page 180 ===
+DocuSign Envelope ID: 2EA868C0-B16C-4F54-8139-F9C5611E9A02
+Via Solution Terms of Service
+Effective as of June 1, 2018
+This Via Solution Terms of Service (the "Agreement") is entered into between Via Mobility LLC or
+the applicable affiliate of Via identified in a Service Order entered into by the parties ("Via") and
+the entity or person placing an order ("Customer") for accessing Via's proprietary technology
+platform and certain related systems and methods used to establish, monitor, operate and/or
+manage on-demand transit networks (the "Via Solution" and accompanying technical and
+operational support services and regular updates (together with access to the Via Solution, the
+"Services").
+The "Effective Date" of this Agreement is the date which is the earlier of (a) Customer's initial
+access to the Services or (b)the effective date of any Order.
+1. Agreement
+This Agreement consists of the terms and conditions set forth below and any Via ordering
+documents, purchase orders, order descriptions or other order confirmations ("Orders") If you
+are accessing or using the Services on behalf of your company, you represent that you are
+authorized to accept this agreement on behalf of your company and all references to
+"Customer" reference your company.
+2. Definitions
+a. "Applicable Law" means (i) any statute, statutory instrument or any other legislative
+instrument having the force of law; and (ii) any applicable judgment of a relevant court of law
+which is a binding precedent, in each case in force at any time during the Term.
+b. "Affiliate" means, with respect to any specified entity, any entity that directly or indirectly,
+through one or more intermediaries, controls, is controlled by, or is under common control with,
+the entity specified.
+c. "Confidential Information" means information, data or materials in either tangible or
+intangible form that are trade secrets of, or proprietary and confidential to the Disclosing Party
+or its clients or business partners, including as may be so designated by statute, regulation or
+common law including by the form of the Uniform Trade Secrets Act and privacy laws adopted

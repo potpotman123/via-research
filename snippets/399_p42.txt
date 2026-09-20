@@ -1,0 +1,140 @@
+# source: raw/bleecker_drive/Mountain Line/Mountain-Line-On-Demand-Feasibility-Study_Final.pdf
+# path: raw/bleecker_drive/Mountain Line/Mountain-Line-On-Demand-Feasibility-Study_Final.pdf
+# hit page: 42 of 56
+# terms: Via+SaaS, Via+per hour, Via+per service hour, Via+per vehicle per month, Via+vehicles
+
+=== page 41 ===
+34  
+ 
+MOUNTAIN LINE ON-DEMAND FEASIBILITY STUDY 
+month pilot. After the pilot, the software costs are $500 for 1-5 vehicles per month, $450 for 1-6 vehicles 
+per month. Without the subsidy, a pilot costs $114,175.  
+PLANNING ASSISTANCE 
+TransLoc has a simulator tool which takes origin and destination data, census data, paratransit data, 
+and other data sources to predict ridership and estimate if certain areas or use cases, would be more 
+successful than others. They predict passengers per hour and ridership.  
+WHAT STANDS OUT? 
+TransLoc is focusing on starting pilots with transit agencies, and Ford Mobility is subsidizing majority of 
+the cost. This software is new to TransLoc and the company is using pilot projects to “fool-proof” the 
+software. There are currently 36 pilots on-line and the simulator tool has been 90% accurate in 
+predictions verse outcomes. TransLoc has a strong focus on partnership and working with the transit 
+agency step by step. Their microtransit app is not customizable and does not reflect the branding of the 
+transit agency. They do not have dynamic routing capabilities. Meaning, once a vehicle’s route is 
+created, if another customer requests a ride along the recently created route, the route will not change 
+and deviate to pick them up, reducing the efficiency of the vehicle and extending wait times.  
+VIA 
+Via is a real-time hailed, dynamically routed shuttle service. Their mission of “we ride together”, 
+represents the various technology options the company delivers to match riders together who are 
+traveling with similar origins and destinations. Via provides a Transportation Network Company (TNC) 
+option, Ride with Via, which is currently deployed in Chicago, New York, and Washington DC. Via also 
+has a microtransit platform as both software only and turn-key option.  
+SOLUTION    
+Via boasts to have the “technology for the future of mobility.” Through Via’s microtransit platform, 
+there is powerful rider aggregation algorithm, dynamic predictive routing, and custom apps. Via has a 
+Transit as a Service (TaaS) model, providing a turn-key solution. They also have a software as a service 
+(SaaS) solution to integrate the software with agency operations. Their solutions have been deployed 
+to tackle first mile-last mile solutions and frequency vs. coverage tradeoff. 
+TECHNOLOGY AND HARDWARE NEEDS 
+The technology needs from the transit agency are minimal. Each vehicle needs a tablet or smartphone 
+to run the driver app, which provides a map and directions of the route. It also includes passenger 
+information, such as name, number of passengers, and picture (optional) so the driver knows who and 
+how many people they are picking up.  
+FARE 
+The price of fare is very flexible and up to the agency. Most agencies have made the microtransit service 
+free during the pilot period. Via is primarily a cashless service. There is payment integration with the 
+app. There is also an option for people who do not have bank services. Customers can pay cash to buy 
+pre-paid vouchers at, for example a grocery store. Then, customer enters voucher code in the app.   
+EQUITY  
+Via has both a call option and app-based option to request rides. A smart phone is not required to use 
+this service, but the app-based option is faster, and the user can see wait times and estimated arrival. 
+With the TaaS model, vehicles can be ADA accessible. Through the SaaS model, vehicles are provided
+=== page 42 ===
+35  
+ 
+MOUNTAIN LINE ON-DEMAND FEASIBILITY STUDY 
+by the transit agency, so the vehicles can be ADA accessible. Many agencies have repurposed 
+paratransit vehicles. There is both a cash and credit card option. The app has features for people who 
+are visually and hearing impaired, such as multiple font sizes and voice over capabilities. The app can 
+also come in multiple languages.  
+DATA  
+Via provides the transit agency with all the data and the agency can keep the data. Data includes origin 
+and destination, ridership, and passengers per hour. Via is flexible to work with the agency if other data 
+points are desired. Ridership data can be used for NTD reporting.  
+COST 
+Through the SaaS model, a 6-month pilot is $23,500 and a 12-month pilot is for $44,000. Via mentioned 
+that pilot price is negotiable. Without a pilot, for example through an RFP process, there is $40,000 set 
+up fee, then it is $700 per vehicle per month. The TaaS model is $45-$49 per service hour.  
+PLANNING ASSISTANCE 
+Via helps with planning through goal setting, data collation, simulation of service, service model design 
+(help define the on-demand transit service parameters), launch support, marketing, and performance 
+optimization throughout the pilot.  
+WHAT STANDS OUT? 
+Via is the only private company providing a turn-key option. There are less pilots and active programs 
+compared to TransLoc, but Via has more customization features and has been established longer as a 
+company. Via provides planning and implementation services and is also willing to work together with 
+agencies. In addition, since Via has TNC deployment and a turn-key option, Via understands operations 
+and customer satisfaction from a holistic point of view, not just from the software perspective. 
+Therefore, the company is continuing to make improvements to the customer and driver experience 
+and optimize the best performance and utilization of vehicles.   
+ROUTEMATCH 
+SOLUTION    
+Routematch provides software solutions for demand responsive vehicles, fixed-route, payment 
+integration, and on-demand software. They develop human centric solutions that connect people to 
+new opportunities. Routematch has a partnership with Lyft to maximize transportation options and 
+help fill first mile-last mile gaps.  
+TECHNOLOGY AND HARDWARE NEEDS 
+The hardware needs from the transit agency are minimal. Each vehicle needs a tablet to run the driver 
+app, which provides a map and directions of the route.  
+FARE 
+The price of fare is very flexible and up to the agency. Most agencies have made the microtransit service 
+free during the pilot period. Routematch is focusing on payment integration and mobility as a service 
+platform. Payment through the app can also be integrated with Lyft. Payment can be through the app, 
+but can also be cash on-board.   
+EQUITY  
+Routematch has both a call option and app-based option to request rides. A smart phone is not required 
+to use this service, but the app-based option is faster, and the user can see wait times and estimated
+=== page 43 ===
+36  
+ 
+MOUNTAIN LINE ON-DEMAND FEASIBILITY STUDY 
+arrival. Vehicles are provided by the agency, so they can be ADA accessible. Many agencies have 
+repurposed paratransit vehicles. There is both a cash and credit card option. The app has features for 
+people who are visually and hearing impaired, such as multiple font sizes and voice over capabilities. 
+The app can also come in multiple languages.  
+DATA  
+Routematch provides the transit agency with all the data and the agency can keep the data. Data 
+includes origin and destination, ridership, and passengers per hour. Routematch is flexible to work with 
+the agency if other data points are desired. Ridership data can be used for NTD reporting.  
+COST 
+Routematch has a “pay as you go” option to reduce the cost barrier. A cost estimate is $1,000 per vehicle 
+per month. A 6-month pilot with 6 vehicles is $45,000 - $50,000. Software and licensing is about $125,000 
+after the pilot. Routematch can help with funding and is open to negotiating costs.  
+PLANNING ASSISTANCE 
+Routematch can help with planning, such as best case uses and number of vehicles. They also help with 
+setting fare prices.  
+WHAT STANDS OUT? 
+Routematch has been creating dispatching software for fixed-route and demand responsive operations 
+since 2000. Their payment integration and on-demand software are new platforms for the company. 
+They do not have as many pilots or existing programs that are using the software compared to Via or 
+TransLoc.  
+ECOLANE 
+SOLUTION    
+Ecolane specializes in demand response management software and Mobiltiy as a Service (MaaS). The 
+company prides itself on reliable and innovative solution, backed by trusted customer relations. The 
+demand responsive management software provides real-time, logic-based schedule optimization. The 
+company has partnered with Amazon’s Alexa, so customers can book, change, and review upcoming 
+trips by using the interactive voice response.  
+TECHNOLOGY AND HARDWARE NEEDS 
+The hardware needs from the transit agency are minimal. Each vehicle needs a tablet to run the driver 
+app, which provides a map and directions of the route. The customer app is accessible on iOS and 
+Android platforms. The customer app has trip details, real-time arrival, flexibility to manage trips.  
+FARE 
+Fares are flexible and up to the agency. There is payment through the app, also a cash option on-board 
+if desired.  
+EQUITY  
+Ecolane has both a call option and app-based option to request rides. A smart phone is not required to 
+use this service, but the app-based option is faster, and the user can see wait times and estimated 
+arrival. Vehicles are provided by the agency, so they can be ADA accessible. Many agencies have 
+repurposed paratransit vehicles. There is both a cash and credit card option. The app has features for 
+people who are visually and hearing impaired, such as multiple font sizes and voice over capabilities. 
+The app can also come in multiple languages.

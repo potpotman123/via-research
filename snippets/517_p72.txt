@@ -1,0 +1,42 @@
+# source: raw/bleecker_drive/North Carolina/AII_On_Demand_Microtransit_Webinar.pdf
+# path: raw/bleecker_drive/North Carolina/AII_On_Demand_Microtransit_Webinar.pdf
+# hit page: 72 of 79
+# terms: Via+drivers, Via+turnkey, Via+vehicles
+
+=== page 71 ===
+• SaaS model, using Liftango
+• Has very small fleet of BCGo-branded vans. 
+Exploring partnership with local 5310 agency 
+to use their underutilized vehicles.
+• Goal:
+• Test demand for countywide service
+• Result:
+• Data generate proves there is demand 
+for countywide service. Agency hopes to 
+transition from city department to 
+countywide authority.
+=== page 72 ===
+•
+Turnkey model, using Via
+•
+Operational analysis 
+recommended microtransit. 
+Piloted in three zones: two 
+communities and one corridor.
+•
+4th zone added for access to 
+COVID vaccines. So successful, it 
+was made permanent.
+•
+5th zone added to address staff 
+and vehicle shortages – 6 SMART 
+drivers and vehicles could be 
+redeployed to other areas.
+=== page 73 ===
+Turnkey vs. SaaS
+Turnkey pros
+MATS has found it to be cheaper than providing the service themselves
+While everyone is experiencing driver shortages, the Michigan agencies with 
+turnkey solutions have found that their provider has been able to provide all 
+the drivers needed to support the demand.
+Doesn’t pull agency staff away from their normal duties.

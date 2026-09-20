@@ -1,0 +1,209 @@
+# source: raw/bleecker_drive/City of West Sacramento/2023.06.07_-_City_Council_-_Amendment_No._5_to_NoMad_Transit_LLC_Contract.pdf
+# path: raw/bleecker_drive/City of West Sacramento/2023.06.07_-_City_Council_-_Amendment_No._5_to_NoMad_Transit_LLC_Contract.pdf
+# hit page: 18 of 63
+# terms: NoMad Transit, Via Transportation, Via+fleet, Via+vehicles
+
+=== page 17 ===
+Triennial Performance Audit of Via Rideshare - West Sacramento – FYs 2019–2021 
+ 
+ 
+Michael Baker International - 3
+ 
+  
+mobility devices to be stored. Riders can simply inform their Via driver should they need assistance 
+loading or unloading the vehicle. 
+ 
+Via Rideshare operates between 6:00 a.m. and 11:00 p.m. Monday through Friday; 9:00 a.m. and 
+11:00 p.m. on Saturdays; and 8:00 a.m. and 8:00 p.m. on Sundays. Service operates year-round 
+including holidays. 
+ 
+Fares 
+ 
+Via Rideshare is a cashless service. Customers pay by a credit, debit, or prepaid credit card, which 
+is entered when they set up an account on the Via app using a smartphone or tablet. Customers 
+who wish to book rides over the phone can call Via at 916-318-5101 to have an account set up. 
+The fare structure is shown in Table I-1.  
+ 
+Table I-1 
+Via Rideshare Fare Schedule 
+Fare Categories 
+Audit Period 
+Regular Fare (one-way trip) 
+$3.50 
+Senior & Disabled Riders 
+$1.75 
+Additional Riders  
+$1.00 
+ViaPass Weekly Pass (up to 4 rides a day) 
+$15.00 
+ViaPass Weekly Pass Senior & Disabled 
+$7.50 
+Source:  City of West Sacramento 
+ 
+People age 62+ or with a qualifying disability may receive a 50 percent discount. To obtain a senior 
+or disabled rider discount, riders must verify their eligibility in person at one of the following City 
+of West Sacramento facilities:  
+ 
+• 
+City Hall Utility Billing (Monday-Friday, 9 a.m.-5 p.m.) 
+• 
+Community Center (Monday-Friday, 9 a.m.-5 p.m.) 
+• 
+Recreation Center (Monday/Wednesday/Friday 9 a.m.-11 a.m., or Tuesday/Thursday  
+6 p.m.-8 p.m., or by appointment 916-617-4770) 
+  
+ For a senior discount, riders must provide at least one of the following forms of documentation: 
+• 
+Valid driver's license, US passport, military ID or DMV issued ID card 
+• 
+Valid Yolobus or SacRT Discount Rider pass with photo ID on the card (Connect Card) 
+• 
+Valid Medicare card  
+• 
+Current senior membership on file at the West Sacramento Recreation Center 
+  
+For a disabled rider discount, riders must provide at least one of the following forms of 
+documentation: 
+• 
+Current Medicare card or a Medicare, SSI, or SSDI award letter 
+• 
+Current DMV issued Disabled Person or Disabled Veteran placard ID 
+• 
+Valid Yolobus or SacRT Discount Rider pass with photo ID on the card (Connect Card)
+=== page 18 ===
+Triennial Performance Audit of Via Rideshare - West Sacramento – FYs 2019–2021 
+ 
+ 
+Michael Baker International - 4
+ 
+  
+• 
+Proof of current ADA Paratransit eligibility through Yolobus or SacRT 
+  
+If none of the above are available, riders must complete the Disabled Rider Account Application, 
+which will require a healthcare professional to complete a verification form on their behalf. After 
+staff verifies eligible disability, riders will receive a discount code. 
+ 
+Fleet 
+ 
+The City of West Sacramento is supplied with a fleet through the wholly owned subsidiary of Via 
+Transportation Inc., NoMad Transit LLC, and are rented directly by the independent contracted 
+driver partners. Services were initially contracted for a one-year pilot program on May 14, 2018. 
+The original fleet for the one-year pilot program comprised solely Mercedes Metris vans, totaling 
+seven vehicles, including one wheelchair accessible vehicle. On May 1, 2019, the City Council 
+approved an amended and restated contract continuing the program through June 30, 2020, 
+which included fleet and service hour expansion supported by a $2.02 million allocation from the 
+Transportation Development Act Fund. As of 2021, the fleet now includes 17 vehicles (14 
+Mercedes Metris and 3 Toyota Sienna), including 6 wheelchair accessible vehicles. The contract 
+was later extended through 2022. Table I-2 shows the vehicle fleet information. 
+ 
+Table I-2 
+Via Rideshare Fleet 
+Year 
+Make & Model 
+Quantity 
+Seating 
+Capacity 
+2018 
+Mercedes Metris 
+6 
+6 
+2019 
+Mercedes Metris 
+8 
+6 
+2020 
+Toyota Sienna 
+3 
+6 
+Total 
+ 
+17 
+ 
+Source:  Via Rideshare – NoMad Transit LLC 
+ 
+NoMad Transit LLC. Services transitioned away from the Mercedes Metris vehicles following the 
+audit period and the fleet is now composed of Toyota Sienna vehicles. In August 2022, the City 
+announced that the on-demand fleet will be undergoing a transition to hybrid vehicles. 
+Introduction of the hybrid electric vehicles to the Via Rideshare fleet follows recent research from 
+Via that found that the service has reduced travel emissions in West Sacramento by 22 percent 
+when compared to the transit modes that were available before the service launched.
+=== page 19 ===
+Triennial Performance Audit of Via Rideshare - West Sacramento – FYs 2019–2021 
+ 
+ 
+Michael Baker International - 5
+ 
+  
+Section II 
+ 
+Operator Compliance Requirements 
+ 
+This section of the audit report contains the analysis of West Sacramento’s ability to comply with 
+state requirements for continued receipt of TDA funds. The evaluation uses Caltrans’s 
+Performance Audit Guidebook to assess transit operators. The guidebook contains a checklist of 
+11 measures taken from relevant sections of the PUC and the California Code of Regulations. Each 
+requirement is discussed in the table below, including a description of the system’s efforts to 
+comply with the requirements. In addition, the findings from the compliance review are described 
+in the text following the table. 
+ 
+Table II-1 
+Operator Compliance Requirements Matrix 
+Operator Compliance 
+Requirements 
+Reference 
+Compliance Efforts 
+The transit operator 
+submitted annual reports 
+to the RTPA based upon the 
+Uniform System of 
+Accounts and Records 
+established by the State 
+Controller. Report is due 
+within seven (7) months 
+after the end of the fiscal 
+year (on or before January 
+31). The report shall 
+contain underlying data 
+from audited financial 
+statements prepared in 
+accordance with generally 
+accepted accounting 
+principles, if this data is 
+available.   
+ 
+Public Utilities Code, 
+Section 99243 
+Completion/submittal dates: 
+ 
+FY 2019: SCO Report not submitted 
+FY 2020: SCO Report not submitted 
+FY 2021: SCO Report not submitted 
+ 
+*In lieu of submitting the Transit 
+Operators’ Financial Transactions 
+Report, the City of West Sacramento 
+completed and submitted the  
+Cities' Financial Transactions Report 
+to the State Controller. The Cities' 
+Financial Transactions Report does 
+not include financial and operating 
+data that pertain to Via Rideshare. It 
+is recommended that commencing 
+with FY 2022, the City use the Transit 
+Operators’ Financial Transactions 
+Report. 
+ 
+Conclusion: Not in Compliance.  
+ 
+ 
+The operator has submitted 
+annual fiscal and 
+compliance audits to the 
+RTPA and to the State 
+Public Utilities Code, 
+Section 99245 
+Completion/submittal dates: 
+ 
+FY 2019: December 23, 2019 
+FY 2020: December 17, 2020

@@ -1,0 +1,74 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/City of Santa Rosa/City of Santa Rosa RFP R166592 Scheduling Software.pdf
+# pages_total: 55; hit_pages: [6]; included: [6]
+# context: Bleecker Drive folder: City of Santa Rosa
+
+=== page 6 of 55 ===
+Proposal Submission Guidelines 
+Vendors shall submit Proposals shall be submitted electronically via PlanetBids ONLY.  
+Vendors should have a fully functioning scheduling platform. Companies should not submit proposals for 
+products that are in beta or are not fully functional at the time the proposals are due. Bidders should 
+also not submit content for products outside the scope of this RFP. 
+The cost proposal should reﬂect costs for a ﬁve (5) year term with two (2) option years. Bidders should 
+price each year separately and indicate their pricing methodology e.g. total ﬂeet size, active ﬂeet, staﬀ 
+size, etc. If the product being proposed is modular in nature, please indicate the costs for each module 
+summing to a total cost for each year of the contract. Cost proposals should be formatted with line items 
+for each contract year and for each agency. Example below:  
+Year 1 
+Year 2 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+Year 7 
+Annual Software 
+(Modules broken out) 
+  
+  
+  
+  
+  
+  
+  
+Annual Maintenance, 
+Hosting, and Support 
+  
+  
+  
+  
+  
+  
+  
+Training (Year 1 
+should have a fixed 
+price for onboarding 
+training with 
+following years as an 
+hourly rate for 
+refresher training) 
+  
+  
+  
+  
+  
+  
+  
+ 
+Evaluation Criteria 
+Proposals will be evaluated based on compliance with technical requirements, implementation approach 
+and expertise, and reasonableness of total price. The weighting for each score is as such: 
+• 
+Compliance with technical requirements – 50% 
+• 
+Implementation Approach and Expertise – 30% 
+• 
+Reasonableness of Total Price – 20%  
+AGENCIES will select the top three scoring bidders to move forward into a practical demonstration 
+round. Bidders will be expected to demonstrate the full functionality of their product from the beginning 
+to the end of the scheduling process. 
+ 
+Terms and Conditions 
+The City of Santa Rosa and City of Petaluma will enter into separate contracts with the awarded 
+proposer. 
+ 
+City of Santa Rosa

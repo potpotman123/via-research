@@ -1,0 +1,179 @@
+# source: raw/bleecker_drive/Los Alamos (Spare Labs)/1040_24_A_-_AGR_24-37_Spare_Labs_Inc.pdf
+# path: raw/bleecker_drive/Los Alamos (Spare Labs)/1040_24_A_-_AGR_24-37_Spare_Labs_Inc.pdf
+# hit page: 15 of 81
+# terms: Spare Labs
+
+=== page 14 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+14 
+ Agreement Template Version: 04012024 
+Services on-site at the rates specified in Exhibit A. Contractor shall complete implementation 
+and training pursuant to the Project Schedule and Plan approved by the Parties with a 
+successful implementation and Launch to occur no later than twelve (12) weeks after the 
+Effective Date of this Agreement, unless extended by County in writing pursuant to Section 
+C(18.3). Contractor shall provide County, at a minimum, the following implementation 
+Services, fees for which shall be charged in accordance with Exhibit A: 
+19.1. 
+Weekly Project Progress Meetings. Throughout Project implementation, Contractor 
+shall schedule and facilitate weekly Project Progress meetings that shall cover, at a 
+minimum, the following: 
+19.1.1. 
+Project status and deliverables; 
+19.1.2. 
+Issue identification and issue resolution; 
+19.1.3. 
+Performance monitoring and optimization; 
+19.1.4. 
+Additional training and process development; and 
+19.1.5. 
+Recommendations to improve the Service delivery. 
+19.2. 
+Phase 1 (1 Day): Pre-Kickoff. Phase 1 begins after Notice to Proceed.  Contractor 
+shall perform a high-level review of the scope of the Project and Services described 
+herein and shall review any pertinent documentation provided by County. 
+19.3. 
+Phase 2 (5 Days): Project Kickoff. This Phase consists of the Project initiation 
+meeting and development and approval of the Project Plan and Schedule as 
+described in Sections C(17) and C(18), and Contractor shall complete all tasks and 
+deliverables for this Phase as described in those Sections. 
+19.4. 
+Phase 3 (21 Days): Plan.   
+19.4.1. 
+Data Migration Plan.  Contractor shall, in coordination with the Project Team, 
+create a Data Migration Plan, using the approach to data conversion and 
+migration described in Exhibit I, or a substantially similar approach acceptable 
+to the County Project Manager.  The Data Migration Plan shall include, but is 
+not limited to the following:  
+19.4.1.1. 
+Rider Data Importation Plan.  Contractor shall, in coordination with the 
+Project Team, create a Rider Importation Plan to migrate County’s 
+existing Rider data from its current system, Adept by Stratagen, and 
+import it into the Platform.  Contractor shall map Rider fields from 
+County’s system into the Platform using Contractor’s flexible custom 
+fields and profile importation functionality.  Contractor shall identify the 
+configurations in County’s current system of its services, vehicles, 
+users, and other pertinent objects; shall map and migrate these 
+configurations into the Platform’s configuration parameters; and shall 
+ensure seamless transition of Rider data between County’s current 
+system and the Platform.  
+19.4.1.2. 
+Adding Users to Platform as Part of the Rider Data Importation 
+Plan. Contractor shall complete a bulk import of users in a CSV file to 
+the Platform and shall work with the Project Team to add any that may 
+have been missed during the bulk import. Contractor Project Manager 
+Attachment A
+=== page 15 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+15 
+ Agreement Template Version: 04012024 
+shall train the County Project Team members to perform this bulk import 
+and shall continue to be a primary point of contact for questions 
+regarding the bulk import process.  
+19.4.1.3. 
+System Operations Transition Plan.  Contractor shall complete a bulk 
+import of County’s existing scheduled trips from its current system into 
+the Platform to ensure that trips booked prior to Project implementation 
+are entered into the Platform prior to Launch. Contractor’s Customer 
+Success Team shall monitor the transition and use the System 
+Operations Transition Plan to track overall progress.  Contractor shall 
+coordinate with County to start booking trips into the Platform ahead of 
+Launch.  
+19.4.2. 
+Other Phase 3 Tasks. Contractor shall, in coordination with the Project 
+Team, complete other tasks during Phase 3, as follows: 
+19.4.2.1. 
+Finalize the service design and configuration parameters and create 
+service(s) based on parameters to inform Contractor’s routing 
+algorithms, and discuss fare and payment strategy, if applicable to 
+County. 
+19.4.2.2. 
+Develop operational Microtransit and Paratransit process and workflow 
+documentation and create and validate a Business Disaster Recovery 
+Plan as it relates to County’s Microtransit and Paratransit processes and 
+the Platform. 
+19.4.2.3. 
+Remotely assist County with driver device and vehicle set up, and add 
+drivers, booking agents, and schedulers to the software. County shall 
+be responsible for ensuring that driver devices are properly installed in 
+County vehicles.  
+19.4.2.4. 
+Assist County with promotion of its Microtransit and Paratransit services 
+to the public at no additional cost to County, as defined during the 
+Project initiation meeting, including but not limited to holding remote 
+public workshops at County request, sharing best practices on 
+promoting new services, providing graphics, and social media support 
+based on County’s marketing scope, to be determined by the Project 
+Team. Contractor shall continue to provide such promotional and 
+marketing support to County throughout Project implementation, as 
+determined necessary by the Project Team. 
+19.4.2.5. 
+Create a training plan that conforms substantially to the Training 
+Program described in Exhibit H and schedule training sessions to be 
+completed by the end of Phase 6 with all County trainees identified by 
+the County Project Manager, including but not limited to, drivers, 
+dispatchers, schedulers, booking agents, administrators, and data 
+analysts.  
+19.5. 
+Phase 4 (21 Days) Configure. Contractor shall: 
+Attachment A
+=== page 16 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+16 
+ Agreement Template Version: 04012024 
+19.5.1. 
+Complete Platform configuration and Rider Data Importation pursuant to the 
+plans developed in Phase 3 to prepare the Platform for end-to-end testing in 
+Phase 5.  
+19.5.2. 
+Set up services in the Platform based on parameters identified by the Project 
+Team, including but not limited to, zones, stops, and time rules. 
+19.5.3. 
+Optimize algorithms around County’s service parameters and align Platform 
+configuration to meet County’s requirements.  
+19.5.4. 
+Localize the Platform through detailed mapping and traffic modeling. 
+19.5.5. 
+Develop a testing plan to perform user acceptance testing and configure a 
+Platform testing environment, which shall conform substantially to the 
+Operability Performance Testing described in Exhibit G. 
+19.5.6. 
+Work with County’s IM department to set up and configure SSO. 
+19.6. 
+Phase 5 (10 Days) Test. Contractor shall: 
+19.6.1. 
+Perform a broad spectrum of functional tests across a variety of expected 
+scenarios and situations using a fully localized simulation environment, 
+including but not limited to, quality assurance and internal field tests in the 
+County’s service zone(s) with real drivers and Riders to prepare for Launch at 
+scale.  
+19.6.2. 
+Coordinate with County to ensure that tests have the right coverage across the 
+Platform configurations for the needs of County’s Riders, drivers, dispatchers, 
+customer service representatives, and other County staff and community, as 
+identified by the Project Team. 
+19.6.3. 
+Configure Platform testing and simulation environments so that they are ready 
+for testing and conduct testing pursuant to the testing plan developed in Phase 
+4. 
+19.6.4. 
+Conduct user acceptance testing for the Rider application with real Riders 
+identified by the County Project manager.  
+19.6.5. 
+Perform a full-scale dry-run test of the Platform to validate Platform 
+functionalities and to also ensure all County staff understand their workflows.   
+19.6.6. 
+During testing, Contractor shall work with County to make Platform adjustments 
+as needed and as identified by the Project Team to ensure proper functionality. 
+19.7. 
+Phase 6 (21 Days) Train. Contractor shall:  
+19.7.1. 
+Provide training to County staff identified by the Project manager pursuant to 
+the training plan developed in Phase 3.  Training shall be provided remotely at 
+dates, times, and locations to be determined by the Project Team. County shall 
+provide all equipment and facilities necessary for County staff to attend training.  
+Contractor shall setup and conduct the virtual training sessions, provide the 
+necessary login information for trainees to attend, and provide all training 
+Attachment A

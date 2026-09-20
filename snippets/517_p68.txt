@@ -1,0 +1,61 @@
+# source: raw/bleecker_drive/North Carolina/AII_On_Demand_Microtransit_Webinar.pdf
+# path: raw/bleecker_drive/North Carolina/AII_On_Demand_Microtransit_Webinar.pdf
+# hit page: 68 of 79
+# terms: Via+SaaS, Via+fleet, Via+vehicles
+
+=== page 67 ===
+1.
+Bay Area Transportation 
+Authority (BATA), Traverse 
+City
+2.
+Muskegon Area Transit System 
+(MATS)
+3.
+Interurban Transit 
+Partnership, “The Rapid,” 
+Grand Rapids
+4.
+Battle Creek Transit
+5.
+Suburban Mobility Authority 
+for Regional Transportation 
+(SMART): Dearborn, 
+Troy/Clawson, Auburn 
+Hills/Pontiac, Hall Road, 
+Farmington/Farmington Hills
+=== page 68 ===
+BATA
+• SaaS model – started with TransLoc, 
+switching to Via
+• Uses regular fleet vehicles, giving 
+them large fleet and lots of 
+flexibility
+• Goals:
+• Improve efficiency
+• Reduce no-show/cancelation 
+rate
+• Results: 
+• Efficiency improved from <2 
+rides/hour using 5-6 buses to 3+ 
+rides/hour using 3-4 buses
+• No-show/cancelation rate 
+dropped from over 30% to less 
+than 3%
+=== page 69 ===
+MATS
+• Turnkey: Operated by River North 
+Transit, subsidiary of Via
+• Goals:
+• Control costs: Fixed route 
+service was being cut by 45%, 
+use microtransit to fill gap
+• Modernize operations
+• Results:
+• Not only filled the gaps from service reduction, but also able to expand 
+hours of service at lower cost.
+• New technology has been adopted easily by people who like tech and has 
+brought in new users. However, some aspects have been challenging for 
+older riders.
+• Goal was 175 trips/day. Currently doing 180-240 trips/day.
+• Generating more fare revenue than expected.

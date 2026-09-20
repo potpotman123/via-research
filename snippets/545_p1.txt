@@ -1,0 +1,130 @@
+# source: raw/bleecker_drive/City of West Sacramento/2023.06.07_-_City_Council_-_Amendment_No._5_to_NoMad_Transit_LLC_Contract.pdf
+# path: raw/bleecker_drive/City of West Sacramento/2023.06.07_-_City_Council_-_Amendment_No._5_to_NoMad_Transit_LLC_Contract.pdf
+# hit page: 1 of 63
+# terms: NoMad Transit, Via+vehicles
+
+=== page 1 ===
+CITY COUNCIL
+AGENDA REPORT
+MEETING DATE:   June 7, 2023
+ITEM # 6
+SUBJECT:
+CONSIDERATION OF APPROVAL OF A 1-YEAR CONTRACT RENEWAL WITH NOMAD 
+TRANSIT LLC EXTENDING THE WEST SACRAMENTO ON-DEMAND RIDESHARE 
+PROGRAM THROUGH FISCAL YEAR 2023-24 AND RESOLUTION 23-42 ALLOCATING 
+UP TO $3,102,730 TO SUPPORT OPERATIONS THROUGH FISCAL YEAR 2023-24
+INITIATED OR REQUESTED BY:
+REPORT COORDINATED OR PREPARED BY:
+[  ]
+Council
+[X]
+Staff
+[  ]
+Other
+Stephanie Chhan, Senior Transportation Planner
+Community Development Department
+ATTACHMENT
+[X]  Yes
+[  ]  No
+[  ]  Information
+[  ]  Direction
+[X]  Action
+OBJECTIVE
+The purpose of this report is to request City Council approval of Amendment No. 5 to the amended and restated 
+contract with NoMad Transit LLC to extend the On-Demand Rideshare service through June 30, 2024 and to 
+establish the schedule of fees for fiscal year 2023-24 operations. Staff is requesting approval of Resolution 23-
+42 allocating up to $3,102,730 in Transportation Development Act funding and authorizing use of $150,000 in 
+collected Fiscal Year 2022-23 rideshare revenues to support continued rideshare operations through FY 2023-
+24. 
+RECOMMENDED ACTION
+Staff respectfully recommends that the City Council:
+1) Find approval of Amendment No. 5 to the Amended & Restated Contract with NoMad Transit LLC exempt 
+from the California Environmental Quality Act (CEQA) under the General Rule exception provided for by 
+Section §15061(b)(3);
+2) Approve and authorize the City Manager, or designee, to execute Amendment No. 5 to the Amended & 
+Restated Contract with NoMad Transit LLC, extending operations of the West Sacramento On-Demand 
+Rideshare program through June 30, 2024 and establishing the schedule of fees for fiscal year 2023-24; 
+and
+3) Approve Resolution 23-42 allocating up to $3,102,730 from the Transportation Development Act and 
+authorizing the use of FY 2022-23 rideshare revenues estimated at $150,000 towards the funding of the 
+FY 2023-24 Via Rideshare program operations.
+BACKGROUND
+The West Sacramento On-Demand Rideshare Program was launched as a 1-Year Pilot on May 14, 2018 
+following robust Transportation, Mobility, and Infrastructure (TMI) Commission and City Council engagement 
+dating back to June 2016. The program was initially developed in response to Council direction to explore a more 
+flexible, innovative public transit model that better served resident needs, as fixed route bus service continued 
+to experience increased costs alongside declining ridership. Following the success of the Pilot program, on May 
+1, 2019, the City Council unanimously approved an Amended and Restated Contract continuing the rideshare 
+program. 
+The purpose of this report is to provide updates on the program, findings from the Sacramento Area Council of 
+Government’s Transportation Development Act triennial performance audit, and the proposed fee schedule for 
+the fifth and final extension under the current contract with NoMad Transit LLC for City Council consideration.
+ANALYSIS
+Ridership in Review 
+On June 15, 2022, the City Council approved a contract of $2,741,254 – comprised of $2,395,191 of 
+Transportation Development Act funds, $69,014 Fiscal Year (FY) 2021-22 year fare revenues, and $277,049 of 
+anticipated FY 2022-23 fare revenue reinvestment – with NoMad Transit LLC to support the On-Demand 
+Rideshare Program operations and allocated $115,000 to fund staff time and materials for fiscal year 2022-23. 
+Since launch through April 2023, Via has provided a total of over 649,000 rides throughout West Sacramento for 
+over 13,600 unique accounts. Of the 13,600+ accounts, more than 560, or approximately 5 percent, are senior 
+or disabled account holders. On average, pick-up estimated time of arrival is approximately 12.8 minutes, 
+deviation between estimated time of arrival and actual pick-up time is 0.9 minutes, and 86 percent of vehicles 
+are within 5 minutes of estimated pick up time. Riders walk an average of 318.5 feet to be picked up and trips
+=== page 2 ===
+On-Demand Rideshare Program – 5th Year Extension and Program Update
+June 7, 2023
+Page 2
+are an average of 3.3 miles and 10.2 minutes per ride. Since the launch, top pick-up and drop-off destinations 
+include River City High School, Riverpoint Marketplace, Southport Town Center, Raley’s, the West Sacramento 
+Recreation Center, and Savannah at Southpoint apartments.
+Between July 2022 – April 2023, the service has completed over 157,000 rides - averaging of 3,622 weekly rides, 
+593 weekday daily rides, and 328 weekend daily rides. Currently, over 600 unique riders are using the service 
+weekly. Senior/Disabled ridership comprises an average of approximately 379 weekly rides. Recent high 
+ridership has led to 28.1 percent of requests in March 2023 and 25 percent of requests in April 2023 with 21+ 
+minute estimated time of arrivals. Average pick-up time for FY 2022-23 is 14 minutes, deviation between 
+estimated time of arrival and actual time of arrival is approximately 1.3 minutes, and 87 percent of vehicles are 
+within 5 minutes of estimated pick up time. NoMad Transit LLC indicated the longest distance a customer would 
+walk to meet a vehicle is 1/10 mile, or approximately 500 feet, although most walking distances will be shorter 
+than the maximum and some may even be door-to-door if it is optimal for the network. For Fiscal Year 2022-23, 
+the average pick up walking distance was 320.7 feet. For FY 2022-23, top pick-up and drop-off locations include: 
+River City High School, Riverpoint Marketplace, Southport Town Center, Raley’s, the West Sacramento 
+Recreation Center, Savannah at Southpoint apartments, Tower Bridge Gateway, and Lighthouse Bar and Grill. 
+ViaPass is a discounted weekly frequent rider program that offers riders up to four rides a day, seven days a 
+week for $15. Seniors 62+ and individuals with eligible disabilities receive a 50 percent discount off the ViaPass 
+price. This frequent rider program effectively provides a 50 percent discount on regular fares and 70 percent 
+discount on top of already discounted fares. ViaPass users take 2.5 times more rides than non-pass riders. 
+Approximately 26 percent of weekly active users hold a ViaPass and 48 percent of all weekly rides are taken 
+using ViaPass. 
+Transportation Development Act Triennial Performance Audit
+The Transportation Development Act (TDA) is administered by the California Department of Transportation 
+(Caltrans) and provides two sources of public transportation funding for local governments; Local Transportation 
+Funds (LTF) and State Transit Assistance (STA) funds. The funds are intended for the development and support 
+of public transportation needs that exist in California and are allocated to counties based on population, taxable 
+sales, and transit performance. TDA funds are primarily intended to support public transit services but can 
+support a wide variety of transportation programs including planning activities, pedestrian and bicycle facilities, 
+road rehabilitation or other community transit, bus and rail projects. However, STA funds have more restrictive 
+criteria and regulations that must be met in order to fund eligible expenses. The Sacramento Area Council of 
+Governments (SACOG) is the administrator of TDA funds for the City of West Sacramento, and the City must 
+annually submit a claim for review and approval by the SACOG Board of Directors to claim its allocations of TDA 
+funds. 
+Because the City of West Sacramento funds the On-Demand Rideshare Program with TDA funds, the City is 
+subject to compliance with TDA requirements. The California Department of Transportation (Caltrans) 
+Performance Audit Guidebook contains a checklist of 11 measures taken from the Public Utilities Code and 
+California Code of Regulations.  SACOG recently completed a TDA triennial performance audit on the City’s On-
+Demand Rideshare Program. The goal of the audit is to provide a means of evaluating performance and to 
+enhance performance by making recommendations for improvement. The audit measures performance against 
+TDA’s established criteria and focuses on management’s planning and control system. It also evaluates an 
+agency’s degree of compliance with established policies and procedures as outlined in the TDA statutes. 
+The “Triennial Performance Audit of City of West Sacramento – Via Rideshare” is provided in Attachment 1. Four 
+compliance requirements did not apply to West Sacramento (i.e., annual CHP terminal inspections, rural/urban 
+farebox recovery ratios, and use of federal funding). Of the compliance requirements pertaining to West 
+Sacramento, the City fully complied with five requirements. The City was found not in compliance with the 
+submittal of the annual Transit Operators’ Financial Transactions Reports to the State Controller and was 
+partially compliant regarding reporting of performance measures (vehicle service hours and miles/full-time 
+employee equivalents). As such, the City is making the required showing of progress in implementing the 
+recommendations.
+Staff has been in coordination with the State Controller's Office and will submit an annual report beginning in 
+Fiscal Year (FY) 2022-23, which is due in January 2024. Additionally, staff has coordinated with Nomad Transit 
+LLC to incorporate the TDA performance metrics as a requirement to be regularly reported to the City through 
+the contract amendment with proposed FY 2023-24 fee schedule.  The performance metric reports do not affect 
+the contract value with Nomad Transit LLC.

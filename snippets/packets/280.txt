@@ -1,0 +1,17 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Arlington, Virginia/Arlington to launch ‘microtransit’ pilot program later this year _ ARLnow.com.pdf
+# pages_total: 9; hit_pages: [2]; included: [2]
+# context: Bleecker Drive folder: Arlington, Virginia
+
+=== page 2 of 9 ===
+Microtransit service in Prince William County (via OmniRide)
+A new “microtransit” program meant to shore up gaps in bus routes is expected to launch
+in northwest Arlington later this year.
+Operating as an on-demand service, the initiative would likely use vans or other relatively
+small vehicles to connect passengers to fixed transit routes and key destinations.
+A pilot program, which would last at least a year, would be centered on an area with N.
+Glebe Road to the east, Langston Blvd to the south and the county line to the north and
+west. This includes portions of Rock Spring, Yorktown, East Falls Church, Williamsburg,
+Leeway Overlee, Hall’s Hill and Old Dominion.
+The goal is to expand transit options in areas where ridership is too limited to warrant
+more bus routes.

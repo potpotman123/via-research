@@ -1,0 +1,113 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Milwaukee/24-919 REPORT.pdf
+# pages_total: 5; hit_pages: [2, 4]; included: [2, 4]
+# context: Bleecker Drive folder: Milwaukee
+
+=== page 2 of 5 ===
+Van Service 
+Accessible van service is required by the Americans with Disability Act (ADA). Its 
+purpose is to provide accessible service to persons with disabilities that mirrors the 
+service provided by fixed route buses. This program serves Milwaukee County residents 
+and visitors who are prevented from using fixed route buses some or all of the time due 
+to a disability. Client eligibility is determined via doctor’s certification and an in-person 
+functional assessment conducted by Transit Plus staff. 
+ 
+Per ADA regulations, service must be provided by accessible vehicles within a ¾ mile 
+zone around all fixed routes operated by MCTS. Currently, Milwaukee County provides 
+border to border service within the County plus the required ¾ mile buffer around fixed 
+routes that extend into other counties. This is a shared ride service available with a 
+reservation made one to 7 days in advance of a ride. Clients can travel anywhere in the 
+county-wide service area for any purpose. Service is provided from first exterior door to 
+first exterior door during the same hours and days as fixed route bus operation. 
+ 
+ADA van service drivers participate in random drug/alcohol testing required by the 
+Federal Transit Administration (FTA) and provide door to door assistance to clients. The 
+fare is capped by the FTA at no more than double the fixed route bus fare. The current 
+fare is $4 per one-way trip for private pay riders or $35.00 per one-way trip for those 
+enrolled in Medicaid funded long term care programs. 
+ 
+Van service is provided through a contract with First Group (a wholly owned subsidiary 
+of Transdev North America). MCTS pays a negotiated rate per service hour provided.  
+The current van service contract began in October 2023 and ends in October 2030. 
+Under this contract, the vendor is responsible for all aspects of service provision 
+including maintaining appropriate insurance; hiring, training and managing staff; drug 
+testing, scheduling, dispatching and providing rides; accident/incident investigation; 
+vehicle acquisition; and equipment maintenance.   
+ 
+The contract includes performance standards in the areas of on-time performance, ride 
+duration, service availability, appointment drop-offs, compliance with federal 
+requirements and service productivity. Incentives and penalties are applied as 
+warranted.   
+ 
+Key Performance Indicator (KPI) data since contract start: 
+ 
+Activity 
+Standard 
+Nov- Dec 2023 
+January- August 2024 
+ 
+Van Trips 
+N/A 
+55,180 
+239,671 
+On- time 
+performance (OTP) 
+-Pick up within 30-
+minute pick up 
+window 
+93% 
+82.6% 
+92.9%
+
+=== page 4 of 5 ===
+funds in the 2024 budget to allow for the implementation of a replacement program.  
+The Paratransit Taxi Task Force met throughout 2023 and 2024 to develop the service 
+parameters for this replacement program in line with the Board’s stipulations.   
+ 
+Service began on the Transit Plus Same Day Pilot at the end of August 2024 and is 
+contracted with Tidewater Transit, dba Via, to run until September 2025 or until 
+budgeted funds are expired.  Service is provided on a same day basis for 
+health/medical or employment rides that could not have been scheduled the day before 
+and thus could not have been scheduled on the existing paratransit vans.  Some 
+examples of the use cases for this service would include a same day trip to urgent care, 
+going to pick up a sick child, or being called into work.  All vehicles are wheelchair 
+accessible, and drivers are subject to random drug and alcohol testing. Rides can be 
+shared or private depending on demand.  The contracted rate for this service is $98.73 
+per vehicle hour.   
+ 
+Service runs from 7 AM to 5:59 PM, 7 days/week and is provided border to border 
+within Milwaukee County.  The rider fare is $10 per one-way trip. A Personal Care 
+Attendant (when required due to rider disability) is allowed to accompany the rider at no 
+cost. One companion can ride with the client for an additional $10. Fare can be paid 
+with a credit/debit card or a cash voucher code purchased at the MCTS Administration 
+Building.  Trip booking can be done using a smartphone app or over the phone. The 
+vehicle must arrive within one hour of booking the trip. 
+ 
+There were 10 trips provided on this program in September and 10 trips in October. 
+Transit Plus and the Task Force members continue efforts to educate potential riders 
+about the availability of this service. 
+ 
+SUMMARY 
+The MCTS Paratransit Program, known as Transit Plus manages all aspects of ADA 
+paratransit eligibility, service provision, reporting and compliance with state and federal 
+requirements. In addition, Transit Plus manages a same day discretionary program that 
+is offered by Milwaukee County to help offset the unmet need for same day 
+transportation for persons with disabilities. All programs are closely monitored to 
+maintain service efficiency and effectiveness. Complaints are carefully recorded, 
+investigated and resolved. Efforts to enable persons with disabilities to be able to 
+successfully use fixed route services in addition to, or instead of, paratransit services 
+are on-going through mobility management. 
+ 
+ALIGNMENT TO STRATEGIC PLAN 
+Describe how the item aligns to the strategic plan: 
+2A: 
+Determine what, where, and how we deliver services to advance health equity. 
+2B: 
+Break down silos across County government to maximize access to and quality 
+of services offered. 
+3A: 
+Invest “upstream” to address root causes of health disparities. 
+3B: 
+Enhance the County’s fiscal health and sustainability. 
+3C: 
+Dismantle barriers to diverse and inclusive communities.

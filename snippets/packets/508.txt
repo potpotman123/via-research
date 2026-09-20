@@ -1,0 +1,257 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Suffolk County/11232021 Building Transportation for the future in Suffolk County.pdf
+# pages_total: 19; hit_pages: [1, 3, 4, 7, 8, 12, 14, 16, 19]; included: [1, 3, 4, 7, 8, 12, 14, 16, 19]
+# context: Bleecker Drive folder: Suffolk County
+
+=== page 1 of 19 ===
+Building transportation 
+for the future in 
+Suffolk County
+Suffolk County Transportation Working Group
+Via Transportation
+November 23, 2021
+
+=== page 3 of 19 ===
+Proprietary & Confidential. 
+Plan
+Operate
+Optimize
+See how people move in your community, identify 
+what’s missing, and design new outcomes.
+Bring your plans to life with an integrated suite of 
+tools for operators, drivers, and riders.
+Use data to assess impact, and move 
+your vision forward.
+Plan
+Operate
+Optimize
+Remix On-Demand Planning
+Remix Streets
+Remix Transit +  Scheduling
+Remix Explore
+Consulting + Service Design
+Via Operations Center
+Driver App
+Rider App
+Fleet Management
+Driver/Rider Support 
+Driver Management
+Rider Growth
+Reporting + Analytics
+Community Engagement
+ViaViewer
+How does Via’s software platform work?
+3
+
+=== page 4 of 19 ===
+Via’s platform enables cities to digitize and eﬃciently manage every 
+component of their transportation system
+Transit consulting & 
+Network optimization
+Integrated payments 
+& ticketing
+Multi-modal 
+trip planning
+Fixed-route 
+public transit
+●Scheduling
+●Capacity 
+management
+●First-and-last-mile
+●Transit deserts
+●Replace under-
+performing routes
+Paratransit / 
+NEMT
+●Accessible 
+transport
+●Health care
+School 
+buses
+Corporate & 
+university 
+shuttles
+●Campus
+●Employee
+●Airport
+●Routing
+●Bus & student 
+tracking
+On-demand 
+public transit
+And provides the tools 
+to create an optimized, 
+fully-integrated 
+network:
+Autonomous 
+vehicles
+●Dynamic routing
+●Shared rides
+
+=== page 7 of 19 ===
+Software-as-a-Service (SaaS)
+Licensing to public 
+transit agencies 
+and operators
+Rider
+Dispatch
+Driver
+Via’s platform enables cities to digitize and eﬃciently manage every 
+component of their transportation system
+
+=== page 8 of 19 ===
+01
+02
+03
+04
+8
+Via. Proprietary & Conﬁdential.
+Mixed ﬂeet that includes 
+WAV vehicle(s) to 
+accommodate a range of 
+rider preferences
+Door-to-door pickups 
+& drop-oﬀs for mobility 
+limited riders
+Simple phone booking 
+process for those without 
+web or smartphone 
+access
+Prepaid debit cards, 
+vouchers & cash 
+payment options for 
+unbanked users
+Accessible 
+Vehicles
+Customized 
+Service
+Phone
+Booking
+Payment 
+options
+Incorporating accessibility features that promote equity
+
+=== page 12 of 19 ===
+12
+Via. Proprietary & Conﬁdential.
+BerlKönig
+• Largest on-demand service in the 
+world, operating a mixed ﬂeet of 
+electric and traditional vehicles, 
+including WAVs
+• Integrated with BVG’s Journey 
+Planner and multimodal app “Jelbi”
+• Received German Federal Inclusion, 
+Transtech Partnership of the Year, 
+and UITP Public and Urban Transport 
+Strategy Awards
+Via’s transit consulting + TransitTech can help agencies improve service 
+quality and eﬃciency without increasing operating costs
+Hall County, GA
+•
+Fixed-route network provided poor 
+coverage to urban and rural areas 
+while being expensive to operate
+•
+Replaced 3 underperforming ﬁxed 
+routes in the city of Gainesville with 
+microtransit
+Wilson, NC
+North Bay, Ontario
+•
+Fixed route bus system bus system 
+only covered 40% of the city and 
+missed many economic centers
+•
+Introduced an on-demand service 
+that covers 100% of the city and 
+connects
+•
+Low evening and weekend ridership 
+led to long wait and travel times for 
+the service’s remaining riders
+•
+Converted low-utilization buses to 
+on-demand during oﬀ-peak times
+50% 
+Reduction in cost per trip 400%
+Reduction in wait time
+150%
+Increase in service 
+coverage
+0%
+Increase in transit 
+budget
+17% 
+Reduction in vehicles 
+needed
+74%
+Reduction in wait time
+
+=== page 14 of 19 ===
+14
+Via. Proprietary & Conﬁdential.
+Via’s partnership with the Department of Education in New York City is fueling 
+our ﬁxed route, ﬁxed schedule product development
+NYC Department of Education
+Via’s School Bus Solution will soon be 
+operating in New York City serving both 
+general education and special education 
+students.
+Launch
+Number 
+of vehicles
+Fall 2020
+9,500
+Features
+Parent / Student App
+Bus Driver App
+Administrative Tools
+
+=== page 16 of 19 ===
+Via. Proprietary & Conﬁdential.
+Problem: 
+SCT used to run the 10A ﬁxed route in 
+Southampton, but eliminated service because 
+of ﬁscal challenges related to low ridership
+Solution: 
+• Launched a new microtransit service in the 
+shaded area for a 7-month pilot 
+• Provides ﬁrst-last-mile connection to LIRR 
+and better mobility options for seniors, 
+individuals with limited mobility, and 
+seasonal workers
+• Operates weekdays, 6:30 AM - 8:30 PM; 
+standard $2.25 SCT fare with concessions
+Suﬀolk County, NY
+Use case:
+First-last-mile / 
+minimal ﬁxed routes
+Fleet:
+3 vans (all WAVs)
+Geography:
+Suburban
+““It provides ﬂexible service on a 
+ﬂexible schedule...if there is nobody 
+on the bus, our bus will wait for the 
+next person to catch a ride. We are 
+not driving around empty because 
+we have a schedule that says we 
+have to.”
+— John Moore, General Manager 
+GMT
+200+
+Rides weekly
+40
+Avg. Daily Rides
+(Already met 10a 
+Peak Season Rides)
+5
+out of 5 average 
+rider rating
+
+=== page 19 of 19 ===
+Thank you.
+Thank you.
+Via Transportation
+michael.vaccarino@ridewithvia.com

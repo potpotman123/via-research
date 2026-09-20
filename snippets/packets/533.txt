@@ -1,0 +1,55 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Tahoe Transportation/2025-9-17-TTD-Notice-of-Intent-to-Award-Scheduling-Software.pdf
+# pages_total: 1; hit_pages: [1]; included: [1]
+# context: Bleecker Drive folder: Tahoe Transportation
+
+=== page 1 of 1 ===
+September 17, 2025 
+ 
+NOTICE OF INTENT TO AWARD A CONTRACT 
+ 
+RFP SUBJECT:  
+Microtransit and Paratransit Scheduling and Management Software 
+ 
+DATE ISSUED:   
+ 
+July 21, 2025 
+ 
+RFP/RFQ DEADLINE:  
+ 
+August 14, 2025 
+ 
+INTENT TO AWARD TO:   
+Via Mobility LLC 
+ 
+SOLICITATION TYPE:  
+ 
+Request for Proposals/Best Value 
+ 
+AMOUNT:  
+ 
+ 
+Five Year Contract, Not to Exceed $88,000  
+ 
+CONTRACTING OFFICER:  
+George K. Fink, Transportation Services Director   
+ 
+This is a notice of Tahoe Transportation District’s (TTD) intent to award a contract. The responsible and 
+responsive offeror whose proposal was determined in writing to be the most advantageous is indicated. 
+The offeror identified here as submitting the most advantageous proposal is instructed not to proceed 
+until a contract, or other form of notice, is given by the contracting officer. A company or person who 
+proceeds prior to receiving a contract, Contract Award, or other form of notice of award does so without 
+a contract and at their own risk.  The offeror shall not acquire any legal or equitable rights relative to the 
+contract services until a contract containing terms and conditions acceptable to TTD is executed. If the 
+apparent successful offeror fails to negotiate and execute a contract, TTD may revoke the award and 
+award the contract to the next highest ranked offeror or withdraw the RFP. TTD further reserves the 
+right to cancel this Notice of Intent to Award at any time prior to the execution of a written contract. 
+ 
+If an offeror that has not been selected wishes to dispute the award recommendation, the protest must 
+be submitted in writing to jallen@tahoetransportation.org no later than five (5) calendar days after this 
+announcement of the selected proposer, detailing the grounds, factual basis and providing all 
+supporting information. Protests will not be considered for disputes of proposal requirements and 
+specifications. Failure to submit a timely written protest will bar consideration of the protest. It is the 
+policy of the TTD to consider fully and promptly adjudicate protests filed by bidders or prospective 
+bidders relating to TTD’s bidding procedure, contract specifications or award of contract. Bid protest 
+procedures can be viewed at https://www.tahoetransportation.org/procurements/.

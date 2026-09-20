@@ -1,0 +1,182 @@
+# source: raw/bleecker_drive/Los Alamos (Spare Labs)/1040_24_A_-_AGR_24-37_Spare_Labs_Inc.pdf
+# path: raw/bleecker_drive/Los Alamos (Spare Labs)/1040_24_A_-_AGR_24-37_Spare_Labs_Inc.pdf
+# hit page: 12 of 81
+# terms: Spare Labs
+
+=== page 11 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+11 
+ Agreement Template Version: 04012024 
+13.2. 
+Contractor shall also timely provide any other records requested by County for 
+response to Inspection of Public Records (“IPRA”) requests under NMSA 1978, 
+Chapter 14, Article 2.  In the context of County responding to an IPRA request for 
+information, portions of Contractor’s records which have been disclosed to County 
+that have been clearly marked as proprietary and confidential and contain details that 
+are considered trade secrets, may be withheld from disclosure under NMSA 1978, 
+Section 14-2-1(F) Trade Secrets. Should County receive any external requests to 
+disclose this information, Contractor is prepared to collaborate closely with County. 
+Contractor can assist in identifying the sensitive sections that should be redacted to 
+protect Parties’ mutual interests and maintain confidentiality. This proactive approach 
+ensures that Parties safeguard valuable intellectual property while complying with 
+transparency obligations. 
+14. Data Turnover. 
+ 
+14.1. 
+Data Retrieval and Format Transformation. Upon termination of this Agreement, 
+all County Data shall be comprehensively compiled and converted into either CSV or 
+MSSQL formats as specified by County. If requested by County, Contractor shall 
+adapt to a different mutually agreed-upon format. 
+14.2. 
+Provision of Data Readers and Access Tools. To ensure County personnel can 
+effectively utilize the turned-over County Data, Contractor shall provide detailed 
+documentation on the data structure and necessary reader tools. This documentation 
+shall include guidelines on accessing and interpreting the County Data efficiently. 
+15. Data Destruction. 
+ 
+15.1. 
+Secure Data Deletion. After County Data turnover, Contractor shall ensure the 
+thorough destruction of any remaining County Data from its system, which shall, at a 
+minimum, adhere to security policies outlined in Exhibit E, and shall ensure complete 
+erasure of County Data using industry-standard methods such as cryptographic 
+wiping and physical destruction of any non-reusable media.  
+15.2. 
+Certification of Data Destruction. After the completion of the data destruction 
+process, Contractor shall provide to County Certificate of Destruction which certifies 
+that all data related to the County has been securely erased from Contractor’s 
+systems and confirms that Contractor retains no copies, thereby mitigating any 
+potential data leakage risks. 
+ 
+16. Training. Contractor shall provide training to County staff during Project implementation and 
+throughout the term of this Agreement, upon County request, in accordance with the rates 
+outlined in Exhibit A.  Training shall include, but not be limited to, the Training Modules, 
+System Knowledge Base, Guides, and Help Documents outlined in Exhibit H. 
+17. Project Initiation Meeting. Following the Notice to Proceed, Contractor shall, within ten (10) 
+business days from the Effective Date of this Agreement, schedule a Project initiation meeting 
+with the County Project Manager and the Project Team at a date, time, and virtual format to 
+be agreed upon by both Parties. Contractor shall provide any deliverables to be prepared in 
+advance, and a proposed agenda with any additional topics to be addressed during the Project 
+initiation meeting.  Prior to the Project initiation meeting, Contractor shall review any pertinent 
+documents provided by County and draft a Project Schedule and Plan that substantially 
+Attachment A
+=== page 12 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+12 
+ Agreement Template Version: 04012024 
+conforms to the Project Implementation and Training described in Section C(19).  As part of 
+the Project initiation meeting, the Parties shall, at a minimum:  
+17.1. 
+Establish a mutually agreed upon Project Plan and Schedule to accomplish key tasks 
+with durations for each task conforming substantially to the Contractor’s Proposed 
+Project Plan and Schedule, described herein in Section C(19).  
+17.2. 
+Review the scope of work and identify any Project issues to be addressed in the 
+course of the Project, including the County organizational structure. 
+17.3. 
+Jointly define Project goals, objectives and expectations and set KPIs to measure the 
+success of the Project.  
+17.4. 
+Introduce the County and Contractor Project Managers and Project Team members 
+and discuss their roles and responsibilities.  
+17.5. 
+Review the Platform’s functionality and features and provide an overview 
+demonstration of the Platform for the County Project Team members, if requested by 
+the County Project Manager. 
+17.6. 
+Discuss public-facing Portal set up and marketing plans.  
+17.7. 
+Identify users and stakeholders who will be invited to participate in user acceptance 
+testing.  
+ 
+17.8. 
+Discuss scheduling with County’s IM department to configure Single sign-on (SSO) 
+integration.  
+17.9. 
+Establish communication protocols, meeting frequency, and meeting format, with 
+meetings occurring online in a Virtual format, and develop requirements for periodic 
+status reporting and evaluation with Project Team progress meetings occurring at 
+least weekly throughout Project implementation. 
+ 
+17.10. Identify document format and data transfer methods between Contractor and Project 
+Team related to the performance of this Agreement. Contractor uses Asana™ as its 
+project management tool, to which County Project Manager shall be given access to 
+view Project progress.  Contractor shall generally share meeting agendas with County 
+Project Team via e-mail or shall add agendas to electronic meeting invitations sent to 
+the County Project Team.  Contractor shall provide a secure electronic file sharing 
+method by which the Project Team can upload and share Project documents.  
+ 
+18. Project Plan and Schedule.  
+ 
+18.1. 
+Provision and Approval of a Project Plan and Schedule. Contractor shall provide 
+detailed and complete written documentation of the Project initiation meeting and 
+shall update the draft Project Plan and Schedule with any pertinent items discussed 
+for inclusion at the Project initiation meeting.  Contractor shall provide a written 
+Project Plan and Schedule to County within ten (10) business days of the Project 
+initiation meeting. The Project Plan and Schedule shall conform substantially with 
+Project Implementation and Training described in Section C(19) and shall include, at 
+a minimum, items discussed for inclusion at the Project initiation meeting, due dates 
+Attachment A
+=== page 13 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+13 
+ Agreement Template Version: 04012024 
+for deliverables, Project phases, and milestones.  The Project Plan and Schedule 
+shall be subject to County Project Manager review and approval and Project 
+Implementation shall commence only after County approval of the Project Plan and 
+Schedule.   
+18.2. 
+Components Included in Implementation: The minimum components of the 
+Platform to be included in the Project Plan and Schedule shall include but are not 
+limited to: Admin Panel, Rider App, Driver App, Rider Web, Spare Launch, Spare 
+Analyze, and all optional Platform and Software functionality identified for 
+implementation in Exhibit A Table 6. 
+18.3. 
+Project Plan and Schedule Changes. The Project Plan and Schedule may be 
+adjusted throughout Project implementation upon written approval of the County 
+Project Manager and mutual written agreement of both Parties, which may be 
+provided via memorandum, electronic mail, or some other mutually agreed-upon 
+written method. If the Project Plan and Schedule is modified by Parties, Contractor 
+shall provide to County Project Manager an updated Project Plan and Schedule 
+reflecting the agreed-upon changes within five (5) business days of the mutual written 
+agreement of changes. Parties shall generally follow the following process to manage 
+changes to the Project Plan and Schedule during implementation: 
+ 
+18.3.1. 
+Contractor shall perform a thorough review of each change request to assess 
+its impact on Project objectives, budget, and timeline to ensure that all changes 
+are aligned with Project goals and County expectations. 
+ 
+18.3.2. 
+Contractor’s Project Team shall maintain strict controls over the Project timeline 
+and budget and shall monitor Project progress and identify potential deviations 
+from the approved Project Plan and Schedule to address issues promptly and 
+minimize their impact.  Any changes to the Project scope that impacts the 
+budgeted costs, shall not be implemented until the County has approved of such 
+changes in writing, and may require an amendment to the Agreement which 
+may, depending on the dollar amount change, if any, require approval of the 
+Los Alamos County Council. 
+ 
+18.3.3. 
+During weekly Project progress meetings during Project implementation, 
+Contractor shall discuss Project progress, potential changes, and their 
+implications to ensure transparency and alignment among the Project Team 
+members, See Section C(19).1. 
+ 
+18.3.4. 
+Contractor shall document all change requests outlining the reasons for the 
+change, the expected benefits, and any potential risks.  These documents shall 
+then be reviewed and approved by the County Project Manager and 
+Contractor’s authorized approver to maintain a clear audit trail of changes and 
+ensure that all modifications are well-justified, properly authorized, and made in 
+accordance with all terms and conditions of this Agreement. 
+ 
+19. Project Implementation and Training. Contractor shall commence implementation and 
+associated training on a mutually acceptable date as identified on the approved Project Plan 
+and Schedule, promptly following the Project initiation meeting.  All implementation and 
+training Services shall be provided by Contractor remotely off-site, unless otherwise requested 
+by County and mutually agreed to by both Parties, in which case, Contractor shall perform 
+Attachment A

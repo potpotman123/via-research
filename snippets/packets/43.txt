@@ -1,0 +1,242 @@
+# source_url: https://legistar.granicus.com/Sunnyvale/attachments/c17a753d-eeca-497e-bbdc-82bc2b3c0426.pdf
+# path: raw/cache/c821046acc29a9e35ebe53cbbd7409f60d2c5947.pdf
+# pages_total: 40; hit_pages: [35]; included: [35]
+# context: legistar client=sunnyvaleca; matter 26-0001 (2025-08-15): Authorize the Issuance of the Service Order for the Sunnyvale Microtransit Service with Via Transportation, Inc. Doing Business as Nomad Transit LLC for the Sunnyvale Microtransit Service for $8,358,000, Authorize City Manager to Execute all Agreements Related to the Operations of the Sunnyvale Micr
+
+=== page 35 of 40 ===
+Reference No.: 4.30 
+October 16-17, 2025
+ Page 1 of 4 
+Attachment F 
+Project Information 
+2024 Transit and Intercity Rail Capital Program - Program Allocation Plan 
+Updated as of October 2025 
+Project Programming 
+Award 
+No. 
+Award 
+Amount 
+Award Recipient 
+Implementing Agency 
+Project Title 
+Separable Phases/ 
+Components 
+PPNO 
+Phase 
+FY 24-25 
+FY 25-26 
+FY 26-27 
+FY 27-28 
+FY 28-29 
+FY 29-30 
+FY 30-31 
+FY 31-32 
+Area #1 - Transit Plaza, Ph. I (Lot C Open Space) 
+CP144 
+CONST
+ $             962,000 
+Area #2 - Sacramento Streetscape 
+CP144A 
+CONST
+ $          2,139,000 
+2024:01
+ $                    25,000,000 Bay Area Rapid Transit (BART) 
+Bay Area Rapid Transit (BART) 
+North Berkeley Transit-Oriented Development 
+(TOD) Mobility Enhancements Project 
+Area #3 - Access Road 
+Area #4 - Transit Plaza, Ph. II (Lot G Open Space) 
+CP144B 
+CP144C 
+CONST
+CONST
+ $          3,873,000 
+$             5,066,000 
+Area #5 – BART Rider Parking Consolidation 
+CP144D 
+CONST 
+$           12,960,000 
+2024:02 
+$                    14,000,000 
+Capitol Corridor Joint Powers 
+Authority (CCJPA) 
+Capitol Corridor Joint Powers 
+Authority    (CCJPA) 
+City of Sacramento 
+Santa Clara Interlocking 
+Capitol Corridor Revamping Accessibility and 
+Performance for the Corridor ID Program 
+Agnew Siding 
+(Capitol Corridor RAPID Program) 
+Sacramento Valley Station (SVS) - Railyards Western 
+Connector 
+CP145 
+CP145A 
+CP145B 
+CONST 
+CONST 
+CONST 
+$                               -
+$                               -
+$          5,000,000 
+$          5,000,000 
+$             4,000,000 
+2024:03 
+$                    15,950,000 
+Central Contra Costa Transit 
+Authority (CCCTA) 
+Central Contra Costa Transit 
+Authority (CCCTA) 
+Solar Supported Zero Emission Vehicle Fleet 
+and Service Modernization Project 
+Solar Panel Installation 
+CP146 
+CONST 
+$        15,950,000 
+2024:04 
+$                      4,427,000 
+City of Irvine 
+City of Irvine 
+Irvine CONNECT Clean Transit Service 
+Project 
+12 Cutaway Busses 
+CP147 
+CONST 
+$          4,427,000 
+2024:05 
+$                    53,281,000 
+City of Santa Monica 
+City of Santa Monica 
+The POWER of Transportation: Clean Air, 
+Access and Opportunity 
+Route 2 Charging Infrastructure 
+Procurement of 73 Battery Electric Buses 
+CP148 
+CP148A 
+CONST 
+CONST 
+$                   35,941,000 
+$                               -
+$        17,340,000 
+2024:06 
+2024:07 
+2024:08 
+$                      4,179,000 
+$                    63,259,000 
+$                    16,891,000 
+City of Sunnyvale 
+Coast Rail Coordinating Council 
+(San Luis Obispo Council of 
+Governments (SLOCOG) with 
+Santa Barbara County 
+Association of Governments 
+(SBCAG), Santa Cruz County 
+Regional Transportation 
+Commission (SCCRTC), 
+Transportation Agency for 
+Monterey County (TAMC),
+Foothill Transit 
+City of Sunnyvale 
+King City 
+Los Angeles-San Diego-San Luis 
+Obispo Rail Corridor Agency 
+(LOSSAN) 
+ San Luis Obispo Council of 
+Governments (SLOCOG) 
+Foothill Transit 
+Sunnyvale Zero-Emission First-Mile Last-Mile 
+First-Mile Last-Mile (FMLM) Microtransit (VIA) 
+(FMLM) Microtransit Project 
+King City Multimodal Transit Center 
+Facilitating and Accelerating Service 
+Orcutt Road Left-Hand Crossover 
+Transformations (FAST) on the Central Coast 
+Program 
+Ortega Siding Improvements 
+Templeton Siding Improvements 
+Purchase of Hydrogen 
+Intercity Connectors: More Riders, Less 
+Mess, Happy Life! 
+Traffic Signal Priority Improvements 
+CP149 
+CP150 
+CP150A 
+CP150B 
+CP150C 
+CP151 
+CP151A 
+CONST 
+CONST 
+CONST 
+CONST 
+CONST 
+CONST 
+CONST 
+$                   
+$                     
+12,700,000 
+4,191,000 
+$          4,179,000 
+$             4,161,000 
+$         
+$         
+22,000,000 
+12,098,000 
+$           25,000,000 
+On-Demand Improvement Study 
+ADA Bus Stop Improvements 
+CP152 
+CP152A 
+CONST 
+CONST 
+$                       451,000 
+. 
+$             6,971,000 
+H2 Maintenance Facility and Fueling Station 
+CP152B 
+CONST 
+$           23,241,000 
+Church Avenue Outreach 
+CP152C 
+CONST 
+$             200,000 
+2024:09 
+$                    52,194,000 
+Fresno Area Express (FAX) 
+Fresno Area Express (FAX) System 
+Church Avenue ADA Bus Stop Build Out's 
+CP152D
+ CONST 
+Fresno Area Express (FAX) 
+Efficiency and Accessibility Improvement 
+PS&E 
+Project 
+Church Avenue High Intensity Activated 
+CP152E 
+ R/W 
+Crosswalks 
+ CONST 
+$          
+$             
+$             
+2,792,000 
+196,000 
+247,000 
+$             1,927,000 
+Church Avenue Complete Streets Improvements 
+Church Avenue FCEB Purchases 
+CP152F 
+CP152G 
+PS&E 
+ R/W 
+ CONST 
+CONST 
+$             
+$               
+$        
+177,000 
+85,000 
+14,206,000 
+$             1,701,000 
+Attachment 1 
+Page 35 of 40

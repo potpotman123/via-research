@@ -1,0 +1,52 @@
+# source: raw/bleecker_drive/Whatcom Transportation Authority/DM0151_Remix_-_WTA_MODIFICATION_2_OF_AGREEMENT_2023.pdf
+# path: raw/bleecker_drive/Whatcom Transportation Authority/DM0151_Remix_-_WTA_MODIFICATION_2_OF_AGREEMENT_2023.pdf
+# hit page: 1 of 2
+# terms: Remix Technologies
+
+=== page 1 ===
+DocuSign Envelope ID: 13484A4E-B3F2-4E7D-B08C-6582971CBA9E
+Amendment #2 of the
+Contractual Service Agreement SaaS Solution for Transit Route Planning
+Remix Technologies LLC ("Remix") and Whatcom Transportation Authority (WTA) ("Customer" and,
+together with Remix, the "Parties") have entered into that certain agreement titled Contractual Service
+Agreement SaaS Solution for Transit Route Planning, dated December 20, 2017, and amended by the
+Consent to Assignment and Extension of Agreement #1 dated October 24, 2022. Upon execution of this
+Amendment #2 (the "Amendment #2"), the Parties agree to modify the Agreement as follows:
+1.
+Amendment: The Parties agree to add Remix Blocking services to the Agreement, as detailed
+below:
+2. Price: Customer shall pay to Remix $4,400 USD, as detailed in the table below, in consideration
+for this amendment of the Agreement, due and payable upon signing.
+Effective Date
+5/1/2023
+Commitment Terms
+8 Months (5/1/2023 - 12/31/2023)
+Remix Blocking License
+$4,400 USD for 8 months
+-
+Pricing prorated from $8,112 USD (Current List Price) $6,600 USD per
+year
+Total Amendment Value
+$4,400 USD / 8 months of access to Remix Blocking
+Includes:
+• Remix Blocking licenses for an unlimited number of users within WTA
+• Software as a Service (SaaS): fully hosted, cloud-based web platform.
+• Platform functionality as described in the Agreement with continuous
+improvements released throughout the course of the contract
+Dedicated Customer Success staff
+: Premium Enterprise Support: response to requests in 1 business day
+Marketing Terms
+Willingness to work with Remix to develop a case study, ability to use Customer as
+a reference.
+Additional Services
+Customer acknowledges that additional services, such as access to Company's
+(including its affiliates) proprietary technology platform used to establish, monitor,
+operate and/or manage fixed-route and demand response transit networks, may be
+added to this Agreement at an additional cost during the Term.
+3. Conflicts, Use of Terms, Governing Law. Capitalized terms used but not defined herein have
+the meanings set forth in the Agreement. Except as expressly provided herein, the terms and
+conditions of the Agreement remain unchanged. This Amendment #1 will be governed by the
+same law as the Agreement.
+=== page 2 ===
+Signed: Tuesday, April 25, 2023
+04/25/2023

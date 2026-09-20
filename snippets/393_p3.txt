@@ -1,0 +1,104 @@
+# source: raw/bleecker_drive/SF Bay Area Rapid Transit District (Spare Labs)/24_085_Award_of_Agreement_No_6M4830_-_EDD.pdf
+# path: raw/bleecker_drive/SF Bay Area Rapid Transit District (Spare Labs)/24_085_Award_of_Agreement_No_6M4830_-_EDD.pdf
+# hit page: 3 of 4
+# terms: Spare Labs
+
+=== page 2 ===
+Authorization to Award RFP 6M4830 for Software Services for East Bay Paratransit Consortium
+item at its April 24, 2024 Board meeting. The Request for Proposals (“RFP”) sought a
+software-as-a-service platform that requires minimal development and customization and
+satisfies all features, functions, and services identified in the Paratransit Software
+Replacement Scope of Services and Technical Requirements of the RFP. The new software
+will provide innovative features such as dynamic vehicle routing to improve efficiency and
+reduce costs; expanded customer support and self-service functions such as trip booking
+and cancellation; improved efficiencies in the call center features and functions; and the
+ability to integrate with BART’s contactless paratransit fare payment app. The system will be
+flexible and scalable to support new technologies, will integrate with existing EBPC systems,
+and will be designed to adapt to rapidly changing processes and standards.
+The RFP was issued on August 25, 2023 and a Notice to Proposers was emailed to
+eighteen potential proposers and 463 certified Small Businesses. A Pre-Proposal Meeting
+was held with interested parties on September 7, 2023, with ten firms in attendance.
+Proposals were received on October 17, 2023 from four firms:
+1
+2
+3
+4
+. RideCo
+. Spare Labs Inc.
+. Stratagen Systems
+. Trapeze Software Group, Inc.
+For the selection committee, BART and AC Transit enlisted the expertise and assistance of
+several technical advisors, including personnel from New York City Transit (Department of
+Paratransit), Transdev (current paratransit broker), and Transsight (a technology firm) to
+review and evaluate the proposals. The committee determined that two firms – Spare Labs
+Inc. and Trapeze Software Group, Inc. - scored within a competitive range. Trapeze
+withdrew from the scheduled oral interview and was therefore disqualified from
+participation. The Selection Committee determined that Spare Labs Inc.’s product provided
+the best value to BART, AC Transit, and EBPC’s paratransit riders. Negotiations began in
+January 2024 between EBPC and Spare Labs Inc. A Best and Final Offer (BAFO) request
+was issued at the conclusion of negotiations in March 2024. Spare Labs Inc. adjusted its
+price according to its discussions with EBPC and its BAFO fell below the Independent Cost
+Estimate of $6,400,000.
+Pursuant to the District’s Non-Federal Small Business Program, the Office of Civil Rights
+set a 5% Small Business Prime Preference for this Agreement for Small Businesses certified
+by the California Department of General Services ("DGS"). It was determined that there
+were no certified Small Businesses certified by the DGS among the responsive Proposers
+and, therefore, the Small Business Prime Preference is not applicable.
+Pursuant to the District’s Non-Discrimination Program for Subcontracting, the Availability
+=== page 3 ===
+Authorization to Award RFP 6M4830 for Software Services for East Bay Paratransit Consortium
+Percentages for this Agreement are 8.4% for Minority Business Enterprises (MBEs) and
+5.7% for Women Business Enterprises (WBEs). Spare Labs Inc. will not be subcontracting
+any portion of the Work and therefore, the provisions of the District’s Non-Discrimination
+Program for Subcontracting do not apply.
+The total project cost will be $5,246,000: $1,520,000 covers implementation costs for the
+first two years of the implementation; $2,554,000 covers operations and maintenance costs
+over the remaining five years of the contract; and $680,000 covers risk reserve. The total
+project cost also includes a $492,000 option to use Spare’s text-messaging (SMS) and
+interactive voice response (IVR) system if desired.
+Fiscal Impact:
+Funding for Contract No. 6M4830 for the amount of $5,246,000 with Spare Labs Inc. to
+provide software services for EBPC is partially funded from project 65MB001 ($4,928,000).
+The balance of $318,000 ($26,000 in FY28, $146,000 in FY29, and $146,000 in FY30) will
+be included in BART's proposed Customer Access and Accessibility Department's annual
+operating budget (Department 1102492, Account 686630), subject to Board approval. These
+expenses in FY28-FY30 comprise BART's share of the operations and maintenance costs in
+the last two-plus years of the contract. AC Transit will transfer its share of the project costs
+to BART in advance of expenditures.
+The table below lists funding assigned to the referenced project 65MB001 and is included to
+track funding history against spending authority. Funds needed to meet this request will be
+expended from the sources listed.
+Type
+LOCAL
+BART
+Description
+AC Transit
+Capital Allocations
+Total of Project 65MB001
+Amount
+3,620,000
+1,334,550
+$4,954,550
+As of March 29, 2024, $4,954,550 is the total budget for this project. BART has expended
+0, committed $0, and reserved $0 to date. This action will commit $4,928,000, leaving an
+$
+available fund balance of $26,550 in these fund sources for this project.
+The Office of the Controller/Treasurer certifies that funds are currently available to meet this
+obligation.
+There is no fiscal impact on available un-programmed District Reserves.
+=== page 4 ===
+Authorization to Award RFP 6M4830 for Software Services for East Bay Paratransit Consortium
+Alternatives:
+Reject all proposals and rebid the contract. Doing so is not anticipated to result in additional
+or better quality proposers.
+Recommendation:
+Adopt the following motion.
+Motion:
+The General Manager, acting jointly with AC Transit, is authorized to execute Contract No.
+6M4830 with Spare Labs Inc. to provide software services for the East Bay Paratransit
+Consortium for a seven-year term, inclusive of an up to two-year implementation period and
+a five-year operational period for a not to exceed amount of $5,246,000 (BART's share is
+$1,626,000 and AC Transit's share is $3,620,000). In addition, the General Manager, acting
+jointly with AC Transit, is authorized to exercise a $492,000 option, included in the not to
+exceed amount of $5,246,000, for the text messaging and interactive voice response
+systems.

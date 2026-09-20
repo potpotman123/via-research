@@ -1,0 +1,48 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Spartanburg/ProposalNo2425-04-22-01_Addendum_2_MicroTransit.pdf
+# pages_total: 29; hit_pages: [2]; included: [2]
+# context: Bleecker Drive folder: Spartanburg
+
+=== page 2 of 29 ===
+10. Please provide the specifications for the 3 city-owned vehicles: See Attachment with full 
+description of newly purchased vehicles brought under a State Grant from SCDOT. 
+a. Make, model, year Ford Transit Van 2024 see attached 
+b. Passenger capacity  7 + One in front 
+c. Wheelchair capacity 2 
+d. Current condition and mileage Bus# 1501 New 162 miles, Bus#  1502 New 146 miles, Bus# 1503 
+New 165 miles.  
+e. Existing technology/equipment installed in vehicle, specifically:  
+• Do the vehicles currently have any mounting brackets or devices that would allow a tablet computer 
+to be installed in them without additional hardware being procured and installed to make possible the 
+use of cradles for the tablet computers? No mounting brackets, all technology related items will have 
+to be installed by contractor. 
+• Do the vehicles have any digital communications capabilities installed in them?  No  
+ 
+11. Are there any specific technology requirements for the microtransit technology platform relative to 
+the following: 
+a. Integration with existing city systems No 
+b. Data reporting formats and frequency We do want the technology that will allow us to see real 
+time information about the location and usage of the vehicles 
+c. Cybersecurity requirements. We would expect vendor to use industry best practices 
+d. Data retention policies. Follow the guidelines of reporting for federal grants 
+ 
+12. What are the City’s expectations for the customer interface of the technology platform relative to 
+the following: 
+ 
+a. Language support requirements: Primarily English, but should have the ability to translate into 
+Spanish. 
+b. ADA compliance specifications (screen reading) Yes 
+c. The RFP states that the vendor will provide options for those without smart phones to book rides via 
+phone calls. Does the City have internal capabilities, such as with an information phone number for 
+its bus transit service, for City staff to handle such customer phone calls and enter trip orders into the 
+microtransit service booking system? No the City does not have the capability. The Contractor will 
+need to handle phone calls regarding the trips. 
+d. Or will the contractor need to arrange for a third party to handle call center agent assisted trip 
+booking and to include the costs, including initial training costs, of this external capability in its 
+proposal?  Yes this should be included in the response from bidders.  
+ 
+13. Does the City have any specific service level requirements for the new service at this point in time, 
+such as target response times, maximum passenger wait times, or similar? Or will those be 
+developed in consultation with the technology provider and service operator during the detailed 
+planning phase for the new service? We will work with operator to develop the best practices for 
+the micro transit industry

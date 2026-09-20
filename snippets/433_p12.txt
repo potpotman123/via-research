@@ -1,0 +1,111 @@
+# source: raw/bleecker_drive/St. Lucie County/RFP_No._21-011_St_Lucie_County_Microtransit_Software.pdf
+# path: raw/bleecker_drive/St. Lucie County/RFP_No._21-011_St_Lucie_County_Microtransit_Software.pdf
+# hit page: 12 of 35
+# terms: Via+subscription
+
+=== page 11 ===
+Pilot  Service  App/Software  Platform/Simulation  Capability  –  On‐demand  riders  currently 
+download the free TransLoc microtransit app to their smartphone to request rides. The app 
+provides an estimated pick‐up time, tracks their ride in real‐time, alerts them when their ride is 
+about to arrive, and notifies when their ride is about to reach their desired destination.  St. Lucie 
+County has also used TransLoc to perform preliminary simulations for areas under consideration 
+for expansion of the on‐demand service.  The area for expansion has not been finalized yet and 
+indeed,  having  a  simulation  function  to  help  with  that  decision  is  a  requirement  for  the 
+supporting software that will eventually be selected. 
+Open  Procurement  ‐  Per  FTA  requirements,  St.  Lucie  County  must  conduct  a  competitive 
+procurement for a microtransit software system to support the on‐demand system, beginning in 
+mid‐2021.  While SLC has been using TransLoc for the pilot, the County has not yet decided on 
+what software system will be used for this project after the pilot period has been concluded.  One 
+of the major reasons why TransLoc was initially asked to partner with the team applying for the 
+grant  back  in  2018  was  because  of  its  simulation  function.    Since  then,  a  number  of  new 
+microtransit software systems have entered the market or have improved their functionality and 
+capabilities.  SLC is very interested in what is out there now in the market and is going into this 
+procurement process with a completely open mind. 
+New Operator/Software Link with Paratransit Software ‐ On July 1, 2020, and in response to a 
+competitive procurement, SLC replaced the Council on Aging as the service operator with MV 
+Transportation. The County also retained MV to operate its fixed‐route and paratransit services.  
+MV  is  now  operating  the  on‐demand  service  with  two  wheelchair‐accessible  vans  and  will 
+continue to operate this service as it expands.  Note also: that MV Transportation is currently 
+using RouteMatch to support the County’s paratransit system.  The County desires that the new 
+microtransit  software  selected  be  linked  to  the  software  used  for  paratransit,  allowing 
+paratransit dispatchers to recognize and dispatch paratransit trips to the on ‐demand service 
+vehicles as a potential resource.
+=== page 12 ===
+PART III 
+ 
+SCOPE OF SERVICES 
+REQUIREMENTS FOR SLC’S MICROTRANSIT SOFTWARE 
+ 
+ 
+General 
+The  selected  technology  partner  will  provide  project  management,  implementation  and 
+simulation guidance, the microtransit technology, and trip data for SLC’s Connector On‐Demand 
+service.  The microtransit technology will allow riders to manage their transportation on this 
+service, while providing SLC and its microtransit contractor, MV Transportation, to access trip 
+data to evaluate the services. 
+In its response, the proposer is encouraged to detail its approach to each of the requirements 
+below.  For example, clear and transparent communication is critical to making its microtransit 
+service  attractive  to  riders.    Therefore,  the  proposer  should  describe  not  only  the  types  of 
+notifications that are built into the software but also how feasible it would be to expand the types 
+of notifications should an additional need materialize.  
+SLC  is  looking  to  build  a  trusting  relationship  with  the  selected  vendor  as  a  partner.    If  the 
+proposer does not have a particular required capability in a fully tested and deployed version of 
+the technology, the proposer should be transparent and admit as such; the proposer should not 
+state that it is in development.  Not having a specific required capability may not eliminate the 
+proposer from contention, but falsehoods or exaggerations will.  
+ 
+Data Access and Ownership 
+SLC requires full access to and ownership of all data associated with the microtransit service.  
+ 
+Trip Requests 
+In general, riders must have the ability to book their trip themselves via smartphone and via any 
+computer or mobile device with internet access. Trip booking must be available via standard web 
+browsers and from any commonly used internet‐enabled device.  Riders must also have the 
+ability  to  book  their  trip  by  calling  MV  Transportation’s  customer  service;  accordingly,  the 
+technology must provide a booking page for MV’s customer service staff to book rides on behalf 
+of customers who require assistance.  Also, the technology should enable a rider to request and 
+cancel subscription (regularly recurring) trips, advance trips (day before and earlier), same‐day 
+trips (on the day of service but not immediate response), and immediate response trips (come as 
+soon as possible). 
+At a minimum, the technology should: 
+ 
+ Provide a smartphone app for iOS and Android, available as a free download, to reserve, 
+cancel or update/modify trip requests. The app should be able to incorporate custom 
+branding of SLC and potentially any partnering funding sponsors.
+=== page 13 ===
+ Allow for riders to register for the service and reserve, cancel and modify/update trip 
+requests via desktop/laptop computers.  Proposers should describe the registering and 
+on‐boarding process.  
+ Allow for riders without a smart phone or without access to a computer and the internet 
+to call in their requests; SLC’s microtransit service contractor, MV Transportation, will 
+staff a call center for this purpose.  Hence, the staff will need a way to load the called‐in 
+request  into  the  system.    Proposers  in  their  proposal  should  describe  the  features 
+available for staff to enter called in requests.  For example: 
+o Does the system identify a list of possible riders from a partial name? 
+o Does the system have other ways to auto‐populate associated information for a 
+rider, e.g., home address, comments, phone number, default or past drop‐off 
+addresses, mobility aid, etc. 
+o Does the system identify a list of possible addresses from partial addresses? 
+o Does the system recognize common locations?  
+o Does the system allow the identification of a location by pointing and clicking on 
+a map?  And does the map have zoom‐in and zoom‐out capabilities? 
+o Does  the  system  have  “quick  access”  buttons  on  the  booking  screen  to  view 
+calendar, rider bookings (including double and conflicting bookings), rider profile, 
+etc. 
+ Accommodate advance‐request and other same‐day rides requested up to 48 hours in 
+advance; for advance trips requests, allow the rider to define a range of acceptable pick‐
+up times, e.g., 10:00 to 11:00 am, for the date of travel.  While it is expected that most 
+riders will request a trip “in real time” (that is, for immediate fulfillment), the system 
+should accommodate other same‐day trips, advance trips, and subscription trips (see 
+below).  Also,  please  indicate  whether  a  user  is  able  to  schedule  all  booking  legs 
+simultaneously, or whether the rider must schedule each leg one by one. 
+ Also  accommodate  “subscription”  or  “standing  order”  requests,  such  as  a  weekday 
+commuting trip or a 3‐day a week dialysis trip, made at the same time and taken between 
+the  same  origin  and  destination.    Proposers  should  indicate  whether  or  not  the 
+technology has the ability for a rider to enter a start and end date for the subscription 
+trip.  In addition, if such a subscription trip exists, it should be easy for the rider to put 
+that trip “on hold” in case of sickness or vacation. 
+ Have the ability to choose from a list of favorite/past locations (including “home”) and 
+location names for which the address is unknown to the rider.  SLC will make available 
+this data from the Transloc software used in the pilot.  Describe how the rider designates 
+pick‐up and drop‐off locations.

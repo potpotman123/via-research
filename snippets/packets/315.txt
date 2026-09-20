@@ -1,0 +1,373 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Baldwin/Contract.pdf
+# pages_total: 7; hit_pages: [1, 3, 6, 7]; included: [1, 3, 6, 7]
+# context: Bleecker Drive folder: Baldwin
+
+=== page 1 of 7 ===
+State of Alabama) 
+ 
+County of Baldwin) 
+ 
+ 
+CONTRACT FOR PROFESSIONAL SERVICES 
+ 
+This Contract for Professional Services is made and entered into by and between the County of Baldwin 
+(hereinafter called “COUNTY”) acting by and through its governing body, the Baldwin County Commission, 
+and Spare Labs, Inc., (hereinafter referred to as “PROVIDER”). 
+ 
+WITNESSETH: 
+ 
+ 
+Whereas, at its regular meeting on Tuesday, November 5, 2024, the COUNTY authorized 
+staff to solicit a Request for Proposals (RFPs) for MICROTRANSIT SOFTWARE FOR 
+PUBLIC TRANSPORTATION; and 
+ 
+ 
+Whereas, the PROVIDER responded to the Request for Proposals and was chosen by the 
+             COUNTY to provide needed services in accordance with the Request for Proposals and  
+             Response. 
+  
+NOW, THEREFORE, in consideration of the premises and the mutual covenants herein contained the  
+sufficiency of which being hereby acknowledged, PROVIDER and COUNTY do hereby agree as 
+follows: 
+ 
+I. 
+Definitions. 
+The following terms shall have the following meanings: 
+ 
+A. COUNTY:    
+Baldwin County, Alabama 
+ 
+B. COMMISSION:  
+Baldwin County Commission 
+ 
+C. PROVIDER:         
+Spare Labs, Inc. 
+ 
+ 
+  
+II. 
+Obligations Generally.   The COUNTY hereby retains, and the PROVIDER agrees to perform 
+for the COUNTY, those services as hereinafter set forth. This document shall serve as the 
+binding contract for the services of the PROVIDER.   PROVIDER shall immediately 
+commence performance of the services outlined herein upon full execution of this Contract. 
+All work shall be commenced and completed in a timely manner as, and at the times, herein 
+set out. 
+ 
+III. 
+Recitals Included.  The above recitals and statements are incorporated as part of this 
+Agreement and shall have the effect and enforceability as all other provisions herein.  
+ 
+IV. 
+Professional Qualifications.   For the purpose of this Contract, the PROVIDER represents 
+and warrants to the COUNTY that it possesses the professional, technical, and 
+administrative personnel with the specific experience and training necessary to provide the 
+professional services required herein. 
+ 
+V. 
+No Prohibited Exclusive Franchise.   The COUNTY neither perceives nor 
+                          intends, by this Contract, a granting of an exclusive franchise or violation of 
+                         Art. I, Section 22 of the Alabama Constitution.  
+ 
+VI. 
+Representation/Warranty of Certifications, Etc.   PROVIDER represents and warrants that 
+PROVIDER is presently certified, licensed and otherwise permitted under all necessary and 
+applicable laws and regulations to perform the services herein, and that PROVIDER shall 
+renew, maintain, and otherwise ensure that all such certifications, licenses, and permits are 
+current and valid, without interruption, for and through completion of the services.  The 
+representation and warranty aforesaid is a material inducement to the COUNTY in entering 
+this Contract, and the parties agree that the breach thereof shall be deemed material at the 
+County’s option.
+
+=== page 3 of 7 ===
+3 
+ 
+XV. 
+Notice.   Notice required herein shall be in writing, unless otherwise allowed, and said notice 
+shall be deemed effective when received at the following addresses: 
+ 
+ 
+ 
+PROVIDER: 
+ 
+Spare Labs, Inc. 
+ 
+ 
+ 
+ 
+ 
+Suite 810, 815 W Hastings St. 
+ 
+ 
+ 
+ 
+ 
+Vancouver, BC 
+V6C1B4 Canada 
+ 
+ 
+ 
+ 
+ 
+COUNTY: 
+ 
+Baldwin County Commission 
+ 
+ 
+ 
+ 
+ 
+c/o Chairman 
+ 
+ 
+ 
+ 
+ 
+312 Courthouse Square 
+ 
+ 
+ 
+ 
+ 
+Suite 12 
+ 
+ 
+ 
+ 
+ 
+Bay Minette, AL 36507 
+ 
+XVI. 
+Services to be Rendered.  PROVIDER is retained by the COUNTY as a                          
+professionally qualified Contractor.  The general scope of work for the                          
+services shall include all the terms and Conditions of “Request for Proposals”, the  
+same being expressly incorporated herein by reference, and without limitation will 
+encompass: 
+     
+“All provision and conditions and/or specifications listed/stated in the Request 
+for Proposals for MICROTRANSIT SOFTWARE FOR PUBLIC TRANSPORTATION 
+for the Baldwin County Commission”.                                                                                      
+ 
+A. PROVIDER will provide ongoing communications with COUNTY regarding this 
+service, including updates, emails, etc. as requested.  Additionally, PROVIDER will 
+meet with COUNTY as needed or requested. 
+ 
+B. PROVIDER is responsible for the professional quality, technical accuracy, timely 
+completion and coordination of all services furnished by or in relation to this 
+Contract.  
+ 
+C. PROVIDER represents and warrants that its services shall be performed within the 
+limits and standards provided by the COUNTY, in a manner consistent with the level 
+of care and skill ordinarily exercised by similar providers under similar circumstances 
+at the time the services are performed.  
+                                 
+ 
+XVII. 
+General Responsibilities of the COUNTY. 
+ 
+A. The COUNTY shall provide reasonable notice to PROVIDER whenever the 
+COUNTY actually observes or otherwise actually becomes aware of any 
+development that affects the scope or time of PROVIDER’s services hereunder or 
+any defect or nonconformance in the work of PROVIDER.  
+ 
+B. The COUNTY shall pay to PROVIDER the compensation as, and subject to the 
+terms set out below. 
+ 
+XVIII. 
+Termination of Services.  The COUNTY or PROVIDER may terminate this                           
+contract, with or without cause or reason, by giving thirty (30) days written                           
+notice of such to the other party. Upon receipt of such notices, PROVIDER                           
+shall discontinue its work to the extent specified in the notice.  
+ 
+In the event of termination, the COUNTY shall pay PROVIDER for all services satisfactorily 
+rendered, and for any expenses deemed by COUNTY to be a reimbursable expense incurred 
+pursuant to this Contract and prior to the date of termination.  
+ 
+XIX. 
+Compensation Limited. The compensation to be paid to the PROVIDER shall be                           
+the full compensation for all work performed by PROVIDER under this                           
+Contract.  Any and all additional expenditures or expenses of PROVIDER, not                           
+listed in full within this Contract, shall not be considered as a part of this                          
+Agreement and shall not be demanded by PROVIDER or paid by COUNTY.
+
+=== page 6 of 7 ===
+6 
+ 
+ 
+ 
+IN WITNESS WHEREOF, the parties hereto have executed this contract on the last day of execution by the 
+COUNTY as written below.         
+ 
+ 
+COUNTY  
+ 
+ 
+ 
+ 
+ 
+ATTEST: 
+ 
+__________________________________ 
+      ___________________________________ 
+MATTHEW P. MCKENZIE/                 Date 
+      ROGER H. RENDLEMAN/                   Date  
+Chairman 
+ 
+ 
+ 
+ 
+      County Administrator 
+ 
+ 
+ 
+ 
+ 
+State of Alabama 
+) 
+ 
+County of Baldwin  
+) 
+ 
+I,  
+ 
+ 
+ 
+Notary Public in and for said County, in said State, hereby certify 
+that, Matthew P. McKenzie, whose name as Chairman of Baldwin County Commission, and Roger H. 
+Rendleman, whose name as County Administrator, are known to me, acknowledged before me on this day 
+that, being informed of the contents of the Contract for Professional and Construction Services, they, as such 
+officers and with full authority, executed same knowingly and with full authority to do so on behalf of said 
+Commission. 
+           Given under my hand and official seal, this the _______ day of  
+ 
+, 2025. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+______________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+Notary Public 
+ 
+ 
+ 
+ 
+ 
+ 
+My Commission Expires 
+ 
+ 
+ 
+ 
+ 
+ 
+  PROVIDER:      
+      
+ 
+Spare Labs, Inc. 
+ 
+    ______________________________/________ 
+By __________________________/Date 
+Its ______________________________ 
+            
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+State of _____________) 
+ 
+County of ____________) 
+ 
+            I,                                           Notary Public in and for said County and State, hereby certify that 
+___________________ as ________________ of Spare Labs, Inc., whose name is signed to the foregoing in 
+that capacity, and who is known to me, acknowledged before me on this day that, being informed of the 
+contents of the foregoing, he executed the same voluntarily on the day the same bears date for and as an act 
+of said Spare Labs, Inc. 
+ 
+           GIVEN under my hand and seal on this the                 day of                           2025. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+_________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Notary Public 
+ 
+ 
+ 
+ 
+ 
+ 
+My Commission Expires
+
+=== page 7 of 7 ===
+REQUEST FOR PROPOSALS (RFP) FOR MICRO-TRANSIT SOFTWARE FOR PUBLIC TRANSPORTATION
+RFP AWARD LISTING
+VENDOR
+Spare Labs, Inc.
+Item
+Description
+Year 1
+Year 2
+Year 3
+A
+Base Operating Cost Per
+ $   19,200.00  $   20,160.00  $    21,168.00 
+B
+Operating Cost per Vehicle (1-30)
+ $     2,800.00  $     2,940.00  $      3,087.00 
+C
+Operating Cost per Additional Vehicle (30+)
+ $     3,300.00  $     3,465.00  $      3,638.25 
+D
+Transition Costs
+ $   15,378.00 
+ $  
+  -    $  
+   -  
+E
+Other Costs
+ $  
+  -    $  
+  -    $  
+   -  
+F
+Annual Service/Maintenance Cost
+ $   12,000.00  $   12,600.00  $    13,230.00 
+"ATTACHMENT A"

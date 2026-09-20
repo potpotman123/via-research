@@ -1,0 +1,163 @@
+# source: raw/bleecker_drive/Topeka/Proposal-ViaMobilityLLCforPosting.pdf
+# path: raw/bleecker_drive/Topeka/Proposal-ViaMobilityLLCforPosting.pdf
+# hit page: 6 of 44
+# terms: Via+SaaS, Via+fleet, Via+per vehicle hour
+
+=== page 5 ===
+V" 1 
+o - 11y L C 
+I,a who ly own1ed ,s bs·I- ·ary O'f Vi1a Transporta ·on, lnIc.)1
+1 01 C11iio.sby Street, --oor :2
+_ew Yor-
+NV 10013 
+s 
+ec ·Re_ uest for Pro,po-als M cro't1rans·i 
+I ysitem 
+, 10:· -iope • a Me ropo ,, an rans t ,Ai t: - or1 .• ɀ 
+A'- -n,: ·.icl ardl Appe a1 ,
+, Ie are pleas:ed t10 p1rese t Via1 Mobllity, LLC's re,sponse 'to, Top,e_ a • Ietropo 11 an T a11nsit AuthoIr1ty
+(Metro) RFP fo 
+1crotransit • ys, em (#RFP TM-22, 01)´ 'V,1Ia 
+obil1dy,, LL,C • s, a whoɁly O' ned
+subsidia y 01f Vi. T a - s1po · tat11on, InIc. ·ɂ om h1ere forwar1d, we efe :o t_ e appliyi'ng e t11Ƀ.y a:s ''Via'
+re.- 1ect11ng the hi hly-11ntegrated n1a11 -. re, 101f he V a GIrIoup
+- e aIre e c' ed 1ab10 , ·' e pot1e -, .·,a1 oppo tun ty to partn1er w·t:h Me,tro 't01 ,successfullly dep oy ,a ne,w
+micl'io 1ra s·1, se - i'c,e Al' ho1 g -
+1-is; RFP 1s '1nI1- • al y for a m: crotransɄt sollut on it ls clea , I,at • ,etro)
+_ as a l1arger I1nt,eg a ,ed mob11lity vis11on Io 1Ir1,c ud1e1 'the comm-ngl1ng 1m"crotra- sit a1nd Iparat ans1
+services As a res t, 'We s,ee his) p11oject as a oppo1rtunI1 .•• to cre,ate an I1Int,egra 'ed 'family of
+serv1c1es a1pp,roach to-, - • etro 'Which fos :ers, an iin,c s!ive a • ,d sustai1nable experi1ence, for M1et1ro
+. es1d1e , ·, s-, 
+Via s t; e 
+'Or d s e,a -' i'ng provider o,f public· 1m1obilii y solutions, iinclludl1ngI i tegrated 1micro r1an1sit and
+pa1raI ·rans1t .. , e . a - ne - with trans'i a e 1c1es across _ _1e globe,, ar1ne,s 'ln1gI . hie po ·er of dat,a to
+1opti i'ze aIn age 1 1cy1s 01pe,ra ions a· d rov,´dle ,a _ orldl c,aSS; r1. er e,xperi1ence F'or ea:ch dep1loymen1t
+w1e con1f11gu 11e, ouIr system to serve o,ur part er's d1rec: • goals wih1le bringin1g ouIr Ilolb,a e·xIper ·1se tI0
+lbear on . e1r locall challleng. s.
+In he following submiissio 
+W'e d1escr ibe, he ways ou - '.Soft are meets a1nd 1exceedls the RFP
+r,eqIuir1emen s for • e liO s on demand' techn1olog:y- - - e, provi - e a b,r1ef de,s1crip io I of Via's
+ex
+1perience1 ,nI roduice o r sof1 ware, llis _ re·ierences,, and pl'iO'Vl'de, ,ani O'Verv1:ew of 101ur ser _ e
+plan1-1ng Icapabil-, ·es. We lo101k forw1a1r- , o pa t1ci1pat11n,gI1n1 h s proc ss a1ndi 
+,elciome a-y 
+u·e
+01ppo,r· uni '1es i·o discuss. 
+Aiu - hor1 zed 1C'o po ate 
+101ff icer,·I 
+l 
+M.1-,alg
+v a1 /I 01b1I y, L C
+Q, C_1os _y St ee ·• 
+010 2 
+-_ e, __ York, NY' · 10101,3
+Autho-·zed Con act ,-
+B 
+r 
+1r
+Co '1 r 
+-ead 
+Via Tra -• . , -· o at1Ion, Inc 
+101 Cr1osby StIree :, IFloo 2
+Ne' Yo k NY 00: ,3 
+sop1h1Ie. a1ndarkar@rid1e,w Ihv·a1 com
+-lead 1a· , -:-- -
+1 1p ·
+V,a liranspo I
+O_ r Inc,_ 
+0
+1 Cr10,sby Stree , -loo 2 
+ew York, N1Y 10□-,3 
+na ry_ ak@1r 1dew1t v1Ia com
+=== page 6 ===
+8.2 Understanding Scope and Specifications
+The world of public transit is becoming increasingly dynamic and shaped by rider-focused forces.
+These forces include on demand expectations, inclusivity, service personalization, customer
+transformation, and collaborative services delivery.  As a result, transit agencies who adopt this
+rider-first mindset are best prepared to adapt to a quickly transforming industry. Metro is seeking a
+partner to support an on-demand microtransit service, which can also have a future potential to
+comingle with paratransit services in the future.
+Our work at Via is driven by this vision as well. Our response not only provides a proven
+microtransit solution, but a long-term vision for a commingled, unified suite of transit services for
+Metro residents. While we understand the initial focus on a successful Microtransit deployment, we
+think it is equally important for Metro to evaluate based on the full vision.
+We have a clear understanding of this project and the goals that have been set forth by Metro.
+1.
+Provide high operational efficiency of microtransit on-demand service by optimizing
+existing fleet and labor capabilities.
+Via Response: Via-powered services consistently outperform other microtransit
+providers.1 For example, In Medicine Hat, Canada, a microtransit provider achieved a
+utilization of 3 riders per vehicle hour. Via powers comparable services in cities like Sault
+Ste. Marie and North Bay, where our utilization regularly reaches 12 passengers per vehicle
+hour, resulting in a 65% lower cost per ride. A microtransit software company estimated
+they could deliver 200-290 rides per day for Suburban Mobility Authority Regional
+Transportation (SMART) near Detroit. SMART subsequently selected Via to operate the
+service using our software, and the actual daily ridership now surpasses our competitors’
+projections by over 100%. Please see a description of our optimization and platform
+configurability in Section 8.2.2 and 8.3.3.
+2.
+Provide functional and user-friendly dispatching and administrative support modules.
+Via Response: Our system includes the Via Operations Module (VOC), a highly automated
+service management module comprising several integrated tools for operating and
+managing service and a set of searchable and filterable databases automatically used in
+routing algorithm decisions. Our solution was created and continues to be improved based
+on our own experiences operating microtransit in various locations. Please see Section
+8.2.5 for more details.
+3.
+Obtain a scalable, nimble, flexible SaaS product that can adapt to rapidly evolving service
+and demand criteria (i.e., disaster situations such as pandemics and natural disasters).
+Via Response: Via configures our platform to meet the existing needs of each of our
+partners, while maintaining the flexibility to adapt to evolving service goals and / or
+requirements over time. Following the outbreak of COVID-19, we worked with dozens of our
+1 Based on publicly-available information from the National Transit Database and competitor websites
+RFP for Microtransit System | 6
+=== page 7 ===
+partners to adapt their transportation systems in response to the pandemic, re-launching
+many services within days or weeks. These included changes to our key rider groups,
+service zones, and service models. One example of a COVID-related adaptation is our
+service in the Tri-Cities in Eastern Washington with Ben Franklin Transit (BFT). Following
+the outbreak in COVID-19, we accelerated an already-planned launch to provide
+transportation to and from essential services, including urgent care clinics, grocery stores,
+and pharmacies. Our operational and technical adjustments included:
+○
+In order to complement existing fixed-route services already suffering from
+COVID-related reductions, we temporarily offered free on-demand trips to riders.
+○
+We also made operational adjustments to address social distancing protocols,
+offering only private rides and ensuring two rows of seats between riders and
+drivers.
+○
+We also implemented strict cleaning processes.
+We were able to complete this accelerated launch and re-configuration of service in only
+one week, quickly realigning with BFT’s changing priorities.
+4.
+Avoid further pressure on overburdened operations staff responsible for overseeing
+existing demand trip reservations, labor assignments, and fleet operations.
+Via Response: Having operated transit services ourselves we understand the pressures
+and burden on staff, especially in light of the COVID-19 pandemic. That very reason is why
+we have developed a dynamic and fully automated microtransit solution.  First, riders are
+encouraged and have full control to self-serve via the branded app which helps relieve the
+call center. At Mountain Climber in Flathead, Montana approximately 50% of their riders
+book, cancel, and manage their trip via the app.  Second, all trips are dynamically
+scheduled to available drivers without human intervention (unless it's needed) based on
+the established operational rules and available fleet.  Thirdly, a rolling optimization occurs
+to dynamically reassign any trips that may be in jeopardy of missing a committed time
+window.
+5.
+Produce both ad-hoc and standard reports that are useful, insightful, effectively inform
+staff to make planning decisions, and meet federal and state reporting requirements.
+Via Response: As you will read about more in Section 8.2.6, Via offers a variety of
+reporting options for Metro that focus in three main areas: Rider Experience, Operations,
+Service Analysis (Planning), and Regulatory Reporting.  It’s also important to note that the
+data belongs to you and Via will provide access to this data multiple ways including:
+1.
+Graph-based views: Service data automatically provided in graph-based reports to
+easily discern what is happening in Metro’s service.
+2.
+Data Generator: Tabular reports (e.g. NTD) and the ability for Metro to consolidate
+service data into filterable and exportable tables.
+3.
+Data Lake: We are happy to discuss providing our data through our Amazon Web
+Services (AWS) S3 buckets for the most efficient processing or via API to the
+complete set of disaggregated data from the service using a VPC database share
+RFP for Microtransit System | 7

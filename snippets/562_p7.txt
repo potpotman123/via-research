@@ -1,0 +1,274 @@
+# source: raw/bleecker_drive/City of Gainesville/410734_Mobility-On-Demand_Software_App_(Rebid).pdf
+# path: raw/bleecker_drive/City of Gainesville/410734_Mobility-On-Demand_Software_App_(Rebid).pdf
+# hit page: 7 of 47
+# terms: Via+drivers, Via+vehicles
+
+=== page 6 ===
+Bidding Document - RFP - Page 6 of 47 
+should be positioned to take advantage of new riders that occupy high-density housing and those who have developed shopping 
+and work habits that are transit-oriented.   
+ 
+2.3 
+OBJECTIVE 
+The City of Gainesville is seeking proposals that will allow it to continue to improve the quality of the door-to-door, geo-fenced, 
+and fare-free mobility on demand service. The service is currently available only in east Gainesville’s Zone 2. It is operated with 
+city-owned ADA-compatible vehicles and by City bus operators. It is probable that the service parameters could be modified, 
+as the service expands to other parts of the City, to consider other features of a mobility on demand microtransit service such 
+as curb-to-curb service, the use of virtual and/or fixed stops or other customer pickup/drop off locations such as transfer 
+stations, and fare payment; therefore, the customization of the selected microtransit app is an important feature of this request 
+for proposal. However, the service will continue to be operated with City equipment and drivers. 
+ 
+Based on RTS experience, other features of an acceptable app(lication) are a customer-facing on-line site portion of the app to 
+allow customers to plan, query and book (and potentially pay for a trip), and execute point-to-point trips using a free, 
+downloadable smartphone app, desktop internet browser, and phone line; a driver-facing app that allows RTS microtransit bus 
+operators to access trip information, navigation, and manage rides in a responsible and defensible manner. The back-office on-
+line site portion of the app will also allow RTS Operations Department (back-office administration) to dispatch, monitor and 
+manage operations as well as allow RTS to collect data and produce planning and management reports. It will also allow RTS to 
+make changes such as expand zone boundaries or modify minimum distance for which a trip could be booked on the system. 
+For equity, the technology will also allow customers to book a ride by using a phone line. Software functionality must have 
+flexibility to scale up or down in response to real-time changes in demand as well as usage trends over time to make the service 
+responsive. RTS will continue to provide drivers; vehicles (ADA-accessible 10-12 seater vans or cutaways); and, needed 
+equipment, which includes tablets and computer software, and marketing to operate the service in collaboration with the vendor 
+or app provider. Vendor app shall have capability to interface with relevant RTS operating software(s). 
+ 
+2.4 
+PROJECT SPECIFICATIONS 
+The preferred software solution for RTS MOD microtransit service operation shall include scheduling, dispatching, and 
+capability for system reservation for bus passenger services. Vendors are required to identify which of the following specifications 
+they can meet:  
+ 
+2.4.1 
+Back Office Administrator Dashboard (browser-based) 
+The administrator dashboard is a back-end system that enables fully automated scheduling, reserving, dispatching, and all 
+categories and sub-categories within the Technology Specifications section of this RFP. 
+ 
+This includes but not limited to: 
+ 
+Dynamic algorithms to optimize vehicle routing, efficiently match drivers and passengers, and 
+facilitate pick-up and drop-off. 
+ 
+Ability to calculate distance between customer’s origin and selected destination and to refuse trips which exceed 
+customizable minimum and maximum distance parameters.  
+ 
+Ability to manage number of allowable trips from same customer/phone number within a defined time such 
+as within 30 minutes of last completed or cancelled trip.  
+ 
+Manual methods for rejecting or redirecting ride requests. 
+ 
+Ability to do keyboard search queries by name, phone number, and email address. 
+ 
+Ability to efficiently add passenger(s) to a route in progress. 
+ 
+Ability to add/remove/expand geo-fence boundaries. 
+ 
+Ability to add and edit service areas and service hours. 
+ 
+Dispatch booking capabilities for users without smartphones or web access. 
+ 
+Trip Requests – rider’s name, trip request time, pick-up and drop-off times and locations, number of 
+passenger(s), and seat type(s) selected. 
+ 
+Allow multiple users on one account and permit user/account information update. 
+ 
+Configure service parameters, including but not limited to ability to add vehicles and vehicle 
+capacities/parameters, such as maximum wait time, maximum in-vehicle time, etc.  
+ 
+For ride requests with a pick-up or drop-off at a non-transit hub location, such as a school or hospital, the app 
+automatically aligns pick-up and drop-off times to match a configurable schedule, such as school or business 
+open/close times. 
+ 
+Assign rides by vehicle and location destination.  
+ 
+Real time monitoring and analytics for all service operation and vehicles.
+=== page 7 ===
+Bidding Document - RFP - Page 7 of 47 
+ 
+Ability to add a minimum of 7 service geographic areas using 2-3 vehicles each. 
+ 
+Ability to designate roles and permissions. 
+ 
+Configurable Agency settings. 
+ 
+Generate configurable promotional codes 
+ 
+2.4.2 
+Back Office Dispatcher-Facing Dashboard (browser-based) 
+ 
+Ability and ease to sign into account. 
+ 
+Dispatch booking capabilities for users without smartphones or web access. 
+ 
+Ability to log drivers in 
+ 
+View in-progress rides. 
+ 
+Ability to approve or deny ride requests based on predetermined parameters such as, but not limited to, 
+group size, location, number of passenger no-shows. 
+ 
+Ability to add, edit or cancel rides in the system. 
+ 
+Ability to add/modify driver break and lunch periods. 
+ 
+Ability to view services by service area geo-fence and generate reports by service area geo-fence. 
+ 
+Ability to pan and zoom the map by geo-fence and to view entire route on a map. 
+ 
+Dispatcher portal shows pre-scheduled rides assigned to specific vehicle manifests immediately upon ride 
+booking. 
+ 
+Add out-of-zone addresses riders can choose from. 
+ 
+Add or remove roads and locations that are not travelable. 
+ 
+Ability to set a method to deny trips when demand outnumbers available resources. 
+ 
+Configurable real-time dispatcher display screen. 
+ 
+View and export reporting suite. 
+ 
+View recent ride history by type. 
+ 
+Dashboard for analysis of service operations and vehicles available. 
+ 
+Real-time analytics to alert dispatchers of demand surges and long wait times. 
+ 
+2.4.3 
+Passenger-Facing Features of the App 
+Passenger booking web-based portal and a consumer-facing smartphone application (iOS and Android) that have the following 
+functionalities: 
+ 
+ 
+Application must be available for free download on the Apple App Store and Google Play store. 
+ 
+Application must be device agnostic and accessible to all current browsers. 
+ 
+Allow users to search for and book rides for self and others using same phone number – multiple users on same 
+number. 
+ 
+Ability for users to book multiple trips (outside of a defined time window and within the allowable O-D trip 
+distance), recurring rides, and pre-schedule rides up to a customizable number of days in advance. 
+ 
+Rider booking capabilities for users without smartphones or web access. 
+ 
+Allow riders without smartphones or web access to receive trip alerts.  
+ 
+Present a 15-minute pick-up and drop-off window (or less) information for 
+pre-scheduled trip requests for rider's acceptance before confirming the booking. 
+ 
+Trip time – ability to track ride’s estimated wait time, arrival, and vehicle in real-time. App must allow customer 
+to cancel ride if times provided not convenient for rider. 
+ 
+Ability to request MOD vehicle and seat type. 
+ 
+Ability to enter place names (i.e. library, school, store or services) as well as addresses. Places and addresses will 
+have autocomplete capability. 
+ 
+Ability to notify user of invalid rider request (exceeded number of trips within a defined time window, rides 
+within non-allowable O-D trip length, out of service area, service hours, or non-serviceable locations). 
+ 
+Ability to identify number of passengers traveling. 
+ 
+Ability to receive trip updates through the app or via SMS/email. 
+ 
+Depict real-time vehicle locator map, including fixed route operations. 
+ 
+Ability to view trip history and details. 
+ 
+Ability for user to contact customer service and/or dispatch (i.e. email, text, call). 
+ 
+System assigns passenger bookings (including pre-scheduled rides) to a driver manifest immediately upon 
+booking. 
+ 
+System automatically updates and optimizes vehicle manifests when there are real- time cancellations, no-shows,
+=== page 8 ===
+Bidding Document - RFP - Page 8 of 47 
+a vehicle goes out of service, or vehicle is behind schedule.  
+ 
+RTS or Agency-branded consumer facing smartphone application that disallows advertisements. RTS-generated 
+information is exempt.  
+ 
+App available in multiple languages such as Spanish. 
+ 
+App effectively interfaces with Braille technology.  
+ 
+App has ability to increase font size. 
+ 
+Ride star rating system with ability for customer comments. 
+ 
+Account Recovery - account management such as password/user name recovery. 
+ 
+2.4.4 
+Driver-facing features of the App  
+Shall be a web-based portal (IOS required and Android optional) that interfaces with all web browsers and has the following 
+functionalities: 
+ 
+ 
+Driver Itineraries - driver name, start time of itinerary, timestamp of each pick-up/drop-off, location of each 
+pick-up/drop-off. 
+ 
+Ability to send trip arrival alert to rider through the app or via SMS/email.  
+ 
+Driver Shift Actions - driver name, shift start time, shift end time, timestamp of an Offline action, timestamp 
+of an online action, timestamp of accepting/rejecting a trip request. 
+ 
+Ability for driver to pause app without redirecting rides to another vehicle. 
+ 
+Ability for driver sign-on to account. 
+ 
+Ability for driver to accept ride requests from Dispatch and override service sequence and maintain app 
+functionality. 
+ 
+Ability for driver to contact passenger if they cannot find them at designated pick-up location via anonymized 
+phone number(s). 
+ 
+Ability to receive Dispatcher notes on specific trips/customers. 
+ 
+Turn by turn audio and visual (on screen) directions. 
+ 
+Ability to log pick-ups and drop-offs. 
+ 
+Ability to see disabilities indicated by rider (in their account) so they can provide appropriate level of service. 
+ 
+Ability to log no-shows. 
+ 
+Ability to add trip comments by driver to promote service improvement. 
+ 
+Ability to pan and zoom the map and view the entire route on the map. 
+ 
+2.4.5 
+Data Collecting and Reporting Requirements 
+Provide an online dashboard for reporting real-time data on riders, vehicles, drivers, and service performance/Key Performance 
+Indicators (KPIs). (Note: where applicable, data should conform to National Transit Database (NTD) metric and reporting 
+standards, as well as have the ability to be exported in a CSV format.) Data and reporting should capture, store, and report at a 
+minimum: 
+ 
+ 
+Passenger trip data – total completed trips, total riders, by type of rider, by revenue hour, by trip, by source 
+(call-in, app), origin and destination both of which must be tagged by postal code. 
+ 
+Travel times – wait time, ride duration, on-time percentage, and late percentage. 
+ 
+A method for collecting on-time performance relative to planned drop-off times and estimated pick-up times. 
+ 
+Trips Booked – rider name, rider name, trip request time, planned pick-up and drop-off times and locations, 
+actual pick-up and drop-off times and locations, number of passenger(s), seat type(s) selected, ride status 
+(including but not limited to completed, no-show, canceled by rider, canceled by system, and view errors that 
+turned down the trip request). 
+ 
+Dispatch response time, missed calls. 
+ 
+Revenue Hours - Fields must include at a minimum for each hour: number of online minutes, number of trip 
+acceptances, number of trip rejections, and number of minutes deadheading, number of minutes with 
+passengers on board. 
+ 
+Reporting by geo-fence, with ability to add, alter, or remove geo-fenced zones with history. 
+ 
+Reporting data inquiries within route number, date and time ranges. 
+ 
+Vehicle performance and reliability. 
+ 
+Total vehicle hours. 
+ 
+Trip and driver comments. 
+ 
+Driver hours.

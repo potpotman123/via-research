@@ -1,0 +1,175 @@
+# source: raw/bleecker_drive/Doral/20_3828_2019_SFMTA_Board_Report.pdf
+# path: raw/bleecker_drive/Doral/20_3828_2019_SFMTA_Board_Report.pdf
+# hit page: 59 of 62
+# terms: Via+SaaS
+
+=== page 58 ===
+SFMTA P-648 (4-18) 
+C-1 
+ 
+CFP 
+ 
+n:\ptc\as2019\1000426\01354057.doc 
+Appendix C 
+Service Level Obligations 
+ 
+A. 
+Time is of the Essence.  For the term of this Agreement, Contractor shall provide SaaS 
+Services, Force Majeure events excepted, during the applicable Service Windows and in 
+accordance with the applicable Service Levels as described herein, time being of the essence. 
+B. 
+Service Levels. 
+1. 
+“Availability” Service Level:  
+a. 
+Definitions: 
+i. 
+Actual Uptime:  The total minutes in the reporting month that the 
+Services were actually available to Authorized Users for normal use. 
+ii. 
+Scheduled Downtime:  The total minutes in the reporting month 
+during which Scheduled SaaS Maintenance was performed. 
+iii. 
+Scheduled Uptime:  The total minutes in the reporting month less 
+the total minutes represented by the Scheduled Downtime. 
+b. 
+Service Level Standard.  Services shall be available to Authorized Users 
+for normal use 100% of the Scheduled Uptime. 
+i. 
+Calculation: (Actual Uptime / Scheduled Uptime) * 100 = 
+Percentage Uptime (as calculated by rounding to the second decimal point) 
+ii. 
+Performance Credit. 
+(a) 
+Where Percentage Uptime is greater than 99.9%: No 
+Performance Credit will be due to City. 
+ 
+(b) 
+Where Percentage Uptime is equal to or less than 
+99.9%: City shall be due a Performance Credit in the amount of 5% of the Services Fees (as 
+calculated on a monthly basis for the reporting month) for each full 1% reduction in Percentage 
+Uptime. Such credits may not be redeemed for cash and shall not be cumulative beyond a total of 
+credits for one (1) week of Service Fees in any one (1) calendar month in any event. Company 
+will only apply a credit to the month in which the incident occurred. 
+ 
+(c) 
+Subsequent Failures to Maintain Service Level:  For 
+each similar failure in a subsequent month, the Performance Credit due for the particular SaaS 
+Severity Level shall remain the same. The City may deduct Performance Credits from monies 
+due to the Contractor. Such credits may not be redeemed for cash and shall not be cumulative 
+beyond a total of credits for one (1) week of Service Fees in any one (1) calendar month in any 
+event. Company will only apply a credit to the month in which the incident occurred.
+=== page 59 ===
+SFMTA P-648 (4-18) 
+C-2 
+ 
+CFP 
+ 
+n:\ptc\as2019\1000426\01354057.doc 
+2. 
+Response Time Service Level. 
+a. 
+Definition(s). 
+i. 
+Response Time:  The interval of time from when an Authorized 
+User requests, via the Services, a Transaction to when visual confirmation of Transaction 
+completion is received by the Authorized User.  For example, Response Time includes the period 
+of time representing the point at which an Authorized User enters and submits data to the 
+Services and the Services display a message to the Authorized User that the data has been saved. 
+ii. 
+Total Transactions:  The total of Transactions occurring in the 
+reporting month. 
+iii. 
+Transaction(s):  Services webpage loads, Services webpage 
+displays, and Authorized User Services requests. 
+b. 
+Service Level Standard.  Transactions shall have a Response Time of 
+two seconds or less 99.9% of the time each reporting month during the periods for which the 
+Services are available. 
+i. 
+Calculation.  ((Total Transactions – Total Transactions failing 
+Standard) / Total Transactions) * 100 = Percentage Response Time (as calculated by rounding to 
+the second decimal point). 
+ii. 
+Performance Credit. 
+(a) 
+Where Percentage Response Time is greater than 
+99.9%:  No Performance Credit will be due to City.  
+ 
+(b) 
+Where Percentage Response Time is equal to or less 
+than 99%:  City shall be due a Performance Credit in the amount of 5% of the Services Fees (as 
+calculated on a monthly basis for the reporting month) for each full 1% reduction in Percentage 
+Response Time. Such credits may not be redeemed for cash and shall not be cumulative beyond 
+a total of credits for one (1) week of Service Fees in any one (1) calendar month in any event. 
+Company will only apply a credit to the month in which the incident occurred. 
+ 
+(c) 
+Subsequent Failures to Maintain Service Level:  For 
+each similar failure in a subsequent month, the Performance Credit due for the particular SaaS 
+Severity Level shall remain the same. The City may deduct Performance Credits from monies 
+due to the Contractor. Such credits may not be redeemed for cash and shall not be cumulative 
+beyond a total of credits for one (1) week of Service Fees in any one (1) calendar month in any 
+event. Company will only apply a credit to the month in which the incident occurred.
+=== page 60 ===
+SFMTA P-648 (4-18) 
+C-3 
+ 
+CFP 
+ 
+n:\ptc\as2019\1000426\01354057.doc 
+3. 
+“Technical Support Problem Response” Service Level. 
+a. 
+Definition.   
+i. 
+Total Problems:  The total number of problems occurring in the 
+reporting month. 
+b. 
+Service Level Standard.  Problems shall be confirmed as received by 
+Contractor 100% of the time each reporting month, in accordance with the Request Response 
+Time associated with the SaaS Severity Level. 
+i. 
+Calculation.  ((Total Problems – Total Problems failing Standard) 
+/ Total Problems) * 100 = Percentage Problem Response (as calculated by rounding to the 
+second decimal point).  Note: This Calculation must be completed for each SaaS Severity Level. 
+ii. 
+Performance Credit. 
+(a) 
+SaaS Severity Level 1 – 2. 
+(1) 
+Where Percentage Problem Response is greater 
+than 99.9%:  No Performance Credit will be due to City. 
+ 
+(2) 
+Where Percentage Problem Response is equal to 
+or less than 99%:  City shall be due a Performance Credit in the amount of 5% of the Services 
+Fees (as calculated on a monthly basis for the reporting month) for each full 1% reduction in 
+Percentage Problem Response. 
+ 
+(b) 
+SaaS Severity Level 3 – 4. 
+ 
+(1) 
+Where Percentage Problem Response is greater 
+than 99.9%:  No Performance Credit will be due to City. 
+ 
+(2) 
+Where Percentage Problem Response is equal to 
+or less than 99%:  City shall be due a Performance Credit in the amount of 5% of the Services 
+Fees (as calculated on a monthly basis for the reporting month) for each full 1% reduction in 
+Percentage Problem Response. Such credits may not be redeemed for cash and shall not be 
+cumulative beyond a total of credits for one (1) week of Service Fees in any one (1) calendar 
+month in any event. Company will only apply a credit to the month in which the incident 
+occurred. 
+(c) 
+Subsequent Failures to Maintain Service Level:  For 
+each similar failure in a subsequent month, the Performance Credit due for the particular SaaS 
+Severity Level shall remain the same. The City may deduct Performance Credits from monies 
+due to the Contractor. Such credits may not be redeemed for cash and shall not be cumulative 
+beyond a total of credits for one (1) week of Service Fees in any one (1) calendar month in any 
+event. Company will only apply a credit to the month in which the incident occurred. 
+ 
+C. 
+Service Level Reporting.  Contractor shall provide reports to City describing the 
+performance of the SaaS Services and of Contractor as compared to the service level standards

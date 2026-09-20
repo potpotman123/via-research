@@ -1,0 +1,108 @@
+# source: raw/bleecker_drive/Los Alamos (Spare Labs)/1040_24_A_-_AGR_24-37_Spare_Labs_Inc.pdf
+# path: raw/bleecker_drive/Los Alamos (Spare Labs)/1040_24_A_-_AGR_24-37_Spare_Labs_Inc.pdf
+# hit page: 1 of 81
+# terms: Spare Labs
+
+=== page 1 ===
+INCORPORATED COUNTY OF LOS ALAMOS 
+SERVICES AGREEMENT  
+AGR24-37 
+ 
+ 
+This SERVICES AGREEMENT (“Agreement”) is entered into by and between the Incorporated 
+County of Los Alamos, an incorporated county of the State of New Mexico ("County"), and 
+Spare Labs Inc., a British Columbia corporation ("Contractor,” “Spare”, or “Spare Labs”), 
+collectively (the “Parties”), to be effective for all purposes December 18, 2024, (“Effective Date”).  
+ 
+WHEREAS, the County requires a qualified service provider to provide fully hosted Microtransit 
+and Paratransit software for the County Transit Division to meet the public transportation 
+scheduling and route planning needs of the County and the Los Alamos public and to provide 
+project implementation and management services to implement the software; and 
+ 
+WHEREAS, this Project and Services may be wholly or partially funded with Federal Transit 
+Administration (“FTA”) funds, which are administered by the NMDOT through a subrecipient grant 
+agreement between NMDOT and County. 
+ 
+WHEREAS, the County Purchasing Officer determined in writing that the use of competitive 
+sealed bidding was either not practical or not advantageous to County for procurement of the 
+Services and County issued Request for Proposals No. 24-37 (“RFP”) on March 26, 2024, 
+requesting proposals for Microtransit and Paratransit Software, as described in the RFP; and   
+ 
+WHEREAS, Contractor timely responded to the RFP by submitting a response dated April 25, 
+2024 (“Contractor’s Response”); and 
+ 
+WHEREAS, based on the evaluation factors set out in the RFP, Contractor was the successful 
+Offeror for the services listed in the RFP; and 
+ 
+WHEREAS, the County Council approved this Agreement at a public meeting held on December 
+18, 2024; and 
+ 
+WHEREAS, Contractor shall provide the Services, as described below, to County. 
+ 
+NOW, THEREFORE, in consideration of the premises and the covenants contained herein, 
+County and Contractor agree as follows: 
+ 
+SECTION A. DEFINITIONS: In addition to any other terms elsewhere defined in this Agreement, 
+the following terms are defined for the purpose of this Agreement.  Where a definition is not 
+defined, the standard meaning applies: 
+ 
+1. “Active Vehicles” the County’s vehicles, as identified by the County and monitored by 
+Contractor, for Microtransit and Paratransit services, wherein the Platform is used by County 
+staff. 
+ 
+Attachment A
+=== page 2 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+2 
+ Agreement Template Version: 04012024 
+2. “Administrator” means a member of County staff with the highest level of Platform permissions 
+and decision and approval authority as it relates to the Platform. 
+ 
+3. “API” means Application Programming Interfaces. 
+ 
+4. “App” means an application downloaded by a user to a computer or mobile device. 
+ 
+5. “Business Intelligence Tools” means software applications that are used to collect, process, 
+analyze, sort, filter, and report large quantities of data from internal and external systems for 
+the purpose of transforming raw data into useful information for business purposes.   
+ 
+6. “CEO” means Chief Executive Officer. 
+ 
+7. “Contractor Project Manager” means the Contractor employee assigned by Contractor to 
+represent Contractor to serve as a primary point of contact to manage the overall Project 
+Implementation, help coordinate Project Implementation tasks, and maintenance of the 
+Platform. 
+ 
+8. “County Data” means all data entered by end users through the Contractor’s Platform.  
+ 
+9. “County Project Manager” means the County employee or designee assigned by County to 
+represent County to serve as a primary point of contact to manage the overall Project 
+Implementation, help coordinate Project Implementation tasks and maintenance of the 
+Platform. 
+ 
+10. “County User” means County and its agents, employees, contractors, and members, or any 
+other person designated by County to have an account to use the Platform for County’s 
+governmental purposes.  
+ 
+11. “CSV” means Comma-Separated Values file. 
+12. “Defect” means any element of the Platform deemed unacceptable by County upon testing. 
+ 
+13. “Documentation” means any online or written documentation related to the use or functionality 
+of the Software that Contractor provides or otherwise makes available to County, including 
+instructions, user guides, manuals and other training or self-help documentation. 
+ 
+14. “FTA” means Federal Transit Administration. 
+ 
+15. “HIPAA” means the Health Insurance Portability and Accountability Act.  
+ 
+16. “Hosted” means a website or other data that is stored on a server or other computer so that it 
+can be accessed over the internet.  
+ 
+17. “IM” means Information Management. 
+ 
+18. “IP” means Internet Protocol.  
+ 
+19. “KPI” means key performance indicators. 
+ 
+Attachment A

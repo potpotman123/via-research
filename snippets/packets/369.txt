@@ -1,0 +1,27 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Metropolitan Council/Equity-Advisory-Committee_Microtransit_7-19-22.pdf
+# pages_total: 12; hit_pages: [2, 7]; included: [2, 7]
+# context: Bleecker Drive folder: Metropolitan Council
+
+=== page 2 of 12 ===
+Microtransit Definition
+• Demand responsive 
+transit
+• Real-time, app-enabled
+• Dynamically generated 
+routes and/or schedules
+• Privately managed 
+technology
+• Multi-passenger
+Image Source: Via Mobility
+2
+
+=== page 7 of 12 ===
+Contracting Updates
+• Software as a service 
+(SAAS) Contract 
+– Microtransit software 
+provider will be Via Mobility
+• Operations Contract 
+– Transit Team
+7

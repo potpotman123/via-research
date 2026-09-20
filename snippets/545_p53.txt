@@ -1,0 +1,175 @@
+# source: raw/bleecker_drive/City of West Sacramento/2023.06.07_-_City_Council_-_Amendment_No._5_to_NoMad_Transit_LLC_Contract.pdf
+# path: raw/bleecker_drive/City of West Sacramento/2023.06.07_-_City_Council_-_Amendment_No._5_to_NoMad_Transit_LLC_Contract.pdf
+# hit page: 53 of 63
+# terms: NoMad Transit
+
+=== page 52 ===
+NoMad Transit LLC
+PW20-011 Via Citywide Transportation Services
+Amendment 5
+Expires 6/30/2024
+2368104.1 7203.552 
+6.
+Section 4.J. is revised as follows: Exclusive of fare referenced in Section I above, the 
+total amount of fare revenue reinvested during the FY 2023/24 Program shall not exceed 
+three hundred thirteen thousand six hundred forty two ($313,642) dollars as stated 
+in Exhibit “C” “B”. The estimated fare revenues from FY 2022-23 to be reinvested in 
+FY 2023-24 shall be one hundred fifty thousand ($150,000) dollars and additional 
+funding from the City shall not exceed two million, eight hundred thirty-seven 
+thousand, seven hundred thirty ($2,837,730) dollars. In no event shall the total 
+combined compensation of reinvested fare revenues and payments made by the City for 
+FY 2023/24 exceed three million, three hundred, and one thousand and three 
+hundred seventy-two dollars ($3,301,372) without City’s prior written approval. 
+B.
+Amendments to Contract Exhibits
+1.
+Exhibit A to the Existing Contract is hereby renamed “FY 2023/24 Scope of Work” and is 
+amended as follows:
+Task 4.1 Ridership Data Reports is revised as follows: The following shall be added at the 
+end:
+The Contractor shall assist the City in tracking and collecting key performance 
+data such that City can review performance metrics consistent with the 
+Transportation Development Act (TDA). This data shall be provided to the City 
+quarterly and shall include the following metrics: 
+
+Vehicle revenue hours - The hours that vehicles are scheduled to or 
+actually travel while in revenue service. Vehicle revenue hours include: 
+layover/recovery time. Vehicle revenue hours exclude: deadhead, operator 
+training, vehicle maintenance testing; and other non-revenue uses of 
+vehicles. 
+
+Vehicle revenue miles - The miles that vehicles are scheduled to or actually 
+travel while in revenue service. Vehicle revenue miles include: 
+layover/recovery time. Vehicle revenue hours exclude: deadhead, operator 
+training, vehicle maintenance testing; and other non-revenue uses of 
+vehicles.
+
+Passengers per Revenue Hour
+
+Passengers per Revenue Mile 
+
+Accidents 
+
+On-time performance 
+
+Passenger complaints and compliments 
+2. Exhibit B to the Existing Contract – FY 2022/23 SCHEDULE OF FEES is hereby 
+replaced by the attached “FY 2023/24 SCHEDULE OF FEES”
+Part II: Remaining Terms Unchanged.
+Except as expressly revised herein, the Existing Contract remains in full force and effect. In the 
+event of a conflict between the Existing Contract and the terms of this Amendment No. 5, the 
+terms set forth herein shall control.
+=== page 53 ===
+NoMad Transit LLC
+PW20-011 Via Citywide Transportation Services
+Amendment 5
+Expires 6/30/2024
+2368104.1 7203.552 
+IN WITNESS WHEREOF the parties hereto have executed this Agreement to be 
+effective as of June 7, 2023.
+CITY OF WEST SACRAMENTO
+By:
+ 
+Aaron Laurel, City Manager
+NoMad Transit LLC
+By:
+ 
+Erin Abrams, Manager
+APPROVED AS TO FORM
+By:
+ 
+Jeffrey Mitchell, City Attorney
+ATTEST:
+By: ________________________________________________________
+       Jennifer Cusmir, City Clerk
+=== page 54 ===
+NoMad Transit LLC
+PW20-011 Via Citywide Transportation Services
+Amendment 5
+Expires 6/30/2024
+2368104.1 7203.552 
+Exhibit B: FY 2023/24 Schedule of Fees
+WSC Via Year 6 Contract Value
+Price per 
+Driver 
+Hour
+Price per 
+Service 
+Hour
+Price per 
+Ride
+Total Not-to-
+Exceed Price
+(12 Months)
+Year 6 Service Planning*
+N/A
+N/A
+N/A
+$55,000
+Supply Planning*
+N/A
+N/A
+N/A
+$0
+Total Upfront Costs
+$55,000
+Project Management
+$3.55
+N/A
+N/A
+$203,060
+Performance Monitoring and Reporting
+$0.72
+N/A
+N/A
+$41,184
+Marketing & Promotions Plan and Implementation
+$0.14
+N/A
+N/A
+$8,008
+Program Operations**
+$47.82
+N/A
+N/A
+$2,735,304
+Total Cost per Driver Hour
+$52.23
+$2,987,556
+Customer Service (1.25 FTE X $30.39 per hour)
+N/A
+$37.99
+N/A
+$227,180
+Total Cost per Service Hour
+$37.99
+$227,180
+Estimated Access for All Regulatory Fee***
+$0.10
+$21,736
+Total Cost to West Sacramento (Incl. Fare Revenue), 
+Before PUCTRA Fees
+$3,291,472
+Estimated PUCTRA Regulatory Fee****
+$9,899
+Total Cost to West Sacramento (Incl. Fare Revenue), 
+Incl. PUCTRA Fees
+$3,301,372
+Sources of Funding:
+Fare Revenue from FY 22 23
+$150,000
+Fare Revenue from FY 23 24
+$313,642
+Funding from City of West Sacramento (Excl. Fare 
+Revenue)
+$2,837,730
+Total
+$3,301,372
+Driver Hours Summary:
+Total Implied Driver Hours
+57,200
+Implied Driver Hours (Weekly)
+1,100
+Service Hours Summary:
+Total Implied Service Hours
+5,980

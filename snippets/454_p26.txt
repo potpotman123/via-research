@@ -1,0 +1,156 @@
+# source: raw/bleecker_drive/Topeka/Proposal-ViaMobilityLLCforPosting.pdf
+# path: raw/bleecker_drive/Topeka/Proposal-ViaMobilityLLCforPosting.pdf
+# hit page: 26 of 44
+# terms: Via+SaaS
+
+=== page 25 ===
+Case Study
+COTA Plus
+Replaced several fixed-route bus
+lines due to pandemic-related
+drop in ridership
+Partner:
+Central Ohio Transit Authority (COTA)
+Location:
+Grove City, OH
+Launch:
+July, 2019
+Use case:
+On-Demand,
+first-and-last mile
+Service Stats:
+Ridership
+4X
+Increase in Ridership from
+Dec 2019 to Dec 2020
+Service Coverage
+13X
+Increase in square miles
+Fixed-Route Connections
+83%
+Of fixed lines connect to
+the COTA Plus service
+Project Summary.
+Via evaluated COTA’s current and planned fixed-route
+service reductions, and provided service design
+recommendations to the Agency. Then, Via and COTA
+launched COTA Plus, a demand-response service in
+Grove City, a suburban community outside of Columbus
+which has been experiencing
+rapid growth and increased
+need for connections with the
+existing fixed-transit system.
+All rides start and end at bus
+stops in the coverage zones,
+fostering fixed-route
+connections. The buses are
+driven by union operators.
+Service Outcomes.
+The 3-bus pilot was hugely
+successful. Via has worked
+with COTA to meet the rapidly
+increasing demand and expand the service through
+2020 to 13 vans in new service zones across the region.
+RFP for Microtransit System | 62
+=== page 26 ===
+Case Study
+ORT On
+Demand
+Provides fixed-route connections
+for residents who live within
+3/4ths of a mile bus stop
+Partner:
+Ozark Regional Transit Authority (ORT)
+Location:
+Springdale, AK
+Launch:
+February 2022
+Use case:
+Fixed-route
+extension, first / last
+mile connection
+Service Stats:
+Ridership
+4,456
+Rides completed in July
+(72% increase from
+launch)
+Average Rating
+4.9
+Out of 5
+Utilization
+2.9
+For month of July (81%
+increase since launch)
+Average Wait
+17.2
+Minutes per Ride
+Project Summary.
+In February 2022, Via helped launch ORT On-Demand, a
+5-vehicle SaaS On-Demand service in Northwest
+Arkansas across 3 distinct service zones. ORT wanted to
+complement an existing underperforming fixed-route
+service and provide first / last mile connections to key
+destinations. The Agency’s long-term goal was to grow
+ridership across their system and capture rider
+preferences to optimize long-term service expansion.
+The service runs from 7 am to 7:30 PM and riders can
+book through the Rider App, Web App, or by calling in.
+Service Outcomes.
+In order to launch the new service, Via
+replaced a legacy provider. Via
+implemented superior mapping
+capabilities to facilitate highly-accurate
+pick-up and drop-off locations. In the first
+6 months of the service, Via has iterated
+on service parameters to optimize the
+deployment in response to initial user
+feedback. and provide high-touch
+localized customer support.
+RFP for Microtransit System | 63
+=== page 27 ===
+Case Study
+WeGo
+On-demand microtransit network
+which increased transit
+accessibility and efficiency by
+replacing three underperforming
+fixed-bus routes
+Partner:
+Hall Area Transit
+Location:
+Gainesville, Georgia
+Launch:
+2019
+Use case:
+Fixed-route
+replacement,
+Accessibility
+Service Stats:
+Service Coverage
+600%
+Increase in service area
+Cost Efficiency
+50%
+Decrease in cost per ride
+Customer Experience
+74%
+Decrease in average wait
+Fleet Size
+200%
+Increase
+Project Summary.
+Via’s in-house consultancy conducted an analysis study
+of Gainesville’s transportation system, recommending
+an on-demand transit service to boost accessibility and
+convenience. Hall County then selected Via to power a
+citywide service, replacing three underperforming fixed
+route bus routes.
+Service Outcomes.
+Hall Area Transit expanded the service zone to include
+all of Hall County by July 2021, particularly to expand
+coverage to more rural areas in the region. As shown in
+the figures at left, Via has significantly reduced both the
+wait times and cost per trip of the fixed route lines we
+replaced.
+RFP for Microtransit System | 64

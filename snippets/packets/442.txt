@@ -1,0 +1,61 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/MET Transit/Agenda - View Meetings.pdf
+# pages_total: 2; hit_pages: [1]; included: [1]
+# context: Bleecker Drive folder: MET Transit
+
+=== page 1 of 2 ===
+Print
+ Reading Mode
+ Return
+ 
+Consent   1.B.       
+City Council Regular Business Meeting
+Meeting Date:
+04/10/2023
+ 
+TITLE:    MET Transit Service Agreement for use of Cloud Based Route Planning and Scheduling
+Software
+PRESENTED BY:Rusty Logan
+Department:
+Transit
+ 
+RECOMMENDATION
+Staff recommends that the City Council approve the three-year agreement with Remix Technologies
+LLC for $123,500.
+BACKGROUND (Consistency with Adopted Plans and Policies, if applicable)
+Since December of 2019, MET Transit has subscribed to the Remix Transit Planning software
+platform for use in route and schedule planning and development; MET entered into an agreement
+with the vendor on an annual basis for an initial pricing of $15,000 annually for the route planning
+module.  This software was utilized extensively in the recently completed Transit Development Plan
+that is expected to be implemented in the Summer of 2023. Recently, MET Transit has also
+subscribed to an additional scheduling module available from Remix to support development of
+vehicle block scheduling, run-cutting (daily operator work schedules), and rostering (weekly operator
+schedules). Both of these modules have proven to be invaluable to MET as both utilize software
+support to assist in development of routes, bus schedules, and employee schedules. Prior to
+utilization of this software system, route and scheduling development was a tedious task utilizing
+spreadsheets and manual calculations of hours and capabilities, which took months of staff work to
+develop just a single scenario; by utilizing the Remix Planning Platform, staff can now develop
+multiple scenarios in a matter of days, leading to development of more efficient options for utilizing
+resources in execution of transit service.  Additional benefits of the system include quick and efficient
+development of detours, integration with fixed-route technologies for easy import and export of route
+and schedule data into Computer Aided Dispatch/Automated Vehicle Location (CAD/AVL) systems,
+and tools for presenting developed scenarios to both the workforce and the public as needed. Due to
+the addition of the scheduling module as well as cost increases seen since the initial subscription,
+MET Transit is requesting to enter into a three-year services agreement with reduced pricing
+offered from the vendor, decreasing costs from $48,200 annually, to an annual average cost of
+$41,166. MET Transit has heavily utilized the planning platform and has numerous data sets already
+developed and present in the Remix system and will rely on the system to support implementation of
+the Transit Development Plan fixed-route system overhaul; hence, MET is requesting this agreement
+be executed as a sole source option to maintain the time and work already invested into usage of the
+system. Further, Remix Technologies offers features within their software platform not supported by
+other vendors, further supporting justification for a sole source agreement. 
+ALTERNATIVES
+City Council may:
+Approve the agreement with Remix Technologies LLC; or
+Not approve the agreement and advise staff on how to proceed. 
+FISCAL EFFECTS
+The proposed cost of the subscription is $37,500 for the first year, $41,000 for year two, and $45,000
+for year three.  Funds for this project are available in MET Transit's budget and will be expended using
+a combination of both local and Federal funds; planning software is an eligible expense with MET
+Transit's annual Federal Transit Administration section 5303 planning funding, which provides for an
+80% Federal, 20% local match rate.  Year to year cost breakdowns are as follows:

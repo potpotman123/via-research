@@ -1,0 +1,146 @@
+# source: raw/bleecker_drive/Metro Micro (LA)/Attachment A - Procurement Summary RFP No.pdf
+# path: raw/bleecker_drive/Metro Micro (LA)/Attachment A - Procurement Summary RFP No.pdf
+# hit page: 5 of 9
+# terms: Via+fleet
+
+=== page 4 ===
+No. 1.0.10 
+Revised 10/11/16 
+ 
+RideCo presented impressive real-time analytics from their in-vehicle demonstration 
+that covered key performance indicators such as average wait time, average ride-
+rating, on-time pickup (percentages) and on-time drop-off (percentages).  RideCo 
+also presented efficiency and cost recovery KPI’s, performance targets and several 
+other measurements which drew the attention of the evaluation team to be useful for 
+Metro. Most notably unique to RideCo’s expertise is the advance knowledge of on-
+demand and emerging technology and the ability to leverage data and analytics to 
+model opportunities for new deployments. 
+ 
+The project manager is a founding team member with RideCo since 2014 and has 
+experience in building and managing operational teams for deploying new mobility 
+services. The project manager led on-demand deployment with Metrolinx (public 
+agency) in Canada and continues to with Grab in Singapore.  The principal in-charge 
+has experience in planning and launching on-demand services, and has expertise in 
+software engineering where he co-invented the technology platform.  
+ 
+Currently, RideCo technology is being used for on-demand services in Canada and 
+Singapore.   
+ 
+NOMAD TRANSIT LLC (Via) 
+ 
+NoMad Transit LLC (“Via”), is a wholly-owned subsidiary of Via Transportation, Inc. 
+Via is a ridesharing company focused on servicing on-demand mobility through the 
+use of a customized software technology platform. Via is headquartered in New York 
+City.  
+The proposal and oral presentation demonstrated a clear understanding of the 
+Statement of Work as they presented a focus on achieving specific agency-wide 
+goals in designing a service to complement and optimize Metro’s existing service. 
+Via noted the need for Metro to upgrade their existing service for the customer 
+experience of current and future riders.  
+ 
+Via demonstrated expertise in emerging technologies, effective project 
+management, quality control and an experienced team of project personnel. The 
+proposal and oral presentation provided a detailed management plan, addressing 
+transportation analysis and modeling, software/technology solutions, a performance 
+plan, capital programming and a cost structure, payment and recovery plan.  
+Notably, the management team identified schedule constraints and provided 
+solutions in meeting these constraints. 
+ 
+Via displayed experience in all required tasks including a deep working knowledge of 
+on-demand transportation planning and implementation and expertise in emerging 
+technology with an experienced team of project personnel. The proposal identified 
+projects involving coordination with the public sector, vehicle procurement and 
+branding, wayfinding, signage and the use of user-experience (UX) and user-
+interface (UI) principles.
+=== page 5 ===
+No. 1.0.10 
+Revised 10/11/16 
+ 
+Via created a team that combines industry-leading new mobility expertise and 
+familiarity with Los Angeles and Metro. Their team consists of a transportation 
+consulting company, a leading marketing and advertising firm focused on 
+transportation based in Los Angeles, and a marketing, branding and outreach firm 
+located in Fresno. The project manager joined Via in 2017 and has direct experience 
+in the management of Via’s deployments, including the launch and optimization of 
+the company’s software/technology platform. During the interview, the project team 
+demonstrated a strong knowledge of multimodal transit planning and outreach 
+capabilities, citing social and digital strategies as well as private sector partnership 
+opportunities. 
+ 
+Currently, Via technology is being used for on-demand services in Chicago, New 
+York, and Washington DC. 
+ 
+TRANSDEV 
+ 
+Transdev, formerly Veolia Transdev, is a French-based international transport 
+operator, with operations in 19 countries and a Maryland-based corporation.  
+ 
+Transdev’s showed expertise in a broad range of disciplines, including a strong 
+working knowledge of bus rapid transit, shuttles, fleet maintenance and multimodal 
+services, and experience in planning, designing, deploying and operating numerous 
+modes of transportation.  The  proposal and presentation demonstrated expertise in 
+cost-effective fixed route operations, effective project management, quality control 
+and risk management plans, and an experienced team of project personnel.  
+ 
+Trandev’s proposal and oral presentation outlined the delivery of a 
+software/technology platform built to meet transit regulations, including Title VI, ADA, 
+etc. It demonstrated substantial experience in delivering projects to the public sector; 
+notably, their experience with paratransit, airport, employee commuter services and 
+operations for over 50 years.  
+ 
+Transdev’s key personnel have direct experience across a breadth of disciplines, 
+design, and a range of specific project experience applicable to the Project.  Their 
+team consists of a transportation consulting company, a leading marketing firm, and 
+communications specialists. The project manager has over 10 years of experience 
+and has direct experience in leading the deployment of on-demand service with the 
+HART Hyperlink pilot in Tampa, Florida. Other key personnel average over 41 years 
+of experience.   
+ 
+Currently, Transdev technology is being used for on-demand services in Florida, 
+Australia, and the Netherlands.
+=== page 6 ===
+No. 1.0.10 
+Revised 10/11/16 
+ 
+DATAMATICS 
+ 
+Datamatics Global Services Inc. has been in business for 40 years and currently has 
+over 8,000 employees worldwide. Datamatics provides comprehensive engineering, 
+mobility and analytics solutions to the mass transit industry. Datamatics has 
+experience working with private sector and public agencies such as Dubai Metro and 
+Airport, Transportation for London, Swedish Rail, and Lucknow Metro. Their mobility 
+division specializes in designing and building mobile applications with more than 400 
+developed to-date.   
+ 
+Datamatics demonstrated experience in technology customization and UX and UI 
+design and presented key mobile application projects including an Online Cab 
+Booking App, Spireon, Azuga-Danlaw and Veolia Water maintenance application. 
+The firm provided a management plan that included a project organization chart, 
+communication plan, quality control methodology, change management plan, and 
+methodology for selecting pilot locations. During the oral presentation the team 
+elaborated upon Datamatics’ expertise in technology and their ability to build custom 
+software to Metro’s specific needs.   
+ 
+The evaluation team participated in Datamatics’ in-vehicle demonstration and noted 
+the app experience to be user-friendly. However, the PET determined the 
+software/technology platform had a few features which could be added for on-
+demand mobility service. 
+ 
+SIEMENS 
+ 
+Siemens is a Fortune 50 infrastructure and technology company with 350,000 
+employees in 200 countries that has been in business since 1847. Siemens has 
+strong experience in road and rail projects for over 170 years. The Intelligent Traffic 
+Solutions (ITS) division was created 60 years ago for developing and testing 
+technology for traffic management.  
+ 
+Siemens’ proposal and oral presentation showcased expertise in a broad range of 
+disciplines, expertise in emerging technologies, effective project management, 
+quality control and featured an experienced team of project personnel.  The firm 
+demonstrated substantial experience in traffic management, mobility, energy saving 
+services and project management. Siemens also highlighted transportation 
+technologies experience with Seattle Department of Transportation and a new 
+mobility project in Tampa, Florida. 
+ 
+Siemens proposal and in-vehicle demonstration of their technology platform 
+identified additional information was needed in their software app for UX and UI.

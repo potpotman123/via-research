@@ -1,0 +1,146 @@
+# source: raw/bleecker_drive/Cap Metro/500089.pdf
+# path: raw/bleecker_drive/Cap Metro/500089.pdf
+# hit page: 66 of 89
+# terms: Via+per service hour, Via+vehicles
+
+=== page 65 ===
+EXHIBIT F ‐ SCOPE OF SERVICES COMPLIANCE MATRIX
+#
+Requirements
+Proposer Questions
+Capital Metro Response to Questions
+Compliance
+Comments
+Capital Metro Response to Comments
+Test #
+2.06 Staff Dispatch Backend Web Interface
+* Define analytics requirements
+* Manually input known issues and traffic incidents
+* Collect existing service usage data 
+* Define requirements for additional features
+* Dynamic pickup business information data entry
+* Solution includes access to reports for staff
+* Solution includes access to manage rider user accounts for customer service/troubleshooting assistance
+2.07 System (Subject Matter Expert) Administrator Web Back End
+* Initial environment & database configuration
+* Analytics dashboard(s) development
+* Logs human‐initiated system activities (user, timestamp)
+* Allows definition of vehicle capacity configurations (if x wheelchair riders on vehicle, can also seat y riders)
+* Contains administration tools to manage user accounts and entitlements
+* Includes tools to manage ancillary tables to “age‐out” or make inactive data points which are no longer part of 
+business logic
+* Includes tools for archive of system data including, but not limited to, rider records and trip histories to ensure 
+compliance under federal state and local regulations and best practices for the transit industry
+2.08 Fare Integration
+*Solution includes a fare element. Solution includes the ability to integrate with CapMetro Mobile ticketing system 
+that contains customer accounts and ticketing information. Capital Metro reserves the right to consider further fare 
+integration requirements
+*Contractor is responsible for coordinating with Bytemark of these systems to obtain any information and 
+assistance needed, and for all costs associated therewith 
+2.09
+Multi Modal Integration
+*Solution shall integrate with Capital Metro's multi modal trip planning platform
+*Contractor's API shall include the ability to: define the operation areas for the service; define locations where drop 
+offs will be made; confirm service is available for the trip plan; and provide estimated time of arrival for the trip plan
+* Contractor shall contract with Bytemark, Inc. for the integration with Capital Metro's traveler tools using the 
+Contractor’s API
+*The integration with Bytemark, Inc. and Capital Metro's traveler tools shall use the Contractor's APIs for multi‐
+modal trip plans combining Capital Metro’s public transit services with the Transit On‐Demand service.
+*Integration shall include the ability to deep‐link from Capital Metro's traveler tools multi‐modal trip plan to the 
+Contractor's Rider application with the necessary data to request a ride using the start and destination fields 
+entered in the traveler tools
+*The Rider App shall include a deep link to the CapMetro App
+*During the Design Phase, the Contractor shall submit to Bytemark, Inc. the completed Multi‐Modal Partner 
+Integration Form
+SS‐801976
+Page 3 of 5
+Exhibit F
+=== page 66 ===
+EXHIBIT F ‐ SCOPE OF SERVICES COMPLIANCE MATRIX
+#
+Requirements
+Proposer Questions
+Capital Metro Response to Questions
+Compliance
+Comments
+Capital Metro Response to Comments
+Test #
+2.10 Reporting
+* Include out‐of‐the‐box dashboard feature customizable for key performance data that supports organization‐wide 
+analysis and integrated decision‐making; allow the dashboard to be configurable including label, field data order, 
+position, hide/unhide etc.
+* Shall have a robust suite of standard reports to include at a minimum: service hour/mile logging (when driver logs 
+into/logs out of unit), revenue hour/revenue mile logging (when driver performs first pickup and last drop off or no 
+show), riders, miles travelled per rider, on time performance, productivity (riders per service hour), vehicles 
+operated in maximum service. Reporting should be segregated by day/zone
+* Provide user access to reports and downloads via the web without installation of client software
+* Allow reports to be generated on a time/day schedule and saved on a drive
+* Allow reports to be generated on a time/day schedule and automatically emailed to recipients
+* Reporting includes ability to review vehicle GPS (stored a minimum of 45 days) for research of complaints and 
+driver performance
+* Reporting can export to or integrate with Microsoft Power BI and support ETL for a data warehouse
+* All
+f
+hi t
+i d t t b
+hi
+d f
+d t
+t
+ti
+Warranty and Support
+•Software Updates
+•Test Use Cases
+•Test Environment
+•Documentation
+* Provide first‐line software support (perform diagnostics and troubleshooting)
+* Include a disaster recovery plan describing operational (manual) workarounds when one or more aspects of 
+solution are non‐operational; include return to normal operation procedures when issue has passed
+* Perform a readiness test X days prior to special events (determined by Capital Metro) to ensure solution will 
+function properly during high volume usage
+* Ability to automatically alert staff when a driver's device has a low battery or is not communicating with the core 
+solution in excess of x minutes
+* Ability to automatically alert staff when a driver's device is marked "on duty" and driver is outside the service zone
+* Provides health monitoring system with ability to set email notifications for all equipment based on events
+* Includes a development, test, stage and production environment with change and version control and automated 
+release to subsequent environments without the need to re‐enter the same configuration information
+* Support OS patching and OS upgrades with minimal impact on performance; security patches must be tested, 
+installed and verified during a monthly process of updates to prevent any security incidents from occurring
+* Use a vendor‐independent design based on non‐proprietary technology that does not have to be operated on 
+proprietary hardware or operating system platforms
+* Use secure XML standards for communications (data exchange) to external parties
+* Support web services using  WSS SOAP, Rest or other standard APIs 
+2.11
+SS‐801976
+Page 4 of 5
+Exhibit F
+=== page 67 ===
+EXHIBIT F ‐ SCOPE OF SERVICES COMPLIANCE MATRIX
+#
+Requirements
+Proposer Questions
+Capital Metro Response to Questions
+Compliance
+Comments
+Capital Metro Response to Comments
+Test #
+* Provide supported and documented application program interfaces (APIs) that can be accessed by other systems
+* Enforce data encryption where appropriate following 128‐bit Advanced Encryption Standards (AES) for data both 
+in transit and at rest in all file structures
+* Generate an error report for any validation issues or other errors identified during execution of a data load or an 
+interface program
+* Provide tools for system monitoring with recommended monitor points and thresholds (e.g. disk space, CPU, 
+ICMP, services, etc.) within the Solution
+* Operate using the current production release (‐2) and SQL Server with specific environment to be recommended 
+by proposer                                                                                   
+* Support data replication, load balancing, failover and synchronization across multiple physical or virtual servers
+* Ensure that any batch processing does not adversely impact on‐line responsiveness or availability
+* Execute the Solution software suite over a TCP/IP network
+* Identify access requirements through firewalls 
+* Allow for read‐only access to data via Open Database Connectivity (ODBC)  or other tools with appropriate security
+* Meet or exceed Capital Metro’s required system uptime of 99.99% ‐ must submit SLA and scheduled maintenance 
+plan with proposal
+* New software releases must include detailed release notes
+SS‐801976
+Page 5 of 5
+Exhibit F

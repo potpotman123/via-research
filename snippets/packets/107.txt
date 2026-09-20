@@ -1,0 +1,90 @@
+# source_url: https://metro.legistar1.com/metro/attachments/d101074f-5788-4f00-b068-f750a97d0819.pdf
+# path: raw/cache/dc0c27e2a5c771e630e778b888d31223fd12f891.pdf
+# pages_total: 2; hit_pages: [1]; included: [1]
+# context: legistar client=metro; matter 2025-1010 (2025-11-13): AUTHORIZE the Chief Executive Officer to Execute Modification No. 2 to Contract No. PS124278(2)000, Metro Micro Software Services with Spare Labs, Inc. in support of Metro Micro enhancements and the 2026 FIFA World Cup software platform for shuttle services in the firm-fixed price of $386,150.00, in
+
+=== page 1 of 2 ===
+No. 1.0.10 
+Revised 10/11/16 
+ 
+PROCUREMENT SUMMARY 
+ 
+METRO MICRO SOFTWARE SERVICES/ PS124278(2)000 
+ 
+1. 
+Contract Number: PS124278(2)000 
+2. 
+Contractor: Spare Labs Inc. 
+3. 
+Mod. Work Description:. Metro Micro Enhancements and 2026 FIFA World Cup 
+software platform for shuttle services 
+4. 
+Contract Work Description: Provide and support the software platform for Metro Micro 
+on-demand transit operations (dispatch, driver, and communications). 
+5. 
+The following data is current as of: 1/22/2026 
+6. 
+Contract Completion Status 
+Financial Status 
+ 
+ 
+ 
+ 
+Contract Awarded: 
+02/20/2025 
+Contract Award 
+Amount: 
+$0.01 
+ 
+Notice to Proceed 
+(NTP): 
+N/A 
+Total of 
+Modifications 
+Approved: 
+$61,250.00 
+ 
+Original 
+Completion Date: 
+02/20/2028 
+Pending 
+Modifications 
+(including this 
+action): 
+$386,150.00 
+ 
+Current Est. 
+Completion Date: 
+02/20/2028 
+Current Contract 
+Value (with this 
+action): 
+$447,400.01 
+ 
+ 
+7. 
+Contract Administrator: 
+Jered Rakosky 
+Telephone Number: 
+(213) 922-2702 
+8. 
+Project Manager: 
+Dan Nguyen 
+Telephone Number: 
+(213) 418-3233 
+ 
+A.  Procurement Background 
+ 
+This Board Action is to approve Contract Modification No. 2 issued in support of 
+enhancing Metro Micro’s software to support predefined fixed routes enabling a 
+blended model of on-demand and fixed routing, to allow for integrated text and voice 
+communication (including Silent Alarm System (SAS)), and provide a three month 
+software subscription for the WCGETS vehicle fleet to support Metro’s special-event 
+shuttles during the FIFA World Cup 2026. 
+ 
+This Contract Modification will be processed in accordance with Metro’s Acquisition 
+Policy, and the contract type is firm fixed price. 
+ 
+In February 2025, Metro awarded firm-fixed price Contract No. PS124278(2)000 to 
+Spare Labs, Inc., in the amount of $0.01 to provide software services for the 
+ATTACHMENT A

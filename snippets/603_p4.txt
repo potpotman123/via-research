@@ -1,0 +1,102 @@
+# source: raw/bleecker_drive/City of Galveston/19367.pdf
+# path: raw/bleecker_drive/City of Galveston/19367.pdf
+# hit page: 4 of 19
+# terms: Remix Technologies
+
+=== page 3 ===
+GALVESTON ISLAND TRANSIT 
+STAFF REPORT 
+ 
+1. 
+Cost - No additional cost at this time.  
+2. 
+Timing - N/A 
+3. 
+Departmental Improvements - Galveston Island Transit would have to 
+contract with an outside vendor for any route analysis.  
+ 
+Staff Recommendation 
+ 
+Approve the three (3) year contract renewal for transportation planning software platform with 
+Remix Technologies LLC. for $58,500 and authorize the City Managers staff to execute the agreement 
+upon final approval by the City Attorney. 
+ 
+Attachments
+=== page 4 ===
+Renewal #1 of the November 1, 2021 Remix Services Agreement between
+Island Transit and Remix Technologies, LLC
+Remix Technologies LLC (“Remix”) and Island Transit (“Customer” and together with Remix, the
+“Parties”) have entered into an agreement titled Remix Services Agreement between Island Transit
+and Remix Technologies, LLC (the “Agreement”) dated as of November 1, 202. Upon execution of
+this Renewal (the “Renewal”), the Parties agree to the following:
+1.
+Renewal. With effect from November 1, 2024 (the “Effective Date”) the Parties hereby
+agree to extend the duration of the Agreement beyond its original duration from the
+Effective date for a period of 3 years until October 31, 2027.
+2.
+Price. The Parties hereby agree to the following price structure:
+Remix Planning
+Platform License
+Planning
+●
+2024: $18,500 USD
+●
+2025: $19,500 USD
+●
+2026: $20,500 USD
+License Summary
+Total Contract Value: $58,500 USD / 3 years
+Includes:
+●
+Remix licenses for an unlimited number of users within organization.
+●
+Software as a Service (SaaS): fully hosted, cloud-based web platform.
+●
+Platform functionality as described in the Agreement with continuous
+improvements released throughout the course of the contract
+●
+Dedicated Customer Success staff
+Marketing Terms
+Willingness to work with Remix to develop a case study, mutually agreeable press
+release, ability to use Customer as a reference.
+Additional Services
+Customer acknowledges that additional services, such as access to Company's
+(including its affiliates) proprietary technology platform used to establish, monitor,
+operate and/or manage fixed-route and demand responsive transit networks, may be
+added to this Agreement at an additional cost during the Term.
+Payment Terms
+Fees invoiced annually in advance of access, payable in 30 days from the date of
+invoice.
+3.
+Conflicts, Use of Terms, Governing Law. Capitalized terms used but not defined herein have
+the meanings set forth in the Agreement. Except as expressly provided herein, the terms
+and conditions of the Agreement remain unchanged. This Renewal will be governed by the
+same law as the Agreement.
+=== page 5 ===
+REMIX TECHNOLOGIES LLC
+ISLAND TRANSIT
+By:
+By:
+Name:
+Name:
+Title:
+Title:
+Date:
+Date:
+Remix Billing Information
+Attn
+Accounts Receivable
+Address
+114 Fifth Avenue, Floor 17
+New York, NY 10011
+Email
+AR@ridewithvia.com
+Customer Billing Information
+Attn
+__________________________________
+Address
+__________________________________
+Email
+__________________________________
+Phone
+__________________________________

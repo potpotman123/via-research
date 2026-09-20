@@ -1,0 +1,276 @@
+# source_url: https://legistar.granicus.com/huntsvilleal/attachments/9800841b-3948-44e2-9e23-ef2ab1007faf.pdf
+# path: raw/cache/bbbdb020c072a8b6124814a71fc2748079790ca2.pdf
+# pages_total: 37; hit_pages: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 36, 37]; included: [1, 5, 16, 17, 18, 27]
+# context: legistar client=huntsvilleal; matter 2024-1323 (2024-03-15): Resolution authorizing the Mayor to enter into an Agreement between the City and RideCo US, Inc. for Paratransit dispatching software.  Resolution No. 24-227
+
+=== page 1 of 37 ===
+308 Fountain Circle
+Huntsville, AL 35801
+Huntsville, Alabama
+Cover Memo
+wHUt"
+ДУ АНАЛі
+Meeting Type: City Council Regular Meeting Meeting Date: 3/28/2024
+File ID: TMP-4024
+Department: Public Transit
+Subject:
+Type of Action: Approval/Action
+Resolution authorizing the Mayor to enter into an Agreement between the City and RideCo US, Inc. for
+Paratransit dispatching software.
+Resolution No:
+Finance Information:
+Account Number: 2000-54-5416D-520200-PT504990
+City Cost Amount: $21,200.00
+Total Cost: $106,000.00
+Special Circumstances:
+Grant Funded: $84,800.00
+Grant Title - CFDA or granting Agency: AL-2024-002-00
+Resolution #: N/A
+Location: (list below)
+Address: 500 B Church St. NW 35801
+District: District 1 D
+District 2 D
+Additional Comments:
+District 3
+District 4 0 District 51
+Huntsville, Alabama
+Page 1 of 2
+Printed on 3/25/2024
+powered by Legislar ne
+
+=== page 5 of 37 ===
+RIDECO SUBSCRIPTION AND SERVICES AGREEMENT
+chicle Hours" means the hours that a vehicle is scheduled to or actually travels from the tit
+pulls out from its garage to go into revenue service to the time il pulls in from revenue servi
+"Vehicles in Operation" means the maximum number of vehicles actually operated lo provide
+service on an average weekday.
+1.02
+Schedules: The schedules to this Agreement are set forth as follows:
+Schedule "A"
+Exhibit 1 to Schedule "A"
+Schedule "B"
+Schedule "C"
+Schedule "D"
+Schedule "E"
+Statement of Work
+Financial Terms
+Scrvice Level Agreement
+Data Protection Undertaking
+Insurance
+Federal Provisions
+2. SERVICE OFFERINGS LICENSE, INTELLECTUAL PROPERTY RIGITS,
+CONFIDENTIALITY
+2.01
+License Grant: Subject to the terms of this Agreement, RideCo grants Customer a
+limited, revocable, non-exclusive and non-transferable license to: (a) access and use the
+Suftware. RideCo or its agents, resellers or distributors may release from time to time to
+Customer at no additional charge during the term of this Agreement, sofware bug fixes
+and patches and such releases shall be considered "Softwarc" hercunder and subject to
+the terms of this Agreement unless otherwise specified by RideCo. This license does not
+imply any rights to Software Enhancements or technical or other support services, excep
+us otherwise expressly set forth herein. As used herein the "Intended Purpose" means use
+of the Service Offerings for the purpose of providing dynamic routing and shared ride
+Restrictions & End User Terms:
+2.02
+(a)
+RideCo Confidential
+Page 3 of 34
+
+=== page 16 of 37 ===
+RIDECO SUBSCRIPTION AND SERVICES AGREEMENT
+EXHIBIT I TO SCHEDULE "A"
+FINANCIAL TERMS
+Implementation Fee (one-time fee payable at signing of contract)
+ervice modeling, KPI go
+etting, & simulatior
+Localization of the software
+settings & operations
+configuration
+Application branding, content,
+and language customization
+Application data migration and
+testing
+Initial training
+Setup data reporting and
+monitor the launch
+Implementation Fee
+Hardware
+Token Transit Integration
+Service design consultation; comprehensive review of KPI goals and
+goal-setting for program success; simulation and tuning of parameters
+as applicable (e.g. time snapping, frequency variation)
+onfigure the software settings; zone boundaries, variation of servi
+vels; set-up fleets and operators' shifts; identify and configure pick
+and dropoff stops; build mapping layer, road network and traffic model;
+set-up payment and fare options; setup roles and access levels
+Brand the Apps/website including logo, color, and splash screen;
+customize the website & FAQ; in-app messages
+ap data fields and passenger information from legacy system
+plicable) and mierate to new system: perform quality assurance tes
+Coordinate in-person training for team leads and operators; setup self-
+service learning management system and modules
+Live monitoring and coaching for the launch; set-up NTD reports, data
+dashboards, and operations reports
+$34,000
+One-time, upfront fee.
+N/A
+RideCo platform is compatible with existing
+agency tablets/MDTs.
+Waived
+RideCo can offer a deeplink integration with
+Token Transit.
+Value-Added Implementation Options
+Option: Eligibility Management $7,700
+Option: VOIP set up
+$5,000
+Set-up, configuration & training for Eligibility
+automation
+Set-up, configuration, and training of the VOIP
+system for up to 28 vehicles and 5 dispatchers.
+RideCo Confidential
+Page 14 of 34
+
+=== page 17 of 37 ===
+RIDECO SUBSCRIPTION AND SERVICES AGREEMENT
+Software License & Support Fee (payable monthly after implementation & go-live)
+Core technology modules and
+automatic updates
+Passenger App, Driver App, Web App, Solver-algorithm based routing.
+Automated continuous schedule & dispatch optimization, Operations
+enter dashboards, Customer Profile Manager; Cloud hosting: Regula
+loud software updates to core modules for features enhancement
+Analytics and reporting
+NTD reports, daily/weekly/monthly KPI reports, data dashboard
+Service level agreement and
+ommitted response & resolution times based on issue type ar
+99.9%+ uptime
+surance of 99.9%+ uptime of apps & operations center dashboard
+erformance optimization an
+egular meetings to review KP/s, data, & goals; discuss operation
+est practices suppor
+erformance improvements, and industry best practice
+Core Software Fee
+$ 72,000 / year For up to 28 vehicles in peak service.
+Optional fees for adding more vehicles or zones to the scope of work
+Incremental Per-Vehicle Fee
+$250
+Rate ($) per vehicle / month
+Incremental Per- new zone Fee $4000 one-time fee per additional new zone
+Notes to software license and support fees:
+The core software license & support fees are compliant with the requirements of the project, and
+includes RideCo's patented continuous optimization and trip negotiation engine.
+Incremental per-vehicle-fee is for adding more licenses beyond the 28 vehicles used in peak service
+during any specific monthly billing period.
+SMS notifications included in licensing fees.
+- Third-party payment processors (e.g., credit card related, including charge backs) are passed through
+Booking application licenses for riders and dispatchers do not have a limit.
+Three (3) Zendesk (Customer Service Software) licenses included in the price for support staff use.
+Three (3) Performance dashboard licenses included in the price for executive use.
+Three (3) Rides Profile Manager (RPM) licenses included in the price for eligibility managers' use.
+Value-Added Software Optlons
+Option: Productivity Booster
+Features
+Driver behavior alerts dashboard to optimize driver performance.
+Breaks with dynamic location assignments to reduce deadheading
+and enhance operator satisfaction: EV charging breaks & locations
+are dynamically scheduled.
+• Driver shifts & runcut optimization to match scheduled vehicle
+supply to trip demand based on time of day and day of week.
+-
+Frequency variation to increase pooling efficiency and productivity
+for low-density zones or sub-zone within a larger zone.
+Optional advanced productivity booster features
+i vehicle/ month unique to RideCo's product offering
+Option: Eligibility Management
+Portall
+Option: IVR
+Option: VolP + Panic button
+$ 5,000/year
+$0.02/minute
+$ 4,440/year
+Annual fee subject to number of paratransit user
+isibility staff & document volum
+Pricing will be determined based on volume of call-
+out as well as in-bound booking requests.
+Allows dispatch to driver communication.
+RideCo Confidential
+Page 15 of 34
+
+=== page 18 of 37 ===
+RIDECO SUBSCRIPTION AND SERVICES AGREEMENT
+Other terms:
+The pricing and terms stated in this proposal are valid for 90 days from the proposal transmittal date.
+• Professional services and on-site support (that are outside the scope of the services specified in this
+agreement) offered at a rate of $120/hour in addition to pre-approved travel costs.
+- All prices are in U.S. dollars and exclude taxes if applicable.
+Summary of Fees (incorporates all the above iters)
+Implementation
+Software License & Support
+Year 1 Cost
+Year 2 Cost
+Year 3 Cost
+Year 4 Cost
+Year 5 Cost
+Option Year 6 Cost
+Option Year 7 Cost
+Total 7 Years Cost
+$ 34,000
+$ 72,000
+$ 106,000
+$ 72,000
+$ 72,000
+$ 72,000
+$ 72,000
+$ 72,000
+$ 72,000
+$ 538,000
+One-time fee as specified above
+12 months of fees as specified above
+Total project cost based on statement of work
+RideCo Confidential
+Page 16 of 34
+
+=== page 27 of 37 ===
+RIDECO SUBSCRIPTION AND SERVICES AGREEMENT
+SCHEDULE "D"
+INSURANCE
+Insurance Coverages. RideCo shall provide and maintain insurance, acceptable to the
+Agency, in füll force and effect throughout the term of this Agreement, against claims for injuries to
+persons or damages to property which may arise from or in connection with the performance of the
+Services by RideCo, its agents, representatives or employees. RideCo shall procure and maintain the
+following scope and limits of insurance:
+Commercial 'General Liability (CL): Insurance written on an occurrence basis to protect RideÇo
+and Agency against liability or claims of liability which may arise out of this Agreement in the
+amount of two million dollars ($2,000,000) per occurrence and subject to an annual aggregate of four
+million dollars ($4,000,000). Coverage shall be at least as broad as Insurance Services Office form
+Commercial General Liability coverage (Occurrence Form CG 0001). All defense costs shall be
+outside the limits of the policy.
+Vehicle Liability Insurance: Vehicle liability insurance in an amount not less than $1,000,000 for
+injuries, including accidental death, to any one person, and subject to the same minimum for each
+person, in an amount not less than one million dollars ($1,000,000) for cach accident, and property
+damage insurance in an amount of not less than one million dollars ($1,000,000). A combined single
+limit policy with aggregate limits in an amount of not less than $2,000,000 shall be considered
+equivalent to the said required minimum limits. Coverage shall be at least as broad as Insurance
+Services Office form number CA 0001 covering Automobile Liability, including code 1 "any auto"
+and endorsement CA 0025, or equivalent forms subject to the approval of the Agency.
+Workers' Compensation Insurance: Workers' Compensation insurance with a minimum of one
+million dollars ($2,000,000) of employers' liability coverage. RideCo shall provide an endorsement
+that the insurer waives the right of subrogation against the Agency and its respective elected officials,
+officers, employees, agents and representatives. In the event a claim is filed against Agency by a
+bona fide employee of RideCo participating under this Agreement, RideCo is to defend and indemnify
+the Agency from such claim.
+Professional Liability Insurance: Professional liability insurance appropriate to the RideCo's
+profession in an amount not less than one million dollars $1,000,000 per occurrence.
+may be written on a "claims madc" basis, and must include coverage for contractual liability. The
+insurance must be maintained for at least three (3) consecutive years following the completion of
+RideCo's services or the termination of this Agreement. During this additional three (3) year period.
+RideCo shall annually and upon request of the Agency submit written evidence of this continuous
+B.
+Other Provisions. Insurance policies required by this Agreement shall contain the following
+provisions:
+1.
+All Coverages.
+Each insurance policy required by this Agreement shall be endorsed and stat
+he coverage shall not be suspended, voided, cancelled by the insurer or either Party to thi
+RideCo Confidential
+Page 25 of 34

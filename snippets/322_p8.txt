@@ -95,3 +95,62 @@ Technologies
 Generated on Sep 19, 2023 9:57 AM EDT - Israel Segarra
 Page 1 of 1
 === page 9 ===
+000
+EST. 1834
+Hillsborough
+County Florida
+SM
+SUNSHINE LINE
+PO Box 1110, Tampa, FL 33601-1110
+(813) 272-7272
+BOARD OF COUNTY
+COMMISSIONERS
+Donna Cameron Cepeda
+Harry Cohen
+Ken Hagan
+Pat Kemp
+Gwendolyn "Gwen" Myers
+Michael Owen
+Joshua Wostal
+COUNTY ADMINISTRATOR
+Bonnie M. Wise
+COUNTY ATTORNEY
+Christine M. Beck
+COUNTY INTERNAL AUDITOR
+Peggy Caskey
+CHIEF HUMAN SERVICES ADMINISTRATOR
+Carl S. Harness
+Date: August 28, 2023
+To:
+Scott Stromer, Procurement Services Director
+CC:
+Jerry Stickney, Director, Sunshine Line
+From: Karen Smith, Buses & Sompitce Coordinator, Sunshine Line
+Subject:Evaluation Summary and Recommendation for RFP-23-24177, Paratransit Scheduling Software
+The purpose of Request for Proposals RFP-23-24177 was to solicit proposals from qualified firms to provide a
+comprehensive cloud-based Paratransit Scheduling Software System to be used for all aspects of Hillsborough
+County's Sunshine Line program including client eligibility, advance and real-time trip reservations, issuing bus
+passes, manual and fully automated trip scheduling, dispatch, automatic vehicle tracking, billing, reporting, client-
+facing applications and in-vehicle mobile data computers.
+The RFP was advertised on May 17, 2023, and closed on July 20, 2023, with a total of five (5) responses received.
+The evaluation committee was composed of three (3) voting members. The members were:
+Karen Smith, Business & Compliance Coordinator, Sunshine Line (Committee Chair)
+Leslye McNeil, Operations Manager, Sunshine Line
+Iva Carter, IT Service Delivery Manager, IT Department
+The committee convened on August 17, 2023, at 9:00 AM to evaluate, reach a consensus score, and rank the
+proposals based on the following criteria:
+Technical Approach
+System Capabilities and Ease of Use
+Qualifications & Understanding of Project
+Experience
+Quote/Cost
+DM/DWBE/SBE Bonus
+Total
+30 points
+20 points
+10 points
+15 points
+25 points
+5 points
+105 points
+HCFLGOV.NET

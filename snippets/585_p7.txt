@@ -1,0 +1,108 @@
+# source: raw/bleecker_drive/City of Largo/2329025.pdf
+# path: raw/bleecker_drive/City of Largo/2329025.pdf
+# hit page: 7 of 9
+# terms: Via+drivers, Via+per hour
+
+=== page 6 ===
+training?
+Answer:  
+We would prefer initial training to be conducted onsite.  
+Question:
+What are the main use cases for the following types of users and how you do you envision them using the 
+system?
+a) Customer service support staff;
+b) Operators (e.g., drivers);
+c) Supervisors and management staff; and
+d) Information technology & analyst staff.
+Answer:  
+•
+Customer Service – Scheduling on call service and documenting requests or complaints
+•
+Operators – following routes and documenting exceptions
+•
+Supervisors and Management – Ensuring route compliance and checking route status
+•
+Information Technology & Analyst staff – Providing support and collecting data
+Question:
+How many drivers/ operators are there?
+Answer:  
+44
+Question:
+Do the 8 office staff include customer support staff?
+Answer:  
+Yes
+Question:
+What type of information would the drivers need to see about the customer?
+Answer:  
+Customer name, address, container size and any specific notes
+Question:
+What type of issues or flags do Drivers typically submit?
+Answer:  
+Blocked, overfull or unserviceable containers
+Question:
+Is there a current technology in place being that is tracking fuel use, speeding instances, hard braking, hard 
+acceleration, and hard turning?
+=== page 7 ===
+Answer:  
+Speed only
+Question:
+Do the drivers have an inspection checklist they need to perform before starting their routes?
+Answer:  
+Yes
+Question:
+If an issue arises on the truck, how are they routed to be fixed?
+Answer:
+Not sure of the context of this question.  If it is a mechanical issue a mechanic is dispatched, driver could switch 
+trucks or resume the route with original truck.
+Question:
+What version of Internet Explorer would be used?
+Answer:
+We currently support IE 11, Edge, Firefox, and Chrome.
+Question:
+Do you imagine the mobile application would be accessed via a branded app?
+Answer:
+If you have a branded APP in the Google Play store or Apple APP Store, we would utilize that. Otherwise, if your 
+application is browser friendly in Chrome or Safari on the mobile devices, we can access it that way as well.
+Question:
+What are some of the key performance indicators (KPI’s) that are consistently looked at as an organization?
+Answer:
+Lifts per hour, homes per hour, pulls per hour and missed pick ups
+Question:
+How and when do drivers get their routes currently? Are there certain issues that take priority in the workload 
+given?
+Answer:
+At the start of the day as they log in to their tablet.  Rolloff is fluid and workload is based on capabilities based on
+geographic area.
+=== page 8 ===
+Question:
+How are the people calling in engaged after the issue has been taken place?
+Answer:
+Customers are engaged in person or via phone when necessary after a request has been fulfilled.  
+Question:
+When a person calls in, what is the expectation or rule of when the call in will be resolved?
+Answer:
+If before noon our goal is same day if after noon it is 24 hours. 
+Question:
+Are there other channels a citizen could submit a request (such as: live chat, web, or email)?
+Answer:
+Web and email
+Question:
+Based on the call, how are they routed to the appropriate driver? Is it by type of truck, skill, region, or etc.?
+Answer:
+Type of service and area of customer
+Question:
+How are calls routed to the correct asset (Front load, Rolloff, etc.) to be used for reconciling certain work?
+Answer:
+By checking routing system to determine what asset is in that area.
+Question:
+Are there routes within the City of Largo that requires an offline mode?
+Answer:
+No
+Question:
+Will you need to capture any type of inventory?
+Answer:
+No
+Question:
+Are drivers assigned a crew, or do they work independently?
+Answer:
+We have 1-3 man crew and 1-two man all other drivers work independently.

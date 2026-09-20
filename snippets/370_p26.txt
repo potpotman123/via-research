@@ -1,0 +1,137 @@
+# source: raw/bleecker_drive/Metropolitan Council/Microtransit-Solutions _Peer-Case-Studies-Report.pdf
+# path: raw/bleecker_drive/Metropolitan Council/Microtransit-Solutions _Peer-Case-Studies-Report.pdf
+# hit page: 26 of 68
+# terms: Spare Labs
+
+=== page 25 ===
+CASE STUDIES 
+ 
+October 24, 2024 ■ PEER MICROTRANSIT CASE STUDIES REPORT 
+24 
+Service Model 
+Hybrid 
+◼ Technology provider: RideCo 
+◼ Vehicle provider: First Transit 
+◼ Driver provider: First Transit 
+Scheduling 
+◼ Booking method: Mobile application and call center 
+◼ Advance scheduling: Up to 30 days in advance 
+◼ Target wait time: 15 minutes 
+Fleet 
+◼ Fleet size: Not available 
+◼ Vehicle types: Minibuses 
+◼ ADA accommodations: All vehicles are ADA accessible and have bicycle racks 
+IMPLEMENTATION METHOD 
+Funding Sources 
+◼ Plymouth Metrolink’s operating 
+budget, 2019 - Present 
+Marketing and Education 
+Led by: City of Plymouth, MN 
+◼ Vehicle (Plymouth Metrolink Click-
+and-Ride-wrapped) 
+◼ News articles (Minnesota 
+Reformer, CCX Media) 
+ 
+Source: CCX Media
+=== page 26 ===
+CASE STUDIES 
+ 
+October 24, 2024 ■ PEER MICROTRANSIT CASE STUDIES REPORT 
+25 
+SOUTHWEST PRIME 
+SouthWest Transit 
+Service Objective – Expand transit connections and mobility options. Investigate ridership potential in 
+new areas.  
+AGENCY SERVICE AREA 
+◼ Size: 81 square miles 
+◼ Area type: Suburban, metropolitan, small town 
+◼ Population: 118,588 people 
+◼ Population density: 1,464 people per square 
+mile 
+MICROTRANSIT SERVICE 
+CHARACTERISTICS 
+General Information 
+◼ Status: Operational 
+◼ Service type: Curb-to-curb, Curb-to-hub 
+◼ Number of zones: 1 
+◼ Size: Not available 
+◼ Dates in service: July 2015 – Present 
+◼ Service hours: 5:30 am to 7:00 pm from Monday to Friday, 6:00 am to 5:30 pm on Saturdays 
+◼ Microtransit fare structure: 
+ Regular fare: $5.00 
+ 65+: $5:00 (Mondays 9:00 am to 3:00 pm are 
+$2.50) 
+ 6-12: $5.00 
+ <5: Free 
+ People with low income: $2.50 (TAP card) 
+ People who are disabled veterans: Free 
+ Other: SW Prime Edge, SW Prime Essential, 
+SW Prime MSP Airport Service, and SW 
+Prime MD (separate microtransit fare 
+structure due to select location) 
+◼ Fixed-route fare structure*: 
+ Regular Fare: $2.50 
+ Rush Hour Fare: $3.25 
+ 65+: $1.00 (rush hour: $3.25) 
+ 6-12: $1.00 (rush hour: $3.25) 
+ <5: Free 
+ People with disabilities: $1.00 
+ People who are disabled veterans: Free 
+*Only considers local fixed-route service 
+◼ Transfer policy: Yes, free for transit card users 
+◼ Payment options: Cash, credit card, transit card, mobile application 
+◼ Connections (transit and points of interest):  
+ SouthWest Transit fixed-route service— connects to Downtown Minneapolis though bus stops 
+and light rail transit stations in the Eden Prairie area  
+ Connects directly to local community assets like the Mall of America, Minneapolis Saint Paul 
+(MSP) International Airport, grocery stores, and medical operators (these are under the special 
+SW Prime programs) 
+Service Model 
+Hybrid 
+◼ Technology provider: Spare Labs 
+◼ Vehicle provider: Transdev, May Mobility, Lyft (depends on specific SW Prime service) 
+◼ Driver provider: Transdev, May Mobility, Lyft (depends on specific SW Prime service) 
+Source: SouthWest Transit
+=== page 27 ===
+CASE STUDIES 
+ 
+October 24, 2024 ■ PEER MICROTRANSIT CASE STUDIES REPORT 
+26 
+Scheduling 
+◼ Booking method: Mobile application and call center 
+◼ Advance scheduling: None listed but available 
+◼ Target wait time: 20 to 25 minutes 
+Fleet 
+◼ Fleet size: 33  
+◼ Vehicle types: Passenger vans and SUVs (small portion of fleet electric) 
+◼ ADA accommodations: Available upon request 
+IMPLEMENTATION METHOD 
+Partnerships 
+◼ MSP International Airport partnered with SouthWest Transit 
+to provide employees and residents discounted microtransit 
+fares  
+◼ Mall of America and businesses in the I-494 corridor 
+partnered with SouthWest Transit to be the recipients of the 
+SW Prime Edge microtransit service to identify pick-up/drop-
+off locations 
+◼ Grocery stores (Cub Foods, Lunds & Byerlys, Target, Wal-Mart, 
+Aldi, Costco, Coopers, Kolwalski’s, CVS, Walgreens) in the service area partnered with SouthWest 
+Transit to be the recipients of the SW Prime Essential microtransit service and to provide 
+discounted microtransit fares ($2.50) 
+◼ Medical institutions in the service area partnered with SouthWest Transit to be the recipients of the 
+SW Prime MD microtransit service and to provide fully subsidizied microtransit fares for select 
+trips. 
+◼ Lyft, a rideshare company, partnered with SouthWest Transit to provide its optional rideshare 
+service for the SW Prime MSP Airport or SW Prime Edge service area 
+◼ May Mobility, an autonomous driving vehicle technology provider, partnered with SouthWest Transit 
+to provide autonomous vehicles in the Eden Prairie area 
+Funding Sources 
+◼ SouthWest Transit’s operating budget, 2015 – Present 
+Marketing and Education 
+Led by: SouthWest Transit 
+◼ Vehicle (SouthWest Prime-wrapped) 
+◼ News articles (Minnesota Reformer, MassTransitMag, Eden Prairie Local News, Star Tribune) 
+ 
+ 
+ 
+Source: SouthWest Transit

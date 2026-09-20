@@ -1,0 +1,391 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/The Metropolitan Government of Nashville and Davidson County/2025_1155_Contract.pdf
+# pages_total: 70; hit_pages: [1, 2, 13, 40, 41, 42, 45, 49, 52, 53, 54, 55, 67]; included: [1, 2, 40, 42]
+# context: Bleecker Drive folder: The Metropolitan Government of Nashville and Davidson County
+
+=== page 1 of 70 ===
+Contract Abstract 
+Revised 11/27/2022
+(select/check 
+if applicable)
+Contract Information 
+Contract & Solicitation Title: Remix: Streets Software  
+Contract Summary: CONTRACTOR agrees to provide Remix: Streets Software using the pricing shown in  
+Exhibit A (Pricing).  
+Contract Number: 6577813   Solicitation Number: Sole Source   Requisition Number: SS2024153  
+Replaces Expiring or Expired Contract? (Enter “No” or Contract No and Expiration Date): No
+Type of Contract/PO: Multi-Year Contract  Requires Council Legislation: Yes    
+High Risk Contract (Per Finance Department Contract Risk Management Policy): No  
+Sexual Harassment Training Required (per BL2018-1281): Yes    
+Estimated Start Date: ϰͬϯ/202ϱ Estimated Expiration Date: ϰͬϮͬϮϬϮϴ  Contract Term: 36 Months
+Estimated Contract Life Value: $266,500.00   Fund:* 30003   BU:* 42201000  
+(*Depending on contract terms, actual expenses may hit across various departmental BUs and Funds at PO Levels) 
+Payment Terms: Net 30 Selection Method: Sole Source 
+Procurement Staff: Daniel Drumwright BAO Staff: Christopher Wood 
+Procuring Department: NDOT Department(s) Served: NDOT  
+Prime Contractor Information 
+Prime Contracting Firm: Remix Technologies, LLC 
+ISN#: 1021564
+Address: 114 5th Avenue, Fl 17   City: New York   State: NY  Zip: 10011  
+Prime Contractor is a Uncertified/Unapproved:  SBE 
+ SDV 
+ MBE 
+ WBE 
+ LGBTBE 
+Prime Company Contact: ůǇƐƐĂKǀĞƌŚĞƵů Email Address: ĂůǇƐƐĂ͘ŽǀĞƌŚĞƵůΛƌŝĚĞǁŝƚŚǀŝĂ͘ĐŽŵ  Phone #: 862-222-
+6438  
+Prime Contractor Signatory: Dillon Twombly  Email Address: dillon@ridewithvia.com 
+Business Participation for Entire Contract 
+Small Business and Service Disabled Veteran Business Program: N/A  
+        Amount: -                                Percent, if applicable: -  
+Equal Business Opportunity (EBO) Program: Program Not Applicable 
+MBE Amount: -                      MBE Percent, if applicable: -  
+WBE Amount: -                      WBE Percent, if applicable: -  
+Federal Disadvantaged Business Enterprise: No   
+ Amount: -                                Percent, if applicable: -  
+Note: Amounts and/or percentages are not exclusive. 
+B2GNow (Contract Compliance Monitoring): No
+Summary of Offer 
+Offeror Name 
+  MBE WBE SBE   SDV  LGBTBE  Score  Evaluated Cost 
+ Result 
+ (check as applicable) 
+  (RFP Only) 
+Remix Technologies, LLC  
+ Approved Sole Source Form
+ Select from the Following:
+ Select from the Following:
+	
+		
+
+	
+	
+
+=== page 2 of 70 ===
+Contract Purchase Agreement 6577813 
+ 
+Document # K5000 Rev C 
+ 
+1 
+ 
+Terms and Conditions 
+ 
+ 
+1. GOODS AND SERVICES CONTRACT 
+ 
+1.1. Heading 
+ 
+This contract is initiated by and between The Metropolitan Government of Nashville and Davidson County 
+("METRO") and Remix Technologies, LLC ("CONTRACTOR") located at 114 5th Avenue, Fl 17 New York, NY 
+10011. This Contract consists of the following documents: 
+• 
+Any properly executed contract amendment (most recent with first priority), 
+• 
+This document, including exhibits, 
+●      Exhibit A – (Pricing)  
+●      Exhibit B – (Scope of Services) 
+●      Exhibit C – (MISA Terms and Conditions) 
+• 
+The Sole Source documentation for this agreement and affidavit(s)   (all made a part of this contract by 
+reference), 
+• 
+Purchase Orders (and PO Changes), 
+• 
+CONTRACTOR's response to the solicitation, 
+In the event of conflicting provisions, all documents shall be construed in the order listed above. 
+ 
+2. THE PARTIES HEREBY AGREE TO THE FOLLOWING TERMS AND CONDITIONS: 
+ 
+2.1. Duties and Responsibilities 
+ 
+CONTRACTOR agrees to provide Remix: Streets Software as fully defined in the solicitation and as outlined in 
+Exhibit B – Scope of Services. 
+ 
+2.2. Delivery and/or Installation. 
+ 
+All deliveries (if provided by the performance of this Contract) are F.O.B. Destination, Prepaid by Supplier, Inside 
+Delivery, as defined by METRO. METRO assumes no liability for any goods delivered without a purchase order. All 
+deliveries shall be made as defined in the solicitation or purchase order and by the date specified on the purchase 
+order. Installation, if required by the solicitation and/or purchase order shall be completed by the date specified on the 
+purchase order. 
+ 
+3. CONTRACT TERM 
+ 
+3.1. Contract Term 
+ 
+The Contract Term will begin on the date (the “Effective Date”) this Contract is approved by all required parties and 
+filed in the Metropolitan Clerk's Office. This Contract Term will end (36) months from the Effective Date. In no event 
+shall the term of this Contract exceed thirty-six (36) months from the Effective Date. This Contract may be extended by 
+Contract Amendment. The option to extend may be exercised by and at the discretion of the Purchasing Agent.  
+However, in no event shall the term of this Contract exceed sixty (60) months from the Effective Date. 
+ 
+4. COMPENSATION 
+ 
+4.1. Contract Value 
+ 
+This Contract has an estimated value of $266,500.00. The pricing details are included in Exhibit A and are made a 
+part of this Contract by reference. CONTRACTOR shall be paid annually in advance, within thirty (30) days from 
+METRO's receipt of invoice from CONTRACTOR. 
+	
+		
+
+
+=== page 40 of 70 ===
+ANY PROPRIETOR/PARTNER/EXECUTIVE
+OFFICER/MEMBER EXCLUDED?
+INSR
+ADDL SUBR
+LTR
+INSD WVD
+DATE (MM/DD/YYYY)
+PRODUCER
+CONTACT
+NAME:
+FAX
+PHONE
+(A/C, No):
+(A/C, No, Ext):
+E-MAIL
+ADDRESS:
+INSURER A :
+INSURED
+INSURER B :
+INSURER C :
+INSURER D :
+INSURER E :
+INSURER F :
+POLICY NUMBER
+POLICY EFF
+POLICY EXP
+TYPE OF INSURANCE
+LIMITS
+(MM/DD/YYYY)
+(MM/DD/YYYY)
+AUTOMOBILE LIABILITY
+UMBRELLA LIAB
+EXCESS LIAB
+WORKERS COMPENSATION
+AND EMPLOYERS' LIABILITY
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES  (ACORD 101, Additional Remarks Schedule, may be attached if more space is required)
+AUTHORIZED REPRESENTATIVE
+EACH OCCURRENCE
+$
+DAMAGE TO RENTED
+CLAIMS-MADE
+OCCUR
+$
+PREMISES (Ea occurrence)
+MED EXP (Any one person)
+$
+PERSONAL & ADV INJURY
+$
+GEN'L AGGREGATE LIMIT APPLIES PER:
+GENERAL AGGREGATE
+$
+PRO-
+POLICY
+LOC
+PRODUCTS - COMP/OP AGG
+$
+JECT
+OTHER:
+$
+COMBINED SINGLE LIMIT
+$
+(Ea accident)
+ANY AUTO
+BODILY INJURY (Per person)
+$
+OWNED
+SCHEDULED
+BODILY INJURY (Per accident)
+$
+AUTOS ONLY
+AUTOS
+HIRED
+NON-OWNED
+PROPERTY DAMAGE
+$
+AUTOS ONLY
+AUTOS ONLY
+(Per accident)
+$
+OCCUR
+EACH OCCURRENCE
+$
+CLAIMS-MADE
+AGGREGATE
+$
+DED
+RETENTION $
+$
+PER
+OTH-
+STATUTE
+ER
+E.L. EACH ACCIDENT
+$
+E.L. DISEASE - EA EMPLOYEE $
+If yes, describe under
+E.L. DISEASE - POLICY LIMIT
+$
+DESCRIPTION OF OPERATIONS below
+INSURER(S) AFFORDING COVERAGE
+NAIC #
+COMMERCIAL GENERAL LIABILITY
+Y / N
+N / A
+(Mandatory in NH)
+SHOULD ANY OF THE ABOVE DESCRIBED POLICIES BE CANCELLED BEFORE
+THE EXPIRATION DATE THEREOF, NOTICE WILL BE DELIVERED IN
+ACCORDANCE WITH THE POLICY PROVISIONS.
+THIS IS TO CERTIFY THAT THE POLICIES OF INSURANCE LISTED BELOW HAVE BEEN ISSUED TO THE INSURED NAMED ABOVE FOR THE POLICY PERIOD
+INDICATED.  NOTWITHSTANDING ANY REQUIREMENT, TERM OR CONDITION OF ANY CONTRACT OR OTHER DOCUMENT WITH RESPECT TO WHICH THIS
+CERTIFICATE MAY BE ISSUED OR MAY PERTAIN, THE INSURANCE AFFORDED BY THE POLICIES DESCRIBED HEREIN IS SUBJECT TO ALL THE TERMS,
+EXCLUSIONS AND CONDITIONS OF SUCH POLICIES. LIMITS SHOWN MAY HAVE BEEN REDUCED BY PAID CLAIMS.
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE CERTIFICATE HOLDER. THIS
+CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR ALTER THE COVERAGE AFFORDED BY THE POLICIES
+BELOW.  THIS CERTIFICATE OF INSURANCE DOES NOT CONSTITUTE A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED
+REPRESENTATIVE OR PRODUCER, AND THE CERTIFICATE HOLDER.
+IMPORTANT:  If the certificate holder is an ADDITIONAL INSURED, the policy(ies) must have ADDITIONAL INSURED provisions or be endorsed.
+If SUBROGATION IS WAIVED, subject to the terms and conditions of the policy, certain policies may require an endorsement.  A statement on
+this certificate does not confer rights to the certificate holder in lieu of such endorsement(s).
+COVERAGES
+CERTIFICATE NUMBER:
+REVISION NUMBER:
+CERTIFICATE HOLDER
+CANCELLATION
+© 1988-2015 ACORD CORPORATION.  All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+Lockton Insurance Brokers, LLC
+CA License #0714705
+900 E. Hamilton Ave., Ste. 100
+Campbell CA 95008
+Remix Technologies, LLC
+114 5th Avenue, Floor 17
+New York, NY 10011
+Lloyd's of London
+Pacific Insurance Company, Ltd.
+10046
+X
+X
+ 1,000,000
+100,000
+5,000
+ 1,000,000
+ 10,000,000
+ 10,000,000
+XXXXXXX
+XXXXXXX
+XXXXXXX
+XXXXXXX
+XXXXXXX
+X
+X
+6,000,000
+6,000,000
+XXXXXXX
+XXXXXXX
+XXXXXXX
+XXXXXXX
+A
+57 YR3 OH8428
+11/1/2024
+11/1/2025
+B
+B1881S240791
+11/1/2024
+11/1/2025
+NOT APPLICABLE
+NOT APPLICABLE
+11/1/2025
+1546320
+N
+N
+N
+N
+1/28/2025
+21341130
+21341130
+XXXXXXX
+Metropolitan Government of Nashville
+& Davidson County
+Metro Courthouse
+Nashville TN 37201
+SaaS contract
+X
+ESENTATIVE
+© 1988-201
+01
+01
+01
+015 
+5 ACORD CORPOR
+OR
+OR
+OR
+OR
+OR
+O ATION.  Al
+0HWURSROLWDQ*RYHUQPHQWRI1DVKYLOOHDQG'DYLGVRQ&RXQW\LWVRIILFLDOVRIILFHUVHPSOR\HHVDQGYROXQWHHUVDUHQDPHGDVDGGLWLRQDOLQVXUHGVSHUJHQHUDOOLDELOLW\DGGLWLRQDO
+LQVXUHGHQGRUVHPHQWDQGDXWRPRELOHOLDELOLW\DGGLWLRQDOLQVXUHGHQGRUVHPHQW
+&RQWUDFW1XPEHU
+	
+		
+
+
+=== page 42 of 70 ===
+Docusign Envelope ID: FB67CC8E-A5D2-4D73-ADD1-FC7AE1463C8E
+METROPOLITAN GOVERNMENT OF NASHVILLE AND DAVIDSON COUNTY
+DEPARTMENT OF FINANCE - PROCUREMENT
+SOLE SOURCE JUSTIFICATION FORM
+DIVISION OF PURCHASI
+SS2024153
+SS #:
+Date Received: June 25, 2024
+Send an email to PRG@nashville.gov and attach completed sole source form and supporting documentation.
+Proposed supplier MUST be Registered in Procurement
+Date: 6/25/2024 Requesting Department/Agency/Commission: Department of Transportation & Multimodal Infrastructure
+Requesting Official: Justin Cole Telephone #: 615-880-1661
+This is for a multi-year contract.
+Product/Service Description: Remix:Streets Software
+Total Purchase (Enter the value for the entire contract life) Price: $266,500
+BU Number: 42201000
+Fund #: 30003
+Object Account: 503120 Any Other Accounting Info: R181123
+Proposed Supplier: Via Transportation
+Supplier Address: 114 5th Ave 17th Floor
+Supplier Telephone #: 1-845-521-5836
+Proposed Supplier Contact: Joshua Panter
+City: New York
+ST: NY
+Supplier Email: joshua.panter@ridewithvia.com
+Zip: 10011
+Metro Code: 4.12.060 Sole Source Procurement.
+A contract may be awarded for a supply, service or construction item without competition when, under regulations
+promulgated by the standards board, the purchasing agent determines in writing that there is only one source for the required
+supply, service or construction item. The standards board may, by regulation, establish specific categories of supplies,
+services, or construction items as sole source items. (Ord. 92-210 § 1 (3-205), 1992)
+R4.12.060.02 Conditions for Use of Sole Source Procurement.
+Other, see explanation below
+If Other, Explain Request: Remix: Streets is the only transportaion planning software product that allows for data analysis,
+development of street design concepts, and collaboration between internal and external stakeholders on those concepts
+in one software product. NDOT intends to use this product for the development of plans for bikeways, tactical
+urbanism/quick build projects, transit priority improvements, and other complete street projects. The unique data analysis
+and visualization features included allow use of out-of-the-box data layers and custom layers uploaded by users. The
+analysis and visualizations can then immediately be leveraged for street designs within the same software platform. The
+unique features for developing design concepts include a drag-and-drop interface for placing and designing street
+elements over basemaps that auto-populate with existing conditions. The collaborative nature of the platform is also
+unique, allowing unlimited users in the agency to work together on projects and offering the ability to share projects
+externally. The external sharing allows stakeholders and community members an accessible and interactive way to view
+street plans, not available with other software. There is also a built-in commenting function to collect feedback from the
+public directly within the interactive platform. All of these unique features are needed for NDOT staff to be able to quickly
+generate data-driven concepts for street improvements and to share those concepts internally and externally. There is no
+alternative software solution that provides all the capabilities listed here, allowing for start-to-finish development of street
+design concepts built on data analysis and community engagement. Using separate software products to access some of
+the above capabilities would require development of complicated methods to combine outputs from separate software
+products that would be an inefficient and ineffective use of agency resources and would still not provide all the features
+included with Remix:Streets. More detailed documentation of the unique features is attached.
+Rev 08/05/2021

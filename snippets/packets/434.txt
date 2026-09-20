@@ -1,0 +1,135 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Springfield Ohio/Via_Springfield - Transportation as a Service_MSA.pdf
+# pages_total: 23; hit_pages: [1, 8, 9, 10, 13, 14, 18, 22]; included: [1, 13, 14]
+# context: Bleecker Drive folder: Springfield Ohio
+
+=== page 1 of 23 ===
+EXHIBIT
+1
+MASTER TERMS AND CONDITIONS FOR TRANSIT AS A
+SERVICE
+THESE MASTER TERMS AND CONDITIONS FOR VIA TRANSIT AS A SERVICE (these "Terms anc
+conditions" or this "Agreement") are entered into as of the effective date designated on the signature
+terms have the meaning given to them in Section 14 or in the Section in which they first appear.
+1. BACKGROUND AND PURPOSE.
+co pride steersices of chird pay serice prowes be intigate puser or prating ansporaten
+networks (collectively, the "Services").
+Purpose: Ordering. The purpose of these Terms and Conditions is to provide a framework under
+which Service Provider will provide to Customer the Services. These Terms and Conditions shall govern
+the provision of Services by Service Provider to Customer as described in the service order attached hereto
+and any other service order signed by Service Provider and Customer (each, an "Order").
+2. THE SERVICES.
+2.1
+The Services.
+The Services. Pursuant to one or more Orders, the parties intend that Service Provider
+shall provide the Services described in
+such Order. In some cases, Services will require a more
+comprehensive description than that contained in the applicable Order. If that is the case, the parties will
+enter into a mutually agreed statement of work and attach it to the applicable Order (each, a "Statement
+of Work" or "SOW"). Each Order or SOW, as needed, will set forth the particulars of the Services for each
+city or locality in which Customer intends to operate the Via Solution in connection with the Service. as
+specified in the Order.
+Additional Services. From time-to-time Customer may desire to engage Service Provider
+to perform additional services, such as development of product features and/or services directly related to
+the Via Solution which fall outside the scope of the Services. In such cases, the parties will negotiate toward
+potential execution of such SOWs as are jointly determined to be appropriate. All such services described
+in this Section 2.1(b) are referred to collectively as, the "Additional Services". The Parties shall agree
+upon a blended hourly rate for Service Provider to bill Customer for performing such Additional Services
+under the relevant SOW. Service Provider shall consider proposals for such Additional Services in good
+faith but is under no obligation to perform the Additional Services if an SOW cannot be agreed upon with
+General Terms. All references to
+Orders include their SOWs. Service Provider shall
+provide the Services to the Customer in accordance with the relevant Order beginning on the Effective Date
+and continuing throughout the Term, in accordance with the terms of this Agreement. The Services to be
+delivered to the Customer are set forth in the relevant Order as may be amended through written agreement
+between Service Provider and the Customer from time to time during the Term. All Services to be performed
+by Service Provider shall be in accordance with the applicable Order executed by Service Provider and the
+Customer and Service Provider's obligations under Section 9.1 (Regulatory Compliance). Service
+Provider's provision of the Services requires such reasonable and timely cooperation as Service Provider
+may require of the Customer, including access to the Customer's information, personnel, and/or systems,
+and Service Provider shall not be responsible for any failures or delays caused by the Customer's failure
+to so cooperate or any inaccurate information provided by or on behalf of the Customer. Unless an Order
+has different acceptance terms, Customer will accept the Services and any resulting deliverables upon
+payment or fifteen (15) days after their performance, whichever occurs first, and may not withhold,
+• Page 1 of 9
+
+=== page 13 of 23 ===
+The Annual Operation Cost for each year above assume 27,581 annual revenue hours. Should
+the number of revenue hours exceed 27,581, the marginal cost per revenue hour for added
+service options is outlined in the table above.
+Customer will be billed for the above fees as described below. Fees assume Launch Date occurs
+within six months of contract signing. River North Customer shall pay the following fees to River
+North:
+Fixed (Upfront) Costs
+Customer shall pay to River North a non-refundable installation fee of $239,120, which will be
+payable in full upon signing of this Order. In addition to technology localization costs, installation
+fee includes 7 rear-entry WAV retrofits at a cost of $22,000 each, 16 vehicle wraps at a cost of
+$3,000 each, and 16 in-vehicle fareboxes at a cost of $1,070 each, which will be treated as a
+pass-through. Should Customer require additional WAV retrofits or vehicle wraps, River North will
+bill Customer as incurred as a pass-through.
+Ongoing Invoice Fees
+Customer shall be responsible for monthly Variable Fee per Revenue Hour in the table above
+(the "Monthly Subscription Fees"). A revenue hour is defined as each hour during which a driver
+is paid on the Via platform. All fees set forth herein shall be payable by Customer on a net thirty
+basis. River North
+River North will provide Customer with an invoice statement showing the calculation of the
+Monthly Subscription Fees incurred based on the actual number of revenue hours that Driver
+Partners performed during that month in the form attached hereto as Exhibit A. The Customer
+hereby agrees that the sample invoice form set forth on Exhibit A is satisfactory to Customer, both
+in substance and format, and sufficient to process invoicing such that questions regarding invoice
+or invoice support format will not delay payment to River North. If Customer requires additional
+invoice support, River North can use best efforts to provide it, and additional costs of $1,500 per
+custom request will apply.
+Should changes in applicable federal, state or local law result in a significant change in River
+North's costs, River North or Customer may opt to renegotiate the ongoing monthly fees. Should
+changes in applicable market dynamics result in an increase in River North's cost per hour of 10%
+or more to any of the following categories, compared to costs at the time of contract signing, River
+North may propose an amendment to the ongoing on-demand revenue hour rate accordingly,
+subject to written approval by the Customer, which shall not be unreasonably withheld. Any such
+proposed rate adjustment shall occur no more than once annually and must include supporting
+documentation of the relevant cost increases. The Customer shall have thirty (30) days to review,
+validate, or dispute such adjustment prior to implementation for the following line items:
+• Labor (driver pay)
+• Vehicle rental
+• Fuel
+
+=== page 14 of 23 ===
+Should River North elect to adjust the per revenue hour rate, supporting documentation of the
+relevant cost increases will be provided to Customer, and the contract will be amended to reflect
+the new Fee structure and per revenue hour rate so that, at the discretion of the Customer, either:
+1. The total not-to-exceed contract value is adjusted such that the total not-to-exceed number
+of revenue hours remains unchanged, or
+2. The total not-to-exceed number of revenue hours is adjusted such that the total not-to-
+exceed contract value remains unchanged.
+Fare Revenue
+Service Fare revenue collected (net of processing fees), will be reflected as a credit on the
+Customer's invoice.
+4. Service Parameters
+River North will provide access to a platform service (the "Platform") through which Riders will be
+able to book and pay for rides on a shared and on-demand basis; and dedicated vehicles will be
+offered by the Vehicle Provider to Driver Partners on a rental basis.
+• Geographic Coverage Zone: Approximately 25 square miles coverage zone in
+Springfield, Ohio.
+• Service Days/Hours: To be determined during planning and design phase and agreed
+upon by both parties
+• Rider Fare: The rider fare will be determined during planning and design phase and
+agreed upon by both parties. During the duration of the Service, rider fare may be
+amended by mutual agreement between Customer and River North which may require
+Commission approval.
+• Payment: River North will ensure acceptance of Rider payment through the app via credit
+cards, cash and pre-paid debit cards.
+• Vehicle Fleet: The Vehicle Provider will offer a fleet of up to 16 branded, licensed and
+insured vehicles, including 7 Wheelchair Accessible Vehicles (WAV) to be made available
+to independent contractor Driver Partners, who will be able to gain access to these
+vehicles after being registered onto the Platform. Three vehicles within the fleet will be
+treated as spare vehicles. If the branded vehicle fleet is not sufficient to meet service
+requirements for any reason, River North has the flexibility to (1) supplement the fleet with
+a temporary fleet that would include other makes and models, and/or (2) allow for Driver
+Partners to drive their own personal vehicles, to be deployed for temporary short term
+periods, with prior written approval from the Customer on acceptable vehicle
+specifications, including safety standards, insurance coverage, and branding
+requirements. River North shall provide documentation verifying compliance with these
+requirements for each such vehicle prior to deployment..
+• Parking: Parties shall mutually agree to lease terms for the facility located at 100 W
+Jefferson St, Springfield, OH 45506. Terms shall be specified in a separate Facility Lease
+Agreement.

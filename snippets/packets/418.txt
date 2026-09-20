@@ -1,0 +1,220 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Utah Transit Authority/Change Order On Demand Technologies Master Service Agreement Service Order No. 1 Amendment No. 4 - SLC Westside Contract ExtentionExtension (River North Transit LLC Via).pdf
+# pages_total: 4; hit_pages: [1, 2, 3, 4]; included: [1, 2, 3, 4]
+# context: Bleecker Drive folder: Utah Transit Authority
+
+=== page 1 of 4 ===
+Amendment No. 4 UTA Contract No. 20-03399-1-4 &RQILGHQWLDO෬3DJH1 of 4 
+ 
+ 
+AMENDMENT NO. 4 TO 
+SERVICE ORDER NO. 1 UNDER THE  
+ON-DEMAND TECHNOLOGIES AND INNOVATIVE MOBILITY SERVICES  
+MASTER SERVICES AGREEMENT 
+UTA Contract No. 20-03399-1-4 
+ 
+ 
+ 
+1. Amendment 
+ 
+On September 30, 2021, each of River North Transit, LLC (“Via”) and the Utah Transit Authority 
+(“UTA” or “Customer”), hereinafter collectively referred to as the “Parties,” entered into Service 
+Order No. 1 (as amended, the “Service Order”) under UTA Contract No. 20-03399 (the “MSA”) 
+to establish and on-demand transit deployment (“Deployment”) in the westside of Salt Lake City, 
+Utah.  
+ 
+By Amendment No. 1, the Parties agreed to upfit all wheelchair accessible vehicles with “side 
+entry” ramp access for the Deployment.  
+ 
+By Amendment No. 2, the Parties agreed to install bike racks on all vehicles for the Deployment.  
+ 
+By Amendment No. 3, the Parties agreed to extend the term of the Service Order and adjust the 
+fee schedule therein. 
+ 
+By this Amendment No. 4, the Parties agree to further amend the Service Order as follows: 
+ 
+ 
+a) Extension. The Parties hereby agree to extend the duration of the Deployment under 
+the Service Order beyond its original duration effective July 1, 2024 through December 
+31, 2026.  
+ 
+b) Section 3. Fees shall be deleted entirely and replaced with: 
+3.1 Fees 
+The table below outlines the payment structure, in which UTA would be charged a 
+price per driver hour. Any new regulatory fees imposed by a governmental entity 
+related to the service will be charged as a pass-through cost contingent on UTA 
+advance agreement provided such agreement will not be unreasonably withheld. 
+UTA will have the option of decreasing other services or expenses in order to off-
+set these additional fees. The Deployment shall include a fleet of vehicles as 
+described in Section 4, Service Parameters, subject to extension by mutual 
+agreement of the parties on terms to be agreed (including any change in fees).   
+ 
+		
+		
+
+=== page 2 of 4 ===
+Amendment No. 4 UTA Contract No. 20-03399-1-4 &RQILGHQWLDO෬3DJH2 of 4 
+ 
+ 
+The values in the table above are Not-to-Exceed (NTE) amounts and are subject to 
+downward adjustment based on actual revenue hours achieved. 
+ 
+UTA will be billed for the above fees as described below. Driver hours will be 
+billed as incurred at the end of each month. UTA shall pay the following fees to 
+Via: 
+ 
+Ongoing Invoice Fees 
+UTA shall pay the following fees to be invoiced monthly by Via on or around the 
+15th of each month, starting upon launch of the Deployment: 
+Month 1-12: $68.33 per driver hour in ongoing project costs, to include driver 
+partner pay, vehicle rental and wheelchair-accessible vehicle (WAV) costs, live 
+customer support, twice weekly cleaning and project operations. This amount will 
+be increased to $69.70 in months 13-24 and $71.10 in months 25-30 
+ 
+These fees are exclusive of fuel. Via will also invoice UTA for fuel on a pass-
+through basis (i.e., Via’s reasonable, actual, direct, out of pocket cost, including 
+any reductions for volume discounts, credit, refunds and rebates) billed monthly. 
+ 
+Should changes in applicable federal, state, local law result in a significant change 
+in Via’s costs, either an increase or decrease, Via or UTA may opt to renegotiate 
+the ongoing on-demand service hour fees or level of service obtained. 
+ 
+3.2 Fare Revenue 
+UTA shall maintain its partner Braintree account throughout the Deployment and 
+shall collect and own all revenue from service fares (“farebox revenue”), net of 
+Braintree service fees, in the account. 
+ 
+3.3 Marketing Fees 
+Via will separately invoice UTA for marketing expenses incurred and as authorized 
+by UTA under Section 8 of this Service Order. Via will charge its standard labor 
+rate of $150.00 per hour for internal marketing labor cost. All other marketing 
+expenses will be passed through at cost. The total combined marketing expenses 
+incurred by Via and UTA shall not exceed $100,000. This amount is not included 
+in the pricing table shown above. 
+		
+		
+
+=== page 3 of 4 ===
+Amendment No. 4 UTA Contract No. 20-03399-1-4 &RQILGHQWLDO෬3DJH3 of 4 
+ 
+ 
+3.4 Compensation 
+The not-to-exceed (NTE) total compensation for performance for the duration of 
+Amendment No. 4, excluding marketing fees outlined in Section 3.3, is $7,290,360. 
+These NTE amounts include, but are not limited to, service expenses for WAV 
+retrofits, bike racks, vehicle wrapping, driver pay, vehicle rental fees, live customer 
+support, project operations, rider acquisition, technology, dedicated IT operations, 
+vehicle cleaning, and marketing expenses. Annual expenses and NTEs are subject 
+to downward adjustment based on actual revenue hours achieved.   
+ 
+ 
+ 
+ 
+2. Terms 
+ 
+This Amendment No. 4 shall be effective immediately as of July 1, 2024. 
+ 
+All terms and conditions contained in the MSA and the Service Order are also applicable to this 
+Amendment No. 4.  If a term contained in this Amendment No. 4 is in conflict with the general 
+terms of the MSA or the Service Order, the specific term in this Amendment No. 4 shall take 
+precedence. The MSA and Service Order, as well as all amendments and addendums thereto, 
+remain in full force and effect as supplemented by this Amendment No. 4. 
+ 
+This document contains business information which Via claims to be confidential and will be 
+protected from release or disclosure to the full extent permitted by applicable laws (including, 
+without limitation, the Utah Government Records Access and Management Act, UCA 63G-2-101. 
+Et. Seq.) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+		
+		
+
+=== page 4 of 4 ===
+Amendment No. 4 UTA Contract No. 20-03399-1-4 &RQILGHQWLDO෬3DJH4 of 4 
+ 
+IN WITNESS WHEREOF, the Parties hereto have caused this Amendment No. 4 to be executed 
+in duplicate as of the date first herein written. 
+ 
+RIVER NORTH TRANSIT LLC 
+UTAH TRANSIT AUTHORITY 
+ 
+________________________________ 
+Alex Lavoie 
+Manager or River North Transit LLC 
+ 
+________________________________ 
+Date:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________________________ 
+Jay Fox 
+Executive Director 
+ 
+________________________________ 
+Date: 
+ 
+________________________________ 
+Nichol Bourdeaux  
+Chief Planning and Engagement Officer 
+ 
+________________________________ 
+Date: 
+ 
+________________________________ 
+Hal Johnson 
+Acting IMS Director 
+ 
+________________________________ 
+Date: 
+ 
+________________________________ 
+Recommending 
+Shaina Quinn, Program Manager 
+ 
+________________________________ 
+Date: 
+ 
+________________________________ 
+Mike Bell 
+Assistant Attorney General 
+UTA Counsel 
+ 
+________________________________ 
+Date: 
+ 
+ 
+ 
+ 
+ 
+ 
+		
+		
+
+

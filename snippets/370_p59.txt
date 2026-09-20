@@ -1,0 +1,118 @@
+# source: raw/bleecker_drive/Metropolitan Council/Microtransit-Solutions _Peer-Case-Studies-Report.pdf
+# path: raw/bleecker_drive/Metropolitan Council/Microtransit-Solutions _Peer-Case-Studies-Report.pdf
+# hit page: 59 of 68
+# terms: Downtowner
+
+=== page 58 ===
+TAKEAWAYS 
+ 
+October 24, 2024 ■ PEER MICROTRANSIT CASE STUDIES REPORT 
+57 
+Performance Monitoring 
+INTRODUCTION 
+During the planning and operating phase of microtransit programs, agencies need to use data and 
+performance metrics to understand what is working well and what adjustments may need to be made 
+to improve the service. Data and performance metrics can differ significantly between microtransit 
+programs due to the service objectives, the expectations of the general stakeholders and funding 
+partners, and the service design. The following section highlights three case studies that relate to 
+performance monitoring. 
+CASE STUDIES 
+MARTA Reach 
+MARTA and Georgia Tech used data to monitor demand and to adjust the zones and service during the 
+MARTA Reach microtransit pilot. Performance monitoring was important to assess potential ties 
+between zone characteristics and performance. Throughout the study, the most important 
+performance indicators for MARTA were:  
+◼ Average wait time 
+◼ Average trip length 
+◼ Average passengers per vehicle per mile 
+◼ Operator productivity 
+◼ Origin-destination data 
+Figure 12: MARTA Reach Destination Data for West Atlanta and Belvedere Zones by Hour of Day 
+ 
+In addition to these metrics, MARTA also conducted customer surveys for the following information:  
+◼ Type and frequency of transit service used  
+◼ Demographics 
+◼ Where they heard about the service 
+Source: MARTA
+=== page 59 ===
+TAKEAWAYS 
+ 
+October 24, 2024 ■ PEER MICROTRANSIT CASE STUDIES REPORT 
+58 
+◼ How they would make the trip without the service 
+◼ Trip purpose 
+◼ Satisfaction level 
+Figure 13: Trip Purpose from MARTA Reach Survey Responses 
+ 
+ 
+Using all the data above, MARTA was able to analyze the effectiveness of the service and how to move 
+forward when launching a permanent microtransit program. For instance, survey and ridership data 
+helped MARTA discover that underperformance in the Gillem Logistics zone, an industrial area with 
+many warehouse and factory jobs, was tied to limited service span. Another practical implication it 
+learned through its performance monitoring was the need for fewer vehicles than the simulation model 
+predicted. On average, MARTA found wait times to be very short, at approximately 8 minutes, because 
+an idling vehicle would pick up riders instead of batching multiple trips together. While this benefits 
+users, it also means higher costs when many vehicles are in operation.  
+ 
+Denver Connector 
+As mentioned earlier, Denver Connector is a microtransit service built on the idea of equity, being a 
+fare-free service. As such, Denver's performance metrics differ from traditional fixed-route metrics. 
+DOTI meets with its technology partner Downtowner every week to discuss recent performance and 
+receives reports on the following performance metrics:  
+◼ Passengers per vehicle revenue hour 
+◼ Percentage of shared rides 
+◼ Wait times 
+◼ Average trip satisfaction ratings 
+◼ Number of Spanish-speaking riders 
+◼ Number of declined rides 
+◼ Number of rides that are more than a minute late 
+MARTA used the extensive data analysis done by Georgia Tech to adapt its service throughout the 
+pilot and are using this analysis as guidance when implementing a permanent microtransit service. 
+Source: MARTA
+=== page 60 ===
+TAKEAWAYS 
+ 
+October 24, 2024 ■ PEER MICROTRANSIT CASE STUDIES REPORT 
+59 
+DOTI believes the optimal wait time for its service is approximately 30 minutes, especially since the 
+program is fare-free. It sees the number of shared rides as one of the most critical considerations for 
+microtransit and a way to measure the utilization of the service. DOTI views metrics like cost per 
+passenger or cost per vehicle as more advantageous for fixed routes and less useful for microtransit. 
+For this reason, DOTI focuses on improving a few metrics rather than focusing on all traditional fixed-
+route metrics.  
+DOTI also targets a Spanish-speaking audience due to the large Spanish-speaking community in the 
+Denver region. They track the number of Spanish-speaking riders to ensure ongoing outreach efforts 
+are fruitful. This outreach includes Spanish-speaking videos and ensuring the application is bilingual in 
+English and Spanish. Using performance metrics to evaluate microtransit success, especially metrics 
+focused on equity, is one way to leverage data successfully. 
+ 
+Metro Transit Micro 
+Metro Transit operates its microtransit service in an urban environment near extensive transit 
+connections. It chose the current microtransit zone based on anticipated high ridership in that location, 
+which would help justify continuing the pilot. Therefore, Metro Transit emphasized more traditional 
+metrics observed in fixed-route services like: 
+◼ Ridership 
+◼ Passengers per hour 
+◼ Average wait time 
+◼ Subsidy per passenger 
+◼ Origin-destination data 
+Metro Transit emphasized these metrics since they expected high usage, specifically to connect to the 
+extensive regional transit system. However, Metro Transit discovered that many microtransit trips were 
+local, with customers opting for direct curb-to-curb service to their final destinations. Grocery stores 
+and medical institutions were the focal points for users.  
+Metro Transit faced challenges with the selected performance metrics, particularly in distinguishing trip 
+purposes. For example, it was difficult to discern whether customers actually transferred to high-
+capacity transit since many high-demand stops, like those near a Walmart, were also close to transit 
+stations. Regardless, ridership met expectations, and Metro Transit plans to expand the service to a 
+less dense area. Metro Transit is currently working to determine the best performance indicators for 
+success in a lower-density area since the service will have fewer potential riders. Metro Transit is 
+communicating with the other four transit agencies in the metropolitan area to understand better 
+indicators of success for more exurban or rural areas. 
+ 
+Denver’s DOTI closely tracks its metrics with its technology provider. It focuses on a few metrics 
+and prioritizes utilization as well as outreach instead of comparing microtransit performance 
+metrics with those of fixed-route transit. 
+Metro Transit originally implemented microtransit service as a first/last mile connection to the high 
+frequency transit network. However, through performance monitoring, it noticed that customers 
+were often using microtransit to connect to necessities. As a result, Metro Transit is looking to 
+expand its microtransit service to less dense areas as well.

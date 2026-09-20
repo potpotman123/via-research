@@ -1,0 +1,154 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Fort Lauderdale/12512817  Transit Planning Platform  Remix  Fully Executed Agreement.pdf
+# pages_total: 31; hit_pages: [1, 14, 20, 26]; included: [1, 14, 20, 26]
+# context: Bleecker Drive folder: Fort Lauderdale
+
+=== page 1 of 31 ===
+Rev 9-2019 
+ Page 1 
+AGREEMENT FOR 
+TRANSIT PLANNING PLATFORM 
+THIS AGREEMENT, made this _____ day of _________ 2021, is by and between the City 
+of Fort Lauderdale, a Florida municipal corporation (“City”), whose address is 100 North 
+Andrews Avenue, Fort Lauderdale, Florida 33301-1016, and Remix Technologies LLC, a 
+Delaware limited liability company authorized to transact business in the State of Florida 
+(“Contractor” or “Company”), whose address is 1128 Howard Street, San Francisco, 
+California 94103, Email: alyssa.overheul@remix.com, Phone: 628-239-2455, 
+collectively “Party or Parties.” 
+WITNESSETH: 
+For and in consideration of the mutual promises and covenants set forth herein and other 
+good and valuable consideration, the Contractor shall provide a Transit Planning Platform 
+(the “Work”), and the City and the Contractor further covenant and agree as follows: 
+I.
+DOCUMENTS
+The following documents (collectively “Contract Documents”) are hereby incorporated into 
+and made part of this Agreement: 
+A.
+This Contract Form P-0001.
+B.
+The City’s General Conditions (“Exhibit A”).
+C.
+The Contractor’s Proposal (“Exhibit B”).
+All Contract Documents may also be collectively referred to as the “Documents.”  In the 
+event of any conflict between or among the Documents or any ambiguity or missing 
+specifications or instruction, the following priority is established: 
+A.
+First, this Agreement dated ______________, 2021, and any attachments.
+B.
+Second, Exhibit A.
+C.
+Third, Exhibit B.
+II.
+SCOPE
+The Contractor shall perform the Work under the general direction of the City as set forth 
+in the Contract Documents. 
+Unless otherwise specified herein, the Contractor shall perform all Work identified in this 
+Agreement. The Parties agree that Exhibit B contains a description of Contractor’s 
+obligations and responsibilities, and is deemed to include preliminary considerations and 
+prerequisites, and all labor, materials, equipment, and tasks which are such an inseparable 
+part of the work described that exclusion would render performance by Contractor 
+impractical, illogical, or unconscionable. 
+Contractor acknowledges and agrees that the City’s Contract Administrator has no 
+authority to make changes that would increase, decrease, or otherwise modify the Scope 
+of Services to be provided under this Agreement. 
+15th
+September
+September 15
+
+=== page 14 of 31 ===
+IN WITNESS WHEREOF, the City and the Contractor execute this Agreement as follows:
+ATTEST:
+Jeffrey A. Modarelli, City
+HOUSER
+COUN
+ChristopherJ. Lagerbloom, ICMA-CM
+City Manager
+Dato: September 15,2021
+Approved as to form:
+By:
+Wide l ts
+Rhonda Montoya Hasan
+Assistant City Attorney
+REMIX TECHNOLOGIES LLC
+WITNESSES:
+Reed Dealines
+signed Recy (pibbs
+Print Name
+signature n Getle man
+Print Name
+(CORPORATE SEAL)
+STATE OF
+Washington
+COUNTY OF
+King
+The foregoing instrument was acknowledged before me by means of a physical presence o
+J online notarization, this 2day of AuGust, 2021, by Tiffany Chu as Manager for Remi›
+Technologies LLC, a Delaware limited liability company authorized to transact business in the
+State of Florida.
+(SEAL)
+CCCCSSSCSSISSSSSS
+NS BAE
+NOTARY PUBLIC
+STATE OF WASHINGTON
+COMMISSION EXPIRES
+APRIL 10, 2022
+Noay Puble. sao об вае
+(Signature of Notary Public)
+ashington
+N.
+S, BAE
+(Print, Type, or Stamp Commissioned Name
+of Notary Public)
+Personally Known
+OR Produced Identification
+Type of Identification Produced WAX CA Driver Licenses
+Rev 9-2019
+Page 14
+
+=== page 20 of 31 ===
+Remix Proposal for the 
+City of Fort Lauderdale 
+For: Lisa Marie Glover, Transportation Division Manager 
+Date: July 27, 2021 
+By: Remix Technologies, LLC.  
+Alyssa Overheul
+
+=== page 26 of 31 ===
+Remix Services Agreement for City of Fort Lauderdale 
+This Services Agreement (“Agreement”) is entered into between Remix Technologies, LLC., a subsidiary of Via Transportation, Inc. ("Company"), and 
+Fort Lauderdale ("Customer") and will become effective when it is executed by authorized representatives of both parties (the “Effective Date”). 
+Scope of Services & Terms 
+Prepared for Lisa Marie Glover, City of Fort Lauderdale. By Alyssa Overheul, Remix 
+(alyssa.overheul@ridewihvia.com).  Date: July 27, 2021  
+Effective Date 
+September 15, 2021 
+Commitment Term 
+2 years with the option to renew a 3rd year at the same pricing structure 
+Remix Transit + 
+Explore Planning 
+License  
+$11,000 USD per year, based on a total fixed route fleet of ~17 
+• Access to Transit Planning platform 
+• Remix licenses for an unlimited number of users within the City of Fort Lauderdale and Sun 
+Trolley 
+• Enhanced data visualization and analysis  
+• Software as a Service (SaaS): fully hosted, cloud-based web platform 
+• Dedicated Customer Success staff; Premium Enterprise Support: response to requests in 1 
+business day 
+Remix Street Design 
++ Explore Platform 
+License 
+$28,500 USD per year (based on CITY’s population of ~184,599) 
+Includes: 
+• Access to Street Design platform 
+• Remix licenses for an unlimited number of users within the city of Fort Lauderdale and Sun 
+Trolley 
+• Enhanced data visualization and analysis  
+• Software as a Service (SaaS): fully hosted, cloud-based web platform 
+• Dedicated Customer Success staff; Premium Enterprise Support: response to requests in 1 
+business day 
+Implementation Fee 
+$2,000 USD for 1 year due on year one 
+• Provide onboarding and training for all staff. 
+• Create user accounts 
+• Calibrate and upload key datasets

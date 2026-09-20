@@ -1,0 +1,130 @@
+# source: raw/bleecker_drive/Topeka/Proposal-ViaMobilityLLCforPosting.pdf
+# path: raw/bleecker_drive/Topeka/Proposal-ViaMobilityLLCforPosting.pdf
+# hit page: 23 of 44
+# terms: Via+fleet, Via+subscription, Via+vehicles
+
+=== page 22 ===
+●
+Via invests in community outreach and marketing to ensure our transit services grow.
+We understand that many passengers fear that if they don’t have a smartphone, don’t have
+a bank account, or live with a disability, public on-demand services will not serve them. Our
+in-house Marketing and Community Engagement teams will advise and support Metro’s
+development and implementation of an inclusive marketing strategy and community-based
+rider outreach plan.
+●
+On-demand transit advertising capabilities to generate additional revenue through our
+proprietary advertising service, Via Media Solutions (VMS). Several of our partners with
+fleet sizes comparable to Metro’s proposed service have recovered 50% of the cost of our
+software from this revenue stream alone.
+As a result, it’s no accident that Via-powered services consistently outperform other microtransit
+providers.3
+Rides Delivered to Date
+100M+
+<1M
+1M+
+Global Partnerships
+500+
+50+
+85
+Countries with an Active Presence
+40
+3
+9
+Engineers / Developers
+500+
+<54
+<50
+Year Founded
+2012
+2015
+2015
+Through a partnership with Via, we believe that Metro’s success is a foregone conclusion. We will
+deliver results by providing the world’s most advanced microtransit platform, and an unsurpassed
+suite of services, tools, and expertise. Your microtransit services are a major investment. Via will
+ensure you maximize the benefits for your district and the riders who depend on you every day.
+8.3.3 Service Planning
+Via has unparalleled experience designing, launching, and expanding on-demand microtransit and
+paratransit services. By providing software and turnkey on-demand services to hundreds of partners
+globally, Via has access to data from comparable deployments to Metro’s that will inform our service
+design assumptions and process. Additionally Via's service design team will leverage our best-in-class
+simulation engine, developed by Via’s world-class algorithm experts and used to simulate and optimize
+at-scale services across all Via markets. In 2021 alone, our tools simulated more than 11,000 scenarios for
+hundreds of existing and future microtransit services helping us refine the software to be as accurate as
+possible for all service types.
+3 Based on publicly-available information from the National Transit Database and competitor websites
+RFP for Microtransit System | 48
+=== page 23 ===
+A) Overview
+Via has a proven on-demand service planning methodology, which we have successfully applied
+with Via to Transit, as well as a diverse range of partners and transit use cases globally. Below is
+our methodology that we have followed to create an accurate and viable service design for Metro’s
+envisioned services:
+1.
+Objective Setting. Before beginning the service design process, Via identified the
+specific goals (e.g., optimize for quality of service) for each sub service to ensure that
+we design a service that is optimized for Metro’s priorities and goals.
+2.
+Input Gathering. Critical to accurate simulations and service design are demand
+estimations. To ensure consistent and accurate results, Via followed an extensive
+process to estimate demand in each zone relying on the knowledge we have gained
+from operating Via to Transit and external data such as demographic or geographic
+data. To help further tailor our demand estimations for each microtransit zone, Via
+gathered additional demographic data and service data for each service zone
+including:
+External Factors
+Adjustable Levers
+●
+Travel patterns and use cases
+●
+Existing transit network and
+alternative modes of travel (e.g.,
+availability of buses, taxis, and
+transit hub locations)
+●
+Demographics (e.g., income, access
+to vehicles, mobility characteristics,
+and rider’s mode choice)
+●
+Pedestrian infrastructure
+●
+Parking availability and congestion
+levels
+●
+Fare structure
+●
+Technical capabilities to drive
+ridership and engagement (e.g., app
+capabilities such as subscription
+offers, referral campaigns, targeted
+rider communications, etc.)
+●
+Marketing budget and effectiveness
+●
+Service Use Cases (Point to Point vs
+Point to Hub)
+With these data points and inputs from Via’s current service, we built a complex demand
+estimation model for each zone to develop tailored demand estimates based on their unique
+configuration and makeup.
+3.
+Simulations. Leveraging these demand estimations, we then simulated each service
+zone to predict how it will perform as a real deployment. Using our in-house simulation
+platform, we tested our algorithm’s performance under different demand levels, travel
+patterns, fleet sizes, and even traffic conditions, painting a clear picture of how our
+system would perform and to help understand the service limits.
+4.
+Compile and Iterate Results. During the simulation phase, our algorithms generate
+granular data across hundreds of KPIs. To help make the results digestible however,
+the service design team packaged the results into a simplified format to ensure that
+the results are as actionable as possible for the Metro project team. Following this
+RFP for Microtransit System | 49
+=== page 24 ===
+8.3.4 Project Team and Ongoing Support
+A) Firm Structure & Organization
+Via is headquartered in New York City and maintains 10 offices around the globe, including offices
+in San Francisco, Washington D.C., Chicago, Tel Aviv, and Sofia, Bulgaria. To support our growth
+and global operations, Via employs 1,007 professionals worldwide. Via’s global team is structured
+within two core segments:
+●
+Business, with over 500 employees focused on operations, growth, transit planning,
+expansion, business development, and partner success
+RFP for Microtransit System | 52

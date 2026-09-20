@@ -1,0 +1,105 @@
+# source: https://baldwincountyal.legistar1.com/baldwincountyal/attachments/8198868d-34b1-46ed-bbdc-364e79b75e82.pdf
+# path: raw/cache/023b604fe151323fc387b938a52d0b4ec6820cae.pdf
+# hit page: 1 of 4
+# terms: Via Mobility
+
+=== page 1 ===
+XE.
+1809
+COUNTY COMMISSION
+BALDWIN COUNTY
+312 Courthouse Square, Suite 12
+BAY MINETTE, ALABAMA 36507
+(251) 937-0264
+Fax (251) 580-2500
+www.baldwincountyal.gov
+September 20, 2022
+MEMBERS
+DISTRICT 1. JAMES E. BALL
+2. MATTHEW P. McKENZIE
+3. BILLIE JO UNDERWOOD
+4. CHARLES F. GRUBER
+Via Mobility LLC
+ATTN: Mr. Zachary Wasserman
+10 Crosby Street, Floor 2
+New York, New York 10013
+RE:
+Extension and Amendment of Contract for Professional Services with Via Mobility,
+LLC for Provision of Innovative Software Services
+Dear Mr. Wasserman:
+The Baldwin County Commission, during its regularly scheduled meeting held on September 20,
+2022, took the following actions:
+1) Approve an Extension and Amendment of the Contract for Professional Services between the
+Baldwin County Commission and Via Mobility, LLC for the provision of innovative micro-
+transit on-demand software services at a monthly fee of $14,500.00; and
+2) Authorize me, as Chairman, to execute the Contract and any other related documents.
+The term of said Contract shall commence October 1, 2022, and shall terminate upon the
+expiration of twelve (12) months. This extension represents the second of three (3) one-year renewal
+options of the Contract for Professional Services between the Baldwin County Commission and Via
+Mobility, LLC.
+Enclosed is a fully executed copy of the Contract for your file.
+If you have any questions or need further assistance, please do not hesitate to contact me or
+Ann Simpson, Director of Transportation, at (251) 937-0264
+Sincere
+JAMES E. BALL, Chairman
+Baldwin County Commission
+JB/jb Item CD1
+CC:
+Asa King - asa.king@ridewithvia.com
+Ann Simpson
+ENCLOSURE(S)
+(BALDWIN COUNTY IS AN EQUAL OPPORTUNITY EMPLOYER M/F)
+=== page 2 ===
+DocuSign Envelope ID: 75FD571E-9C2A-4248-A91D-A0ABB2D63DCF
+EXTENSION AND AMENDMENT OF THE CONTRACT FOR PROFESSIONAL SERVICES
+1. Purpose; Scope
+Each of Via Mobility LLC, a Delaware company with its principal office located at 10 Crosby
+Street, Floor 2, New York, New York 10013 ("Via"), and Baldwin County Commission
+("Customer"), hereinafter the "Parties," entered into an agreement titled Contract for Professional
+Services (the "Agreement') and a service order titled Baldwin County Deployment Service Order
+(the "Original Order"), dated June 18, 2020. By this Extension and Amendment Agreement
+("Extension") the parties agree towards continued collaboration of operation of the services
+provided under the Original Order. The Parties further agree to amend the fees paid by Customer
+to Via for the use of Via's software, and that Via shall develop and deploy specific capabilities
+within its software for Customer's benefit.
+Amendment
+2. Duration
+This Extension shall extend the period of performance of the Agreement by a period of twelve
+months, from October 1, 2022 until September 30, 2023 (inclusive). The Effective Date of this
+Extension shall be October 1, 2022.
+3. Fees
+Starting on October 1, 2022, and continuing through September 30, 2023, Customer shall pay to
+Via the following Monthly Fees, reflecting a minimum of 25 vehicles at the rates detailed below:
+Fee Category
+Fee Per
+Vehicle Per
+Month
+$590
+Charges Per Month
+Invoicing Terms
+$11,800
+Invoiced monthly by Via
+Monthly Fees (Per Vehicle) for
+vehicles 1-20, inclusive
+(Guaranteed)
+Monthly Fees (Per Vehicle) for
+vehicles 21-25, inclusive
+(Guaranteed)
+Montly Fees (Per Vehicle) for any
+additional vehicles above 25 (As
+used)
+Total for 12 months
+$540
+$2,700
+Invoiced monthly by Via
+$485
+as used
+Invoiced monthly by Via
+$174,000 (minimum, excluding additional vehicles above the 25-
+vehicle monthly minimum, and any additional services)
+For the avoidance of doubt, (i) the number of vehicles per month for purposes of the above fees
+shall be the maximum number of distinct vehicles input to service in the Deployment by Customer
+that use the Via solution on any given day over the course of the applicable calendar month; and
+(ii) in the event the duration of the Deployment does not exactly match calendar months, monthly
+fees will be prorated for the first and/or last calendar months of the Deployment, as applicable, so
+1

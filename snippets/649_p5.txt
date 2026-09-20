@@ -1,0 +1,85 @@
+# source: raw/bleecker_drive/Cupertino/23_12042_Staff_Report.pdf
+# path: raw/bleecker_drive/Cupertino/23_12042_Staff_Report.pdf
+# hit page: 5 of 5
+# terms: NoMad Transit
+
+=== page 4 ===
+funds for the installation of the EV charging stations in addition to soliciting grant funds 
+to cover the local match owed as part of this program. 
+The following accounts have been created to track Via expenses, offsets from grants, 
+funds from the City of Santa Clara, and to better track grant reimbursements.  
+ 
+100-88-265 (General Fund, Transportation, Via Shuttle)  
+1. 100-88-265 440-430 (General Fund, Transportation, Via Shuttle – 
+Intergovernmental State Grants) 
+2. 100-88-265 440-439 (General Fund, Transportation, Via Shuttle – 
+Intergovernmental Government Agency Cost-Share) 
+ 
+Budget modification #2223-248 increases appropriations to the General Fund 
+Transportation, Via Shuttle Program (budget unit 100-88-430) by $3,594,928 for the 
+planning, launch, and operation of the Via-Cupertino-Santa Clara expansion, including 
+design, construction, and contingency funds for installation of EV charging equipment 
+to support the program. These costs are offset by revenue from TIRCP and City of Santa 
+Clara, resulting in new costs to Cupertino of $932,917. These costs are recommended to 
+be funded by an unassigned fund balance that is estimated at $63 million. 
+ 
+The following chart summarizes the anticipated four-year project budget as mentioned 
+in Attachment F: 
+ 
+Total Cost:  
+Year 1 
+$3,244,928 
+Year 2 
+$3,806,378 
+Year 3 
+$4,070,272 
+Year 4 
+$5,809,705 
+Contract Total: 
+$16,931,283 
+ 
+Cost Share  
+TIRCP  
+$1,622,464  $1,903,189  
+$2,035,136  
+$2,904,211 
+$8,465,000  
+Cupertino  
+$932,917  
+$1,094,334  
+$1,170,203  
+$1,260,876 
+$4,458,330  
+Santa Clara  
+$689,547  
+$808,855  
+$864,933 
+$1,644,618  
+$4,007,953 
+ 
+California Environmental Quality Act (CEQA) 
+The project is exempt from CEQA under CEQA Guidelines section 15301 (operation of 
+an existing program), Public Resources Code section 21080.25 (transportation-related 
+projects), and CEQA Guidelines section 15061(b)(3) (“common sense” exemption). 
+ 
+Next Steps 
+As the City of Cupertino was the recipient of the TIRCP grant, the City will administer 
+the program for both cities. A funding agreement between the City of Cupertino and the 
+City of Santa Clara will be brought to Council prior to the expansion into Santa Clara 
+along with an update on the launch progress and schedule.  
+ 
+_____________________________________ 
+ 
+Prepared by: Chris Corrao, Senior Transit & Transportation Planner
+=== page 5 ===
+Reviewed by: David Stillman, Transportation Manager 
+Reviewed by: Chad Mosley, Interim Director of Public Works 
+Reviewed by: Matt Morley, Assistant City Manager 
+Approved for Submission by:  Pamela Wu, City Manager 
+Attachments:  
+A – Agreement with Nomad Transit, LLC (Via) 
+B – Draft Resolution – Caltrans 
+C– Draft Resolution – Budget 
+D –09-20-222 Council Staff Report 
+E – Via Letter on 4 Year Approach 
+F- 4 Year TIRCP Revised Budget

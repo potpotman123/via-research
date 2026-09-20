@@ -1,0 +1,142 @@
+# source: raw/bleecker_drive/Milwaukee/25-26 JULY REPORT (received 061825).pdf
+# path: raw/bleecker_drive/Milwaukee/25-26 JULY REPORT (received 061825).pdf
+# hit page: 4 of 6
+# terms: Via+drivers, Via+per trip, Via+per vehicle hour
+
+=== page 3 ===
+PROGRAM PARTICIPANT DATA 
+ 
+Since the service started, there have been 191 unique users of the program.  Fifty-one 
+percent of these riders (98 people) took their first trip between mid-April and the end of 
+May. This indicates an increase of riders using the program after the change in service 
+parameters and additional outreach efforts. 
+ 
+Paratransit ridership data shows that 48% of the pilot users are not regular paratransit 
+users. These 92 riders took fewer than 50 rides per person (1 round trip per week) on 
+paratransit during the six months before the start of the pilot.   
+ 
+Of the 636 total completed trips, a total of 202 trips were taken by riders who required a 
+wheelchair accessible vehicle (WAV).  The other 434 rides were taken by ambulatory 
+riders. This ratio of ambulatory to non-ambulatory trips is the same as what is seen on 
+the paratransit vans. 
+ 
+ 
+ 
+FARES/ PROGRAM COSTS 
+ 
+Fare on the service is $10 per one way trip and can be paid in cash or by credit card. 
+Fares are retained by the vendor and are subtracted from the monthly cost of service.  
+Service is paid for at a contracted rate of $98.73 per vehicle hour.  Currently the 
+program operates 155 service hours per week, translating to a monthly service cost of 
+0
+50
+100
+150
+200
+250
+300
+350
+Sep-24
+Oct-24
+Nov-24
+Dec-24
+Jan-25
+Feb-25
+Mar-25
+Apr-25
+May-25
+Rides per Month
+Trips
+Riders
+WAV
+32%
+Ambulatory
+68%
+Completed Rides
+WAV
+Ambulatory
+=== page 4 ===
+approximately $55,000 per month.  Administrative and staff costs are approximately 
+$60,000 per year.  Of the $1,117,054 allocated for this program, there remains a 
+balance of just under $495,000 in operating funds which is sufficient to continue the 
+program at the same level of service hours through the end of 2025. 
+ 
+The cost per trip on this service was extremely high due to low ridership in the early 
+months.  As ridership has increased that cost has been dropping but remains 
+significantly higher than the cost for prescheduled paratransit service.  In April, the cost 
+to Milwaukee County was just over $360 per client trip. The cost for May is unavailable 
+at the time of this report. 
+ 
+ 
+ 
+FUTURE STATE 
+ 
+Short term: 
+If growth continues at this same accelerated rate, it is anticipated that the current levels 
+of service will no longer be sufficient to meet demand in the very near future.  The result 
+will be clients who are unable to get a ride when they want one.  There are several 
+options that could be considered to mitigate this situation. These include: 
+• Deploy additional vehicle hours to ensure that riders are getting the ride 
+they request at least 95% of the time. This would reduce the number of 
+months that funds would be available for this service and could deplete 
+remaining funds as soon as August 2025. 
+• Adjust program service span to discontinue service on Saturdays and/or 
+Sundays as these days have lower ridership and shift those service hours 
+to the more popular weekday time periods in order to increase capacity 
+during high demand hours. 
+• Switch from a service model where all drivers are employees of Via to a 
+model that would have drivers be independent contractors. Standards for 
+driver training, service expectations and random drug and alcohol testing 
+would remain the same; but would result in a lower per vehicle hour rate. 
+This would allow us to put approximately 80 additional vehicle hours on 
+the road per week and still have funds to continue service until the end of 
+the year.  
+ 
+$0.00
+$1,000.00
+$2,000.00
+$3,000.00
+$4,000.00
+$5,000.00
+$6,000.00
+$7,000.00
+Cost per Client trip
+=== page 5 ===
+The Paratransit Taxi Task Force, MCTS and MCDOT staff will be evaluating these 
+options to determine next steps. 
+ 
+Long Term: 
+The current contract with Via does allow for one potential one-year extension.  A 
+competitive procurement process would need to be undertaken to secure a vendor 
+beyond that period. 
+ 
+Due to the limited data under the expanded program parameters, it is difficult to project 
+the level of service needed to consistently meet demand should this program continue 
+beyond 2025.  At 3 times the current demand, Via estimates that 356 vehicle 
+hours/week would be needed to keep unfulfilled requests below 7%.  This would 
+translate to an annual operational cost of $1,579,444 -$1,827,690 depending on the 
+driver model implemented.  Administrative costs would be in addition to the amount paid 
+to Via, bringing the annual estimated cost of this program to $1,639,444 - $1,887,690.  
+However, costs could be much higher if demand grows beyond projected levels. 
+ 
+While this expanded pilot is growing in popularity and has gotten positive reviews from 
+riders, it is important to point out that this is a discretionary program that goes above 
+and beyond what is required under federal paratransit regulations.  Many potential 
+riders have cited the $10 fare as cost prohibitive.  As it is currently structured, this is a 
+transportation program offered at an additional cost to Milwaukee County that meets an 
+unmet need for a segment of our community, but not in the urgent safety net manner 
+originally intended.  
+ 
+In light of MCTS’s budgetary outlook and potential cuts to our core fixed route and 
+paratransit services, funds for the continuation of this discretionary program are not 
+included in the MCTS proposed budget plan for 2026.  Additional funds would need to 
+be identified and allocated to this program if the Board wishes to extend this pilot. 
+ 
+If budgetary constraints impacting our essential paratransit program did not exist, this 
+program would be a positive, but potentially costly, addition to the transportation options 
+available for persons with disabilities in Milwaukee County. To that end, MCTS is 
+currently in the process of conducting a microtransit/same day paratransit feasibility 
+study that is designed to determine if options exist for providing a fixed route first/last 
+mile solution and a same day ride for paratransit riders in a manner that could 
+complement, rather than detract from, our primary services.  This study’s 
+recommendations are expected toward the end of 2025.

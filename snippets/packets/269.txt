@@ -1,0 +1,117 @@
+# source_url: https://legistar.granicus.com/ManhattanBeach/attachments/a664f5d0-cc33-4a26-a2d5-2fbb0c70c45c.pdf
+# path: raw/cache/38003e58c7e84adf4df577d6277d83780e347ce1.pdf
+# pages_total: 3; hit_pages: [1, 2, 3]; included: [1, 2, 3]
+# context: legistar client=manhattanbeach; matter RES 17-0105 (2017-06-05): Update on Downtowner Pilot Program and Request for Program Extension (Economic Vitality Manager). ADOPT RESOLUTION NO. 17-0105 AND PROVIDE DIRECTION
+
+=== page 1 of 3 ===
+1 
+ 
+M E M O R A N D UM 
+ 
+To:  
+ 
+Mark Danaj, City Manager; Manhattan Beach City Council 
+From:  
+Andy Sywak, Economic Vitality Manager 
+Re: 
+ 
+Potential Funding Sources for Expanding Downtowner Service City-wide 
+___________________________________________________________________
+___________________________________________________________________ 
+ 
+This informational memo is provided to the Manhattan Beach City Council per direction received 
+at the Feb. 7, 2017 Council meeting. This memo is intended to evaluate potential funding 
+sources that could be utilized to expand the Downtowner service citywide. It further examines 
+what the funding source is and whether its allocation would be an allowable expense.   
+ 
+ 
+a. Prop A – Proposition A sales tax, approved by voters in 1980, is a one-half cent tax on most 
+retail sales in Los Angeles County. Metro returns 25% of the Proposition A funds collected to 
+the cities in the County for transportation purposes. In 2016-17, the City was projected to 
+receive $680,260.  However, with expenditures of $871,193, the shortfall is subsidized by a 
+fund transfer from Measure R funds. Prop A funds are primarily spent on Dial-A-Ride.  
+ 
+The guidelines for Prop A indicate that Local Return funds can be used to fund the operating 
+costs of public transit services if they are on fixed routes that augment an existing bus route 
+or provide commuter bus service (Project Code 110). As the Downtowner operates as an on-
+demand service without a fixed route, it would have to alter its business model to 
+accommodate this provision.  
+ 
+Prop A funds are also available to purchase vehicles for a public transit service including 
+maintenance equipment and facilities (Project Codes 180, 190, 200). The Downtowner, 
+which is only available through a mobile app on a smartphone, may have to change the way 
+the public accesses the service (for example, add a phone service to summon vehicles) to 
+qualify for this provision. 
+ 
+b. Prop C – Proposition C sales tax, approved by voters in 1990, is an additional one-half cent 
+tax on retail sales in the County. Metro returns 20% of the Proposition C funds collected to 
+the cities in the County for transportation purposes. In 2016-17, the City was projected to 
+receive $673,521, creating a fund balance of $1,136,258. The funds are primarily allocated 
+for major and arterial corridor roadway improvements, such as Sepulveda Boulevard, 
+Marine Ave., Rosecrans Ave., Highland Ave., etc. Proposition C funds must be spent on 
+roadways with public transportation routes. As the Downtowner only currently operates
+
+=== page 2 of 3 ===
+2 
+ 
+vehicles that have a top speed of 25 MPH, it is not currently outfitted to operate on these 
+major arterials (although the Downtowner is considering purchasing larger Chevy Bolt 
+vehicles to enable them to drive on arterials). 
+ 
+It is possible that Prop C funds could be used under the provision for a community-based 
+shuttle for employees as long as the service complements existing transit service (Project 
+Code 410). However, this would require the Downtowner to alter their business model to 
+operate as a fixed route service intended as a shuttle service for employees. Furthermore, 
+to receive funding, the service will have to demonstrate that it will reduce single-occupancy 
+vehicle trips within the City. 
+ 
+c. Motor Vehicle Subvention Funds (AB 2766) – The AB 2766 Fund was established in 1990 and 
+provides per capita funding to cities and counties located in the South Coast Air Quality 
+District to reduce motor vehicle air pollution. The fund built up over time and distributed 
+$190,000 last year to buy clean air vehicles for Community Development and Public Works. 
+The City receives around $50,000 annually and the fund balance is approximately $70,000. 
+The current adopted budget projects future annual expenditures of $11,200 for employee 
+rideshare. 
+ 
+The guidelines for AB 2766 explicitly allow for the purchase of neighborhood electric 
+vehicles (19d) (the cost of one of the Downtowner GEM E6 vehicles was approximately 
+$30,000). They also allow for funds to be spent on the construction and the installation of 
+charging stations (19f). However, on-going maintenance and upkeep of electric vehicle 
+infrastructure is not an allowable expenditure.  
+ 
+d. Measure R - Measure R is funded with ½-cent sales tax revenues that LA County voters 
+approved in November 2008. Fifteen percent (15%) of the Measure R funds collected are 
+designated for the Local Return Program to be used by cities for transportation-related 
+purposes, including roadway rehabilitation, bikeway and pedestrian improvements, public 
+transportation services, public transit capital, planning, and administration. In 2016-17, the 
+City was projected to receive $421,111 to create a fund balance of $1,107,394. The funds 
+are primarily allocated for street resurfacing projects and pedestrian improvements 
+(crosswalks, raised medians) and are mean to augment, not supplant, existing local 
+revenues being used for transportation purposes. 
+ 
+Measure R guidelines indicate that funds can be spent on Transportation Demand 
+Management (TDM) programs which are defined as actions intended to minimize vehicle 
+trips and vehicle miles traveled during peak periods. As with Prop C, one TDM program 
+includes a community-based shuttle for employees (pg. 3 of guidelines, 2b) that would 
+require the Downtowner to change its service model.  
+ 
+Measure R local return funds can be used to contract with a private provider for 
+transportation services (section 4 – Public Transit Services). However, the service has many 
+conditions on it, including operating as a fixed route with timetables made available to the
+
+=== page 3 of 3 ===
+3 
+ 
+general public and displaying its route designation on the front of the vehicle. Measure R 
+funds can be used to purchase, replace and maintain vehicles under this use, however, this 
+is not the current model for the Downtowner service. 
+ 
+e. Measure M – Measure M was approved by the voters of LA County in November, 2016 to 
+improve transportation programs and ease traffic congestion. According to the draft 
+guidelines released by LA Metro on March 23, 2017, 17% of all net revenues will be 
+allocated to the Local Return program which distributes tax dollars to jurisdictions on a per 
+capita basis. Manhattan Beach’s proportion of Local Return will be approximately $421,000 
+in 2017-18.  
+ 
+The guidelines for Measure M programs and allowable expenditures were approved by 
+Metro in late June of 2017, however, they have not been released.

@@ -1,0 +1,659 @@
+# source: raw/bleecker_drive/Mountain Line/Mountain-Line-On-Demand-Feasibility-Study_Final.pdf
+# path: raw/bleecker_drive/Mountain Line/Mountain-Line-On-Demand-Feasibility-Study_Final.pdf
+# hit page: 54 of 56
+# terms: Via+drivers, Via+per hour, Via+vehicles
+
+=== page 53 ===
+46  
+ 
+MOUNTAIN LINE ON-DEMAND FEASIBILITY STUDY 
+ 
+ 
+ 
+York Regional Transit
+City of Arlington
+Gwinnett County Transit
+Harvard Transportation & Parking
+Tri-Valley Wheels
+City of Monrovia
+York Region, Ontario, Canada
+Arlington, TX
+Gwinnett County, GA
+Harvard Campus, MA
+Dublin, CA
+Monrovia, CA
+Name of service
+Mobility Plus Services
+Arlington On-Demand
+Microtransit Pilot
+Evening Van Service
+Go Dublin!
+Go Monrovia
+Type of On-Demand service
+14 On-Demand services, providing 
+fixed-route replacement (stop to 
+stop), rural service (curb to bus 
+stop)
+Transit as a service powered by 
+Via
+Microtransit service in area with 
+no transit service, partnership 
+with TransLoc
+Evening SaaS on-demand van 
+service. 
+Rideshare promotion with Uber, 
+Lyft, and DeSoto Cab Company.  
+Residents must use rideshare 
+options (i.e.. Lyft line)
+Partnership with Lyft, City 
+subsidizes price
+Description
+Providing on-demand services for 
+first-last mile solutions. 
+Replacement of fixed-route, 
+where on-demand now runs 
+along bus stops where route used 
+to run. In rural areas, has a 
+nearest curb address to closest 
+bus stop or hub location, on-
+demand service to commuter rail. 
+City of Arlington is the largest city 
+in the US without a transit system, 
+so the City issued an RFP in the 
+summer of 2017 for transit 
+services. Out of 4 participants, Via 
+was most qualified. Offer on-
+demand rideshare option, M-F 
+6am - 9pm, Saturday 9am-9pm
+Providing microtransit pilot that 
+will run for free in Snellville, 
+which currently does not have 
+transit service. Door to door 
+service within a specific zone
+Previously used manual, paper 
+system with call in option. In 2016, 
+went from TransLoc software to 
+Via. Transports faculty, staff, and 
+students safely around campus as 
+supplement to Harvard's fixed 
+route shuttle bus system
+Wheels pays for 50% of your fare, 
+up to $5.00 for any ride within city 
+limits. 
+GoMonrovia is the City’s enhanced 
+mobility program that features 
+$0.50 rides with the car-sharing 
+provider, Lyft, and $1.00 30-minute 
+rides with the bikeshare provider, 
+LimeBike. these options are being 
+provided in partnership with the 
+City’s existing dial-a-ride program. 
+Wanted to bridge the gap with 
+Gold Line station. 
+Goals of program
+Provide best service to 
+community, creating an extension 
+of fixed-route system. 
+Provide some transit service in 
+Arlington
+Provide transit where there is 
+currently none. In 2016, started 
+looking at solutions to service this 
+area. 
+Provide more convenient rider 
+experience and fill in gaps of fixed 
+route system 
+Wheels wanted to provide transit 
+service in less-populated areas. 
+Wanted to give residents an easy, 
+affordable transportation solution
+Provide fast, convenient, and 
+affordable transportation options
+Audience served
+General public
+General public
+General public
+Students, faculty, and staff. Need 
+Harvard email to create log in
+General public
+General public
+Days and hours
+M-F have (1) Service between 
+9:30am and 2:30pm, (1) Rural 
+service between 8:30am to 
+11:00pm, (1) Peak hour commuter 
+rail connector, and (8) services 
+running from 7:00pm to 11:00 pm;  
+Sat there are (3) services from 
+7:00am to 7:00pm and (5) services 
+from 7:00pm to 11:00 pm.
+M-F 6am - 9pm, Saturday 9am-9pm Monday through Friday from 
+6:00am - 8:30pm, Saturday from 
+7am - 7pm
+Every night 7pm - 3am during 
+academic year. 7pm - 12:30am 
+after commencement - until 
+classes begin
+Everyday 24/7
+Everyday 24/7
+Geofencing
+Yes, pick up people and drop off 
+at nearest location
+Yes, covers large portion of the 
+city, plus centreport station
+Yes, 17 square mile zone. No 
+transit near by
+Yes, campus service area. Door to 
+door in some areas (mostly 
+residential) and corner to corner in 
+other areas
+Trip must start and end in city 
+limits
+Yes, City limits and several 
+unincorporated areas within LA 
+county
+Transportation gap addressed
+Spatial
+Spatial
+Spatial
+Spatial and temporal. More 
+flexible (door to door) during late 
+night hours
+Temporal and Spatial
+Spatial, First/Last mile
+Operation model
+Software as a Service
+Transit as a service
+Software as a service
+Software as a service
+Partnership with Lyft, Uber, and 
+DeSoto Cab
+Partnership with Lyft, City 
+subsidizes price
+Pilot (how long)
+Providing service for several years No, signed 4 year contract, with 
+approval each year
+Yes, started in September, 6 
+month pilot
+No, previously used TransLoc
+Started November 2016 for 1 year 
+pilot. 
+No pilot, existing for 8 months
+Partnership with private 
+company
+Routematch
+Via
+TransLoc
+Via
+Lyft, Uber, and DeSoto Cab
+Lyft and Lime for bikeshare
+Costs
+$25 per passenger hour
+$900,000 one year contract. 
+Negotiating price for year 2, cost 
+increased 1.8 million to increase 
+number of vans and additional 
+costs.
+$25,000 for TransLoc pilot, 
+$150,000 per month in operations
+Could not disclose. Via negotiated 
+price, first was too expensive
+FY18 $28,748
+Subsidy - was $6-7, now it is $3-4 
+shared
+Funding mechanisms
+Different than US models. The 
+City subsidizes the transportation. 
+Budget is flexible, move money 
+from fixed-route to demand 
+services
+1/3 general fund, 2/3 formula 
+funding from FTA
+Pilot - local funds. After pilot - ask 
+for more CMAQ funds
+University general fund
+Transportation Develop Act funds 
+from Wheels and Measure BB 
+funds from the Alameda County 
+Transportation Commission 
+Local Return Dollars, dial-a-ride is 
+also funded through this source. 
+Fare
+Service integration. $4 per trip (2 
+hour transfer window), included 
+fixed route. Pay with smartcard or 
+cash
+$3 one way
+Free
+Free
+Agency pays 50% of fare, up to 
+$5.00
+$0.50 for shared rides, $3 for non-
+shared
+ADA/FTA compliance
+Yes, vehicles are paratransit 
+vehicles
+Yes, vehicles have ADA access
+Yes, vehicles are ADA
+Yes, ADA vehicles
+DeSoto has ADA vehicles, cash 
+option, and phone option. Since 
+there are multiple vendors, 
+taxicab exception applies
+Has dial-a-ride option, Lyft is 
+partnering with MV to increase 
+accessible vehicles. City program, 
+not FTA
+Fleet
+15 in fleet, but Via drivers can use 
+own vehicles during peak 
+demand. Use 16-18 during peak. 
+7 total, 5 in service
+Maximum is 4 vehicles
+Private vehicles, ADA options 
+through cap company
+Private vehicles
+=== page 54 ===
+47  
+ 
+MOUNTAIN LINE ON-DEMAND FEASIBILITY STUDY 
+ 
+York Regional Transit
+City of Arlington
+Gwinnett County Transit
+Harvard Transportation & Parking
+Tri-Valley Wheels
+City of Monrovia
+York Region, Ontario, Canada
+Arlington, TX
+Gwinnett County, GA
+Harvard Campus, MA
+Dublin, CA
+Monrovia, CA
+Name of service
+Mobility Plus Services
+Arlington On-Demand
+Microtransit Pilot
+Evening Van Service
+Go Dublin!
+Go Monrovia
+App and calling option
+Both options
+Both options, calling option not 
+used frequently
+Both options, 90% use app
+Both options, 95% app usage
+Yes, through DeSoto cab
+Both, people can call Dial-a-Ride 
+number, they can order Lyft 
+through concierge service
+Successes
+Ridership is continuing to grow, 
+15-16% each year
+Ridership is continuing to grow 
+(almost too much). Expanded 
+area, and ridership continued to 
+grow. About 620 rides per day. 18-
+35 age is most ridership, 55-65 is 
+second. Overall very happy with 
+service and via's customer service
+Ridership is continuing to grow. 
+90% use phone app, very little on 
+staffing
+95% app usages, 200 a night 
+ridership (with TransLoc was 150), 
+Average miles decreased, 30% 
+increase in passengers. More 
+efficiency and better algorithms 
+with Via. Via has their own service 
+and TaaS, so they understand 
+customer service and operations
+Uses promo code, limited 
+procurement needs. Ridership is 
+continuing to grow. Fixed route 
+cost $26.13 per rider subsidy, Go 
+Dublin is $2.35. Ridership on BRT 
+is growing after program. 28000 to 
+32759. $5 get you anywhere 
+where transit exists. 
+Great increases in ridership. 1,800 
+rides first week, 60,000 a month. 
+Elderly population is starting to 
+use service. Did reach out events 
+to teach elderly how to download 
+app and hail a ride. No issues with 
+local taxi company, transit is very 
+limited in area.
+Lessons learned
+Removed branding for individual 
+programs. Everything from 
+paratransit to fixed route is just 
+YRT, helped reduced stigma with 
+getting into a paratransit vehicle. 
+Dedicate time for training and 
+outreach.
+Marketing - helpful to have "boots 
+on the ground" set up tables at 
+Walmart and other popular areas 
+to help download app and use 
+service. Via underestimated cost 
+of service for bid, now in second 
+year is increasing price and 
+number of vehicles to keep wait 
+times low
+Include key destination points in 
+zone, added Walmart to area 
+after pilot began. Not a huge 
+volume of calls (10-30 calls).  
+Helps to have buy in from 
+paratransit contractor. They 
+helped spread the word, great 
+partner
+Via can have both geofencing and 
+first last mile capability. TransLoc 
+can only do one. TransLoc is not as 
+flexible, lack of dynamically re-
+routing system, sometimes 
+passengers would be on board for 
+an hour (walking would take 20 
+mins). Negotiate price with Via. 
+Reports are better and more 
+reporting options with Via
+Union in Dublin was not happy 
+because routes had to be cut. 
+Demand, make sure subsidy is not 
+too much and program is not 
+sustainable. If you are just using 
+promo code, it follows FTA. 
+Demand was underestimated, not 
+sure how to mitigate that. 
+Determine a cost per subsidy that 
+is sustainable, do not want to keep 
+increasing price. 
+Challenges
+Not having the technology has 
+been difficult. New Routematch 
+technology will launch in April. 
+Scalability - demand keep 
+increasing, wait times are 
+increasing. Some issues for 
+elderly to adopt, extra marketing 
+and training could be helpful. 
+Software lacks operational 
+thinking. i.e. When one driver 
+logs off and another one log in, 
+rides que during between shifts. 
+Also, app does not optimize in 
+real time, i.e.. If a vehicle is 
+delayed due to securing a 
+wheelchair, rides stack up and 
+routes do not change. Some 
+agencies have used override 
+option. 
+TransLoc has challenges making a 
+day go from 7am - 3:30am, 
+difficulty reporting. No problems 
+with Via. There are 30 "tweak" 
+options. Via is very comprehensive 
+to explain consequences. 
+More riders may use service than 
+expected and use funds quickly. 
+Safety could be an issue since 
+Uber drivers are not screened 
+strictly. Challenges getting data 
+from TNCs. Cost for wheelchairs 
+are more expensive to customer 
+(Uber XL), need to figure out 
+solution. Should agency subsidize 
+more?
+Demand is getting too high. 
+Looking for grants to supplement 
+program. 
+Additional staffing
+None
+Via provides 2 local staff to help 
+with customer service. Via staffs 
+one project manager located in 
+NY. Otherwise, no additional 
+staffing with City of Arlington
+Needed additional drivers and 
+supervisors. No dispatch or other 
+staffing needed.
+No additional staff since initial 
+program started. 
+No additional staffing, very easy 
+to manage program
+No added City staff
+Technical challenges
+Enough time for training staff how 
+to use program
+Some adoption issues with 
+customers. Otherwise, app is easy 
+to use from customer and drivers
+Contractor's phone is down a lot, 
+issue not due to TransLoc.
+Easy to implement. Many 
+challenges with TransLoc's 
+software (explained in Lesson 
+Learned and Challenges)
+Looking into concierge option to 
+order Lyft rides for call-in option. 
+Otherwise, easy to use for 
+customers
+Nothing so far, had a Lyft tutorial 
+providing free dinner and help 
+download app and hail a ride. 
+Future of the program
+New technology in April, adding 
+trip attributes (only drop-off at 
+stops with benches). One app for 
+trip planning, including private 
+and public options
+Increase number of vehicles. 
+If successful, program will expand 
+to another area. Might start 
+charging fares, however need to 
+figure out installing fareboxes. 
+Need to revisit rider policy - since 
+it is free, what is the policy for no-
+shows. 
+No changes decided as of yet
+Might expand program. Looking 
+into more wheel chair 
+accessibility options. There is a 
+new partnership with Uber/MV, 
+can we utilize that.
+Might more towards $0.50 in 
+certain areas or only connect to 
+transit? Going to conduct a study 
+session to figure out solutions. 
+Ridership
+Continuing to grow, 15-16% each 
+year
+620 per day. ~41 passenger per 
+hour
+250 riders per day. ~17 passengers 
+per hour
+200 a night. ~25 per hour
+May 18 - 1659. ~53 trips per day
+60,000 a month. ~ 2,000 trips per 
+day
+Other performance measures
+Develop new performance 
+measures as new technology 
+launches. Strategy for cost per 
+passenger, trip length, and divide 
+it by urban and rural areas. 
+Passengers per hour 1.3 - 1.8
+N/A
+N/A
+Average miles of vehicles, 
+passengers per vehicle. 
+Average wait is 10 - 15 minutes
+N/A
+=== page 55 ===
+48  
+ 
+MOUNTAIN LINE ON-DEMAND FEASIBILITY STUDY 
+ 
+Valley Regional Transit
+Dayton RTA
+Marin Transit
+Ann Arbor Area Transit Authority 
+(AAATA)
+Ada County and Canyon County
+Dayton, OH
+Marin County
+Ann Arbor, MI
+Name of service
+VRT Transit Connections
+RTA Connect
+Marin Transit Connect
+FlexRide
+Type of On-Demand service
+Partnership with Lyft for first/last 
+mile
+Partnership with Lyft for first/last 
+mile
+Microtransit service for first/last 
+mile and to service seniors and 
+people with disabilities
+Microtransit with local private 
+company
+Description
+Riders get a $2 Lyft ride to several 
+bus stops. Can get the ride to or 
+from a bus stop. But be within a 2 
+mile radius of the bus stop. 
+2 options - 1. customer can 
+transfer to an RTA bus stop for 
+free. 2. customers can use Lyft 
+within a zone for a $2 trip
+Provides on-demand trips in service 
+area. Area includes transit and BART 
+connections, YMCA, senior housing, 
+etc. Marin Transit is a 5311 agency
+Door to door ride sharing service
+Goals of program
+Provide a first/last mile 
+connection for 'best in class 
+routes'. Focus on making transit 
+better and more ridership along 
+high frequency routes. Not 
+focusing on coverage
+First/last mile and spatial. 
+Provide people in more rural 
+areas with a transportation 
+option
+First last mile solution, wanted to 
+serve multiple markets and provide 
+a transportation option where fixed 
+route is not conducive
+FlexRide is a same-day and next-day 
+on-demand service. Services area is 
+less dense than a suburb and links up 
+to bus routes and civic services. This 
+service also provides a connection to 
+a bus route. Service days are M-F 9-5.  
+Audience served
+General public
+General public
+General Public
+General public
+Days and hours
+6 a.m. to 9 p.m. Monday-Friday 
+and from 7:30 a.m. to 6 p.m. on 
+Saturday
+24/7
+Weekdays from 6:30am - 7pm
+9am to 5pm M-F
+Geofencing
+Yes, specific zone with 14 bus 
+stops, serving 4 routes
+Yes, 5 different zones, all with 
+bus stops to transfer to fixed 
+route or just use service within 
+zone for $2 trip
+Yes, 3 square mile area. Includes 
+some transit and BART connections
+Provide service in an area where 
+there is no fixed route, and help 
+connect people to bus routes
+Transportation gap addressed
+First/last mile
+First/last mile and spatial
+First last mile
+Spatial (area in low density)
+Operation model
+Partnership with Lyft
+Partnership with Lyft for first/last 
+mile. Other taxi providers and 
+paratransit
+Partnership with Via Transportation TaaS
+Pilot (how long)
+yes, 18 months. Contract with Lyft 
+for 3 one year extensions
+N/A
+Yes, 1 year but will extend for 6 
+months
+1 year pilot, will extend for another 
+year
+Partnership with private 
+company
+Lyft
+Lyft
+Via
+Metro On-Demand (MODE) - Only Ann 
+Arbor based
+Costs
+$200,000
+No data received
+~ $55 - $75 per hour, using 
+paratransit costs. Contract 
+paratransit service
+Pay by service hour, ends up costing 
+$40 per service hour.
+Funding mechanisms
+5307 funding, City of Boise for 
+local match
+Funds from cut fixed routes
+5310 funds
+2014 Transportation Improvement 
+Millage
+Fare
+$2 for customer, transit agency 
+pays the rest
+Free if transferring to bus stop, 
+$2 within zone
+Regular rides are $4 per seat. 50% 
+discounts for Marin Access services 
+or passengers riding to or from a 
+transit stop. Per rider charges also 
+decrease as your party increases. 
+For example, a regular priced trip 
+for two riders is $8, but the third is 
+$3 more, the fourth is $2 more and 
+all additional are only $1 more.
+$1 each way. Discounts available 
+students, seniors, and disabled
+ADA/FTA compliance
+ADA - partners with NEMT 
+providers since no taxi companies 
+had ADA vehicles. FTA - taxi 
+exception rule since partner with 
+2 other transportation providers
+If person calls RTA, first try to get 
+on paratransit service, then push 
+to Lyft or taxi provider
+ADA accessible vehicles. Promoting 
+to senior homes and human service 
+agencies to fit the 50% of rides for 
+seniors and people with disabilities
+Yes, vehicles are ADA
+Fleet
+Lyft fleet, 2 NEMT providers
+Paratransit, Lyft, and taxi 
+providers fleet
+Peak 3-4 vehicles, 2 during normal 
+times
+1 - 2 vehicles

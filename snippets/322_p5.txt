@@ -1,0 +1,199 @@
+# source: raw/bleecker_drive/Hillsborough County/Completed Contract File.pdf
+# path: raw/bleecker_drive/Hillsborough County/Completed Contract File.pdf
+# hit page: 5 of 199
+# terms: Via Mobility
+
+=== page 4 ===
+DocuSign Envelope ID: 2EA868C0-B16C-4F54-8139-F9C5611E9A02
+Customer Launch and Implementation Plan
+(a) General. Customer will operate and manage the Deployment as set forth in the Terms, Customer shall cooperate
+with Via as necessary for the purpose of setting up the Deployment and its specifications, including by providing
+prompt feedback to Via's inquiries and providing local insights, in order to meet mutually agreed upon deadlines.
+(b) Launch. Within one week of signing this Order, the Parties will mutually agree on the targeted launch date of the
+Deployment ("Launch"). Launch shall be no fewer than 12 weeks following execution of this Order.
+(c) Zone: Customer and Via will agree at least three months prior to launch on the exact geographical scope for the
+Deployment zone ("Deployment Zone"). Any changes or expansions to the Deployment Zone may result in
+(d) Support Requests. At the start of the project, Via will direct Customer towards the relevant CRM tools to log
+requests. In order to trigger a Product Maintenance request, requests for product maintenance must contain
+detailed information about the nature of the request. Requests for additional features may be subject to additional
+(e) Payment Processing. If Customer would like to process digital card payments, Via will facilitate an introduction
+to its recommended payment processor. The fees set forth above do not include any owed to the third party
+payment processor.
+Customer shall pay Via the following Fees for the Term, as set out below:
+Year 1
+Fee Category
+Installation Fee
+MDC Fee
+Amount
+$35,000
+Invoicing Terms
+Payable upon signing of this
+Order
+$99,400 estimated cost for 70 Samsung Galaxy Tab Payable upon purchase of
+S7 devices
+hardware; MDC Fee to be
+treated as a pass-through +10%
+Monthly Fees
+Per-vehicle fees
+Invoiced monthly by Via
+•
+$235 per vehicle per calendar month for
+vehicles 0-40
+•
+$185 per vehicle per calendar month for
+vehicles 40+
+Total Amount (12 Month
+Term)
+Years 2-5
+Fee Category
+Amount
+Ongoing Annual MDC Fees $31,500
+Monthly Fees
+Per-vehicle fees
+$247,200 assuming 40 vehicles (excluding additional Fees for any Additional
+Services)
+Invoicing Terms
+Payable at start of each year
+$250 per vehicle per calendar month for
+Invoiced monthly by Via
+vehicles 0-40
+Total Amount (per 12
+Month Term)
+$151,500 assuming 40 vehicles (excluding additional Fees for any Additional
+Services)
+Each month, Via will calculate the fees due and provide Customer with an invoice calculating the per-vehicle fees actually
+incurred based on the actual number of active vehicles used during the previous month.
+The Customer agrees that the sample invoice set out in Appendix 2 is satisfactory to Customer, both in substance and format.
+vent the duration of the Deployment does not exactly maich calendar months, monthly fees will be prorated for the first and/or last calendar months of the
+=== page 5 ===
+DocuSign Envelope ID: 2EA868C0-B16C-4F54-8139-F9C5611E9A02
+Deployment, as applicable, so that Customer will only be charged for the portion of such months during which the Via Solution was available to be used for
+the Deployment.
+ocation for additional trips upon reasonable request
+Tivilio. Price includes our generic package for Tiilio cost for 4 SMS notifications and I.25 minutes of Tivilio voice time per ride, at a maximum of S0.06*
+per ride on average for all rides completed within each calendar month.
+Branding. The Deployment will be branded as Sunshine Line powered by Via. The "powered by Via" banner must be used
+only in the exact format provided by Via, and will be prominent on all assets promoting the Deployment, including (but not
+[limited to) printed collateral, digital materials, websites, and any vehicle wraps. The "powered by Via" banner will have
+qual prominence on all marketing materials to any additional partner logos or trademarks. Via may provide pre-approve
+rand assets and guidelines that must be complied with in all marketing communications distributed by the Customer
+uring the Launch process, Via will deliver a service design document to be reviewed by the Customer and mutually agree
+• by the parties in writing. The target Launch Date, project scope, and detailed phasing of services will be set in the servic
+design document.
+This Order shall be governed by the terms and conditions set forth in the attached Terms of Service (the "Terms") and as
+provided in Section 16 of the Terms. Capitalized terms used herein and not otherwise defined shall have the meaning in the
+Terms. Notwithstanding anything to the contrary, Via and Customer hereby agree tha
+Sections 2.3.1.8 through 2.3.1.10.1.2.3 of RFP-23-24177 do not apply to the Deployment and shall have no effect. By signin
+below, the parties agree to the Terms.
+VIA MOBILITY LLC
+- DocuSigned by:
+By:
+Dillon Twombly
+-3D9717A739E245B.
+Name: Dillon Twombly
+Title:
+Manager
+Date: 11/29/2023
+HILLSBOROUGH COUNTY
+By: /hem Haeon
+Name: Ken Hagarte
+Title:
+BOCC, Chair
+Date: December 20, 2023
+BOCC Staff
+BOARD OF COUNTY COMMISSIONERS
+HELLSBORDUGH COUNTY FLORIDA
+DOCUMENT NO.
+23-1431
+Approval
+Date
+Department Fiscal
+Department Director
+Procurement
+County Attorney:
+Approved as to Form and
+Legal Sufficiency
+Renee Campbell
+Jerry Stickney
+Ports
+Digitally signed by Orlando
+Orland
+On none outs untra
+States I=US United States
+aHilscotouan county
+o Perez
+aul=County Alornev
+esperezo@hillsboroughcounty.
+Reason: I have reviewed this
+document
+lacaoon.
+Date: 2023-11-26 13:39.05:00
+''1/38202)
+=== page 6 ===
+Agenda Item Cover Sheet 
+Agenda Item No.
+A-45
+Meeting Date
+12/20/2023
+ Consent Section
+ Regular Section
+ Public Hearing
+Subject:
+Award a five (5) year procurement to the highest-ranked and best qualified firm and execute 
+the related Deployment Service Order for implementation, administration, and support of a 
+new paratransit scheduling system (RFP-23-24177) for the Sunshine Line at a total cost of 
+$860,825.00.
+Department Name:
+Procurement Services
+Contact Person:
+Scott Stromer
+Contact Phone:
+301-7095
+Sign-Off Approvals:
+Tom Fesler
+12/8/2023
+John Hollingshead
+12/6/2023
+Assistant County Administrator
+Date
+Department Director
+Date
+Kevin Brickey
+12/6/2023
+Orlando Perez
+12/6/2023
+Management and Budget – 
+Approved as to Financial Impact Accuracy
+Date
+County Attorney – 
+Approved as to Legal Sufficiency
+Date
+N/A
+N/A
+Deputy or Chief County Administrator
+Date
+Staff's Recommended Board Motion:
+Award a five (5) year procurement to the highest-ranked and best qualified firm, Via Transportation, 
+Inc., d/b/a Via Mobility, LLC, and execute the related Deployment Service Order for the implementation,
+administration, and support of a new paratransit scheduling system (RFP-23-24177) for the Sunshine 
+Line at a total cost of $860,825.00.  Proposals were received from five (5) different proposers, all of 
+which were thoroughly reviewed, scored, and ranked by the tending evaluation committee.  In this case, 
+the opportunity for proposers to receive five (5) bonus points by subcontracting a minimum of 10% of 
+the ultimate fees to Certified Disadvantaged Minority/Disadvantaged Women Business Enterprises 
+(DM/DWBE) was available; however, none of the proposers requested such points.  Funding for this 
+procurement is available in the requesting department's approved budget, and purchase orders will only 
+be issued against approved budgets.
+Financial Impact Statement:
+Funding for this procurement is available in the requesting department's approved budget, and purchase 
+orders will only be issued against approved budgets.
+Background:
+The recommended award amount is approximately 31.1% ($389,175.00) lower than the requesting 
+department's annual estimate.  Effective competition and transparency were achieved through the use of 
+competitive sealed proposals for this procurement and the requesting department determined the offered 
+pricing to be fair and reasonable.  The recommended firm will install, implement, administer, and 
+maintain a new paratransit scheduling system, which will include managing client eligibility, advance 
+and real-time trip reservations, issuing bus passes, manual and fully automated trip scheduling, 
+dispatching, automatic vehicle tracking, billing, and reporting.  The resulting contract will be made 
+available to the Hillsborough County Governmental Purchasing Council.
+DELEGATIONS TO DIRECTOR OF PROCUREMENT:
+[N] Unilateral Change Orders up to $25,000 for additions within the scope of the contract

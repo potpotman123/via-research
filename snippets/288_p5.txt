@@ -4,7 +4,59 @@
 # terms: River North Transit
 
 === page 4 ===
-
+Excludes additional vehicles in excess of the minimum, TNC per ride fees, and any
+Fees for any Additional Services
+$79,040
+Total Minimum Amount
+for 16-Month Base Term
+(Excluding Additional
+Services)
+Total Minimum Amount
+$104,040
+for 16-Month Base Term
+(Including Vietnamese
+App Translation)
+Total Not to Exceed
+$164,984
+Amount (Including
+Vietnamese App
+Translation)
+Additional Services:
+$25,000
+Vietnamese App
+Translation
+The Customer agrees to pay the Minimum Monthly Fee (i.e. the monthly vehicle minimum fees set out in the table above)
+for a period of 12 months in advance and annually thereafter (the "Advance Annual Fee"). Via will submit an invoice for
+Advance Annual Fee upon signature of this Order payment due in accordance with the Terms. For the avoidance of doubt,
+the first Advance Annual Fee is due in advance of Launch. Via will invoice the Advance Annual Fee annually thereafter
+for the remainder of the Term.
+In the event that the per-vehicle-fees incurred for a given month exceed the Minimum Monthly Fee, Customer shall be
+responsible for paying the difference for each such month ("Monthly True-Up") within 30 days of the date of such invoice.
+Via will calculate any fees due as Monthly True Up each month and provide Customer with an invoice calculating the per-
+vehicle fees actually incurred based on the actual number of active used during the previous month. Any Service Revenue
+collected on behalf of the Customer is the property of the Customer. Invoices shall include a credit for any Amount of
+Service Revenue collected during the invoice period to be reinvested into the Service. Any unspent Service Revenue
+remaining at the end of each contract year shall be distributed to the Customer within 30 days after the end of the contract
+The Customer agrees that the sample invoice set out in Appendix 2 is satisfactory to Customer, both in substance and format.
+Via shall calculate the Fees due. For the avoidance of doubt, i) the number of vehicles per month for purposes of the above fees shall be the maximum number
+of distinct vehicles input by Customer that use the Via Solution on any given day over the course of the applicable calendar month and (ili) in the event the
+duration of the Deployment does not exactly match calendar months, monthly fees will be prorated for the first and/or last calendar months of the Deployment,
+as applicable, so that Customer will only be charged for the portion of such months during which the Via Solution was available to be used for the Deployment.
+Twilio. Price includes our generic package for Twilio cost for 4 SMS notifications and 1.25 minutes of Twilio voice time per ride, at a maximum of $0.05
+per ride on average for all rides completed within each calendar month. Any costs associated with Twilio in excess of $0.05 per ride will be billed to the
+Customer as at cost plus 10% on a monthly basis
+Launch Delay. If the Launch Date is delayed for more than a calendar month by Customer for any reason, Customer shall be
+responsible for paying Via for a $1,500 monthly technology fee for the cost of maintaining the technology infrastructure for
+Customer's deployment during the period of delay (the "Technology Fee"). The Technology Fee shall be payable monthly
+at the beginning of the month in which it is incurred. In the event that the duration of the delay does not exactly match calendar
+months, the Technology Fee will be prorated for the relevant month in which Launch occurred.
+Branding. The Deployment will be determined during the Launch process. The "powered by Via" banner must be used
+only in the exact format provided by Via, and will be prominent on all assets promoting the Deployment, including (but not
+limited to) printed collateral, digital materials, websites, and any vehicle wraps. The "powered by Via" banner will have
+equal prominence on all marketing materials to any additional partner logos or trademarks. Via may provide pre-approved
+brand assets and guidelines that must be complied with in all marketing communications distributed by the Customer.
+This Order shall be governed by the terms and conditions of the On Demand Ride Share Service Contract (the "Terms"),
+dated as of November 29, 2022 between Parties, subject to the modifications set forth as Appendix 3 hereto.
 === page 5 ===
 RIVER NORTH TRANSIT, LLC 
  
@@ -48,3 +100,47 @@ Date:
  
 Date:
 === page 6 ===
+Appendix 1 to Service Order
+VOC Use and Data Sharing
+Authorized Users
+The below exhibit sets forth the members of the Customer's "Core Team" of personnel who are designated authorized users of the VOC
+including access to the data detailed below (the "Core Team"). Access to the VOC is conditional upon Customer notifying Via with
+reasonable advance notice of the name, title, email address and any other details Via may reasonably require of the members of the
+Customer Core Team. The Core Team may be updated during the Term subject to Via's consent.
+Exhibit 1.
+Core Team
+Title
+Name
+Director of Transportation
+Alicia Winkelblech
+Planning and Programming Manager
+Ann Foss
+Customer Core Team will be granted suitable permissions to allow them to manage and authorize access of additional Customer
+personnel as secondary users ("Secondary Users") to the VOC. All Core Team and Secondary Users will be subject to Customer's
+confidentiality and non-disclosure obligations, as described in the Terms. For the avoidance of any doubt, Customer's Core Team
+responsibility includes granting permissions to Secondary Users only to the extent such permission is needed for the Customer's
+operation of the Deployment and in compliance with applicable privacy legislation, and removing any Secondary User access once it is
+no longer needed. Via retains the right to deny or revoke any Core Team or Secondary User access if Via suspects that such access may
+be causing or have caused a breach of the Terms, or any user guidance Via issues from time to time.
+Authorized Operators
+Customer may not provide access to the Via Solution to any third party except with Via's prior written consent. In the event that
+Customer wishes to engage a third-party operator ("Operator") to operate the Deployment, Customer shall provide Via a copy of an
+Operator Acknowledgement Form in the form required by Via, duly executed by such Operator, as a prerequisite for Via's allowing the
+Operator access to the Via Solution. For the avoidance of doubt, no Operator will be allowed access to the Via Solution without having
+signed the Operator Acknowledgement Form. Customer Core Team will be responsible for grant of VOC permissions to the Operator's
+team, which will be considered Secondary Users for all purposes. As between Customer and Via, Customer shall remain responsible for
+acts and omissions of any Operator as it relates to Operator's access to the Via Solution.
+Data Sharing Plan
+As part of the Deployment, and as detailed below, Via will make access to data available to members of the Customer's Core Team,
+and any above-authorized Customer's Secondary User(s) and/or Operator(s), for the purpose of research and program evaluation for the
+duration of the Term. The data will be accessible in the VOC, and may not be shared through any other method unless otherwise
+authorized in writing by Via. Any and all data made available under this Order are trade secrets of Via, and subject to the confidentiality
+and other protective provisions set forth in the Terms at all times. Customer may not share any such data with anyone not authorized in
+accordance with this Appendix 1.
+To protect Via's Intellectual Property Rights and the privacy of riders, Via will provide the following data tables and dashboards in the
+form of aggregated reports and data tables to Customer through VOC:
+• Service KPI Dashboards: Visualized dashboards and graphs of Key Performance Indicators. These dashboards provide a high
+level view of the overall service performance across a number of metrics and periods of time. Dashboards are available for
+download as jpeg files or in raw form as excel spreadsheets.
+• Data Generator: Set of tables with granular raw data about the service that are available for download as excel or csv
+spreadsheets.

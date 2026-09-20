@@ -1,0 +1,247 @@
+# source: raw/bleecker_drive/Miami Dade/231379.pdf
+# path: raw/bleecker_drive/Miami Dade/231379.pdf
+# hit page: 12 of 13
+# terms: River North Transit, Via+vehicles
+
+=== page 11 ===
+Miami-Dade County, FL    
+ Supplemental Agreement No. 3 to Contract No. RFP-01083 
+SUPPLEMENTAL AGREEMENT NO. 3 
+Contract Number: RFP-01083 
+Contract Title: 
+ON-DEMAND TRANSIT SERVICES 
+Contractor: 
+River North Transit, LLC 
+10 Crosby Street, 2nd Fl. 
+New York, NY 10013 
+In accordance with the above referenced Contract, this Supplemental Agreement, when properly executed, shall 
+become part of the Contract and amend the Contract as follows: 
+1.
+>>Article 5, Contract Term, of the Contract is hereby modified to reduce the option to renew term of this
+Contract from one (1) additional three-year period to one (1) additional 18-month period commencing on
+September 1, 2023 and expiring on March 31, 2025 at 11:59 pm. <<
+2.
+Attachment A, Price Schedule, of the Contract is hereby modified to insert the Pricing Schedule appended
+hereto in place of the Pricing Schedule appended to the Contract, to incorporate the following changes:
+a.
+Establish a billable hourly rate of $57.50, for the hours of service outside of the scope defined in
+Appendix A, Section 2.3 of the Contract.
+b.
+Include the cost of Dadeland Weekend service.
+c.
+Add vehicles to meet growth in ridership.
+d.
+>>Add new service zones.<<
+e.
+Include pricing and budget for May Mobility Autonomous Vehicles to be added to the service.
+3.
+Attachment B, Integration Details, of the Contract is hereby modified to include the addition of the
+following:
+³Integration 5: Additional fees incurred to effect Transit app integration shall be reimbursed to Contractor
+by County at a cost recovery basis with no mark-up or other charges conditional upon County¶s receipt of
+a fully-executed contract between Contractor and Transit app for the benefit of the County. Fees eligible
+for reimbursement are a monthly service fees at a rate not to exceed $1,500 per month unless amended by
+mutual written agreement.´
+4.
+The parties agree to the following changes to the Contract allocations:
+a.
+The total contract value of the [[three option to renew years]] >>18-month option to renew term<< is
+increased by [[$4,856,477]]  >>$2,500,000 << from [[$4,620,750]] >>$2,310,375<< to [[$9,477,227]]
+to >> $4,810,375<< to account for growth in the base contract years and continued estimated growth
+in the [[three option years]]  >>18-month option period<<.
+b.
+>>The total contract value of the 18-month option to renew term is further increased by $3,500,000
+from $4,810,375 to $8,310,375 to account for the implementation of new service zones. <<
+c.
+The total contract value of the [[three option to renew years]] >>18-month option to renew term<<  is
+further increased by [[$6,976,760]]  >>$3,500,000<< from [[$9,477,227]] >>$8,310,375<< to
+[[$16,453,987]] >>$11,810,375<< to account for the addition of Autonomous Vehicles to the Go-
+MDC0011
+=== page 12 ===
+Miami-Dade County, FL  
+  Supplemental Agreement No. 3 to Contract No. RFP-01083 
+Page 2 of 3
+Connect service. County and Contractor will work together to refine and agree upon the exact scope 
+and timeline of the addition of the May Mobility autonomous vehicles to the service.  Such agreement 
+shall be set forth in writing in an amendment to the Agreement. 
+d.
+The total contract value of the [[three option to renew years]] >>18-month option to renew term<< is
+further increased by [[$54,000]] >>$27,000<< from [[$16,453,987]] >>$11,810,375<< to
+[[$16,507,987]]  >>$11,837,375<<  to account for the monthly costs of integration between River North
+Transit, LLC and Transit App on behalf of the County.
+[[The scope of services is hereby amended in include the implementation of new service zones,
+allocated in the amount of $6,350,000.]]
+The >>total<< amount of this change >>and Miami-Dade County¶s total expenditure authority pursuant 
+to this Supplemental Agreement No. 3<< is [[$18,237,237]] >>$11,837,375<<. 
+This Supplemental Agreement, when executed, will increase the total contract allocation, base term ($5,596,200) 
+and Option to Renew [[($4,620,750)]]  >>($2,310,375)<<  by [[$18,237,237]]  >>$9,527,000<<  from 
+[[$10,216,950]]  >>$7,906,575<<  to [[$28,454,187]]  >>$17,433,375<<.  The contract amount for the base term 
+was increased by $932,700[[, via an internal budget adjustment]]. >>on March 7, 2023<<. 
+These changes are subject to approval by the Board of County Commissioners. 
+All other terms, covenants and conditions of the original Contract and any prior Supplemental Agreements 
+issued thereto shall remain in full force and effect, except to the extent herein amended. 
+IN WITNESS WHEREOF, the parties have executed this Supplemental Agreement No. 3 to County Contract No. 
+RFP-01083, On-Demand Transit Services. 
+River North Transit, LLC 
+Miami-Dade County 
+By: _________________________ 
+By: __________________________  
+Name: ______________________ 
+Name: Daniella Levine Cava          . 
+Title: ________________________ 
+Title: Mayor       
+  . 
+Date: ________________________ 
+Date: _________________________ 
+Attest: _______________________ 
+Attest: ________________________ 
+  Corporate Secretary/Notary 
+  Clerk of the Board 
+Corporate Seal/Notary 
+Approved as to form 
+and legal sufficiency 
+______________________________ 
+Assistant County Attorney 
+MDC0012
+=== page 13 ===
+Miami-Dade County, FL  
+  Supplemental Agreement No. 3 to Contract No. RFP-01083 
+Page 3 of 3
+Attachment: 
+A - Revised Pricing Schedule 
+ATTACHMENT A 
+REVISED PRICING SCHEDULE: 
+AUTONOMOUS VEHICLE SUMMARY BUDGET: 
+The total cost for the proposed AV service expansion of 10 AVs across all [[3 years]] >>18 months<< priced is 
+below.  
+Service Zone
+Cutler Bay 
+(CB)
+Dadeland
+West 
+Kendall 
+(WK)
+Civic 
+Center 
+(CC) 
+Total 
+OTR  
+Revenue 
+Hours
+OTR  
+ 
+Budget 
+Total 
+Additional 
+Revenue 
+Hours 
+Budget 
+Increase
+New 
+Service 
+Zones 
+New 
+Service 
+Zones 
+Budget
+Total AV 
+Hours
+AV 
+Budget 
+Total 
+Budget 
+Multi-Modal/Intermodal App Integration 
+$10,080
+$10,080
+Transit App Integration
+$27,000
+Hourly Rate 
+$50.50
+$50.50
+$50.50
+$50.50
+$50.50
+$50.50
+$50.50
+$50.50
+$57.50
+$57.50
+$88.90 + Infl$88.90 + Infl
+Year 1:  Sep. 2023-Aug. 2024
+7,750
+7,750
+7,750
+7,250
+30,500
+$1,540,250
+32,870
+$1,659,950
+38,000
+$2,185,000
+25,515
+$2,268,284
+$7,653,484
+Year 2 (6 months): Sep. 2024 - Mar. 2025
+3,875
+3,875
+3,875
+3,625
+15,250
+$770,125
+16,435
+$829,970
+22,870
+$1,315,000
+13,816
+$1,231,716
+$4,146,811
+Total
+11,625
+11,625
+11,625
+10,875
+45,750
+$2,310,375
+49,305
+$2,489,920
+60,869.6
+$3,500,000
+39,331
+$3,500,000 $11,800,295
+Total (18 Months)
+11,625
+11,625
+11,625
+10,875
+45,750
+$2,310,375
+49,305
+$2,500,000
+60,869.6
+$3,500,000
+39,331
+$3,500,000 $11,837,375
+Hourly Rate 
+$88.90
+$89.15
+OTR Year 
+12 months
+6 months
+First Deployment Fleet 
+4-6
+4-6
+10
+Second Deployment Fleet 
+3-4
+3-4
+10
+Total AV Hours 
+25,515
+13,816
+39,331
+Total Budget 
+$2,268,284
+$1,231,716
+$3,500,000
+Total 
+MDC0013

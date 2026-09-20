@@ -1,0 +1,60 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Metropolitan Council/0923_2024_216-sw.pdf
+# pages_total: 2; hit_pages: [1]; included: [1]
+# context: Bleecker Drive folder: Metropolitan Council
+
+=== page 1 of 2 ===
+1 
+ 
+Microtransit Software, Contract 24P015 
+Business Item: 2024-216 SW 
+ 
+ 
+Committee Meeting Date: September 23, 2024 
+For the Metropolitan Council: September 25, 2024 
+ 
+ 
+ 
+District(s), Member(s): 
+All 
+Policy/Legal Reference: 
+FM 14-2 - Expenditures for the Procurement of Goods, Services, and Real 
+Estate Policy 
+Staff Prepared/Presented: 
+Charles Carlson, Executive Director MTS (651) 602-1761 
+Gerri Sutton, Dir Contracted Transit Services (651) 602-1672  
+John Harper, Mgr Contracted Transit Services (651) 602-1744 
+Division/Department: 
+Metropolitan Transportation Services (MTS) 
+ 
+Proposed Action 
+That the Metropolitan Council authorize the Regional Administrator to negotiate and execute  
+contract 24P015 with Spare Labs, Inc., to provide software that will support microtransit 
+service operations in an amount not to exceed $852,100. 
+ 
+Background 
+Metropolitan Transportation Services provides transit service using contracts with private 
+companies. The microtransit service is a demand-responsive transit service where users 
+request on-demand trips either using a mobile application or by calling a reservationist and 
+trips are assigned to the next available vehicle for completion.  This contract will provide a 
+fully hosted and maintained software solution with a secure combination of public-facing, 
+ADA-compliant rider app, driver app, dispatch system, account management system, robust 
+operations, monitoring, administrative and reporting functions to support Metro micro service 
+in North Minneapolis, Woodbury Area, and Roseville Area with additional service zones to 
+be added in 2025 through 2027. 
+A Request for Proposals was issued on June 5, 2024. A pre-proposal meeting was hosted 
+by Council staff that outlined the solicitation requirements, discussed project specifications, 
+and responded to plan holder inquires. There were twenty-four registered plan holders 
+including eleven prime proposers, two consultants, three subcontractors, five suppliers, 
+three plan rooms, and nine plan holders identified as minority, woman, small, veteran, or 
+disadvantaged business enterprises. On July 17, the Council received four proposals for 
+consideration of award. 
+An evaluation panel consisting of staff from Metropolitan Transportation Services, Metro 
+Transit, and Minnesota Valley Transit Authority, evaluated the proposals using the following 
+criteria: proposal quality, proposer’s qualifications and experience, proposer’s capabilities 
+and ability to deliver the service, and proposal price. The evaluation panel recommends 
+Spare Labs Inc., as having all the required attributes and to be the most advantageous to 
+ 
+Business Item 
+Transportation Committee 
+M e t r o pol it a n C o u n c i l

@@ -1,0 +1,109 @@
+# source: raw/bleecker_drive/Doral/20_3828_attachment_1.pdf
+# path: raw/bleecker_drive/Doral/20_3828_attachment_1.pdf
+# hit page: 1 of 3
+# terms: Via+not to exceed, Via+not-to-exceed
+
+=== page 1 ===
+0 03
+MORIDD
+Memorandum
+Date:
+To:
+Via:
+From:
+Subject:
+August 12, 2020
+Honorable Mayor and City Council-Members
+Albert P. Childress
+City Manager
+Aes
+Carlos Arroyo
+Public Works Director
+Remix Contract Agreement & Budget Transfer
+Introduction
+This memorandum provides staff's recommendation for the Mayor and the City Council-Members to
+authorize the City Manager to enter into a Contract Agreement with Remix Software, Inc. (Remix) for a
+three (3) year period in an amount not to exceed the Departmental budgeted funds. The Remix Software
+will facilitate the development of transit alignment analysis, will help create public transportation routes,
+will help project ridership, and develop schedules based on GPS roadway data. Additionally, the Public
+Works Department (PWD) is requesting to transfer $14,000.00 from Transportation Fund "Construction
+Progress"
+Account Account
+No. 101.80005.500650)
+the Transportation Fund
+"Dues/Subscriptions/Memberships" Account (Account No. 101.80005.500540) in order to provide
+sufficient funding in the account to cover the cost of the first year which includes a one-time setup fee of
+$2,000.00, a one-time data fee of $ 1,000.00, and a $11,000.00 yearly fee.
+Background
+Historically when developing, modifying, and evaluating trolley routes, schedules, stops, potential
+passenger access, and costs, the Public Works staff has relied on a number of software programs including
+Excel, Google Earth, and Census data to perform the analysis. In addition, the Public Works Department
+(PWD) has also relied on the assistance of consultants to further refine the transit routes from a planning
+concept to an implementable reality. However, this method of transit planning has become antiquated
+with the development of Remix. Remix is a cloud-based software that provides a transit platform that
+brings together the complete transportation picture into a single program. Remix's Transit Platform
+provides quick bus route design and analysis capacities through an internet browser interface, including:
+map-based route and stop planning, stop-based demographic analysis, operating cost calculations based on
+both frequencies and timetables, and customizable accessibility visualizations and analytics.
+=== page 2 ===
+The PWD is requesting to purchase the Remix Software license for a three (3) year period. Remix will
+facilitate the development of transit alignment analysis, will help create public transportation routes, will
+help project ridership, and develop schedules based on GPS roadway data. This software is needed to
+refine the trolley alignments of the preferred alternative recommended in the Doral Trolley / SMART Plan
+Coordination Study, and for the development of the new trolley route schedules. The total cost of the
+software for the first year is $14,000.00, which includes a one-time setup fee of $2,000.00, a one-time
+data fee of $1,000.00, and a $11,000.00 yearly fee. The first-year complete cost will be funded by the
+Public Works Department Transportation Fund. From the second year on, the yearly fee ($11,000.00)
+will be carried in the Information & Technology Department "Repair Maintenance Office Equipment
+Other" Account, Account No. 001.22005.500464.
+Procurement
+Remix has provided documentation identifying themselves as a sole source for the only cloud-based transit
+planning software that provides quick bus route design and analysis capacities through an internet browser
+interface. Miami-Dade County and the City of Miami are also customers of Remix. Remix is a
+subcontractor through a contract between WSP (a transportation consultant firm) and Miami-Dade
+County for the County's Vision Zero project, which is a safety program with a goal of eliminating fatalities
+due to vehicular crashes. The City of Miami has a two (2) year contract with Remix which was executed
+on January 18, 2019 and was not competitively bid.
+Additionally, the PWD performed market research on transit planning software to determine the
+capabilities of other products in the market. There are several software's that exist that are similar to
+Remix that assist agencies with the planning of new transit routes. However, the other softwares lack the
+ability to provide service cost estimates, demographic data for Title VI requirements, or the number of
+vehicles required for the transit service. Additionally, Remix would not require additional GIS software
+to draw out the new potential alignment manually, based on multiple scenarios developed. The table
+below provides a comparison between other transit planning softwares in the market.
+Transit Planning Software Capabilities
+Software
+Name
+Scheduling
+Route
+Planning
+Cost
+Estimates
+Remix
+Demographics
+(Population,
+workforce,
+poverty)
+wonder c
+equire
+Analyze
+Additional
+multiple
+Web-based
+GIS
+alternatives
+software not
+at one time
+required
+HASTUS
+Optibus
+TBEST
+TransCAD
+AccoulD is requesing to transfer 5, 1, 800 506 Transportation Fund Transporatin Progres
+101.80005.500650)
+Transportation
+"Dues/Subscriptions/Memberships" Account (Account No. 101.80005.500540) in order to provide
+sufficient funding in the account to cover the cost of the first year which includes a one-time setup fee o
+$2,000.00, a one-time data fee of $1,000.00, and a $I 1,000.00 yearly fee. The subsequent second and thirc
+ear yearly fee ($11,000.00) will be carried in the Information & Technology Department "Repa
+laintenance Office Equipment Other" Account, Account No. 001.22005.50046

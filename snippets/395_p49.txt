@@ -1,0 +1,91 @@
+# source: raw/bleecker_drive/The Metropolitan Government of Nashville and Davidson County/2025_1155_Contract.pdf
+# path: raw/bleecker_drive/The Metropolitan Government of Nashville and Davidson County/2025_1155_Contract.pdf
+# hit page: 49 of 70
+# terms: Via+SaaS
+
+=== page 48 ===
+Docusign Envelope ID: FB67CC8E-A5D2-4D73-ADD1-FC7AE1463C8E
+& remix
+by @via
+→ Examples of uploaded data include: traffic collisions, vehicular turn counts,
+bike network data, historic transit ridership data, bus stop infrastructure,
+etc.
+DATA AGNOSTIC
+The Remix platform is data-agnostic, built to ingest data from both
+proprietary and public sources. Unique specifications include:
+→ Dedicated data team that has supported over 3,000 datasets to date
+→ Proven experience partnering and integrating with other ITS vendors, such
+as INRIX, Swiftly, Via, and Syncromatics
+OPEN DATA STANDARDS
+Remix champions open data standards to minimize an agency's cost of
+transforming data and to ensure interoperability with other systems. Over
+years, Remix has made significant contributions to leading transportation
+data standards, like OpenStreetMap and Mobility Data Specification
+(MDS), so that an ecosystem of technology and tooling exists to help the
+broader transportation industry.
+4
+PROPRIETARY & CONFIDENTIAL
+=== page 49 ===
+Docusign Envelope ID: FB67CC8E-A5D2-4D73-ADD1-FC7AE1463C8E
+& remix
+by @vIa
+UNLIMITED USERS PER CUSTOMER ORGANIZATION
+One agency license includes access for an unlimited number of users
+within the customer agency.
+WIDE RANGE OF IMPORTS AND EXPORTS TO PROMOTE
+INTEROPERABILITY
+As a Saas product, Remix is designed to work with existing agency tools
+and processes. Users can import and export existing information to CAD.
+Other exports include shapefile, PNG images, as well as print-ready
+visuals in PDF.
+Designed for
+collaboration and
+community
+engagement
+Remix is the first and only
+collaborative mapping
+platform made to be used by
+multiple departments across
+a diverse set of stakeholders
+and, unlike other technology
+offerings, is intentionally
+designed for community
+engagement.
+COLLABORATION WITH INTERNAL STAKEHOLDERS
+Remix is designed to assist the many collaborative components of the
+planning process. Unique specifications include:
+→ "Remix Commenting" to collect and manage feedback from colleagues
+Geo-located comments that provide additional clarity and context
+about the project at hand
+• Threadable commenting for storing conversation in one place and
+makes collecting input easier to manage
+• Archived comments to categorize comments that are in active
+discussion vs comments addressed
+→ Project sharing through email invitation or shared links
+• A "viewed" list showing which invited users have viewed the project
+• Shared project links can be duplicated to preserve originals and
+support project versioning
+→ "Sample Street Projects" in Remix Streets, which are templates of various
+street designs that users can copy and paste into their own projects to
+make the design process faster and easier
+→ Shared organization-wide settings that are customizable per agency
+5
+PROPRIETARY & CONFIDENTIAL
+=== page 50 ===
+Docusign Envelope ID: FB67CC8E-A5D2-4D73-ADD1-FC7AE1463C8E
+> remix
+by @via
+COLLABORATION WITH EXTERNAL STAKEHOLDERS
+Collaboration between a transportation agency and external
+stakeholders is a two-way street. That's why Remix is intentionally
+designed for community engagement. Unique specifications include:
+→ Read-only project view shared through web links
+→ "Remix Commenting" to collect and manage feedback from external
+stakeholders
+• Geo-located comments that provide additional clarity and context
+about the conversation at hand
+• Optional threadable commenting that provides back-and-forth
+conversation between internal staff and external stakeholders
+→ Comment export to keep record of public or external stakeholder feedback
+in one place
+PROPRIETARY & CONFIDENTIAL

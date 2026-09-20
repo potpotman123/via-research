@@ -1,0 +1,129 @@
+# source: raw/bleecker_drive/Capital Area Transit System/RFP_2025-BakerMicrotransit-001.pdf
+# path: raw/bleecker_drive/Capital Area Transit System/RFP_2025-BakerMicrotransit-001.pdf
+# hit page: 21 of 74
+# terms: Via+vehicles
+
+=== page 20 ===
+20 
+ 
+• 
+Summary of work completed to-date 
+• 
+Updates to project schedule 
+• 
+Status of and deliverables 
+• 
+Activities and expected deliverables for the upcoming month 
+• 
+Red-flag issues 
+ 
+Provide Performance Reports & Service Adaptation Plans (SAP) 
+Regular Performance Monitoring: Reporting and analysis tools shall be built into the technology 
+platform and open to CATS for regular use. All data collected as part of the Project must be openly 
+shared with CATS and is the property of CATS. The Proposer shall create custom reports as 
+requested by CATS. Reports shall allow for daily, weekly, monthly assessment of the Service so that 
+changes can be made to improve service and ridership if deemed necessary by CATS. 
+Performance Evaluation Reports: Proposer shall provide a Performance Evaluation Report at the 
+end of each month of the project Service. At six (6) months and 12 months of service, a Summary 
+Performance Evaluation Report shall be submitted that includes all past performance measures and 
+reporting to give a comprehensive overview of the success of the Project to date. 
+Report Content: Monthly Performance Evaluation Reports in Excel (.xml) and .pdf formats shall 
+summarize the performance of the Project, using clear and measurable criteria that could include 
+but are not limited to: 
+• 
+Demand summary (origin/destination, time of use, boardings per revenue hour, total ridership, 
+type of rider) 
+• 
+Trip data (travel times, routes trip denial rate, booking abandonment rates, percentage of 
+time headways are met) 
+• 
+Revenue summary (total revenue, revenue broken down by types of riders, if applicable) 
+• 
+Hardware performance and reliability 
+• 
+Vehicle maintenance, performance, and reliability 
+• 
+Status and success of marketing efforts (number of events, attendance, audience reach, etc.) 
+• 
+Customer Service (complaints, commendations, requested service not provided) 
+• 
+Accident/Incident reports 
+ 
+All data must be compliant with National Transit Database reporting criteria for purchased services. 
+Service Adaptation Plan: If circumstances arise that merit modifications to the Project operations, a 
+Service Adaptation Plan (SAP) must be submitted along with the monthly report, clearly delineating 
+the problem(s), proposed solution(s), specific service changes, additional cost, and timeline for 
+implementing changes.
+=== page 21 ===
+21 
+ 
+D. INVOICING 
+The proposer shall provide regular invoices for all services rendered. The proposer shall submit 
+invoices monthly on the 15th of each month and should include expenses for the preceding month 
+with the billing period beginning and ending in the same calendar month. (i.e. – the invoice for the 
+period January 1 – January 31 would be due on February 15th). Should the 15th fall on a weekend 
+or holiday, the invoice will be due on the next business day. 
+Invoices received on time will be payable by CATS to the Proposer 30 days from the invoice date. 
+Incomplete or inaccurate invoices shall be returned to the Proposer unapproved for correction. 
+Invoices shall be submitted in a format agreed upon by CATS and the Proposer. 
+ 
+E. FINALIZE PROJECT SERVICE PLAN 
+Proposer shall coordinate with CATS Project Manager and staff to refine and approve the Project 
+Service Plan, including type and number of vehicles, specific stops, and routes (if necessary), times 
+and days of service, service coverage areas, fare structure and cost structure. Field visits should be 
+made to assess all proposed stop locations for safety, ADA access, and existing shelters and 
+amenities. 
+Proposer shall work closely with CATS to incorporate stakeholder feedback into the service model, 
+as appropriate. The proposer shall work with CATS to determine the cost per ride to users based on 
+the proposed service model, associated costs to operate the Project, and available resources. 
+ 
+F. SOFTWARE, HARDWARE & EQUIPMENT PLANNING 
+Proposer shall provide all software, installation, training, and technical assistance, hardware and 
+equipment required to deploy and manage the Rideshare Service. 
+Technology Platform Characteristics and Documentation 
+CATS envisions a technology platform that can be used to, in real time, aggregate riders traveling 
+from multiple origins to multiple destinations in an exceptionally efficient way that optimizes the 
+balance between maximizing vehicle utilization and maintaining excellent quality of customer 
+experience. 
+The platform should support fully automated scheduling, dispatch, and reservations, allowing 
+passengers to book trips in real-time via phone, internet, and mobile application. The administrative 
+interface should allow for real time monitoring and assessment of schedule adherence, vehicle 
+locations, passenger breakdowns, driver performance, and other relevant trip details. It should be 
+accessible via standard web browsers and from any commonly used internet-enabled device and 
+should provide options to generate reports and extract operational data for analysis.
+=== page 22 ===
+22 
+ 
+ 
+Using the final Project service model and description of work above as a basis, the Proposer shall 
+design and document processes and functionalities as they are to be implemented within the 
+software component of the project. The Proposer shall document modules, platforms, and services 
+that will be implemented to meet CATS’s needs, desired service model, and work rules. 
+The proposer will be responsible for coordinating payment and fare integration within the technology 
+platform and/or across other agency applications, as necessary. CATS envisions that the payment 
+system will be highly accessible and may include access through a smartphone app, online, or by 
+phone and would accept multiple forms of payment to accommodate residents that are unbanked, 
+do not own a smart phone, or have low technology literacy. 
+ 
+Hardware and Equipment 
+The Proposer shall provide all necessary hardware required to deploy the Project. If any transfer of 
+equipment is required between vehicles, transfer should be simple and efficient. The operator user 
+interface should be safe and easy to use and include audible and clear messaging indicating 
+passenger updates and stop changes. Driving instructions should be available in list, map, and turn-
+by-turn voice instructions to ensure safe operation. 
+a. Vehicle Acquisition & Operations Plan: 
+CATS expects the Proposer to supply and maintain all necessary vehicles for the Project. 
+CATS requires vehicles that accommodate mobility-limited users.  Vehicles used in the 
+performance of this contract shall be no more than five (5) years old and/or have no more 
+than 150,000 miles at any time during the initial term or subsequent renewals of this contract. 
+Vehicle registration and vehicle identification numbers will serve as proof of age.  
+At least fifty percent (50%) of vehicles operated must meet all ADA standards or be ADA 
+accessible. 
+Vehicles shall be capable of carrying no more than eight (8) passengers but carrying no less 
+than two (2) passengers. 
+Vehicles shall be equipped with a partition that serves as a protective barrier for drivers. 
+Vehicles shall be equipped with video and audio surveillance devices. 
+b. Vehicle Operations: 
+Selected Proposer is responsible for ensuring that all relevant federal, state, and local 
+regulations are complied with. The selected proposer shall provide CATS with the following 
+driver information no less than 10 days prior to the Rideshare Service start date. Operators

@@ -1,0 +1,175 @@
+# source: raw/bleecker_drive/Milwaukee/25-271 REPORT.pdf
+# path: raw/bleecker_drive/Milwaukee/25-271 REPORT.pdf
+# hit page: 3 of 4
+# terms: Tidewater Transit
+
+=== page 2 ===
+Key Performance Indicator (KPI) data since contract start: 
+ 
+Activity 
+Standard 
+Nov- Dec 
+2023 
+ Jan- Dec 2024 
+ 
+Jan 2025 
+Van Trips 
+N/A 
+55,180 
+364,360 
+31,557 
+On- time 
+performance 
+(OTP) -Pick up 
+within 30-minute 
+pick up window 
+93% 
+82.6% 
+93.13% 
+96.20% 
+Missed trips- 
+van arrives 
+outside of pick-
+up window and 
+client does not 
+travel 
+Less than 
+0.1% of 
+scheduled 
+trips 
+1.55% 
+0.38% 
+0.15% 
+On-time 
+appointment 
+drop off 
+99% of trips 
+with 
+appointment 
+times 
+89.3% 
+90.45% 
+93.97% 
+Ride duration 
+comparable to 
+fixed route bus 
+90% 
+87.5%* 
+85.62% 
+89.68% 
+Telephone calls 
+answered in less 
+than 2 minutes 
+95% 
+31.6% 
+92.6% 
+97.10% 
+Productivity -
+Passengers per 
+service hour 
+1.70 
+1.48 
+1.49 
+ 
+1.30 
+*Random sampling.  Full survey of all trips began in January 2024. 
+ 
+Customer complaints are processed jointly through both Transit Plus and the provider.  
+Once a complaint is received, it is entered into a database and investigated.  
+Resolutions are communicated to the appropriate parties, as needed, and documented 
+in the complaint database.  Complaint calls have decreased as service has improved.  
+In addition, Transdev added a Customer Service Manager position in January 2025 
+which has been key to improved complaint response time and laying the groundwork for 
+a culture of customer service within their organization. 
+ 
+Of note is the decreased Productivity KPI. This efficiency-related KPI has an inverse 
+relationship with many of the customer-facing metrics such as timeliness and ride 
+duration.  However, the below standard Productivity KPI is leading to a cost overrun for 
+the program. MCTS is actively working with Transdev to create an action plan for 
+improvement on this metric to mitigate the associated cost of service while maintaining 
+the expected high levels of service to our riders.
+=== page 3 ===
+Same Day Pilot Program 
+ 
+Service began on the Transit Plus Same Day Pilot at the end of August 2024 and is 
+contracted with Tidewater Transit, dba Via, to run until September 2025 or until 
+budgeted funds are expired.  Service is provided on a same day basis rides for trips that 
+could not have been scheduled the day before and thus could not have been scheduled 
+on the existing paratransit vans.   
+ 
+The original parameters for the program limited trip purpose to trips for health/medical 
+or employment purposes only. Some examples of the use cases under this umbrella 
+would include a same day trip to urgent care, going to pick up a sick child, or being 
+called into work.  Ridership under the original parameters was very low. 
+Month 
+Client Trips 
+Total Riders 
+September 
+10 
+10 
+October 
+10 
+12 
+November 
+22 
+25 
+December 
+29 
+35 
+January 
+24 
+29 
+February  
+30 
+46 
+ 
+As of March 3, 2025, program parameters were expanded to make better use of vehicle 
+service hours that are already on the road.  Clients can now use the service for a wide 
+variety of trip purposes as long as the trip could not have been scheduled the day 
+before.  Additionally, all Transit Plus clients are automatically enrolled into the pilot and 
+cash is now accepted on the vans. Preliminary information indicates that these changes 
+have resulted in increased ridership and better utilization of the vehicle service hours 
+provided. 
+ 
+ALIGNMENT TO STRATEGIC PLAN 
+Describe how the item aligns to the strategic plan: 
+2A: 
+Determine what, where, and how we deliver services to advance health equity. 
+2B: 
+Break down silos across County government to maximize access to and quality of 
+services offered. 
+3A: 
+Invest “upstream” to address root causes of health disparities. 
+3B: 
+Enhance the County’s fiscal health and sustainability. 
+3C: 
+Dismantle barriers to diverse and inclusive communities. 
+ 
+RECOMMENDATION 
+This report is for informational purposes unless otherwise directed. 
+ 
+VIRTUAL MEETING INVITES 
+Donna Brown-Martin, Director, MCDOT 
+John Rodgers, Deputy Director, MCDOT 
+Julie Esch, Interim President and Managing Director, MCTS (jesch@mcts.org) 
+Sandra Kellner, Chief Administrative Officer, MCTS (skellner@mcts.org) 
+Frances Musci, Director of Paratransit, MCTS (fmusci@mcts.org)
+=== page 4 ===
+PREPARED BY: 
+Frances Musci, Director of Paratransit, MCTS 
+ 
+APPROVED BY: 
+ 
+ 
+_______________________________ 
+Donna Brown-Martin 
+Director, Department of Transportation 
+ 
+ATTACHMENTS: 
+PowerPoint 
+ 
+ 
+cc:  
+Kelly Bablitch, Chief of Staff, County Board of Supervisors 
+ 
+Janelle M. Jensen, Legislative Services Division Manager, Office of the County Clerk

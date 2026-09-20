@@ -1,0 +1,135 @@
+# source: raw/bleecker_drive/Metropolitan Council/Microtransit-Solutions _Peer-Case-Studies-Report.pdf
+# path: raw/bleecker_drive/Metropolitan Council/Microtransit-Solutions _Peer-Case-Studies-Report.pdf
+# hit page: 16 of 68
+# terms: Downtowner
+
+=== page 15 ===
+CASE STUDIES 
+ 
+October 24, 2024 ■ PEER MICROTRANSIT CASE STUDIES REPORT 
+14 
+Denver, CO – Regional Case Study 
+DENVER CONNECTOR 
+Department of Transportation and Infrastructure (DOTI) 
+Service Objective – Expand transit connections and mobility options. Create first/last mile connections 
+to fixed-route service. Partially replace inefficient and infrequent fixed-route service with more 
+responsive service. 
+AGENCY SERVICE AREA 
+◼ Size: 153 square miles 
+◼ Area type: Suburban, metropolitan 
+◼ Population: 713,252 people 
+◼ Population density: 4,659 people per 
+square mile 
+MICROTRANSIT SERVICE 
+CHARACTERISTICS 
+General Information 
+◼ Status: Operational 
+◼ Service type: Curb-to-hub 
+◼ Number of zones: 3 
+◼ Size: 
+ Montbello/Gateway: 6.6 square 
+miles 
+ Globeville and Elyria-Swansea: 12 
+square miles 
+ Southwest: 11 square miles 
+(Service has not started) 
+◼ Dates in service: October 2021 – 
+Present (Phase 1, 2, 3) 
+ Montbello/Gateway: October 2021 
+– Present 
+ Globeville and Elyria-Swansea: 
+November 2022 – Present 
+ Southwest: Anticipated 
+Fall/Winter 2024  
+◼ Status: Operational  
+◼ Service hours: 6:00 am to 8:00 pm 
+from Monday to Friday 
+Proposed Southwest 
+Service Area 
+Source: Northeast Transportation Connections (NETC)
+=== page 16 ===
+CASE STUDIES 
+ 
+October 24, 2024 ■ PEER MICROTRANSIT CASE STUDIES REPORT 
+15 
+◼ Microtransit fare structure: 
+ Regular fare: Free 
+◼ Fixed-route fare structure*: 
+ Regular fare: $2.70 (day pass) 
+ 65+: $1.35 (Senior Special Discount Card) 
+ <19: $0.81 (Youth Special Discount Card) 
+ People with disabilities: $1.35 (Individuals with 
+Disabilities Special Discount Card) 
+ People with low income: $1.35 
+*Only considers Denver RTD local fixed-route service 
+◼ Transfer policy: No, not applicable (no fare) 
+◼ Payment options: Not applicable (no 
+fare) 
+◼ Connections (transit and points of 
+interest): 
+ Denver-RTD, the regional transit 
+agency of the Denver metropolitan 
+region with bus and rail service—
+Connects to Downtown Denver and 
+larger transit stations like Union 
+Station through local bus stops and 
+rail stations 
+Service Model 
+ Turnkey 
+◼ Technology provider: Northeast 
+Transportation Connections, 
+subcontracted to Downtowner 
+◼ Vehicle provider: Northeast 
+Transportation Connections, 
+subcontracted to Downtowner  
+◼ Driver provider: Northeast Transportation Connections, subcontracted to Downtowner 
+Scheduling 
+◼ Booking method: Mobile application and call center 
+◼ Advance scheduling: None 
+◼ Target wait time: 30 minutes 
+Fleet 
+◼ Fleet size: 7 
+ Montbello/Gateway: 4  
+ Globeville and Elyria-Swansea: 3 
+◼ Vehicle types: Two vans, three hybrid minivans, and two electric sedans 
+◼ ADA accommodations: Vans are wheelchair accessible 
+ Montbello/Gateway: 1 
+ Globeville and Elyria-Swansea: 1 
+Source: City and County of Denver
+=== page 17 ===
+CASE STUDIES 
+ 
+October 24, 2024 ■ PEER MICROTRANSIT CASE STUDIES REPORT 
+16 
+IMPLEMENTATION METHOD 
+Partnerships 
+◼ Local nonprofit neighborhood organizations 
+partnered with DOTI to understand community 
+needs and inform pilot design 
+◼ Northeast Transportation Connections, a 
+transportation management association, partnered 
+with DOTI to provide information on the local 
+transportation needs of the area, and is in charge of 
+procurement and operations for the pilot 
+◼ Denver Public Schools, the local school system of 
+the service area, partnered with DOTI to advertise 
+the Success Express service, a school bus circulator 
+in the Montbello/Gateway region, to shift demand 
+from the Denver Connector microtransit pilot 
+Funding Sources 
+◼ Pilot Phase 1 – Montbello/Gateway: DOTI’s Operating Funds, 2021 
+◼ Pilot Phase 2 – Montbello/Gateway and Globeville/Elyria-Swansea: $3,200,000 from Denver’s 
+Climate Protection Fund, 2022 
+◼ Pilot Phase 3 – Montbello/Gateway and Globeville/Elyria-Swansea:  $1,500,000 from a Denver RTD 
+grant, 2023 
+Marketing and Education 
+Led by: DOTI 
+◼ Vehicle (Denver Connector-wrapped) 
+◼ News station articles (Denver Post, Denverite, Denver7, Colorado Community Media) 
+◼ Focus groups (separate youth-oriented and Spanish-speaking) 
+◼ Info session events  
+◼ YouTube videos (English and Spanish with City and County of Denver channel) 
+ 
+ 
+Source: Northeast Transportation Connections 
+(NETC)

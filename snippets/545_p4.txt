@@ -1,0 +1,203 @@
+# source: raw/bleecker_drive/City of West Sacramento/2023.06.07_-_City_Council_-_Amendment_No._5_to_NoMad_Transit_LLC_Contract.pdf
+# path: raw/bleecker_drive/City of West Sacramento/2023.06.07_-_City_Council_-_Amendment_No._5_to_NoMad_Transit_LLC_Contract.pdf
+# hit page: 4 of 63
+# terms: Via+vehicles
+
+=== page 3 ===
+On-Demand Rideshare Program – 5th Year Extension and Program Update
+June 7, 2023
+Page 3
+Preliminary FY 2023-24 Budget and Operational Approach
+The primary purpose of adopting Amendment No. 5 renewing the fee schedule for the upcoming operational 
+year, is to ensure that the projected costs, levels of service (quantity of projected “Driver Hours”) and fare revenue 
+are incorporated into the current and binding contract with NoMad Transit LLC, which is utilized for monthly 
+billing purposes.
+NoMad provided two fee schedule scenarios for staff consideration (Attachment 2). The operational model 
+proposed for FY 2023-24 assumes few changes from FY 2022-23, but the scenarios provided options for two 
+service demand scenarios. Scenario 1 assumes the same level of demand as FY 2022-23 with some natural 
+growth, whereas Scenario 2 increases vehicle and driver hours to support a 10 percent increase in demand from 
+FY 2022-23. Recent ridership has increased beyond pre-COVID highs, reaching 18,570 completed rides in 
+March 2023 and 16,322 completed rides in April 2023 as compared to 15,975 completed rides in February 2020. 
+Utilization (completed rides/net driver hours) is currently 3.9 for July 2022 through April 2023, as compared to a 
+utilization of 2.0 for July 2019 through April 2020. With sustained growth on the On-Demand Rideshare Program, 
+staff is proposing a fee schedule based on Scenario 2 with additional driver hours to maintain service standards. 
+The proposed FY 2023-24 fees are similar to previous years but have increased to accommodate a new 
+regulatory fee and inflation. NoMad is passing onto the City the Public Utilities Commission Transportation 
+Reimbursement Account (PUCTRA) regulatory fees enacted as of January 1, 2023. The fee schedule also 
+proposes higher projected driver hours and an estimated 2.98 percent increase for vehicle hour rates and 3.01 
+percent increase in service hour rates to account for inflation. 
+Recent advancements in Via’s software and application platform allow for the integration of public transit data, 
+providing riders with the option to select Via or another mode of transportation, such as Yolobus. Staff plans to 
+pursue this advancement and integrate mobility-as-a-service features into the City’s Via application platform. 
+This will provide benefits to riders, allowing easy route planning and the possibility to plan trips using multiple 
+transport methods. This may allow the City to better handle demand for the rideshare program within the contract 
+budget, while continuing to encourage people to use alternative transportation. 
+The following table summarizes the features of the On-Demand Rideshare Program and a comparison of the 
+current program versus the proposed 2023-24 program:
+FY 2022-23 On-Demand
+Rideshare Program
+Proposed: FY 2023-24 On-Demand
+Rideshare Program
+Fleet Supply
+No Proposed Changes
+Hours 
+of 
+Operation
+No Proposed Changes
+Driver Hours 
+Term: 12 months
+Projected: 46,800 hrs
+Estimate: 46,800 hrs1
+Term: 12 months
+Projected: 57,200 hrs
+Customer Support 
+Hours
+Projected: 5,980 hrs
+Estimate: 5,980 hrs1
+Projected: 5,980 hrs
+Contract Rate
+Operations: $50.72
+Customer Support (1.25 FTE): $36.88
+Operations: $52.23
+Customer Support (1.25 FTE): $37.99
+COVID Cleaning
+$63,816
+$0
+Regulatory Fees
+Access for All - $0.10 cents per ride
+Access for All - $0.10 cents per ride
+PUCTRA Regulatory Fee – 0.3 percent 
+of gross intrastate revenue plus 
+quarterly/annual fees
+Ridership
+Projected: 192,000
+Estimate: 190,0001
+Projected: 220,000
+Cost per Ride2
+Projected: $14.87
+Estimate: $15.031
+Projected: $15.52
+=== page 4 ===
+On-Demand Rideshare Program – 5th Year Extension and Program Update
+June 7, 2023
+Page 4
+Contract Budget
+Projected: 
+$2,741,254 ($2,395,191 of TDA funds, $69,014 
+of FY 21-22 fare revenue, $277,049.00 of FY 
+22-23 fare revenue)
+Estimate Spent: $2,741,2541
+Projected: 
+$3,301,372 ($150,000 of FY 22-23 fare 
+revenue, $313,642 of FY 23-24 fare 
+revenue, and $2,837,730 of TDA funds)
+1 Inclusive of estimates for May – June 2023.
+2 Inclusive of City staff time estimated costs. 
+Attachment 3 provides draft proposed contract Amendment No. 5 which includes administrative amendments to 
+the contract and the proposed fee schedule for FY 2023-24. Via assumes a fare revenue reinvestment that 
+supports the service. Should actual fare revenues collected exceed the estimated amount in the projected 
+budget, the additional fare revenues will be reinvested toward the next fiscal year’s program operations. Fare 
+revenue assumptions consider standard-price fares, discounts, and ViaPass. The projected fare revenue for FY 
+2023-24 is $313,642 to support the program. Via’s projected average net fare per ride for FY 2023/24 is $1.42, 
+which is 1 percent less than the projected average net fare per ride of $1.44 assumed in the FY 2022-23 budget. 
+The program budget proposes $2,987,730, inclusive of FY 2022-23 anticipated remaining fare revenues, from 
+the City to support the FY 2023-24 program. This is an increase of $560,118 as compared to the FY 2022-23 
+program budget of $2,464,205.
+In addition to fare revenue reinvestment, the On-Demand Rideshare program is supported by local TDA funds. 
+The City must annually submit a claim for review and approval by the SACOG Board of Directors to claim its 
+allocation of TDA funds. Upon SACOG approval of the TDA Claim, Yolo County disburses the allocation request 
+to the City. Currently, the City has approximately a $2.69 million unearned remaining balance of carryover TDA 
+funds from previous fiscal years. For FY 2023-24, staff anticipates an apportionment of $3,794,876 in Local 
+Transportation Funds and $630,458 in State Transit Assistance Funds per the Yolo County Estimated Findings 
+of Apportionment released in March 2023 (Attachment 4). The Yolo County Transportation District (YoloTD) FY 
+2023-24 proposed budget, scheduled to be approved by the YoloTD Board of Directors in June 2023, includes 
+the City’s share of expenditures for YoloTD administrative fee, fixed route operations, and paratransit service for 
+the City, totaling $3,030,803. At the end of the FY 2022-23 contract term, staff will determine the precise amount 
+of remaining FY 2022-23 Via funds and fare revenue to apply toward the FY 2023-24 expenses. Staff will seek 
+City Council authorization for staff to submit a claim for the Via program budget, less the total amount of FY 
+2022-23 fare revenue and contract rollover in the On-Demand Rideshare Program from FY 2022-23, and 
+$115,000 for City staff time and materials to support the program in the FY 2023-24 annual TDA claim. A 
+resolution to allocate funding for FY 2023-24 is provided as Attachment 5. 
+Environmental Considerations
+This project is exempt from CEQA as it can be seen with certainty that there is no possibility the activity in 
+question may have a significant effect on the environment (State CEQA Guidelines Section 15061 (b)(3)). The 
+fundamental definition of a "significant effect" under CEQA is "a substantial adverse change in physical 
+conditions". Per this definition, it is clear that the operation of up to eleven (11) 6-passenger shared-ride vehicles 
+utilizing existing infrastructure with the intent of encouraging pooling and reducing traffic impacts by shifting 
+community members out of higher VMT (Vehicle Miles Travelled) generating modes (i.e. single occupancy 
+driving or ride-hailing) does not constitute a significant impact. 
+Moreover, the project is within the scope of the EIR prepared for the General Plan 2035, and no new or 
+substantially more adverse impacts would occur through the implementation of the proposed project. The project 
+directly implements multiple Mobility Element Policies aimed at providing a multi-modal transportation system 
+that supports various modes and benefits community and environmental health. As a result, no new 
+environmental document is required, consistent with State CEQA Guidelines Section 15162 and 15168(c)(2).
+Commission Recommendation
+This report was presented to the Transportation, Mobility and Infrastructure Commission on June 5, 2023. 
+Recommendations and feedback have been incorporated into the presentation for City Council’s consideration.
+Strategic Plan Integration
+This project advances the 2022 Strategic Plan goals of “Mobility & Connectivity” as part of the City’s “Mobility 
+Action Plan Implementation” management agenda.
+=== page 5 ===
+On-Demand Rideshare Program – 5th Year Extension and Program Update
+June 7, 2023
+Page 5
+Alternatives
+The Council’s primary alternatives to staff’s recommendations are:
+1.
+Council may elect to approve Amendment No. 5 but redirect staff to utilize alternative funding sources 
+toward the FY 2023-24 operations by amending Resolution 23-42. This alternative is not recommended 
+as staff has developed this recommendation consistent with prior year procedures and requires timely 
+authorization to prepare the FY 2023-24 TDA Claim. Delayed submittal of the FY 2023-24 TDA Claim, 
+which funds the rideshare program and Yolobus operations, has the potential to cause cash-flow issues 
+for the City. 
+2.
+Council may elect not to approve Amendment No. 5 and Resolution 23-42 at this time. This alternative is 
+not recommended, as the current contract with NoMad Transit LLC expires on June 30, 2023 and requires 
+accurate accounting, service planning and financial support to support operations to ensure no abrupt 
+disruptions to service for community members reliant on the service for their transportation needs.
+Coordination and Review
+This report was prepared by the Transportation & Mobility Division of the Community Development Department
+and received review from the Finance Department, City Attorney’s Office, and City Manager’s Office.
+Budget/Cost Impact
+Approval of Amendment No. 5 to the Amended & Restated Contract with NoMad Transit LLC establishes the 
+Fee Schedule for FY 2023-24 with an annual City obligation in an amount not to exceed $2,987,730 toward 
+operating costs, as shown. A total of $115,000 in City staff costs is also included, consistent with the staff 
+allocation included in the program budgets previous fiscal years. 
+Staff estimates an allocation request of up to $3,102,730 in TDA funds [Budget Unit 202-9220-5259], offset by 
+an estimated $150,000 in projected FY 2022-23 fare revenues to support the 1-year renewal request. Approval 
+of Resolution 23-42 would authorize the allocation of up to $3,102,730 from the TDA and authorize the use of 
+$150,000 from rideshare revenues towards FY 2023-24 Via Rideshare program operations.
+Expenses
+Contract for Services with NoMad Transit LLC:
+$2,987,730
+City Staff Time & Materials:
+   $115,000
+Total FY 2023-24 Program Expenses
+$3,102,730
+Funding Sources
+FY 2022-23 Fare Revenues 
+   $150,000
+FY 2023-24 TDA Allocation 
+$2,952,730
+Total 
+$3,102,730
+Exclusive of the estimated FY 2023-24 TDA apportionment (Attachment 4), the City’s current unrestricted TDA 
+reserve balance is approximately $2.70 million. Estimated FY 2023-24 allocation brings the TDA balance 
+approximately to $7.12 million. Staff is awaiting more concrete FY 2022-23 Via fare revenue & cost savings, as 
+well as YoloTD’s budget update for the City’s share of fixed-route and paratransit costs to finalize the FY 2023-
+24 TDA Claim. Based on the LTF Findings of Apportionment, planning fees to be paid to SACOG by the City of 
+West Sacramento is $113,846. Based on YoloTD’s preliminary budget, the City’s contribution to YoloTD for fixed 
+route, paratransit, and administrative costs is $3,030,803. Staff anticipates that additional funding sources other 
+than TDA may be needed to support the On-Demand Transportation Program should the program continue 
+beyond FY 2023-24. 
+ATTACHMENTS
+1.
+Fiscal Year 2019-2021 Triennial Performance Audit of City of West Sacramento – Via Rideshare
+2.
+Via Proposed Fee Schedule Scenarios 
+3.
+Amendment No. 5 to the Amended and Restated Contract with NoMad Transit LLC
+4.
+Fiscal Year 2023-24 Transportation Development Act Preliminary Findings of Apportionment 
+5.
+Resolution 23-42

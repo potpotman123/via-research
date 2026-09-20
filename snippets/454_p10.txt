@@ -1,0 +1,171 @@
+# source: raw/bleecker_drive/Topeka/Proposal-ViaMobilityLLCforPosting.pdf
+# path: raw/bleecker_drive/Topeka/Proposal-ViaMobilityLLCforPosting.pdf
+# hit page: 10 of 44
+# terms: Via+SaaS
+
+=== page 9 ===
+record of supporting transit agencies in this way. High Valley Transit in Summit County,
+Utah is one such example, where we operate fixed route, microtransit, and paratransit all
+on the Via platform.
+Based on our understanding of the goals listed above and the specifications outlined in this RFP,
+below is a high level overview of the proposed solution for Metro.  Metro will receive:
+RFP for Microtransit System | 9
+=== page 10 ===
+8.2.1 Specifications
+#
+Specification
+Required
+Y/N
+General
+1
+The software should be an internet browser/cloud-based SaaS with a minimum of 18 user
+accounts and compatible with widely available browsers, such as Google Chrome and/or
+Mozilla Firefox.
+✔
+8.2.2.A
+2
+The software shall be built on an open API for integration into other CAD/AVL and ITS products
+and services.
+✔
+8.2.2.E
+3
+The software shall have functions for the co-mingling of multiple on demand service modes
+and passenger categories, including microtransit, ADA paratransit, and dial-a-ride. At this time
+Metro will only be using Microtransit but wants compatibility moving forward.
+✔
+8.2.2.C
+4
+The software shall offer scalability of service, with the ability to modify existing zones and
+create new zones within and outside of the Metro service area. These functions must be
+available to the agency within the software.
+✔
+8.2.6 (Map
+Editor)
+8.3.3.C
+5
+The products shall include a dispatching function and mobile applications for vehicle operators
+and customers.
+✔
+8.2.3 &
+8.2.4
+6
+The software shall provide service performance reporting, such as ridership, schedule
+adherence/on-time performance, scheduling data, and other standard reports. Performance
+dashboards shall be easily accessible for all key performance indicators. The reports shall be
+exportable to an editable file format such as a comma separated value tables or Microsoft
+Excel. The system reports must have the ability to differentiate all service characteristics and
+performance by general on-demand and ADA paratransit passenger trip data.
+✔
+8.2.6
+(Service
+KPI
+Reports)
+7
+The software shall provide a reporting system that meet National Transit Database (NTD)
+Federal Transit Administration (FTA) requirements of similar paratransit and on-demand
+services, despite whether FTA currently has Microtransit requirements. The reports shall be
+exportable to an interactive file format such as comma separated value tables or Microsoft
+Excel. The system will differentiate general on-demand, ADA paratransit passenger, ambulatory
+and other passenger, and all modes beyond fixed route trip data as needed. Provide an
+example of reports you’ve produced in the past for other projects.
+✔
+8.2.6
+(Regulatory
+Reports)
+8
+The reporting system must allow user friendly ad-hoc reporting and query generation without
+the need for a programming specialist.
+✔
+8.2.6
+9
+The vendor shall provide user and technical support via a regular support line during published
+support hours, and after-hours support in the event of an emergency. Any cost associated with
+technical support, must be included in the cost proposal.
+✔
+8.3.4.C
+10
+The branding and design elements of the platform shall be customizable to allow the Metro to
+incorporate unique marketing and branding characteristics into the customer mobile
+application.
+✔
+8.2.3
+RFP for Microtransit System | 10
+=== page 11 ===
+11
+To ensure the success of the new mode of service, the vendor shall provide customer product
+training and advertising and marketing best practices to assist the Metro in the promotion of
+the new service mode.
+✔
+8.3.5
+12
+The software shall allow Metro administrators to modify or limit maximum vehicle passenger
+loads, as well as modify other load details like boarding order based on mobility devices and
+coordinate drop-off based on such ordering (dictated by vehicle)
+✔(modify)
+8.2.3 Group
+Size
+Selector
+13
+The software shall include fare collection and monitoring systems, taking into consideration
+unbanked passengers and passengers without smart devices. This may include mobile
+ticketing or smart card fare payment options. Considerations shall also be made for tiered
+fares, including fares by zone and/or distance traveled.
+✔
+8.2.3
+14
+The selected vendor shall migrate existing passenger information databases into the selected
+software and integrate all existing data fields for current and future customers
+✔
+8.3.4.B
+15
+This system shall provide necessary hardware for placement in vehicles as well as necessary
+tools, mounting accessories or other equipment necessary for ongoing operation as well as
+common repairs or replacement parts.
+✔
+8.2.2.A
+Customer Management
+1
+The software shall allow manual entry of information into customer profiles by agency staff.
+When entering data, the system shall alert the user if there is an existing customer account
+entry under the same name or address.
+✔
+8.2.3
+2
+The software shall allow entry of relevant customer health information, including (but not
+limited to) the use of disability aid tools such as mobility devices, service animals, personal
+care assistants, and/or oxygen tanks. The software shall allow entry of the name, address,
+phone number, special notes, and other contact information of caregivers for paratransit
+customers, when applicable. All personal passenger information shall be secured via password
+protection or user account credentials on the administrative back end of the software.
+✔
+8.2.3
+3
+The software shall allow the agency to create and modify accounts on behalf of customers.
+✔
+8.2.3
+4
+The software shall allow entry of all paratransit passenger eligibility criteria, including but not
+limited to, date of application, application approval date, customer ID, and expiration date
+defining when the client is authorized to begin receiving paratransit service.
+✔
+8.2.3
+(Rider
+Registratio
+n)
+5
+The software will generate a paratransit eligibility report showing all new applicants,
+recertifications, and appeals. The report must show the name, ID number, date of original or
+recertification application, application decision date, type of eligibility (full, conditional,
+temporary, denied), conditions for riding, fare type, expiration date, and appeal information, if
+applicable.
+6
+The software shall allow entry of dispatcher notes and comments for each passenger and their
+unique circumstances, such as additional time needed for loading and unloading, special fare
+collection, size of mobility aid, etc.
+✔
+8.2.3
+7
+The software shall permit the Metro to suspend or ban passengers from using microtransit
+services, as needed.
+✔
+RFP for Microtransit System | 11

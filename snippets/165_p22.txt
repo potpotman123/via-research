@@ -1,0 +1,142 @@
+# source: https://legistar.granicus.com/huntsvilleal/attachments/9800841b-3948-44e2-9e23-ef2ab1007faf.pdf
+# path: raw/cache/bbbdb020c072a8b6124814a71fc2748079790ca2.pdf
+# hit page: 22 of 37
+# terms: RideCo
+
+=== page 21 ===
+(i)
+RIDECO SUBSCRIPTION AND SERVICES AGREEMENT
+an issue affecting entire system or single critical production function for al least
+the majority of end users of the Customer;
+System down or operating in materially degraded state for at least $0.1% of end
+users of the Customer.
+3. PRIORITY LEVELS, RESPONSE TIMES, EXCEPTIONS AND PROCEDURES
+3.1.
+Resourees and Forms of Support
+Support Portal
+Emergency hotline
+Utilized for medium or low priority items
+Jsed for critical / high priority items
+Customer specific emergency telephone number
+3.2.
+Support Response Time
+Priority
+Response Time Update
+Frequency
+High
+1 hour
+Every 2
+Business critical problems that
+Support ticket
+hours or as
+affect the availability or access
+of or to the Service Offering
+updated/creat
+mutually
+determined
+for most users
+Medium
+12 hours
+Not critical but important
+Support tickel
+problems that materially
+updated/creat
+interrupt or restrict the normal
+ed
+production running of the
+Software (altecting a minority
+Resolution Time
+Within 24 hours
+Resolution times may be
+longer depending on the
+ature and complexity of the
+problem
+Every working Within five (5) business days
+day or as
+mutually
+determined
+Not business critical or
+important. Issues that do not
+materially impact the normal
+production running of the
+24 hours
+Every week or
+Ten (10) business days
+Support ticket
+as mutually
+updated/creat
+RideCo shall notify Customer
+determined
+of the analysis of the problem
+ed
+the intended fix and the
+release in which it will bc
+delivered. Where feasible,
+RideCo shall provide a
+customer workaround 10
+3.3.
+Third Party Content: The RideCo platform includes certain Third Party solutions. In the event
+that elements of the RideCo platfor fails due to such Third Pany solutions (e.g. Amazon
+RideCo Confidential
+Page 19 of 34
+=== page 22 ===
+RIDECO SUBSCRIPTION AND SERVICES AGREEMENT
+Exceptions: No period of Hosted Service degradation or inoperability will be included in
+calculating Availability to the extent that such downtime or degradation is due to any of the
+following ("Exceptions"):
+(a) Client's or any of its Authorized Users' misuse of the Hosted Services;
+(b)
+failures of Client's or its Authorized Users' internet connectivity;
+internet or other network traffic problems or connectivity of cellular networks other thar
+roblems arising in or from networks actually or required to be provided or controlled by Supplier
+(d) Client's or any of its Authorized Users' failure to meet any minimum hardware or software
+requirements set forth in the Specifications; or
+(e) Scheduled Downtime; or
+(1 Downtime is caused by third party hardware or third party software, except to the extent
+Supplier exerts control over such third party hardware or third party software.
+RideCo Confidential
+Page 20 of 34
+=== page 23 ===
+RIDECO SUBSCRIPTION AND SERVICES AGREEMENT
+SCHEDULE "C"
+DATA PROTECTION UNDERTAKING
+Definitions. Capitalized ternis used herein shall have the meanings set forth in this Section 1.
+Terms that are capitalized but not otherwise defined in this Schedule shall have the meaning set forth
+in the RideCo Subscription and Services Agreement ("Agreement")
+"Personal Data" means data, whether true or not, about an individual who can be identific -
+from that data; or
+(a)
+(b)
+from that data and other information to which the organization has or is likely to have access;
+"Security Incident" means —
+(a)
+any act or omission that compromises the security, confidentiality, or integrity of Operational
+Data as it relates to Customer or the physical, technical, administrative, or organizational safeguards
+put in place by RideCo, or by Customer should RideCo have access to Customer's systems, that relate
+to the protection of the security, confidentiality, or integrity of Operational Data, or
+(b)
+eceipt of a complaint in relation to the privacy and data security practices of RideCo, or :
+reach or alleged breach of this Schedule relating to such privacy and data security practices. Withou
+limiting the foregoing, the loss of or unauthorized access, disclosure, or acquisition of Operational Data,
+or an incident that prevents or limits users or Customer from accessing a system or any Operational
+Data (through the use of malware, ransomware, or otherwise) is a Security Incident.
+RideCo agrees that the following terms shall apply where RideCo accesses, handles or uses any
+Operational Data under the Agreement, including in the course of and/or in connection with
+exercising its rights or carrying out its obligations under the Agreement:
+a. Standard of Care. Except as provided in the Agreement, RideCo shall not sell, rent, transfer,
+listribute, or otherwise disclose Operational Data for RideCo's own purposes or for the benefit of
+nyone other than Customer, in cach case, without prior written consent. RideCo shall comply witt
+any reasonable written instructions the Customer gives RideCo in advance relating to compliance
+with any laws, regulations, court orders, or self-regulatory programs applicable to the collection.
+b. Information Security. RideCo shall maintain reasonable and appropriate policies and procedures to
+protect the security, privacy, integrity, and confidentiality of Operational Data, including a written
+information security program that is reviewed at least annually.
+i.
+RideCo shall implement administrative, physical, and technical safeguards to protect
+Operational Data from unauthorized access, acquisition, or disclosure, destruction, alteration,
+ecidental loss, misuse, or damage that are no less rigorous than accepted industry practic
+cluding the National Institute of Standards and Technology (NIST) Cybersecuri
+Framework, and the Payment Card Industry Data Security Standard), and shall ensure that all
+such safeguards, including the manner in which Operational Data is Processed, comply with
+RideCo Confidential
+Page 21 of 34

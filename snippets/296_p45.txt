@@ -1,0 +1,106 @@
+# source: raw/bleecker_drive/0.0 OMNIA Cooperative Agreement/R250802_Via_Transportation_MAD_Redacted_081825_01.pdf
+# path: raw/bleecker_drive/0.0 OMNIA Cooperative Agreement/R250802_Via_Transportation_MAD_Redacted_081825_01.pdf
+# hit page: 45 of 191
+# terms: Via+drivers, Via+fleet, Via+vehicles
+
+=== page 44 ===
+With Via's assistance, the cities of Cupertino and Santa Clara secured an $8.5
+million grant from the Transit Intercity Rail Capital Program to support an
+electric vehicle microtransit service.
+In Jersey City, we have helped to secure $3 million + in grants to support
+fleet electrification.
+Technology-Enabled Student Transportation Services
+Via is a trusted provider of safe and consistent student transportation service to school
+districts and educational entities across the United States. Via's highly experienced
+operations teams ensure students receive superlative service from a high-quality and
+student-centric pool of thoroughly vetted drivers. Meanwhile, our powerful software
+(described in-depth in Microtransit, Paratransit, and Non-Emergency Medical
+Transportation Software) enables our partners to benefit from more efficient and cost
+effective routing, easy-to-access reporting, and seamless communication and information
+transmission between drivers, administrators, and caregivers.
+Rider-Centric Operations
+Via has established rigorous processes for ensuring vehicle cleanliness and student
+safety, including thorough driver recruitment and training, strict vehicle requirements, and
+a comprehensive vehicle inspection plan. These measures, in addition to our experience
+as operators, ensure that we are able to provide industry-leading safety in our services.
+Our operational success is driven by:
+Exceptional Track Record of Recruiting and Retaining Qualified Drivers
+We ensure Via Student Transit drivers undergo drug, alcohol, and TB testing,
+fingerprinting, and DMVR and DOJ checks, and thorough training, such as ADA and
+disability sensitivity training, and also meet standards for professional dress, hygiene, and
+licensing. As transportation providers across the country have struggled to staff their
+services, we have had no driver shortages and have onboarded more than 10,000 drivers
+in the last two years. We deliver these results with a combination of above-market wages,
+driver incentives, high-touch support, targeted driver marketing, and a shift-claim model
+that gives drivers significant input into their own schedules.
+RFP No. 25-08 | 7
+=== page 45 ===
+Extensive Experience Transporting Passengers from Vulnerable Populations
+We have a decade of experience transporting passengers from vulnerable populations
+and we currently operate a number of large-scale ADA-paratransit services in the US. We
+understand the operational challenges at stake in transporting vulnerable populations,
+including special education students: delivering high on-time performance, ensuring
+compliance on routing and pickups, maintaining clean and reliable vehicles, and sourcing
+and training empathetic drivers. For the New York City Department of Education, we
+power a student transportation solution for both general and special education
+populations and our system is designed to adapt to the diverse routing, trip, and vehicle
+needs of different student populations.
+Department of
+Education
+New York City's Department of Education was able to consolidate
+more than a dozen independent tools into a single fully integrated
+software system to intelligently power their 10,000+ vehicle fleet.
+Fleet
+We deliver service with non-smoking sedans and minivans equipped with GPS tracking at
+no additional cost. These vehicles are clearly marked with approved signage (see picture
+to the right) to ensure that caregivers, students, and administrators know that they are
+approved service vehicles. Wheelchair-accessible vehicles (WAVs) are also available for
+passengers who require them. Via
+has established rigorous processes
+for ensuring vehicle cleanliness
+and passenger safety including
+thorough driver training, strict
+vehicle requirements, and a
+comprehensive vehicle inspection.
+Innovative Student Transit Technology
+The Via Student Transportation platform includes next-generation software that can help
+educational entities manage their complex transportation needs. Via will configure
+caregiver and driver applications, the Via Operations Center for service management, and
+a robust analytics suite for monitoring service performance — all at no additional cost to
+purchasing members.
+RFP No. 25-08 | 8
+=== page 46 ===
+Peace of Mind for Caregivers and Guardians 
+We can offer vehicle tracking through a smartphone application that will let caregivers 
+and guardians confirm that the student’s ride is on its way, that the student has been 
+picked up and dropped off on time, and that they 
+have been transported via an efficient route. 
+Operational Transparency 
+Through the Via Operations Center (VOC), our 
+dispatchers can track drivers’ progress and 
+intervene when needed. Member staff will also 
+have access to the VOC, and will have full 
+visibility into bookings and student trip progress 
+in real-time. Through the mobile Driver App, installed on an in-vehicle device, drivers can 
+receive the latest routing instructions and alerts, and contact dispatch as required. The 
+system can also facilitate direct communication between caregivers and drivers to reduce 
+calls to the department or the schools requesting updates on routes.  
+Comprehensive Transit Network Management 
+Via is the trusted operations manager and provider to customers across the globe and has 
+deep experience in launching and growing multimodal transit networks. We can act as a 
+single vendor to oversee the management of the participating member’s transit system 
+and will optimize performance across our own best-in-class operations and our highly 
+vetted network of third party subcontractors. 
+Via can provide fully turnkey transit management services across fixed routes, 
+paratransit, and microtransit: we will manage every aspect of service design, operations, 
+and long-term planning for participating members, and will do so with efficiency and 
+transparency. Our Managed Services model includes the following components, as 
+needed by each individual member:​
+Service Design 
+Via’s in-house consulting and service design experts can assess a Member’s existing 
+transit network and make forward-looking, holistic recommendations that deliver excellent 
+rider experience and cost efficiency. For example, we can determine the optimal mix of 
+fixed route and microtransit options for a given use case and geography, or design a 
+service that commingles microtransit and paratransit assets (drivers, vehicles, 
+cross-dispatched rides) to reduce cost. 
+    RFP No. 25-08  |  9

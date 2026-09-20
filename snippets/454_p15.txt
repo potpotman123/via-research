@@ -1,0 +1,147 @@
+# source: raw/bleecker_drive/Topeka/Proposal-ViaMobilityLLCforPosting.pdf
+# path: raw/bleecker_drive/Topeka/Proposal-ViaMobilityLLCforPosting.pdf
+# hit page: 15 of 44
+# terms: Via+SaaS, Via+drivers, Via+vehicles
+
+=== page 14 ===
+3
+The operator application shall display a map showing the current location of the vehicle
+alongside routing directions to boarding and alighting locations.
+✔
+8.2.4
+4
+The operator application will provide all relevant passenger information, (including but not
+limited to) passenger name, origin, destination, relevant dispatch notes, mobility aids, and fare
+type.
+✔
+8.2.4
+5
+The operator shall not be able to interface with the application while the vehicle is in motion.
+No - safety
+concern
+8.2.4
+Customer Interface
+1
+The customer application shall be available for download from the Google Play Store and Apple
+App Store. The application shall be compatible for all Android and Apple devices. The app shall
+be available at no cost to the user.
+✔
+8.2.3
+2
+The application shall allow customers to create and modify account details and store personal
+and payment information free of agency intervention.
+✔
+8.2.3
+3
+The application must detect the customer’s current location upon login.
+✔
+8.2.3
+4
+Customers must be able to select boarding and alighting locations by either entering a street
+address into a search bar, searching for a Point of Interest, directly selecting locations
+displayed on a map, placing a pin on a map, or by using the customer’s current location.
+Information should not be case-sensitive.
+✔
+8.2.3
+5
+The customer application shall display a map showing the current location of the requested
+vehicle, estimated time of arrival for pick up, and descriptive information about the vehicle such
+as vehicle number and vehicle make or model prior to the passenger boarding. While a trip is in
+progress, the customer application shall display estimated time of arrival to the destination and
+current vehicle location. Only the first name should be provided to the passenger.
+✔
+8.2.3
+6
+Once a trip is scheduled, the customer application shall provide step-by-step travel
+instructions for customers, including walking directions to/from the boarding and alighting
+locations.
+✔
+8.2.3
+Rider
+Communic
+ations)
+7
+If enabled by the customer, the application shall send messages to the customer’s mobile
+device as certain thresholds are met, including the day before a scheduled trip, an hour before
+a scheduled trip, and as the on-demand vehicle approaches the boarding location, including
+(but not limited to) push notifications, SMS text messages, e-mails, and IVR telephone calls.
+8
+The customer application shall allow customers to book reservations by desired arrival or
+departure times.
+✔
+8.2.3
+9
+The customer application shall prevent customers from booking trips that do not meet
+predetermined service criteria, including trips booked outside of a service area or span of
+service, or trips that do not meet minimum distance requirements.
+✔
+8.2.3
+10
+When making reservations, ADA and general public customers shall have the ability to indicate
+the use of various aid tools, such as mobility devices and service animals.
+✔
+8.2.3
+11
+The customer application shall comply with all prevailing ADA accessibility guidelines.
+✔
+8.2.3
+RFP for Microtransit System | 14
+=== page 15 ===
+12
+The customer application shall be translatable into multiple languages.
+✔
+8.2.3
+14
+Service provided on the behalf of similarly sized public transit agencies. Include the name,
+period of contract, annual revenue and non-revenue miles and hours for the most recent fiscal
+year, and number of passengers transported for the most recent fiscal year. Include a minimum
+of three reference agencies of similar services.
+✔
+8.3.1 &
+8.3.6
+15
+Employee recruitment, training, and retention in a manner consistent with the safety and
+customer service standards of the Metro.
+✔
+8.3.5
+17
+Furnishing of all necessary equipment and hardware, including vehicle onboard technology,
+fare collection, and ADA accessibility mechanisms. Proposals should include a minimum of
+three on demand vehicles to supply the service, with the addition of more vehicles as the
+on-demand service is expanded.
+✔
+8.2.2
+18
+Capacity and ability to maintain stated equipment, including schedule of maintenance
+describing the specific work activities required to sustain dependable and safe vehicle
+operation.
+✔
+8.2.5
+(Databases
+)
+19
+Furnishing of written personnel policies and procedures, to include the proposer’s Drug and
+Alcohol Policy and general Personnel Rules and Regulations.
+✔
+20
+Offerors that are unable to furnish contracted service operations to the Metro will not be
+penalized in the proposal evaluation stage of the selection process.
+✔
+8.2.2 Introduction to Via Software
+A) Overview of Via Platform
+The Via Platform is a cloud-based SaaS platform which delivers automated microtransit systems,
+along with seamless user experiences for riders, drivers, and administrators. Our platform
+leverages cutting-edge technologies like Kubernetes and serverless infrastructure which allows us
+to auto-scale and handle unlimited user accounts. Via’s industry-leading routing and ride
+assignment algorithms analyze all trip requests, assign riders to the best-suited vehicle, and group
+passengers headed in the same direction into efficient shared rides.
+Our algorithms form the core of our software solution, continuously optimizing pickups, drop-offs,
+and routing while dynamically updating riders, drivers, and administrators with real-time
+information. Our technology optimally matches vehicles with ride requests, and dynamically
+updates routes in response to real-time demand and traffic conditions. We continuously test,
+refine, and improve our product with actual riders, drivers, and administrators, developing an
+on-demand transportation solution that is far more intuitive, convenient, reliable, and mature than
+any competing technology.
+RFP for Microtransit System | 15
+=== page 16 ===
+RFP for Microtransit System | 17

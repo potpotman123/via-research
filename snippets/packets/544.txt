@@ -1,0 +1,51 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Norwalk California/Resolution No.pdf
+# pages_total: 2; hit_pages: [1]; included: [1]
+# context: Bleecker Drive folder: Norwalk California
+
+=== page 1 of 2 ===
+RESOLUTION NO.  25-45
+A RESOLUTION OF THE CITY COUNCIL OF THE CITY OF NORWALK 
+ADOPTING THE BUDGET AMENDMENT TO SUPPORT SERVICES FOR 
+THE MICROTRANSIT/ON-DEMAND PILOT PROGRAM
+WHEREAS, the City of Norwalk is committed to providing productive and quality 
+service on all of its transit routes; and
+WHEREAS, the City of Norwalk aims to reduce traffic congestion, lower emissions, 
+and improve equitable access to transportation; and
+WHEREAS, the City of Norwalk seeks to expand public transit to prioritize older 
+adults and community members living with a disability while providing service to the 
+general public; and 
+WHEREAS, a Microtransit/On-Demand service is a cost-effective alternative to 
+fixed-route buses in low-density zones that solves first-mile, last-mile requirements; and 
+WHEREAS, the Microtransit/On-Demand fare policy will remain the same as 
+Norwalk Transit System’s Fixed Route service adult base fare of $1.25 for duration of the 
+pilot program. 
+NOW, THEREFORE, THE CITY COUNCIL OF THE CITY OF NORWALK 
+HEREBY DETERMINES, FINDS, AND RESOLVES AS FOLLOWS:
+Section 1.
+The City Manager is authorized to make the following appropriation 
+and prepare the necessary budget amendment for the following account:
+Account Number
+Increase      
+Decrease
+Expense:
+713-45-4501-2080
+$1,220,185
+Transfer out: 
+713-45-4501-3994
+$1,220,185
+Use of Reserves:
+710-45-4501-3994
+$1,220,185
+Retained Earnings:
+710-0470
+$1,220,185
+Section 2.
+The City Manager is hereby authorized to execute an agreement, 
+and any necessary amendments, with Nomad Transit, LLC, a wholly owned subsidiary of 
+Via Transportation, Inc., to implement a 12-month Microtransit/On-Demand Pilot Project.
+Section 3.
+The Mayor, or presiding officer, is hereby authorized to affix his 
+signature on this Resolution signifying its adoption by the City Council of the City of 
+Norwalk and the City Clerk, or her duly appointed assistant, is directed to attest hereto.
+Attachment No. 1

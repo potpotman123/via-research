@@ -1,0 +1,120 @@
+# source: raw/bleecker_drive/Cupertino/22_11280_A_-_Contract_Amendment_with_Via.pdf
+# path: raw/bleecker_drive/Cupertino/22_11280_A_-_Contract_Amendment_with_Via.pdf
+# hit page: 46 of 68
+# terms: Via+per trip
+
+=== page 45 ===
+Beginning with the Project Kick-off Meeting and extending throughout the pre-launch phase as 
+necessary, Consultant shall work closely with the City to jointly define and finalize all relevant 
+parameters of the service as outlined below. As part of this collaboration, quality of service 
+standards for the Pilot service will be mutually established in order to create a baseline for 
+monitoring Consultant's performance. 
+Over the course of the project, decisions to change key parameters will be made collaboratively, 
+and Consultant will work with the City to continuously adjust and optimize the system's features 
+and settings in order to ensure it supports growing ridership. As such, the Baseline Service 
+Parameters defined below may be re-defined or adjusted by mutual agreement between the 
+City and Consultant either in advance of or after the Launch Date based on additional data or 
+new information collected. Any changes to the Pilot Service Parameters will be subject to 
+mutual agreement by the City and Consultant. 
+Baseline Service Parameters 
+Coverage Area 
+At Full Launch, the Pilot will include the entire City, including areas mutually agreed upon 
+outside of the City limits, including Kaiser-Permanente Santa Clara, West Valley Medical Center 
+(PAMF), Sunnyvale Caltrain, and potentially one additional medical center, to be agreed upon 
+mutually by the City and Consultant. Areas deemed inaccessible, including gated areas, are 
+excluded from the service area. The launch of the system must serve the entire service area, 
+however the Consultant may gradually deploy vehicles to balance efficient coverage with quality 
+of service as data is gathered in order to fine-tune deployment elements as ridership grows. 
+Accessibility 
+Provision of Wheelchair Accessible Vehicles (WAV) 
+Upon receiving the Notice to Proceed, Consultant will commence development of a WAV fleet 
+plan that satisfies relevant Federal Transit Administration (FT A) and Americans with Disabilities 
+Act (ADA) requirements - including the equal provision of service to potential Pilot riders of all 
+physical means. To fulfill this goal, Consultant shall cause to be deployed for the Pilot 
+appropriately-trained drivers operating taxi or livery vehicles, or dedicated vehicles specifically 
+deployed for the Pilot. 
+To indicate their need for a WAV vehicle, a rider will select the "Wheelchair accessibility" option 
+within their profile in the Via app that will prompt the system to dispatch an appropriate vehicle 
+each time the rider makes a request (riders booking by phone would convey their need for a 
+WAV vehicle to the dispatcher, who would make a permanent note in the rider's account). A 
+WAV option will be deployed no later than the Launch Date. 
+Phone Booking Option 
+Via's technology is configured to allow a dispatcher to book rides on behalf of riders, allowing 
+users of all technological abilities and access levels to enjoy the same level of service as those 
+with a smartphone (except for the experience and convenience that is specific to in-app rider
+=== page 46 ===
+ordering and tracking). The Consultant will provide as a feature of the Pilot service a phone 
+number and a dedicated dispatcher to book and coordinate rides for users without smartphones. 
+A phone booking option will be available as part of the Pilot service no later than the 
+Launch Date. 
+Customer Service 
+The Consultant shall provide high-quality customer service to both Pilot customers and driver 
+partners during the course of the Pilot. If an issue arises for a customer or driver before, during, 
+or after a ride, parties will be able to reach Consultant staff by text message in real time, or by 
+submitting an email ticket, which will be replied to promptly by Consultant staff. Riders who 
+booked using the dedicated phone line will be able to receive phone support as required. 
+Hours of Operation 
+The Pilot will operate Monday through Saturday, excluding holidays, for which a mutual decision 
+whether to operate will be made between the City and Consultant. The Consultant estimates the 
+Pilot service will operate from 6am - 8pm Monday - Friday, and 9am-5pm Saturdays, subject to 
+change based on demand data gathered during the initial launch period and subject to mutual 
+decision between the Consultant and City. 
+The Pilot goal will be to provide operating hours as extensive and consistent as possible within 
+the reasonable cost, as mutually agreed upon between the Consultant and City. As it is the 
+intent of the Pilot to provide a reliable and predictable service, the Consultant shall seek to limit 
+adjustments to the Hours of Operation to those changes deemed necessary or intended to grow 
+ridership or enhance service. 
+Fare Structure 
+It is the intent of the Program to provide a consistent, flat-fare transportation service that 
+enables community members of all incomes to access a convenient, high quality mobility 
+option. The consumer cost to take a ride using the Program shall be as follows in the fare 
+structure below, unless otherwise mutually agreed upon by Consultant and the City Project 
+Manager: 
+Regular Fare (per trip): $5.00, with the option to reduce post launch as low as $2, as it relates to 
+demand generation and rider acquisition tactics and targets. 
+Rider +friends (additional riders added onto a users' trip request): Half the regular per trip fare 
+per-person, up to a maximum of four (4) riders under one (1) reservation. 
+Weekly Via Pass: Set price per week, starting the first day of the first trip used. Offers up to a set 
+number of trips per-day, each operational day of the week. 
+Senior/Disabled Pass (ages 65 and over)/Low-income/De Anza College students discounted 
+rate passes: Riders who are eligible for and submit necessary documentation to receive this 
+discount shall receive 50% off all standard fares, including Weekly ViaPass. 
+Consultant will work with City staff to determine appropriate fares for mutually agreed-upon out 
+of zone destinations, listed in Cupertino Service Area Map, Exhibit C.
+=== page 47 ===
+Consultant will work with City staff on developing additional fare packages, such as a monthly 
+pass, and other ways to maximize fare-box recovery and increase ridership. 
+The City will be responsible for verifying whether riders qualify for discounted fares. The City will 
+identify simple methods of verification, such as student ID's for the student fare, or cards 
+demonstrating that riders qualify for existing low-income programs to simplify the verification 
+process to the maximum extent feasible. 
+Any changes to base ride cost will be made in response to Pilot service data, and with the 
+intention of making the Pilot as efficient and cost-effective as possible while retaining service 
+accessibility. The City will retain full authority to approve any changes to the base ride cost 
+range described above. 
+Fare payment options shall include payment by credit card submitted electronically through the 
+Rider App or submitted through the Via system when booking is made for a rider over the 
+phone. 
+FleeWehicles 
+Dedicated vehicles will be offered by the Consultant's chosen third party vehicle provider 
+("Vehicle Provider") to Driver Partners on a rental basis. The Vehicle Provider will offer a fleet of 
+up to ten (10) branded, licensed and insured vehicles ("Fleet Vehicles"), all of which can fit a 
+minimum of 6 passengers and as many as two bicycles. The Fleet Vehicles shall include one 
+Wheelchair Accessible Vehicle (WAV) (approximately 10% of the total Fleet Vehicles) to be 
+made available to independent contractor Driver Partners, who will be able to gain access to 
+these vehicles after being registered onto the Platform. Consultant will ensure Vehicle Provider 
+keeps vehicles clean and maintained in a preventive maintenance program for vehicles used in 
+this pilot program. For the avoidance of doubt, the Vehicle Provider shall not be deemed a 
+"subcontractor" for the purposes of Section 5 of the Agreement. 
+Drivers 
+Qualified and accredited independent contractor drivers will be able to gain access to the Fleet 
+Vehicles after being registered onto the Via system, enabling these individuals to sign up for 
+specific daily slots or longer periods of work. Consultant shall establish driver registration and 
+certification protocols designed to ensure compliance with applicable laws, regulations, or terms 
+of project funding sources. Consultant shall ensure drivers are aware of the pilot program and 
+can articulate to riders pilot program basics, including how to get additional program information. 
+For the avoidance of doubt, independent contractor driver partners shall not be deemed 
+"subcontractors" for the purposes of Section 5 of the Agreement. 
+Smartphone App 
+Consultant shall work closely with the City to provide a co-branded splash page in the Via 
+Smartphone App. The ultimate appearance of the app will be built upon Via's proprietary rider

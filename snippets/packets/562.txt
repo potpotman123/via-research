@@ -1,0 +1,279 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/City of Gainesville/410734_Mobility-On-Demand_Software_App_(Rebid).pdf
+# pages_total: 47; hit_pages: [7, 8, 9]; included: [7, 8, 9]
+# context: Bleecker Drive folder: City of Gainesville
+
+=== page 7 of 47 ===
+Bidding Document - RFP - Page 7 of 47 
+ 
+Ability to add a minimum of 7 service geographic areas using 2-3 vehicles each. 
+ 
+Ability to designate roles and permissions. 
+ 
+Configurable Agency settings. 
+ 
+Generate configurable promotional codes 
+ 
+2.4.2 
+Back Office Dispatcher-Facing Dashboard (browser-based) 
+ 
+Ability and ease to sign into account. 
+ 
+Dispatch booking capabilities for users without smartphones or web access. 
+ 
+Ability to log drivers in 
+ 
+View in-progress rides. 
+ 
+Ability to approve or deny ride requests based on predetermined parameters such as, but not limited to, 
+group size, location, number of passenger no-shows. 
+ 
+Ability to add, edit or cancel rides in the system. 
+ 
+Ability to add/modify driver break and lunch periods. 
+ 
+Ability to view services by service area geo-fence and generate reports by service area geo-fence. 
+ 
+Ability to pan and zoom the map by geo-fence and to view entire route on a map. 
+ 
+Dispatcher portal shows pre-scheduled rides assigned to specific vehicle manifests immediately upon ride 
+booking. 
+ 
+Add out-of-zone addresses riders can choose from. 
+ 
+Add or remove roads and locations that are not travelable. 
+ 
+Ability to set a method to deny trips when demand outnumbers available resources. 
+ 
+Configurable real-time dispatcher display screen. 
+ 
+View and export reporting suite. 
+ 
+View recent ride history by type. 
+ 
+Dashboard for analysis of service operations and vehicles available. 
+ 
+Real-time analytics to alert dispatchers of demand surges and long wait times. 
+ 
+2.4.3 
+Passenger-Facing Features of the App 
+Passenger booking web-based portal and a consumer-facing smartphone application (iOS and Android) that have the following 
+functionalities: 
+ 
+ 
+Application must be available for free download on the Apple App Store and Google Play store. 
+ 
+Application must be device agnostic and accessible to all current browsers. 
+ 
+Allow users to search for and book rides for self and others using same phone number – multiple users on same 
+number. 
+ 
+Ability for users to book multiple trips (outside of a defined time window and within the allowable O-D trip 
+distance), recurring rides, and pre-schedule rides up to a customizable number of days in advance. 
+ 
+Rider booking capabilities for users without smartphones or web access. 
+ 
+Allow riders without smartphones or web access to receive trip alerts.  
+ 
+Present a 15-minute pick-up and drop-off window (or less) information for 
+pre-scheduled trip requests for rider's acceptance before confirming the booking. 
+ 
+Trip time – ability to track ride’s estimated wait time, arrival, and vehicle in real-time. App must allow customer 
+to cancel ride if times provided not convenient for rider. 
+ 
+Ability to request MOD vehicle and seat type. 
+ 
+Ability to enter place names (i.e. library, school, store or services) as well as addresses. Places and addresses will 
+have autocomplete capability. 
+ 
+Ability to notify user of invalid rider request (exceeded number of trips within a defined time window, rides 
+within non-allowable O-D trip length, out of service area, service hours, or non-serviceable locations). 
+ 
+Ability to identify number of passengers traveling. 
+ 
+Ability to receive trip updates through the app or via SMS/email. 
+ 
+Depict real-time vehicle locator map, including fixed route operations. 
+ 
+Ability to view trip history and details. 
+ 
+Ability for user to contact customer service and/or dispatch (i.e. email, text, call). 
+ 
+System assigns passenger bookings (including pre-scheduled rides) to a driver manifest immediately upon 
+booking. 
+ 
+System automatically updates and optimizes vehicle manifests when there are real- time cancellations, no-shows,
+
+=== page 8 of 47 ===
+Bidding Document - RFP - Page 8 of 47 
+a vehicle goes out of service, or vehicle is behind schedule.  
+ 
+RTS or Agency-branded consumer facing smartphone application that disallows advertisements. RTS-generated 
+information is exempt.  
+ 
+App available in multiple languages such as Spanish. 
+ 
+App effectively interfaces with Braille technology.  
+ 
+App has ability to increase font size. 
+ 
+Ride star rating system with ability for customer comments. 
+ 
+Account Recovery - account management such as password/user name recovery. 
+ 
+2.4.4 
+Driver-facing features of the App  
+Shall be a web-based portal (IOS required and Android optional) that interfaces with all web browsers and has the following 
+functionalities: 
+ 
+ 
+Driver Itineraries - driver name, start time of itinerary, timestamp of each pick-up/drop-off, location of each 
+pick-up/drop-off. 
+ 
+Ability to send trip arrival alert to rider through the app or via SMS/email.  
+ 
+Driver Shift Actions - driver name, shift start time, shift end time, timestamp of an Offline action, timestamp 
+of an online action, timestamp of accepting/rejecting a trip request. 
+ 
+Ability for driver to pause app without redirecting rides to another vehicle. 
+ 
+Ability for driver sign-on to account. 
+ 
+Ability for driver to accept ride requests from Dispatch and override service sequence and maintain app 
+functionality. 
+ 
+Ability for driver to contact passenger if they cannot find them at designated pick-up location via anonymized 
+phone number(s). 
+ 
+Ability to receive Dispatcher notes on specific trips/customers. 
+ 
+Turn by turn audio and visual (on screen) directions. 
+ 
+Ability to log pick-ups and drop-offs. 
+ 
+Ability to see disabilities indicated by rider (in their account) so they can provide appropriate level of service. 
+ 
+Ability to log no-shows. 
+ 
+Ability to add trip comments by driver to promote service improvement. 
+ 
+Ability to pan and zoom the map and view the entire route on the map. 
+ 
+2.4.5 
+Data Collecting and Reporting Requirements 
+Provide an online dashboard for reporting real-time data on riders, vehicles, drivers, and service performance/Key Performance 
+Indicators (KPIs). (Note: where applicable, data should conform to National Transit Database (NTD) metric and reporting 
+standards, as well as have the ability to be exported in a CSV format.) Data and reporting should capture, store, and report at a 
+minimum: 
+ 
+ 
+Passenger trip data – total completed trips, total riders, by type of rider, by revenue hour, by trip, by source 
+(call-in, app), origin and destination both of which must be tagged by postal code. 
+ 
+Travel times – wait time, ride duration, on-time percentage, and late percentage. 
+ 
+A method for collecting on-time performance relative to planned drop-off times and estimated pick-up times. 
+ 
+Trips Booked – rider name, rider name, trip request time, planned pick-up and drop-off times and locations, 
+actual pick-up and drop-off times and locations, number of passenger(s), seat type(s) selected, ride status 
+(including but not limited to completed, no-show, canceled by rider, canceled by system, and view errors that 
+turned down the trip request). 
+ 
+Dispatch response time, missed calls. 
+ 
+Revenue Hours - Fields must include at a minimum for each hour: number of online minutes, number of trip 
+acceptances, number of trip rejections, and number of minutes deadheading, number of minutes with 
+passengers on board. 
+ 
+Reporting by geo-fence, with ability to add, alter, or remove geo-fenced zones with history. 
+ 
+Reporting data inquiries within route number, date and time ranges. 
+ 
+Vehicle performance and reliability. 
+ 
+Total vehicle hours. 
+ 
+Trip and driver comments. 
+ 
+Driver hours.
+
+=== page 9 of 47 ===
+Bidding Document - RFP - Page 9 of 47 
+ 
+Aggregate reports (e.g. daily and annual totals) must include breakdown reports, including at a minimum, 
+breakdowns by vehicle and day so that total figures can be traced by an auditor to source data, including 
+chronological vehicle manifests of pull-outs from garage, first pick-up, all pick-up/drop-off times and 
+locations, all operator break and/or refueling begin and end times and locations, last drop-off time/location, 
+pull-in garage, and any additional deadhead activity. 
+ 
+Reports including but not limited to revenue vehicle hours, must be tagged and allow breakdowns by service 
+zone. 
+ 
+All statistics above are available on individual trip basis in an agency-facing dashboard with maps and Graphical 
+User Interface (GUI). At a minimum, the dashboard should include views for: all booked trips, including 
+origin/destination mapping capabilities, all driver shifts, all KPI statistics, vehicle & driver management, and 
+shift management. 
+ 
+Generate an NTD-standard report for upload to the Federal Transit Agency system. 
+ 
+RTS/City of Gainesville must be able to own and access all data, including rider data, during and post-contract. 
+ 
+Proposal should clearly indicate any manual data input that will be required to capture sufficient data for 
+reporting purposes, as well as how mileage and location data will be captured. 
+ Reportable data on pilot KPIs, including ridership, virtual stop usage and frequency, reservations, cancellations, 
+promotional codes, trip ratings, driver ratings, comments, and customer service requests, riders per hour by 
+individual geo-fence and system-wide. 
+ 
+The following constitute future capabilities 
+ 
+Daily Reports of Key Performance Indicators are delivered by email to project stakeholders.  
+ 
+Virtual stop usage and frequency. 
+ 
+Number and percentage of trip transfers to and from fixed route. 
+ 
+Driver and trip rating, number of passengers, and seat types selected. 
+ 
+Number and success of marketing events – audience reached. 
+ 
+Promotional or referral code usage and frequency. 
+ 
+A concierge interface for hotels, restaurants, non-profit organizations, or employers to book a trip on behalf of 
+a customer via web interface.  
+ 
+GTFS (General Transit Feed Specification): Ability to consume the GTFS to provide additional information to 
+the public.  
+ 
+System should have an open API that is capable of integrating with trip planning and mobile ticketing apps 
+(e.g. Kontron) that allows customers to plan a trip and pay for a trip on the service without using the provider’s 
+app. Native integration is preferred. 
+ 
+Identify which app platforms the system currently integrates with and if it is a deep link or native integration 
+solution in the proposal.  
+ 
+2.4.6 
+Technical Support, Software Upgrades and Releases 
+ 
+Provide a licensed software/technology platform that supports demand-responsive routing and dispatch of 
+vehicles. 
+ 
+Provide upgrades and new features to software generally made available to other licensees for no additional 
+charge. 
+ 
+Support Services must be provided via phone and email and must be available during RTS operating hours. 
+ 
+Provide prior notice in a timely manner to RTS when the software will be unavailable for any reason, such as 
+system maintenance, and coordinate a date/time that is outside of regular RTS operating hours. 
+ 
+Software Security and User Privacy: Ensure privacy and security of all data maintained as part of the service. 
+ 
+2.4.7 
+Privacy Requirements and Software Security 
+The software shall meet the following security and privacy requirements: 
+ 
+ 
+The passenger and driver apps are ‘stateless’ and do not store confidential passenger data on the local device. 
+ 
+All data is stored securely in the cloud (Amazon Web Services – ‘AWS’) or approved equal. All data stored 
+securely in the cloud utilizing infrastructure that is designed and managed for maximum uptime and availability 
+and in full compliance with IT security best practices and standards.

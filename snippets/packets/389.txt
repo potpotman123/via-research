@@ -1,0 +1,49 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Lorain County/032624 final.pdf
+# pages_total: 4; hit_pages: [2]; included: [2]
+# context: Bleecker Drive folder: Lorain County
+
+=== page 2 of 4 ===
+Board agenda cont. 03/26/24
+#10.
+Untable Res#24-182, adopted March 15, 2024 Approve 2024 General Fund Budget
+911:
+#11
+Approve a Letter of Understanding between Lorain County Board of Commissioners and Fraternal Order of 
+Police/Ohio Labor Council (FOP-OLC) for the purpose of addressing Holiday Time use for employees at Lorain 
+County 911
+Community Development:
+#12.
+Implementing Sections 3735.65 – 3735.70 of the ORC establishing and describing the boundaries of Community 
+Reinvestment Area in Elyria Township. Designate a housing officer to administer the program and create a 
+Community Reinvestment Housing Council and a Tax Incentive Review Council.
+Crime Lab:
+#13.
+Enter into a subgrant award Agreement with Ohio Department of Public Safety Ohio American Rescue 
+Plan Funding 2022 Grant Program 2022-AR-CLB-911A in amount of $425,000.00. This will be applied 
+towards new equipment to improve laboratory efficiency and decrease the backlog of testing for the 
+Crime/Drug Lab. Authorize Administrator to execute document and will be paid from Acct#Public Safety-
+Equipment-Crime Lab.
+Job & Family Services:
+#14
+Amend Resolution No. 23-734, adopted October 17, 2023 authorizing Lorain County Safe Harbor to provide 
+shelter for domestic violence victims and Domestic violence victim families in Lorain County using TANF and 
+Title XX Funds. Said amendment is to increase the contract by $320,000.00 for the total contract amount not to 
+exceed $512,500 and will be paid from Acct#TANF
+Transit:
+#15
+Approve & enter into an agreement with River North Transit, LLC, a wholly owned subsidiary of Via 
+Transportation, Inc in the amount of $2,124,500 to provide a 1-year microtransit pilot project within the cities of 
+Elyria and Lorain. The microtransit services will be provided within the cities of Elyria and Lorain, Monday 
+through Friday from 6:30am to 6:30pm, effective July 8, 2024 through July 7, 2025 and will be paid from 
+Acct#vehicle repair
+#16.
+Approve & enter into an agreement with Via Mobility, LLC for Software in the amount of $194,840 as a service 
+license for Demand/Response scheduling and dispatching for a 3-year term. This software will provide riders with 
+the ability to book their own trips through an app for scheduling Dial-A-Ride trips and will be paid from 
+Acct#computer software
+#17.
+Approve & enter into an agreement with Remix Technologies, LLC in the amount of $68,000 for Software as a 
+service license Route Planning & Scheduling Software for a 3-year term.  This software will allow restructure of 
+its fixed route services as data is collected during the microtransit pilot project and will be paid from 
+Acct#computer software

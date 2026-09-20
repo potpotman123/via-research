@@ -1,0 +1,139 @@
+# source: raw/bleecker_drive/Miami Dade/212269.pdf
+# path: raw/bleecker_drive/Miami Dade/212269.pdf
+# hit page: 10 of 35
+# terms: Remix Technologies
+
+=== page 9 ===
+Miami-Dade County, FL 
+Contract No. BW-10126 
+Page 3 of 29 
+Rev 8-4-21 
+ 
+GOVERNING LAW 
+23 
+COUNTY USER ACCESS PROGRAM (UAP) 
+23 
+INTEREST OF MEMBERS, OFFICERS OR EMPLOYEES AND FORMER MEMBERS, OFFICERS OR 
+EMPLOYEES
+23 
+LIENS 
+24 
+FIRST SOURCE HIRING REFERRAL PROGRAM 
+24 
+PUBLIC RECORDS AND CONTRACTS FOR SERVICES PERFORMED ON BEHALF OF MIAMI-DADE 
+COUNTY
+24 
+VERIFICATION OF EMPLOYMENT ELIGIBILITY (E-VERIFY) 
+24 
+SURVIVAL
+25 
+9
+=== page 10 ===
+Miami-Dade County, FL 
+Contract No. BW-10126 
+Page 4 of 29 
+Rev 8-4-21 
+ 
+NOW, THEREFORE, in consideration of the mutual covenants and agreements herein contained, the parties hereto agree as 
+follows: 
+DEFINITIONS 
+The following words and expressions used in this Agreement shall be construed as follows, except when it is clear from the 
+context that another meaning is intended: 
+1.
+The words "Contract" or "Agreement" to mean collectively these terms and conditions and the Scope of Work
+(Appendix A).
+2.
+The words "Contract Date" to mean the date on which this Agreement is effective.
+3.
+The words "Contract Manager" to mean Miami-Dade County's Director, Internal Services Department, or the duly
+authorized representative designated to manage the Contract.
+4.
+The word "Consultant" to mean Remix Technologies, LLC and its permitted successors.
+5.
+The word "Days" to mean calendar days unless business days are explicitly noted.
+6.
+The word "Deliverables" to mean all documentation and any items of any nature submitted by the Consultant to the
+County’s Project Manager for review and approval pursuant to the terms of this Agreement.
+7.
+The words "directed", "required", "permitted", "ordered", "designated", "selected", "prescribed" or words of like import
+to mean respectively, the direction, requirement, permission, order, designation, selection or prescription of the
+County's Project Manager; and similarly the words "approved", acceptable", "satisfactory", "equal", "necessary", or
+words of like import to mean respectively, approved by, or acceptable or satisfactory to, equal or necessary in the
+opinion of the County’s Project Manager.
+8.
+The words "Extra Work" or “Additional Work” to mean additions or deletions or modifications to the amount, type or
+value of the Work and Services as required in this Contract, as directed and/or approved by the County.
+9.
+The words "Project Manager" to mean the County Mayor or the duly authorized representative designated to manage
+the Project.
+10. The words "Scope of Work" to mean the document appended hereto as Appendix A, which details the work to be
+performed by the Consultant.
+11. The word "subconsultant" or “sub consultant” to mean any person, entity, firm or corporation, other than the employees 
+of the Consultant, who furnishes labor and/or materials, in connection with the Work, whether directly or indirectly, on
+behalf and/or under the direction of the Consultant and whether or not in privity of Contract with the Consultant.
+12. The words "Work", "Services" "Program", or "Project" to mean all matters and things required to be done by the
+Consultant in accordance with the provisions of this Contract.
+ORDER OF PRECEDENCE 
+If there is a conflict between or among the provisions of this Agreement, the order of precedence is as follows: 1) these terms 
+and conditions, and 2) the Scope of Work (Appendix A). 
+RULES OF INTERPRETATION 
+1.
+References to a specified Article, section or schedule shall be construed as reference to that specified Article, or
+10
+=== page 11 ===
+Miami-Dade County, FL 
+Contract No. BW-10126 
+Page 5 of 29 
+Rev 8-4-21 
+ 
+section of, or schedule to this Agreement unless otherwise indicated. 
+2.
+Reference to any agreement or other instrument shall be deemed to include such agreement or other instrument as
+such agreement or other instrument may, from time to time, be modified, amended, supplemented, or restated in
+accordance with its terms.
+3.
+The terms "hereof", "herein", "hereinafter", "hereby", "herewith", "hereto", and "hereunder" shall be deemed to refer
+to this Agreement.
+4.
+The titles, headings, captions and arrangements used in these Terms and Conditions are for convenience only and
+shall not be deemed to limit, amplify or modify the terms of this Contract, nor affect the meaning thereof.
+NATURE OF THE AGREEMENT 
+A.
+This Agreement incorporates and includes all prior negotiations, correspondence, conversations, agreements, and
+understandings applicable to the matters contained in this Agreement.  The parties agree that there are no commitments,
+agreements, or understandings concerning the subject matter of this Agreement that are not contained in this Agreement,
+and that this Agreement contains the entire agreement between the parties as to all matters contained herein.  Accordingly,
+it is agreed that no deviation from the terms hereof shall be predicated upon any prior representations or agreements,
+whether oral or written.  It is further agreed that any oral representations or modifications concerning this Agreement shall
+be of no force or effect, and that this Agreement may be modified, altered or amended only by a written amendment duly
+executed by both parties hereto or their authorized representatives.
+B.
+The Consultant shall provide the services set forth in the Scope of Work, and render full and prompt cooperation with the
+County in all aspects of the Services performed hereunder.
+C.
+The Consultant acknowledges that this Agreement requires the performance of all things necessary for or incidental to the
+effective and complete performance of all Work and Services under this Contract.  All things not expressly mentioned in
+this Agreement but necessary to carrying out its intent are required by this Agreement, and the Consultant shall perform
+the same as though they were specifically mentioned, described and delineated.
+D.
+The Consultant shall furnish all labor, materials, tools, supplies, and other items required to perform the Work and Services
+that are necessary for the completion of this Contract. However, the County acknowledges that timely input and
+cooperation from the County will be required at all times and any delays or costs incurred by either party as a result of the
+lack of such timely cooperation from the County shall be borne solely by the County. All Work and Services shall be
+accomplished at the direction of and to the satisfaction of the County's Project Manager, in accordance with Appendix A
+and the Parties’ established metrics, milestones and plans during the Term of this Agreement.
+E.
+The Consultant acknowledges that the County shall be responsible for making all policy decisions regarding the Scope of
+Work.  The Consultant agrees to provide input on policy issues in the form of recommendations.  The Consultant agrees
+to implement all commercially reasonable changes in providing Services hereunder as a result of a policy change
+implemented by the County.  The Consultant agrees to act in an expeditious and fiscally sound manner in providing the
+County with input regarding the time and cost to implement said changes and in executing the activities required to
+implement said changes. The County shall be responsible for all resources and change fees required to implement its
+policy decisions and requested changes, if any, to the Scope of Work.
+CONTRACT TERM 
+The Contract shall become effective on the date of the Parties’ execution, whichever is later, and shall continue through the 
+last day of the third (3rd) year, thereafter. The County may extend this Contract for up to an additional one hundred-eighty (180) 
+calendar days beyond the current Contract period and will notify the Contractor in writing of the extension. This Contract may 
+be extended beyond the initial one hundred-eighty (180) calendar day extension period by mutual agreement between the 
+County and the Contractor, upon approval by the Board of County Commissioners (the "Board"). 
+11

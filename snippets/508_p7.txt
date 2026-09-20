@@ -1,0 +1,74 @@
+# source: raw/bleecker_drive/Suffolk County/11232021 Building Transportation for the future in Suffolk County.pdf
+# path: raw/bleecker_drive/Suffolk County/11232021 Building Transportation for the future in Suffolk County.pdf
+# hit page: 7 of 19
+# terms: Via+SaaS, Via+licensing
+
+=== page 6 ===
+6
+Via. Proprietary & Conﬁdential.
+Via’s technology platform is built to advance equity and economic mobility
+Jersey City, NJ
+●Most riders make less 
+than $50k and more than 
+75% of riders are persons 
+of color
+Birmingham, AL
+●With Birmingham 
+On-Demand, job 
+opportunities reachable 
+by public transit in 30 min 
+went from 10% to 90%
+Arlington, TX
+●Arlington On-Demand 
+provides connections to 
+137,000 jobs that were 
+previously only 
+accessible by private car
+Wilson, NC
+●34% of riders have no 
+access to a smartphone 
+and 40% of riders are 
+cash-preferred
+Mobility for underserved communities
+Expanding access to jobs
+=== page 7 ===
+Software-as-a-Service (SaaS)
+Licensing to public 
+transit agencies 
+and operators
+Rider
+Dispatch
+Driver
+Via’s platform enables cities to digitize and eﬃciently manage every 
+component of their transportation system
+=== page 8 ===
+01
+02
+03
+04
+8
+Via. Proprietary & Conﬁdential.
+Mixed ﬂeet that includes 
+WAV vehicle(s) to 
+accommodate a range of 
+rider preferences
+Door-to-door pickups 
+& drop-oﬀs for mobility 
+limited riders
+Simple phone booking 
+process for those without 
+web or smartphone 
+access
+Prepaid debit cards, 
+vouchers & cash 
+payment options for 
+unbanked users
+Accessible 
+Vehicles
+Customized 
+Service
+Phone
+Booking
+Payment 
+options
+Incorporating accessibility features that promote equity

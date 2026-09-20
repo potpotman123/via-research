@@ -1,0 +1,32 @@
+# source: raw/bleecker_drive/City of Fargo/23_3615_Via_ND_state_contract_283_work_order_request.pdf
+# path: raw/bleecker_drive/City of Fargo/23_3615_Via_ND_state_contract_283_work_order_request.pdf
+# hit page: 7 of 7
+# terms: Via+SaaS, Via+annual fee, Via+vehicles
+
+=== page 6 ===
+Appendix A - NDSU Microtransit Zone
+MATBUS On-Demand
+NDSU Service Area
+BOOSEVEL
+=== page 7 ===
+Appendix B - Detailed Pricing
+Via SaaS Pricing Proposal for MATBUS
+• Installation Fee
+Annual & Monthly Fees
+Description
+Upfront, One-Time Fee for Microtransit Launch
+Fixed Monthly Fee - Up to 13 Active Vehicles 2
+Incremental Monthly Fee per Vehicle - Active
+Vehicles 14+2
+Memo: Minimum Annual Fee (Year 1)
+Amount
+$10,000
+$4,100
+$260
+$49,200
+Total 2-Year Cost
+13 Active Vehicles
+$108,400
+' Payable upfront annually as the Minimum Annual Fee.
+* An active vehicle is defined as the maximum number of distinct vehicles that use the Via Solution on any given day
+over the course of the applicable calendar month.

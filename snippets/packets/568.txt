@@ -1,0 +1,47 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Doral/20_3828_attachment_1.pdf
+# pages_total: 3; hit_pages: [1]; included: [1]
+# context: Bleecker Drive folder: Doral
+
+=== page 1 of 3 ===
+0 03
+MORIDD
+Memorandum
+Date:
+To:
+Via:
+From:
+Subject:
+August 12, 2020
+Honorable Mayor and City Council-Members
+Albert P. Childress
+City Manager
+Aes
+Carlos Arroyo
+Public Works Director
+Remix Contract Agreement & Budget Transfer
+Introduction
+This memorandum provides staff's recommendation for the Mayor and the City Council-Members to
+authorize the City Manager to enter into a Contract Agreement with Remix Software, Inc. (Remix) for a
+three (3) year period in an amount not to exceed the Departmental budgeted funds. The Remix Software
+will facilitate the development of transit alignment analysis, will help create public transportation routes,
+will help project ridership, and develop schedules based on GPS roadway data. Additionally, the Public
+Works Department (PWD) is requesting to transfer $14,000.00 from Transportation Fund "Construction
+Progress"
+Account Account
+No. 101.80005.500650)
+the Transportation Fund
+"Dues/Subscriptions/Memberships" Account (Account No. 101.80005.500540) in order to provide
+sufficient funding in the account to cover the cost of the first year which includes a one-time setup fee of
+$2,000.00, a one-time data fee of $ 1,000.00, and a $11,000.00 yearly fee.
+Background
+Historically when developing, modifying, and evaluating trolley routes, schedules, stops, potential
+passenger access, and costs, the Public Works staff has relied on a number of software programs including
+Excel, Google Earth, and Census data to perform the analysis. In addition, the Public Works Department
+(PWD) has also relied on the assistance of consultants to further refine the transit routes from a planning
+concept to an implementable reality. However, this method of transit planning has become antiquated
+with the development of Remix. Remix is a cloud-based software that provides a transit platform that
+brings together the complete transportation picture into a single program. Remix's Transit Platform
+provides quick bus route design and analysis capacities through an internet browser interface, including:
+map-based route and stop planning, stop-based demographic analysis, operating cost calculations based on
+both frequencies and timetables, and customizable accessibility visualizations and analytics.

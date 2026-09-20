@@ -1,0 +1,257 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Lee County/RFP250034SML Via Mobility Executed.pdf
+# pages_total: 171; hit_pages: [1, 7, 16, 17, 25, 28, 30, 67, 68, 69, 75, 84, 85, 86, 88, 90, 91, 92, 93, 95, 98, 99, 100, 101, 113, 114, 118, 121, 122, 123, 152, 153, 154, 156, 157, 158, 160, 161, 163, 164, 169]; included: [7, 28, 88]
+# context: Bleecker Drive folder: Lee County
+
+=== page 7 of 171 ===
+Solicitation No. RFP250034SML 
+Page 7 of 36 
+3) ensure that public records that are exempt or confidential and
+exempt from public records disclosure requirements are not
+disclosed, except as authorized by law; and
+4) meet all requirements for retaining public records and transfer, at no
+cost to the County, all public records in possession of Vendor upon
+termination of this Agreement and destroy any duplicate public
+records that are exempt or confidential and exempt from public
+records disclosure requirements. All records stored electronically
+must be provided to the County in a format that is compatible with
+the information technology system of the County.
+IF THE VENDOR HAS QUESTIONS REGARDING THE 
+APPLICATION OF CHAPTER 119, FLORIDA STATUTES, 
+TO THE VENDOR’S DUTY TO PROVIDE PUBLIC 
+RECORDS RELATING TO THE CONTRACT, CONTACT 
+THE CUSTODIAN OF PUBLIC RECORDS AT 239-533- 
+2221, 2115 SECOND STREET, FORT MYERS, FL 33901, 
+PRRCustodian@leegov.com; 
+http://www.leegov.com/publicrecords. 
+E. The Vendor is, and shall be, in the performance of all work, services and
+activities under this Agreement, an independent contractor. Vendor is not
+an employee, agent or servant of the County and shall not represent itself
+as such. All persons engaged in any work or services performed pursuant
+to this Agreement shall at all times, and in all places, be subject to the
+Vendor’s sole direction, supervision and control. The Vendor shall exercise
+control over the means and manner in which it and its employees perform
+the work, and in all respects the Vendor’s relationship and the relationship
+of its employees to the County shall be that of an independent contractor
+and not as employees of the County. The Vendor shall be solely responsible
+for providing benefits and insurance to its employees.
+F. The Vendor shall comply with the Vendor Background Screening Affidavit
+attached hereto and incorporated herein as Exhibit D.
+IX.
+OWNERSHIP OF PRODUCTS
+It is understood and agreed that during the term of the Agreement Vendor
+grants the County subscription access to the Vendor’s proprietary cloud-based
+software solution (“Via Solution”) for purposes of providing the services
+further described in Exhibit A. As between County and Vendor, all intellectual
+property rights in and to the Via Solution and all of their derivative works and
+improvements are owned by Vendor.  .
+X.
+TIMELY DELIVERY OF PRODUCTS AND PERFORMANCE OF SERVICES
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7
+
+=== page 28 of 171 ===
+Solicitation No. RFP250034SML 
+Page 28 of 36 
+Incremental Monthly Fee: 
+In the event that more than 40 vehicles are used during a given calendar month, Vendor will calculate 
+Incremental Monthly Fees at the per vehicle rate above and provide the County with an invoice based on the 
+actual number of active vehicles used during the previous month. The County shall be responsible for paying 
+the Incremental Monthly Fee within 45 days of the date of such invoice in accordance with the terms of the 
+Agreement.  
+Vendor shall calculate the Fees due. For the avoidance of doubt, (i) the number of vehicles per month for purposes of the above fees 
+shall be the maximum number of distinct vehicles input by County that use the Via Solution on any given day over the course of the 
+applicable calendar month and (ii) in the event the duration of the deployment does not exactly match calendar months, monthly fees 
+will be prorated for the first and/or last calendar months of the deployment, as applicable, so that County will only be charged for the 
+portion of such months during which the Via Solution was available to be used for the deployment. 
+County shall reimburse all travel expenses of Vendor personnel for purposes of the deployment. Installation-related services 
+described above will initially be performed remotely, and if Vendor deems it necessary, in person by Vendor personnel for a limited 
+period around launch.  Thereafter, services will continue to be performed remotely as applicable, provided that Vendor personnel 
+can be sent to County’s location for additional trips upon reasonable request.  
+Twilio. Price includes our generic package for Twilio cost for 4 SMS notifications and 1.25 minutes of Twilio voice time per ride, at a 
+maximum of $0.06 per ride on average for all rides completed within each calendar month. Any costs associated with Twilio in 
+excess of $0.06 per ride will be billed to the County as at cost plus 10% on a monthly basis. 
+The fees set forth above do not include any owed to the third-party payment processor. Vendor will facilitate an introduction to its 
+recommended payment processor and County is responsible for entering an agreement with such payment processor in order to be 
+able to process credit card payments. 
+Launch Delay. If the mutually agreed launch date is delayed for more than a calendar month by the County 
+for any reason, the County shall be responsible for paying the Vendor a $2,000 monthly technology fee for 
+the cost of maintaining the technology infrastructure for County’s deployment during the period of delay (the 
+“Technology Fee”).  The Technology Fee shall be payable monthly at the beginning of the month in which it 
+is incurred. In the event that the duration of the delay does not exactly match calendar months, the 
+Technology Fee will be prorated for the relevant month in which launch occurred. 
+Declared Emergency. If, during a given calendar month, Lee County experiences a Declared Emergency 
+resulting in the number of vehicles falling materially below the 40-vehicle minimum for an extended period, 
+Vendor and the County may negotiate an appropriate credit to be applied to a subsequent invoice. A 
+“Declared Emergency” occurs in the event a natural disaster results in the Governor of Florida or the 
+President of the United States declaring a state of emergency covering Lee County.
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7
+
+=== page 88 of 171 ===
+COMPANY NAME:
+SOLICITATION:
+Item
+Description
+Estimated
+Quantity
+Unit Price
+Annual Rate (1) /       
+Monthly Rate (12)
+Extended
+Amount
+1.1
+Software / Administrative User
+21
+0.00
+1 
+-
+ 
+ $                            
+1.2
+Paratransit Services - Set Up Fee
+1
+14,000.00
+1 
+14,000.00 
+ $                 
+1.3
+Vehicle Management Fee / License (per vehicle per month)
+42
+200.00
+12 
+100,800.00 
+ $               
+1.4
+Training Program Cost, if applicable
+1
+2,500.00
+1 
+2,500.00 
+ $                   
+1.5
+Intereactive Voice Response (IVR) Charges if Applicable
+1
+1,000.00
+1 
+1,000.00 
+ $                   
+118,300.00 
+ $               
+Item
+Description
+Estimated
+Quantity
+Unit Price
+Annual Rate (1) /       
+Monthly Rate (12)
+Extended
+Amount
+2.1
+Software / Administrative User
+21
+0.00
+1 
+-
+ 
+ $                            
+2.2
+Vehicle Management Fee / License (per vehicle per month)
+42
+200.00
+12 
+100,800.00 
+ $               
+2.3
+Training Program Cost, if applicable
+1
+0.00
+1 
+-
+ 
+ $                            
+2.4
+Intereactive Voice Response (IVR) Charges if Applicable
+1
+0.00
+1 
+-
+ 
+ $                            
+100,800.00 
+ $               
+Item
+Description
+Estimated
+Quantity
+Unit Price
+Annual Rate (1) /       
+Monthly Rate (12)
+Extended
+Amount
+3.1
+Software / Administrative User
+21
+0.00
+1 
+-
+ 
+ $                            
+3.2
+Vehicle Management Fee / License (per vehicle per month)
+42
+200.00
+12 
+100,800.00 
+ $               
+3.3
+Training Program Cost, if applicable
+0
+0.00
+0 
+-
+ 
+ $                            
+3.4
+Intereactive Voice Response (IVR) Charges if Applicable
+1
+0.00
+1 
+-
+ 
+ $                            
+100,800.00 
+ $               
+ $         319,900.00 
+(1.3, 2.2 & 3.2) Vehicle Management Fee will be based on the maximum vehicles used in any given month
+**Quantities are not guaranteed.  Final payment will be based on actual quantities.
+Inception (Year 1)
+SUBTOTAL:  YEAR 1 PARATRANSIT SERVICE
+Optional Renewal #1 - Year 2
+SUBTOTAL:  RENEWAL 1 - YEAR 2 PARATRANSIT SERVICE
+Optional Renewal #2 - Year 3
+SUBTOTAL:  RENEWAL 2 - YEAR 3 PARATRANSIT SERVICE
+PROJECT TOTAL (Year 1 + Renewal Year 2 + Renewal Year 3):
+RFP250034SML - LeeTran Paratransit Management Software 
+PROCUREMENT MANAGEMENT DEPARTMENT
+BID/PROPOSAL FORM
+Via Mobility, LLC (Via) 
+RFP250034SML - LeeTran Paratransit Management Software 
+Having carefully examined the Contract Documents, Contractor/Vendor proposes to furnish the following which meeting these specifications.
+PRICING                                                                                                                                                                                                                                                                                                                                                          
+Pricing shall be inclusive of all labor, equipment, supplies, overhead, profit, material, and any other incidental costs required to perform and complete all work as specified in the Contract Documents.   All Unit Prices will be bid 
+at the nearest whole penny.  The Excel document contains formulas for convenience, however it is the Contractor’s/Vendor's responsibility to verify all pricing and calculations are CORRECT.  Lee County is not responsible for 
+errors in formulas or calculations contained within Excel document(s).  
+LUMP SUM PRICING: The Contractor performing the work agrees to complete the project for a fixed amount – no more or less, as stated on the Bid/Price Proposal Form. The lump sum price shall be inclusive of all labor, 
+equipment, supplies, overhead, profit, materials, and any other incidental costs required to perform and complete all work, as specified within the scope, technical specifications, and construction documents. 
+In the event there is a discrepancy between a subtotal or total amount and the unit prices and extended amounts, the unit prices will prevail and the corrected extension(s) and total(s) will be considered the price.
+The County will only accept bids submitted on bid forms provided by the County.  Bids submitted on other forms, other than those provided by the County, will be deemed non-responsive and ineligible for award.
+**Bidders may not adjust or modify County-authored data as provided within the Bid Schedule.  Bids received with modified data may deem the Bidder as non-responsive and ineligible for award.**
+PLEASE ENSURE you have provided a printed copy of the Bid Schedule with your hard copy submission packages and provided the excel version with your digital submission package.
+Page 1 of 1
+EXHIBIT E - PROJECT FUNDING PACKAGE
+-
+LeeCounty 
+-
+.f.,t,-.tf"&nila ----------
+----,--------,--
+--~----~--------l 
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7

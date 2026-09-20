@@ -1,0 +1,633 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Pierce County/05.12.25-BOC-Packet.pdf
+# pages_total: 95; hit_pages: [17, 22, 24, 27, 28, 39]; included: [17, 24, 27, 28]
+# context: Bleecker Drive folder: Pierce County
+
+=== page 17 of 95 ===
+Item/Service
+CHK 
+Property Tax 0219011128 2025      
+CHK 
+Sec 1st Tr 01/31-02/27/25     
+CHK 
+Employee Ded PP8 2025               
+CHK 
+Policing Services 02/25       
+CHK 
+Fuel VP 03/02-04/01/25        
+CHK 
+Sec Temp Guard 02/28-03/27/25 
+CHK 
+Policing Services 03/25       
+EFT 
+Deferred Comp PP7 2025         
+EFT 
+Fuel Tax                     
+EFT 
+P-card small operating supplies           
+EFT 
+Tire Miles 03/25              
+EFT 
+Misc Inventory Bus parts
+EFT 
+ADA Paratransit Svcs 03/25    
+EFT 
+Misc Inventory Bus parts
+EFT 
+Fuel tax                   
+EFT 
+CNG Supply 03'/25             
+EFT 
+Dental Prem 04.25             
+EFT 
+Deferred Comp PP8 2025         
+EFT 
+Misc Inventory Bus parts
+EFT 
+Lic MSReserv 04/01/25-03/31/26
+EFT 
+2024 Interest earned          
+EFT 
+Multicare Name Rights Year 2  
+EFT 
+Gig Harbor Runner 03/25       
+EFT 
+Misc Inventory Bus parts
+EFT 
+Premium W/C 04/01/25-04/01/26
+EFT 
+2025 Chevy Traverse veh 2068, 2867, 2869
+EFT 
+Demo Shelters 04/25
+00019990
+TALAKAI CONSTRUCTION LLC      
+443,447.85
+Payments for Fund 9 Total
+585,748.86
+Total Payments in Excess of $50,000.00
+6,375,945.51
+Payments for Fund 4 Total
+106,371.00
+ Capital Fund
+Check
+Vendor
+Amount
+19940
+BUD CLARY CHEVROLET CADILLAC I
+142,301.01
+Payments for Fund 1 Total
+5,683,825.65
+ Self Insurance Fund
+Check
+Vendor
+Amount
+00019805
+ALLIANT INSURANCE SERVICES INC
+106,371.00
+00020064
+THE SUPERLATIVE GROUP INC     
+76,500.00
+00020069
+VIA TRANSPORTATION INC        
+240,704.96
+00020071
+DOBBS HEAVY DUTY HOLDINGS LLC 
+63,056.22
+00020022
+SPX CORPORATION               
+93,739.42
+00020054
+SHI INTERNATIONAL CORP        
+628,477.73
+00020055
+SOUND TRANSIT                 
+217,540.48
+00019996
+UNITED ENERGY TRADING LLC     
+116,053.30
+00020005
+AWC EMPLOYEE BENEFIT TRUST    
+1,512,048.16
+00020006
+ICMA RETIREMENT               
+302,063.40
+00019947
+FIRST TRANSIT INC             
+1,007,177.40
+00019951
+GILLIG LLC                    
+64,765.83
+00019974
+PETROCARD INC                 
+101,819.62
+00019927
+US BANK CORPORATE PAYMENT SYST
+67,948.09
+00019939
+BRIDGESTONE AMERICA           
+81,442.27
+00019946
+CUMMINS INC                   
+56,536.32
+00385715
+CITY OF LAKEWOOD              
+63,753.28
+00019863
+ICMA RETIREMENT               
+301,800.57
+00019905
+PETROCARD INC                 
+99,826.92
+00385658
+CITY OF LAKEWOOD              
+55,974.11
+00385708
+US BANK NA                    
+65,505.92
+00385711
+UNIVERSAL PROTECTION SERVICE L
+176,907.25
+00385627
+PIERCE COUNTY                 
+53,097.56
+00385648
+UNIVERSAL PROTECTION SERVICE L
+177,390.31
+00385653
+ATU LOCAL 758 CORP            
+59,696.53
+Total   $8,412,341.24
+     
+Payments in Excess of $50,000 are as follows:
+ Operating Fund
+Check
+Vendor
+Amount
+PIERCE TRANSIT
+Board Payments Over $50,000
+Payments From: Apr 1, 2025 to Apr 30, 2025
+Cash and Investment Balance: $250,799,622.25
+    
+Payment Numbers CK 00385538 through CK 00385749  
+Wire Numbers EFT 00019802 through EFT 00020075  
+Page 15 of 93
+
+=== page 24 of 95 ===
+EFT 
+00020006
+04/18/2025
+ICMA RETIREMENT               
+302,063.40
+EFT 
+00020007
+04/18/2025
+NAVIA BENEFIT SOLUTIONS       
+18,804.49
+EFT 
+00020008
+04/18/2025
+TACOMA EMPLOYEES RETIREMENT SY
+16,772.02
+EFT 
+00020009
+04/18/2025
+WA ST CHILD SUPPORT REGISTRY  
+6,858.76
+EFT 
+00020010
+04/24/2025
+AARON'S INDUSTRIAL LLC        
+154.14
+EFT 
+00020011
+04/24/2025
+ALL STARZ STAFFING AND CONSULT
+12,842.73
+EFT 
+00020012
+04/24/2025
+AMAZON CAPITAL SERVICES INC   
+2,688.24
+EFT 
+00020013
+04/24/2025
+CONTINENTAL BATTERY COMPANY   
+4,735.06
+EFT 
+00020014
+04/24/2025
+BRAVO ENVIRONMENTAL NW INC    
+18,079.25
+EFT 
+00020015
+04/24/2025
+BRI'JON ASA-PHILLIPS          
+40.00
+EFT 
+00020016
+04/24/2025
+CARIN ODEN                    
+77.25
+EFT 
+00020017
+04/24/2025
+CHERRY THOMAS                 
+486.78
+EFT 
+00020018
+04/24/2025
+CINTAS CORPORATION NO 2       
+1,035.69
+EFT 
+00020019
+04/24/2025
+CUMMINS INC                   
+31,106.24
+EFT 
+00020020
+04/24/2025
+DELL MARKETING LP             
+5,820.66
+EFT 
+00020021
+04/24/2025
+TRUCKPRO HOLDING CORPORTATION 
+462.84
+EFT 
+00020022
+04/24/2025
+SPX CORPORATION               
+93,739.42
+EFT 
+00020023
+04/24/2025
+GILLIG LLC                    
+39,420.14
+EFT 
+00020024
+04/24/2025
+GRAINGER                      
+805.38
+EFT 
+00020025
+04/24/2025
+HDR ENGINEERING INC           
+10,268.81
+EFT 
+00020026
+04/24/2025
+HUITT-ZOLLARS INC             
+39,881.16
+EFT 
+00020027
+04/24/2025
+JEFFREY W DYKES               
+101.29
+EFT 
+00020028
+04/24/2025
+RONALD E JENSEN & JAMES W JENS
+20,582.19
+EFT 
+00020029
+04/24/2025
+JERRY HAYES                   
+20.00
+EFT 
+00020030
+04/24/2025
+JOSE ARTEAGA                  
+483.64
+EFT 
+00020031
+04/24/2025
+LAKEVIEW LIGHT & POWER CO     
+48,318.48
+EFT 
+00020032
+04/24/2025
+LARSEN SIGN COMPANY           
+1,266.15
+EFT 
+00020033
+04/24/2025
+MALLORY SAFETY & SUPPLY LLC   
+452.91
+EFT 
+00020034
+04/24/2025
+MICHAEL BEEDE                 
+77.25
+EFT 
+00020035
+04/24/2025
+MOHAWK MFG & SUPPLY           
+3,784.32
+EFT 
+00020036
+04/24/2025
+MOOD MEDIA NORTH AMERICA HOLDI
+133.49
+EFT 
+00020037
+04/24/2025
+MOTION INDUSTRIES, INC.       
+923.44
+EFT 
+00020038
+04/24/2025
+MUNCIE RECLAMATION & SUPPLY CO
+649.55
+EFT 
+00020039
+04/24/2025
+NATHEN GRAHAM                 
+105.61
+EFT 
+00020040
+04/24/2025
+NEOPART TRANSIT LLC           
+495.18
+EFT 
+00020041
+04/24/2025
+NORTHWEST PUMP & EQUIPMENT CO 
+620.67
+EFT 
+00020042
+04/24/2025
+OLAN CARLSON                  
+77.25
+EFT 
+00020043
+04/24/2025
+WORKSPACE DEVELOPMENT LLC     
+1,910.79
+EFT 
+00020044
+04/24/2025
+OUTFITTER SATELLITE INC       
+103.30
+EFT 
+00020045
+04/24/2025
+PEAK INDUSTRIAL INC           
+93.89
+EFT 
+00020046
+04/24/2025
+PETER ROBINSON                
+77.25
+EFT 
+00020047
+04/24/2025
+PETROCARD INC                 
+36,993.44
+EFT 
+00020048
+04/24/2025
+PRINT NW                      
+140.27
+EFT 
+00020049
+04/24/2025
+PURCELL TIRE & RUBBER COMPANY 
+805.33
+EFT 
+00020050
+04/24/2025
+ROMAINE ELECTRIC CORP         
+499.45
+EFT 
+00020051
+04/24/2025
+DANIEL A SHARRON              
+464.60
+EFT 
+00020052
+04/24/2025
+ROBBLEE'S TOTAL SECURITY INC  
+76.66
+EFT 
+00020053
+04/24/2025
+SEATTLE AUTOMOTIVE DISTRIBUTIN
+624.10
+EFT 
+00020054
+04/24/2025
+SHI INTERNATIONAL CORP        
+628,477.73
+EFT 
+00020055
+04/24/2025
+SOUND TRANSIT                 
+217,540.48
+EFT 
+00020056
+04/24/2025
+SOUND TRANSIT SMART CARD CENTR
+994.34
+EFT 
+00020057
+04/24/2025
+STANDARD PARTS CORP           
+1,115.70
+EFT 
+00020058
+04/24/2025
+STAPLES INC                   
+1,288.36
+EFT 
+00020059
+04/24/2025
+STERICYCLE INC                
+65.75
+EFT 
+00020060
+04/24/2025
+SUMMIT LAW GROUP PLLC         
+4,582.90
+EFT 
+00020061
+04/24/2025
+TACOMA COMMUNITY COLLEGE      
+5,665.56
+EFT 
+00020062
+04/24/2025
+UNIVERSAL AUTO GROUP 1        
+706.12
+EFT 
+00020063
+04/24/2025
+TACOMA SCREW PRODUCTS INC     
+112.36
+EFT 
+00020064
+04/24/2025
+THE SUPERLATIVE GROUP INC     
+76,500.00
+EFT 
+00020065
+04/24/2025
+THE WW WILLIAMS COMPANY LLC   
+17.91
+EFT 
+00020066
+04/24/2025
+TITUS-WILL FORD SALES INC     
+491.11
+EFT 
+00020067
+04/24/2025
+THE AFTERMARKET PARTS CO LLC  
+8,056.84
+EFT 
+00020068
+04/24/2025
+UNITED PARCEL SERVICE INC     
+91.23
+EFT 
+00020069
+04/24/2025
+VIA TRANSPORTATION INC        
+240,704.96
+EFT 
+00020070
+04/24/2025
+WAXIE SANITARY SUPPLY         
+1,229.51
+EFT 
+00020071
+04/24/2025
+DOBBS HEAVY DUTY HOLDINGS LLC 
+63,056.22
+EFT 
+00020072
+04/24/2025
+WISAM ALI                     
+101.75
+EFT 
+00020073
+04/24/2025
+WASHINGTON STATE TRANSIT ASSOC
+2,500.00
+EFT 
+00020074
+04/24/2025
+ZAK SCHUMAKER                 
+17.46
+EFT 
+00020075
+04/24/2025
+ZONAR SYSTEMS INC             
+940.33
+$8,412,341.24
+Total Payments
+Page 22 of 93
+
+=== page 27 of 95 ===
+Pierce Transit Board of Commissioners Regular Meeting               April 14, 2025   Page 3 
+Planner Silas Read reviewed the Title VI Analysis for the proposed route and advised that 
+the change does not cause any disparate impacts to any population of people. He advised the 
+full Title VI analysis report can be found on the agency’s website. 
+ 
+The public hearing was opened and closed at 4:28 p.m., with no comments received, either 
+written or verbal. 
+ 
+CONSENT AGENDA 
+ 
+(Items listed below were distributed to Commissioners in advance for reading and study and 
+are enacted with one motion. Item(s) may be moved to the Action Agenda at the request of a 
+commissioner.) 
+ 
+Commissioners Whalen and Fagundes moved and seconded to approve the consent agenda 
+as presented.  
+ 
+Motion carried, 9-0. 
+ 
+1. Approval of Vouchers, March 1-31, 2025 
+Operating Fund #10 
+Self-Insurance Fund #40 
+Capital Fund #90 
+Payment Nos. 385331 through 385537 
+Wire Nos. 19533 through 19801 
+Total $6,691,040.78 
+ 
+2. Approval of Minutes: March 10, 2025, regular meeting 
+ 
+3. 2025 Q1 Report of Contracts Executed Over $100,000 and Sole Source Contracts 
+Over $10,000. 
+ 
+ACTION AGENDA  
+ 
+1. FS 2025-016, Authorize the Chief Executive Officer to Increase the Contract 
+Amount with Via Transportation, Inc., (Contract No. 1750) in the Amount of 
+$3,200,000 to provide Runner Services in Puyallup, Spanaway, Tideflats, 
+Ruston, and Gig Harbor for a new total not to exceed contract spending 
+authority amount of $7,100,000 
+ 
+Specialized Transportation Administrator Sarah Streiffert provided an overview of 
+how the Runner Service is going, reporting that ridership has grown since inception 
+of the service and ridership has stabilized since Q4 of 2024. She reviewed the 
+Runner zones and advised the commissioners that Pierce Transit will be 
+restructuring its Runner operations to make the system more efficient and to reduce 
+wait times. This change may mean that customers may not necessarily be taken to 
+point to point locations, but instead be taken to or connected with the closest fixed 
+route location.  
+ 
+Page 25 of 93
+
+=== page 28 of 95 ===
+Pierce Transit Board of Commissioners Regular Meeting               April 14, 2025   Page 4 
+Ms. Streiffert advised that Pierce Transit has applied for grant funds that would 
+cover this contract, however, if the grant funds are not awarded Pierce Transit will 
+pay for this contract out of local funds. (Commissioner Mello returned to the 
+meeting at 4:37 p.m.) 
+ 
+A question-and-answer period ensued relating to the actual breakdown of costs to 
+operate this service and the reliability of the service and future ridership trends the 
+agency expects to see. 
+ 
+Ms. Streiffert confirmed that the CTAG received an overview of the operational 
+changes to be implemented to increase efficiency of the system.  
+ 
+Commissioners Diaz and Ayala moved and seconded to Authorize the Chief 
+Executive Officer to increase the contract amount with Via Transportation, Inc., 
+(Contract No. 1750) in the amount of $3,200,000 to provide Runner services in 
+Puyallup, Spanaway, Tideflats, Ruston, and Gig Harbor for a new total not to 
+exceed contract spending authority amount of $7,100,000. 
+ 
+Motion carried, 9-0. 
+ 
+STAFF UPDATES: 
+  
+1. CEO’s Report  
+ 
+CEO Mike Griffus reported on the following: 
+ 
+• Reported that Pierce Transit procured a customer service terminal at the 
+headquarters/administration building in Lakewood.  The agency will be 
+able to sell fare media and load ORCA cards at this location.  
+ 
+• Thanked everybody for attending today’s 45th year celebration and the 
+staff that organized the event.  
+ 
+• Wished Chair Walker a happy birthday. 
+ 
+2. Update on Hardship Assistance Response Team (HART) Program 
+ 
+Emergency Management Coordinator Rodney Chandler provided a status update on 
+the roll out of the HART program. He advised that Pierce Transit will be utilizing a 
+Designated Crisis Responder (DCR) contracted through Multicare to assist those 
+experiencing a crisis in the Pierce Transit system. He advised the DCR is in the 
+process of being onboarded. In addition to working out in the Pierce Transit system, 
+the DCR will provide training to Pierce Transit staff so they can recognize the signs 
+of a person in crisis and teach de-escalation skills.  
+ 
+Mr. Chandler advised that the HART vehicle is operationalized and that the program 
+will not serve the City of Tacoma as they have their own behavioral health tax. He 
+advised this program is a new concept for transit and staff is working hard to 
+operationalize it.  
+Page 26 of 93

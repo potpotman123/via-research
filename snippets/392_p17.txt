@@ -1,0 +1,187 @@
+# source: raw/bleecker_drive/Los Alamos (Spare Labs)/1040_24_A_-_AGR_24-37_Spare_Labs_Inc.pdf
+# path: raw/bleecker_drive/Los Alamos (Spare Labs)/1040_24_A_-_AGR_24-37_Spare_Labs_Inc.pdf
+# hit page: 17 of 81
+# terms: Spare Labs
+
+=== page 16 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+16 
+ Agreement Template Version: 04012024 
+19.5.1. 
+Complete Platform configuration and Rider Data Importation pursuant to the 
+plans developed in Phase 3 to prepare the Platform for end-to-end testing in 
+Phase 5.  
+19.5.2. 
+Set up services in the Platform based on parameters identified by the Project 
+Team, including but not limited to, zones, stops, and time rules. 
+19.5.3. 
+Optimize algorithms around County’s service parameters and align Platform 
+configuration to meet County’s requirements.  
+19.5.4. 
+Localize the Platform through detailed mapping and traffic modeling. 
+19.5.5. 
+Develop a testing plan to perform user acceptance testing and configure a 
+Platform testing environment, which shall conform substantially to the 
+Operability Performance Testing described in Exhibit G. 
+19.5.6. 
+Work with County’s IM department to set up and configure SSO. 
+19.6. 
+Phase 5 (10 Days) Test. Contractor shall: 
+19.6.1. 
+Perform a broad spectrum of functional tests across a variety of expected 
+scenarios and situations using a fully localized simulation environment, 
+including but not limited to, quality assurance and internal field tests in the 
+County’s service zone(s) with real drivers and Riders to prepare for Launch at 
+scale.  
+19.6.2. 
+Coordinate with County to ensure that tests have the right coverage across the 
+Platform configurations for the needs of County’s Riders, drivers, dispatchers, 
+customer service representatives, and other County staff and community, as 
+identified by the Project Team. 
+19.6.3. 
+Configure Platform testing and simulation environments so that they are ready 
+for testing and conduct testing pursuant to the testing plan developed in Phase 
+4. 
+19.6.4. 
+Conduct user acceptance testing for the Rider application with real Riders 
+identified by the County Project manager.  
+19.6.5. 
+Perform a full-scale dry-run test of the Platform to validate Platform 
+functionalities and to also ensure all County staff understand their workflows.   
+19.6.6. 
+During testing, Contractor shall work with County to make Platform adjustments 
+as needed and as identified by the Project Team to ensure proper functionality. 
+19.7. 
+Phase 6 (21 Days) Train. Contractor shall:  
+19.7.1. 
+Provide training to County staff identified by the Project manager pursuant to 
+the training plan developed in Phase 3.  Training shall be provided remotely at 
+dates, times, and locations to be determined by the Project Team. County shall 
+provide all equipment and facilities necessary for County staff to attend training.  
+Contractor shall setup and conduct the virtual training sessions, provide the 
+necessary login information for trainees to attend, and provide all training 
+Attachment A
+=== page 17 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+17 
+ Agreement Template Version: 04012024 
+materials.  Contractor shall record all training sessions and make them available 
+to the County throughout the Term of the Agreement and shall provide training 
+documentation in a mutually agreeable electronic format. 
+ 
+19.7.2. 
+Work with the County to ensure that County has completed all in-vehicle device 
+installation and ensure that Active Vehicles are fully setup and configured for 
+the Platform to run properly and are ready for Launch. 
+ 
+19.8. 
+Phase 7 (10 Days) Pre-Launch. 
+ 
+19.8.1. 
+Contractor shall validate driver accounts, Platform user accounts, and all 
+necessary County Data; schedule duties, including driver shifts, runs or routes, 
+in the Platform; and verify all previously schedule trips are in the Platform in 
+preparation for launch. 
+ 
+19.8.2. 
+Prior to Launch in Phase 8, Contractor, in coordination with County, shall 
+address and correct any additional Project issues or Platform functionality 
+problems identified by the Project Team.  
+ 
+19.8.3. 
+County shall be solely responsible for setting up access to the public-facing 
+Portal on County’s website and for determining when to grant access to the 
+public and when and how to notify the public of its availability.  
+ 
+19.8.4. 
+County Project Manager shall determine when all Project tasks have been 
+successfully completed and all Project issues resolved to the County’s 
+reasonable satisfaction.  Upon completion of the foregoing, and at County’s sole 
+discretion, County Project Manager shall provide to Contractor written approval 
+to Launch prior to Launch.   
+ 
+19.9. 
+Phase 8 (1 Day) Launch.  
+ 
+19.9.1. 
+Contractor shall make the County’s Platform account active and available to the 
+County and public in a live production environment.  
+ 
+19.9.2. 
+Contractor shall collect feedback from initial users and County staff, shall 
+continue to make any necessary changes to the Platform based on actionable 
+feedback, and shall continue to execute on any remaining details of the Project 
+Plan and Schedule.  
+ 
+19.9.3. 
+Contractor shall continue to support County’s marketing and outreach activities, 
+including but not limited to, press releases and launch events, to generate 
+interest in County’s Microtransit and Paratransit services. 
+ 
+19.9.4. 
+Pursuant to the approved Project Schedule and Plan, Launch shall be 
+completed when the Platform is fully configured, implemented, and functioning 
+properly; Platform becomes operational and available to the Public; and upon 
+County written approval that all County-identified Platform issues have been 
+corrected, and Project implementation tasks are completed to the County’s 
+reasonable satisfaction. 
+ 
+Attachment A
+=== page 18 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+18 
+ Agreement Template Version: 04012024 
+19.10. Phase 9 (Ongoing): Post-Launch Support, Optimization, and Platform 
+Reliability Testing and Acceptance. 
+ 
+19.10.1. After Launch, Contractor shall complete and provide to County a performance 
+review and use results as a benchmark against KPIs determined during the 
+Project initiation meeting. 
+ 
+19.10.2. For a minimum of thirty (30) days after Launch, Contractor shall continue to 
+monitor County’s account to ensure proper functionality and setup in the live 
+production environment of the Platform and shall continue to provide support 
+and correct any issues identified during the Platform reliability testing and 
+acceptance period, at no additional cost to County, until County Project 
+Manager determines and informs Contractor in writing that Platform reliability 
+testing and acceptance is complete.  
+ 
+19.10.3. Contractor shall schedule post-launch virtual check-in meetings throughout the 
+Term of this Agreement between County Project Manager and Contractor’s 
+Post-Launch Success Manager at a frequency to be determined by Contractor 
+and County Project Manager. 
+20. Project Management.  
+20.1. 
+Contractor shall provide experienced, competent, and knowledgeable staff to provide 
+Project management services for successful Project implementation, which includes 
+but is not limited to Project planning in coordination with County Project Manager; 
+data transfer from County’s current records, Project monitoring, control, and reporting; 
+Project development and execution of tasks; scope management; risk management; 
+and Project scheduling.  
+20.2. 
+County and Contractor shall designate in writing a primary contact to represent each 
+party to serve as a primary point of contact to manage the overall Project 
+implementation and help coordinate Project implementation tasks and maintenance 
+of the Platform.  
+20.3. 
+Contractor Project Manager shall be the dedicated point of contact providing oversight 
+for Project Implementation.  Contractor Project Manager shall, at a minimum, be 
+responsible for scheduling and facilitating the Project initiation meeting and weekly 
+progress meetings with the Project Team; documenting and providing to County in 
+writing minutes and action items from Project Team meetings; documenting and 
+providing to County in writing any agreed-upon modifications to the Project Plan and 
+Schedule and ensuring such modifications are properly approved in writing;  
+addressing Project concerns and ensuring they are properly discussed and resolved; 
+delivering a coordinated approach for Project implementation; providing Contractor’s 
+deliverables and meeting Project milestones pursuant to the agreed-upon Project 
+Plan and Schedule; and addressing any billing issues. 
+21. Project Terms and Conditions. 
+21.1. 
+The Parties agree that County shall not be liable for, and shall not provide insurance 
+for, any loss or damage incurred by Contractor or its employees, agents, contractors 
+or subcontractors or to equipment or property owned by Contractor, regardless of 
+whether such losses are insured by Contractor.  
+Attachment A

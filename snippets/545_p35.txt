@@ -1,0 +1,115 @@
+# source: raw/bleecker_drive/City of West Sacramento/2023.06.07_-_City_Council_-_Amendment_No._5_to_NoMad_Transit_LLC_Contract.pdf
+# path: raw/bleecker_drive/City of West Sacramento/2023.06.07_-_City_Council_-_Amendment_No._5_to_NoMad_Transit_LLC_Contract.pdf
+# hit page: 35 of 63
+# terms: NoMad Transit, Via Transportation, Via+SaaS, Via+drivers
+
+=== page 34 ===
+Triennial Performance Audit of Via Rideshare - West Sacramento – FYs 2019–2021 
+ 
+ 
+Michael Baker International - 20
+ 
+  
+the farebox recovery ratio from 22.78 percent in FY 2019 to 13.2 percent in FY 2021. The 
+increases seen in operating costs outpaced the increases seen in fare revenue, which 
+explains the decreases seen in the farebox recovery during the audit period.
+=== page 35 ===
+Triennial Performance Audit of Via Rideshare - West Sacramento – FYs 2019–2021 
+ 
+ 
+Michael Baker International - 21
+ 
+  
+Section V 
+ 
+Review of Operator Functions 
+ 
+This section provides an in-depth review of various functions within Via Rideshare. The review 
+highlights accomplishments, issues, and/or challenges that were determined during the audit 
+period. The following functions were reviewed at the City of West Sacramento City Hall and the 
+Via Rideshare staging yard in West Sacramento: 
+ 
+• 
+Operations 
+• 
+Maintenance 
+• 
+Planning 
+• 
+Marketing 
+• 
+General Administration and Management 
+ 
+Within some departments are sub-functions that require review as well, such as Grants 
+Administration that falls under General Administration.  
+ 
+Operations 
+ 
+Via Rideshare is a network-optimized, on-demand rideshare service operating within the city limits 
+of West Sacramento. Through the initial pilot program, Via provided an on-demand rideshare 
+service for a period of one year, with 10 Mercedes Metris vans rented at no cost to the City by 
+Nomad Transit LLC, a subsidiary of Via Transportation, Inc. The vans are driven by independently 
+contracted TNC drivers. Riders are able to book a ride using a smartphone app or by phone. The 
+pilot service launched on May 14, 2018. 
+ 
+Rides are tendered through the Via Rideshare app, which can be downloaded on an Apple or 
+Android smartphone or a mobile tablet. Once the app is downloaded and an account is created, 
+the device's location services is activated so the app can identify the pickup location. The user 
+enters their destination and requests a ride. After the ride is scheduled, the user goes to the pickup 
+location at the scheduled time. Without a smartphone, one can sign up for an account and book 
+rides through a phone call. 
+ 
+The Via service is managed by a team composed of a partner success manager , general manager, 
+and local field manager. The role of the partner success manager is to collaborate with the City in 
+the use of Via's proprietary software (SaaS). The general manager’s role is to manage Via’s 
+operation in West Sacramento and interface with City staff. The field manager’s role is to oversee 
+and provide support to the driver partners in the field and at the Via staging lot. Onboarding and 
+support of the driver partners is done by the Driver Ops team in combination with the field 
+manager.
+=== page 36 ===
+Triennial Performance Audit of Via Rideshare - West Sacramento – FYs 2019–2021 
+ 
+ 
+Michael Baker International - 22
+ 
+  
+ 
+The pilot was implemented in three phases. The first phase involved the preliminary service 
+design, planning, and preparation wherein the acquisition and customization of all labor, 
+equipment, technology, and materials necessary to launch the service took place (over a two- to 
+four-week period). The second phase involved the initial launch period during the first four to six 
+weeks, wherein service parameters were subject to slight adjustments and scaled up over time in 
+concert with initial market analysis and service promotions. Phase three involved the full launch 
+over an 11-month period, wherein changes to the service parameters were limited and 
+performance was continually monitored and reported quarterly.  
+ 
+Throughout the life of the pilot, staff received ridership reports and held weekly to biweekly calls 
+with the Via general manager to stay abreast of the performance of the pilot and facilitate the 
+deployment and expansion of the service. Starting with the initial launch, three quarterly 
+performance reports are provided by Via to staff no later than one month following each 
+consecutive three months of service.  
+ 
+Initial ridership for July 2018 was 3,480, which grew to approximately 16,000 rides by February 
+2020. With the onset of the COVID-19 pandemic, ridership reached its lowest point during the 
+audit period with only 450 riders requesting the service. Although total riders was low, the service 
+has an active ViaPass ridership base and completed over 5,000 rides in April 2020. 
+ 
+Fares are processed through Braintree, an online payment processor that is integrated into the 
+Via Rideshare app. Braintree provides merchant account, payment gateway, and credit card 
+storage services for online merchants.  
+ 
+COVID-19 Pandemic Impacts 
+ 
+As impacts from the novel coronavirus started to be realized in California, a state of emergency 
+was declared on March 4, 2020. Subsequently, a mandatory statewide shelter-in-place order was 
+implemented on March 19. In response, Via Rideshare implemented measures and protocols to 
+mitigate the spread of the virus for its West Sacramento operation. In addition, the contract 
+operator had extensive COVID-19 protocols in accordance with the Federal Transit Administration 
+and the Centers for Disease Control and Prevention. Personal protective equipment has been 
+made readily available.  
+ 
+During the pandemic, there were no changes in service hours; however, capacity constraints were 
+implemented on the vehicles to just three passengers as well as masking requirements. Via 
+Rideshare increased its fleet size in order to maintain a high level of service. Food delivery and 
+local food bank support services were implemented to maintain driver and vehicle utilization. 
+Additional safety measures included daily vehicle cleaning and the installation of driver barriers.

@@ -1,0 +1,76 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/North Dakota/DM0048_Trip_Master_-_Contract.pdf
+# pages_total: 76; hit_pages: [42]; included: [42]
+# context: Bleecker Drive folder: North Dakota
+
+=== page 42 of 76 ===
+Page 42 of 76 
+ 
+EXHIBIT B – Software as a Service (SaaS) Service Level Agreement (SLA) 
+ 
+CONTRACTOR represents and warrants that the services will be performed in a professional manner 
+consistent with industry standards reasonably applicable to such services.  
+1. SAAS AVAILABILITY: 
+The SaaS shall be available twenty-four (24) hours per day, 365 days per year (excluding agreed-
+upon scheduled maintenance downtime).  
+ 
+2. SUPPORT AND ERROR RESOLUTION:  
+CONTRACTOR will respond to PARTICIPATING ENTITY requests for support services regarding 
+the licensed software in accordance with the procedures identified below. In each case, 
+PARTICIPATING ENTITY may describe and submit the problem by telephone, email or online 
+helpdesk/service desk tool.   
+Agencies expect a high level of customer service and product support from the vendor and requires 
+that any issues with the system be resolved in a timely fashion with minimal system downtime. The 
+vendor’s customer support should be available between the hours of 7AM to 7PM (CST), 7 days a 
+week. If hardware failures occur, replacement parts should be readily available and able to be 
+obtained quickly.  Customer support can be reached at techsupport@cts-software.com or via phone 
+at (800)-555-3546. 
+Incident Severity 
+Response 
+Time 
+Resolution 
+Time 
+Escalation Procedure 
+High Impact – 
+System unusable 
+1 hour 
+Final 
+Resolution 
+within: 
+4 hours 
+Issues can be submitted via dedicated support 
+line or dedicated email address.  However, 
+tracking and alerts are present to automatically 
+alert the developers in a system wide outage or 
+significant performance issue.  In the event the 
+issue does not fall under a category of auto 
+alerts, the support team will call the head of 
+development as well as post an alert in our 
+internal instant messaging system, which auto 
+alerts every developer so they can immediately 
+assist. PARTICIPATING ENTITY receives a 
+response within 1 hour. Resolution will be made 
+within 4 hours. 
+ 
+Medium Impact –  
+System useable with 
+severely restricted 
+functionality or 
+performance 
+4 hours 
+Final 
+Resolution 
+within: 
+8 hours 
+(1 business 
+day) 
+Issues can be submitted via dedicated support 
+line or dedicated email address. A ticket is 
+automatically generated in the support tracking 
+system.  The development team is contacted by 
+the support team. PARTICIPATING ENTITY 
+receives a response within 4 hours. Resolution 
+will be made within 8 hours. 
+
+
+	

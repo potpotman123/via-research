@@ -1,0 +1,167 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Maryland/2024-Oct-30-Agenda.pdf
+# pages_total: 191; hit_pages: [97, 121]; included: [97, 121]
+# context: Bleecker Drive folder: Maryland
+
+=== page 97 of 191 ===
+DEPARTMENT OF TRANSPORTATION 
+ACTION AGENDA 
+October 30, 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          MDOT 17 
+ 
+7-AE.  
+STATE HIGHWAY ADMINISTRATION (cont’d) 
+ 
+DBE / VSBE Participation:       10% / 0%  
+ 
+Incumbents:   
+TRC Environmental Corporation, AECOM Technical Services, 
+Inc., Rummel, Klepper & Kahl, LLP, A.D. Marble & Company  
+ 
+Requesting Agency Remarks:   
+On November 9, 2021, the solicitation was advertised in The 
+Daily Record, SHA’s web page, and eMaryland Marketplace Advantage (eMMA).  The 
+advertisement was for three contracts for $500,000.00 each not to exceed $1.5 million for traffic 
+engineering services for SHA.  A total of 966 DBE and non-DBE firms were notified via eMMA. 
+The firms notified were also placed on the invited vendors list and directly solicited as invited 
+vendors. SHA received 21 expressions of interest and developed a Reduced Candidate List per 
+COMAR 21.12.02.04.  Three firms were found to be ineligible for award because they did not 
+meet minimum qualifications or submitted multiple offers.  From the Reduced Candidate List, 
+SHA invited seven firms to submit technical proposals.  SHA used qualifications-based selection 
+and found three consultants eligible for contract award.  No protests were filed. 
+ 
+This traffic engineering services contract includes traffic engineering studies and corridor analysis, 
+preparing minor functional geometric design, review for improvement options at identified high 
+crash locations, review of specific traffic safety and operational problems and development of 
+recommended solutions as required by SHA and in support of SHA’s System Preservation 
+Programs.  Services may include field investigations, drafting, engineering report preparation, 
+preliminary cost estimating necessary to advance concepts to the design phase and presentations 
+to the public in response to traffic and safety concerns.  This contract also requires the Consultant 
+to provide engineering services on-site at SHA facilities. 
+ 
+A 10% DBE participation goal was established for each contract within this award series. No 
+VSBE goal was established for this contract. 
+ 
+Fund Source:                         80% Federal; 20% Special (Transportation Trust Fund) 
+ 
+Approp. Code: 
+ 
+J02B0101 and J02B0102 
+ 
+Resident Business: 
+ 
+Yes 
+ 
+MD Tax Clearance: 
+24-4045-1110 (Contract B) 
+ 
+24-4046-1100 (Contract C) 
+ 
+ 
+ 
+BOARD OF PUBLIC WORKS 
+ 
+ 
+THIS ITEM WAS: 
+ 
+APPROVED  
+DISAPPROVED 
+ 
+DEFERRED  
+WITHDRAWN 
+ 
+ 
+WITH DISCUSSION 
+ 
+ 
+ 
+WITHOUT DISCUSSION  
+94
+
+=== page 121 of 191 ===
+OSP 16 
+DEPARTMENT OF GENERAL SERVICES 
+OFFICE OF STATE PROCUREMENT 
+ACTION AGENDA     
+October 30, 2024 
+ 
+ 
+Contact:  William Parham  410-767-8374 
+wparham@mta.maryland.gov 
+ 
+9-IT-OPT. 
+INFORMATION TECHNOLOGY OPTION 
+ 
+ 
+Department of Transportation, Maryland Transit Administration 
+ 
+ 
+Contract ID: Remix Transit Street License; AGY-21-037-IT  
+ADPICS No.:  COK69714 
+ 
+Contract Approved:  
+DGS 46-IT, 07/07/2021  
+ 
+Contract Description: Web-based transit specific software that includes transit planning, street 
+design, and transportation data analysis in a single software service. 
+ 
+Option Description: Exercise the sole renewal option.  
+ 
+Award:   
+ 
+ 
+Remix Technologies, LLC.; New York, NY 
+ 
+Original Contract Term:  
+07/08/2021 - 07/07/2024   
+ 
+Option Term:         
+ 
+11/01/2024 - 10/31/2026  
+ 
+Original Contract Amount:  $   645,000 NTE  
+ 
+ 
+Option Amount: 
+ 
+$   430,000 NTE  
+ 
+ 
+Prior Options/Mods: 
+$   0 (Mod. #1: Extension 07/08/2024 - 08/07/2024 Delegated 
+Authority - MTA, 07/05/2024) 
+$     50,000.00 (Mod. #2: Extension 08/08/2024 - 10/31/2024 
+Delegated Authority - MTA, 08/07/2024) 
+ 
+Total Contract Amount: 
+$1,125,000 NTE  
+ 
+Percent +/- (This Item):  
+66.67% 
+ 
+Total Percent Change:     
+74.42% 
+ 
+ 
+Original Procurement Method: 
+Sole Source  
+ 
+Living Wage Eligible: 
+Yes  
+ 
+ 
+ 
+ 
+117

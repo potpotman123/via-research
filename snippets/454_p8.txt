@@ -1,0 +1,93 @@
+# source: raw/bleecker_drive/Topeka/Proposal-ViaMobilityLLCforPosting.pdf
+# path: raw/bleecker_drive/Topeka/Proposal-ViaMobilityLLCforPosting.pdf
+# hit page: 8 of 44
+# terms: Via+SaaS
+
+=== page 7 ===
+partners to adapt their transportation systems in response to the pandemic, re-launching
+many services within days or weeks. These included changes to our key rider groups,
+service zones, and service models. One example of a COVID-related adaptation is our
+service in the Tri-Cities in Eastern Washington with Ben Franklin Transit (BFT). Following
+the outbreak in COVID-19, we accelerated an already-planned launch to provide
+transportation to and from essential services, including urgent care clinics, grocery stores,
+and pharmacies. Our operational and technical adjustments included:
+○
+In order to complement existing fixed-route services already suffering from
+COVID-related reductions, we temporarily offered free on-demand trips to riders.
+○
+We also made operational adjustments to address social distancing protocols,
+offering only private rides and ensuring two rows of seats between riders and
+drivers.
+○
+We also implemented strict cleaning processes.
+We were able to complete this accelerated launch and re-configuration of service in only
+one week, quickly realigning with BFT’s changing priorities.
+4.
+Avoid further pressure on overburdened operations staff responsible for overseeing
+existing demand trip reservations, labor assignments, and fleet operations.
+Via Response: Having operated transit services ourselves we understand the pressures
+and burden on staff, especially in light of the COVID-19 pandemic. That very reason is why
+we have developed a dynamic and fully automated microtransit solution.  First, riders are
+encouraged and have full control to self-serve via the branded app which helps relieve the
+call center. At Mountain Climber in Flathead, Montana approximately 50% of their riders
+book, cancel, and manage their trip via the app.  Second, all trips are dynamically
+scheduled to available drivers without human intervention (unless it's needed) based on
+the established operational rules and available fleet.  Thirdly, a rolling optimization occurs
+to dynamically reassign any trips that may be in jeopardy of missing a committed time
+window.
+5.
+Produce both ad-hoc and standard reports that are useful, insightful, effectively inform
+staff to make planning decisions, and meet federal and state reporting requirements.
+Via Response: As you will read about more in Section 8.2.6, Via offers a variety of
+reporting options for Metro that focus in three main areas: Rider Experience, Operations,
+Service Analysis (Planning), and Regulatory Reporting.  It’s also important to note that the
+data belongs to you and Via will provide access to this data multiple ways including:
+1.
+Graph-based views: Service data automatically provided in graph-based reports to
+easily discern what is happening in Metro’s service.
+2.
+Data Generator: Tabular reports (e.g. NTD) and the ability for Metro to consolidate
+service data into filterable and exportable tables.
+3.
+Data Lake: We are happy to discuss providing our data through our Amazon Web
+Services (AWS) S3 buckets for the most efficient processing or via API to the
+complete set of disaggregated data from the service using a VPC database share
+RFP for Microtransit System | 7
+=== page 8 ===
+connection to Snowflake, our analytical data warehouse.  This will allow Metro to
+incorporate data into other business intelligence tools or planning tools that Metro
+may use.
+6.
+Enhance the passenger experience by allowing for app-based/mobile trip booking, fare
+payment, and real time vehicle tracking.
+Via Response: Providing an intuitive, enjoyable, and seamless rider experience is at the
+core of both Via’s mission and product. We understand that in order to retain riders, our
+partners must provide a consistently outstanding journey experience for those using their
+service. When a transit network is seamlessly integrated, customers enjoy a dramatically
+improved user experience, while cities are able to ease the overall strain on their system.
+Features such as the ability to seamlessly integrate with existing legacy payment systems,
+and plan and book multimodal trips — all of which we have deployed with many partners
+worldwide and would be happy to scope in discussion with Metro — are crucial to ensuring
+an exceptional user experience.
+7.
+Obtain a SaaS product that works in conjunction with CAD/AVL real-time applications and
+systems that Metro is currently using so that:
+Via Response: Via’s cloud-based system is compatible with iOS or Android devices, and
+utilizes the GPS signals that are sent from the driver mobile devices to provide CAD / AVL
+functionality. Please see Section 8.2.2.E Integrations for more detail.
+8.
+A technology solution that can dispatch and coordinate both fixed route, as well as
+paratransit and microtransit services:
+Via Response: Via’s vision is to be the digital infrastructure for all aspects of public
+mobility, including fixed route, paratransit, and microtransit services. We are well equipped
+to support Metro’s immediate goals for microtransit. When Metro is ready to discuss
+operating paratransit, demand response, and fixed route on one integrated platform, we
+would be happy to scope how Via can support this vision. We have a successful track
+RFP for Microtransit System | 8
+=== page 9 ===
+record of supporting transit agencies in this way. High Valley Transit in Summit County,
+Utah is one such example, where we operate fixed route, microtransit, and paratransit all
+on the Via platform.
+Based on our understanding of the goals listed above and the specifications outlined in this RFP,
+below is a high level overview of the proposed solution for Metro.  Metro will receive:
+RFP for Microtransit System | 9

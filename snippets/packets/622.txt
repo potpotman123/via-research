@@ -1,0 +1,100 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/City of Philadelphia/BID172458257_Document20.pdf
+# pages_total: 2; hit_pages: [1, 2]; included: [1, 2]
+# context: Bleecker Drive folder: City of Philadelphia
+
+=== page 1 of 2 ===
+Renewal of the Remix Services Agreement for the City of Philadelphia 
+ 
+Remix Technologies LLC (“Remix”) and the City of Philadelphia (“Customer” and together with 
+Remix, the “Parties”) have entered into an agreement titled Remix Services Agreement for the City 
+of Philadelphia (the “Agreement”) dated as of June 30, 2023. Upon execution of this Renewal (the 
+“Renewal”), the Parties agree to the following: 
+ 
+1.​ Renewal. With effect from June 30, 2025 (the “Effective Date”) the Parties hereby agree to 
+extend the duration of the Agreement beyond its original duration from the Effective date 
+for a period of  3 years until June 30, 2028. 
+ 
+2.​ Price. The Parties hereby agree to the following price structure:​
+ 
+Remix Streets 
+Platform License 
+Total Contract Value: $133,711 USD /  3  years  
+➢​ 2025: $43,260 USD 
+➢​ 2026: $44,557 USD 
+➢​ 2027: $45,894 USD 
+ 
+Pricing valid if signed by June 30 2025.​
+ 
+Includes: 
+●​
+Remix licenses for an unlimited number of users within organization.   
+●​
+Software as a Service (SaaS): fully hosted, cloud-based web platform. 
+●​
+Platform functionality as described in the Agreement with continuous 
+improvements released throughout the course of the contract 
+●​
+Dedicated Customer Success staff 
+●​
+Premium Enterprise Support: response to requests in 1 business day 
+Marketing Terms 
+Willingness to work with Remix to develop a case study, mutually agreeable press 
+release, ability to use Customer as a reference. 
+Additional Services 
+Customer acknowledges that additional services, such as access to Company's 
+(including its affiliates) proprietary technology platform used to establish, monitor, 
+operate and/or manage fixed-route and demand responsive transit networks, may be 
+added to this Agreement at an additional cost during the Term. 
+Payment Terms 
+Fees invoiced annually in advance of access, payable in 30 days from the date of 
+invoice. 
+ 
+3.​ Conflicts, Use of Terms, Governing Law. Capitalized terms used but not defined herein have 
+the meanings set forth in the Agreement. Except as expressly provided herein, the terms 
+and conditions of the Agreement remain unchanged. This Renewal will be governed by the 
+same law as the Agreement.
+
+=== page 2 of 2 ===
+REMIX TECHNOLOGIES LLC 
+City of Philadelphia 
+By: 
+By: 
+Name: 
+Name: 
+Title: 
+Title: 
+Date: 
+Date: 
+ 
+​
+Remix Billing Information​
+​
+Attn ​
+Accounts Receivable​
+​
+Address​
+114 Fifth Avenue, Floor 17​
+New York, NY 10011​
+​
+Email​
+AR@ridewithvia.com 
+​
+Customer Billing Information​
+​
+Attn 
+​
+__________________________________​
+​
+Address 
+ 
+​
+__________________________________​
+​
+Email 
+​
+__________________________________​
+​
+Phone 
+​
+__________________________________

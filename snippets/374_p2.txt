@@ -1,0 +1,108 @@
+# source: raw/bleecker_drive/Metropolitan Council/0925_2024_216-SW.pdf
+# path: raw/bleecker_drive/Metropolitan Council/0925_2024_216-SW.pdf
+# hit page: 2 of 3
+# terms: Spare Labs
+
+=== page 1 ===
+1 
+M e t r o p o l i t a n  C o u n c i l   
+Committee Report 
+Transportation Committee 
+Committee Meeting Date: Sept 23, 2024 
+For the Metropolitan Council: Sept 25, 2024
+Business Item: 2024-216 SW 
+Microtransit Service, Contract 24P015 
+Proposed Action 
+That the Metropolitan Council authorize the Regional Administrator to negotiate and execute 
+contract 24P015 with Spare Labs, Inc. to provide software that will support microtransit service 
+operations in an amount not to exceed $852,100.  
+Summary of Transportation Committee Discussion/Questions 
+Metropolitan Transportation Services Contracted Transit Services Manager John Harper presented 
+this item. Member Cameron asked with the publication of Network Now and the addition of 
+microtransit sites, does staff feel comfortable and confident this software can handle the increase. 
+Harper stated service expansion and the ability to facilitate a variety of service approaches across 
+the zones was specified in the Request for Proposals and was absolutely part of the proposal 
+review.  
+ 
+It was moved by Carter, Toni, seconded by Carter, Tyronne. Motion carried.
+=== page 2 ===
+1 
+ 
+Microtransit Software, Contract 24P015 
+Business Item: 2024-216 SW 
+ 
+ 
+Committee Meeting Date: September 23, 2024 
+For the Metropolitan Council: September 25, 2024 
+ 
+ 
+ 
+District(s), Member(s): 
+All 
+Policy/Legal Reference: 
+FM 14-2 - Expenditures for the Procurement of Goods, Services, and Real 
+Estate Policy 
+Staff Prepared/Presented: 
+Charles Carlson, Executive Director MTS (651) 602-1761 
+Gerri Sutton, Dir Contracted Transit Services (651) 602-1672  
+John Harper, Mgr Contracted Transit Services (651) 602-1744 
+Division/Department: 
+Metropolitan Transportation Services (MTS) 
+ 
+Proposed Action 
+That the Metropolitan Council authorize the Regional Administrator to negotiate and execute  
+contract 24P015 with Spare Labs, Inc., to provide software that will support microtransit 
+service operations in an amount not to exceed $852,100. 
+ 
+Background 
+Metropolitan Transportation Services provides transit service using contracts with private 
+companies. The microtransit service is a demand-responsive transit service where users 
+request on-demand trips either using a mobile application or by calling a reservationist and 
+trips are assigned to the next available vehicle for completion.  This contract will provide a 
+fully hosted and maintained software solution with a secure combination of public-facing, 
+ADA-compliant rider app, driver app, dispatch system, account management system, robust 
+operations, monitoring, administrative and reporting functions to support Metro micro service 
+in North Minneapolis, Woodbury Area, and Roseville Area with additional service zones to 
+be added in 2025 through 2027. 
+A Request for Proposals was issued on June 5, 2024. A pre-proposal meeting was hosted 
+by Council staff that outlined the solicitation requirements, discussed project specifications, 
+and responded to plan holder inquires. There were twenty-four registered plan holders 
+including eleven prime proposers, two consultants, three subcontractors, five suppliers, 
+three plan rooms, and nine plan holders identified as minority, woman, small, veteran, or 
+disadvantaged business enterprises. On July 17, the Council received four proposals for 
+consideration of award. 
+An evaluation panel consisting of staff from Metropolitan Transportation Services, Metro 
+Transit, and Minnesota Valley Transit Authority, evaluated the proposals using the following 
+criteria: proposal quality, proposer’s qualifications and experience, proposer’s capabilities 
+and ability to deliver the service, and proposal price. The evaluation panel recommends 
+Spare Labs Inc., as having all the required attributes and to be the most advantageous to 
+ 
+Business Item 
+Transportation Committee 
+M e t r o pol it a n C o u n c i l
+=== page 3 ===
+2 
+ 
+the Council. 
+ 
+Rationale 
+The execution of a professional service contract exceeding $500,000 requires Council approval. 
+ 
+Thrive Lens Analysis 
+This item supports several Thrive Outcomes. Microtransit service, implemented through 
+this software, is provided in portions of the region otherwise not served by all day transit, 
+which furthers Stewardship by increasing the average number of jobs reachable by transit 
+and Equity by connecting additional residents to opportunity. The Micro Transit service, 
+implemented through this software, facilitates the use of additional local service in BRT and 
+LRT corridors, which increases Livability and Equity for mobility-challenged individuals by 
+providing added local stops. Financial Stewardship is also furthered because this contract 
+provides a lower cost solution for a lower productivity transit service. 
+ 
+Funding 
+Funding for this service is included in the annual operating budget. 
+ 
+Small Business Inclusion 
+The Office of Equity and Equal Opportunity (OEEO) thoroughly reviewed this procurement for 
+Metropolitan Council Underutilized Business (MCUB) opportunities in accordance with federal and 
+state laws and regulations as well as contract specifications.  Upon conclusion of OEEO’s research 
+and analysis, no MCUB goal was set.

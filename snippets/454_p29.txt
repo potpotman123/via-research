@@ -1,0 +1,132 @@
+# source: raw/bleecker_drive/Topeka/Proposal-ViaMobilityLLCforPosting.pdf
+# path: raw/bleecker_drive/Topeka/Proposal-ViaMobilityLLCforPosting.pdf
+# hit page: 29 of 44
+# terms: Via+turnkey
+
+=== page 28 ===
+Case Study |
+Golden Empire
+Transit
+An integrated solution for
+microtransit, paratransit, and
+Non-Emergency Medical
+Transportation (NEMT).
+Partner:
+Golden Empire Transit
+Location:
+Bakersfield, CA
+Launch:
+December 2020
+Use case:
+Commingled
+Microtransit /
+Paratransit / NEMT
+Service Stats:
+Ridership
+9,000
+rides monthly
+Pre-booked rides
+52%
+of completed rides
+Average rating
+4.8
+out of 5
+Project Summary.
+Via provides GET with an integrated solution for managing
+its microtransit, paratransit, and NEMT services. Prior to
+partnering with Via, GET did not offer NEMT, and needed
+multiple software systems to power its paratransit and
+microtransit services. Our partnership with GET is ongoing.
+Service Outcomes.
+With Via, riders now have the ability to book same-day or
+pre-scheduled paratransit, NEMT, and microtransit trips using
+one consolidated application. Our technology configures
+scheduling such that riders from one service can be
+commingled with others (e.g., aggregating paratransit and
+microtransit riders into a shared vehicle) which increases
+vehicle utilization while lowering wait times for riders.
+RFP for Microtransit System | 65
+=== page 29 ===
+Case Study |
+Hampton Roads
+Transit
+ADA-compliant paratransit
+service connecting 3,200+ riders
+to jobs, health care, and their
+community
+Partner:
+Hampton Roads Transit
+Location:
+Hampton Roads, VA
+Service Stats:
+Trip Duration
+44%
+decrease, from 45 minutes
+to 26 minutes
+Booking Methods
+30%
+app adoption (from 0%)
+On-Time Performance
+95%
+improved from 88%
+Project Summary.
+In February 2020, Via took over operations for HRT’s entire
+paratransit service. HRT had partnered with Trapeze for its
+paratransit software for 15 years prior to Via assuming
+responsibility for both the technology and operation of the
+service. We migrated datasets with over 100,000 different
+data points from the legacy vendor, performing extensive
+data validation in the process. Via then deployed intelligent
+routing algorithms, customized driver and rider Web and
+Mobile Apps, and a call center to give customers flexibility.
+Service Outcomes.
+Via was able to immediately provide passengers with
+reliable and convenient paratransit experience upon
+converting the service to our software system and
+operations. Within the first month of service, we exceeded
+previous on-time performance (OTP) and our IVR
+technology reduced call volumes by 30%. We are currently
+finalizing a contract with HRT to provide a turnkey solution
+for their Microtransit Pilot Program, which will serve
+Virginia Beach and Newport News.
+RFP for Microtransit System | 66
+=== page 30 ===
+8.4 Price
+Our proposed Software-as-a-Service (SaaS) solution includes two fee categories:
+1.
+Installation Fee: This one-time fee covers all technical tasks and start-up activities
+required to launch a successful microtransit software platform, including app configuration,
+data migration, integrations, zone mapping, and staff training.
+2.
+Hourly Support Fee: After launch, our solution is priced as an all-inclusive hourly
+per-active vehicle fee, granting ongoing access to Via’s cloud-based software. The fee also
+covers our reporting suite, Amazon Web Services cloud hosting, marketing support, and
+continuous software upgrades.
+We have designed our hourly SaaS fee model to deliver greater value for our public transit
+partners. Compared to the standard industry practice of charging on a per-vehicle, per-month
+basis, our hourly pricing model offers several distinct advantages for Metro:
+●
+Pay only for the hours you use: Unlike per-month software models, Via will only charge
+for the precise number of vehicle revenue hours delivered using our microtransit platform.
+This will help ensure that Metro does not overpay for unused technology, and aligns your
+technology purchase with your exact service delivery model.
+●
+Account for service disruptions: Vehicles are often taken out of service due to unforeseen
+events - whether it’s a vehicle accident or a pandemic-induced service shutdown. Our
+hourly model ensures that your microtransit technology budget will always be in step with
+the day-to-day dynamics of service delivery.
+●
+Drive sustainable growth: Paying for more service hours represents a positive trend,
+because more hours reflect growth in microtransit ridership. Our hourly model helps our
+partners rigorously track and manage the growth of their microtransit services over time,
+enabling them to better plan their service and network designs.
+Via’s fee structure is fully flexible, and we welcome further discussion to determine a pricing
+strategy in line with Metro’s goals and needs. For example, we can adjust our fee structure to
+charge more in upfront costs, and convert to a per vehicle model preferred by Metro. Finally, we
+would like to note that our pricing includes annual cost increases according to an inflation and
+innovation index. This 5% annual increase captures both inflation and Via’s ongoing investment in
+product innovation, which ensures we can continue to invest in the long-term growth and
+sustainability of our service for Metro by incorporating and deploying best-in-class technology in a
+constantly-evolving industry. The inflation and innovation index covers the research and testing
+needed to provide a solution that is as cutting-edge in the last year of a contract as in the first,
+and allows us to continue to provide all upgrades and new functionalities at no additional cost.

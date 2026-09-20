@@ -1,0 +1,119 @@
+# source: raw/bleecker_drive/0.0 OMNIA Cooperative Agreement/R250802_Via_Transportation_MAD_Redacted_081825_01.pdf
+# path: raw/bleecker_drive/0.0 OMNIA Cooperative Agreement/R250802_Via_Transportation_MAD_Redacted_081825_01.pdf
+# hit page: 127 of 191
+# terms: Via+drivers
+
+=== page 126 ===
+11. Customer Service
+i. Please describe in detail your customer service policies and approach.
+From our experience as both operators and software providers for transit services around
+the world, we understand that high-quality customer service and technical support is
+incredibly important for our on-demand transit riders, drivers, and partners. We provide
+full-spectrum customer support, covering all operational and technical assistance needs:
+Day-to-Day Rider Support 
+In collaboration with our customers, we develop 
+hyper-local customer service strategies to directly 
+address the needs of riders. Our booking agents within 
+our Call Centers are available during all service hours to 
+assist riders via phone and email queues in multiple 
+languages, and will be available during 100% of 
+scheduled service. Agents are able to provide support 
+with booking rides, troubleshooting service issues, documenting customer feedback, and 
+other rider needs as necessary. Agents are trained to know local points of interest based 
+on community needs. Customer Service performance is regularly monitored to ensure 
+compliance, and all agents are subject to random quality assurance checks. We have 
+developed predefined escalation procedures to ensure that all concerns are addressed 
+with the appropriate level of support and oversight, and that all relevant parties are kept 
+apprised of updates and resolution timelines. The Via Platform offers a reliable clock 
+which is automatically synchronized with the Coordinated Universal Time (UTC) to ensure 
+consistent support operations. The Call Center phone number will be published on all 
+methods of service-centric communication and any voicemails will be returned within 30 
+minutes. 
+24/7 Technical Support for Customers 
+Our customers have access to 24/7 technical assistance through our support platform. A 
+rotating team of support engineers is on call at all times to resolve any problems that may 
+arise. Incidents are escalated using a predefined alert protocol, which instantly notifies 
+the on-call member of the team. The technical team member will immediately examine the 
+issue to begin the process of issue resolution and resource allocation. All issues will be 
+resolved based on their level of severity and associated response times, and Via will 
+provide the customer with regular status updates on resolution. 
+    RFP No. 25-08  |  39
+=== page 127 ===
+ii. Describe how any high-level issues (outside normal complaints) will be
+handled.
+Via handles all service-related complaints, concerns, and recommendations with the
+utmost diligence and efficiency. As described in the table below, we have developed
+predefined escalation procedures to ensure that any registered complaints are addressed
+with the appropriate level of support and oversight, and that all relevant parties are kept
+apprised of updates and resolution timelines. We classify complaints according to a 4-tier
+scale:
+Tier Example
+Typical Response
+L1
+L2
+Minor issue
+Driver education and written warning (with further
+steps if there is a pattern of the issue).
+Minor policy violation
+Customer service refresher training and written
+warning (with further steps if there is a pattern of
+the issue).
+Via takes immediate action by suspending the
+driver while an in-depth investigation is run by our
+Serious issue requiring investigation Incident Management Operations (IMO) team.
+Depending on the outcome of the investigation, the
+driver may be terminated or given a final warning.
+Serious issue requiring investigation
+and legal follow-up
+Via takes immediate action by suspending a driver
+while an in-depth investigation is run by the IMO
+team. A legal response is provided as part of the
+process. Depending on the investigation, the driver
+may be terminated or given a final warning.
+Via's Incident Management Operations (IMO) team, which is staffed 24/7, completes all
+investigations promptly. When an L3 or L4 incident occurs, the IMO or the Project Lead
+will notify the customer within 24 hours and will subsequently provide an in-depth
+readout after the investigation is completed. Following each investigation, an IMO team
+member presents a recommendation for next steps, and a team leader reviews and either
+approves or adjusts that recommendation. Via uses a points-based system to evaluate a
+driver's safety and customer service record. Each incident has an associated point and
+drivers are subject to refresher training and disciplinary action when they reach certain
+points thresholds. Disciplinary action could range from a formal warning to termination.
+RFP No. 25-08 40
+=== page 128 ===
+iii. Provide additional information and documentation related to these services.
+As described in the above sections, our customer’s riders and booking agents have many
+customer service tools at their disposal to utilize for support. This includes:
+●
+A custom branded Rider App
+●
+Online self-service web portal
+●
+Call center support for phone-based bookings
+●
+Automated trip updates via SMS/phone/email
+●
+Live customer service chat for immediate inquiries
+Both riders and drivers are able to access the above tools for any questions or concerns. 
+12. Account Management Features
+i. Describe options on how individuals will be billed for the products, services,
+and solutions being offered. Is this individually or monthly?
+Individuals can pay for their trips directly through the Rider App or over the phone using a
+variety of payment methods, including credit or debit cards, digital transit passes,
+subscription passes, cash cards, or vouchers. Via will handle all management of data, the
+implementation of a Participating Agency’s desired fare structure, and validation of
+payments and reporting.
+Typically, Via suggests implementing a fare structure for on-demand transit services that 
+aligns with the Participating Agency’s fixed-route fare. Matching the existing fare helps 
+maintain consistency and affordability for riders while 
+promoting seamless integration with the broader network. We 
+are happy to work with customers to refine the fare level as 
+needed based on local feedback and ridership trends. 
+We support a variety of pricing models and fare structures that 
+can be tailored to meet our customer’s needs. Examples of 
+potential configurations include: 
+●
+Discounted Fares: Via can charge different fares for
+individuals eligible for customer-specific discounts,
+such as students, seniors, and riders with disabilities,
+    RFP No. 25-08  |  41

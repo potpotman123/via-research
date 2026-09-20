@@ -1,0 +1,223 @@
+# source: raw/bleecker_drive/Lompoc County/DM9730_98_81_Lompoc_Transit_Ops_RFP.pdf
+# path: raw/bleecker_drive/Lompoc County/DM9730_98_81_Lompoc_Transit_Ops_RFP.pdf
+# hit page: 30 of 97
+# terms: Via+drivers
+
+=== page 29 ===
+REQUEST FOR PROPOSALS 
+February 2025 
+Transit Operations and Maintenance RFP  
+ 
+ 
+ 
+ 
+ 
+ 
+ Page A1-9 
+City of Lompoc 
+ 
+ 
+ 
+  
+ 
+ 
+     
+   Attachment 1: Scope of Work 
+1.18 
+Operations Headquarters 
+CONTRACTOR shall establish, furnish, and maintain an office within the operations facility as 
+described under Section 3.4 herein below.   
+ 
+The CONTRACTOR will be required to supply all administrative office furniture, computer 
+hardware, and software associated with this contract, including that needed to manage the 
+website and mobile applications discussed in Section 1.21.  CONTRACTOR will be proficient in 
+the use of video software currently in use by CITY. 
+ 
+The CITY-owned facility will include appropriate parking space for CONTRACTOR employees as 
+well as the CITY-owned transit vehicles. 
+ 
+1.19 
+City-Owned Vehicles 
+CITY will provide all revenue service vehicles.  The CONTRACTOR shall be initially provided air 
+conditioned, wheelchair accessible vehicles. An adequate number of vehicles will be made 
+available to the Contractor to assure at least a twenty percent spare ratio. CONTRACTOR may 
+utilize CITY-owned vehicles for driver training.  See Attachment 14 for Fleet Roster. 
+ 
+CITY shall pay for all repairs unless the repairs arise/result from Contractor negligence.  
+ 
+CITY reserves the right to add/subtract or substitute vehicles for those described herein. 
+ 
+CITY will not provide CONTRACTOR with any non-revenue vehicles to conduct daily non-revenue 
+service tasks. CONTRACTOR shall be responsible for providing any non-revenue vehicles that 
+may be desired for running of errands, field review of operations, shuttling of drivers, etc. 
+ 
+At the initiation of the contract, CITY and incoming CONTRACTOR will jointly inspect each vehicle 
+and sign off on the inspection sheet.  
+ 
+1.20 
+Performance Specifications 
+All performance specifications will be strictly adhered to in order to provide the highest level of 
+service possible. CITY reserves the right to monitor the CONTRACTOR in its performance of the 
+Contract to ensure all performance specifications are adhered to.  
+ 
+To receive full compensation, the CONTRACTOR is required to meet or exceed the following 
+standards of performance on a monthly basis:  
+ 
+Operating Performance Standards - Vehicles shall be operated with due regard for the 
+safety, comfort, and convenience of passengers and the public.  Service shall be provided 
+as scheduled or according to any adjusted schedule established by CITY, including route 
+modifications required because of a declared emergency. The CONTRACTOR shall strive 
+to maintain on-time performance, however, CONTRACTOR shall not be held responsible 
+for the failure to provide on-time service due to weather, unavoidable vehicle malfunctions, 
+or naturally occurring disasters, if sufficient documentation is provided to CITY. 
+ 
+Personnel Performance Standards - Regularly assigned drivers must be available at all 
+times of transit operation to ensure consistent and reliable service under the Contract.
+=== page 30 ===
+REQUEST FOR PROPOSALS 
+February 2025 
+Transit Operations and Maintenance RFP  
+ 
+ 
+ 
+ 
+ 
+ 
+ Page A1-10 
+City of Lompoc 
+ 
+ 
+ 
+  
+ 
+ 
+     
+   Attachment 1: Scope of Work 
+All personnel are responsible for knowledge of the service.  Project personnel must 
+maintain a courteous attitude, answering to the best of their ability, any questions from the 
+public regarding the provision of service.  Customer service training must include a focus 
+on positive customer relations.  Personnel must report customer complaints and/or 
+operational problems to the CONTRACTOR’s project manager who will be responsible to 
+inform CITY.  All customer complaints must be reported to CITY within twenty-four (24) 
+hours of being received. 
+ 
+Drivers must accurately and completely submit the required operating reports each day. 
+ 
+1.21 
+Telephone and Technology 
+1.21.1 Telephone Numbers 
+The CITY will provide the CONTRACTOR with the Customer Service and reservation numbers 
+for the ADA paratransit service as well as the general public on-demand service.  
+ 
+CONTRACTOR shall provide customer information service to the public during all hours of service 
+operation. CONTRACTOR shall also have the ability to accept calls from hearing-impaired 
+persons as well as persons with limited English proficiency. 
+ 
+All phone lines associated with this contract shall be used solely for the purpose of providing 
+customer information and accepting ride reservations, and shall not be used by the 
+CONTRACTOR for any other purpose. 
+ 
+Upon termination of this agreement the CONTRACTOR shall release such phone numbers to the 
+CITY.  
+ 
+1.21.2 Software Backend Characteristics 
+Software must provide for scheduling, dispatch, reservation, user interface, and data collection. 
+Bidders proposing to leverage existing technology and utilize proprietary software must indicate 
+how it meets these requirements. The system must offer a call-in reservation option as well as a 
+self-booking option through a mobile app and website. Advance reservations must be available 
+for the ADA paratransit service and general public on-demand service. Riders will have the option 
+to pay online, via a mobile app, or onboard the vehicle. 
+ 
+The technology must have the ability to limit trip requests based on geography (within an 
+established service area) and time (within established service hours). It must also be able to 
+schedule curb-to-curb service (ADA paratransit) and designate safe and appropriate “virtual 
+stops” for corner-to-corner service (general public on-demand service). 
+ 
+CONTRACTOR shall be responsible for creating the GTFS “feed” and providing and integrating 
+any software and hardware necessary to provide the real-time service information and functions 
+required below, to work seamlessly with the customer webpage and mobile apps, as well as with 
+Google Transit.  The real-time software shall integrate with the CITY’s existing vehicle telematics 
+hardware and software already in use, and/or any upgrades to CITY hardware and software as 
+needed.  The CONTRACTOR shall deploy the real-time software, support the real-time software, 
+and update the real-time software.  CONTRACTOR shall include in its proposal an explanation of 
+its cybersecurity plan and proposed framework of system and operation.
+=== page 31 ===
+REQUEST FOR PROPOSALS 
+February 2025 
+Transit Operations and Maintenance RFP  
+ 
+ 
+ 
+ 
+ 
+ 
+ Page A1-11 
+City of Lompoc 
+ 
+ 
+ 
+  
+ 
+ 
+     
+   Attachment 1: Scope of Work 
+1.21.3 Website and Mobile Application Characteristics 
+CONTRACTOR shall provide a fully functional and fully supported transit website and mobile 
+application on behalf of the CITY’s public transit program. The scope and content of these 
+technologies will include all transit programs operated by the CITY. 
+ 
+The transit website and mobile application must be free and publicly available through common 
+web browsers and as native mobile apps for iPhone and Android that are accessible for ADA 
+compliance. It shall include, at a minimum, the capabilities stated above under “Software Backend 
+Characteristics,” and the following features:  
+ 
+• 
+On-demand and scheduled trip booking. 
+• 
+Mobile fare payment via debit/credit cards as well as an on-vehicle cash payment option. 
+• 
+Ability for riders to request/book wheelchair-accessible vehicles. 
+• 
+Real-time vehicle locations and arrival and departure times for scheduled rides. 
+• 
+Ability to identify a Personal Care Attendant (PCA). 
+• 
+Maps which provide an overview of the service area, streets, important points of interest, 
+and through zooming, sufficient detail to see routes, transit stops, real-time transit vehicle 
+locations, and the ability to click on the real-time transit vehicle icons to view service 
+options and link to purchase trips. 
+• 
+A concise set of navigation links which repeat on each page, including descriptions of 
+each transit service, service maps, schedules in html and downloadable pdf formats, fare 
+information, etc. 
+• 
+Tools to create and manage secure intuitive customer accounts which allow the user to 
+purchase, modify, and cancel trips and multi-trip passes; schedule repeating trips and one-
+time trips; arrange notifications, integrate trips into personal calendars; manage and view 
+past and future trip payments, manage account preferences, ask questions and report 
+concerns to the CONTRACTOR and to the CITY transit staff, and related features. 
+• 
+User accounts shall allow for the CITY and the CONTRACTOR to easily communicate 
+with and serve the customers as well as access and manage the customer accounts. 
+• 
+Customers shall receive clear and accurate automated notifications through their choice 
+of email, text, call, and/or message through their account app of service alerts and account 
+notifications, including impacts or schedule changes to specific trips purchased by the 
+user, trip reminders, and other notifications they choose from a menu of options. 
+• 
+User-friendly tools which seamlessly integrate and allow users to progress from one action 
+to any other action without losing their data entry or selections, such as:  trip planning, 
+purchasing, modification of trip(s), cancellation of trip(s), report concerns, and secure 
+account management. 
+• 
+Trip planning component shall provide search filters for and offer a range of the most 
+reasonable COLT service options to meet the riders’ travel needs, including but not limited 
+to cost, departure time and location, arrival time and location, vehicle type, and other 
+relevant options. 
+• 
+Trip planning shall include a component whereby riders can identify start and destination 
+by landmark, street intersection, or specific street address.  All purchases shall offer and 
+provide to users real-time location of their transit service vehicle(s) as well as trip 
+reminders and service alerts.  Trip reminders shall by default be sent to users at the 
+following times prior to their scheduled trips and may be adjusted by users:  1 day in 
+advance, 15 minutes in advance, 1 minute in advance.  Service alerts shall include all

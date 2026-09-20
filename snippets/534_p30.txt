@@ -1,0 +1,139 @@
+# source: raw/bleecker_drive/State of Vermont/VIA_MOBILITY_LLC_-_CONTRACT__PS1018_-_CONTRACT_-_PUBLIC_TRANSIT_CONSULTANT_SERVICES_2023_-_VERMONT.pdf
+# path: raw/bleecker_drive/State of Vermont/VIA_MOBILITY_LLC_-_CONTRACT__PS1018_-_CONTRACT_-_PUBLIC_TRANSIT_CONSULTANT_SERVICES_2023_-_VERMONT.pdf
+# hit page: 30 of 103
+# terms: Via Mobility
+
+=== page 29 ===
+6 | P a g e
+i.
+Not less than two million dollars ($2,000,000) for all damages arising out of 
+any one accident or occurrence, in connection with bodily injury or death and 
+injury to or destruction of property; and
+ii.
+Subject to that limit per accident, a total (or aggregate) limit of six million 
+dollars ($6,000,000) for all injuries to persons or property during the policy 
+period.
+The Contractor shall file the original and one (1) copy of the Railroad Protective Liability 
+policy with the State, who will provide the original to the appropriate railroad.
+6. Information Technology Contracts:
+a.
+For contracts determined by the State to fall within the category of “information 
+technology activity” as defined in statute at 3 V.S.A. §3301(b)(2), additional types and 
+amounts  of insurance will typically be required, and may change over time, either as 
+to general standards or with regard to the subject matter or potential risk exposure in a 
+specific IT transaction.
+b. As of the issuance of these General Terms and Conditions, the required IT insurance 
+types include: Technology Professional Liability insurance with third-party coverage, 
+and, if contractor has access to, processes, handles, collects, transmits, stores, or 
+otherwise deals with State Data, Contractor shall maintain first party Breach 
+Notification Coverage, which shall include the State of Vermont and its officers and 
+employees as additional insureds.
+c.
+Information technology contracts will also generally require their own set of additional 
+specific terms and conditions, derived from the then-applicable templates issued by the 
+Agency of Digital Services and the Office of Purchasing and Contracting within the 
+Department of Buildings and General Services.
+B. INDEMNIFICATION
+1. Basic Indemnification Requirements (any contract for services):
+a.
+Prime Contractor:
+Except as specifically provided below, a prime contractor must act in an independent 
+capacity and defend and indemnify the State in accordance with the State’s then-current 
+Attachment C
+b. Subcontractors:
+Except as specifically provided below, the prime contractor must include requirements 
+as to independence, defense, and indemnity, matching Attachment C and identical to 
+those in the prime contractor’s contract with State, in the prime contractor’s contracts 
+with subcontractors. Subcontractors must do the same for their sub-subcontractors.
+PS1018 - Public Transit Consultant Services 2023
+                                    Via Mobility LLC
+Page 28 of 82
+=== page 30 ===
+7 | P a g e
+2. For Design/Engineering Professional Services for a Specific Projects:
+a.
+Prime Contractor:
+Where a contract is for design/engineering professional services for a specific project, 
+or, when a contract contains a mixed scope of work that in part consists of tasks of such 
+professional design services for a specific project or projects, then as to, and only as to, 
+those specific professional design services, the provisions of Standard Attachment C 
+on the subjects of “Defense and Indemnity” (numbered item 7 in the December 2017 
+version of Attachment C, and any equivalent provisions, however numbered, in any 
+subsequently-issued Attachment C) are stricken in their entirety and replaced in full by 
+the following:
+The Party shall defend the State and its officers and employees against all claims or 
+suits arising in whole or in part from any act or omission of the Party or of any agent 
+of the Party in providing “non-professional services” under this Agreement. As used 
+herein, “non-professional services” means services provided under this Agreement 
+other than professional services relating to the design and/or engineering of all or part 
+of the project. The State shall notify the Party in the event of any such claim or suit 
+covered by this Subsection, and the Party shall immediately retain counsel and 
+otherwise provide a complete defense against the entire claim or suit arising out of 
+“non-professional services” provided under this Agreement.
+Notwithstanding anything to the contrary set forth in Subsection C above, the Party 
+shall not be obligated to defend the State and its officers and employees against claims 
+or suits arising from the Party’s provision of engineering design services or 
+architectural design services. However, the Party’s obligation to defend the State and 
+its officers and employees against all claims or suits arising out of “non-professional 
+services” provided under this Agreement as provided in Subsection C above and the 
+Party’s other obligations under Attachment C shall remain in effect.
+The Party agrees to indemnify and hold the State, its officers and employees, harmless 
+from and against monetary damages to third parties, together with reasonable costs, 
+expenses and attorney’s fees incurred and paid by the State in defending claims by third 
+parties (collectively “Damages”) but only in the event and to the extent such Damages 
+are incurred and paid by the State as the proximate cause of negligent acts, errors or 
+omissions (“Professional Negligence”) by the Party, its employees, agents, consultants 
+and subcontractors, in providing the professional services required under this 
+Agreement.
+As used herein, “Professional Negligence” or “negligent acts, errors or omissions” 
+means a failure by the Party to exercise that degree of skill and care ordinarily 
+possessed by a reasonably prudent design professional practicing in the same or similar 
+locality providing such services under like or similar conditions and circumstances.
+The Party shall indemnify the State and its officers and employees in the event that the 
+State, its officers or employees become legally obligated to pay any damages or losses 
+PS1018 - Public Transit Consultant Services 2023
+                                    Via Mobility LLC
+Page 29 of 82
+=== page 31 ===
+8 | P a g e
+arising from any act or omission of the Party arising from the provision of “non-
+professional services” (as defined herein) under this Agreement.
+The Party shall not be obligated to indemnify the State for any Damages incurred by 
+the State attributable to the State’s own negligent acts, errors or omissions or the 
+negligent acts, errors or omissions of its officers, agents or employees, or the acts, 
+errors, omissions or breach of Agreement by persons or entities other than the Party, 
+its employees, agents, consultants and subcontractors.
+After a final judgment or settlement, the Party may request recoupment of specific 
+defense costs and may file suit in Washington Superior Court requesting recoupment. 
+The Party shall be entitled to recoup costs only upon a showing that such costs were 
+entirely unrelated to the defense of any claim arising from an act or omission of the 
+Party.
+b. Subcontractors: 
+As to subcontractors working under a prime contractor and where the subcontractors 
+are providing such professional design services for a specific project, the prime 
+contractor will include the same design-specific provisions as defined in Section 
+B(2)(a) above in the prime contractor’s own contracts with subcontractors. 
+Subcontractors must do the same for their sub-subcontractors.
+C. GENERAL COMPLIANCE WITH LAWS; RESPONSIBILITY FOR 
+VIOLATION
+1. The contractor shall observe and comply with all applicable federal, state, and municipal 
+laws, bylaws, ordinances, and regulations in any manner affecting the conduct of the work 
+and the action or operation of those engaged in the work, including all such orders or decrees 
+as exist at present and those which may be enacted, adopted, or issued later, during the 
+course of the work, by bodies or tribunals having any jurisdiction or authority over the work; 
+and the contractor shall defend, indemnify and save harmless the State, any affected 
+railroad(s), and any affected municipality(ies), and all their officers, agents, and employees 
+against any claim or liability arising from or based on the violation of any such law, bylaws 
+ordinances, regulations, order, or decree, whether by the contractor in person, its 
+employee(s), or by the contractor’s subcontractor(s) or agent(s), or employee(s) or agents 
+thereof.
+2. If the contractor discovers any provision(s) in the contract contrary to or inconsistent with 
+any law, ordinance, regulation, order, or decree, the contractor shall immediately report it to 
+the Project Manager in writing.
+D. COMPLIANCE WITH DESIGN SPECIFICATIONS, STANDARDS, 
+MANUALS, GUIDELINES, DIRECTIVES, AND POLICIES
+The contractor shall comply with all applicable statutes, regulations, ordinances, specifications, 
+manuals, standards, guidelines, policies, directives, and any other requirements related to the 
+PS1018 - Public Transit Consultant Services 2023
+                                    Via Mobility LLC
+Page 30 of 82

@@ -1,0 +1,72 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Maryland/2024-Oct-30-Summary.pdf
+# pages_total: 30; hit_pages: [19]; included: [19]
+# context: Bleecker Drive folder: Maryland
+
+=== page 19 of 30 ===
+Item
+Agency
+Institution
+County
+Vendor, Contractor, Grantee
+Description
+Page 19 of 30
+30-Oct-24
+action:
+Approved
+discussion:
+No
+M00B3600483
+Doc. No.
+8-IT
+DOT/SHA
+Statewide
+Ledstar Inc.
+Information Technology - Spare parts for two Mark IV 
+Digital Messaging Signs. Term: Anticipated delivery - 
+12/1/24. Amount: $172,246.
+action:
+Approved
+discussion:
+No
+J02P4600118
+Doc. No.
+9-IT-OPT
+DOT/MTA
+Statewide
+Remix Technologies, LLC.
+Information Technology Option - Remix Transit Street 
+License, a web-based transit specific software - Exercise the 
+sole renewal option. Term: 11/1/24 - 10/31/26. Amount: 
+NTE $430,000.
+action:
+Approved
+discussion:
+No
+COK69714
+Doc. No.
+10-IT-MOD
+PS
+Statewide
+Idemia Identity & Security USA 
+LLC
+Information Technology Modification - Annual 
+Maintenance of Livescan Machines and purchase eight 
+replacement machines - Extend contract to complete the 
+new procurement and update list of machines that require 
+service. Term: 11/15/24 - 11/14/25. Amount: $232,922.
+action:
+Approved
+discussion:
+No
+COK70800
+Doc. No.
+11-IT-MOD
+DOT/MTA
+Statewide
+Trapeze Software Group, Inc.
+Information Technology Modification - Software 
+maintenance and support services for routing, 
+timekeeping, and scheduling software - Replace and 
+upgrade current navigation software for the Mobility 
+Ranger system. Term: 10/31/24 - 2/23/27. Amount:

@@ -1,0 +1,410 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Suffolk County/Via - Getting Microtransit Right.pdf
+# pages_total: 26; hit_pages: [2, 5, 6, 8, 9, 10, 11, 12, 18, 20, 22, 24]; included: [2, 5, 6, 8, 9, 10, 11, 12, 18, 20, 22, 24]
+# context: Bleecker Drive folder: Suffolk County
+
+=== page 2 of 26 ===
+What can microtransit
+do for public transit agencies?
+VIa
+Microtransit is every transit agency's ally in
+upgrading the customer experience, growing ridership,
+and improving efficiency.
+Aggregating riders going from different origins to different destinations in real time - and
+routing vehicles dynamically — creates operational possibilities that were unimaginable only
+five years ago:
+Grow ridership of existing
+fixed-route service- bus lines,
+bus rapid transit, light rail, and
+subways — by solving the first
+and last mile problem.
+Upgrading legacy dial-a-ride
+and paratransit services by
+making them on-demand
+while, at the same time, using
+vehicles more efficiently.
+Optimizing the
+coverage/frequency trade-off
+by replacing underperforming
+fixed-route service with
+real-time demand response
+and using the savings to
+increase the frequency of
+fixed-route service in
+high-demand corridors.
+The question, therefore, is how best to integrate microtransit into an agency's existing service
+portfolio. Since transit agencies are public organizations that are charged with operating safe,
+equitable, and reliable service on behalf of their communities, before changing the status quo
+an agency needs to be confident that a new service will strengthen its ability to serve the
+public, not weaken it. A transit agency, unlike a private transportation operator, doesn't have
+the luxury of experimenting with many different ideas until it finds the right service model; an
+agencys decision-makers need to make the most informed decision possible about the right
+service before the first vehicle is dispatched.
+2
+
+=== page 5 of 26 ===
+VIa
+Finding the right partner
+When an agency considers whom to work
+with, there are a few considerations:
+On-demand and dynamic
+The most successful microtransit services are on-demand —
+customers get rides when they want them — and fully
+dynamic, meaning there are no static routes or schedules.
+Powering a flexible service that is continuously optimized in
+real time is a big technical challenge.
+Moreover, it's also important to confirm that the technology
+has been proven in similar markets in terms of population
+density, origin-destination patterns, and traffic
+characteristics - most microtransit algorithms are
+configured to function well in only one specific kind of
+market.
+Scalability
+It's one thing to power a dial-a-ride service with a few
+vehicles; it's another thing entirely to power a microtransit
+service at scale with dozens or even hundreds of vehicles
+delivering hundreds or thousands of rides every day.
+The ability to do the former, moreover, usually doesn't transfer
+to the latter - as the number of vehicles and rides increase,
+the number of possible rider/vehicle assignments and routing
+options grow exponentially, which requires both an algorithm
+and automated service management tools built to handle
+scale.
+
+=== page 6 of 26 ===
+Built for public transit
+Can the microtransit partner provide product features that
+are specific to a transit agency's public mission? Will people
+who go to recurring medical appointments be able to
+pre-schedule rides for themselves and, if necessary, for
+caretakers too? Similarly, will people in wheelchairs be able to
+request wheelchair accessible vehicles?
+What about low-income customers — will they be able
+to access the service if they don't have smartphones or
+credit cards?
+Access to best practices
+Technology alone doesn't a successful microtransit service
+make. Since transit agencies have historically configured
+service around fixed routes and schedules, even the sawiest
+service planners and operations managers don't have
+experience running real-time on-demand service with
+dynamically-routed vehicles.
+The best service plans are just academic if theyre not
+effectively implemented and managed. What's the best way to
+provide real-time customer service? What's the most
+cost-effective way to acquire new riders?
+Trying to reinvent the microtransit playbook is risky (as some
+agencies have learned) - choosing a microtransit partner
+with extensive experience launching, scaling, and optimizing
+service could be the difference between success and failure.
+Powerful data science tools
+What kind of analytics and reporting services
+does the partner provide?
+Even a small service can generate millions of data points;
+distilling actionable intelligence from data sets on that scale
+requires powerful data science tools, analytical expertise, and
+deep domain experience.
+VIa
+
+=== page 8 of 26 ===
+via
+We offer two partnership models:
+Software as a service
+(SaaS) for agencies who want to use
+their own vehicles and operators
+Dickup
+Take a left onto Larkwood Dr
+Dickup
+Transit as a service
+(Taas) for agencies who want a
+turnkey solution that includes
+technology as well as drivers,
+vehicles, and operations
+management
+VIO
+Take a left onto Larkwood Dr
+NIo
+•
+2
+8
+
+=== page 9 of 26 ===
+VIa
+Via's SaaS solution
+A full suite of tools and support services for agencies who
+want to use their own vehicles and operators
+• Pre-pilot service planning and modeling
+• Beautiful, consumer-grade rider and
+driver apps
+• Best-in-class passenger aggregation
+and dynamic routing algorithm proven
+in urban, suburban, and rural
+environments
+Powerful and intuitive dispatch tools
+• ADA compliance
+• Support for riders without
+smartphones and credit cards
+• Seamless integration with third-party
+payment and trip planning systems
+• Exceptional analytics, reporting, and
+partner success services
+VIC
+Stop for a pickup at York Ave & 85th St
+in 820 teet
+York Ave & 85th
+I'm Here
+Fish. Up Ringe
+16 Aum N,39,5
+
+=== page 10 of 26 ===
+VIa
+Via's TaaS solution
+For agencies who want a turnkey solution that
+includes all the technology plus drivers, vehicles, and
+operations management
+12:58 PM
+VIa
+Caniasinoe
+Pickup: NW corner, Washington Ave & Park
+Aive, on Park Ave at Fresh, Fanatic, Inc.
+Cost: $3.95 0
+PRade Credit
+Black Lincoln MKT, Via-cle #3138
+Steiner Studios Q
+Marker St
+Flushing A
+Pickup in a minutes
+• Via can deploy the microtransit platform
+described on the previous page and operate it
+on an agency's behalf — we collaboratively
+define the service model and then provide
+rides according to a service level agreement.
+• The agency gets all of the benefits of
+microtransit without the challenges of directly
+operating service.
+• Through our strategic partnership with
+Mercedes-Benz, we can also deploy a
+cost-effective, uniform fleet of use-case
+optimized vans (if desired)
+Via provides:.
+© Pratt Insti O
+Google
+Technology
+Drivers and
+Vehicles
+Operations
+
+=== page 11 of 26 ===
+Data-driven service design and
+computer modeling reduces risk
+VIa
+Via's microtransit experts have thought through service planning challenges in virtually every
+kind of environment: big cities, small towns, resort communities, car-oriented suburbs, and
+even rural areas. After providing more than twenty-five million microtransit rides and collecting
+billions of data points, they know what it takes to analyze a new market and scope out a
+successful service. Via's data scientists and operations professionals work with transit agencies
+to de-risk their microtransit investments by getting answers to key questions:
+• How can microtransit most effectively complement existing service?
+• What are the most attractive use-cases for current customers?
+• How can microtransit service attract new riders?
+• How many vehicles are needed to achieve a compelling quality of service
+(QoS), measured in terms of pickup and trip times?
+• How much should riders pay per trip?
+• What would success look like in terms of total ride volume, service productivity
+(passengers/vehicle/hour), cost-effectiveness, and QoS?
+Via's methodology combines an agency's available ridership and performance data, mapping
+and demographic analysis, computer simulation using Via's real-time passenger aggregation
+and dynamic vehicle routing algorithm, and the practical experience Via has accumulated
+modeling and implementing microtransit around the world. At the end of this interactive
+exercise, the agency will have a vetted service model — built upon Via's industry-leading best
+practices — that is ready to pilot.
+VIO
+
+=== page 12 of 26 ===
+Here's how the
+consultative planning and
+modeling process works:
+VIa
+© WAITING
+МіННі
+А міни
+Step 1 | General Assessment
+The agency describes issues or shortcomings with
+existing services, offers preliminary ideas about how
+microtransit can be integrated into its network, and
+provides a few basic descriptive inputs, like the number of
+vehicles available (including their capacities) and the
+number of budgeted vehicle hours. If this information isn't
+available, Via works with the agency's team to develop the
+stabilizing assumptions needed to scope and model
+microtransit service.
+Step 2 | Analysis
+Via layers technical inputs and assumptions about customer
+expectations onto the basic vision for the service in order to
+identify the most attractive use-case(s) for microtransit. This
+entails analyzing the local physical environment, sorting
+areas by land use-type, size, and density, and mapping
+points of interest according to their functional roles for
+residents.
+→
+12
+
+=== page 18 of 26 ===
+The most respected name
+in microtransit
+Imagine operating a dynamic bus system that provides on-demand rides up to three times
+more cost-effectively than conventional demand-response services. With Via, your transit
+agency can solve the first and last mile challenge, replace under-performing fixed-route
+service, and upgrade legacy paratransit and dial-a-ride offerings -- all using your vehicles and
+drivers.
+Via has provided more than twenty million rides to over a million customers. Our proven
+technology and operational expertise can propel your agency to the forefront of microtransit
+innovation while mitigating your risks.
+THE PREMIUM
+MICROTRANSIT SOLUTION
+— Powerful rider aggregation algorithm
+— Predictive and dynamic vehicle routing
+— Automated monitoring tools
+— Payment support for the unbanked and phone-based
+booking to ensure equity
+— Seamless integration with third-party payment and
+!
+partner success
+vIa
+
+=== page 20 of 26 ===
+While all transit agencies want to maximize ridership on their fixed-route
+lines, even the most expansive networks struggle to provide complete
+origin-to-destination journeys for their riders. With Via, transit agencies
+can seamlessly connect their customers to existing bus and train stations,
+enhancing the customer experience, increasing ridership, and improving the
+overall efficiency of their networks.
+VIA'S CREDENTIALS
+know what it takes to deliver a superior customer experience in an exceptionally efficient way,
+wherever your agency is located.
+Based on our experience connecting riders to fixed-route services as diverse as the Metrolink
+regional rail system in southern California, the New York City subway, the Washington D.C.
+Metro, and the Sittingbourne railway station in Kent, UK, we suggest the following quality of
+service and productivity benchmarks for a mature first and last mile service:
+market
+Average
+wait time
+(Minutes)
+Urban
+Suburban
+Average
+trip time
+compared
+to private
+car trip
+(Minutes)
++1.5
++2.70
+Rides per
+vehicle/hr
+% Utilization
+improvement
+(Based on US
+average of 2)
+% Cost
+reduction per
+trip (Based
+on US average
+of $35/trip)
+4-6
+3-5
+100-200%
+50-150%
+50-67%
+33-60%
+
+=== page 22 of 26 ===
+Every transit agency has to decide how best to allocate its scarce resources
+-- there are, after all, never enough buses and drivers to provide high-
+quality service everywhere. With Via, transit agencies can reduce costs by
+providing real-time demand-responsive service using smaller vehicles in
+low-density areas, while freeing up bus capacity for high-demand corridors.
+VIA'S CREDENTIALS
+We know what it takes to make microtransit successful in diverse areas because we've done it
+many times in places as disparate as Orange County (CA) and Brooklyn, New York. We suggest
+the following quality of service and productivity benchmarks for a mature lower-density
+microtransit service:
+Type of
+market
+Average
+wait time
+(Minutes)
+Urban
+Suburban
+10
+Average
+trip time
+compared
+to private
+car trip
+(Minutes)
+>1.5
+>3.5
+Rides per
+vehicle/hr
+% Utilization
+improvement
+(Based on US
+average of 2.0)
+% Cost
+reduction per
+trip (Based
+on US average
+of $35/trip)
+4-6
+3-5
+100-200%
++50%
+>50%
+>40%
+
+=== page 24 of 26 ===
+Demand-response operators need better digital tools to improve quality of
+service for riders while decreasing costs. With Via, transit agencies can offer
+the ADA community and other eligible customers rides when they actually
+want them at a significantly lower cost per trip.
+VIA'S CREDENTIALS
+Austin's Capital Metropolitan Transportation Authority's Pickup service, a Via-powered
+microtransit offering, showcases how forward-thinking transit agencies can reengineer
+paratransit and dial-a-ride for the benefit of their communities.
+Before working with Via, Capital Metro operated a conventional deviated-fixed route service
+with low ridership. With the hands-on support of Via's microtransit experts, in June 2017
+Capital Metro launched a flexible, on-demand service that utilizes its dispatchers, vehicles, and
+operators in an entirely new way. Pickup riders can now request rides anywhere within the
+service area directly from a custom-built app as well as through a dispatcher, and get picked
+up within minutes in wheelchair accessible cutaway buses. And to support the unbanked,
+Pickup was designed to accept cash fares.
+Pickup has quickly achieved previously unattainable levels of service quality for customers and
+operational efficiency for the Authority.
+Before/with
+Via
+Average
+wait time
+(Minutes)
+Before Via
+With Via
+Minimum 2 hrs
+10 minutes
+% of trips
+booked
+through
+the app
+0%
+50%
+Rides per
+vehicle/hr
+% Utilization
+improvement
+% Cost
+reduction per
+ride
+3.5
+N/A
+56%
+N/A
+36%

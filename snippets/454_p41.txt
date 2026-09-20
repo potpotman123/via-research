@@ -1,0 +1,169 @@
+# source: raw/bleecker_drive/Topeka/Proposal-ViaMobilityLLCforPosting.pdf
+# path: raw/bleecker_drive/Topeka/Proposal-ViaMobilityLLCforPosting.pdf
+# hit page: 41 of 44
+# terms: Via Mobility
+
+=== page 40 ===
+Proposals are Due No Later Than 3:00 PM Central Daylight Time, 
+Wednesday July 27, 2022 
+RFP TM-22-01 
+Topeka Metropolitan Transit Authority 
+POWER OF EXECUTION 
+Authorization of Bidder 
+Officer 
+The undersigned, an _________________________ of 
+(officer, partner, proprietor, etc.) 
+Via Mobility, LLC 
+(name of company) 
+Limited Liability Company 
+a ________________________________ _ 
+( corporation, partnership, proprietorship) 
+having its principal office or registered agent at 10 Crosby Street, Floor 2, New York, NY 10013
+hereby certifies that the Company has duly authorized by appropriate action and/or hereby does 
+nominate, constitute, appoint and authorize -eFil 1 ·' bt a:: 15 (b-rD., f 
+o.iY\ 
+1 lac_Ì r :l W a.ssen'YlllÍ Di /I on lwom 6/tt,
+(name of individual signing documQi.t) 
+U 
+with full power to act 
+alone 
+on behalf of 
+____________________ 
+__, 
+( alone or in conjunction with another person) 
+Via Mobility, LLC 
+(name of company) 
+and thereby to make, execute, seal and deliver on its behalf as CONTRACTOR and as its act and deed any 
+and all proposals, contract proposals, contracts, change orders, monthly and final payment certificates and 
+other like instruments. Such proposals, contract proposals, contracts, change orders, monthly and final 
+payment certificates and other like instruments shall be binding upon said company as fully and to all intents 
+and purposes as if such instruments had been duly executed, acknowledged and delivered by the authorized 
+officers of the company when executed, by the aforementioned person(s). 
+Via Mobility, LLC 
+anager 
+Signature, Title 
+yu /;;,2'
+Dat 
+I 
+ATTEST: 
+I) 
+J 
+Sia:le_ .f Necw ¼rk
+Î 
+lovui+1 J: Ï Yrl'l 
+Notary Public (if proprietorship) L.wii\eJ. Lulb1li+11..-Ðr(\Ñ . .....-..1 ''"'"""'Ò 1
+111eJ. o..NA I.MN"() k.(oc-e_ 
+Secretary of Corporation (if corporation) 
+G 
+i'i E. M. SÓ'',,, 
+Partner (if Partnership) 
+Ô \Õ .. •·······• .. Ö',,, 
+Topeka Metro Microtransit System 
+$× .·• STATE ·:-Ø Ù\ 
+l 
+:' OF NEW YORK'., 
+i 
+:
+-'-----Ú 
+s
+= =&"Bue: i
+Page 38
+=== page 41 ===
+Proposals are Due No Later Than 3:00 PM Central Daylight Time,
+RFP TM-22-01 
+Wednesday July 27, 2022
+Topeka Metropolitan Transit Authority
+PROPOSAL CHANGE REQUEST
+Complete this form for each condition, exception, reservation, or understanding (i.e., change) in the 
+proposal. See PROPOSAL SCHEDULE, page 5 of this RFP, for the due date of all requested Proposal 
+Changes.
+Change Number: 1             
+Proposer:  Via Mobility LLC
+RFP Number – TM-22-01
+Page: 13 
+Section:   8.8
+Metro’s Current Requirement:
+The contractor will: Provide at a minimum a three-year warranty from the date of Satisfactory Completion.
+Proposer’s Requested Change:
+We request to delete this requirement as it is not applicable to the nature of the services hereunder. The 
+term “Satisfactory Completion” is not defined and seem to apply to different type of services.
+RFP Number – TM-22-01
+Page: 22 
+Section:   3.1
+Metro’s Current Requirement:
+The decision of the Contract Administrator shall be binding upon the contractor, and the contractor shall 
+abide by the decision. 
+Proposer’s Requested Change:
+We are willing to submit to an informal dispute resolution procedure, but we would request having the 
+option to proceed to binding arbitration with a neutral arbitrator if Via disagrees with the determination of 
+the Contract Administrator. We therefore request to revise as follows:
+“Unless determined otherwise by a court of competent jurisdiction or an arbitrator appointed by the 
+parties, the decision of the Contract Administrator shall be binding upon the contractor, and the contractor 
+shall abide by the decision.”
+RFP Number – TM-22-01
+Page: 25 
+Section:   17
+Metro’s Current Requirement:
+These contract provisions include, in part, certain Standard Terms and Conditions required by USDOT, 
+whether or not expressly set forth in the included contract provisions.  All contractual provisions required by 
+USDOT, as set forth in the current version of FTA Circular C 4220.1, are hereby incorporated by reference.  
+Anything to the contrary herein notwithstanding, all FTA mandated terms shall be deemed to control in the 
+event of a conflict with other provisions contained in this Agreement.  The contractor shall not perform any 
+act, fail to perform any act, or refuse to comply with any Metro requests which would cause Metro to be in 
+violation of the FTA terms and conditions.
+Proposer’s Requested Change:
+We are able to comply with all applicable FTA terms and have no objection to the RFP language in this regard. 
+However, given that this contract is not for support of scientific research, research, experimental or 
+developmental work, we respectfully request to explicitly add the following sentence at the end of Section 
+17:
+=== page 42 ===
+“No research, research, experimental or developmental work will be provided by Contractor, and any 
+“Patent Rights” and “Rights in Data” FTA terms are not applicable and would not apply to this project. 
+Notwithstanding anything to the contrary, the parties agree that all rights to Contractor’s technology 
+solution, including any developments and improvements thereto, are and shall continue to be owned by 
+Contractor.”
+RFP Number – TM-22-01
+Page: 25 
+Section:   18
+Metro’s Current Requirement:
+Contractor shall be responsible for and indemnify, defend and hold harmless Metro, its directors and 
+employees from all demands, claims, suits and settlements for loss of or damages to property, or personal 
+injuries, including death to persons, and from all judgments recovered, and from all expenses incurred in 
+defending or settling said claims or suits, or enforcing this provision, including court costs and attorney fees 
+and other expenses arising out of the errors, omissions or negligent acts of the Contractor, its employees, or 
+agents in connection with the goods and/or services provided under this contract.
+Proposer’s Requested Change:
+As the service provider, we agree that we should bear the risks of losses caused by our wrongdoing; however, 
+the current indemnification provision transfers all possible risks of the project to Via. We therefore request 
+the following modifications to the indemnification:
+“Contractor shall be responsible for and indemnify, defend and hold harmless Metro, its directors and 
+employees from all third party demands, claims, suits and settlements for loss of or damages to property, or 
+personal injuries, including death to persons, and from all third party judgments recovered, and from all 
+expenses incurred in defending or settling said claims or suits, or enforcing this provision, including court 
+costs and reasonable attorney fees and other expenses arising out of the errors, omissions or grossly 
+negligent or willful misconduct acts of the Contractor, its employees, or agents in connection with the goods 
+and/or services provided under this contract. Contractor’s liability under this Agreement shall not exceed 
+the fees payable to Contractor nor extend to transportation incidents.”
+RFP Number – TM-22-01
+Page: 25 
+Section:   19
+Metro’s Current Requirement:
+Contractor shall maintain for the duration of the contract such insurance as will protect it and Metro from all 
+claims, including Workers’ Compensation, and will hold Metro harmless from, and indemnify Metro for, all 
+claims and damages which may arise out of or result from the Contractor’s operations under this contract, 
+whether such operations are by Contractor, by a subcontractor, by anyone directly or indirectly employed by 
+them, or by anyone for whose acts any of them may be liable. Contractor will submit certificates or other 
+proof of insurance to Metro, naming Metro as an additional insured, upon notification of contract award.
+Proposer’s Requested Change:
+The language of this section is overly broad and covers indemnification obligations that should be addressed 
+in section 18. We therefore request the following changes:
+“Contractor shall maintain for the duration of the contract such customary insurance as will to protect it and 
+Metro from all claims, including Workers’ Compensation, and will hold Metro harmless from, and indemnify 
+Metro for, all claims and damages which may arise out of or result from the Contractor’s operations under 
+this contract, whether such operations are by Contractor, by a subcontractor, by anyone directly or indirectly 
+employed by them, or by anyone for whose acts any of them may be liable. Contractor will submit 
+certificates or other proof of insurance to Metro, naming Metro as an additional insured, upon notification of 
+contract award.”
+RFP Number – TM-22-01
+Page: 27 
+Section:   30

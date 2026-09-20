@@ -1,0 +1,174 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Doral/20_3828_2019_SFMTA_Board_Report.pdf
+# pages_total: 62; hit_pages: [12, 51, 59]; included: [12, 51, 59]
+# context: Bleecker Drive folder: Doral
+
+=== page 12 of 62 ===
+SFMTA P-648 (4-18) 
+2 
+ 
+CFP 
+ 
+n:\ptc\as2019\1000426\01354057.doc 
+1.2 
+“Authorized Users” means persons authorized by City to access the City Portal 
+and use the SaaS Application, including any City employee, contractor, or agent, or any other 
+individual or entity authorized by City. 
+1.3 
+“Back-Up Environment” means the Contractor’s back-up Data Center for the 
+SaaS Services. 
+1.4 
+“Business Hours” means 8:00am-6:00pm U.S. Pacific Time. 
+1.5 
+“CCO” means SFMTA Contract Compliance Office. 
+1.6 
+“City” or “the City” means the City and County of San Francisco, a municipal 
+corporation. 
+1.7 
+“City Confidential Information” shall have the meaning set forth in Section 
+13.2.1(a). 
+1.8 
+“City Data” means that data, as described in Article 13 of this Agreement, which 
+includes, without limitation, all data collected, used, maintained, processed, stored, or generated 
+by or on behalf of the City, including data resulting from the use of the SaaS Service.  City Data 
+includes Confidential Information. 
+1.9 
+“City Portal” means an electronic gateway to a secure entry point via 
+Contractor’s Website that allows City and its Authorized Users to log in to an area where they 
+can view and download information or request assistance regarding the SaaS Application and 
+Services. 
+1.10 
+“CMD” means the Contract Monitoring Division of the City. 
+1.11 
+“Contract Administrator” means the individual who the SFMTA assigns to 
+administer the Agreement, or his or her designated agent. 
+1.12 
+“Confidential Information” means City Confidential Information and Contractor 
+Confidential Information. 
+1.13 
+“Contractor” or “Consultant” means Remix Software, Inc., 1128 Howard 
+Street, San Francisco, California 94103. 
+1.14 
+“Contractor Confidential Information” shall have the meaning set forth in 
+Section 13.2.2.  
+1.15 
+“Contractor Project Manager” means the individual specified by Contractor 
+pursuant to Section 4.2.1 hereof, as the Project Manager authorized to administer this Agreement 
+on Contractor's behalf. 
+1.16 
+“Contractor’s Website” means the website that provides Authorized Users 
+access to the SaaS Application Services.
+
+=== page 51 of 62 ===
+SFMTA P-648 (4-18) 
+A-2 
+ 
+CFP 
+ 
+n:\ptc\as2019\1000426\01354057.doc 
+similar role-based controls as they pertain to the SaaS Application and SaaS Services.  Method of 
+access will be published through Contractor portal and be made available to Authorized Users 
+with elevated privileges.  
+ 
+C. 
+Back-Up of City’s Data: 
+1. 
+Contractor shall provide up to 36 months of on-line hourly data retention 
+for operation and functionality of the SaaS Application.  
+ 
+2. 
+Contractor shall provide incremental backups of City Data to an off-site 
+location other than the primary hosting center. 
+ 
+3. 
+Contractor shall provide weekly, off-site backups with a duration that 
+matches the agreed-upon backup schedule and retention to a location other than the primary 
+hosting center. Off-site backups to include previous eight weeks.  
+ 
+E. 
+SaaS Environments:  The SaaS Application and SaaS Services shall be hosted in 
+a certified and secure Tier-3 data hosting center.   
+ 
+1. 
+Contractor shall make available as needed a single Back-up Environment 
+to serve as the back-up or “failover” environment for the SaaS Application and SaaS Services. 
+ 
+2. 
+Contractor shall use feature flags in a live environment to test all major 
+software revisions and upgrades with a controlled set of users referred to as the “Early Access 
+Group”.  This function shall be available to the City and Contractor for the evaluation and 
+eventual promotion of SaaS Application updates, patches, fixes, or otherwise deemed tests. The 
+live, test environment shall perform at 50% or better than the production environment. 
+ 
+F. 
+Reporting:  Contractor shall provide to the City electronic notification of any 
+significant incidents or breaches that occur within the live, test environment or to the SaaS 
+Application within one day of discovery, and in subsequent monthly reports.  In the event of a 
+breach, Contractor shall follow the procedures set forth in Section 13.1.5 of the Agreement.   
+G. 
+ Availability of SaaS Application:  Contractor (or its hosting services contractor) 
+shall host the SaaS Application on computers owned or controlled by the Contractor (or its 
+contractor) and shall provide the City with access to both a production environment with SaaS 
+Application and data and a test environment with SaaS Application via Internet-access to use 
+according to the terms herein. 
+1. 
+Hosted SaaS Application Uptime: Other than Scheduled SaaS 
+Maintenance as outlined in Section III, emergency maintenance described below, Force Majeure 
+as described in the Agreement, or lack of Internet availability as described below, Contractor 
+shall provide uptime to the SaaS Application and SaaS Services to achieve a service level 
+availability of no less than 99.9%. 
+2. 
+Scheduled SaaS Maintenance:
+
+=== page 59 of 62 ===
+SFMTA P-648 (4-18) 
+C-2 
+ 
+CFP 
+ 
+n:\ptc\as2019\1000426\01354057.doc 
+2. 
+Response Time Service Level. 
+a. 
+Definition(s). 
+i. 
+Response Time:  The interval of time from when an Authorized 
+User requests, via the Services, a Transaction to when visual confirmation of Transaction 
+completion is received by the Authorized User.  For example, Response Time includes the period 
+of time representing the point at which an Authorized User enters and submits data to the 
+Services and the Services display a message to the Authorized User that the data has been saved. 
+ii. 
+Total Transactions:  The total of Transactions occurring in the 
+reporting month. 
+iii. 
+Transaction(s):  Services webpage loads, Services webpage 
+displays, and Authorized User Services requests. 
+b. 
+Service Level Standard.  Transactions shall have a Response Time of 
+two seconds or less 99.9% of the time each reporting month during the periods for which the 
+Services are available. 
+i. 
+Calculation.  ((Total Transactions – Total Transactions failing 
+Standard) / Total Transactions) * 100 = Percentage Response Time (as calculated by rounding to 
+the second decimal point). 
+ii. 
+Performance Credit. 
+(a) 
+Where Percentage Response Time is greater than 
+99.9%:  No Performance Credit will be due to City.  
+ 
+(b) 
+Where Percentage Response Time is equal to or less 
+than 99%:  City shall be due a Performance Credit in the amount of 5% of the Services Fees (as 
+calculated on a monthly basis for the reporting month) for each full 1% reduction in Percentage 
+Response Time. Such credits may not be redeemed for cash and shall not be cumulative beyond 
+a total of credits for one (1) week of Service Fees in any one (1) calendar month in any event. 
+Company will only apply a credit to the month in which the incident occurred. 
+ 
+(c) 
+Subsequent Failures to Maintain Service Level:  For 
+each similar failure in a subsequent month, the Performance Credit due for the particular SaaS 
+Severity Level shall remain the same. The City may deduct Performance Credits from monies 
+due to the Contractor. Such credits may not be redeemed for cash and shall not be cumulative 
+beyond a total of credits for one (1) week of Service Fees in any one (1) calendar month in any 
+event. Company will only apply a credit to the month in which the incident occurred.

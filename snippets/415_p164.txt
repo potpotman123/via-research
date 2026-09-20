@@ -1,0 +1,84 @@
+# source: raw/bleecker_drive/Utah Transit Authority/1230271.pdf
+# path: raw/bleecker_drive/Utah Transit Authority/1230271.pdf
+# hit page: 164 of 250
+# terms: River North Transit
+
+=== page 163 ===
+Salt Lake and Southern Davis Counties, and later amended on April 17, 2024, to include fuel costs.
+The proposed second amendment to Service Order 5 accommodates the increased service hours planned in
+UTA’s 2025 budget and is intended to ensure sufficient service capacity to meet growing customer demand
+and ridership in these key Microtransit zones.
+DISCUSSION:
+UTA staff is requesting approval of Amendment 2 to Service Order 5 of Contract 20-03399, not-to-exceed
+$400,347 From January 1, 2025 through December 31, 2025.
+This second amendment increases funding for UTA On Demand Microtransit service in South Davis County and
+Southern Salt Lake County zones for 12 months. These zones are experiencing significant growth, with
+ridership increasing 63% in South Davis County and 37% in Southern Salt Lake County from January to October
+2024.
+The additional funding will provide more service hours to meet growing demand, improving ride availability.
+The amendment also includes adding two vans to the Southern Salt Lake County zone and one van to the
+South Davis County zone to support this growth.
+CONTRACT SUMMARY:
+Contractor Name:
+River North Transit, LLC (DBA Via)
+Contract Number:
+20-03399-05-02
+Base Contract Effective Dates:
+January 1, 2024 - December 31, 2026
+Extended Contract Dates:
+N/A
+Existing Contract Value:
+Service Order 5 Only: $22,729,653
+Total Existing Contract Value: $55,603,305
+Amendment Amount:
+$400,437 (Service Order 5, Amendment 2)
+New/Total Contract Value:
+Service Order 5 Only: $23,130,090
+New Total Contract Value: $56,003,742
+Procurement Method:
+N/A
+Budget Authority:
+2025 Approved Operating Budget
+ALTERNATIVES:
+If UTA decides not to increase the service supply, fewer rides would be available to accommodate the growing
+demand, potentially impacting rider satisfaction and accessibility. Alternatively, UTA could explore other
+options outlined in the Five-Year Service Plan to address mobility needs and service gaps.
+FISCAL IMPACT:
+This amendment is consistent with UTA’s approved 2025 operating budget. The approved 2025 UTA operating
+budget allocates $1,710,000 to the South Davis zone and $5,928,000 to the Southern Salt Lake County zone.
+The total increased expected spend for this request is not-to-exceed $400,437 in 2025, with $284,105 to be
+allocated to the Southern Salt Lake County zone and $116,332 to be allocated to the South Davis zone, as
+Page 2 of 3
+163
+=== page 164 ===
+determined based on relative demand. These incremental increases are included in the approved operating
+budget totals.
+All service expenses are funded through the Innovative Mobility Solutions operating expense line item for
+contracted services in the annual Planning & Engagement budget (6550.050353).
+ATTACHMENTS:
+·
+Contract Modification: On-Demand Technologies and Innovative Mobility Services (River North Transit,
+LLC DBA Via) Contract Modification 05-02
+Page 3 of 3
+164
+=== page 165 ===
+Docusign Envelope ID: 8AA0B1AD-10C0-432B-BA48-19342E81FC43
+AMENDMENT NO. 2 TO
+SERVICE ORDER NO. 5 UNDER THE
+ON-DEMAND TECHNOLOGIES AND INNOVATIVE MOBILITY SERVICES
+MASTER SERVICES AGREEMENT
+UTA Contract No. 20-03399-5-2
+1. Amendment
+On January 1, 2024, each of River North Transit, LLC ("Via") and the Utah Transit Authority
+("UTA" or "Customer"), hereinafter collectively referred to as the "Parties," entered into Service
+Order No. 5 (the "Service Order") under UTA Contract No. 20-03399 (the "MSA") to establish
+an on-demand transit deployment ("Deployment") in South Davis County, Utah and Southern Salt
+Lake County, Utah, which was subsequently amended to increase the NTE to account for fuel
+charges on April 25, 2024.
+By Amendment No. 1, the Parties agreed to increase the NTE to include fueling costs
+By this Amendment No. 2, the Parties agree to amend the Service Order as follows:
+NTE Increase: the Not-to-Exceed fees, detailed in Appendix C of the Service Order, shall be
+increased by $400,437 to $23,130,090. This NTE will cover additional service hours for 2025.
+The two pricing tables in Appendix C shall be deleted in their entirety and replaced with the
+two tables below.
+165

@@ -1,0 +1,130 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/City of Philadelphia/DM0189_PA_Remix_Sole_Source_Streets_and_Explore_Only.pdf
+# pages_total: 9; hit_pages: [1, 8, 9]; included: [1, 8, 9]
+# context: Bleecker Drive folder: City of Philadelphia
+
+=== page 1 of 9 ===
+Remix Technologies, LLC
+Documentation of Unique Functionality and Features
+EXECUTIVE SUMMARY
+Remix is the only provider of integrated transportation planning software that can
+connect street design to transit planning, mobility management, and flexible data
+analysis, enabling transportation professions with the complete mobility toolkit.
+The software empowers 350+ local governments and over 11,000 transportation
+professionals to plan safer street infrastructure and better public transit. Remix
+Technologies, LLC brings decades of transportation expertise alongside
+accomplished software development experience to provide technology specifically
+designed for local government.
+With Remix’s flexible and robust data analysis capabilities, the Remix platform is
+the only transportation software specifically designed to help professionals
+integrate equity analysis into all workflows.  Remix is built on, and champions,
+open data standards, making us uniquely positioned to work within an agency’s
+existing processes, and minimizes an organization’s risk for vendor lock-in,
+maximizing the potential for collaboration. Remix is the first and only collaborative
+mapping platform made to be used by multiple departments across a diverse set
+of stakeholders and, unlike other technology offerings, is intentionally designed for
+community engagement.
+Remix is cloud-based and provides an unlimited number of user accounts within a
+customer organization, providing the flexibility to use Remix at home offices, team
+meetings, or stakeholder outreach, as well as access to the most-up-to-date
+version of Remix without hidden update fees or costly en-premise installation and
+maintenance. Remix is updated continuously based on customer feedback and
+research; in 2020, the product development team launched over 120 new features
+to the platform. Remix’s best-in-class software is paired with Remix’s expert
+customer success team, a team of consultants and transportation professionals to
+support the long-term success of our clients’ transportation programs and
+projects. Each customer organization is assigned a dedicated Customer Success
+Manager, ready to ensure an organization is thriving from the moment it becomes
+a customer. When an organization procures Remix, they don’t just procure
+technology — they procure transportation expertise, influence in software
+innovation, and access to Remix’s large network of planning professionals.
+1128 Howard St.
+ SF, CA 94103
+remix.com
+PROPRIETARY & CONFIDENTIAL
+
+=== page 8 of 9 ===
+Trusted by 350+
+local governments
+and 11,000
+transportation
+professionals
+Remix is a trusted
+technology company due
+the company’s joint
+expertise in software
+development and
+transportation planning
+and policy.
+REMIX’S CUSTOMER SUCCESS TEAM
+Each customer agency is assigned a dedicated Customer Success
+Manager to support account creation, training, continued education, and
+best practice sharing. Unique to the Remix Customer Success Team are:
+➔
+Expertise in the industry with prior experience in transportation planning,
+consulting, or urban studies
+➔
+Training and continued education for no additional charge
+TECHNICAL SUPPORT
+One agency license includes access for an unlimited number of users
+without the worry of maintenance, hosting, or software updates. Remix
+Technologies, LLC maintains the technology infrastructure and releases
+new features available immediately to active customers for no additional
+charge.
+REMIX’S PRODUCT PHILOSOPHY
+Remix builds continuously for improvements and new features in the
+product. Remix’s product roadmap is determined by customer needs. In
+the calendar year 2020, Remix released over 120 product updates, all
+available to existing customers without additional cost or on-premise
+installation.
+REMIX COMMUNITY
+Remix brings together a community of experts, advocates, and
+practitioners to provide guidance and share recommendations. Unique to
+the Remix Community are:
+➔
+Remix’s Advisory Committee comprised entirely of expert practitioners in
+the transportation sector. Read more about the committee here.
+➔
+Transpo Talk, a private Slack community for public sector transportation
+professionals --  initially created for the  industry to gather and navigate the
+COVID-19 crisis and recovery together, and now functions as a community
+of over 600 professionals sharing best practices and forming connections.
+8
+PROPRIETARY & CONFIDENTIAL
+
+=== page 9 of 9 ===
+COMPANY AWARDS
+Company awards include:
+➔
+2020 World Economic Forum Tech Pioneer - awarded to innovative
+organizations that the World Economic Forum considers “Technology
+Pioneers”
+➔
+2020 BloombergNEF Pioneer - awarded to “game changing” organizations
+working in energy, transportation, and sustainable spaces
+➔
+2016, 2017, 2018, 2019, 2020, and 2021 GovTech Top 100
+➔
+2021 StateUp Top 21 Digital Innovation Company
+Dillon Twombly
+Remix by Via
+10 Crosby St., Floor 2
+New York, NY 10013
+www.remix.com
+www.ridewithvia.com
+Chief Revenue Officer
+dillon@ridewithvia.com
+Confidentiality Notice:    Please note that this document and any and all supporting documentation,
+appendices and attachments contains proprietary, confidential, and trade
+secret information of Remix Technologies LLC (“Remix”), a subsidiary of Via
+Transportation Inc. (“Via”), and is exempt from disclosure under Title 65
+Pennsylvania Statutes (“Pa. Stat.”) § 67.101 et seq. (“Right-to-Know Law”),
+including but not limited to 65 Pa. Stat. § 67.708(b)(11) (as trade secret and
+confidential proprietary information) and 65 Pa. Stat. § 67.708(b)(26) (as
+information “pertaining to agency procurement or disposal of supplies, services
+or construction). We request that your office maintain the confidentiality of this
+document and provide Remix and Via with notice of any request for disclosure
+of this information prior to production by contacting
+compliance@ridewithvia.com.
+9
+PROPRIETARY & CONFIDENTIAL

@@ -1,0 +1,50 @@
+# source: raw/bleecker_drive/Maryland/View Contract_ eMaryland Marketplace Advantage (eMMA).pdf
+# path: raw/bleecker_drive/Maryland/View Contract_ eMaryland Marketplace Advantage (eMMA).pdf
+# hit page: 1 of 1
+# terms: Remix Technologies
+
+=== page 1 ===
+Contract Title
+Remix Transit and Street License
+Start Date
+7/8/2021
+Supplier
+REMIX TECHNOLOGIES LLC
+Expiration Date
+7/7/2024
+Contract Type
+Individual
+USD
+Contract ID
+CTR003993
+Alternate ID
+NA
+Procurement Officer / Buyer
+Tammy1 RUSSELL
+Email
+trussell@mdot.state.md.us
+Contract Amount
+1,075,000.00
+Linked Solicitation
+NA
+Statewide Contract
+NA
+BPW Date
+7/7/2021
+Federal Funding
+No
+BPW Item
+NA
+Green Contract
+NA
+VSBE Goal
+No
+Ownership Interest
+NA
+Contract Scope
+Organizations
+Maryland Transit Administration
+Commodities
+Live Plant and Animal Material and Accessories and Supplies
+Documents
+DHSHiringAgreement.pdf

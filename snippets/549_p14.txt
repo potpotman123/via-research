@@ -1,0 +1,131 @@
+# source: raw/bleecker_drive/Hall County/Micro-Transit-Feasibility-Study.pdf
+# path: raw/bleecker_drive/Hall County/Micro-Transit-Feasibility-Study.pdf
+# hit page: 14 of 24
+# terms: Via Mobility, Via+fleet
+
+=== page 13 ===
+RFP #39-021 – Microtransit Feasibility Study  
+Via Mobility, LLC 
+ 
+ 
+ 
+Page 11 
+ 
+ 
+Scenario 5) Upgrade the Dial-A-Ride and three underperforming 
+Gainesville Connection routes -- combination of 1) and 3) 
+This service would replace the Dial-A-Ride service and the three underperforming Gainesville 
+Connection routes, with a combined ridership of approximately 260 rides /day. The service 
+area is shown in the map below.  
+Microtransit vehicles required: 9-10 vehicles 
+Expected daily ridership: 250-400 rides / day
+=== page 14 ===
+RFP #39-021 – Microtransit Feasibility Study  
+Via Mobility, LLC 
+ 
+ 
+ 
+Page 12 
+ 
+ 
+Summary of Results 
+The recommended fleet sizes for current demand are shown in the table below. In addition, 
+Via simulated the impact of a two-fold increase in demand on vehicle requirements. Via’s 
+technology becomes more efficient as the density of ride requests increases, meaning trips 
+are more easily aggregated. We predict that double the existing demand could be served by 
+a ~60% larger fleet. 
+ 
+Scenario 
+Expected Trips / 
+day 
+Recommended 
+Microtransit 
+Fleet Size 
+High Demand (2x 
+existing demand) 
+Fleet Size 
+1) Upgrade DAR 
+40 - 70 
+5 - 6 
+7 - 8 
+2) Upgrade 6x GC routes 
+600 - 900 
+14 - 15  
+21 - 24 
+3) Upgrade 3x underperforming 
+GC routes 
+200 - 350 
+7 - 8 
+9 - 11 
+4) Combination of 1) and 2) - 
+Upgrade DAR and all GC routes 
+600 - 1000 
+16 - 18 
+24 - 28 
+5) Combination of 1) and 3) - 
+Upgrade DAR and 
+underperforming GC routes 
+250 - 400 
+9 - 10 
+14 - 16 
+Quality of Service 
+Microtransit will deliver high-quality service for Hall County residents, providing a level of 
+convenience comparable to private cars and taxis. We expect this to lead to a significant 
+increase in ridership and customer satisfaction.  
+ 
+For Dial-A-Ride customers, riders will no longer need to book trips a day or more in advance, 
+providing a level of freedom and flexibility which will be life-changing for some individuals 
+(riders in outer Hall County would be encouraged to book a seat in advance). Additionally, all 
+riders will benefit from short wait times, the ability to track their vehicle as it approaches 
+using their smartphone, automated payment processing, an intuitive booking process, and 
+the ability to quickly access customer support in a few clicks.
+=== page 15 ===
+RFP #39-021 – Microtransit Feasibility Study  
+Via Mobility, LLC 
+ 
+ 
+ 
+Page 13 
+ 
+ 
+The table below provides more details on the expected service quality for microtransit users 
+in Hall County. 
+Parameter 
+Quality of Service 
+Average Wait Time 
+(ETA) 
+15 minute average wait times (shorter for riders  travelling 
+within Gainesville city limits, and longer for riders living in 
+communities in the outer Hall County area). Via simulated a 
+service which reached over 98%+ riders within 35 - 40 
+minutes. 
+Average Walk Distance 
+Average walk of 300 - 500 feet (1-3 minutes) for ambulatory 
+passengers, with a maximum walk of 1,200 feet. Curb-to-curb 
+service is provided  for limited mobility and wheelchair 
+passengers. 
+Average Ride Duration 
+● Core Zone: 5-15 minutes 
+● Outer Zone: 10-25 minutes 
+Accessibility 
+Via provides a fully-accessible service. Each scenario includes 
+~20% wheelchair accessible vehicles (WAVs) which will be 
+prioritized for riders who require them.  
+ 
+Because improvements in convenience and quality of service can draw more riders into the 
+transit network, the microtransit system may reach capacity during peak periods. Should the 
+service prove so popular that users are turned away when requesting a ride, Via recommends 
+a number of short-term solutions such as pricing incentives, booking eligibility restrictions, 
+and other tools that ensure those who need the service most are prioritized, and the service 
+is scaled in a cost-efficient way.  
+Microtransit Operating Model 
+Hall County seeks to understand what operating model would best suit the County’s current 
+$1.5M budget. Via has considered three alternatives: 
+1. Transportation as a Service (TaaS): In this model, the microtransit vendor provides 
+a turnkey solution that includes microtransit technology, plus drivers, vehicles, and 
+operations management. 
+2. Transportation as a Service (TaaS) -- using Hall County vehicles: As Hall County 
+already has an existing fleet of vehicles, the microtransit vendor could operate a TaaS 
+service using Hall County vehicles. For this scenario, the vendor would bear operating 
+costs associated with the vehicles, including maintenance, fuel, cleaning, and 
+registration.

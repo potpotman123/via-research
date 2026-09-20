@@ -1,0 +1,209 @@
+# source_url: https://douglascounty.legistar1.com/douglascounty/attachments/b385dd50-f08d-4727-94a5-dbdf6589f64e.pdf
+# path: raw/cache/5519ad3006aac361693ed262424c38b0419f453b.pdf
+# pages_total: 27; hit_pages: [1, 2, 3, 6, 9, 11, 14, 17, 20, 22, 26]; included: [1, 2, 3, 14, 20]
+# context: legistar client=douglascounty; matter 3406 (2025-03-13): Contract for Service With River North Transit LLC for Microtransit Services in the Amount of $2,901,410.00.
+
+=== page 1 of 27 ===
+100 Third Street | Castle Rock, Colorado 80104 | 303.660.7460 | www.douglas.co.us 
+Contract for Services Staff Report 
+Date: 
+To: 
+Through: 
+From: 
+CC: 
+Subject: 
+March 19, 2025 
+Douglas County Board of County Commissioners 
+Douglas J. DeBord, County Manager 
+Jennifer L. Eby, AICP, Director of Community Services 
+Ryan Arthur, Community Programs Coordinator 
+Rand M. Clark, CCAP, NCRT, Assistant Director of Community Services 
+Janet Herman, P.E. Public Works Director 
+Zeke Lynch, P.E. Assistant Public Works Director Engineering  
+Contract for service with River North Transit LLC for microtransit services in the 
+amount of $2,901,410 
+Board of County Commissioners’ Business Meeting 
+March 25, 2025 @ 1:30 p.m. 
+I. EXECUTIVE SUMMARY
+Douglas County is seeking to provide microtransit services in the Highlands Ranch area. Staff has
+prepared a Contract for Services between Douglas County and River North LLC, a subsidiary of Via
+Transportation Inc. (Via), for microtransit services in the amount of $2,901,410.
+II. REQUEST
+Staff requests approval of the Contract for Services with River North LLC in the amount of
+$2,901,410.
+III. BACKGROUND
+In 2025 the Board of County Commissioners (BCC) budgeted $3,000,000 in Capital Improvement
+Plan funds to be designated for providing microtransit services in Douglas County. Staff was
+directed to secure a bid for service through a Request for Proposal (RFP) process which was
+initiated on January 24, 2025. Via responded to the RFP and proposed a microtransit service at an
+annual estimated cost of $2,901,410. During a work session on March 11, 2025, the BCC directed
+staff to prepare a contract for services with Via.
+IV. DISCUSSION
+Via is the service provider of microtransit in Lone Tree. Their turnkey service solution and existing
+local partnerships provide a model for expansion into the Highlands Ranch area. Via has proposed
+an all-inclusive solution for Highlands Ranch that includes their end-to-end software platform,
+robust service design, planning and mobilization services, driver training, a call center for
+multilingual customer service, vehicles and maintenance, marketing, and community engagement.
+Via recommends launching microtransit service throughout all of Highlands Ranch with trips into
+and out of Lone Tree.  The proposed hours of operation would be:
+•
+Monday thru Thursday from 7:00 a.m. and 7:00 p.m.
+•
+Friday from 7:00 a.m. to 10:00 p.m.
+
+=== page 2 of 27 ===
+•
+Saturday from 10:00 a.m. to 10:00 p.m.
+To accommodate this service Via plans to have up to 15 vehicles available at peak hours and 
+anticipates a ridership capacity between 2,200 and 2,400 rides per week. Additional service 
+requirements include:  
+•
+Mobile app and phone-based system to book a ride
+•
+ADA accessible vehicles
+•
+Connections to commercial areas along Highlands Ranch Parkway, County Line Road, and
+the Park Meadows Retail Resort for both employment and shopping
+•
+Connections to local schools, parks, and recreation centers
+•
+Connections to local hospitals and medical centers
+•
+Connections to RTD bus and light rail; including, the County Line and Littleton/Mineral
+light rail stations
+•
+Access to real-time trip data to make system performance and improvement decisions
+The proposed microtransit service will be scheduled to launch in the late Spring of 2025 and will 
+be available to everyone.  
+V. RECOMMENDED ACTION
+The County Attorney’s Office has reviewed the contract for services, and it complies with all State
+and local requirements. Staff recommends approval of the Contract for Services with River North
+LLC in the amount of $2,901,410.
+ATTACHMENTS 
+PAGE 
+Public Contract for Services  ......................................................................................................................... 3 
+Approval of PCS for Highlands Ranch Link 
+Board of County Commissioners Business Meeting 3/25/2025 
+Page 2 of 27
+
+=== page 3 of 27 ===
+PUBLIC CONTRACT FOR SERVICES 
+THIS PUBLIC CONTRACT FOR SERVICES (“Contract”) is made and entered into 
+this ____day, of ____________, 2025, by and between the BOARD OF COUNTY 
+COMMISSIONERS OF THE COUNTY OF DOUGLAS, STATE OF COLORADO (the 
+“County”), and RIVER NORTH TRANSIT LLC authorized to do business in Colorado (the 
+“Contractor”). The County and the Contractor are hereinafter collectively referred to as the 
+“Parties” and individually to as a “Party.” 
+RECITALS 
+WHEREAS, the County is undertaking certain activities for microtransit services in 
+Douglas County; and 
+WHEREAS, the County desires to engage the Contractor to render certain professional 
+services and assistance in connection with such undertakings of the County; and 
+WHEREAS, the Contractor has the ability to assist the County through its professional 
+expertise, knowledge, and experience and is ready, willing and able to provide such services, 
+subject to the conditions hereinafter set forth. 
+NOW, THEREFORE, for and in consideration of the premises and other good and 
+valuable consideration, the Parties agree as follows: 
+1.
+LINE OF AUTHORITY: Ryan Arthur, Community Programs Coordinator (the
+“Authorized Representative”), is designated as Authorized Representative of the County for the 
+purpose of administering, coordinating and approving the work performed by the Contractor under 
+this Contract.  
+2.
+SCOPE OF SERVICES: All services described in Exhibit A, attached hereto and
+incorporated herein, shall be performed by the Contractor. 
+The County may, from time to time, request changes to the scope of services to be 
+performed hereunder. Such changes, including any increase or decrease in the amount of the 
+Contractor’s compensation, which are mutually agreed upon between the County and the 
+Contractor, shall be in writing and shall become part of this Contract upon execution. 
+The Contractor agrees to diligently and professionally perform all the services described 
+herein in a manner satisfactory to the Authorized Representative. It is also understood and agreed 
+that the Contractor shall not, in performing services hereunder, undertake any action or activity 
+prohibited by the terms of any lease, permit, license or other agreement in effect during the Term 
+hereof between the Contractor and the County for the use and occupancy by the Contractor of any 
+County facilities or space.  
+Approval of PCS for Highlands Ranch Link 
+Board of County Commissioners Business Meeting 3/25/2025 
+Page 3 of 27
+
+=== page 14 of 27 ===
+• Phone: At all times in which the microtransit service is operating, the Contractor shall provide 
+access to microtransit passengers without a smartphone through a dispatch phone number. 
+ 
+• Website: The Contractor shall provide a website to showcase the service, communicate any 
+service changes, and provide a reservation option for those who may not be able to use the App or 
+call-in options to request microtransit trips.  
+ 
+• Rider Fare: The rider fare will be $0. During the duration of the Project, rider fare may be 
+amended by mutual agreement between the parties. 
+ 
+• Rider Payment: The Contractor shall ensure acceptance of Rider payment through the app via 
+credit cards and pre-paid debit cards.  
+ 
+• Vehicle Fleet: The Contractor shall provide the necessary vehicles to operate the microtransit 
+service and be responsible for vehicle fueling, storage, appropriate licensing, preventative 
+maintenance, cleaning twice weekly inside and out, and unscheduled maintenance of said vehicles, 
+according to industry norms and best practices. Vehicles must be no more than four years old and 
+must be set up for passenger service. Conversions from freight vehicles will not be allowed. For 
+safety, vehicles shall be outfitted with GPS, AVL, and CCTV for vehicle routing, vehicle tracking, 
+and vehicle monitoring/recording onboard activities. The Contractor shall propose additional 
+safety measures that they have found successful in other similar programs.  
+ 
+The cost of the fleet should reflect the in-service and spare vehicles necessary to meet service 
+demands. Initial service offering is planned to include a fleet of gasoline powered vehicles. The 
+Contractor shall highlight the pros, cons, and additional considerations of alternate fuel and electric 
+vehicles. 
+ 
+The Contractor’s vehicle fleet shall include a necessary number of branded, licensed, and insured 
+vehicles, including Wheelchair Accessible Vehicles (WAVs), to provide adequate service to the 
+public. The Contractor’s vehicle fleet shall be made available to independent contractor Driver 
+Partners who will gain access to these vehicles after registering on the Platform. If the Contractor’s 
+vehicle fleet is not sufficient to meet service requirements for any reason, the Contractor has the 
+flexibility to (1) supplement the fleet with a temporary fleet that would include other makes and 
+models, and/or (2) allow for Driver Partners to drive their own personal vehicles, to be deployed 
+for temporary short-term periods, as necessary, to increase the supply of vehicle hours. If Driver 
+Partners are to drive their own personal vehicles, the Contractor will provide magnets for personal 
+vehicles to indicate to the public that these drivers are a part of the Project. The magnets will have 
+similar branding used for the regular fleet to place on the exterior and both sides of personal 
+vehicles. 
+   
+Approval of PCS for Highlands Ranch Link 
+Board of County Commissioners Business Meeting 3/25/2025 
+Page 14 of 27
+
+=== page 20 of 27 ===
+EXHIBIT B 
+Method of Payment 
+ 
+The Fees for the Service are outlined below. The Contractor will require the County to issue an 
+upfront fee, ongoing monthly fees based on vehicle hours. All regulatory fees related to the service 
+will be charged as a pass-through cost. The Project shall include a fleet of vehicles as described in 
+Exhibit A, Service Parameters, subject to extension by mutual agreement of the parties on terms 
+to be agreed, including any change in fees. The total Contract amount shall not exceed the two 
+million nine hundred one thousand four hundred ten dollars and zero cents ($2,901,410.00) 
+Contract Section 4 Maximum Contract Expenditure for the 12-month Contract Section 5 Term.   
+  
+ 
+ 
+Fees assume Launch Date occurs within four months of contract signing. If the Launch Date is 
+delayed beyond four months of contract signing, the parties have the option to renegotiate the fees. 
+Ongoing Invoice Fees will be billed payable in advance on the first of the month and as further 
+specified below.  
+ 
+Fixed Upfront Costs  
+The County shall pay to the Contractor a one-time non-refundable installation fee of one hundred 
+sixty-four thousand dollars and zero cents ($164,000.00), which will be payable in full upon 
+signing of the Contract. In addition to technology localization costs, installation fee includes 
+Wheelchair Access Vehicle (WAV) retrofits at a cost of seventeen thousand dollars and zero cents 
+($17,000.00) each and vehicle wraps for the fleet at a cost of three thousand dollars and zero cents 
+($3,000.00) each. If the County requires additional WAV retrofits or vehicle wraps, the Contractor 
+will bill the County as incurred.  
+ 
+ 
+Ongoing Invoice Fees  
+The County shall be responsible for monthly ongoing fees of seventy dollars and nineteen cents 
+($70.19) per vehicle hour (the “Monthly Subscription Fees”). A vehicle hour is defined as each 
+hour during which a driver is paid on the Via platform. Notwithstanding the number of vehicle 
+Approval of PCS for Highlands Ranch Link 
+Board of County Commissioners Business Meeting 3/25/2025 
+Page 20 of 27

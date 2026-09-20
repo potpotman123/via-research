@@ -1,0 +1,199 @@
+# source: raw/bleecker_drive/Washington DC/CW117882-Base Period-Contract Award-DCKA-2024-S-0049_Street_Design_Software_NAKO_Award_Contract.pdf
+# path: raw/bleecker_drive/Washington DC/CW117882-Base Period-Contract Award-DCKA-2024-S-0049_Street_Design_Software_NAKO_Award_Contract.pdf
+# hit page: 1 of 35
+# terms: Remix Technologies
+
+=== page 1 ===
+AWARD/CONTRACT 
+1. Reserved for later use
+Page of Pages 
+1 
+33 
+2.  Contract Number
+3. Effective Date
+4. Requisition/Purchase Request/Project No. 
+DCKA-2024-S-0049 
+See Block 20C 
+PO701762 
+5. Issued By:
+Code 
+6. Administered by (If other than line 5)
+Office of the Contracting and Procurement 
+200 I Street, SE, 5th Floor 
+Washington, DC 20003 
+District Department of Transportation 
+250 M Street SE 
+Washington DC 20003 
+7. Name and Address of Contractor (No. Street, city, county, state and Zip Code)
+Remix Technologies LLC 
+10 Crosby Street, Floor 2 
+New York, NY 10013 
+8. Delivery 
+FOB Origin
+Other 
+9. Discount for prompt payment: 
+10. Submit invoices to the Address shown in Section 7
+(2 copies unless otherwise specified)
+Duns No. 
+TIN 
+11. Ship to/Mark For 
+Code 
+12. Payment will be made by
+Code 
+13.  Remit Address:
+Same as 7
+14. Accounting and Appropriation Data 
+ENCUMBRANCE CODE: 
+15A. Item 
+15B. Supplies/Services 
+15C. Qty. 
+15D. Unit 
+15E. Unit Price 
+15F. Amount 
+SEE SCHEDULE B on PAGE 2 
+Cloud-Based Software for Street Design Concepts 
+(SEE SCHEDULE B on PAGE 2) 
+$39,300.00 
+Total Amount of Contract Shall Not Exceed  
+$39,300.00 
+16. Table of Contents
+(X) 
+Section 
+Description 
+Page 
+(X) 
+Section 
+Description 
+Page 
+PART I – THE SCHEDULE 
+PART II – CONTRACT CLAUSES  
+X 
+1 
+Award/Contract Form 
+1 
+I 
+Contract Clauses  
+X 
+2 
+Price Schedule 
+2 
+PART III – LIST OF DOCUMENTS, EXHIBITS AND OTHER 
+ATTACHMENTS 
+X 
+3 
+Services-Specifications/Work Statement 
+4 
+9 
+List of Attachments 
+13 
+X 
+4 
+Packing and Marking 
+7 
+X 
+5 
+Inspection and Acceptance 
+7 
+Representations, 
+Certifications 
+and 
+Other 
+Statements of Offerors 
+X 
+6 
+Contract Term 
+7 
+X 
+7 
+Contract Administration data 
+10 
+Instructions, conditions & notices to Offerors 
+X 
+8 
+Special Contract Requirements 
+11 
+Evaluation factors for award 
+Contracting Officer will complete Item 17 or 18 as applicable 
+17. 
+CONTRACTOR’S NEGOTIATED AGREEMENT 
+(Contractor is required to sign this document and return (2) copies to issuing office.) 
+Contractor agrees to furnish and deliver all items, perform all the services set forth or 
+otherwise identified above and on any continuation sheets, for the consideration stated 
+herein.  The rights and obligations of the parties to this Agreement shall be subject to 
+and governed by the following documents: (a) this award/contract, (b) the solicitation, 
+as amended, and (c) such provisions, representations, certifications, and specifications, 
+as are attached or incorporated by reference herein.  (Attachments are listed herein.) 
+18. 
+ AWARD (Contractor is not required to sign this document.)  Your 
+offer on Solicitation Number including the additions or changes made by 
+which additions or changes are set forth in full above, is hereby accepted as to 
+the items listed in B.3 and on any continuation sheets.  This award 
+consummates the contract which consists of the following documents: (a) this 
+award/contract, and (b) your offer.  No further contractual document is 
+necessary. 
+19A. Name and Title of Signer (Type or print) 
+20A. Name of Contracting Officer 
+Louis Brown  
+Contracting Officer 
+19B.  
+(Signature of person authorized to sign) 
+19C. Date Signed 
+20B. District of Columbia 
+(Signature of Contracting Officer) 
+20C. Date Signed 
+05/23/2023
+DocuSign Envelope ID: 31E2C968-79DB-4CA2-AA30-30418630AA14
+5/23/2024
+Vice President
+Dillon Twombly
+=== page 2 ===
+SECTION B:  CONTRACT TYPE, SUPPLIES OR SERVICES AND 
+PRICE/COST 
+B.1
+The Office of Contracting and Procurement (OCP), on behalf of the District Department of 
+Transportation (DDOT), seeks a Contractor to provide a cloud-based multimodal street design 
+software for use by engineering and non-technical professionals, that combines bus route 
+priority, cycling infrastructure, pedestrian initiatives, geospatial analysis, and stakeholder 
+engagement, to design safer streets and to manage shared mobility to support the District’s 
+Vision Zero initiative to end traffic fatalities by 2025.  The software must create corridor-level 
+street designs that integrate planning-level cross sections to aid the design of safer streets. 
+B.2
+The District contemplates award of a Fixed Firm Price in accordance with Title 27 DCMR 
+Section 2402.1 
+B.3
+AGGREGATE GROUP OR INDIVIDUAL ITEM 
+Award, if made, will be to a single bidder in the aggregate for those groups of items indicated 
+by “Aggregate Award Group” herein. Bidder must quote unit prices on each item within each 
+group to receive consideration. Award, if made, on all other items will be on an individual item 
+basis. 
+B.4
+ PRICE SCHEDULE 
+B.4.1  BASE YEAR (May 22, 2024 – September 30, 2024)
+B.4.2  OPTION YEAR 1 (October 1, 2024 - September 30, 2025)
+Item 
+No. 
+Description 
+Qty 
+Unit Price 
+Extended 
+Price 
+0001 Remix Streets + Explore Platform License 
+1 
+$39,300.00 
+$39,300.00 
+TOTAL BASE YEAR B.4.1 
+$39,300.00 
+Item 
+No. 
+Description 
+Qty 
+Unit Price 
+Extended 
+Price 
+0001 Remix Streets + Explore Platform License 
+1 
+$109,500.00 
+$109,500.00 
+TOTAL OPTION YEAR 1 B.4.2 
+$109,500.00 
+DocuSign Envelope ID: 31E2C968-79DB-4CA2-AA30-30418630AA14

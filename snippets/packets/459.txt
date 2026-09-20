@@ -1,0 +1,14 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Metro Micro (LA)/Presentation.pdf
+# pages_total: 11; hit_pages: [3]; included: [3]
+# context: Bleecker Drive folder: Metro Micro (LA)
+
+=== page 3 of 11 ===
+METRO MICRO SERVICES
+ISSUE
+The previous MicroTransit Pilot Program – Part B was awarded in 2020 and expired 
+on March 31, 2025. 
+On March 16, 2025, Metro Micro (formerly MicroTransit) service operations 
+transitioned to new contractors; Crosby Street Transit LLC (aka Via) as the 
+operations contractor and Spare Labs, Inc. as the software provider under a new
+operating model.

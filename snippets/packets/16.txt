@@ -1,0 +1,18 @@
+# source_url: https://metro.legistar1.com/metro/attachments/d2676bbc-160c-4ed8-aed6-b007ff72dba9.pdf
+# path: raw/cache/df2720e831856ed08475f55d52766745303cacfb.pdf
+# pages_total: 8; hit_pages: [7]; included: [7]
+# context: legistar client=metro; matter 2020-0788 (2020-11-17): AUTHORIZE the Chief Executive Officer to Execute Amendment No. 7 to Contract No. PS46292001 with RideCo, Inc. to provide an expanded MicroTransit Operations to three additional Service Zones (North Hollywood/Burbank, El Monte and Compton/Artesia) for two years in an amount of $5,970,870 increasing t
+
+=== page 7 of 8 ===
+Expansion with MOD
+
+In two years, + 250,000 on-demand trips were provided under the Mobility on Demand research pilot
+
+Project provided key insights to inform service delivery model for Metro Micro
+
+Service zones are: El Monte, Compton/Artesia and North Hollywood/Burbank 
+
+Contract modification at $5,970,870 to RideCo will allow seemless transition to Metro Micro
+
+2 years at a 12 hour service span aligns with soft launch of Micro zones 
+7

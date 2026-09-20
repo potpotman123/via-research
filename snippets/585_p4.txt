@@ -1,0 +1,114 @@
+# source: raw/bleecker_drive/City of Largo/2329025.pdf
+# path: raw/bleecker_drive/City of Largo/2329025.pdf
+# hit page: 4 of 9
+# terms: Via+vehicles
+
+=== page 3 ===
+Question:
+On average, how many landfill dropoffs do the City’s collection vehicles perform a day? How long do the City’s 
+dropoffs typically take?
+Answer:  
+Residential trash 1-2 loads, Residential recycling 1 load, Residential Rearload 1 load, Residential Claw 3-4 loads, 
+Commercial Frontload trash 2-3 loads, Commercial Frontload recycling 1 load and Rolloff 6-9 loads.  In general 
+tipping times can take between 10-30 minutes.
+Page 7, RFP Text:
+Geographic Information System (GIS) integration with the City of Largo’s Esri platform is required. Open 
+Representational State Transfer (REST) services integration will allow for sharing and integration of map data 
+which is the preferred method of integration;
+Question:
+Can the City provide more information on the functionalities it seeks through integration with Esri? Are there 
+specific data fields the City intends to integrate within the contemplated Waste Management platform?
+Answer:
+We are looking to integrate with ESRI so that the Solid Waste vehicles will be on a map layer that our PW Fleet 
+Division can access for work orders within our Asset Management software. Also, if your software allows for ESRI
+integration, we can publish map layers such as road closures to the route planning software. If your software 
+solution allows for integration, we would need a webservice published out that we can access.
+Page 16, RFP Text:
+How the system will integrate with or replace existing systems?
+Question:
+Can the City specify the systems contemplated by these requirements? If the proposed software includes 
+functionalities currently provided by the City’s existing systems, will the Largo consider relaxing its integration 
+requirements?
+Answer:
+We are looking for your proposed solution to have the capability to integrate with DTS VUEWorks, our Asset 
+management software. If your proposed software solution can fit the business needs required by our Solid 
+Waste Division, then we MAY be able to relax the integration requirements.
+Page 17, RFP Text:
+Describe any other features or offerings that are available that are not described herein (i.e. billing integration, 
+routing of other City vehicles, etc..
+Question:
+What are the other fleets the City would be interested in integrating within a ground transportation services 
+management platform?
+Answer:  
+The City would look at Street Sweepers and Tree Crews.
+=== page 4 ===
+Page 16, RFP Text:
+Describe hardware required, including whether equipment is hardwired into the trucks and any mounts, cases, or 
+other systems required
+Question:
+Can the City provide information regarding any data collection hardware currently installed on its  vehicles? Do 
+the City’s vehicles have hardware such as scales to weigh collection, cameras, or any other data collection 
+mechanisms?  Will there be power sources available in the City’s collection vehicles? 
+Answer:  
+All Residential trash and recycling trucks have RFID readers.  All trucks have Samsung E8 tablets with mounts in 
+the trucks.  There are no scales, cameras (other than the tablets) or other devices other than stated.  Power is 
+currently supplied by the truck battery for charging purposes.
+Page 5, RFP Text:
+The work is fifty (50) percent permanently scheduled and fifty (50) percent call in.
+Question:
+What is the City’s current process for accepting and routing call-in pickup requests? What is the typical volume of
+call-in requests per day? Are these requests typically geographically dispersed or concentrated?
+Answer:  
+The City accepts Roll off work via phone or e-mail, work orders are created and given to the Supervisor for 
+manual geographic routing.  Call in requests range from 14-18 per day.  
+Page 16, RFP Text:
+How the proposer's software responds to new data inputs and timelines for designing and developing new 
+software and associated reporting tools;
+Question:
+Can the City clarify the “new data inputs” contemplated herein?
+Answer:  
+The City didn’t have any new data inputs in mind.  The idea behind the item was to understand what the 
+proposers development growth plan is. 
+Page 23, RFP Text:
+User interface for customer service staff with time information, including real-time customer pickups
+Question:
+Can the City provide information on the most frequent customer service issues it faces? What is the City’s 
+current process for fulfilling customer service requests?
+Answer:  
+The most frequent issues are related to missed pick ups.  Requests result in work orders that are dispatched or 
+investigated by Supervisors.
+=== page 5 ===
+Page 23, RFP Text:
+Utilize geo-fencing, including monitoring location, establish arrival/departures, etc. within user-defined fences
+Question:
+Can the City clarify the purpose of this functionality?
+Answer:  
+To determine how long a truck was at a geo-fenced location.  
+Page 22, RFP Text:
+Vehicle safety data points recorded
+Question:
+Does the City currently have any tools for assessing the safety of its vehicles? Are there any safety metrics not 
+currently being measured that the City would like to start reporting?
+Answer:  The City can currently monitor speed and would also like to be able to measure g-force.
+Page 23, RFP Text:
+Work completion functionality with tracking management of field exceptions
+Question:
+What are the primary field exceptions you currently encounter? What is the current process for handling them?
+Answer:  
+The primary exceptions are blocked stops, over full containers and contaminated containers.  Supervisors 
+typically investigate these issues.
+Question:
+What is the current hardware being used in the trucks to see their routes?
+Answer:  
+Answered above
+Question:
+Are the current routes well documented?
+Answer:  
+Yes
+Question:
+How many different territories are there to manage?
+Answer:  
+One, the City of Largo
+Question:
+With being a Florida based company, we would prefer doing a mixture of onsite and virtual training. Based on 
+the schedules of drivers, call center, and internal management staff what type of commitment could they give to

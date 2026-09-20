@@ -1,0 +1,143 @@
+# source: https://legistar.granicus.com/huntsvilleal/attachments/9800841b-3948-44e2-9e23-ef2ab1007faf.pdf
+# path: raw/cache/bbbdb020c072a8b6124814a71fc2748079790ca2.pdf
+# hit page: 18 of 37
+# terms: RideCo
+
+=== page 17 ===
+RIDECO SUBSCRIPTION AND SERVICES AGREEMENT
+Software License & Support Fee (payable monthly after implementation & go-live)
+Core technology modules and
+automatic updates
+Passenger App, Driver App, Web App, Solver-algorithm based routing.
+Automated continuous schedule & dispatch optimization, Operations
+enter dashboards, Customer Profile Manager; Cloud hosting: Regula
+loud software updates to core modules for features enhancement
+Analytics and reporting
+NTD reports, daily/weekly/monthly KPI reports, data dashboard
+Service level agreement and
+ommitted response & resolution times based on issue type ar
+99.9%+ uptime
+surance of 99.9%+ uptime of apps & operations center dashboard
+erformance optimization an
+egular meetings to review KP/s, data, & goals; discuss operation
+est practices suppor
+erformance improvements, and industry best practice
+Core Software Fee
+$ 72,000 / year For up to 28 vehicles in peak service.
+Optional fees for adding more vehicles or zones to the scope of work
+Incremental Per-Vehicle Fee
+$250
+Rate ($) per vehicle / month
+Incremental Per- new zone Fee $4000 one-time fee per additional new zone
+Notes to software license and support fees:
+The core software license & support fees are compliant with the requirements of the project, and
+includes RideCo's patented continuous optimization and trip negotiation engine.
+Incremental per-vehicle-fee is for adding more licenses beyond the 28 vehicles used in peak service
+during any specific monthly billing period.
+SMS notifications included in licensing fees.
+- Third-party payment processors (e.g., credit card related, including charge backs) are passed through
+Booking application licenses for riders and dispatchers do not have a limit.
+Three (3) Zendesk (Customer Service Software) licenses included in the price for support staff use.
+Three (3) Performance dashboard licenses included in the price for executive use.
+Three (3) Rides Profile Manager (RPM) licenses included in the price for eligibility managers' use.
+Value-Added Software Optlons
+Option: Productivity Booster
+Features
+Driver behavior alerts dashboard to optimize driver performance.
+Breaks with dynamic location assignments to reduce deadheading
+and enhance operator satisfaction: EV charging breaks & locations
+are dynamically scheduled.
+• Driver shifts & runcut optimization to match scheduled vehicle
+supply to trip demand based on time of day and day of week.
+-
+Frequency variation to increase pooling efficiency and productivity
+for low-density zones or sub-zone within a larger zone.
+Optional advanced productivity booster features
+i vehicle/ month unique to RideCo's product offering
+Option: Eligibility Management
+Portall
+Option: IVR
+Option: VolP + Panic button
+$ 5,000/year
+$0.02/minute
+$ 4,440/year
+Annual fee subject to number of paratransit user
+isibility staff & document volum
+Pricing will be determined based on volume of call-
+out as well as in-bound booking requests.
+Allows dispatch to driver communication.
+RideCo Confidential
+Page 15 of 34
+=== page 18 ===
+RIDECO SUBSCRIPTION AND SERVICES AGREEMENT
+Other terms:
+The pricing and terms stated in this proposal are valid for 90 days from the proposal transmittal date.
+• Professional services and on-site support (that are outside the scope of the services specified in this
+agreement) offered at a rate of $120/hour in addition to pre-approved travel costs.
+- All prices are in U.S. dollars and exclude taxes if applicable.
+Summary of Fees (incorporates all the above iters)
+Implementation
+Software License & Support
+Year 1 Cost
+Year 2 Cost
+Year 3 Cost
+Year 4 Cost
+Year 5 Cost
+Option Year 6 Cost
+Option Year 7 Cost
+Total 7 Years Cost
+$ 34,000
+$ 72,000
+$ 106,000
+$ 72,000
+$ 72,000
+$ 72,000
+$ 72,000
+$ 72,000
+$ 72,000
+$ 538,000
+One-time fee as specified above
+12 months of fees as specified above
+Total project cost based on statement of work
+RideCo Confidential
+Page 16 of 34
+=== page 19 ===
+RIDECO SUBSCRIPTION AND SERVICES AGREEMENT
+1.
+SCHEDULE "B"
+SERVICE LEVEL AGREEMENT
+APPROVED EQUIPMENT / THIRD PARTY SOFTWARE
+Driver Mobile App Requirements:
+• Android Device running the most recent Android OS major version release of and one
+previous major version release with Google Play Services
+• OPS Enabled Phone
+High speed (4G recommended) data plan with a minimum of 2GB/month
+Minimum screen resolution 800x480
+• Minimum recommended CPU: Mid-to-High range performance CPU based on
+ARMv8-A 64-bit Architecture
+• 2GB RAM
+• 1GB internal storage
+Passenger Mobile App Requirements:
+• iPhone running the most recent iOS major version release and two previous major version
+releases, or Android device running the most recent Android OS major version release of and
+two previous major version releases with Google
+Play Services
+Minimum screen resolution 800x480
+Minimum recommended CPU: dual-core 1.5GHIz
+IGB RAM
+• 200MB internal storage
+Browser requirements for operations dashboards:
+• Google Chrome (the most recent major version release and one previous major version
+release)
+• Firefox (the most recent major version release and one previous major version release)
+• Safiri (the most recent major version release and one previous major version release)
+2.
+2.1
+MAINTENANCE AND SUPPORT SERVICES
+Maintenance Services: RideCo shall provide the following maintenance services to Customer:
+Supply or deploy corrections to the Software as required to correct errors, defects,
+malfunctions, and deficiencies, if any, in the Sofiware; and
+Supply or deploy improvements, extensions, upgrades, enhancements and other changes
+to the Sofiware developed from time to time by RideCo.
+RideCo Confidential
+Page 17 of 34

@@ -1,0 +1,123 @@
+# source_url: https://legistar.granicus.com/ManhattanBeach/attachments/9c2e8bf5-afb7-489a-8249-4115292c56c1.pdf
+# path: raw/cache/245bff4775713211f25879c0e825d0c38e05dbe6.pdf
+# pages_total: 11; hit_pages: [1, 6, 9, 10]; included: [1, 6, 9, 10]
+# context: legistar client=manhattanbeach; matter RES 17-0105 (2017-06-05): Update on Downtowner Pilot Program and Request for Program Extension (Economic Vitality Manager). ADOPT RESOLUTION NO. 17-0105 AND PROVIDE DIRECTION
+
+=== page 1 of 11 ===
+LICENSE AGREEMENT
+SHUTTLE SERVICE - PILOT PROGRAM
+THIS AGREEMENT is made this October (0*, 2016 ("Agreement Date") between the
+CITY OF MANHATTAN BEACH, a municipal corporation ("City"), and ALLSOP AND
+KNAPP, LLC, a California limited liability company, dba THE DOWNTOWNER ("Operator").
+RECITALS
+A.
+Operator is engaged in the business of providing free transportation service to the publi
+in Manhattan Beach ("Shuttle Service") utilizing a ride-hailing mobile application similar to one
+used by Uber and Lyft and using six-passenger electric shuttle buses.
+B.
+City is the owner of the Metlox Parking Garage located at 1200 Morningside Drive in
+Manhattan Beach ("Metlox Garage").
+C.
+Operator seeks to charge and park its vehicles at the Metlox Garage, including the right to
+install electrical charging stations.
+D.
+Operator and City agree to enter into a six-month Pilot Program whereby, in exchange for
+the right to park and charge its vehicles at the Metlox Garage, Operator is willing to agree to
+certain parameters for the Shuttle Service, and agrees to authorize City to control all of the
+advertising on one of the vehicles, as more particularly set forth herein.
+Under the terms of the Pilot Program Operator will only operate the Shuttle Service in the
+City of Manhattan Beach within the following boundaries: Pacific Avenue (East), City of El
+Segundo limits (North), City of Hermosa Beach (South) and Ocean Drive (West).
+F.
+Concurrently herewith, Operator and City are entering into a license agreement
+("Charging Station License Agreement"), whereby City is authorizing Operator to install three
+electric vehicle charging stations ("Charging Stations") in the Metlox Garage, subject to the
+terms and conditions thereof.
+NOW, THEREFORE, City and Operator agree as follows:
+1.
+License Granted
+For the consideration provided for herein and subject to the terms and conditions of this
+Agreement, City hereby grants to Operator a revocable, non-exclusive license as follows:
+To park up to six electric shuttle vehicles used by Operator in providing the
+Shuttle Service ("Shuttle Vehicles") in the area behind the main escalator at the Metlox Garage,
+as depicted on Exhibit A ("Shuttle Parking Area");
+To use Charging Stations installed by Operator in the Shuttle Parking Area
+pursuant to the Charging Station License Agreement to charge the Shuttle Vehicles, at the sole
+cost and expense of Operator.
+12100-0001\1975642v8.doc
+
+=== page 6 of 11 ===
+11.
+Effect of Expiration of the Term or Termination
+Upon the expiration or earlier termination of the term of this Agreement, Operator shall cause the
+restoration of the Shuttle Parking Area to its condition prior to the Agreement Date, including the
+removal of the Charging Stations.
+12.
+Agreement Security
+City is hereby authorized to apply the Agreement Security made by Operator pursuant to the
+Charging Station License Agreement to any sums due City under this Agreement.
+13.
+Independent Contractor
+Operator agrees that it is an independent contractor and that it is solely responsible for any and
+all City, state and federal tax withholdings for any and all monies it receives in its performance
+of its obligations under this Agreement and agrees to fully indemnify and hold harmless City as
+to any claims made by any municipal, state and federal agencies concerning tax withholdings. It
+is further understood by Operator that this Agreement does not create a joint venture, partnership
+or similar relationship between it and City.
+14. Notice
+A notice, demand, request, consent, approval or communication that any party is required to give
+the other or to any other person or entity pursuant to this Agreement shall be in writing and either
+served personally or sent by registered or certified U.S. Mail, Return Receipt Requested, at the
+following addresses:
+(a)
+As to Operator, the notice shall be addressed to:
+(b)
+Allsop and Knapp, LLC, dba The Downtowner
+Attn: Sam Knapp
+1240 West Balboa Boulevard, #C
+Newport Beach, CA 92101
+As to City, the notice shall be addressed to:
+City of Manhattan Beach
+1400 Highland Avenue
+Manhattan Beach, CA 90266
+Attn: City Manager
+(With a copy to):
+City Attorney
+City of Manhattan Beach
+1400 Highland Avenue
+Manhattan Beach, CA 90266
+-6-
+12100-0001\1975642v8.doc
+
+=== page 9 of 11 ===
+IN WITNESS THEREOF, parties hereto have executed this Agreement on the day and
+year first shown above.
+City of Manhattan Beach ("City")
+Markdas
+Mark Danaj, City Manager
+ATTEST:
+Allsop and Knapp, LLC, a California limited
+liability company, dba The Downtowner
+("Operator")
+2
+By:
+Its:
+10-18-16
+Liza Tamura, City Clerk
+APPROVED AS TO FORM:
+2mR
+Quinn M. Barrow, City Attorney
+APPROVED AS TO CONTENT:
+Bruce Moe, Finance Director
+-9-
+12100-0001\1975642v8.doc
+
+=== page 10 of 11 ===
+EXHIBIT A
+Depiction of Shuttle Parking Area
+A0' |99
+Downtowner
+Charging
+4 EATEN
+Exhibit A
+12100-0001\1975642v8.doc

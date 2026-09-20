@@ -1,0 +1,141 @@
+# source: raw/bleecker_drive/State of Vermont/VIA_MOBILITY_LLC_-_CONTRACT__PS1018_-_CONTRACT_-_PUBLIC_TRANSIT_CONSULTANT_SERVICES_2023_-_VERMONT.pdf
+# path: raw/bleecker_drive/State of Vermont/VIA_MOBILITY_LLC_-_CONTRACT__PS1018_-_CONTRACT_-_PUBLIC_TRANSIT_CONSULTANT_SERVICES_2023_-_VERMONT.pdf
+# hit page: 29 of 103
+# terms: Via Mobility
+
+=== page 28 ===
+5 | P a g e
+under this Agreement, with minimum coverage of no less than two million 
+dollars ($2,000,000) per claim and two million dollars ($2,000,000) policy 
+aggregate.
+ii.
+The required Professional Liability insurance coverage must be maintained 
+continuously for five (5) years after the final acceptance of any construction 
+that may be developed as a result of such design work, even if the construction 
+is performed under a separate contract or project. 
+iii.
+Separate from task or project-specific requirements to maintain coverage, if 
+contractor for any reason ceases operations, the contractor shall be responsible 
+to obtain and maintain professional liability coverage that extends for not less 
+than five (5) years after such cessation of operations.
+4. Valuable Papers and Records Insurance:
+Where contractor’s work under the contract will in whole or part consist of providing the 
+State with designs, plans, drawings, analyses, studies, reports, data, or other professional 
+work product, contractor shall carry Valuable Papers and Records Insurance in a form and 
+amount sufficient to ensure the restoration or replacement of any plans, drawings, field 
+notes, or other information or data relating to the work, whether supplied by the State or 
+developed by the contractor, subcontractor, worker, or agent, in the event of loss, 
+impairment, or destruction. Such coverage shall remain in force until the final work product 
+as well as all related materials have been delivered by the contractor to, and accepted by, 
+the State. Valuable Papers and Records Insurance shall provide coverage on an “individual 
+occurrence” basis with limits in the amount of at least one hundred thousand dollars 
+($100,000).
+5. Railroad Protective Liability:
+a.
+When any portion of contractor’s or a subcontractor’s work under the contract involves 
+work on, over, or under the right-of-way of any railroad, the contractor shall provide 
+and file with the Agency, with respect to the operations that it or its subcontractor 
+perform under the contract, Railroad Protective Liability Insurance for and on behalf 
+of the railroad as named insured, with the State and its officers and employees specified 
+as additional insured.
+b. If Railroad Protective Liability insurance is required, the contractor shall obtain and 
+submit the minimum coverage indicated above to the State prior to the commencement 
+of rail-related work and activities, and shall maintain coverage until contractor notifies 
+the State and the railroad that contractor has completed and ceased work on, over, or 
+under the railroad right-of-way, and both State and railroad have concurred that 
+contractor may terminate the railroad protective liability. Railroad coverage limits must 
+meet or exceed:
+PS1018 - Public Transit Consultant Services 2023
+                                    Via Mobility LLC
+Page 27 of 82
+=== page 29 ===
+6 | P a g e
+i.
+Not less than two million dollars ($2,000,000) for all damages arising out of 
+any one accident or occurrence, in connection with bodily injury or death and 
+injury to or destruction of property; and
+ii.
+Subject to that limit per accident, a total (or aggregate) limit of six million 
+dollars ($6,000,000) for all injuries to persons or property during the policy 
+period.
+The Contractor shall file the original and one (1) copy of the Railroad Protective Liability 
+policy with the State, who will provide the original to the appropriate railroad.
+6. Information Technology Contracts:
+a.
+For contracts determined by the State to fall within the category of “information 
+technology activity” as defined in statute at 3 V.S.A. §3301(b)(2), additional types and 
+amounts  of insurance will typically be required, and may change over time, either as 
+to general standards or with regard to the subject matter or potential risk exposure in a 
+specific IT transaction.
+b. As of the issuance of these General Terms and Conditions, the required IT insurance 
+types include: Technology Professional Liability insurance with third-party coverage, 
+and, if contractor has access to, processes, handles, collects, transmits, stores, or 
+otherwise deals with State Data, Contractor shall maintain first party Breach 
+Notification Coverage, which shall include the State of Vermont and its officers and 
+employees as additional insureds.
+c.
+Information technology contracts will also generally require their own set of additional 
+specific terms and conditions, derived from the then-applicable templates issued by the 
+Agency of Digital Services and the Office of Purchasing and Contracting within the 
+Department of Buildings and General Services.
+B. INDEMNIFICATION
+1. Basic Indemnification Requirements (any contract for services):
+a.
+Prime Contractor:
+Except as specifically provided below, a prime contractor must act in an independent 
+capacity and defend and indemnify the State in accordance with the State’s then-current 
+Attachment C
+b. Subcontractors:
+Except as specifically provided below, the prime contractor must include requirements 
+as to independence, defense, and indemnity, matching Attachment C and identical to 
+those in the prime contractor’s contract with State, in the prime contractor’s contracts 
+with subcontractors. Subcontractors must do the same for their sub-subcontractors.
+PS1018 - Public Transit Consultant Services 2023
+                                    Via Mobility LLC
+Page 28 of 82
+=== page 30 ===
+7 | P a g e
+2. For Design/Engineering Professional Services for a Specific Projects:
+a.
+Prime Contractor:
+Where a contract is for design/engineering professional services for a specific project, 
+or, when a contract contains a mixed scope of work that in part consists of tasks of such 
+professional design services for a specific project or projects, then as to, and only as to, 
+those specific professional design services, the provisions of Standard Attachment C 
+on the subjects of “Defense and Indemnity” (numbered item 7 in the December 2017 
+version of Attachment C, and any equivalent provisions, however numbered, in any 
+subsequently-issued Attachment C) are stricken in their entirety and replaced in full by 
+the following:
+The Party shall defend the State and its officers and employees against all claims or 
+suits arising in whole or in part from any act or omission of the Party or of any agent 
+of the Party in providing “non-professional services” under this Agreement. As used 
+herein, “non-professional services” means services provided under this Agreement 
+other than professional services relating to the design and/or engineering of all or part 
+of the project. The State shall notify the Party in the event of any such claim or suit 
+covered by this Subsection, and the Party shall immediately retain counsel and 
+otherwise provide a complete defense against the entire claim or suit arising out of 
+“non-professional services” provided under this Agreement.
+Notwithstanding anything to the contrary set forth in Subsection C above, the Party 
+shall not be obligated to defend the State and its officers and employees against claims 
+or suits arising from the Party’s provision of engineering design services or 
+architectural design services. However, the Party’s obligation to defend the State and 
+its officers and employees against all claims or suits arising out of “non-professional 
+services” provided under this Agreement as provided in Subsection C above and the 
+Party’s other obligations under Attachment C shall remain in effect.
+The Party agrees to indemnify and hold the State, its officers and employees, harmless 
+from and against monetary damages to third parties, together with reasonable costs, 
+expenses and attorney’s fees incurred and paid by the State in defending claims by third 
+parties (collectively “Damages”) but only in the event and to the extent such Damages 
+are incurred and paid by the State as the proximate cause of negligent acts, errors or 
+omissions (“Professional Negligence”) by the Party, its employees, agents, consultants 
+and subcontractors, in providing the professional services required under this 
+Agreement.
+As used herein, “Professional Negligence” or “negligent acts, errors or omissions” 
+means a failure by the Party to exercise that degree of skill and care ordinarily 
+possessed by a reasonably prudent design professional practicing in the same or similar 
+locality providing such services under like or similar conditions and circumstances.
+The Party shall indemnify the State and its officers and employees in the event that the 
+State, its officers or employees become legally obligated to pay any damages or losses 
+PS1018 - Public Transit Consultant Services 2023
+                                    Via Mobility LLC
+Page 29 of 82

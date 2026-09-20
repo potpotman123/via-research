@@ -1,0 +1,287 @@
+# source: raw/bleecker_drive/Los Alamos (Spare Labs)/1040_24_A_-_AGR_24-37_Spare_Labs_Inc.pdf
+# path: raw/bleecker_drive/Los Alamos (Spare Labs)/1040_24_A_-_AGR_24-37_Spare_Labs_Inc.pdf
+# hit page: 44 of 81
+# terms: Spare Labs
+
+=== page 43 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+43 
+ Agreement Template Version: 04012024 
+STANDARD REQUIREMENT 
+Required or  
+Not Applicable (“N/A”) 
+Desk Hardware 
+(On-Premise & 
+Hosted) 
+Physical unit minimum hardware requirements consist of: 
+Intel core i5 based processor, minimum 8 GB RAM, Intel 
+integrated graphics 1280 capable video minimum, display 
+port, input or HDMI, 4 USB 2/3 ports. 
+ 
+Support deployment onto Virtual Desktop Infrastructure (VDI) 
+platform, specifically cloud-based platforms from Microsoft 
+Azure, Amazon Web Service (AWS) or Google Cloud 
+Platform. 
+YES 
+Desktop OS 
+(On-Premise 
+& Hosted) 
+Microsoft Windows 10 at current Service Pack (SP). 
+YES 
+Internet 
+Browser 
+(On-Premise 
+& Hosted) 
+Internal County Network: Google Chrome and Edge, at its 
+latest version, are the installed browsers on county devices. 
+Google Chrome is the county standard. New web 
+Applications must be based on HTML5. Applications 
+requiring Internet Explorer, Microsoft Silverlight, Java and 
+Flash are not supported. Web applications requiring .NET 
+framework shall not be considered. IM Division shall be 
+consulted for compatibility issues prior to considering new 
+application purchases requiring Java. 
+YES 
+Database 
+Software 
+Products 
+(On-Premise) 
+Supported database software is Microsoft (MS) SQL server 
+version 2016 through current. New MS SQL Server product 
+installations shall require review, purchasing of licenses, 
+appropriate hardware, and maintenance in support of 
+proposed project or instance install to the County MS SQL 
+Server Environment. MS SQL server software for new 
+implementations shall be at within the Microsoft certified 
+support release level or current. Server components for 
+proposed projects require review and purchasing as part of 
+the project initiative. Contractor software must be maintained 
+to run on a supported platform service level as defined by 
+Microsoft. 
+• Passwords are not permitted to be transported 
+in clear\plain text. 
+• Contractor implementation shall not use the SA 
+password for user level functions. SA passwords 
+shall be maintained by the County DBA. 
+• Only database instances can be installed on the 
+County MS-SQL Environment. If a Contractor 
+software component install is necessary on the 
+database server, a standalone installation shall 
+be required. 
+• Contractor software must use standard Access & 
+Connection architecture for accessing databases 
+on the County MS-SQL Environment. 
+• Applications based on Microsoft Access are 
+not supported. Applications based on 
+SQLEXPRESS version should be reviewed 
+and the limitation understood by the 
+customers and the Contractor. 
+Hosted solutions shall be compliant with or provide a 
+method to provide the County with database exports in the 
+MS-SQL Server format. 
+YES 
+Attachment A
+=== page 44 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+44 
+ Agreement Template Version: 04012024 
+STANDARD REQUIREMENT 
+Required or  
+Not Applicable (“N/A”) 
+ 
+Internet: 
+Collaboration 
+and Web 
+Publishing 
+(On-Premise 
+& Hosted) 
+Use of Internet apps or links shall be considered in 
+collaboration with the Los Alamos Information Management 
+Division Applications group for review to ensure that 
+compatibility and Internet publishing protocols have been 
+satisfied prior to formation of any agreement or installation. 
+N/A 
+Intranet: 
+Collaboration 
+and Web 
+Publishing 
+(On-Premise 
+& Hosted) 
+Microsoft SharePoint Online is the basis for the County’s 
+Intranet. Any products that shall integrate or utilize the 
+County’s Intranet site shall require a compatibility 
+consultation with IM Division before purchase and 
+implementation. Contractor software shall be maintained to 
+run on supported platform service levels as defined by 
+Microsoft and/or the Intranet site Contractor. Proposed 
+Intranet software products shall be accompanied by roadmap 
+for compatibility with MS SharePoint Online. 
+N/A 
+Productivity 
+Software 
+(On-Premise 
+& Hosted) 
+Los Alamos County uses Microsoft M365 Office Suite at its 
+most recent version and service pack. Contractor software 
+using the Office suite must be maintained to run on 
+supported platform service levels as defined by Microsoft. 
+N/A 
+Email 
+(On-Premise 
+& Hosted) 
+Microsoft M365 with hub transport for relay. If SMTP relay 
+access from on premise Contractor specific software is 
+necessary, permission to use the County Email exchange 
+shall be obtained prior to contracting or purchase of the 
+software or solution. If SMTP relay access from hosted 
+Contractor specific software is necessary, preference is for 
+SMTP relay to be hosted by Contractor. The Contractor 
+specific solution must be supported and maintained to relay 
+off County email domain and directed to hand off the email 
+message to another mail server that can get the message 
+closer to its intended recipient in accordance with service 
+levels as defined by Microsoft for 
+the M365 product. 
+N/A 
+Geographic 
+Information 
+Standards 
+(GIS) 
+(On-Premise 
+& Hosted) 
+The County uses strictly ArcGIS products by Esri for 
+GIS. Desktop software for end users includes ArcGIS 
+Desktop and ArcGIS Pro. GIS web services are provided as 
+REST endpoints from ArcGIS Server using Internet 
+Information Services (IIS). Our enterprise geodatabase is 
+managed using ArcSDE with Microsoft SQL Server. 
+Supported versions are one or two iterations behind the 
+latest ESRI-supported release. The preferred method for 
+applications to interact with GIS is via REST services. Web 
+applications must be hosted in either ArcGIS Online or 
+ArcGIS Portal. 
+N/A 
+ 
+Mobile Devices 
+Shall conform to Los Alamos County Mobile Policy 
+#1240. Mobile devices requiring Intranet access must be 
+secured through the County Mobile Device Management 
+System. 
+N/A 
+ 
+Security & SSL 
+(On-Premise & 
+Hosted) 
+Intranet devices must be capable of multi-factor 
+authentication (MFA) using the County’s current MFA 
+systems. Any requirements for access to ports from the 
+Internet into the County Network shall be approved via a 
+technical review by the IM Division before product(s) 
+purchase and implementation. Cisco Secure Endpoint 
+Antivirus and Antispyware Enterprise software are used on 
+all intranet computing devices; Contractor solutions shall 
+work in conjunction with stated antivirus products. 
+YES 
+Attachment A
+=== page 45 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+45 
+ Agreement Template Version: 04012024 
+STANDARD REQUIREMENT 
+Required or  
+Not Applicable (“N/A”) 
+ 
+SSL (Secure Socket Layer) encryption is required for both 
+internal and external facing web applications. 
+ 
+Enterprise-wide applications shall be capable of 
+Active Directory integration for user authentication 
+and utilize County’s MFA. 
+ 
+Devices requiring wireless access must a) be domain 
+integrated or b) can accept captive portal agreement (a web 
+page that the user of a public-access network is obliged to 
+view and interact with before access is 
+granted). 
+Records 
+Shall conform to Los Alamos County Records and Information 
+Governance Policy #0310 
+YES 
+E-Signature 
+Shall conform to Los Alamos County E-signature Policy 
+#1220. 
+YES 
+ 
+ 
+ 
+ 
+Hosted/Cloud 
+Based 
+Services 
+• 
+Los Alamos County is interested in taking advantage 
+of Anything as a Service (XaaS) opportunity available 
+through Cloud Service Providers (CSP), in 
+Government Cloud (GCC) where required. CSP data 
+centers must be located within the United States. 
+• 
+Enterprise-wide applications shall be capable of 
+Active Directory integration for user authentication 
+and utilize County’s MFA. 
+• 
+Data centers must be FedRAMP certified for SaaS 
+solutions procured by departments if they also store or 
+may store Los Alamos National Laboratory (LANL) 
+critical infrastructure data for County operations. 
+Departments must verify with LANL authority to confirm 
+that this requirement is applicable to the LANL 
+information to be stored 
+• 
+Ownership of County data held in the CSP solution 
+shall remain with the County of Los Alamos. County 
+may have on-demand access to the data for 
+export/download or have the data delivered by 
+request by the CSP with a maximum 48-hour 
+compliance window. Exports shall be in MS-SQL 
+format. 
+YES, WITH EXCEPTIONS 
+ 
+County acknowledges 
+Contractor uses industry 
+standard Google Cloud 
+infrastructure to host 
+services which are located 
+in the United States. 
+Contractor also supports 
+Active Directory via ADFS. 
+However, the specific data 
+center is not in the 
+government cloud or 
+FedRAMP certified. County 
+acknowledges that as of he 
+Effective date of this 
+Agreement, the Platform is 
+not currently intended to 
+store LANL data and GCC 
+data centers and 
+FedRAMP certification is 
+not a requirement  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Attachment A

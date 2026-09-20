@@ -1,0 +1,112 @@
+# source: raw/bleecker_drive/North San Diego/Board Agenda Packet - March 20, 2025.pdf
+# path: raw/bleecker_drive/North San Diego/Board Agenda Packet - March 20, 2025.pdf
+# hit page: 116 of 255
+# terms: Via+vehicles
+
+=== page 115 ===
+Table of Contents 
+Introduction ..................................................................................................................... 1 
+Core Categories .............................................................................................................. 1 
+Core Category Definitions ............................................................................................ 1 
+Systemwide Complaints by Core Category ..................................................................... 2 
+Systemwide Compliments ............................................................................................... 3 
+   BREEZE Complaints by Core Category ....................................................................... 3 
+   LIFT Complaints by Core Category .............................................................................. 4 
+   FLEX Cpmplaints by Core Category ............................................................................ 5 
+   COASTER Complaints by Core Category  ................................................................... 6 
+   SPRINTER Complaints by Core Category ................................................................... 7 
+Mystery Rider Results ..................................................................................................... 8 
+Systemwide ................................................................................................................. 8 
+BREEZE ...................................................................................................................... 9 
+COASTER ................................................................................................................... 9 
+SPRINTER ................................................................................................................ 10
+=== page 116 ===
+October 1, 2024 – December 31, 2024 
+ 
+ 
+1 
+ 
+Introduction  
+ 
+The Customer Experience Department supports the mission and vision established by the Board of 
+Directors by proactively developing plans, training staff, and managing processes to foster positive 
+customer experiences when utilizing NCTD’s services, identifying opportunities for improvement, and 
+by ensuring action is taken when our standards are not being met.  
+ 
+NCTD receives feedback from customers via phone, email, website, and in-person. All feedback is 
+entered into NCTD’s customer relationship management software (CRM) and forwarded to the 
+appropriate department personnel for review, investigation, and potential action. Most customer 
+feedback reports are complaints related to modal service, security, or facilities related. Tools like 
+operator interviews, video, GPS data, and other technology are used to complete all investigations 
+where applicable. NCTD’s Customer Experience department has a goal of responding back to 
+customer feedback within 10 business days of receipt.  
+ 
+In addition to customer feedback, NCTD’s Customer Experience department also utilizes a third-party 
+vendor to conduct ‘mystery rides’ on BREEZE, FLEX, COASTER, and SPRINTER. These mystery rides 
+provide an additional independent assessment of the customer experience. The data collected from 
+mystery riders is then examined against customer feedback complaint results and other data points to 
+paint an overall picture of the customer experience on NCTD services or at our facilities 
+ 
+Core Categories 
+ 
+To provide insight into customer feedback trends, all complaints are assigned to a core category via a 
+sub-code. Each of the ten core categories are defined below. Note, there may be a small number of 
+feedback reports that fall outside of core categories; such instances are included in overall complaint 
+totals. 
+ 
+Core Category Definitions: 
+Core Category  
+Definition  
+Service Related 
+Complaints involving transit services including late or early service, pass by, 
+missed stop requests, no shows and cancellations, and incorrect pick up or drop 
+off location (paratransit). 
+Operator Related 
+Complaints involving operators, including interpersonal operator behavior (rude), 
+dangerous driving, driving off route, closing the door on passenger, refusal of 
+service issues, left before seated. 
+Equipment Related Complaints involving damaged or dirty vehicles or equipment, automated 
+announcement issues, door malfunctions, HVAC (air conditioning) on board 
+vehicles, ADA ramp issues, or signal issues (Rail), farebox, validator, TVM issues.  
+Safety  
+Complaints involving actual or perceived safety hazards, either on board vehicles 
+or on NCTD property such as fencing. 
+Security 
+Complaints involving actual or perceived security risks, either on board vehicles or 
+on NCTD property, customer altercation issues and trespassing.  
+Claims/Accidents  
+Complaints resulting in the initiation of the Claims process. 
+Paratransit 
+Related  
+Complaints related to EZ-Wallet, mobility devices, MTS transfers, reservations and 
+dispatch, and time onboard vehicle violations.  
+Facilities Related 
+Complaints related to graffiti, station cleanliness, electrical, plumbing, and 
+landscaping at NCTD property including the right-of-way.  
+Policy Related  
+Complaints regarding E-bikes, PRONTO fare issues, rules of ridding and policy 
+disputes on board vehicles or on NCTD property. 
+Planning Related 
+Complaints involving bus stop amenities, request for additional bus stops, issues 
+pertaining to NCTD service planning and wayfinding requests.
+=== page 117 ===
+October 1, 2024 – December 31, 2024 
+ 
+ 
+2 
+ 
+ 
+ 
+Note: Our reporting methodology is department-based instead of mode based, so as not to unfairly 
+represent a mode for complaints not directly related to the mode.  
+ 
+Q2 FY25 Systemwide Complaints by Core Category  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Adjusted ridership count is based on mode. The ridership count is normalized based on the following breakout. 
+BREEZE/COASTER/SPRINTER are by 100k passengers and FLIFT/FLEX are adjusted by 1K passengers.

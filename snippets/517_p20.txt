@@ -1,0 +1,194 @@
+# source: raw/bleecker_drive/North Carolina/AII_On_Demand_Microtransit_Webinar.pdf
+# path: raw/bleecker_drive/North Carolina/AII_On_Demand_Microtransit_Webinar.pdf
+# hit page: 20 of 79
+# terms: Via+drivers, Via+fleet, Via+not to exceed, Via+not-to-exceed, Via+turnkey, Via+vehicles
+
+=== page 19 ===
+ncdot.gov
+Primary purpose of microtransit implementation
+First/Last mile access
+To complement the major
+fixed-route transit
+ystems by providin
+rst/last mile acces
+Morrisville,
+Morrisville SmartShuttle
+Wilmington,
+RideMICRO
+Wake County,
+GoWake Smart Ride NE
+.
+Replace an inefficient fixed-route
+To replace a previously existing
+but inefficient fixed route transit
+service
+Wilson,
+RIDE
+Zone 3 in Wilmington,
+RideMICRO
+YVEDDI,
+Elkin and Mocksville microtransit
+Transit service in low-density area
+To provide transit service in
+low-density areas where fixed-
+route is economically not viable
+Morrisville,
+Morrisville SmartShuttle
+Wake County,
+GoWake Smart Ride NE
+Temporal service
+To provide transit service
+at times of day or on days
+of week when other transit
+service is not available
+Orange County,
+Mobility on-demand
+=== page 20 ===
+Microtransit
+contracts
+Wilson, RIDE
+Wilmington, 
+RideMICRO
+Morrisville, Morrisville 
+SmartShuttle
+Wake County, 
+GoWake SmartRide 
+NE
+Orange County, 
+MOD
+YVEDDI, Elkin and 
+Mocksville 
+microtransit
+Total contract cost
+Turnkey contract: not 
+to exceed 
+$1,464,300 (in the 1st
+year)
+Turnkey contract: 
+not to exceed 
+$700,000
+Technology: not to 
+exceed $142,280
+Technology: $42,493
+Vehicles/drivers: 
+$265,379
+Technology: 
+$34,000
+Technology: $7,695
+Contracted fleet size
+9
+5
+3
+3
+3
+4
+One-time technology fees
+Installation and other 
+technology fees
+($50,000)
+-
+$29,000 
+$25,000
+$25,000
+$5,295
+Device hardware and 
+installation per vehicle
+-
+-
+$380/vehicle
+$845/vehicle
+-
+-
+Annual technology fees
+Annual data plan
+-
+-
+$180/vehicle
+$336/vehicle
+-
+-
+Monthly or hourly technology fees
+Fees/month
+-
+-
+-
+-
+$200/ month 
+Fees/vehicle/month
+-
+-
+$384 -$912/vehicle/
+month 
+$350/vehicle/
+month
+$300-$500/ 
+vehicle/month
+-
+Fees/service hour
+$15/service hour
+-
+-
+-
+-
+-
+Call center operation
+Responsibility to operate 
+call center 
+Via 
+Bus.com
+GoTriangle
+Wake County
+Orange County
+YVEDDI
+Vehicle and drivers’ costs
+Rate/vehicle revenue hour
+min rate: $38.27; 
+max rate: $40.39 
+$70.00
+$97.50 
+$42.53 
+-
+-
+=== page 21 ===
+Microtransit operational 
+expenditures
+Wilson, RIDE
+Wilmington, 
+RideMICRO
+Morrisville, Morrisville 
+SmartShuttle
+Wake County, 
+GoWake SmartRide
+NE
+Average monthly ridership
+13,074
+176
+1,236
+364
+Latest monthly ridership (June 
+2022)
+16,243
+301
+1,695
+556
+Cost per operating day
+$5,141
+$2,106 
+$1,572
+$806 
+Cost per vehicle revenue hour
+$72.92
+$70.75 
+$95.43 
+$42.12 
+Cost per revenue mile
+$5.10
+$22.47 
+$7.80 
+$3.61 
+Cost per passenger
+$10.26
+$246.08 
+$38.30 
+$41.05 
+Operational expenditures

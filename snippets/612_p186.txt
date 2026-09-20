@@ -1,0 +1,178 @@
+# source: raw/bleecker_drive/Denton County Transportation Authority/March 10, 2021 DCTA Board Packet.pdf
+# path: raw/bleecker_drive/Denton County Transportation Authority/March 10, 2021 DCTA Board Packet.pdf
+# hit page: 186 of 476
+# terms: Via+fleet, Via+vehicles
+
+=== page 185 ===
+Denton County Transportation Authority 
+Notes to Financial Statements 
+36 
+Note 10.   Easement Obligation 
+In June 2010, the Authority entered into a rail operating easement agreement with DART. The easement 
+obligation represents the remaining principal amounts payable under the agreement. Remaining 
+requirements are as follows: 
+Fiscal Year Ending
+September 30,
+Principal
+2021
+100,000
+$  
+   
+2022
+100,000
+  
+2023
+100,000
+  
+2024
+100,000
+  
+2025
+100,000
+  
+2026-2029
+400,000
+  
+Total requirements
+900,000
+$  
+   
+The current portion of the easement obligation is $100,000 as of September 30, 2020 and 2019. 
+Note 11.   Commitments and Contingencies 
+Risk Management 
+The Authority is exposed to various types of risk of loss including torts; theft of, damage to, or destruction 
+of assets; errors or omissions; job-related illnesses or injuries to employees; natural disasters; and 
+environmental occurrences. 
+The Authority is a participant in the Texas Municipal League Intergovernmental Risk Pool (TML-IRP) to 
+provide insurance for errors and omission, general liability, workers' compensation, automobile liability, 
+and physical damage coverage. TML-IRP was self-sustaining in 2020 and 2019 based on premiums 
+charged so that total contributions plus earnings on the contributions will be sufficient to satisfy claims and 
+liabilities. 
+Premiums are assessed based on the rates set by the Texas State Board of Insurance for each participating 
+political subdivision's experience. The Authority has a $10,000 deductible for errors and omissions liability 
+with limits of $3,000,000 per  
+wrongful act and an annual aggregate of $6,000,000. General liability 
+coverage has no deductible with limits of $1,000,000 per occurrence, $1,000,000 per occurrence for 
+sudden events involving pollution, and an annual aggregate of $2,000,000. Worker's compensation 
+coverage has no deductible. Automobile liability has a limit of $5,000,000 per occurrence. The Authority’s 
+vehicles are insured for physical damage for collision and comprehensive coverage after a $10,000 
+deductible. Real and personal property coverage has a $10,000 deductible. Cyber Liability and Data 
+Breach Response Coverage is also provided by TML-IRP for the following: 
+
+Information Security, Privacy Liability, Website Media Content Liability - $1,000,000 Aggregate limit,
+$0 deductible;
+
+Privacy Breach Response Services - $25,000 per incident and in the Aggregate, $1,250 deductible
+per incident; and
+
+Regulatory Defense & Penalties/Payment Card Industry Fines and Expenses/Cyber Extortion/First
+Party Data Protection and Network Business Interruption – $50,000 Aggregate limit; $2,500
+deductible per claim, $5,000 Loss of Income Deductible.
+Regular Agenda 1
+Exhibit 1
+185
+=== page 186 ===
+Denton County Transportation Authority 
+Notes to Financial Statements 
+37 
+The Authority has a government crime policy with TML-IRP insuring against  forgery and computer fraud 
+up to $1,000,000 in the aggregate. For the years ended September 30, 2020 and 2019, the Authority has 
+not incurred any losses under this plan. 
+In addition to the coverages provided by TML-IRP, the Authority also carries Pollution Liability Coverage 
+for its 16,000 gallon Underground Fuel Storage Tank (UST) permitted by the Texas Commission on 
+Environmental Quality (TCEQ) and located at the Rail Operations & Maintenance Facility. The UST 
+provides fleet re-fueling for the Authority’s passenger rail vehicles. Mid-Continent Casualty Company is 
+the insurance provider with the following coverages: $1,000,000 each Pollution Incident for bodily injury, 
+property damage and claim handling, $2,000,000 Annual Aggregate, $5,000 deductible. 
+The Authority’s Excess Railroad Liability Insurance is provided through a multi-layer program with Steadfast 
+Insurance Company, a member of Zurich Insurance Group, as the primary carrier with a policy limit of 
+$125,000,000 and $2,000,000 self-insured retention and claims handling including defense costs. Prior to 
+securing its own rail liability insurance coverage in October 2016, this coverage was provided via shared 
+policy with DART and Trinity Metro which carried the Authority as an additional insured with the Authority 
+sharing in the cost of the annual premium.  
+Litigation  
+The Authority has no pending lawsuits as of September 30, 2020. 
+State and Federal Grants 
+The Authority participates in several State and Federal grant programs, which are governed by various 
+rules and regulations of the grantor agencies. Costs charged to these grant programs are subject to audit, 
+approval, and adjustment by the grantor agencies, which could result in refunds to the grantor. It is 
+management's opinion that the Authority has complied with substantially all of the requirements under 
+the respective grants, and therefore, no provision has been recorded in the accompanying financial 
+statements for such liabilities. 
+Commitments 
+At September 30, 2020, the Authority has the following outstanding commitments for large scale projects: 
+Rail purchased transportation services
+74,417,327
+$ 
+  
+"Spirit of Independence" shuttle buses
+1,060,137
+  
+Positive train control system implementation
+621,036
+    
+76,098,500
+$
+Regular Agenda 1
+Exhibit 1
+186
+=== page 187 ===
+Denton County Transportation Authority 
+Notes to Financial Statements 
+38 
+Operating Lease Agreements 
+The Authority has entered into certain operating lease agreements. All operating leases to which the 
+Authority is currently a party will expire in fiscal year 2022. The total lease expense was $321,903 for 2020 
+and $321,903 for 2019. The lease payments by year are as follows: 
+2021
+2022
+Total
+Lease commitments
+Administration offices
+117,846
+$ 
+  
+119,747
+$  
+   
+237,593
+$  
+   
+Total lease commitments
+117,846
+$ 
+  
+119,747
+$  
+   
+237,593
+$  
+   
+Funding 
+These current expenditures, current contract commitments, and any future commitments will be funded 
+by the Authority out of available cash and investments, future sales tax collections, federal grants, and 
+debt financing. 
+Note 12.   New Accounting Pronouncements 
+The GASB pronouncements effective in fiscal year 2020 and 2021 are listed as follows: 
+The GASB issued Statement No. 84: Fiduciary Activities, which will be effective for periods beginning after 
+December 15, 2019. The objective of this Statement is to improve guidance regarding the identification 
+of fiduciary activities for accounting and financial reporting purposes and how those activities should be 
+reported. This Statement establishes criteria for identifying fiduciary activities of all state and local 
+governments. The focus of the criteria generally is on (1) whether a government is controlling the assets 
+of the fiduciary activity, and (2) the beneficiaries with whom a fiduciary relationship exists. Separate 
+criteria are included to identify fiduciary component units and postemployment benefit arrangements 
+that are fiduciary activities. This standard becomes effective for the Authority in fiscal year 2021. The 
+Authority has not yet determined the impact of this statement.  
+The GASB issued Statement No. 90: Majority Equity Interests – an Amendment to GASB Statements No. 14 
+and No. 61. Statement 90 which will be effective for periods beginning after December 15, 2019. The 
+primary objectives of this Statement is to improve the consistency and comparability of reporting a 
+government’s majority equity interest in a legally separate organization and to improve the relevance of 
+financial statements information for certain component units. The Statement also requires that a 
+component unit in which a government has a 100 percent equity interest account for its assets, deferred 
+outflows of resources, liabilities, and deferred inflows of resources at acquisition value at the date the 
+government acquired a 100 percent equity interest in the component unit. This standard will become 
+effective for the Authority in fiscal year 2021. The Authority will evaluate the impact of the standard on its 
+Financial Statements and will take the necessary steps to implement it. 
+Regular Agenda 1
+Exhibit 1
+187

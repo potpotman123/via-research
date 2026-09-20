@@ -1,0 +1,99 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/City of Philadelphia/DM0012_2023_Remix_Philadelphia_Services_Agreement.pdf
+# pages_total: 13; hit_pages: [1, 4]; included: [1, 4]
+# context: Bleecker Drive folder: City of Philadelphia
+
+=== page 1 of 13 ===
+Remix Services Agreement for the City of Philadelphia 
+This Services Agreement (“Agreement”) is entered into between Remix Technologies, LLC., a subsidiary of Via Transportation, Inc. ("Company"), and PHILADELPHIA.  
+("Customer") and will become effective when it is executed by authorized representatives of both parties (the “Effective Date”). 
+Scope of Services & Terms 
+Prepared for Kelley Yemen, City of Philadelphia 
+By Olivia Ius, Remix (olivia.ius@ridewithvia.com).  Date: April 27th, 2023 
+Effective Date 
+June 30, 2023 
+Remix Streets+ Explore 
+Platform License 
+$84,000 USD   
+ 
+Includes: 
+• Access to Street Design and Explore platforms 
+• Remix licenses for an unlimited number of users within the City of Philadelphia   
+• Enhanced data visualization and analysis  
+• Software as a Service (SaaS): fully hosted, cloud-based web platform 
+• Dedicated Customer Success staff; Premium Enterprise Support: response to requests in 1 business day 
+•  
+Marketing Terms: 
+Customer Story 
+As a part of this agreement, Philadelphia agrees to partner with Remix on 1 customer story. 
+The subject of the customer story will be mutually agreed by both Philadelphia and Remix.  
+ 
+•••••• 
+This Agreement incorporates the attached Terms and Conditions (“Terms”) and the City of Philadelphia Terms and Conditions Small Purchase Order 
+(the “SOP Terms”). The incorporation of the SOP Terms shall exclude Section 4, 5 and 10 therein. In the event of a conflict or inconsistency between 
+the Terms, this Agreement or the SOP Terms, the order of precedence will be the order of the documents as listed herein, with the first listed 
+document having the highest precedence, except to the extent that this Agreement expressly states that it is superseding specific language in any 
+of the aforementioned documents.  Capitalized terms not otherwise defined herein will have the meaning ascribed to them in the Agreement. 
+The parties have caused their duly authorized representatives to execute this Agreement (incorporating the Terms) as of the dates set forth below. 
+ 
+City of Philadelphia 
+Remix Technologies, LLC. 
+Signature: _______________________________________________ 
+Signature: ___________________________________________________ 
+Name: ___________________________________________________ 
+Name: _______________________________________________________
+
+=== page 4 of 13 ===
+REMIX TERMS AND CONDITIONS 
+These Terms and Conditions (“Terms”, together with an Order Form referencing these Terms, the “Agreement”), are entered between 
+Remix Technologies, LLC., a subsidiary of Via Transportation, Inc. ("Company"), and the customer identified on the Order Form 
+(“Customer”), and are effective as of the date that the Order Form is executed by both parties (the “Effective Date”). 
+ 
+1. 
+DEFINITIONS. Capitalized terms will have the meanings set forth in this Section 1, or in the section in which they are first 
+used. 
+1.1 
+“Authorized User” means each of Customer’s employees, agents, and independent contractors who are authorized 
+to access the Remix Solution under this Agreement. 
+1.2 
+“Customer Content” means any content, data and information provided to Remix by or on behalf of Customer or its 
+Authorized Users for use with the Services, including, without limitation, any Mobility Provider Data.  Customer Content does not 
+include Licensed Material or Resultant Data.  
+1.3 
+“Documentation” means the materials describing the use and operation of the Remix Solution that are made 
+available to Customer as written technical briefs or on https://help.remix.com/ or such other web page as Remix may designate to 
+Customer from time to time. 
+1.4 
+“Intellectual Property Rights” means any and all now known or hereafter existing (a) rights associated with works 
+of authorship, including copyrights, mask work rights, and moral rights; (b) trademark or service mark rights; (c) trade secret rights; 
+(d) patents, patent rights, and industrial property rights; (e) layout design rights, design rights, and other proprietary rights of every 
+kind and nature other than trademarks, service marks, trade dress, and similar rights; and (f) all registrations, applications, renewals, 
+extensions, or reissues of the foregoing, in each case in any jurisdiction throughout the world. 
+1.5 
+“Licensed Material” means reports, results, materials and documentation made available to Customer as part of the 
+Services. Licensed Material does not include the Remix Solution or any component thereof.  
+1.6 
+“Mobility Provider” means an operator of a transportation or rideshare service or platform that provides or 
+facilitates transportation by train, bus, car, bicycle, scooter or any other mode of transportation and is required to provide 
+transportation related data and information to Customer (or its third party designees) by contract, permit or other applicable 
+ordinance, regulation or law. 
+1.7 
+“Mobility Provider Data” means any data or other information made available to Remix by a Mobility Provider at 
+the direction, or for the specific benefit, of the Customer, even if Remix’s receipt of such information is governed by its own agreement 
+with the Mobility Provider. 
+1.8 
+“Order Form” means an order form, scope of work or scope of services signed by both parties that references this 
+Agreement. 
+1.9 
+“Professional Services” means professional services provided by Remix to Customer as described in any Order Form 
+(as may be further described in any statement of work). 
+1.10 
+“Remix Solution” means the Remix software-as-a-service application identified in any Order Form that allows 
+Authorized Users to access certain features and functions through a web interface. 
+1.11 
+ “Resultant Data” means statistics, data, insights, observations, analyses, ideas and other information that does not 
+identify any natural person and is derived from the categorization, modeling or other processing of one (or more) data set(s), including, 
+without limitation, data sets that include Customer Content and data of Remix’s other customers. 
+1.12 
+“Services” means any services provided by Remix to Customer under this Agreement as described in an Order Form, 
+including, but not limited to, provision of the Remix Solution and Professional Services.

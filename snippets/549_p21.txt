@@ -1,0 +1,58 @@
+# source: raw/bleecker_drive/Hall County/Micro-Transit-Feasibility-Study.pdf
+# path: raw/bleecker_drive/Hall County/Micro-Transit-Feasibility-Study.pdf
+# hit page: 21 of 24
+# terms: Via Mobility
+
+=== page 20 ===
+RFP #39-021 – Microtransit Feasibility Study  
+Via Mobility, LLC 
+ 
+ 
+ 
+Page 18 
+ 
+ 
+match the current Dial-A-Ride and fixed-route services, from 6am to 7pm, Monday to Friday. 
+As ridership grows, Hall County can extend hours of operation based on rider demand.  
+ 
+Quality of Service: Hall County seeks to understand what quality of service metrics are 
+appropriate for a microtransit service in the region. Via recommends designing a service with 
+average wait times of around 15 minutes, with maximum wait times of 35 - 40 minutes. 
+ 
+Financial Resources: Hall County seeks a microtransit service which does not exceed 
+approximately $1.5M per year. Via recommends Scenario 5, which will provide the highest 
+quality of service while remaining within this budget. Fare revenue will also offset some of 
+this cost.
+=== page 21 ===
+RFP #39-021 – Microtransit Feasibility Study  
+Via Mobility, LLC 
+ 
+ 
+ 
+Page 19 
+ 
+ 
+Appendix 1 - Ridership Data  
+Dial-A-Ride Demand Data 
+Dial-A-Ride data was provided for 10 days in October 2018. A total of 404 trips were 
+completed in this period. 
+ 
+Daily trip requirements: 
+● Busiest day - 51 trips 
+● Average day - 40 trips 
+● Lowest demand day - 33 trips 
+ 
+Trips by time of day: 
+The busiest period is early afternoon, where 39% of daily trips fall within a 3-hour period. 
+See the graph below for more information.
+=== page 22 ===
+RFP #39-021 – Microtransit Feasibility Study  
+Via Mobility, LLC 
+ 
+ 
+ 
+Page 20 
+ 
+ 
+Dial-A-Ride Trips by Origin / Destination 
+The image below shows trip origins (blue) and destinations (orange).

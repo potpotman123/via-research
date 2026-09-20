@@ -1,0 +1,51 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/City of Philadelphia/BID172458257_Document17.pdf
+# pages_total: 6; hit_pages: [5]; included: [5]
+# context: Bleecker Drive folder: City of Philadelphia
+
+=== page 5 of 6 ===
+ii. Coverage: Premises operation: Blanket Contractual liability; Personal Injury liability; Products and completed
+operations; Employees as insureds; Cross liability; Broad form property damage (including loss of use) liability;
+Asbestos abatement liability coverage (Note: Required for asbestos abatement projects only).
+(c) AUTOMOBILE LIABILITY
+i. Limit of Liability: $300,000 per occurrence combined single limit for bodily injury (including death) and
+property damage liability.
+ii. Coverage: owned, non-owned and hired vehicles.
+Contractors providing only supplies and equipment to the City via Common Carrier are only required to maintain
+General Liability insurance, naming the City of Philadelphia, its officers, employees and agents as additional
+insureds.
+12. INTEGRATION. The Contract contains all the terms, conditions and requirements agreed upon by the parties and
+no other contract or agreement, oral or otherwise, regarding the subject matter of the Contract shall be deemed to exist
+or to bind any party hereto or to vary any of the terms contained in the Contract. In the event of a conflict or
+inconsistency between these Terms and Conditions of Micro Purchase and any term, condition or provision contained
+elsewhere in the Contract, these Terms and Conditions of Micro Purchase shall control.
+13. COMPLIANCE WITH LAWS. Seller shall comply with all applicable laws, including without limitation,
+ordinances, executive orders, rules and regulations of any governmental body, including the City, the Commonwealth
+of Pennsylvania, and the United States. Without limiting the foregoing, Seller shall com- ply, to the extent applicable
+to Seller's provision of services, with the Special Exhibit entitled, "Terms and Conditions Relating to Protected Health
+Information" ("City PHI Terms") posted on the City's website (at City PHI terms Relating to Protected Health
+Information) which is hereby incorporated as if fully set forth herein.
+14. ETHICS REQUIREMENTS.
+To preserve the integrity of City officers and employees and maintain public confidence in the competitive bidding
+system, the City intends to vigorously enforce the various ethics laws as they relate to City officers and employees in the
+solicitation of bids and execution of City contracts. Such laws are in three categories:
+A. Gifts. Executive Order No. 10-16, which prohibits any City officer or employee from accepting or receiving a gift,
+as de- fined in Executive Order No. 10-16, of any monetary value from any Person who either, (a) engages in lobbying
+on behalf of a principal for economic consideration, and is registered as such, pursuant to the requirements of Section
+20-1202 of The Philadelphia Code, including any attorney at law while engaged in lobbying; or, (b) at the time or
+within twelve (12) months pre-ceding the time a gift is received, (i) is seeking, or has sought, official action from that
+City employee; or (ii) has operations or activities regulated by that City employee's department, agency, office, board
+or commission; or (iji) has a financial or other substantial interest in acts or omissions taken by that City employee,
+which the City employee is able to affect through official action. Seller understands and agrees that if it offers anything
+of value to a City officer or employee under circumstances where the receipt of such item would violate the provisions
+of this Executive Order, Seller may be subject to sanctions with respect to future City Contracts. Such sanctions may
+range from disqualification from participation in a partic u lar Contract to debarment, depending on the nature of
+the violation. All City o ffic ers and employees presented with gifts or gratuities as indicated in Executive Order
+10-16 have been instructed to report these actions to the appropriate authorities. All Sellers, agents or intermediaries
+who are solicited for gifts or gratuities by City employees are urged to report these incidents to the Office of the
+Inspector General.
+B. City Employee Interest in City Contracts. In accordance with Section 10-102 of The Philadelphia Home Rule Charter,
+no bid shall be accepted from, or Contract awarded to, any City employee or official, or any firm in which a City
+employee or official has a direct or indirect financial inter- est. All Sellers are required to disclose any current
+Page 5 of 6
+SOP Terms and Conditions Rev. 7/2024

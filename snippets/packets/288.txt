@@ -1,0 +1,246 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Arlington, Texas/Redacted_Contract_-_Amendment_to_Incorporate_Paratransit_Software_Services.pdf
+# pages_total: 12; hit_pages: [1, 2, 3, 4, 5, 10, 11, 12]; included: [1, 3, 4, 11]
+# context: Bleecker Drive folder: Arlington, Texas
+
+=== page 1 of 12 ===
+Amendment #1 
+to the 
+ON-DEMAND RIDESHARE CONTRACT 
+ 
+ 
+River North Transit LLC  (“Contractor” or “Via”) and City of Arlington, TX (“Customer” or “City” and, 
+together with Via, the “Parties”) have entered into that certain agreement titled On-Demand Rideshare 
+Contract, dated November 29, 2022 (the “Agreement”). This Amendment #1 to the On-Demand Rideshare 
+Contract (the “Amendment”) is entered into on this 23rd day of May, 2023.  Upon execution of this 
+Amendment #1 (the “Amendment”), the Parties agree to modify the Agreement as follows: 
+ 
+1. 
+Amendment.  
+ 
+Section II. A. of the Agreement is modified to read as follows: 
+ 
+CITY agrees to pay CONTRACTOR the amounts set forth in the Scope of Services, not to 
+exceed $30,412,626 (i.e., the total amount of funding obtained by the City as of the date hereof) 
+in the aggregate for the initial two-year period of this Contract, subject to the following 
+provisions. This total of $26,367,762 includes a maximum of $22,047,916 for the standard Via 
+service cost, $179,502 for the Arlington Student Transportation Program, $4,020,224 for the 
+Arlington RAPID service, and $139,984 for the Handitran paratransit software, and $25,000 for 
+the translation of the rider app in Vietnamese.   
+ 
+In addition, all other references to the “not to exceed” amount shall be increased accordingly to 
+$30,412,626,  
+ 
+2. Amendment. Appendix E is added as an additional scope of work to the Agreement for Via software and 
+related services for City’s Handitran paratransit services.   
+ 
+3. Conflicts, Use of Terms, Governing Law. Capitalized terms used but not defined herein have the 
+meanings set forth in the Agreement. Except as expressly provided herein, the terms and conditions of the 
+Agreement remain unchanged. This Amendment #1 will be governed by the same law as the Agreement 
+and is effective as of May 23, 2023.  
+ 
+RIVER NORTH TRANSIT, LLC 
+ 
+ 
+ 
+CITY OF ARLINGTON, TX  
+ 
+By: 
+ 
+ 
+ 
+ 
+ 
+ 
+By: 
+ 
+Name:  
+ 
+ 
+ 
+ 
+ 
+Name: 
+ 
+Title: 
+ 
+ 
+ 
+ 
+ 
+ 
+Title: 
+ 
+Date: 
+ 
+ 
+ 
+ 
+ 
+ 
+Date:
+
+=== page 3 of 12 ===
+(d) Additional Services. Via can provide optional add-on services, including consulting, web-based booking portal,
+fixed route referral, live agent support, multi-modal or third party trip planner integrations, media and advertising
+services, marketing support, or access to our Remix® transit planning software for an additional fee. More details
+available upon request.
+Customer Responsibilities.
+(a) General. Customer will operate and manage the Deployment as set forth in the Terms, Customer shall cooperate
+with Via as necessary for the purpose of setting up the Deployment and its specifications, including by providing
+prompt feedback to Via's inquiries and providing local insights, in order to meet mutually agreed upon deadlines.
+(b) Launch. Within one week of signing this Order, the Parties will mutually agree on the targeted launch date of the
+Deployment ("Launch"). The launch date will be finalized after the first phase of the launch process is complete
+and the Customer has approved the Design document in writing. Launch shall be no fewer than 12 weeks following
+execution of this order. In the event that the Launch date is moved at Customer's request or delayed due to
+Customer's inaction, Customer will be charged a Technology Fee (as defined in Section "Fees" below) to
+accommodate hosting and other direct IT costs.
+(c) Zone: Customer and Via will agree at least three months prior to launch on the exact geographical scope for the
+Deployment zone ("Deployment Zone"). Any changes or expansions to the Deployment Zone may result in
+additional fees.
+(d) Support Requests. At the start of the project, Via will direct Customer towards the relevant CRM tools to log
+requests. In order to trigger a Product Maintenance request, requests for product maintenance must contain
+detailed information about the nature of the request. Requests for additional features may be subject to additional
+fees.
+(e) Payment Processing. The fees set forth above do not include any owed to the third party payment processor. Via
+will facilitate an introduction to its recommended payment processor and Customer is responsible for entering an
+agreement with such payment processor in order to be able to process credit card payments.
+Fees.
+Customer shall pay Via the following Fees for the Term, subject always to the Minimum Monthly Fee set out below:
+Fee Category
+Installation Fee
+Amount
+Invoicing Terms
+Monthly Fees
+Per-vehicle fees
+TNC Ride Fees
+Total Minimum Amount
+for 16 Months
+Year 1 (Months 1-12):
+$58,500 assuming 15 vehicles
+Year 2 (Months 13-16):
+• $20,540 assuming 15 vehicles
+
+=== page 4 of 12 ===
+Excludes additional vehicles in excess of the minimum, TNC per ride fees, and any
+Fees for any Additional Services
+$79,040
+Total Minimum Amount
+for 16-Month Base Term
+(Excluding Additional
+Services)
+Total Minimum Amount
+$104,040
+for 16-Month Base Term
+(Including Vietnamese
+App Translation)
+Total Not to Exceed
+$164,984
+Amount (Including
+Vietnamese App
+Translation)
+Additional Services:
+$25,000
+Vietnamese App
+Translation
+The Customer agrees to pay the Minimum Monthly Fee (i.e. the monthly vehicle minimum fees set out in the table above)
+for a period of 12 months in advance and annually thereafter (the "Advance Annual Fee"). Via will submit an invoice for
+Advance Annual Fee upon signature of this Order payment due in accordance with the Terms. For the avoidance of doubt,
+the first Advance Annual Fee is due in advance of Launch. Via will invoice the Advance Annual Fee annually thereafter
+for the remainder of the Term.
+In the event that the per-vehicle-fees incurred for a given month exceed the Minimum Monthly Fee, Customer shall be
+responsible for paying the difference for each such month ("Monthly True-Up") within 30 days of the date of such invoice.
+Via will calculate any fees due as Monthly True Up each month and provide Customer with an invoice calculating the per-
+vehicle fees actually incurred based on the actual number of active used during the previous month. Any Service Revenue
+collected on behalf of the Customer is the property of the Customer. Invoices shall include a credit for any Amount of
+Service Revenue collected during the invoice period to be reinvested into the Service. Any unspent Service Revenue
+remaining at the end of each contract year shall be distributed to the Customer within 30 days after the end of the contract
+The Customer agrees that the sample invoice set out in Appendix 2 is satisfactory to Customer, both in substance and format.
+Via shall calculate the Fees due. For the avoidance of doubt, i) the number of vehicles per month for purposes of the above fees shall be the maximum number
+of distinct vehicles input by Customer that use the Via Solution on any given day over the course of the applicable calendar month and (ili) in the event the
+duration of the Deployment does not exactly match calendar months, monthly fees will be prorated for the first and/or last calendar months of the Deployment,
+as applicable, so that Customer will only be charged for the portion of such months during which the Via Solution was available to be used for the Deployment.
+Twilio. Price includes our generic package for Twilio cost for 4 SMS notifications and 1.25 minutes of Twilio voice time per ride, at a maximum of $0.05
+per ride on average for all rides completed within each calendar month. Any costs associated with Twilio in excess of $0.05 per ride will be billed to the
+Customer as at cost plus 10% on a monthly basis
+Launch Delay. If the Launch Date is delayed for more than a calendar month by Customer for any reason, Customer shall be
+responsible for paying Via for a $1,500 monthly technology fee for the cost of maintaining the technology infrastructure for
+Customer's deployment during the period of delay (the "Technology Fee"). The Technology Fee shall be payable monthly
+at the beginning of the month in which it is incurred. In the event that the duration of the delay does not exactly match calendar
+months, the Technology Fee will be prorated for the relevant month in which Launch occurred.
+Branding. The Deployment will be determined during the Launch process. The "powered by Via" banner must be used
+only in the exact format provided by Via, and will be prominent on all assets promoting the Deployment, including (but not
+limited to) printed collateral, digital materials, websites, and any vehicle wraps. The "powered by Via" banner will have
+equal prominence on all marketing materials to any additional partner logos or trademarks. Via may provide pre-approved
+brand assets and guidelines that must be complied with in all marketing communications distributed by the Customer.
+This Order shall be governed by the terms and conditions of the On Demand Ride Share Service Contract (the "Terms"),
+dated as of November 29, 2022 between Parties, subject to the modifications set forth as Appendix 3 hereto.
+
+=== page 11 of 12 ===
+Appendix 3
+ 
+Additional Legal Terms 
+ 
+In order to reflect the nature of the services being provided under this Order, namely the fact that under this Order, 
+Via is providing access to technology only, the parties hereby agree to the following:  
+ 
+1. Applicability of the Terms.  
+a. 
+The services provided under this Order are not governed by the Scope of Services set forth as Exhibit 
+A to the Terms.  
+b. Any provisions of the Terms, Request for Proposal 22-0031, or Contractor’s Proposal Response to 
+the RFP that are not appropriate for technology-only services do not apply to this Order, including 
+but not limited to the following: 
+i. I(C)-(L), all of which relate to operational aspects that Via is not responsible for under this 
+Order;  
+c. 
+Exhibit E and Appendices 1 -3 apply only to the deployment of Via Software and VOC for use 
+in Customer’s Handitran Paratransit Services.  Notwithstanding anything to the contrary in 
+this Exhibit E or Appendices 1-3, nothing herein amends Exhibit A or the Terms as they apply 
+to the on-demand rideshare services provided under the Terms and Exhibit A.   
+2. Services Provided 
+a. 
+The parties acknowledge that the services provided under this Order are strictly for access and use 
+rights to Via’s proprietary technology solution, which Customer intends to utilize for its Handitran 
+paratransit services, and not for any ancillary services that are provided under the Terms. Without 
+limiting the foregoing, the parties acknowledge that Via will not be contracting with any drivers or 
+taking any responsibility for the day-to-day operation of the Handitran paratransit services.  
+b. Subject to the terms and conditions herein, Via will provide the Services, as defined herein. The 
+Services will include all related services, functions or responsibilities not specifically described in 
+this Agreement, but that are required or reasonably necessary for the proper performance of the Via 
+Solution in connection with the Handitran paratransit transportation services Customer provides (the 
+“Customer Transportation Service”), for the benefit of prospective and actual clients (collectively, 
+“Clients”), using vehicles, equipment and services (including telecommunications and/or dispatch 
+equipment and services), personnel, routes and other infrastructure it owns or otherwise controls 
+(the “Customer Infrastructure”). Via hereby grants Customer subscription, access, and use rights 
+(“Use Rights”) to the Via Solution as described in the Order. 
+c. 
+As between Customer and Via hereunder, all intellectual property rights of any type in and to the 
+Via Solution and all of their derivative works and improvements are owned by, and are proprietary 
+to Via.  Except for the Use Rights granted herein (a) no right, title or interest in or to the Via 
+Solution or any portion thereof is or shall be granted or transferred to Customer under this 
+Agreement, whether by license or otherwise; and (b) Customer acknowledges and agrees that it 
+shall have no right to use, reproduce, distribute, sublicense, modify or otherwise provide to third 
+parties, the Via Solution, in whole or in part, except as explicitly granted herein.  The Customer 
+shall not directly or indirectly disassemble, decrypt, scan, decompile or otherwise reverse engineer 
+in any manner any components or elements of the Via Solution or assist a third-party to do so. In 
+the event that Via provides Customer with any hard-copy or electronic copies of materials 
+containing Via’s Confidential Information, including information pertaining to the Via Solution 
+and its operation, and Customer retains copies of such materials in accordance with its general 
+procurement rules following the termination of this Agreement, Customer acknowledges that all 
+intellectual property rights relating to the Via Solution and all of their derivative works and 
+improvements remain the sole property of Via. 
+3. Liability 
+a. 
+TO THE MAXIMUM EXTENT PERMITTED BY LAW: (a) EACH PARTY EXPRESSLY 
+DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, OR STATUTORY 
+(INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR PURPOSE AND 
+NON-INFRINGEMENT); AND (b) VIA DOES NOT WARRANT THAT THE VIA SOLUTION 
+MEETS CUSTOMER’S REQUIREMENTS, OPERATES WITHOUT INTERRUPTION, OR IS 
+ERROR FREE.  Notwithstanding anything to the contrary express or implied in the Terms of this 
+Order, Via shall have no liability to Customer or any Client (including no duty to defend, 
+indemnify or hold Customer harmless) for any Transport Incident related to the Customer operated 
+Handitran Paratransit Transportation  where “Transport Incident” means any accident, incident or 
+other situation involving any Client (including negligent, willful and/or criminal acts and 
+omissions), any package or goods transported and/or handled by Customer and/or any employee 
+or agent of Customer on behalf of Customer and/or any Client, any communications devise,

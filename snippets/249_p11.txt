@@ -4,7 +4,31 @@
 # terms: Via+per vehicle hour
 
 === page 10 ===
-
+Docusign Envelope ID: 51AE72A3-62A5-4D27-ABC9-C526388E0177
+Appendix C:
+Service Fees
+The table below outlines the payment structure, in which UTA would be charged a price per driver
+hour. Any new regulatory fees imposed by a governmental entity related to the service will be
+charged as a pass-through cost contingent on UTA advance agreement provided such agreement
+will not be unreasonably withheld. UTA will have the option of decreasing other services or
+expenses in order to off-set these additional fees. The Deployment shall include a fleet of vehicles
+as described in Appendix B, subject to extension by mutual agreement of the parties on terms to
+be agreed (including any change in fees). The total contract value shall not exceed that listed in
+this Appendix C, "Not-to-Exceed Fees," of $3,463,509 including contingency and marketing for
+the 11-month duration of this Service Order (through June 30, 2027).
+The table below also documents a contingency budget, which the Parties may agree in writing to
+use in the event that the demand for the service exceeds forecasts.
+Via | Expansion Proposal for UTA
+Via will separately invoice UTA for marketing expenses incurred and as authorized by UTA under
+Section 8 of the Service Order. Via will charge its standard labor rate of $150.00 per hour for
+internal marketing labor cost. All other marketing expenses will be passed through at cost. The
+total combined marketing expenses incurred by Via and UTA shall not exceed $20,000 per year.
+The values in the table above are Not-to-Exceed (NTE) amounts and are subject to downward
+adjustment based on actual revenue hours achieved.
+UTA will be billed for the above fees as described below. Driver hours will be billed as incurred
+at the end of each month. UTA shall pay the following fees to Via:
+Ongoing Invoice Fees
+10
 === page 11 ===
 11 
  

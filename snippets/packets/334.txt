@@ -1,0 +1,54 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Key West/23_4884_Cover_Memo.pdf
+# pages_total: 1; hit_pages: [1]; included: [1]
+# context: Bleecker Drive folder: Key West
+
+=== page 1 of 1 ===
+ST OF HE CO
+KEY W
+YESTIONS!
+MEMORANDUM
+Date:
+October 20, 2023
+To:
+Honorable Mayor and Commissioners
+Via:
+Albert P. Childress
+City Manager
+From:
+Rodrigo Delostrinos
+Director of Transportation
+Subject:
+Approve an Amendment to the Service Order with Via Mobility LLC to Extend the
+Current Term for On-Demand Transit Software as a Service (SaaS) to Improve Transit
+Operations
+Introduction
+Approve an amendment to the service order with Via Mobility LLC to extend the term from the initial
+first-year pilot program to three years with two option years for On-Demand Transit Software as a Service
+(SaaS) to improve transit operations in an amount not to exceed a total 5-year project cost of $270,000
+pursuant to City of Key West Code of Ordinances Section 2-797 (4) b. Exempt purchases in the best
+interests of the city. Authorizing any necessary budget adjustments; Authorizing the City Manager to
+execute necessary documents upon consent of the City Attorney.
+Background
+On June 21, 2022, the City Commission through Resolution 22-141 approved procurement of On-
+Demand Transit Software as a Service (SaaS) from Via Mobility LLC to support the demand response
+transit service, "Key West Rides," This initiative has resulted in better resource (vehicle/personnel)
+utilization and drastically reduced "headway" (amount of time between transit vehicle arrivals at a stop),
+thus providing better community public transportation. November 2023 marks the one-year service
+anniversary. Ridership from November 2022 to September 2023 exceeds 48,000 trips. This initiative is
+consistent with the Key West FORWARD Strategic Plan's Priority 6: Traffic and Pedestrian
+Friendliness, Goal 2 Improve Public Transit.
+Procurement
+Through City Commission Resolution 23-245, the City of Key West has entered into a Public
+Transportation Grant Agreement (PTGA) with the Florida Department of Transportation (FDOT) Transit
+Service Development Grant Program that allows for reimbursement of the Key West Rides: On-Demand
+Transit operating costs up to $250,000 of the total project cost of $500,000 over a three-year period.
+FY24 Budget Allocation for this service is listed in Account: 411-4402-544-5400 Transit Operations.
+Recommendation
+The City Manager's Office recommends the Mayor and City Commission approve the amendment to the
+service order with Via Mobility LLC to extend the current term for On-Demand Transit Software as a
+Service (SaaS).
+Exhibits:
+Exhibit A - Amendment
+Exhibit B - Service Order
+Exhibit C - Resolution 22-141

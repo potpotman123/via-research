@@ -1,0 +1,175 @@
+# source: raw/bleecker_drive/Lompoc County/DM9730_98_81_Lompoc_Transit_Ops_RFP.pdf
+# path: raw/bleecker_drive/Lompoc County/DM9730_98_81_Lompoc_Transit_Ops_RFP.pdf
+# hit page: 8 of 97
+# terms: Via+drivers
+
+=== page 7 ===
+REQUEST FOR PROPOSALS 
+February 2025 
+Transit Systems Operations Services RFP  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 2 
+City of Lompoc, California 
+ 
+• 
+Introduce early-morning general public on-demand service to provide connections with 
+morning Clean Air Express trips to Goleta and Santa Barbara.  
+ 
+• 
+Continue operation of the Wine Country Express and Santa Barbara Shuttle. 
+ 
+Looking Forward:  Scope of Services 
+The City is seeking one prime contractor to provide day-to-day administration and operation of its 
+public transit/transportation services.  Teaming is encouraged, provided one firm serves as the 
+prime contractor and others as subcontractors. 
+ 
+ 
+1.3 
+General Public Fixed-Route Service 
+The City’s fixed-route transit service includes the following elements:  three routes (Routes 1, 2, 
+and 3) operating within Lompoc city limits; one route (Route 4) serving Vandenberg Village and 
+Mission Hills; a limited-stop, high-frequency shuttle (Route 5/H Street Shuttle) traveling chiefly 
+along H Street; an inter-community service (Wine Country Express) linking Lompoc with the 
+neighboring Santa Ynez Valley; and a twice-weekly service (Santa Barbara Shuttle) linking 
+Lompoc with healthcare centers in Santa Barbara and Goleta. 
+ 
+Routes 1, 2, and 3 each operate on 40-minute service frequency using one vehicle for each 
+route. These routes will operate Monday through Friday, from 6:00 a.m. to 5:00 p.m. and will focus 
+on east-west travel in south Lompoc, central Lompoc, and north Lompoc, offering connections 
+with the H Street Shuttle at multiple locations. The proposed route alignments and schedules are 
+provided in Attachment 15. 
+ 
+Route 4 will operate from approximately 6:30 am to 5:00 pm, Monday through Friday.  The 
+Contractor will deploy one vehicle to operate this service. The proposed route alignment and 
+schedule are provided in Attachment 15. 
+ 
+Route 5 (the H Street Shuttle) will provide 20-minute bi-directional service from 6:00 am to 5:00 
+pm Monday through Friday north and south on H Street between the Transit Hub and Mission 
+Plaza. The Contractor will deploy one vehicle to operate this service.  The proposed route 
+alignment and schedule are provided in Attachment 15. 
+ 
+The Wine Country Express will continue to provide three round trips per day, Monday through 
+Saturday, as currently scheduled.  One vehicle will be utilized. A link to the service brochure is 
+provided in Attachment 15. 
+ 
+The Santa Barbara Shuttle will continue to provide service between Lompoc and Santa Barbara 
+on Tuesday and Thursday as currently scheduled. The shuttle currently picks up Dial-A-Ride 
+passengers in Lompoc first, then picks up other riders at the Transit Hub at 8:30 a.m.  Riders are 
+picked up at 1206 W. Chapala Street in Santa Barbara (next to China Pavilion) at 3:30 p.m., after 
+which the shuttle picks up Dial-A-Ride passengers before returning to Lompoc. The vehicle and 
+driver remain in Santa Barbara during this period. One vehicle will be assigned. 
+ 
+The services discussed above will not operate on Saturday (except the Wine Country Express), 
+Sunday or City-designated holidays.  These include  New Year’s Day, MLK Jr. Day, Presidents’ 
+Day, Memorial Day, Juneteenth, Independence Day, Labor Day, Veterans Day, Thanksgiving
+=== page 8 ===
+REQUEST FOR PROPOSALS 
+February 2025 
+Transit Systems Operations Services RFP  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 3 
+City of Lompoc, California 
+ 
+Day, Day after Thanksgiving, Christmas Eve, and Christmas Day. 
+ 
+1.4 
+ADA Complementary Paratransit Service 
+The City’s ADA complementary paratransit service (Dial-A-Ride) is a curb-to-curb, shared-ride 
+service provided for residents of the Lompoc Valley possessing an ADA recognized disability.  
+Physician certification is required in order to be eligible to use the service. 
+ 
+The service will operate Monday through Friday, 6:00 a.m. to 5:00 p.m.  Service will initially be 
+provided with one vehicle, with the potential for more to be added should demand warrant. The 
+service span mirrors that of the fixed-route service. 
+ 
+The service will not operate on Saturday, Sunday, or City-designated holidays:  New Year’s Day, 
+MLK Jr. Day, Presidents’ Day, Memorial Day, Juneteenth, Independence Day, Labor Day, 
+Veterans Day, Thanksgiving Day, Day after Thanksgiving, Christmas Eve, and Christmas Day. 
+ 
+The City will continue to be responsible for all eligibility and registration for the ADA Paratransit 
+service. Registration applications and waivers must be submitted to the City for review and 
+approval.  Approval is required before the rider can use this service. Applications are typically 
+processed within three business days of receipt, and notification of approval is provided by mail.  
+ 
+A personal care attendant (PCA) may accompany a fare-paying  rider for no additional fare.  By 
+contrast, a person traveling as a companion must pay the same fare as the rider they are 
+accompanying. 
+ 
+ADA Paratransit reservations shall be supported by the Contractor’s website and mobile customer 
+service portal, as detailed in the Scope of Work. User-friendly features shall enable customers to 
+quickly and easily schedule, purchase, and manager their trips and accounts. These tools will 
+support both on-demand and scheduled trip booking.  Riders must also be able to book a trip via 
+telephone. Bidders are to discuss their proposed ride scheduling terms and policies within their 
+respective proposals. 
+ 
+A late cancellation is defined as one that is received less than two hours before the requested 
+pick-up time. A no-show is defined as a trip that is not cancelled or one that is cancelled after the 
+vehicle has arrived at the pick-up location. Drivers will wait three (3) minutes after the scheduled 
+pick-up time.  Excessive late cancellations or no-shows may result in suspension or loss of riding 
+privileges. 
+ 
+1.5 
+General Public On-Demand Service 
+The Contractor will operate a general public on-demand service within Lompoc city limits as well 
+as in Mission Hills and Vandenberg Village.  This service will utilize a “corner-to-corner” service 
+approach focusing on safe rider pick-up and drop-off at nearby intersections in close proximity to 
+the origin and destination points. The locations of “corner-to-corner” virtual stops will be 
+determined by the successful bidder’s dispatching algorithm, which will identify safe locations 
+(such as nearby intersections or side streets) for the vehicle to stop. ADA-certified riders will be 
+eligible to receive curb-to-curb service.
+=== page 9 ===
+REQUEST FOR PROPOSALS 
+February 2025 
+Transit Systems Operations Services RFP  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 4 
+City of Lompoc, California 
+ 
+• 
+The weekday evening service will operate Monday through Friday, 5:00 pm to 10:00 
+pm, replacing both fixed-route and Dial-A-Ride services.  Contractor will assign two 
+vehicles for service from 5:00 pm to 7:00 pm and one vehicle from 7:00 pm to 10:00 
+pm.  Contractor may operate a third vehicle between 5:00 pm and 7:00 pm, or a second 
+vehicle between 7:00 pm and 10:00 pm, if demand warrants.   
+ 
+• 
+Saturday service will operate 9:00 am to 5:00 pm, replacing both fixed-route and Dial-
+A-Ride services.  Four vehicles will initially be deployed to operate this service. Upon 
+the City’s direction, either more or fewer vehicles may be utilized depending upon 
+demand. 
+ 
+• 
+Contractor will operate early morning Saturday service on a short-term trial basis.  It 
+will operate one vehicle on Saturday from 8:00 am to 9:00 am.  The City will determine 
+the start date and end date of the trial service.   
+ 
+• 
+Contractor will operate early morning weekday service connecting with Clean Air 
+Express on a short-term trial basis.  It will operate one vehicle on weekdays between 
+5:00 am and 6:30 am.  The City will determine the start date and end date of the trial 
+service.   
+ 
+The City desires a turnkey model, whereby a contracted operator provides the reservation and 
+on-demand technology (i.e., dispatching platform, real-time vehicle tracking, website, mobile 
+application, etc.) as well as all personnel to operate revenue service vehicles. The City will provide 
+all revenue vehicles for this service. Further discussion of the technology requirements, including 
+required characteristics of the website and mobile application, are provided in the Scope of Work 
+under Section 1.

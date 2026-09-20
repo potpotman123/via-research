@@ -1,0 +1,102 @@
+# source: https://nashville.legistar1.com/nashville/attachments/3945d95e-aee0-4c5e-b3cd-bf8bbef09364.pdf
+# path: raw/cache/861aba2527e3a0632e2bf924485acb3a363c182a.pdf
+# hit page: 42 of 70
+# terms: Via Transportation
+
+=== page 41 ===
+26883
+61567437
+6,000,000
+Cyber/E&O Liability
+CN115319700--Cyber-25-26
+03/07/2026
+SEA-004076577-03
+03/24/2025
+4
+100,000
+SIR:
+03/07/2025
+Limit:
+  114 5th Avenue, Floor 17
+  Remix Technologies LLC
+  New York, NY  10011
+AIG Specialty Insurance Company
+  FOUR EMBARCADERO CENTER, SUITE 1100
+  MARSH RISK & INSURANCE SERVICES
+  SAN FRANCISCO, CA  94111
+  CALIFORNIA LICENSE NO. 0437153
+N
+  Metro Courthouse
+  Nashville, TN  37201
+  Metropolitan Government of Nashville &
+  Davidson County
+A
+$POUSBDU
+	
+		
+
+=== page 42 ===
+Docusign Envelope ID: FB67CC8E-A5D2-4D73-ADD1-FC7AE1463C8E
+METROPOLITAN GOVERNMENT OF NASHVILLE AND DAVIDSON COUNTY
+DEPARTMENT OF FINANCE - PROCUREMENT
+SOLE SOURCE JUSTIFICATION FORM
+DIVISION OF PURCHASI
+SS2024153
+SS #:
+Date Received: June 25, 2024
+Send an email to PRG@nashville.gov and attach completed sole source form and supporting documentation.
+Proposed supplier MUST be Registered in Procurement
+Date: 6/25/2024 Requesting Department/Agency/Commission: Department of Transportation & Multimodal Infrastructure
+Requesting Official: Justin Cole Telephone #: 615-880-1661
+This is for a multi-year contract.
+Product/Service Description: Remix:Streets Software
+Total Purchase (Enter the value for the entire contract life) Price: $266,500
+BU Number: 42201000
+Fund #: 30003
+Object Account: 503120 Any Other Accounting Info: R181123
+Proposed Supplier: Via Transportation
+Supplier Address: 114 5th Ave 17th Floor
+Supplier Telephone #: 1-845-521-5836
+Proposed Supplier Contact: Joshua Panter
+City: New York
+ST: NY
+Supplier Email: joshua.panter@ridewithvia.com
+Zip: 10011
+Metro Code: 4.12.060 Sole Source Procurement.
+A contract may be awarded for a supply, service or construction item without competition when, under regulations
+promulgated by the standards board, the purchasing agent determines in writing that there is only one source for the required
+supply, service or construction item. The standards board may, by regulation, establish specific categories of supplies,
+services, or construction items as sole source items. (Ord. 92-210 § 1 (3-205), 1992)
+R4.12.060.02 Conditions for Use of Sole Source Procurement.
+Other, see explanation below
+If Other, Explain Request: Remix: Streets is the only transportaion planning software product that allows for data analysis,
+development of street design concepts, and collaboration between internal and external stakeholders on those concepts
+in one software product. NDOT intends to use this product for the development of plans for bikeways, tactical
+urbanism/quick build projects, transit priority improvements, and other complete street projects. The unique data analysis
+and visualization features included allow use of out-of-the-box data layers and custom layers uploaded by users. The
+analysis and visualizations can then immediately be leveraged for street designs within the same software platform. The
+unique features for developing design concepts include a drag-and-drop interface for placing and designing street
+elements over basemaps that auto-populate with existing conditions. The collaborative nature of the platform is also
+unique, allowing unlimited users in the agency to work together on projects and offering the ability to share projects
+externally. The external sharing allows stakeholders and community members an accessible and interactive way to view
+street plans, not available with other software. There is also a built-in commenting function to collect feedback from the
+public directly within the interactive platform. All of these unique features are needed for NDOT staff to be able to quickly
+generate data-driven concepts for street improvements and to share those concepts internally and externally. There is no
+alternative software solution that provides all the capabilities listed here, allowing for start-to-finish development of street
+design concepts built on data analysis and community engagement. Using separate software products to access some of
+the above capabilities would require development of complicated methods to combine outputs from separate software
+products that would be an inefficient and ineffective use of agency resources and would still not provide all the features
+included with Remix:Streets. More detailed documentation of the unique features is attached.
+Rev 08/05/2021
+=== page 43 ===
+Docusign Envelope ID: FB67CC8E-A5D2-4D73-ADD1-FC7AE1463C8E
+Signatures will be gotten by Procurement in DocuSign
+KCK
+Department Requester's Initials:
+Diana Alarcon
+Requesting Department Director's Signature of Approval:
+Date:
+6/26/2024 | 1:19 PM PDT
+Rev 08/05/2021
+SS2024153
+Rec. June 25, 2024

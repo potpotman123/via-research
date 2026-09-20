@@ -1,0 +1,153 @@
+# source_url: https://legistar.granicus.com/cupertino/attachments/f6ce921e-aa2c-46af-a606-0ae2aa508523.pdf
+# path: raw/cache/eae97441ebeee4c9493954b3104080b669ba6ff5.pdf
+# pages_total: 26; hit_pages: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 20, 22, 25]; included: [1, 13, 22]
+# context: legistar client=cupertino; matter 23-12042 (2023-02-08): Subject:  Consider a four-year contract with Nomad Transit LLC (Via) for the Transit & Intercity Rail Capital Program (TIRCP) funded Via expansion into the City of Santa Clara, with two sites in Mountain View, deployment of an electric vehicle (EV) fleet, construction of necessary charging stations,
+
+=== page 1 of 26 ===
+CITY OF m 
+PROFESSIONAL/CONSULTING SERVICES AGREEMENT 
+CUPERTINO 
+1. 
+PARTIES 
+This Agreement is made by and between the City of Cupertino, a municipal corporation ("City"), 
+and Nomad Transit, LLC ("Contractor"), a Delaware Limited Liability Company and a wholly 
+owned subsidiary of Via Transportation, Inc. for the South Bay Microtransit Expansion project. 
+This agreement becomes effective on the last date signed below ("Effective Date"). 
+2. 
+SERVICES 
+Contractor agrees to provide the services and perform the tasks ("Services") set forth in detail in 
+Scope of Services, attached here and incorporated as Exhibit A. Contractor further agrees to carry 
+out its work in compliance with any applicable local, State, or Federal order regarding COVID-19. 
+3. 
+TIME OF PERFORMANCE 
+3.1 
+This Agreement begins on the Effective Date and ends on July 17, 2027 ("Contract Time"), 
+unless terminated earlier as provided herein. Contractor's Services shall begin on the Effective 
+Date and shall end July 17, 2027. The City's appropriate department head or the City Manager 
+may extend the Contract Time through a written amendment to this Agreement, provided such 
+extension does not include additional contract funds. Extensions requiring additional contract 
+funds are subject to the City's purchasing policy. 
+3.2 
+Schedule of Performance. Contractor must deliver the Services in accordance with the 
+Schedule of Performance, attached and incorporated here Exhibit B. 
+3.3 
+Time is of the essence for the performance of all the Services. Contractor must have 
+sufficient time, resources, and qualified staff to deliver the Services on time. 
+4. 
+COMPENSATION 
+4.1 
+Maximum Compensation. A grant in the amount of$8,465,000 from the California State 
+Transportation Agency (CalSTA) will cover approximately 50% of the expansion of the Via-
+Cupertino program, including the conversion to a zero-emission vehicle fleet. The total value for 
+this agreement including both local funds and grant funds is $16,931,283. City will pay Contractor 
+for satisfactory performance of the Services an amount that will based on actual costs but that 
+will be capped so as not to exceed $16,931 ,283.00 ("Contract Price"), based upon the scope of 
+services in Exhibit A and the budget and rates included in Exhibit C, Compensation attached and 
+incorporated here. The maximum compensation includes all expenses and reimbursements and 
+will remain in place even if Contractor's actual costs exceed the capped amount. No extra work or 
+payment is permitted without prior written approval of City. 
+Page I of9 
+Professional/Consulting Contracts - Nomad Transit, LLC 
+Attachment A
+
+=== page 13 of 26 ===
+Customer Service 
+The Consultant shall provide high-quality customer service to both customers and driver partners during the 
+course of the Program. If an issue arises for a customer or driver before, during, or after a ride, parties will be 
+able to reach Consultant staff by text message in real time, or by submitting an email ticket, which will be 
+replied to promptly by Consultant staff. Riders who booked using the dedicated phone line will be able to 
+receive phone support as required. 
+Hours of Operation 
+The Program will operate Monday through Saturday, excluding holidays, for which a mutual decision 
+whether to operate will be made between the City and Consultant. The Consultant estimates the service will 
+operate from 7am - 7pm Monday - Friday, and 9am-5pm Saturdays, subject to change based on demand data 
+gathered during the initial launch period and subject to mutual decision between the Consultant and City. 
+The Program goal will be to provide operating hours as extensive and consistent as possible within the 
+reasonable cost, as mutually agreed upon between the Consultant and City. As it is the intent of the Program 
+to provide a reliable and predictable service, the Consultant shall seek to limit adjustments to the Hours of 
+Operation to those changes deemed necessary or intended to grow ridership or enhance service. 
+Fare Structure 
+It is the intent of the Program to provide a consistent, flat-fare transportation service that enables community 
+members of all incomes to access a convenient, high quality mobility option. The consumer cost to take a 
+ride using the Program shall be as follows in the fare structure below, unless otherwise mutually agreed upon 
+by Consultant and the City Project Manager: 
+Regular Fare (per trip): $3.50, with the option to reduce post launch as low as $2, as it relates to demand 
+generation and rider acquisition tactics and targets. 
+Rider +friends (additional riders added onto a users' trip request): Half the regular per trip fare per-person, up 
+to a maximum of four ( 4) riders under one (1) reservation (dependent upon vehicle capacity). 
+Weekly ViaPass: Set price per week, starting the first day of the first trip used. Offers up to a set number of 
+trips per-day, each operational day of the week. 
+Senior (ages 65+), disabled, low-income, and students discounted rate passes: Riders who are eligible and 
+submit necessary documentation shall receive 50% off all standard fares, including the Weekly ViaPass. 
+Consultant will work with City staff to determine appropriate fares for mutually agreed-upon out of zone 
+destinations, listed in Cupertino Service Area Map, Exhibit C. 
+Consultant will work with City staff on developing additional fare packages, such as a monthly pass, and 
+other ways to maximize fare-box recovery and increase ridership, including analyzing the benefit of rolling 
+out distance and/or time-based pricing as a lever to control demand, if necessary. 
+The City will be responsible for verifying whether riders qualify for discounted fares. The City will identify 
+simple methods of verification, such as student ID's for the student fare, or cards demonstrating that riders 
+qualify for existing low-income programs to simplify the verification process to the maximum extent 
+feasible. 
+Any changes to base ride cost will be made in response to service data, and with the intention of making the 
+service as efficient and cost-effective as possible while retaining service accessibility. The City will retain 
+full authority to approve any changes to the base ride cost range described above. 
+Fare payment options shall include payment by credit card submitted electronically through the Rider App or 
+submitted through the Via system when booking is made for a rider over the phone. 
+FleetN ehicles 
+Dedicated vehicles will be offered by the Consultant's chosen third-party vehicle provider ("Vehicle 
+Provider") to Driver Partners on a rental basis. The Vehicle Provider will offer a fleet ofup to thirteen (13)
+
+=== page 22 of 26 ===
+EXHIBITD 
+Insurance Requirements 
+Nomad Transit, LLC - On-Demand Community Shuttle 
+Consultant shall procure prior to commencement of Services and maintain for the duration of the contract, 
+at its own cost and expense, the following insurance policies and coverage with companies doing business 
+in California and acceptabletoCity. 
+INSURANCE POLICIES AND MINIMUMS REQUIRED 
+I. 
+Commercial General Liability (CGL) for bodily injury, property damage, personal injury liability 
+for premises operations, products and completed operations, contractual liability, and personal and 
+advertising injury with limits no less than $5,000,000 per occurrence (ISO Form CG 00 01). If a 
+general aggregate limit applies, either the general aggregate limit shall apply separately to this 
+project/location (ISO Form CG 25 03 or 25 04) or it shall be twice the required occunence limit. 
+a 
+It shall be a requirement that any available insurance proceeds broader than or in excess of the 
+specified minimum insurance coverage requirements and/or limits shall be made available to the 
+Additional Insured and shall be (i) the minimum coverage/limits specified in this agreement; or (ii) 
+the broader coverage and maximum limits of coverage of any insurance pol icy, whichever is greater. 
+b. 
+Additional Insured coverage under Consultant's policy shall be "primary and non-contributory," 
+will not seek contribution from City's insurance/self-insurance, and shall be at least as broad as ISO 
+Fonn CG 20 01 (04/13). 
+c. 
+The limits of insurance required may be satisfied by a combination of primary and umbrella or 
+excess insurance, provided each policy complies with the requirements set fo1ih in this Contract. 
+Any umbrella or excess insurance shall contain or be endorsed to contain a provision that such 
+coverage shall also apply on a primary and non-contributory basis for the benefit of City before the 
+City's own insurance or self-insurance shall be called upon to protect City as a named insured. 
+2 
+Automobile Liability: ISO CA 0001 covering any auto (including owned, hired, and non-owned 
+autos) with limits no less than $5,000,000 per accident for bodily injury and property 
+damage. 
+3. 
+Workers' Compensation: As required by the State of California, with Statutory Limits and 
+Employer's Liability Insurance of no less than $1,000,000 per occurrence for bodily injury or 
+disease. 
+4. 
+Sexual Abuse/Molestation: Insurance or the equivalent as required for activities/services involving 
+minors, (i.e., after school activities, recreational programs, athletics, study/training events and 
+transportation of minors). Coverage may be included under General Liability or be obtained in a 
+separate policy, such as Educators Legal Liability (ELL) policy, with a limit of no less than 
+$1,000,000 per occurrence. If a general aggregate limit applies, it must apply separately to this 
+contract or be twice the required occurrence limit. 
+5. 
+Cyber Liability: Insurance with limits not less than $5,000,000 per occurrence I $5,000,000 aggregate. 
+Coverage shall be sufficiently broad to respond to the duties and obligations as is undertaken by 
+Consultant in this agreement and shall include, but not be limited to, claims involving 
+infringement of intellectual property, including but not limited to infringement of copyright, 
+trademark, trade dress, invasion of privacy violations, information theft, damage to or destruction 
+of electronic information, release of private information, alteration of electronic information, 
+extortion and network securny. L ne po11cy sna11 proviae coverage ror breach respu11;:,c; co-st as 
+Exh. D-lnsurance Requirements 
+1

@@ -1,0 +1,48 @@
+# source: raw/bleecker_drive/City of Philadelphia/DM0012_2023_Remix_Philadelphia_Services_Agreement.pdf
+# path: raw/bleecker_drive/City of Philadelphia/DM0012_2023_Remix_Philadelphia_Services_Agreement.pdf
+# hit page: 1 of 13
+# terms: Remix Technologies, Via Transportation, Via+SaaS
+
+=== page 1 ===
+Remix Services Agreement for the City of Philadelphia 
+This Services Agreement (“Agreement”) is entered into between Remix Technologies, LLC., a subsidiary of Via Transportation, Inc. ("Company"), and PHILADELPHIA.  
+("Customer") and will become effective when it is executed by authorized representatives of both parties (the “Effective Date”). 
+Scope of Services & Terms 
+Prepared for Kelley Yemen, City of Philadelphia 
+By Olivia Ius, Remix (olivia.ius@ridewithvia.com).  Date: April 27th, 2023 
+Effective Date 
+June 30, 2023 
+Remix Streets+ Explore 
+Platform License 
+$84,000 USD   
+ 
+Includes: 
+• Access to Street Design and Explore platforms 
+• Remix licenses for an unlimited number of users within the City of Philadelphia   
+• Enhanced data visualization and analysis  
+• Software as a Service (SaaS): fully hosted, cloud-based web platform 
+• Dedicated Customer Success staff; Premium Enterprise Support: response to requests in 1 business day 
+•  
+Marketing Terms: 
+Customer Story 
+As a part of this agreement, Philadelphia agrees to partner with Remix on 1 customer story. 
+The subject of the customer story will be mutually agreed by both Philadelphia and Remix.  
+ 
+•••••• 
+This Agreement incorporates the attached Terms and Conditions (“Terms”) and the City of Philadelphia Terms and Conditions Small Purchase Order 
+(the “SOP Terms”). The incorporation of the SOP Terms shall exclude Section 4, 5 and 10 therein. In the event of a conflict or inconsistency between 
+the Terms, this Agreement or the SOP Terms, the order of precedence will be the order of the documents as listed herein, with the first listed 
+document having the highest precedence, except to the extent that this Agreement expressly states that it is superseding specific language in any 
+of the aforementioned documents.  Capitalized terms not otherwise defined herein will have the meaning ascribed to them in the Agreement. 
+The parties have caused their duly authorized representatives to execute this Agreement (incorporating the Terms) as of the dates set forth below. 
+ 
+City of Philadelphia 
+Remix Technologies, LLC. 
+Signature: _______________________________________________ 
+Signature: ___________________________________________________ 
+Name: ___________________________________________________ 
+Name: _______________________________________________________
+=== page 2 ===
+Title:  _____________________     Date: ______________________ 
+Title:  _______________________     Date: ________________________ 
+Billing Contact Name: ____________________________________   Email:  _______________________________   Phone:  __________________

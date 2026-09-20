@@ -1,0 +1,63 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Howard County/20240425142522337 RFP 07-2024 Cost File Final.pdf
+# pages_total: 4; hit_pages: [2]; included: [2]
+# context: Bleecker Drive folder: Howard County
+
+=== page 2 of 4 ===
+Request For Proposals No. 07-2024 
+ 
+Information on Howard County, Maryland’s Living Wage Requirement 
+Basics of the Howard County Living Wage Legislation 
+In 2007, the Howard County Council passed legislation requiring a minimum “living wage” for employees of certain 
+contractors and subcontractors of Howard County. A Contractor that is defined as a “Covered Employer” under Howard 
+County Code Section 4.122A shall pay each employee an hourly rate sufficient to at least equal 125% of the federal poverty 
+guidelines for a family of four individuals calculated on the basis of a 40-hour work week for 52 weeks. 
+Howard County Code Sec. 4.122A applies to service contracts estimated to be over $100,000.00 per year. The code does 
+not apply to commodities contracts, contractors who employ fewer than 5 employees during the contract term, public 
+entities, non-profit organizations, or contracts awarded under emergency, or expedited procedures. Other contractors may 
+also be exempt; see the complete list of exemptions in Section 1 on the front of this form. 
+The living wage requirements do not apply to an employee: 
+• 
+who performs no measurable work related to any contract with the County 
+• 
+who participates in a government-operated or government-sponsored program that restricts the earnings of or wages 
+paid to employees to a level below the wage required under the law 
+• 
+who participates for not longer than 120 days in a calendar year in a government-operated or government-sponsored 
+summer youth employment program 
+• 
+for whom a different wage rate is expressly set in a collective bargaining agreement, or 
+• 
+for whom a higher wage is required by a federal, state, or County law. 
+This form serves as written certification to the County of your firm’s intent to comply with the County’s wage requirements 
+during this term and any subsequent renewals. A Covered Employer shall not subdivide a contract; pay an employee through 
+a third party; or treat an employee as a subcontractor or independent Contractor to avoid the imposition of any requirement 
+under this law. Failure to comply with this requirement at any time during the initial term and subsequent renewals may be 
+sufficient cause for termination for default. A violation of this law is a Class A civil offense; in addition to a fine, the County 
+may suspend or debar the violator under Howard County Code Sec. 4.117. 
+ 
+Current Living Wage Rate in Howard County 
+As of January 12, 2024, the Living Wage Rate is $18.75 per hour. 
+ 
+How the Living Wage Rate is Calculated 
+The Howard County Living Wage Rate is calculated by taking 125% of the Federal Poverty Guideline for a family of 4, 
+then using this amount to determine the hourly rate based on 40 hours/week. On January 12, 2024, the Federal HHS Poverty 
+Guideline was published as $31,200 for a family of 4 (see https://aspe.hhs.gov/poverty-guidelines). 
+ 
+125% of $31,200 = $39,000.00 
+$39,000.00 ÷ 52 weeks ÷ 40 hrs/week = $18.75 per hour 
+This hourly rate must be paid to employees (full-time or part-time) during the time the employees actually provide services 
+to the County. The current Living Wage remains in effect until new federal poverty guidelines are published, which is 
+usually the following January. If there is a change, the Office of Procurement and Contract Administration will attempt to 
+notify all current contractors via email using the email address provided on this form. The current rate is posted on our 
+website at https://www.howardcountymd.gov/procurement-contract-administration. It is the contractor’s responsibility to 
+ascertain the current rate. 
+ 
+Since the rate is subject to change annually, you must ensure that your bid pricing is sufficient to cover the cost of 
+any increases during the term of the contract, including subsequent renewals. All prices shall take the current wage 
+rate, and subsequent increases in the wage rate, if any, into account and there shall be no unit price adjustment for future 
+wage rate increases during the initial term of this agreement and any subsequent renewals thereof. Future wage rate increases 
+are hereby defined as any new rates approved by the County that take effect after and supersede the rate shown in this 
+solicitation. 
+If you have questions about the Living Wage Requirement or how to complete this form, please contact the 
+Office of Procurement and Contract Administration at purchasing@howardcountymd.gov or 410-313-6370.

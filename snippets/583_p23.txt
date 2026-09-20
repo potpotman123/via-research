@@ -1,0 +1,195 @@
+# source: raw/bleecker_drive/Cap Metro/500089.pdf
+# path: raw/bleecker_drive/Cap Metro/500089.pdf
+# hit page: 23 of 89
+# terms: Via Mobility
+
+=== page 22 ===
+CAPITAL METROPOLITAN TRANSPORTATION AUTHORITY 
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB 
+ 
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB 
+ 
+SSP  //                                                  Page  of                                                                     Exhibit B - Federal 
+ 
+is incorporated in or has manufacturing facilities in the United States and 
+ 
+is owned or controlled by, is a subsidiary of, or is otherwise related legally or financially to a corporation 
+based in a country that - 
+i 
+ is identified as a nonmarket economy country as defined in section  of the Tariff Act of 
+  U.S.C.  as of the date of enactment of this subsection 
+ii 
+was identified by the United States Trade Representative in the most recent report required by 
+section  of the Trade Act of   U.S.C.  as a foreign country included on the priority watch list defined 
+in subsection g of that section and 
+iii 
+is subject to monitoring by the Trade Representative under section  of the Trade Act of  
+ U.S.C. . 
+a ³Restricted Manufacturer´. For purposes of this provision, the term ³otherwise related legally or financially´ does 
+not include a minority relationship or investment͘ 
+b 
+Procedures. The Offeror shall review the relevant statutes to ascertain if the Offeror or any subcontractor or 
+supplier is a Restricted Manufacturer.  
+c 
+Representation. The Offeror represents that² 
+ 
+It  
+ 
+ 
+ is 
+ 
+ is not 
+ 
+a Restricted Manufacturer and 
+ 
+It has obtained representations from all relevant subcontractors or suppliers, and that the subcontractors 
+or suppliers² 
+ 
+ 
+ are 
+ 
+ are not 
+ 
+Restricted Manufacturers. 
+ 
+d 
+Disclosures. Disclosure for the representation in paragraph c of this provision: If the Offeror has responded 
+is´ in the representation in paragraph c of this provision, the Offeror shall provide a statement providing all 
+information reflecting the basis for its certification.  If the Offeror has responded ³are´ in the representation in para-
+graph c of this provision, the Offeror shall provide a statement identifying the subcontractors or suppliers and 
+all information reflecting the basis for the certification. 
+ 
+25. 
+SIGNATURE BLOC. FOR ALL REPRESENTATIONS AND CERTIFICATIONS 
+ 
+ 
+a 
+These representations and certifications concern a material representation of fact upon which reliance will be 
+placed in awarding a contract.  If it is later determined that the offeror knowingly rendered an erroneous or false 
+certification, in addition to all other remedies the Authority may have, the Authority may terminate the contract for 
+default and/or recommend that the offeror be debarred or suspended from doing business with the Authority in the 
+future. 
+ 
+b 
+The offeror shall provide immediate written notice to the Authority if, at any time prior to contract award, the 
+offeror learns that the offeror¶s certification was, or a subsequent communication makes, the certification erroneous. 
+ 
+DocuSign Envelope ID: CB2F0431-0997-4BD9-A893-28A37F528C54
+=== page 23 ===
+CAPITAL METROPOLITAN TRANSPORTATION AUTHORITY 
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB 
+ 
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB 
+ 
+SSP  //                                                  Page  of                                                                     Exhibit B - Federal 
+c 
+Offerors must set forth full, accurate and complete information as required by this solicitation including this 
+attachment.  Failure of an offeror to do so may render the offer nonresponsive. 
+ 
+d 
+I understand that a false statement on this certification may be grounds for rejection of this submittal or termi-
+nation of the awarded contract. 
+e 
+A false statement in any offer submitted to the Authority may be a criminal offense in violation of Section . 
+of the Texas Penal Code.  In addition, under  U.S.C. . , a false statement may result in a fine of up to , 
+or imprisonment for up to five  years, or both. 
+ 
+Name of Offeror: 
+      
+ 
+Type/Print Name of Signatory: 
+      
+ 
+Title of Signatory: 
+      
+ 
+Signature: 
+ 
+ 
+Date: 
+      
+ 
+Via Mobility, LLC
+Alex Lavoie
+Manager
+DocuSign Envelope ID: CB2F0431-0997-4BD9-A893-28A37F528C54
+7/14/2023
+=== page 24 ===
+CAPITAL METROPOLITAN TRANSPORTATION AUTHORITY 
+____________________________________________________________________________ 
+ 
+__________________________________________________________________________________________________________________ 
+ 
+ 
+SSP 801976-  (7/12/2023) 
+Page 1 of 24 
+Exhibit E-Revised-1 
+EXHIBIT E-REVISED-1 
+CONTRACTUAL TERMS AND CONDITIONS 
+(SERVICES CONTRACT) 
+____________________________________________________________________________ 
+ 
+1. DEFINITIONS 
+ 
+As used throughout this Contract, the following terms shall have the meaning set forth below: 
+ 
+(a) 
+“Applicable Anti-Corruption and Bribery Laws” means international, federal, state, provincial and local laws, 
+rules, regulations, directives and governmental requirements currently in effect and as they become effective relating 
+in any way to the Contractor’s provision of goods and/or services to Authority, including without limitation “FCPA” or 
+any applicable laws and regulations, including in the jurisdiction in which the Contractor operates and/or manufac-
+tures goods for the Authority, relating to anti-corruption and bribery. 
+ 
+(b) 
+“Authority”, “Capital Metro”, “CapMetro”, “CMTA” means Capital Metropolitan Transportation Authority. 
+ 
+(c) 
+“Authority Data” means all data, content and information (i) submitted by or on behalf of the Authority or its 
+customers to the Contractor or loaded into the System, (ii) obtained, developed, produced or processed by the Con-
+tractor or by the Application or System in connection with the Contract, or (iii) to which the Contractor has access in 
+connection with the Contract, and all derivative versions of such data, content and information, and any derivative 
+versions thereof, in any form or format.  
+ 
+(d) 
+“Authority Electronic Property” means (i) any websites controlled by the Authority, (ii) any Authority mobile 
+device apps, (iii) any application programming interfaces (API) to the Authority’s information technology systems, (iv) 
+any other kiosks, devices or properties for consumer interaction that are created, owned, or controlled by the Author-
+ity, and (v) versions and successors of the foregoing, any form or format now known or later developed, that may be 
+used by customers obtaining products or services from the Authority.  
+ 
+(e) 
+“Change Order” means a written order to the Contractor signed by the Contracting Officer, issued after execu-
+tion of the Contract, authorizing a change in the term or scope of the Contract.  
+ 
+(f) 
+“Contract” or “Contract Documents” means this written agreement between the parties comprised of all the 
+documents listed in the Table of Contents, Change Orders and/or Contract Modifications that may be entered into by 
+the parties. 
+ 
+(g) 
+“Contract Award Date” means the date of the Contract award notice, which may take the form of a purchase 
+order, signed Contract or Notice of Award, issued by the Authority. 
+ 
+(h) 
+“Contract Modification” means any changes in the terms or provisions of the Contract which are reduced to 
+writing and fully executed by both parties. 
+ 
+(i) 
+“Contract Sum” means the total compensation payable to the Contractor for performing the Services as origi-
+nally contracted for or as subsequently adjusted by Contract Modification.   
+ 
+(j) 
+“Contract Term” means period of performance set forth in the paragraph entitled “Term” contained in Exhibit E. 
+ 
+(k) 
+"Contracting Officer" means a person with the authority to enter into, administer, and/or terminate contracts 
+and make related determinations and findings on behalf of the Authority.  The term includes certain authorized rep-
+resentatives of the Contracting Officer acting within the limits of their authority as delegated by the Contracting Officer. 
+ 
+(l) 
+“Contractor” means the entity that has assumed the legal obligation to perform the Services as identified in the 
+Contract. 
+ 
+(m) 
+“Days” means calendar days.  In computing any period of time established under this Contract, the day of the 
+event from which the designated period of time begins to run shall not be included, but the last day shall be included

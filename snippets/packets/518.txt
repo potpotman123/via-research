@@ -1,0 +1,331 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/North Carolina/dot_68241_DS1.pdf
+# pages_total: 113; hit_pages: [5, 8, 9, 10, 11, 20, 21, 22, 30, 31, 42, 46, 58, 75, 79]; included: [5, 8, 22, 30, 75, 79]
+# context: Bleecker Drive folder: North Carolina
+
+=== page 5 of 113 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+v
+REPORT DOCUMENTATION PAGE
+Form Approved
+OMB No. 0704-0188
+1. REPORT DATE
+April 2023
+2.	 REPORT TYPE
+Final Report
+3. DATES COVERED 
+March 2021 – February 2022
+The public reporting burden for this collection of information is estimated to average 1 hour per response, including the time for reviewing 
+instructions, searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the collection of 
+information. Send comments regarding this burden estimate or any other aspect of this collection of information, including suggestions for reducing 
+the burden, to Department of Defense, Washington Headquarters Services, Directorate for Information Operations and Reports (0704-0188), 1215 
+Jefferson Davis Highway, Suite 1204, Arlington, VA 22202-4302. Respondents should be aware that notwithstanding any other provision of law, no 
+person shall be subject to any penalty for failing to comply with a collection of information if it does not display a currently valid OMB control number. 
+4. TITLE AND SUBTITLE
+Transforming Public Transit with a Rural On-Demand Microtransit Project
+5a.	CONTRACT NUMBER
+       
+6. AUTHOR(S)
+Ryan Brumfield
+North Carolina Department of Transportation
+7. PERFORMING ORGANIZATION NAME(S) AND ADDRESSE(ES)
+North Carolina Department of Transportation
+1 South Wilmington Street 
+Raleigh, NC 27601
+8.	 PERFORMING ORGANIZATION REPORT
+NUMBER
+FTA Report No. 0243
+9.
+SPONSORING/MONITORING AGENCY NAME(S) AND ADDRESS(ES)
+U.S. Department of Transportation
+Federal Transit Administration
+Office of Research, Demonstration and Innovation
+1200 New Jersey Avenue, SE,  Washington, DC 20590
+12 . DISTRIBUTION/AVAILABILITY STATEMENT
+      Available from: National Technical Information Service (NTIS), Springfield, VA 22161; (703) 605-6000, Fax (703) 605-6900, 
+email [orders@ntis.gov]; Distribution Code TRI-30
+14. ABSTRACT
+On September 1, 2020, the City of Wilson, North Carolina, with support from the North Carolina Department of Transportation (NCDOT) through 
+an Accelerating Innovative Mobility (AIM) FY20 award, replaced its existing fixed route transit system with an on-demand microtransit service 
+called RIDE. Wilson partnered with mobility solutions provider Via Transportation, Inc., to be the City’s microtransit provider and expand service 
+coverage and reduce wait times for public transportation riders. The project sought to increase access to jobs, healthcare, and other services in 
+a rural area by expanding RIDE’s weekday hours of operation to 5:30 a.m. to 7:00 p.m., from the original 7:00 a.m. to 6:00 p.m. service hours. This 
+report summarizes the development, evolution, and evaluation of the project, highlighting the implementation of expanded service hours along 
+with the project outcomes and lessons learned. 
+15. SUBJECT TERMS 
+Rural, on-demand microtransit, City of Wilson, North Carolina Department of Transportation
+a. REPORT
+Unclassified
+b. ABSTRACT 
+Unclassified
+17. LIMITATION OF
+ABSTRACT 
+Unlimited
+19a. NAME OF RESPONSIBLE PERSON
+5b.	GRANT NUMBER
+5c.	PROGRAM ELEMENT NUMBER
+c. THIS PAGE 
+Unclassified
+16.	SECURITY CLASSIFICATION OF:
+18. NUMBER 
+OF PAGES
+113
+19b. TELEPHONE NUMBER 
+Standard Form 298 (Rev. 8/98)
+Prescribed by ANSI Std. Z39.18
+13. SUPPLEMENTARY NOTES [www.transit.dot.gov/research-innovation/fta-reports-and-publications] [https://www.transit.dot.gov/about/research-
+innovation] [https://doi.org/10.21949/1527656] Suggested citation: Federal Transit Administration. Transforming Public Transit with a Rural 
+On-Demand Microtransit Project. Washington, D.C.: United States Department of Transportation, 2023. https://doi.org/10.21949/1527656.
+10.	SPONSOR/MONITOR'S ACRONYM(S)
+FTA
+11.	SPONSOR/MONITOR'S REPORT NUMBER(S)
+5d.	PROGRAM NUMBER 
+5e.	TASK NUMBER
+5f.	 WORK UNIT NUMBER
+
+=== page 8 of 113 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+viii
+Acknowledgments
+The North Carolina Department of Transportation (NCDOT) would like to 
+acknowledge the partnership with the City of Wilson, North Carolina, and Via 
+Transportation, Inc., that helped make the RIDE service successful. Wilson’s 
+willingness to try new and innovative approaches has transformed public transit 
+for Wilson’s citizens, providing increased opportunities to access jobs, healthcare, 
+and other services. NCDOT would also like to thank the guidance and support the 
+Federal Transit Administration has provided throughout the project.
+Abstract
+On September 1, 2020, the City of Wilson, North Carolina, with support from the 
+North Carolina Department of Transportation (NCDOT) through an Accelerating 
+Innovative Mobility (AIM) FY20 award, replaced its existing fixed route transit 
+system with an on-demand microtransit service called RIDE. Wilson partnered 
+with mobility solutions provider Via Transportation, Inc., to be the city’s 
+microtransit provider and expand service coverage and reduce wait times for 
+public transportation riders. The project sought to increase access to jobs, 
+healthcare, and other services in a rural area by expanding RIDE’s weekday 
+hours of operation to 5:30 a.m. to 7:00 p.m., from the original 7:00 a.m. to 6:00 
+p.m. service hours. This report summarizes the development, evolution, and
+evaluation of the project, highlighting the implementation of expanded service
+hours along with the project outcomes and lessons learned.
+
+=== page 22 of 113 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+14
+SECTION  | 3 
+preferences of key rider segments and continue to improve tailoring the RIDE 
+service to them. 
+Churned Rider Campaign
+On October 26, 2021, Via launched a churned rider campaign. A churned rider is 
+a rider who has not completed a trip within seven days. The aim of the campaign 
+was to contact riders who had been recently inactive; messages were sent to 
+riders if no rides were completed seven days after their last ride. Since the debut 
+of the churned rider campaign, an email has been sent to 651 churned riders 
+and was opened by 277 riders (43%), and push notifications have been sent via 
+the app to 552 riders and was engaged by 48 riders (9%).
+Driver Campaigns 
+Via responded in various ways to address RIDE service issues that were caused 
+by a lack of drivers. In the summer of 2021, there was low driver supply on 
+Saturdays, so for six weeks from mid-August through September, Via offered 
+a driver promotion that increased pay rates to incentivize those who claimed 
+Saturday shifts. Soon after this promotion, Via also launched a new driver 
+acquisition campaign to expand the pool of driver partners available to operate 
+the service during calendar year Quarter 4 in 2021. During calendar year Quarter 
+4, 34 new drivers registered in the platform who had the ability to claim shifts, 
+with 26 of those new drivers claiming a shift and completing at least one ride. 
+Since the big acquisition push at the end of 2021, Via has maintained a large and 
+stable pool of drivers, therefore slowing the acquisition efforts. 
+Since the launch of the RIDE service, Via has also held in-person driver 
+partner roundtables periodically to provide a forum to discuss the RIDE driver 
+experience with Via team members and offer feedback. One was held during 
+calendar year Quarter 4 of 2021 and another was in October 2022 to celebrate 
+two years of service, thank the drivers and answer questions, and receive 
+feedback about the service.
+Campaign to Reach Riders Who Had a Negative Experience
+Via ran an email campaign during calendar year Quarter 4 of 2021 that went 
+out to riders who had a negative experience (such as a long ETA) and did not 
+ride again to incentivize them to re-engage with RIDE. The email offered two 
+free rides for riders who answered questions about their negative experience. 
+The email was sent to 254 riders and opened by 69 (27%). Fifty-six riders (22%) 
+responded saying they would be open to a phone call for a $10 gift card. A 
+handful of riders were then called and interviewed about their experience.
+
+=== page 30 of 113 ===
+Section 5
+FEDERAL TRANSIT ADMINISTRATION 	
+22
+Conclusions, Lessons Learned, 
+and Recommendations
+In September 2020, the City of Wilson fully replaced its existing fixed route 
+transit system with third-party microtransit provided by Via Transportation, Inc. 
+(Via). It was a two-year contract that ended in September 2022 with three, one-
+year optional renewals. In September 2022, Wilson renewed the contract for an 
+additional year.
+The RIDE service launched with hours of operation from 7:00 a.m. to 6:00 p.m., 
+Monday–Saturday. Looking for a way to increase service hours that contributed 
+to the intended benefits of RIDE, including improved access to employment 
+opportunities and improved accessibility to public transit, Wilson and NCDOT 
+sought AIM Demonstration Funding. The $250,000 in awarded funding allowed 
+for expanding hours of operation to 5:30 a.m. to 7:00 p.m., Monday–Friday, 
+from the original 7:00 a.m. to 6:00 p.m. service hours. These expanded hours 
+provided an additional two and a half hours of service, allowing RIDE to start an 
+hour and a half earlier and end an hour later Monday–Friday. Saturday service 
+remained unchanged.
+While there were challenges to overcome throughout the year-long 
+demonstration period and since the launch of RIDE, Wilson has seen 
+tremendous success in the RIDE service. In a July 2022 NPR article,1  the City 
+reported that RIDE averaged 3,700 trips a week compared to 1,400 riders its 
+previous fixed route system averaged during a typical week, pre-COVID. 
+The City of Wilson’s successes have been recognized with several awards 
+including:
+• America’s Transportation Award for “Best Use of Innovation and
+Technology” from the Southeastern Association of State Highway and
+Transportation Officials, August 2021
+• The 2021 Marvin Collins Outstanding Planning Award – Advancing Equity
+from the North Carolina Chapter of the American Planning Association,
+September 2021
+• Focus Technology for the American Association of State Highway and
+Transportation Officials’ (AASHTO) Innovation Initiative, 2021
+By being willing to innovate, Wilson continues to support RIDE’s intended 
+benefits of promoting equitable accessibility to transit and providing 
+opportunities for its citizens to access employment, healthcare, and other daily 
+needs.
+1 https://www.npr.org/2022/07/19/1111765630/on-demand-shuttles-have-replaced-buses-in-a-small-
+north-carolina-town Agency Safety Plan Final Rule. § 673.5, Definitions.
+
+=== page 75 of 113 ===
+RIDE Wilson Rider Survey
+Q22 For a $50 gift card, can the Via Transportation, Inc. team contact you
+to schedule a 60 min focus group about RIDE?
+Answered: 68
+Skipped: 1
+Yes
+No
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+ANSWER CHOICES
+Yes
+No
+TOTAL
+RESPONSES
+79.41%
+20.59%
+54
+14
+68
+
+=== page 79 of 113 ===
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+RIDE Rider Survey
+Efficiency, affordability, service, reliability. The Ride Via helps me get to my appointments for
+chemotherapy as well as grocery shopping. I don't have a license's so I'm truly and great
+appreciative for the service your company provides. Are there something's that can be worked
+on but it is worth keeping.
+I depend on Ride a grest deal
+Sharpsburg is Wilson County and so people has to find a ride to get to Wilson to handle biz-
+ness..but have no transportation...
+To get to work
+Because for the past 3 day at 5:30am I have been trying to book a ride and I never could
+because is said very high demand
+Work
+Late/incorrect pickup
+I love certain drivers that actually care about they passengers
+I have a brain condition and can not drive
+I don't use it much but nice to have the option
+It helps me go places
+Because I don't know how to drive unfortunately and the ride is the only way I can get back
+and forth to work. The ride has been a blessing for me.
+I don't drive
+very peaceful, comfortable and affordable
+10
+it's convenient to get back and forth but it is very frustrating that the drivers nor the customer
+service doesn't have any concern about the passengers destinations and the time they need to
+get there... they are very rude and disrespectful. and the fact that when you book a ride you
+have to walk atleast 10 mins away from your home to be picked up even though you may type
+the exact location of where you need to be picked up i think that is very inconvenient and i feel
+that if i booked a ride and i'm the first to get picked up i should be dropped off first versus
+dropping according to the stop you arrive to first
+Need transportation
+The convenience of Via is a wonderful for individuals without personal transportation.
+Because it's faster than the cabs
+Because it is the only public transportation right now
+The wait time is horrible and sometimes they cancel rides without notification
+Because it's how I get around
+Service
+I can still Uber, but Ride seems safer
+Because it's my transportation to and from work
+I use it to go to the store
+Like the ride
+My opinion
+Service
+RIDE is an important mode of transportation for many people, and if it was taken away a lot of
+people would lose their jobs.
+It's convenient and I do not drive
+12/2/2021 8:32 PM
+12/2/2021 8:30 PM
+12/2/2021 7:47 PM
+12/2/2021 7:33 PM
+12/2/2021 7:19 PM
+12/2/2021 7:08 PM
+12/2/2021 6:30 PM
+12/2/2021 6:28 PM
+12/2/2021 6:21 PM
+12/2/2021 6:17 PM
+12/2/2021 6:03 PM
+12/2/2021 6:00 PM
+12/2/2021 6:00 PM
+12/2/2021 5:57 PM
+12/2/2021 5:56 PM
+12/2/2021 5:51 PM
+12/2/2021 5:50 PM
+12/2/2021 5:44 PM
+12/2/2021 5:41 PM
+12/2/2021 5:40 PM
+12/2/2021 5:37 PM
+12/2/2021 5:37 PM
+12/2/2021 5:33 PM
+12/2/2021 5:33 PM
+12/2/2021 5:32 PM
+12/2/2021 5:28 PM
+12/2/2021 5:27 PM
+12/2/2021 5:24 PM
+12/2/2021 5:24 PM
+12/2/2021 5:22 PM
+12/2/2021 5:21 PM

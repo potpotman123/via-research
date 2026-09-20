@@ -1,0 +1,85 @@
+# source: raw/bleecker_drive/City of Gainesville/2023-963 Agenda Item - Mobility-On-Demand Software App 20231019(1).pdf
+# path: raw/bleecker_drive/City of Gainesville/2023-963 Agenda Item - Mobility-On-Demand Software App 20231019(1).pdf
+# hit page: 1 of 2
+# terms: RideCo, Spare Labs, Via Transportation
+
+=== page 1 ===
+City of Gainesville 
+Agenda Item Report 
+ 
+ 
+ 
+ 
+File Number: 2023-963 
+ 
+ 
+Agenda Date: October 19, 2023  
+ 
+  
+ 
+Department:  
+Transportation 
+ 
+ 
+ 
+ 
+ 
+Title: 2023-963 Request for Proposals Award for Mobility-On-Demand Software 
+App (B) 
+ 
+ 
+Department: Transportation 
+ 
+Description: Request for the City Commission to award the Request for Proposal to the 
+top ranked firm, Via Transportation, Inc., for Mobility-On-Demand Software App, which 
+will assist the City in improving the quality of the Mobility-On-Demand service. 
+ 
+Fiscal Note: This project’s implementation and first year costs are funded in the 
+Federal Transit Administration (FTA) FY22 Supergrant; the remaining four years will be 
+budgeted in the RTS Planning Contractual Services budget.  The five-year project cost 
+is $139,000.00.   
+ 
+ 
+Explanation: 
+On April 3, 2023, the Department of Financial Services - Procurement Division solicited 
+a Request for Proposal (RFP) for a Mobility-On-Demand Software App. The Mobility-
+On-Demand Software App will assist the City in enhancing the quality of services for the 
+microtransit Mobility On-Demand Service currently operating in east Gainesville. The 
+RFP process was implemented in compliance with, and as required by, Federal Transit 
+Administration (FTA), Florida Statutes and City of Gainesville policies. 
+ 
+The City received ten (10) responses to the RFP but determined one to be non-
+responsive.  An evaluation team consisting of City staff evaluated and ranked the 
+remaining nine (9) proposals as follows:  
+ 
+1. *Via Transportation, Inc. 
+2. *Spare Labs, Inc. 
+3. *HBSS Connect Corp. 
+4. *RideCo, Inc. 
+5. *TransLoc, Inc.
+=== page 2 ===
+6. Downtowner Holdings LLC 
+7. Moovit, Inc. 
+8. Pantonium, Inc. 
+9. Software Staffers 
+ 
+Five bidders (indicated with*) submitted redacted proposals. The redacted information in 
+the submittals is claimed by bidder to be confidential and/or proprietary and cannot be 
+made public. 
+ 
+The top ranked firm selected by the Evaluation Committee is Via Transportation, Inc. 
+ 
+ 
+Strategic Connection: 
+ 
+☐ Goal 1: Equitable Community 
+☐ Goal 2: More Sustainable Community 
+☒ Goal 3: A Great Place to Live and Experience 
+☐ Goal 4: Resilient Local Economy 
+☒ Goal 5: “Best in Class” Neighbor Services 
+ 
+Recommendation: 
+The City Commission: 1) approve the Request for Proposal for a Mobility-On-Demand 
+Software App rankings, 2) award the Request for Proposal to Via Transportation, Inc., 
+and 3) authorize the City Manager or designee to negotiate and execute a contract with 
+the top ranked firm, subject to approval by the City Attorney as to form and legality.

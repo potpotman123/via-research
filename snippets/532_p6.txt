@@ -1,0 +1,229 @@
+# source: raw/bleecker_drive/Napa Valley Transportation Authority/25_3553_Staff_Report.pdf
+# path: raw/bleecker_drive/Napa Valley Transportation Authority/25_3553_Staff_Report.pdf
+# hit page: 6 of 20
+# terms: Remix Technologies
+
+=== page 5 ===
+Phone: 707-259-8631 
+Fax:     707-259-8638 
+www.nvta.ca.gov 
+Napa Valley 
+Transportation 
+Authority 
+625 Burnell Street 
+Napa, CA 94559 
+Business Name 
+Requested By 
+Ship Date 
+Ship Via 
+FOB 
+Buyer 
+Terms 
+Tax ID 
+SCHENCK 
+N/A 
+N/A 
+DEST 
+KULICK 
+NET 30 Days 
+68-0471080
+QTY 
+Item # 
+Units 
+Description 
+Discount Taxable Unit Price 
+Total 
+ 
+ 
+ 
+ 
+ 
+ 
+$65,287.50 
+$65,287.50 
+ 
+ 
+$71,475.00 
+$71,475.00 
+ 
+ 
+$78,670.00 
+$78,600.00 
+CONT ON PAGE 2 OF  
+ 
+ 
+ 
+ 
+Subtotal 
+$215,432.50 
+Tax 8.75% 
+$0.00 
+ 
+ 
+ 
+ 
+ 
+ 
+Other 
+   $0.00 
+ 
+ 
+ 
+ 
+ 
+ 
+Ship 
+$0.00 
+ 
+ 
+ 
+ 
+TOTAL  
+$215,432.50 
+Purchase 
+NVTA 
+625 Burnell Street 
+Napa, CA  94559 
+P  Rebecca Schenck, Transit Manager  
+T  707.259.8636   E  rschenck@nvta.ca.gov 
+Napa Valley Transportation Authority 
+ATTN:  Accounts Payable 
+   ap@nvta.ca.gov 
+625 Burnell Street 
+Napa, CA  94559-2912 
+Bill To: 
+Ship To: 
+Purchase Order #:  25-P5060 
+Date:  
+  05/21/2025 
+Vendor ID:  6568 
+Via Transportation, Inc. 
+(Remix Technologies LLC) 
+10 Crosby Street, Floor 2 
+New York, NY 10013 
+P: Max Fisher, Partner Success Manager 
+max.fisher@ridewithvia.com|+1 847.778.9349 
+VENDOR 
+PROJECT MGR:  REBECCA SCHENCK,  TRANSIT MANAGER 
+rschenck@nvta.ca.gov | 707.259.8636    
+INVOICES:  Please submit all invoices electronically to ap@nvta.ca.gov for payment. 
+ORIGINAL/PREVIOUS AGREEMENT REF:  NVTA PO No. P22-015-dtd 09/14/22   
+THIS SUBSCRIPTION ORDER SHALL SUPERSEDE THE PREVIOUS ORDER 
+UPON FULL EXECUTION BY ALL PARTIES. 
+VENDOR ACCEPTANCE 
+Vendor agrees to furnish and deliver all items or perform all the services set 
+forth or otherwise identified above and on any continuation sheets for the 
+consideration herein. The rights and obligations of the parties to this con-
+tract shall be subject to and governed by the following documents: (a) con-
+tract/purchase order, (b) the solicitation, if any, and (c) such provisions, 
+representations, certifications, and specifications, as are attached or incor-
+porated by reference herein.  (Attachments are listed herein.)  
+______________________________________________________ 
+NAME AND TITLE                                                          DATE 
+(Signature of person  authorized to sign)   
+ORDER AWARDED AND ISSUED BY 
+Individual listed below is hereby authorized to 
+award ordered material/services as specified, or 
+incorporated by reference herein, on behalf of the 
+Napa Valley Transportation Authority. 
+_____________________________________ 
+KATE MILLER, Executive Director     DATE 
+FOR INTERNAL USE ONLY 
+FUND APPROPRIATION:  
+THIS ORDER WILL BECOME VALID UPON RECEIPT OF VENDOR ACCEPTANCE. 
+REMIX TRANSIT PLANNING AND SCHEDULING 
+SOFTWARE PLATFORM LICENSE SUBSCRIPTION 
+for 38 plus Vine public transit vehicles  
+as per attached   
+D R A F T 
+YEAR 1 SUBSCRIPTION 07/01/25-06/30/26 
+YEAR 2 SUBSCRIPTION 07/01/26-06/30/27 
+YEAR 3 SUBSCRIPTION 07/01/27-06/30/28 
+8302002-52515
+ATTACHMENT 1
+AGENDA ITEM 9.4
+MAY 21, 2025
+21
+=== page 6 ===
+Assignment and Renewal #2 
+of the  
+Remix Services Agreement for NVTA  
+WHEREAS, Remix Technologies, LLC. (“Remix”) and Napa Valley Transit Authority (NVTA) 
+(“Customer”) have entered into an agreement titled Remix Services Agreement for NVTA (the 
+“Agreement”) dated as of October 1, 2019; and Assignment and Renewal dated October 18, 
+2022; 
+WHEREAS the parties wish to renew the Agreement; and 
+UPON execution of this Renewal #2 (“Renewal”), the Parties agree to the following: 
+1. Renewal. With effect from July 1, 2025 (the “Effective Date”) the Parties hereby agree 
+to extend the duration of the Agreement beyond its original duration from the Effective 
+date for a period of 3 years until June 30, 2028. Customer and Remix agree that Renewal 
+will supersede the current agreement titled Assignment and Renewal upon signature to 
+align with the fiscal year of the Customer.  
+ 
+2. Termination. Customer may terminate the Renewal in November 2026 upon 
+confirmation of license procurement through California Integrated Travel Project, with 30 
+days’ prior written notice of termination to Remix.  
+ 
+3. Price. The Parties hereby agree to the following price structure: 
+Remix Transit Planning 
+License 
+• July 1, 2025 – June 30, 2025: $32,787.5/year 
+o $2,541.66/month from July-September ’25  
+o $2,795.83/month from October – June ‘25 
+• July 1, 2026 – June 30, 2027: $36,000/year 
+• July 1, 2027 – June 30, 2028: $39,670/year 
+Remix Scheduling 
+License 
+• July 1, 2025 – June 30, 2025: $32,500/year 
+o $2,500/month from July-September ’25  
+o $2,750/month from October – June ‘25 
+• July 1, 2026 – June 30, 2027: $35,475/year 
+• July 1, 2027 – June 30, 2028: $39,000/year 
+22
+=== page 7 ===
+4. Conflicts, Use of Terms, Governing Law. Capitalized terms used but not defined herein
+have the meanings set forth in the Agreement. Except as expressly provided herein, the
+terms and conditions of the Agreement remain unchanged. This Renewal will be
+governed by the same law as the Agreement.
+REMIX TECHNOLOGIES LLC 
+  NAPA VALLEY TRANSIT AUTHORITY 
+By: 
+       By: 
+Name: 
+  Name: 
+Title:  
+       Title: 
+Date: 
+       Date: 
+Marketing Terms 
+Willingness to work with Remix to develop a case study, mutually 
+agreeable press release, ability to use Customer as a reference.  
+Remix Platform License 
+Summary 
+Total Contract Value: $215,432.5/3 years 
+•
+July 1, 2025 – June 30, 2025: $65,287.5/year
+•
+July 1, 2026 – June 30, 2027: $71,475/year
+•
+July 1, 2027 – June 30, 2028: $78,670/year
+Includes: 
+•
+Remix licenses for an unlimited number of users within
+organization.
+•
+Software as a Service (SaaS): fully hosted, cloud-based web
+platform.
+•
+Platform functionality as described in the Agreement with
+continuous improvements released throughout the course of
+the contract
+•
+Dedicated Customer Success staff
+•
+Premium Enterprise Support: response to requests in 1
+business day
+Executive Director
+KATE MILLER 
+May 21, 2025 
+23

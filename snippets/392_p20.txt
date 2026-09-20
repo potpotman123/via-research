@@ -1,0 +1,170 @@
+# source: raw/bleecker_drive/Los Alamos (Spare Labs)/1040_24_A_-_AGR_24-37_Spare_Labs_Inc.pdf
+# path: raw/bleecker_drive/Los Alamos (Spare Labs)/1040_24_A_-_AGR_24-37_Spare_Labs_Inc.pdf
+# hit page: 20 of 81
+# terms: Spare Labs
+
+=== page 19 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+19 
+ Agreement Template Version: 04012024 
+21.2. 
+Contractor shall provide experienced, competent, and knowledgeable staff to 
+successfully complete the implementation and any mutually agreeable Project 
+implementation and management plans. In the event that any Contractor employee 
+is found to be unacceptable to County, in County’s reasonable discretion, Contractor 
+shall be given an opportunity to cure the deficiency upon notice thereof from County. 
+In the event the deficiency persists, County may require removal of the employee. 
+Contractor shall provide a suitable replacement, acceptable to County in its 
+reasonable discretion, as soon as reasonably possible. To the extent County delays 
+in confirming Contractor’s proposed replacement, Contractor shall not be held liable 
+for Project delays that arise because of County’s delay.  
+21.3. 
+County acknowledges that Contractor’s assigned personnel may leave the Project for 
+reasons outside Contractor’s control, such as resignation, medical leave, or similar 
+absences. Contractor shall use its best efforts to ensure the continuity of Contractor 
+employees assigned to County’s implementation. Should Contractor, in its reasonable 
+discretion, remove or reassign its employees assigned to perform Services, 
+Contractor shall, a) provide reasonable advance notice to County, and b) assign 
+alternate employees with equivalent or greater competence, knowledge and 
+experience to perform Services hereunder within a commercially reasonable 
+timeframe. Contractor’s failure to provide the continuity of Contractor employees shall 
+result in Contractor’s sole responsibility for any delay and/or cost for such failure and 
+may result in breach of this Agreement.  
+21.4. 
+Contractor’s personnel and subcontractors, if any, shall observe all applicable laws, 
+rules and policies of County, while providing Services to County, including working 
+remotely on County systems.  
+21.5. 
+Contractor shall represent and warrant to County, with respect to the Services to be 
+performed, that each of its employees assigned to perform those Services shall have 
+the proper skill, training, and background to be able to perform his or her assigned 
+Service(s) in a competent and professional manner, and that all Services shall be 
+performed in accordance with this Agreement.  
+21.6. 
+County acknowledges that the implementation is a cooperative process requiring the 
+time and resources of County personnel. County shall, and shall cause County 
+personnel to, use all reasonable efforts to cooperate with and assist Contractor as 
+may be reasonably required to timely implement the Platform as mutually agreed.  
+Contractor shall not be liable for County’s failure(s) to comply with the foregoing 
+commitment. Contractor acknowledges that no specific skills or certifications are 
+required for County staff to use its Platform. 
+22. Additional or Optional Services or Functionality.  In addition to the upgrades, patches, 
+and maintenance described herein, Contractor may continually develop, alter, deliver, and 
+provide to the County ongoing innovation to the Services, in the form of new features, 
+functionality, and efficiencies. Upon County request, and at County’s sole discretion, 
+Contractor shall provide additional and optional Services as described herein and in 
+accordance with the fees and rates specified in Exhibit A. Additional and optional Services 
+shall be authorized pursuant to Section AG and Exhibit A Table 6, and Parties agree to follow 
+the Process to Request Optional Service or Functionality outlined in Exhibit A Table 7, or a 
+similar process. 
+Attachment A
+=== page 20 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+20 
+ Agreement Template Version: 04012024 
+22.1. 
+In addition to routine upgrades, patches, and maintenance otherwise described 
+herein, Contractor, as part of the Services and Platform, throughout the Term of this 
+Agreement, may also offer at no additional cost to the County, other future additional 
+features, and services not specifically named herein and may provide such free 
+services upon prior County approval.  
+22.2. 
+Contractor, throughout the term of this Agreement, may offer for a fee future additional 
+optional features, functionality, and services to enhance or improve County’s 
+Microtransit and Paratransit services through the Platform.  Upon County’s request 
+and at County’s sole discretion and County’s approval, Contractor shall, throughout 
+the Term of this Agreement provide such additional optional functionality and 
+enhancements for a fee at the applicable rates and fees described in Exhibit A and 
+pursuant to the Process for Requesting Optional Services or Functionality outlined in 
+Exhibit A Table 7. 
+ 
+22.3. 
+If County institutes changes to County systems with which the Platform integrates, 
+and County determines, at County’s sole discretion, that Contractor’s professional 
+services are needed to assist with new or modified integration, Contractor shall, 
+upon County written request, work with County to determine if integration is possible 
+with changed or new County system, and if so, shall provide implementation 
+services to County to ensure proper integration and configuration between County’s 
+changed or new system and the Platform. Contractor shall provide to County any 
+data, information, and technical support County requests prior to implementation of 
+such changes to ensure proper integration.  Such professional services shall be 
+provided at the applicable rates specified in Exhibit A.   
+ 
+22.4. 
+If County, at any time throughout the term of this Agreement, implements a new 
+Enterprise Resource Planning system (“ERP”), and determines, at County’s sole 
+discretion, that Contractor’s professional services are needed to assist with 
+integration between County’s new ERP and the Platform, Contractor shall, upon 
+County written request, work with County to determine if integration is possible with 
+the new ERP, and if so, shall provide its services to County to ensure employee data 
+can be synchronized between County’s new ERP and the Platform.  Contractor shall 
+provide to County any data, information, and technical support County requests prior 
+to selection of a new ERP to ensure integration is possible. Such professional 
+services shall be provided at the applicable rates specified in Exhibit A. 
+ 
+SECTION D. TERM: The term of this Agreement shall commence December 18, 2024, and shall 
+continue through December 17, 2039, unless sooner terminated, as provided herein.   
+ 
+SECTION E. COMPENSATION:  
+1. Amount of Compensation.  All compensation and fees stated herein and in any subsequent 
+Amendments to this Agreement are and shall be in the currency of the United States of America.  
+The total amount payable under this Agreement for all Services identified herein shall be in 
+accordance with rates identified in Exhibit A and shall be payable according to the terms set 
+forth below. The fees payable hereunder shall not exceed TWO MILLION EIGHT HUNDRED 
+SIX THOUSAND EIGHT HUNDRED FOURTEEN AND 96/100 DOLLARS ($2,806,814.96) 
+which amount does not include applicable New Mexico Gross Receipts Taxes (NMGRT). 
+Attachment A
+=== page 21 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+21 
+ Agreement Template Version: 04012024 
+1.1. Annual Software Platform Fees. County shall pay Annual Software Platform fees for a 
+total not-to-exceed amount for the Term of this Agreement, as outlined in Exhibit A Table 
+2, in the amount of TWO HUNDRED FOURTEEN THOUSAND THREE HUNDRED 
+NINETY-SIX AND 00/100 DOLLARS ($214,396.00), which amount does not include 
+applicable NMGRT.  
+1.2. Maintenance and Support Fees.  County shall pay Maintenance and Support fees for a 
+total not-to-exceed amount for the Term of this Agreement, as outlined in Exhibit A Table 
+3, in the amount of ONE HUNDRED SIXTEEN THOUSAND SIXTY-FOUR AND 00/100 
+DOLLARS ($116,064.00) which amount does not include applicable NMGRT. 
+1.3. Project Implementation Fee. County shall pay one-time compensation for Project 
+Implementation Fees, as outlined in Exhibit A Table 4, following County’s written 
+acceptance of Project Implementation phases, as described herein, in the amount of FIVE 
+THOUSAND AND 00/100 DOLLARS ($5,000.00), which amount does not include 
+applicable NMGRT. 
+1.4. Annual Vehicle Fees. County shall pay Annual Vehicle fees for a total not-to-exceed 
+amount for the Term of this Agreement, as outlined in Exhibit A Table 5, in the amount of 
+FIVE HUNDRED EIGHTY-FIVE THOUSAND EIGHT HUNDRED FOUR AND 96/100 
+DOLLARS ($585,804.96), which amount does not include applicable NMGRT. 
+1.5. Optional Software and Services Fees. At any time during the term of this Agreement, 
+County may request additional and optional services and functionality, at County’s sole 
+option in accordance with the Compensation Rate Schedule in Exhibit A Table 6 in a total 
+not-to exceed amount for the term of this Agreement in the amount of ONE MILLION 
+EIGHT HUNDRED EIGHTY FIVE THOUSAND FIVE HUNDRED FIFTY AND 00/100 
+DOLLARS ($1,885,550.00), which amount does not include applicable NMGRT. 
+ 
+2. Total Not-to-Exceed Compensation Amount.  The Parties understand that County can only 
+utilize Contractor’s Services, as specified herein, throughout the term of this Agreement, in a 
+manner that does not surpass the total not-to-exceed compensation amount for Services 
+estimated by County and specified in Section E(1) herein, unless approved by Amendment to 
+this Agreement. Any increase to the not-to-exceed compensation amount provided herein 
+must be authorized by an Amendment to this Agreement, pursuant to Section AG.  This 
+provision shall not be construed to conflict with County’s discretion to determine when 
+Contractor’s optional Services are needed or to conflict with the agreed-upon rates stated 
+herein. It is the sole responsibility of Contractor to ensure that all work performed, inclusive of 
+all additional and optional services, does not exceed the not-to-exceed amount of this 
+Agreement or any subsequent Amendment.  Any work performed under this Agreement by 
+Contractor where the costs exceed the not-to-exceed amount is not a just and lawful debt 
+payable to Contractor. 
+3. Invoices.  Contractor shall submit itemized invoices to County Project Manager, no more 
+frequently than monthly, showing the amount of compensation due, amount of any NMGRT, 
+and total amount payable under this Agreement.  Contractor shall invoice Project 
+Implementation fees as described in Exhibit A Table 4. Contractor shall invoice Annual 
+Software Platform and fees for Year 1 of this Agreement as of the Effective Date of this 
+Agreement and annually on the anniversary of the Effective Date thereafter.  Contractor shall 
+invoice Maintenance and Support fees and Annual Vehicle fees for Year 1 of this Agreement 
+upon successful Launch, as defined herein, and shall subsequently invoice these fees 
+Attachment A

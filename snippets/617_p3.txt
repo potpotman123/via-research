@@ -1,0 +1,89 @@
+# source: raw/bleecker_drive/City of Fargo/23_3615_Via_ND_state_contract_283_work_order_request.pdf
+# path: raw/bleecker_drive/City of Fargo/23_3615_Via_ND_state_contract_283_work_order_request.pdf
+# hit page: 3 of 7
+# terms: Via Mobility, Via+vehicles
+
+=== page 2 ===
+
+=== page 3 ===
+Participating Entity Name
+City of Fargo
+Attachment 6 - CONTRACTOR WORK ORDER REQUEST (WOR)
+State Contract # 283
+Work Order Request Number
+RFP23215
+Issue Date
+December 27, 2023
+Name of Participating Entity
+Contact Julie Bommelman
+Address
+650 23rd St N
+E-mail Address
+jbommelman@fargond.gov
+City
+Fargo
+Telephone Number
+701.476.6737
+State
+ND
+Zip Code
+58102
+Reference: In accordance with the terms and conditions of the State Contract noted above between STATE and CONTRACTOR,
+this Work Order Request authorizes delivery of the Deliverables described in accordance with the Scope of Work, Schedule, and
+terms specified below.
+1. Scope of Work
+a. Describe Scope of Work
+Post implementation use of Scheduling and Dispatching Paratransit bus software/hardware, including the launch of
+one or more Microtransit zones (see Appendix A). The original proposal was solicited by the State of North Dakota
+and participating agencies can buy off the awarded contracts with a variety of vendors who were awarded the
+contracts. The City of Fargo chose to purchase the product offered by Via Mobility LLC. Pricing will be based on a
+monthly minimum of 13 vehicles (See Appendix B).
+b. Budget Available (if applicable)
+N/A
+2.Staffing Requirement (if applicable)
+Job Class/Skill Set
+Number of Staff
+N/A
+=== page 4 ===
+3. Agreement Type
+& Fixed Cost
+1. Project Start Dat
+ugust 1, 202
+5. Project End Date
+Dec 31, 2024
+6. Schedule of Deliverables
+Deliverable
+Start Date
+Post implementation use of scheduling and dispatching paratransit
+bus software/hardware
+Scheduling and dispatching Microtransit bus software/hardware launch
+Post implementation use of scheduling and dispatching Microtransit
+ous software/hardware
+August 1, 2025
+Completion Date
+July 31, 2027
+August 2025
+September 2025
+September 2025
+July 31, 2027
+Launch new Microtransit zones, including North Dakota State University's
+campus and safe ride service on the Via platform (see Appendix A)
+September 2025
+December 2025
+7. Location of Work
+City of Fargo Metro Transit Garage, 650 23rd St N, Fargo, ND 58102
+8. Participating Entity Project Manager
+Cole Swingen and Jordan Smith
+10. Time and Status Reporting Systems to be Utilized by the Contractor (Mark all that apply)
+& Daily Accountability & Weekly Status Reports & Monthly Reports I Other - Describe below:
+9. Contractor Project Proposal Due Date
+Execution: The parties through their authorized agents have executed this Work Order Request and attached
+Contractor Project Proposal under terms of the above-mentioned Master Contract, subject to amendments in this
+Work Order, for the project price and on the dates set out below.
+To the extent that there is any inconsistency between this Work Order Request and Master Contract #283, the Master
+Contract shall control.
+The total dollar contractual amount specified below for this Work Order and attached Project Proposal shall not be exceeded
+unless a written amendment is appended to this Work Order, duly executed by the authorized representative of the parties.
+Total Contractual
+Amount Not to Exceed
+$108,400

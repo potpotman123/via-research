@@ -1,0 +1,222 @@
+# source: raw/bleecker_drive/City of West Sacramento/2023.06.07_-_City_Council_-_Amendment_No._5_to_NoMad_Transit_LLC_Contract.pdf
+# path: raw/bleecker_drive/City of West Sacramento/2023.06.07_-_City_Council_-_Amendment_No._5_to_NoMad_Transit_LLC_Contract.pdf
+# hit page: 49 of 63
+# terms: Via+not to exceed, Via+not-to-exceed, Via+per hour, Via+per service hour
+
+=== page 48 ===
+Scenario 1 
+WSC Via Year 6 Contract Value
+Price per 
+Driver Hour
+Price per 
+Service Hour
+Price per Ride
+Total Not-to-
+Exceed Price
+ (12 Months)
+Year 6 Service Planning*
+N/A
+N/A
+N/A
+$55,000
+Supply Planning*
+N/A
+N/A
+N/A
+$0
+Total Upfront Costs
+$55,000
+Project Management
+$3.55
+N/A
+N/A
+$177,500
+Performance Monitoring and Reporting
+$0.72
+N/A
+N/A
+$36,000
+Marketing & Promotions Plan and Implementation
+$0.14
+N/A
+N/A
+$7,000
+Program Operations**
+$47.82
+N/A
+N/A
+$2,391,000
+Total Cost per Driver Hour
+$52.23
+$2,611,500
+Customer Service (1.25 FTE X $30.39 per hour)
+N/A
+$37.99
+N/A
+$227,180
+Total Cost per Service Hour
+$37.99
+$227,180
+Estimated Access for All Regulatory Fee***
+$0.10
+$17,254
+Total Cost to West Sacramento (Incl. Fare Revenue), Before PUCTRA Fees
+$2,910,934
+Estimated PUCTRA Regulatory Fee****
+$8,758
+Total Cost to West Sacramento (Incl. Fare Revenue), Incl. PUCTRA Fees
+$2,919,692
+Sources of Funding:
+Fare Revenue
+$248,972
+Funding from City of West Sacramento (Excl. Fare Revenue)
+$2,670,720
+Total
+$2,919,692
+Driver Hours Summary:
+Total Implied Driver Hours
+50,000
+Implied Driver Hours (Weekly)
+962
+Service Hours Summary:
+Total Implied Service Hours
+5,980
+Total Implied Service Hours (Weekly)
+115
+* Items to be invoiced in full upon the start of Year 6.
+** Includes driver pay, vehicle cost (incl. WAV retrofits and spares where applicable), insurance, dedicated IT operations and supply admin, technology 
+access, local & central operations support, T&E, rent, and office expenses.
+*** TNC Access for All Fees to be invoiced to West Sacramento on a pass through basis.
+**** PUCTRA Fees to be invoiced to West Sacramento on a pass through basis.
+Attachment 2
+=== page 49 ===
+Scenario 2
+WSC Via Year 6 Contract Value
+Price per 
+Driver Hour
+Price per 
+Service Hour
+Price per Ride
+Total Not-to-
+Exceed Price
+ (12 Months)
+Year 6 Service Planning*
+N/A
+N/A
+N/A
+$55,000
+Supply Planning*
+N/A
+N/A
+N/A
+$0
+Total Upfront Costs
+$55,000
+Project Management
+$3.55
+N/A
+N/A
+$203,060
+Performance Monitoring and Reporting
+$0.72
+N/A
+N/A
+$41,184
+Marketing & Promotions Plan and Implementation
+$0.14
+N/A
+N/A
+$8,008
+Program Operations**
+$47.82
+N/A
+N/A
+$2,735,304
+Total Cost per Driver Hour
+$52.23
+$2,987,556
+Customer Service (1.25 FTE X $30.39 per hour)
+N/A
+$37.99
+N/A
+$227,180
+Total Cost per Service Hour
+$37.99
+$227,180
+Estimated Access for All Regulatory Fee***
+$0.10
+$21,736
+Total Cost to West Sacramento (Incl. Fare Revenue), Before PUCTRA Fees
+$3,291,472
+Estimated PUCTRA Regulatory Fee****
+$9,899
+Total Cost to West Sacramento (Incl. Fare Revenue), Incl. PUCTRA Fees
+$3,301,372
+Sources of Funding:
+Fare Revenue
+$313,642
+Funding from City of West Sacramento (Excl. Fare Revenue)
+$2,987,730
+Total
+$3,301,372
+Driver Hours Summary:
+Total Implied Driver Hours
+57,200
+Implied Driver Hours (Weekly)
+1,100
+Service Hours Summary:
+Total Implied Service Hours
+5,980
+Total Implied Service Hours (Weekly)
+115
+* Items to be invoiced in full upon the start of Year 6.
+** Includes driver pay, vehicle cost (incl. WAV retrofits and spares where applicable), insurance, dedicated IT operations and supply admin, technology 
+access, local & central operations support, T&E, rent, and office expenses.
+*** TNC Access for All Fees to be invoiced to West Sacramento on a pass through basis.
+**** PUCTRA Fees to be invoiced to West Sacramento on a pass through basis.
+=== page 50 ===
+NoMad Transit LLC
+PW20-011 Via Citywide Transportation Services
+Amendment 5
+Expires 6/30/2024
+2368104.1 7203.552 
+AMENDMENT NO. 5
+to the
+AMENDED AND RESTATED CONTRACT FOR 
+SERVICES
+between the
+CITY OF WEST SACRAMENTO
+and
+NOMAD TRANSIT LLC
+Dated May 1, 2019
+This Amendment No. 5 (the “Amendment”) to the Amended and Restated Contract for Services 
+dated May 1, 2019 (the “Existing Contract”) by and between the City of West Sacramento (“the 
+City”) and NoMad Transit LLC (“the Contractor”) is made and entered into this July 1, 2023. 
+Except as expressly amended herein, the Existing Contract is in full force and effect.
+RECITALS
+WHEREAS, on January 17, 2018, the City awarded a contract to NoMad Transit LLC, a 
+wholly owned subsidiary of Via Transportation, Inc., for a one (1) year Pilot operation based on 
+the Contractor’s proposal submitted in response to the City’s Request for Proposals dated May 
+26, 2017; and
+WHEREAS, the January 17, 2018 executed agreement provided that, by mutual 
+agreement, the Contract may be extended annually for a total of up to five (5) additional years; 
+and
+WHEREAS, the City Council approved an Amended and Restated Contract on May 1, 
+2019 to NoMad Transit LLC, a wholly owned subsidiary of Via Transportation Inc., to continue 
+operations of the West Sacramento On-Demand Rideshare program, launched on May 14, 2018; 
+and
+WHEREAS, whereas the May 1, 2019, awarded contract has an expiration date of June 
+30, 2020, after which operations would otherwise cease and provided that, by mutual agreement, 
+the Contract may be extended annually for a total of up to four (4) additional years; and
+WHEREAS, on June 17, 2020, the City Council approved a 2-year contract renewal with 
+NoMad Transit LLC to continue operations of the West Sacramento On-Demand Rideshare 
+program from July 1, 2020 through June 30, 2022; and
+WHEREAS, on July 14, 2021, the City Council approved an amendment to the contract 
+with NoMad Transit LLC establishing the schedule of fees for fiscal year 2021/22; and
+WHEREAS, on June 15, 2022, the City Council approved a 1-year contract renewal with 
+NoMad Transit LLC to continue operations of the West Sacramento On-Demand Rideshare 
+program from July 1, 2022 through June 30, 2023; and
+WHEREAS, on June 7, 2023, the City Council approved an amendment on a 1-year 
+contract renewal with NoMad Transit LLC to continue operations of the West Sacramento On-
+Demand Rideshare program from July 1, 2023 through June 30, 2024; and 
+WHEREAS, the City and Contractor desire to modify the Existing Contract as provided

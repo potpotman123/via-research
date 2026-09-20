@@ -1,0 +1,18 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/County of Passiac/24-1019.pdf
+# pages_total: 1; hit_pages: [1]; included: [1]
+# context: Bleecker Drive folder: County of Passiac
+
+=== page 1 of 1 ===
+CERTIFICATION OF AVAILABLE FUNDS
+THIS IS TO CERTIFY THAT FUNDS ARE AVAILABLE AS FOLLOWS:
+AMOUNT:
+$1,599,543.01
+APPROPRIATION:
+T-24-56-850-000-801
+PURPOSE:
+Award contract to River North Transit, LLC for the on
+demand micro-transit pilot program, also known as
+Passaic County MOVE.
+Richard Cahill, Director of Finance
+DATED: October 22, 2024

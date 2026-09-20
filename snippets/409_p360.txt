@@ -1,0 +1,128 @@
+# source: raw/bleecker_drive/Utah Transit Authority/Utah Transit Authority.pdf
+# path: raw/bleecker_drive/Utah Transit Authority/Utah Transit Authority.pdf
+# hit page: 360 of 469
+# terms: River North Transit, Via+not to exceed, Via+not-to-exceed, Via+vehicles
+
+=== page 359 ===
+Utah Transit Authority
+MEETING MEMO
+669 West 200 South
+Salt Lake City, UT 84101
+Board of Trustees
+Date: 12/18/2024
+TO:
+Board of Trustees
+THROUGH:
+Jay Fox, Executive Director
+FROM:
+Nichol Bourdeaux, Chief Planning and Engagement Officer
+PRESENTER(S):
+Hal Johnson, IMS Director
+Shaina Quinn, IMS Program Manager
+TITLE:
+Change Order: On Demand Technologies Master Service Agreement Cost Estimate Increase and Service
+Order No. 8 - Adding West Provo Service Area (River North Transit, LLC / Via)
+AGENDA ITEM TYPE:
+Procurement Contract/Change Order
+RECOMMENDATION:
+The board is requested to take the following two actions:  First, approve an increase in the total estimated
+Master Service Agreement (contract #20-03399) value to $65,647,075. Second, approve the 8th Service Order
+and authorize the Executive Director to execute the agreement and associated disbursements with Via for the
+new UTA On-Demand West Provo microtransit zone, with a total service order value of $2,898,286.
+BACKGROUND:
+Microtransit, branded as UTA On Demand, has emerged as an effective coverage solution that complements
+fixed route bus and train service. UTA has contracted with River North Transit, LLC (Via) through a five-year
+Master Services Agreement (MSA) to expand microtransit services and programs (UTA Contract #20-03399).
+This contract was originally approved by UTA’s board on August 25, 2021. The original Master Service
+Agreement (MSA) was approved as a zero-dollar contract, but with a board-approved estimated maximum
+MSA value  of $32,761,486.  A series of service orders have been issued on the MSA over time as follows:
+1. Add SLC Westside zone
+2. Renew Southern Salt Lake County zone
+3. Add South Davis County zone
+4. Renew Software as a Service for Tooele County zone
+Page 1 of 3
+359
+=== page 360 ===
+5. Renew Southern Salt Lake County and South Davis County zones
+6. Model microtransit simulation zones for a planning study
+7. One-time vehicle enhancements including Utah license plates and video cameras
+The board-approved estimated maximum contract value has increased as needed as service order not-to-exceed (NTE)
+values increased beyond the original approved estimate.  Most recently, the estimated MSA maximum contract value
+was approved on April 17, 2024 for $54,000,000.
+The proposed 8th service order would add a new microtransit zone per UTA’s Five-Year Service Plan (Zone 581).
+DISCUSSION:
+This 8th service order would provide UTA On Demand service in West Provo for 20 months, from its scheduled
+launch on April 13, 2025 (April Change Day) until December 31, 2026, to align with the Via Master Service
+Agreement (MSA) timeline.
+Microtransit service complements fixed-route transit by offering additional mobility options and bridging
+transit gaps within communities. The UTA On Demand app prioritizes bus and train trips when they are the
+faster and more convenient option. Notably, the West Provo microtransit zone will be the first Via-operated
+area with 100% wheelchair-accessible vehicles, ensuring equal wait times and service availability for all riders.
+Innovative Mobility Solutions will submit annual service orders per the Five-Year Service Plan for additional
+hours and vehicles as needed.
+ There are two Contract Summaries below:
+The first is for the estimated maximum MSA value increase through the end of 2026 which covers additional
+service hours, proposed system enhancements, and the addition of four new service areas, including the
+West Provo area reflected in Service Order No. 8. All future service orders associated with the proposed
+estimate  increase are subject to budget availability.
+The second is for Service Order No. 8 which adds service for the West Provo area.
+CONTRACT SUMMARY:
+Contractor Name:
+River North Transit, LLC (Via)
+Contract Number:
+20-03399, Master Service Agreement estimated value
+increase
+Base Contract Effective Dates:
+September 4, 2021 - December 31, 2026
+Extended Contract Dates:
+N/A
+Existing Contract Value:
+$54,000,000 (approved MSA estimated value)
+Amendment Amount:
+$11,647,075 (including Service Order 8)
+New/Total Contract Value:
+$65,647,075 (new approved MSA estimated value)
+Procurement Method:
+N/A
+Budget Authority:
+Approved 2025 budget
+Page 2 of 3
+360
+=== page 361 ===
+CONTRACT SUMMARY:
+Contractor Name:
+River North Transit, LLC (Via)
+Contract Number:
+20-03399-8, Service Order 8
+Base Contract Effective Dates:
+April 13, 2025 - December 31, 2026
+Extended Contract Dates:
+N/A
+Existing Contract Value:
+$52,705,019 (total NTE for all service orders before service
+order 8)
+Amendment Amount:
+$2,898,286 (service order 8)
+New/Total Contract Value:
+$55,603,305 (new total NTE value for all service orders)
+Procurement Method:
+N/A
+Budget Authority:
+Approved 2025 budget $1,190,924 for West Provo
+ALTERNATIVES:
+If UTA were to determine not to support microtransit service in the future, UTA will develop a transition plan
+and updates to the Five-Year Service Plan to support any associated changes.
+FISCAL IMPACT:
+For the West Provo microtransit zone, the approved 2025 UTA operating budget allocates $1,190,924, with the
+draft financial plan for 2026 projecting an additional $1,707,362. This results in a combined total of $2,898,286
+over both fiscal years. All service expenses will be funded through the Innovative Mobility Solutions operating
+expense line item for contracted services in the annual Planning & Engagement budget (6550.050353). Service
+orders and task order amendments will be issued as needed for any modifications to the current agreement.
+2025 Approved Operating Budget: $1,190,924
+2026 Financial Plan: $1,707,362
+Expected Total West Provo spend: $2,898,286
+ATTACHMENTS:
+·
+20-03399-8: New UTA On Demand, West Provo Service Area (Service Order No. 8)
+Page 3 of 3
+361

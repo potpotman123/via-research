@@ -1,0 +1,134 @@
+# source: raw/bleecker_drive/Hillsborough County/Completed Contract File.pdf
+# path: raw/bleecker_drive/Hillsborough County/Completed Contract File.pdf
+# hit page: 197 of 199
+# terms: Via Transportation
+
+=== page 196 ===
+DocuSign Envelope ID: 2EA868C0-B16C-4F54-8139-F9C5611E9A02
+Vehicles Table
+NTD S-10 Report
+Available upon
+request for required
+reporting to the
+FTA. (United States
+only)
+• Vehicle ID
+Active Status
+•
+Visual ID
+• Short Visual Identifier
+Maker
+Color
+Vehicle Capacity
+• Max Capacity
+• Wheelchair Capacity
+Service Date
+• Day of the Week
+• Vehicles Operated in Maximum Service (VOMS)
+• Actual Vehicle Hours
+•
+Actual Vehicle Miles
+•
+Vehicle Revenue Hours
+•
+Vehicle Revenue Miles
+• Unlinked Passenger Trips
+Passenger Miles Traveled
+=== page 197 ===
+DocuSign Envelope ID: 2EA868C0-B16C-4F54-8139-F9C5611E9A02
+Appendix 2 to the Service Order
+Sample Invoice
+eVIa
+[VIA ENTITY NAME]
+Via Transportation, Inc.
+14 5th Ave, Floor 11
+New York NY 10011 United State
+Invoice
+Date
+Invoice #
+Terms
+Due Date
+PO #
+Billing Period
+Bill To
+[Partner] [Address]
+Description
+Rate
+Description of the Fee: Vehicle Fees
+Tax Code Summary
+Please make checks payable to:
+P.O. Box 7410493
+Chicago, IL 60674-0493
+Wire Instructions:
+Bank of America, N.A.
+222 Broadway,
+New York, NY 10038
+Wire Routing # - 026009593
+ACH Routing # - 021000322
+Account # - 483048203923
+Swift Code - BOFAUS3N
+Quantity
+Amount
+Total
+=== page 198 ===
+Appendix 2 to the Service Order 
+Sample Invoice
+ 
+ 
+ 
+[VIA ENTITY NAME] 
+Via Transportation, Inc.  
+114 5th Ave, Floor 17 
+New York NY 10011 United States 
+ 
+ 
+Bill To 
+[Partner] [Address] 
+ 
+ 
+ 
+ 
+Invoice 
+ 
+Date 
+ 
+Invoice # 
+ 
+ 
+Terms 
+ 
+Due Date 
+ 
+PO # 
+Billing Period 
+ 
+ 
+ 
+ 
+ 
+ 
+Description 
+Rate 
+Quantity 
+Amount 
+Description of the Fee: Vehicle Fees 
+Tax Code Summary 
+ 
+ 
+ 
+Please make checks payable to: 
+[__] 
+P.O. Box 7410493  
+Chicago, IL 60674-0493 
+ 
+ 
+ 
+Wire Instructions: 
+Bank of America, N.A. 
+222 Broadway,  
+New York, NY 10038  
+Wire Routing # - 026009593 
+ACH Routing # - 021000322  
+Account # - 483048203923 
+Swift Code - BOFAUS3N 
+Total

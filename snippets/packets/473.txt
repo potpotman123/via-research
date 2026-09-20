@@ -1,0 +1,60 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Whatcom Transportation Authority/DM0150_Remix_-_WTA_Executed_Agreement_2017.pdf
+# pages_total: 6; hit_pages: [1]; included: [1]
+# context: Bleecker Drive folder: Whatcom Transportation Authority
+
+=== page 1 of 6 ===
+CONTRACTUAL SERVICE AGREETIENT
+SaaS Solutlon for Transit Route Plannlng
+This CONTRACTUAL SERVICE AGREEMENT ('Agr66m€nf) is rnade and entered into betu,€en WHATCOM
+TRANSPORTATION AUTHORITY (WTA), a Washington municipal corporrtion, and REMTX SOFTWARE, tNC.,
+a-Califomia Corporation (CONTRACTOR) to provide a Transit Route Piannlng via a Software as a Servic€
+(SaaS) solution. The Agreement for a maintenance and support contad (LICENSE) will have an initial term of
+five (5) years' The LICENSE shall b€ renewed annually uniiss provid€d by etther pirty in wrtttng no less than 60
+dayJ prior to the anniversary date of the agreement. one tme sotup fees wi not exceid $5,000i. License fees
+will be $22,200 USD per year based on a total fixed route fleet of 6i coaches.
+WTA and CONTRACTOR agr€6 as fotlows:
+1. 
+The Agreernent d@uments and the terms and conditions that will govem this Agreement, are set out
+herein, and in the following documents, which are incorporated by-refiarence. eicept as otnerwise
+provided, in the event of any conflic't, the follo\,ing doqrments should be used for darilication in the
+order lisled. lf there are multlple Contr8ct Amendments, th€ most recent am€ndment shall have the
+highest pr6cedenc6 and the oldest amendmont shall have the lowost prec€dence:
+. 
+This Agr€€ment
+. 
+R6mix Pricing Summary and Agr€ement
+. 
+Remix Respoflse to Request for proposal20ll -28f.
+. 
+Request for Proposal 2017-280 inGluding all its exhibits and attachments
+2. 
+coNTRACToR shall p€rfurm all the work required by the scope of work rebrenced above.
+3 
+The Agreemenl term is for five (5) yeaB with Maintenance induded br the fivs (5) year term. LICENSE
+shall renew automatically on an annual basis. Either party may terminate tne agieement in writing no
+less than sixty (60) days prior to the agre€ment anniversary dite
+4. 
+After year 5, WTA will consider a rate adjustment to ttle LICENSE, if requested by the Cont-actor in
+writing 60 days prior to the renewal date of the Contract. Rates may be a justed up or down using the
+following ind€x caloJlat€d over-the-year:
+' 
+The Consumor Price.lndex for Urban Wage Eamers & Clerical Workers (CpfW); S€atfle-
+Tacoma-Btemerlon, WA, not seasonally adjusted, 1982-19&4=100 reference base, All ltems.
+There is no additional cost to add v€hicles for the lifetime of the contract.
+5. 
+No alterations or variation of any of the terms, conditions, pric€s, quantities, or spedllcations of this
+Contrac{ shall be ofiective without prior writton consent of WTA'S Procurement & Grants Coordinator.
+Oral changes, am€ndments or agreements are not permitted and may not be paid for by WTA. prior to
+becoming a contrad modification, all changes must b6 prepared in writing and exec{rtgd by the pa ies.
+Only WTA'S Procurement & Granb Coordinator shall have the express, implied, or apparent author,rg to
+aller, amend, modify, add, or waive any seclion or condition of thls contradt on behaif'of wrA.
+6. 
+WTA shall pay CONTRACTOR in US tunds for goods & services provided to the addr€ss b6low.
+7. 
+lnvoices will b€ s€nt to ap(oridewta.com or ATTN: Accounts Payable at the WTA addrBss bolow.
+Paymenl will be mad6 in Net 30 Terms from the date of invoice acceptance.
+8. 
+WTAs Procurement & Granls Coodinalor or designee must approve any €fiange orders in writing, and
+otheMise in compliance to the obligations set out in the solicitation. Sewices oi goods provided wilhout
+Page I of 2

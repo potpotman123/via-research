@@ -1,0 +1,37 @@
+# source: raw/bleecker_drive/North Carolina/AII_On_Demand_Microtransit_Webinar.pdf
+# path: raw/bleecker_drive/North Carolina/AII_On_Demand_Microtransit_Webinar.pdf
+# hit page: 17 of 79
+# terms: Via+fleet, Via+turnkey, Via+vehicles
+
+=== page 16 ===
+16
+Software as a 
+Service (SaaS) 
+Provides the software and 
+the transit agency provides 
+the drivers, vehicles, and 
+operations management. 
+Transportation 
+as a Service 
+(TaaS) / Turnkey 
+Provides the drivers, vehicles, 
+software, and operations 
+management as a turnkey solution 
+on behalf of the transit agency. 
+Service Models
+=== page 17 ===
+Wilson, RIDE (Sep 2020)
+• Population: 40,351
+• Service: Monday-Saturday
+• Fleet: 26 vehicles (6 wheelchair 
+accessible); 15 vehicles operating at peak
+• Vehicle capacity: 6 passengers
+• Fare: $2.5
+• Pre-scheduling: not available
+• Stops: intersections and major destinations
+• Turnkey contract with Via
+June 2022
+16,243 riders
+=== page 18 ===
+Growing Interest in Microtransit in NC
+18

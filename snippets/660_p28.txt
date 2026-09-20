@@ -1,0 +1,274 @@
+# source: raw/bleecker_drive/City of Sugarland/Microtransit_Service_Pilot_Program_9_12_24.pdf
+# path: raw/bleecker_drive/City of Sugarland/Microtransit_Service_Pilot_Program_9_12_24.pdf
+# hit page: 28 of 34
+# terms: Via+vehicles
+
+=== page 27 ===
+CITY OF SUGAR LAND 
+ 
+ Solicitation Number RFP 2024-22 
+ 
+27 
+ 
+Customer 
+Complaints  An 
+expression of 
+dissatisfaction 
+communicated by a 
+passenger 
+regarding their 
+experience with the 
+Microtransit 
+service.  
+ 
+A. Service 
+App 
+Survey in real time 
+B. Phone 
+Calls 
+C. Email 
+D. Social 
+Media 
+ 
+Monthly 
+Vendor 
+Monthly 
+Review 
+Less than 5% of 
+total rides performed 
+New User 
+Acquisition Rate 
+(NUAR) Rate 
+Measures the 
+Percentage of first-
+time riders 
+compared to the 
+total number of 
+riders using the 
+Microtransit 
+services. 
+The Vendor, in 
+partnership with the 
+City, will develop a 
+way to identify new 
+users within the 
+system (app and 
+phone).  
+Monthly 
+Vendor 
+Monthly 
+Review 
+Percentage of new users 
+each month 
+ 
+Calculation: 
+(XX new users/XX total riders) 
+ 
+A higher NUAR indicates the program is 
+attracting new riders and expanding its user 
+base. 
+ 
+Repeat Ridership 
+Percentage of 
+repeat riders 
+compared to the 
+total number of 
+riders using the 
+Microtransit 
+services. 
+ 
+The Vendor, in 
+partnership with the 
+City, will develop a 
+way to identify new 
+users within the 
+system (app and 
+phone).  
+Monthly 
+Vendor 
+Monthly 
+Review 
+X number of repeat passengers each month 
+Vehicle Utilization 
+Rate (VUR) 
+Measures the 
+Percentage of time 
+Microtransit 
+vehicles are actively 
+in use with 
+passengers.  This 
+considers 
+operational hours 
+minus scheduled 
+maintenance or 
+down time.  
+ 
+The vendor, in 
+partnership with the 
+City, will identify 
+tracking off vehicle 
+utilization through 
+methods such as 
+trip logs, GPS data, 
+automated timers 
+integrated into app, 
+or dispatch data. 
+Trips Logs, GPS 
+data 
+Monthly 
+Vendor 
+Monthly 
+Review 
+70% utilization in the first 6 months.  
+ 
+Calculation: 
+XX hours in-service/XX hours available) * 100 
+ 
+Example: 
+80 hours in-service/120 available hours * 100 
+= 66.67%
+=== page 28 ===
+CITY OF SUGAR LAND 
+ 
+ Solicitation Number RFP 2024-22 
+ 
+28 
+ 
+Mode Shift Rate 
+(MSR) 
+Measures the 
+percentage of riders 
+who switch from 
+single-occupancy 
+vehicles (SOVs) to 
+the Microtransit 
+service.  It is also 
+possible to segment 
+data by trip purpose 
+(e.g., work 
+commute, errands) 
+ 
+ 
+ 
+ 
+Pre-Trip Survey 
+within the Service 
+App or via phone 
+calls. 
+Monthly 
+Vendor 
+Monthly 
+Review 
+Calculation: 
+XX riders shifting from SOVs / monthly total 
+rides * 100 = X% 
+ 
+Example: 
+700 riders shifting from SOVs / 1000 total 
+rides * 100 = 70% 
+ 
+A higher MSR indicates a successful shift away 
+from SOV usage and towards a more 
+sustainable option.  
+  
+Future Performance 
+Metric 
+Data Source Data Collection 
+Frequency 
+Data Collection 
+Responsibility 
+Data Review 
+Cadence 
+Target 
+Estimated Vehicle 
+Emissions Reduction 
+Measures the potential 
+decrease in 
+greenhouse gas 
+emissions (e.g., CO2) 
+achieved through 
+reduced single-
+occupancy vehicle 
+(SOV) usage during 
+the Microtransit 
+Program 
+TBD 
+TBD 
+TBD 
+TBD 
+Target – Reduce CO2 emissions by 5% within the 
+pilot program area – timeframe? 
+ 
+Example: 
+• 
+30% Mode Shift Rate (MSR) 
+• 
+1,000 rides per month per month 
+• 
+Average trip distance is 5 miles 
+• 
+Chosen emission factor for standards 
+cars is 0.45 kg per kilometer (0.28 lb. 
+CO2 per mile.)
+=== page 29 ===
+CITY OF SUGAR LAND 
+ 
+ Solicitation Number RFP 2024-22 
+ 
+29 
+ 
+ 
+ 
+ 
+ 
+ 
+Calculation: 
+ 
+• 
+Average Trip Distance in 
+Kilometers.  Convert average trip 
+distance to kilometers: 5 miles x 1.61 
+kilometers/mile = 8.05km 
+• 
+Total Distance Traveled by Riders 
+Shifting from SOVs:  Calculate total 
+distance traveled by riders shifting from 
+SOVs:  MSR x Total Ridership x 
+Average Trip Distance (.30 x 1000 rides 
+x 8.05 km/ride) = 2,415km 
+Total Emission Reduction:  Estimate total 
+emission reduction:  Total Distance Shifted x 
+Emission Factor (2,415km x 0.45 kg = 1,086.75 kg 
+CO2 (or approximately 2,400 lb CO2) 
+ 
+12. 
+VENDOR RESPONSES 
+1. 
+Pricing Proposal* 
+*Response required 
+2. 
+Firm 
+2.1. 
+Executive Summary* 
+Please include name, address, and telephone number of the Respondent submitting the Submittal, background 
+of the Respondent and a summary of the Respondent’s interest in this service, and the name of one or more 
+individuals authorized to represent the consultant in its dealings on a contractual basis. 
+*Response required 
+2.2. 
+Reference #1* 
+References to include Respondent’s client contact person, address, e-mail address, and phone number.  
+*Response required 
+2.3. 
+Reference #2* 
+References to include Respondent’s client contact person, address, e-mail address, and phone number.  
+*Response required 
+2.4. 
+Reference #3* 
+References to include Respondent’s client contact person, address, e-mail address, and phone number.  
+*Response required 
+3. 
+General 
+3.1. 
+Respondent's ability to comply* 
+A statement concerning the Respondent’s ability to comply with a dedicated and accelerated schedule upon 
+direction of the City of Sugar Land.

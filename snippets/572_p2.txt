@@ -1,0 +1,107 @@
+# source: raw/bleecker_drive/Doral/20_3828_Denton_County_Sole_Source.pdf
+# path: raw/bleecker_drive/Doral/20_3828_Denton_County_Sole_Source.pdf
+# hit page: 2 of 5
+# terms: Via+SaaS
+
+=== page 1 ===
+FORM A
+SOLE SOURCE JUSTIFICATION AND APPROVAL (J&A) FORM
+Sole source purchases are not permitted except when clearly and thoroughly justified.
+1. Estimated contract amount: $
+2. Grant Funded:
+Funding Source: FTA
+V, TxDot , Other:
+3. Recommended supplier name, address, and contact information:
+Remix Software, Inc; 155 9th St; San Francisco, CA 94103
+Sam Hashemi, Chief Executive Officer, sam@getremix.com 415-503-9174
+4. Description of requested items or services and their purposes):
+Transitmix is a company bulding modern mapping locks for slanning tenaiL. Tranaltmix is currently the ordy too that provides an agile way to nstay sketch transil sconaries dosign new
+5. Reason(s) for requesting a sole source purchase:
+• Original manufacturer or provider; no other local distributors exist.
+• Only local distributor for the original manufacturer or provider.
+Parts or equipment not interchangeable with similar parts of another manufacturer.
+Only known item or service matching the requested needs or performing the intended task.
+Sole provider of a licensed or patented good or service.
+Sole provider of items compatible with existing equipment, inventory, systems, programs or services.
+Sole provider of goods or services established as standard (Please provide evidence of such a standard).
+Sole provider of factory-authorized warranty service.
+• Used item representing good value and advantage.
+• None of the above applies (Please attach a detailed explanation and justification for this sole source request).
+6. Explain why the product or service requested is the only one that can satisfy your requirements, as well as why
+alternatives are unacceptable. Be specific with regard to specifications. Attach additional pages if necessary.
+Please see attached page.
+REQUESTED BY: Kristina Brevard
+PREPARED BY : Anne MacCracken
+DEPARTMENT : Planning and Development
+DATE
+: 12/16/15
+I hereby certify that, to the best of my knowledge, the above justification is accurate and request that a sole source
+be approved for the procurement of the above requested items or services.
+RESERVED FOR PURCHASING DEPARTMENT ONLY
+SIGNATURE:
+REQUISITION NUMBER:
+APPROVED
+NOT APPROVED
+- Reason for denial:
+NAME:
+DATE:
+12/18/15
+1/1
+REVISED 7/2012
+=== page 2 ===
+Sole Source Justification and Approval (J&A) Form (Continued)
+6. Explain why the product or service requested is the only one that can satisfy your
+requirements, as well as why alternatives are unacceptable. Be specific with regard
+to specifications. Attach additional pages if necessary.
+Remix is the only company that can provide a product (Transitmix) that meets DCTA's
+needs: Transitmix is the only product designed to:
+• help transit agencies sketch transit scenarios
+• estimate costs in real-time
+• upload routes via GTFS data format
+• overlay geospatial data
+• allow for rapid evaluation and comparison
+• be delivered according to a Software as a Service (SaaS) model: users receive access
+to an easy-to-use online platform without the worry of maintenance, hosting, or software
+updates. Remix Software, Inc. maintains the technology infrastructure and enhances
+Transitmix over time.
+• whereas transit planning often requires a time-intensive, multi-step process with many
+disparate tools, the technology in Transitmix enables planners to understand the impact
+of multiple planning options immediately all in a visual, easy to use interface -- saving
+valuable time and money for the
+DCTA.
+Currently DCTA uses Microsoft Excel spreadsheets for developing and analyzing route
+schedules and ArcGIS to create and modify routes, and conduct demographic analysis.
+The current process is time consuming and prone to errors.
+=== page 3 ===
+4
+Description of requested items or services and their purposes)
+Scope
+DCTA Planning and Development, and Operations departments are tasked with
+designing transit service, analyzing demographic impacts, estimating operating costs,
+and comparing any changes to current service. These various scenarios along with
+their financial and community impacts must be presented to a variety of audiences
+including key decision makers and the public and are constantly re-developed.
+Currently this process is complex, can be extremely time consuming, and involves using
+various software tools in different programs. The Planning and Development, and
+Planning departments are seeking to use Remix to streamline this process and assist in
+presentations.
+Planning requirements and Remix solutions
+Requirement: This planning software must not require any additional software or
+hardware, minimize software and demographic updating, and not limit the number of
+users.
+Currently we are limited to analysis tools in ArcGIS which are powerful but difficult to
+use and understand. In addition, we are limited to one desktop user for ArcGIS. In
+order to update our demographic files we must download extremely large and complex
+demographic files from the US Census.
+Solution: Remix uses a Software as a Service (SaaS) model where users
+access an on-line platform. Remix is responsible for all demographic data and
+software updates. Remix does not limit number of users.
+Requirement: Software must permit users to quickly and with minimum training modify
+or create new routes and schedules.
+Currently the Planning department uses ArcGIS to create new routes and modify
+existing service. ArcGIS is difficult to use and maintain skill level. Schedules are
+created and analyzed in Microsoft Excel. Because routes and schedules are
+maintained and updated separately, there are many opportunities for errors.
+Solution: Remix provides a drag and drop interface to create and modify routes
+and schedules in real-time. This interface is easy to learn for those using
+Window based programs.

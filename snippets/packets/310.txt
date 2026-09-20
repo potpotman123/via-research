@@ -1,0 +1,270 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Baldwin/20_1200_Draft_Exhibit_A_-_Via_Statement_of_Work.pdf
+# pages_total: 9; hit_pages: [1, 2, 5, 6]; included: [1, 2, 5, 6]
+# context: Bleecker Drive folder: Baldwin
+
+=== page 1 of 9 ===
+Confidential ∙ Page 1 of 9 
+ 
+ 
+EXHIBIT A 
+TO PROFESSIONAL SERVICES CONTRACT 
+ 
+BALDWIN COUNTY DEPLOYMENT SERVICE ORDER 
+ 
+ 
+ 
+1. Purpose; Scope  
+ 
+By this service order (the “Order”), Via Mobility LLC, a Delaware limited liability company with its 
+principal office located at 160 Varick Street, Floor 4, New York, New York 10013 (“Via”), and 
+Baldwin County (“Customer”) agree to collaborate towards the operation by Customer of a 
+deployment of an on-demand shared ride service (the “Deployment”) in a geographic area in 
+Baldwin County, Alabama. 
+ 
+The Deployment will be based on Customer’s successful grant application to the Federal Transit 
+Administration’s (FTA) Integrated Mobility Innovation (IMI) Program. For purposes of the 
+Deployment, Via will provide (in accordance with and subject to the Terms):  
+ 
+(a) 
+The use of the standard Via Solution, which is comprised of the following: 
+ 
+Technology 
+Description 
+Rider Application  
+Downloadable co-branded rider iOS and Android apps which 
+allow riders to book on-demand and pre-scheduled shared 
+rides, with distinct service parameters depending on trip origin 
+or destination. The app will be co-branded as “Powered by Via” 
+in a prominently displayed banner headlined by the Customer 
+name/logo. 
+Driver Application  Downloadable driver iOS and Android application that directs 
+the driver turn by turn. 
+Backend 
+Administration 
+Tools 
+Cloud-accessed dispatch, monitoring and customer service 
+tools that allow Customer to run the on-demand and 
+prescheduled shared ride service. 
+Analytics 
+Tools 
+and Reporting 
+As described in the Data Sharing Appendix 1; 
+Ongoing 
+Technical, 
+Operational 
+and 
+Marketing Support 
+As described in 1.(b), Support Services; 
+ 
+ 
+(b) 
+The following Support Services:  
+ 
+i. 
+Installation Services until up to four weeks after launch of the Deployment: 
+ 
+Installation 
+Services 
+Description*
+
+=== page 2 of 9 ===
+Confidential ∙ Page 2 of 9 
+ 
+Localization 
+for 
+new city  
+Build detailed map, input traffic model, define service zone, 
+including pickup and drop-off points; update rider and/driver 
+apps; localize dynamic vehicle routing and real-time passenger 
+aggregation algorithm; configure backend (billing, payment, 
+and database);   
+Testing 
+and 
+quality assurance  
+Remote and on-the-ground testing of all Via systems before 
+launch 
+Assist 
+with 
+development 
+of 
+launch model 
+Assist Customer to build a launch plan and customer 
+acquisition strategy  
+Train 
+local 
+personnel 
+and 
+oversee launch 
+Provide instruction for drivers, dispatchers, and managers on 
+Via’s best practices; onsite and remote launch support (travel 
+costs excluded) 
+Additional 
+configuration 
+As included in Customer’s IMI grant application, Via will provide 
+additional configuration support to ensure a successful 
+deployment. This includes: 
+ 
+● Establishment of distinct service zones in major 
+population centers within Customer’s deployment zone, 
+enabling three distinct trip types: 
+○ Intrazone: Trips entirely within one of the high-
+density zones 
+○ Interzone: Trips to and from any of the high-
+density zones 
+○ Outer-zone: Trips starting/ending in one of the 
+high-density zones to an area outside of the 
+zone, but within Baldwin County 
+● Algorithm configuration to establish separate service 
+parameters 
+● Vehicle tag configuration to support distinct trip logic 
+ 
+* Customer shall reimburse all travel expenses of Via personnel for purposes of the Deployment. 
+Installation-related services described above will initially be performed remotely, and pending safe 
+travel conditions, in person by Via personnel for a limited period around the time of launch. 
+Thereafter, services will continue to be performed remotely as applicable, provided that Via 
+personnel can be sent to Customer’s location for additional trips upon reasonable request. 
+ 
+Due to the outbreak of COVID-19 in the United States as of the time of this contract, any on the 
+ground support will be contingent on safe travel to and from Customer service area. 
+ 
+ii. 
+Ongoing Services following the fourth week after launch of the Deployment, which 
+are included in the Fees up to the amounts set forth below: 
+ 
+Ongoing 
+Services 
+Description 
+Amount 
+Operational 
+Support 
+and 
+System 
+Adjustments 
+● Virtual bus stop architecture and map 
+maintenance: 
+quality 
+assurance 
+and 
+update of optimal pickup points  
+● Fleet optimization and essential service 
+adjustments: adjustments to dynamic and 
+Up 
+to 
+10 
+hours/month
+
+=== page 5 of 9 ===
+Confidential ∙ Page 5 of 9 
+ 
+ 
+Fee Category 
+Amount 
+Invoicing Terms 
+Installation Fee 
+$110,000 
+Via In-Kind Contribution 
+for Federal IMI Grant 
+$22,000 
+Installation Fee (with In-
+Kind) 
+$88,000 
+● First installment 
+ 
+50% ($44,000) 
+Payable upon signing of this 
+Order 
+● Second installment 
+50% ($44,000) 
+Payable upon launch of the 
+Deployment 
+Monthly Fees 
+$216,000 (minimum for 12 months) 
+Via In-Kind Contribution 
+for Federal IMI Grant 
+$18,000 
+Monthly Fees (with In-
+Kind) 
+$198,000 (minimum for 12 months) 
+● Per-Vehicle Fees 
+$16,500 minimum per calendar month, 
+with a minimum of $550 per vehicle per 
+month (i.e., 30-vehicles) 
+Invoiced monthly by Via 
+Total for 12 months 
+$286,000 (minimum excluding additional vehicles, Fees for any 
+Additional Services, and travel expenses) 
+ 
+For the avoidance of doubt, (i) the number of vehicles per month for purposes of the above fees 
+shall be the maximum number of distinct vehicles input by Customer that use the Via Solution (ii) 
+in the event the duration of the Deployment does not exactly match calendar months, monthly 
+fees will be pro-rated for the first and/or last calendar months of the Deployment, as applicable, 
+so that Customer will only be charged for the portion of such months during which the Via Solution 
+was available to be used for the Deployment. 
+ 
+The above fees do not include any fees owed to the third party payment processor. Via will 
+facilitate an introduction to its recommended payment processor and Customer is responsible for 
+entering an agreement with such payment processor in order to be able to process credit card 
+payments.   
+ 
+4. Branding  
+ 
+The Deployment will be branded as [Deployment Name] powered by Via. The “powered by Via” 
+banner must be used only in the exact format provided by Via, and will be prominent on all assets 
+promoting the Deployment, including (but not limited to) printed collateral, digital materials, 
+websites, and any vehicle wraps. The “powered by Via” banner will have equal prominence on all 
+marketing materials to any additional partner logos or trademarks. Via may provide pre-approved 
+brand assets and guidelines that must be complied with in all marketing communications 
+distributed by the Customer. 
+ 
+5. Marketing and Communications Planning and Execution 
+ 
+Customer will maintain a high level of communication across its own Marketing and 
+Communications/Public Relations teams, and the corresponding Via teams. 
+ 
+Customer and Via will work together in good faith on press announcements relating to the 
+Deployment. This will include a joint press release to be reviewed and approved by both parties
+
+=== page 6 of 9 ===
+Confidential ∙ Page 6 of 9 
+ 
+in advance of launch and/or service announcements. In the event it receives any inbound press 
+reach out relating to the Deployment, Customer will notify Via if it has spoken to or will be speaking 
+to media. Customer will direct any questions specifically about Via or the Via Solution directly to 
+the Via Press Office.  
+ 
+Customer shall work collaborate with Via in good faith toward the creation by Via of case study 
+relating to the Deployment, including by providing relevant information and quotes from relevant 
+personnel within four (4) months of the launch date. 
+ 
+ 
+6. Relationship Managers 
+ 
+● Via: [                      ]; additional Expansion Team members designated by Via (the 
+“Via Manager”) 
+● Customer: [                 ] (the “Customer Manager”) 
+ 
+ 
+ 
+VIA: VIA MOBILITY LLC 
+CUSTOMER: [                         ] 
+ 
+_________________________________________ 
+AUTHORIZED SIGNATURE  
+ 
+_________________________________________ 
+PRINTED NAME 
+ 
+_________________________________________ 
+TITLE 
+________________________________________ 
+AUTHORIZED SIGNATURE 
+_________________________________________ 
+PRINTED NAME 
+_________________________________________ 
+TITLE 
+ 
+________________________________________ 
+DATE SIGNED 
+________________________________________ 
+DATE SIGNED

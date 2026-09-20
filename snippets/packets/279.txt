@@ -1,0 +1,61 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Arlington, Virginia/e-1-des-transit-questions.pdf
+# pages_total: 3; hit_pages: [2]; included: [2]
+# context: Bleecker Drive folder: Arlington, Virginia
+
+=== page 2 of 3 ===
+Subject:  Transit Questions 
+ 
+ 
+Attachment A 
+FY 2025 Microtransit Plan  
+The Arlington Transit Strategic Plan 2023-2032 (ATSP) (see Chapter 3, page 4) recommends the 
+implementation of the on-demand microtransit project in FY 2026 in conjunction with a handful of 
+other service recommendations.  The recommendation in the ATSP for on-demand microtransit is a 
+single-zone pilot area that encompasses the north/western part of the County bound by N Glebe Rd 
+to the east, Route 29/Langston Blvd to the south and the County line to the west and north.  The 
+service recommendation is a “curb-to-hub” model where customers can schedule trips from defined 
+pick-up locations for transport to defined drop-off locations at Metrorail stations or bus stops with 
+multiple transit services where they can connect to the high-frequency transit network.  
+ 
+The County is undertaking a project in FY 2025 to study on-demand microtransit in the County.  The 
+study will address the logistics of pilot implementation and program operation.  Following the study, a 
+pilot would begin in the fall of calendar year 2025.  Issues addressed by the study include:  
+ 
+Cost:  Start-up implementation; ongoing operation cost  
+ 
+Zones:  Confirm geographic pilot zone and define potential expansion zones  
+ 
+Operation:  Verify “curb-to-hub” operation or suggest alternative  
+ 
+Operational Hours:  All day, midday, evening, late night, weekends  
+ 
+Contracting Model:  Turnkey; service provider contract; partnerships with 
+Transportation Network Companies  
+ 
+Vehicles: Fleet size, type, propulsion, storage, maintenance, ADA accessibility  
+ 
+Technology:  Mobile apps; web-based app; call center; fare payment  
+ 
+Branding  
+ 
+Fare/Price Structure and Elasticity  
+ 
+Vehicle Demonstration  
+Demonstrations with cutaway buses, passenger vans, and shared cars are crucial for assessing the 
+optimal transportation solutions based on versatility, capacity, maneuverability, and specific service 
+demands, considering the propulsion type's impact on efficiency and environmental footprint.  
+ 
+Cutaway buses, which are smaller buses that seat approximately 20, offer unparalleled flexibility, 
+suitable for flex-route services and ADA-compliant transit due to their seating capacity and 
+adaptability. However, their higher operating costs and inefficiency in low-demand periods suggest a 
+need for alternative solutions during off-peak hours or in low-density areas.  
+ 
+Passenger vans, offering lower capacity but increased maneuverability, can enhance service efficiency 
+by reducing the risk of damage in tight spaces and are preferable for areas where larger vehicles like 
+cutaway buses are less practical. Yet, their limited capacity poses challenges during peak demand 
+periods, underscoring the need for a balanced fleet that includes higher-capacity vehicles for such 
+times.  
+ 
+Taxis, or partnership with transportation network companies like Uber, Lyft, or Via, present a flexible, 
+on-demand solution that complements the existing fleet by catering to specific needs such as

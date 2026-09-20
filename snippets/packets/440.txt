@@ -1,0 +1,355 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Mobile Alabama/KEY - MobileCity - City Council Meeting • Agendas & Minutes • CivicClerk.pdf
+# pages_total: 80; hit_pages: [1, 2, 3, 15, 53, 55, 71, 72, 73, 74, 76, 77, 78]; included: [1, 2, 3, 15, 55, 73, 77]
+# context: Bleecker Drive folder: Mobile Alabama
+
+=== page 1 of 80 ===
+AGENDA ITEM SUMMARY SHEET
+Item No. _
+Agenda of: September 2, 2025
+Date
+Submitted by:
+Sponsored by:
+Transit
+Department
+Mayor Stimpson
+Name
+Reviewed by: Joe Snowden
+Joe Snowden
+Department Head
+Title
+Executive Director
+Routing Authorized:
+Mayor's Office
+Date
+A brief synopsis and explanation of the following:
+PROJECT NAME: Contract with Port City Transit, LLC
+PURPOSE & SCOPE OF PROJECT:
+5 yr contract renewable for 1 addl 5 yr period with Port City Transit, LLC, for transit management
+services to operate the City of Mobile transit system.
+General fund.
+RESOLUTION X
+ORDINANCE D
+OTHER D
+AMOUNT OF CONTRACT: NTE $12.1M per year.
+FUNDING SOURCE:
+Budget Item:
+6120.6120.42200
+Discretionary Funds:
+Budget amendment:
+REDUCE
+INCREASED
+Grant funds:
+Matching funds:
+Associated Costs:
+Current year (itemize)
+Type:
+Amount:
+Future years
+Year: _
+Amount:
+*If Cost will continue, write "indefinite" and list project annual cost.
+Effective date of contract: upon signature
+Renewal date of contract (if applicable):
+If not bid, state reason: Sealed Request for Proposals
+How many bidders received bid packages (if applicable):
+2+internet
+How many bidders submitted bids (if applicable):
+If this is not the lowest bid, explain why not:
+
+=== page 2 of 80 ===
+RESOLUTION
+Sponsored by: Mayor William S. Stimpson
+BE IT RESOLVED BY THE CITY COUNCIL OF MOBILE, ALABAMA, that the Mayor
+and City Clerk be, and they hereby are, authorized to execute and attest,
+respectively, for and on behalf of the City of Mobile, an agreement, by and
+between the City of Mobile and Port City Transit, LLC, for five years,
+renewable for one additional five-year period without further City Council
+approval, in a total amount not to exceed $12,100,000.00 per year, as
+appropriated funds are available, and to make application for, receive, and
+expend any such grant or other funds in furtherance of this purposes of this
+agreement, for services to operate the City of Mobile transit system, as
+outlined in the agreement attached hereto and made a part hereof as though
+set forth in full. A copy of said contract is on file in the Office of the City
+Clerk.
+Adopted:
+-
+City Clerk
+
+=== page 3 of 80 ===
+CITY OF MOBILE
+AGREEMENT BETWEEN OWNER AND SERVICE PROVIDER
+FOR A NOT-TO-EXCEED SUM (HEREINAFTER "AGREEMENT")
+This Agreement made and entered into this
+BETWEEN the OWNER (: or "City")
+MOBILE
+ALABAMA
+And the SERVICE PROVIDER:
+For the following:
+CITY OF MOBILE
+205 Government Street
+P. O. Box 1827
+Mobile, Alabama 36633
+Port City Transit, LLC
+114 5th Avenue, Floor 16
+New York. NY 10011
+City of Mobile Business License No.: 135000
+Secretary of State Registration No.: 000-206-733
+Transit Provider Services
+Mobile, Alabama
+In Reference to RFP Number: 5963
+The OWNER and SERVICE PROVIDER agree as set forth below:
+1.1
+1.11
+ENGAGEMENT
+The OWNER hereby engages Port City Transit, LLC (the "SERVICE PROVIDER") as an
+1.2
+1.2.1
+together with an integrated ride-share program, encompassing fixed-route, paratransit, and
+nicrotransit services within the corporate limits of, and all annexed areas to, the City of Mobile
+in accordance with this Agreement and Exhibit A. The Request for Proposals (RFP) dated June
+20, 2025, and (with addenda) is incorporated by reference for descriptive/background purposes
+only; in the event of conflict, this Agreement controls.
+DESIRED RESULT
+Establish a long-term engagement with the SERVICE PROVIDER that: (a) optimizes the
+management and operation of the Mobile Transit System; (b) plans and implements service and
+technology innovations that increase ridership and improve service quality; (c) delivers services
+at competitive, fair, and reasonable pricing within the City's, pre-approved annual budget; and
+(d) provides ongoing technical support to City staff and elected officials to ensure a compliant,
+accessible, and inclusive transit.
+1
+
+=== page 15 of 80 ===
+Docusign Envelope ID: 30D1CC14-D7F4-4984-9A3F-3AD6CD76B46E
+4.2
+4.2.1
+SERVICE PROVIDER shall provide a qualified interim GM within ten (10) business days and a
+permanent replacement acceptable to the OWNER within sixty (60) days. The OWNER's approval
+shall not be unreasonably withheld.
+(d) No Service Degradation/No Cost Increase. SERVICE PROVIDER shall ensure continuity of
+operations during any transition and shall bear all costs associated with replacement; no additional cost
+to the OWNER.
+(e) Material Breach. Failure to timely provide and implement an acceptable CAP or to furnish an
+Interim/permanent replacement as required constitutes a material breach.
+OWNER/SERVICE PROVIDER REPRESENTATIVES
+OWNER's Representative. The Executive Director of Finance (or successor title) is the OWNER's
+authorized representative for this Agreement (the "OWNER's Representative"). The OWNER may
+authority to modify this Agreement, increase compensation, extend time, or issue change orders except
+shall be directed to the OWNER's Representative (with copies as the OWNER may designate). In an
+4.2.2
+days.
+SERVICE PROVIDER'S REPRESENTATIVE IN CHARGE
+Firm Name:
+Port City Transit, LLC
+Address:
+114 5th Avenue, Floor 16, New York, NY, 10011
+Phone Number:
+(914)943-8478
+Email address:
+michael.vaccarino@ridewithvia.com
+Name:
+Michael Vaccarino
+4.2.3
+PERSONNEL QUALIFICATIONS; KEY PERSONNEL CHANGES
+(a) The SERVICE PROVIDER shall ensure that all personnel (including subcontractor personnel)
+assigned to this Agreement are properly qualified, licensed/certified, trained, and capable of
+performing their assigned duties in compliance with this Agreement and all applicable laws and
+(b) Key Personnel. The SERVICE PROVIDER's Key Personnel (as identified in the accepted
+Proposal) are subject to the OWNER's prior written approval.
+(c) Changes/Substitutions. The SERVICE PROVIDER shall not reassign, replace, or substitute any
+Key Personnel without the OWNER's prior written approval (not unreasonably withheld). For
+planned changes, provide at least fifteen (15) days' prior written notice with résumés and
+qualifications of proposed replacements. For unplanned separations, provide immediate writter
+notice, assign a qualified interim within ten (10) business days, and propose a permanent
+replacement within sixty (60) days.
+(d) Background/Safety Compliance. All safety-sensitive personnel, as defined by FTA regulations
+and in §2.1(Q), shall satisfy background screening, motor-vehicle record checks, and pre-
+employment and ongoing drug and alcohol testing consistent with 49 C.F.R. Part 655. The
+Page 13 of 54
+
+=== page 55 of 80 ===
+Docusign Envelope ID: 30D1CC14-D7F4-4984-9A3F-3AD6CD76B46E
+EXHIBIT B
+Citywide Transit Provider Services
+Mobile, Alabama
+Reference # 5963
+FEES
+Via's fee proposal is structured around a fixed annual commitment of $8 million from the City,
+supplemented by federal formula funding for operating and capital expenditures. This fee
+reflects the total anticipated operating cost for the system at current service levels, including
+staffing, vehicle maintenance, insurance, vendor contracts, and all other services enumerated in
+the scope. The table below summarizes the funding contributions from the City and from other
+sources for each year of the five-year contract, as well as the monthly billed amount. A
+not-to-exceed contract amount ensures that the City's cost commitment remains transparent and
+consistent through the life of the proposed arrangement.
+Year 1
+Year 2
+Year 3
+Year 4
+Operating Costs (Via Contract)
+Startup Costs
+$100,000
+$O
+Fixed Route, Paratransit, & Microtransit Operations
+$11.428,873
+S11,657,451
+Total Operating Costs (Contract Not-to-Exceed)
+$11.528,873
+$11,657.451
+Total Not-to-Exceed Amount from Local Funds
+$8,000,000
+$8,000,000
+Total Not-to-Exceed Amount from Federal/Other Funds
+$3,428,873
+$3,657,451
+$0
+$11,923,177
+$11,923,177
+$8,000,000
+$3,923,177
+$O
+SO
+S12,128,412
+$12,370.980
+$12,128,412.
+$12,370,880
+$8,000,000
+$8,000,000
+$4,128.412
+$4,370,980
+Upfront Billed Amount
+5100,000
+SO
+SO
+$O
+Monthly Billed Amount (1/12 NTE, Less Startup Costs)
+$052,408
+3871,154
+$003,508
+57,010,201
+51,030,015
+Monthly Billed Amount from Local Funds
+$866,667
+$686,667
+Monthly Billed Amount from Federal/Other Funds
+$285,739
+$304.788
+$666,667
+$666,667
+$666,667
+$326,931
+$344,034
+$364,248
+Note: As the operator of Mobile's transit network, Via would be subject to inflationary pressures over the term, most
+notably for labor costs. As such, we've reflected a 2% Y-o-Y price increase, which is funded by assumed
+corresponding increases in federal funding and fare revenue. The local contribution from Mobile is unchanged.
+Page 48 of 48
+
+=== page 73 of 80 ===
+Docusign Envelope ID: 30D1CC14-D7F4-4984-9A3F-3AD6CD76B46E
+We initially limited our outreach to firms physically located in the Mobile area; if no Mobile-based
+firms existed for a particular scope of work, we widened our search radius to include the whole
+state of Alabama. We began sending these solicitation emails on July 9. We sent follow up emails
+to all firms that did not respond to our initial solicitation within 2 days. After 4 days, if we did not
+receive responses, we expanded our search to include firms based in other states. A list of firms
+that we contacted about these opportunities can be found in Exhibit 4.
+Follow up With Interested Firms
+Of the 28 firms contacted about this procurement, we received responses from 9 interested
+firms. We responded to all firms that indicated interest in the project via email. We sent over
+scopes of work to firms that we had pre-existing relationships with, and scheduled introductory
+conversations with firms that were new to us. Following these conversations, firms that were still
+interested in the project were sent scopes of work, and asked to provide price estimates.
+Provision of Adequate Information
+Interested firms were sent the scopes of work attached in Exhibit 5. Firms that requested it were
+also sent copies of the RFP and addenda. Any questions the firms had about these documents
+were answered promptly over email.
+Good Faith Effort Negotiation
+We asked all interested firms to provide information on their pricing, as well as some background
+materials on their firm. We received these materials from 6 firms - 3 for community engagement,
+1 for uniform provision, 1 for janitorial services, and 1 for printing. Through evaluation of these
+materials, and through subsequent negotiations with interested firms, we were able to secure
+partnerships with 4 highly qualified firms that we believe are exceptionally well-suited to
+carrying out these scopes of work effectively.
+1. JCM & Associates - Uniform Provision
+Blue Goose Uniforms is an AL UCP-certified DBE firm that specializes in providing
+uniforms and promotional products for a range of industries. Blue Goose has more than
+30 years of experience helping partners enhance their brand identity and company
+culture by providing high-quality branded uniform apparel, backed by an unmatched
+commitment to service and personal care.
+2. C.E.R.M. - Community Engagement
+C.E.R.M. is one of the largest minority-owned, professionally licensed, environmental,
+engineering, and program management firms in the Southeastern United States. Carla
+Davis, the project lead, has many years of experience in providing community
+engagement services in the Mobile area, and excels in building strong community
+relationships, translating technical information into accessible materials, and supporting
+clients with detail-oriented, solutions-driven work.
+3. Fine Printing - Printing Services
+Fine Printing is a woman-owned AL DOT certified DBE that has been delivering quality
+products to satisfied customers for over 25 years. They specialize in providing full color
+printing as well as graphic art and design services.
+4. H&S Commercial & Industrial Supplies & Svcs - Janitorial Services
+H&S commercial is a janitorial services firm with over 25 years of experience in the
+industry. Specializing in providing commercial and industrial services to customers
+OVIa Proprietary, Confidential, and Trade Secret Information
+Via Transit RFP #5963 Transit Service Provider
+
+=== page 77 of 80 ===
+OFFICE OF SMALL BUSINESS DEVELOPMENT
+CITY OF MOBILE
+Subcontracting and Major Supplier Plan
+FORM 1: Background and Plan (Cont'd
+Section Il. Subcontractors/Major Vendors Supplier Plan submitted by:
+Please Print Company Via Transit (USA) LLC
+Your Bid/Proposal Amount $ 59,608,891
+Description Transit Service Provider
+Name of Bidder/Proposer: Via Transit (USA) LLC
+I intend to use the following subcontractors: (Attach additional pages if necessary)
+Subcontractor or
+Major Supplier
+Phone
+Scope(s) of Work to be performed
+by the DBE, SDVOB
+JCM & Associates
+C.E.R.M.
+Fine Printing
+H&S commercial & Indusrial Supplies
+& Services
+800-543-3732
+Provision of Driver Uniforms
+678-999-0173
+Community Engagement Services
+256-536-2229 Printing services
+251-330-8201 Cleaning of bus stops
+$$ Value of
+Proposed
+Contract
+with DBE*
+$126,000
+$150,000
+$5,877
+$429,000
+*Final contract values depend on the final launch plan and service design
+Page 3 of 5
+Subcontractor/Supplier Plan
+Contact Office of Small Business
+Development for questions on
+completing this form.
+Via email:Archnique.kidd@cityofmobile.org
+251.208.7967
+Date: 7/23/2025
+% of
+TOTAL
+Contract
+0.21%
+0.25%
+0.01%
+0.72%
+DBE?
+Official
+Verification
+Only
+Yes
+Yes
+Yes
+Yes
+Updated 7.2025

@@ -1,0 +1,125 @@
+# source: raw/bleecker_drive/Cupertino/23_12042_A_-_Agreement_with_Nomad_Transit_LLC_Via.pdf
+# path: raw/bleecker_drive/Cupertino/23_12042_A_-_Agreement_with_Nomad_Transit_LLC_Via.pdf
+# hit page: 10 of 26
+# terms: NoMad Transit
+
+=== page 9 ===
+27. 
+EXECUTION 
+The person executing this Agreement on behalf of Contractor represents and warrants that 
+Contractor has full right, power, and authority to enter into and carry out all actions contemplated 
+by this Agreement and that he or she is authorized to execute this Agreement, which constitutes a 
+legally binding obligation of Contractor. This Agreement may be executed in counterparts, each 
+one of which is deemed an original and all of which, taken together, constitute a single binding 
+instrument. 
+IN WITNESS WHEREOF, the parties have caused the Agreement to be executed. 
+CITY OF CUPERTINO 
+A Municipal Corporation 
+By _________ _ 
+Name ---------
+Title ----------
+Date _________ _ 
+APPROVED AS TO FORM: 
+CHRISTOPHER D. JENSEN 
+Cupertino City Attorney 
+ATTEST: 
+KIRSTEN SQUARCIA 
+City Clerk 
+DATE: --------
+CONTRACTOR 
+cwi- A &W,1,n.4, 
+By __________ _ 
+Name Erin Abrams 
+Title Manager 
+---- ------
+Date _F_e _b _2 _7 ,_2_0_2_3_ 
+Page 9 of9 
+Professional/Consulting Contracts - Nomad Transit, LLC
+=== page 10 ===
+Exhibit A 
+SCOPE OF WORK 
+City of Cupertino and City of Santa Clara On-Demand Shuttle Program 
+NoMad Transit LLC ("Consultant") shall work with the City of Cupertino ("the City") in the implementation 
+of this Scope of Work. The City is responsible for engaging with the City of Santa Clara and working 
+together with the City of Santa Clara to provide the necessary inputs and signoff on this Scope of Work. 
+The Consultant will leverage proprietary technology to assist in the design, deployment, operations, 
+maintenance, marketing and evaluation of an on-demand transit service in Cupertino, CA and Santa Clara, 
+CA. The service will be flexible, dynamically adapting to and responding to demand in real-time, using 
+optimized routes to maximize the number of passengers per-vehicle and per-trip. Regular performance 
+monitoring and data reporting will be used to assess operations and allow for mutually agreed upon 
+adjustments to the service at any time during the Program to increase awareness, ridership, and/or 
+accommodate new or shifting demand. 
+Duration: The anticipated launch of the Program is Spring 2023, with the actual launch date contingent 
+upon the timing of the Cupertino City Council authorization of the agreement for services. After a launch 
+date has been mutually agreed upon by the Consultant and the City, dates referenced in this scope of work, 
+including data sharing, launch timing, etc., will be based upon the set "Launch Date." 
+Geographic Coverage: The geographic area includes all areas within the City of Cupertino, parts of Santa 
+Clara, including areas shown in Exhibit C outside of the Cupertino boundary, including the Sunnyvale 
+Caltrain station, Mountain View Caltrain station, El Camino Hospital and other areas mutually agreed upon 
+by the Consultant and the City. 
+Task 1. Project Management & Administration 
+Task 1.1 Detailed Work Plan & Schedule 
+The Consultant will develop and maintain a detailed work plan and schedule for submission to the City 
+Project Manager no later than 15 business days after the Notice to Proceed, which will seek to refine and 
+keep up-to-date the following: 
+Key Consultant and Subcontract staff assignments, by task/subtask 
+Identify and maintain schedule of start and stop dates for each task/subtask Identify key milestones 
+and define expected deliverables/results 
+Deliverables 
+Detailed Work Plan & Schedule Documents 
+Updates to Documents 
+Task 1.2 Regular Staff Briefings 
+The Consultant Project Manager shall conduct and schedule regular staff briefings ("briefings"), by phone or 
+in person, to report on Program service performance, completed tasks, deliverables, and significant issues 
+encountered and resolved during the period since the previous briefing, with an explanation and revised 
+schedule for any unmet tasks and/or deliverables. The briefing shall also provide an overview of activities 
+and expected deliverables for the upcoming I -month period. Briefings will occur no less than weekly for the 
+duration of the (four) weeks leading up to, and for 4 weeks following, the Launch Date, unless otherwise 
+agreed upon by the City Project Manager. For the remainder of the term of the Contract, Consultant shall 
+provide bi-weekly briefings to the City Project Manager, unless otherwise agreed upon by the City Project 
+Manager.
+=== page 11 ===
+Deliverables: 
+Weekly and Bi-Weekly meetings 
+Meeting agendas, notes and action items 
+Task 1.3 Monthly Invoicing 
+The Consultant shall submit to the City Project Manager invoices monthly on or around the 20th of each 
+month to include expenses for the preceding month, with the billing period beginning and ending in the same 
+calendar month. 
+Invoices shall have supporting documentation that includes a list of hours by day by Driver Partner ID with 
+the associated applicable rate as well as a schedule showing the operating hours for the month. 
+Deliverables: 
+Monthly invoices 
+Supporting Billing Documentation 
+Task 1.4 General Project Management 
+Consultant will take responsibility for project management on a continuous basis during the course of the 
+project and will designate a Project Manager to coordinate all required deliverables and perform all work 
+described herein. The Consultant Project Manager will be empowered to enact decisions related to the 
+project on the Consultant's behalf, and will serve as primary point of contact with the City Project Manager 
+on an ongoing basis. The Consultant shall oversee subconsultant activities and will ensure that any 
+subcontracted staff performing tasks have the appropriate skill levels and credentials. 
+Consultant shall commit to attending in-person at least (3) City Council meetings or major Program related 
+events over the term of the Contract to provide staff support at key milestones, which may include service 
+Launch Events. The City will give the Consultant at least four ( 4) weeks advance notice of such events. 
+The City will also designate a Project Manager to be the primary point of contact for the Consultant 
+throughout the project duration. The Consultant shall keep the City Project Manager abreast of all 
+coordination related to the project with outside agencies with a direct connection to the City regarding 
+project funding, including both governmental agencies and private organizations, prior to any meeting with 
+any such outside agency or organization. 
+In addition, the Consultant will ensure the project team includes personnel with expertise in service scoping, 
+operations, driver onboarding, fleet maintenance, marketing, and data analytics. Leading up to the launch of, 
+and during the course of the Program, the Consultant's project team, led by its Project Manager, will be 
+closely engaged with the City in order to ensure that key project deliverables are provided in a timely 
+manner, and that learnings from the Program are incorporated into its optimization. 
+Onsite support (pre-launch): Consultant Project Manager will be onsite for at least one (1) week prior to 
+the Launch Date to oversee the implementation of the service. 
+Remote Support (post-launch): For the first month of service, the Consultant Project Manager will lead 
+weekly follow-up calls to review all aspects of the service with City personnel. The Consultant Project 
+Manager will also coordinate additional reviews of key operational topics as mutually decided upon by the 
+Consultant and the City. 
+Deliverables: 
+Attendance at minimum (3) Council meetings or other major events. 
+Onsite and remote support including regular calls 
+Management and oversight for subcontracts General project management 
+Task 2. Preliminary Service Planning, Design & Preparation Task 
+2.1 Project Kick-Off Meeting

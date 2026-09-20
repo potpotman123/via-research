@@ -1,0 +1,287 @@
+# source: raw/bleecker_drive/Broward/MA_Report.pdf
+# path: raw/bleecker_drive/Broward/MA_Report.pdf
+# hit page: 3877 of 6451
+# terms: Via+not to exceed, Via+not-to-exceed
+
+=== page 3876 ===
+Current Procurement Contracts Sorted by Contract ID # As of 11/24/25
+Page 3876 of 6451
+Lead Agency Contact (Contact Unit Mgr if Incorrect)
+EOCONNELL@broward.org
+Contract ID #
+Document Description
+Start Date
+End Date
+Not To Exceed
+Amount Ordered
+OPN2126585G1_1
+Lab Testing & Sampling Srvcs.
+7/1/2023
+6/30/2028
+$350,000.00
+$44,679.04
+Vend#-AddrID-ContactID
+Legal Name
+Vendor Contact Email
+Vendor Phone #
+VS00007392
+PACE ANALYTICAL SERVICES
+Neshmah.Castaneda@pacelabs.com
+  
+Item #
+Category
+Description
+Total Line Qty
+Released
+UO
+M
+Maximum Line 
+Amount
+Unit Price
+Total Line Released 
+Amount
+Amount Paid
+Group E Line 40.
+OPN2126585G1_1_08
+9 
+9899180
+DIESEL RANGE 
+ORGANICS. Proven 
+method performance via
+method specific 
+protocol- must show in 
+QA manual. Miami 
+Dade# EVN0000098, 
+Group E Line 41.
+0.0000
+EA
+$0.0000
+$50.0000
+$0.0000
+$0.0000
+OPN2126585G1_1_09
+0 
+9899180
+BTEX + 
+NAPHTHALENE. 
+Proven method 
+performance via method
+specific protocol- must 
+show in QA manual. 
+Miami Dade# 
+EVN0000098, Group E 
+Line 42.
+0.0000
+EA
+$0.0000
+$35.0000
+$0.0000
+$0.0000
+OPN2126585G1_1_09
+1 
+9899180
+ORGANIC AND 
+VOLATILE ACIDS. 
+Proven method 
+performance via method
+specific protocol- must 
+show in QA manual. 
+Miami Dade# 
+EVN0000098, Group E 
+Line 43.
+0.0000
+EA
+$0.0000
+$150.0000
+$0.0000
+$0.0000
+OPN2126585G1_1_09
+9899180
+TOTAL ORGANIC 
+0.0000
+EA
+$0.0000
+$28.0000
+$0.0000
+$0.0000
+=== page 3877 ===
+Current Procurement Contracts Sorted by Contract ID # As of 11/24/25
+Page 3877 of 6451
+Lead Agency Contact (Contact Unit Mgr if Incorrect)
+EOCONNELL@broward.org
+Contract ID #
+Document Description
+Start Date
+End Date
+Not To Exceed
+Amount Ordered
+OPN2126585G1_1
+Lab Testing & Sampling Srvcs.
+7/1/2023
+6/30/2028
+$350,000.00
+$44,679.04
+Vend#-AddrID-ContactID
+Legal Name
+Vendor Contact Email
+Vendor Phone #
+VS00007392
+PACE ANALYTICAL SERVICES
+Neshmah.Castaneda@pacelabs.com
+  
+Item #
+Category
+Description
+Total Line Qty
+Released
+UO
+M
+Maximum Line 
+Amount
+Unit Price
+Total Line Released 
+Amount
+Amount Paid
+2 
+CARBON. Proven 
+method performance via
+method specific 
+protocol- must show in 
+QA manual. Miami 
+Dade# EVN0000098, 
+Group E Line 44.
+OPN2126585G1_1_09
+3 
+9899180
+PRIORITY 
+POLLUTANTS - SEE 
+LIST IN 40 CFR, PART
+122, APPENDIX D, 
+TABLE II AND III. 
+Proven method 
+performance via method
+specific protocol- must 
+show in QA manual 
+Miami Dade# 
+EVN0000098, Group E 
+Line 45.
+10.0000
+EA
+$0.0000
+$408.0000
+$4,080.0000
+$1,632.0000
+OPN2126585G1_1_09
+4 
+9899180
+TCLP - COMPLETE - 
+INCLUDES 
+EXTRACTION, 
+METALS, 
+VOLATILES, 
+SEMIVOLATILES, 
+AND HERBICIDES 
+ANALYSES. Proven 
+method performance via
+0.0000
+EA
+$0.0000
+$555.0000
+$0.0000
+$0.0000
+=== page 3878 ===
+Current Procurement Contracts Sorted by Contract ID # As of 11/24/25
+Page 3878 of 6451
+Lead Agency Contact (Contact Unit Mgr if Incorrect)
+EOCONNELL@broward.org
+Contract ID #
+Document Description
+Start Date
+End Date
+Not To Exceed
+Amount Ordered
+OPN2126585G1_1
+Lab Testing & Sampling Srvcs.
+7/1/2023
+6/30/2028
+$350,000.00
+$44,679.04
+Vend#-AddrID-ContactID
+Legal Name
+Vendor Contact Email
+Vendor Phone #
+VS00007392
+PACE ANALYTICAL SERVICES
+Neshmah.Castaneda@pacelabs.com
+  
+Item #
+Category
+Description
+Total Line Qty
+Released
+UO
+M
+Maximum Line 
+Amount
+Unit Price
+Total Line Released 
+Amount
+Amount Paid
+method specific 
+protocol- must show in 
+QA manual. Miami 
+Dade# EVN0000098, 
+Group E Line 46
+OPN2126585G1_1_09
+5 
+9899180
+MINIMUM CRITERIA
+GROUNDWATER 
+MONITORING 
+PARAMETERS 
+GROUP Miami Dade# 
+EVN0000098, Group E 
+Line 47.
+0.0000
+EA
+$0.0000
+$483.0000
+$0.0000
+$0.0000
+OPN2126585G1_1_09
+6 
+9899180
+POLYCYCLIC 
+AROMATIC 
+HYDROCARBONS 
+(PAHs) GROUP Miami 
+Dade# EVN0000098, 
+Group E Line 48.
+53.0000
+EA
+$0.0000
+$70.0000
+$3,710.0000
+$1,890.0000
+Vendor Total
+$0.0000
+$44,613.0400
+$28,179.0000
+Departmental Usage
+# of PO's
+Amount Ordered
+Amount Paid
+WATER & WASTEWATER 
+OPERATIONS 
+11
+$38,971.0400
+$22,471.0000
+ENVIRON PLAN COMMTY 
+RESILIENCE 
+24
+$5,708.0000
+$5,708.0000
+Department Totals
+35
+$44,679.0400
+$28,179.0000

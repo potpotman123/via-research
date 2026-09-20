@@ -1,0 +1,215 @@
+# source: raw/bleecker_drive/The Regional Transportation Commission of Southern Nevada/Agreement_No.pdf
+# path: raw/bleecker_drive/The Regional Transportation Commission of Southern Nevada/Agreement_No.pdf
+# hit page: 17 of 19
+# terms: Remix Technologies
+
+=== page 16 ===
+26-007 SUPPLY OF 
+REMIX SOFTWARE 
+15 
+REGIONAL TRANSPORTATION COMMISSION OF SOUTHERN NEVADA
+Agenda Item
+Agreement No. 26-007, Supply of Remix Software
+N
+o.
+R
+emix
+R
+emix
+Technologies, LLC in the not-to-exceed amount of $410,295.00 for the period of July
+1, 2025, through June 30, 2030, pursuant to Nevada Revised Statute 332.115.1(h),
+a
+nd authorize the Chair to sign (FOR POSSIBLE ACTION)
+F
+ISCAL IMPACT:
+Funds in the amount of $77,250.00 are budgeted and available in the Transit Fund for Fiscal Year 2026.
+Funds will be budgeted in the same fund for future fiscal years.
+B
+ACKGROUND INFORMATION:
+The Regional Transportation Commission of Southern Nevada (RTC) Information Technology (IT) and Fixed
+Route staff requests approval to enter into an agreement with Remix Technologies, LLC for annual
+software maintenance and renewals for the period from July 1, 2025, through June 30, 2030.
+S
+taff recommends approval.
+•
+Travel-time isochrone visualizations
+•
+Title VI Engine (US) - generate a service equity analysis in less than 10 minutes
+•
+Timetables – generate and customize time points and segment-level runtimes
+•
+Export timetables into excel
+•
+Consistent and regular product improvements / feature launches
+•
+Full Google ready GTFS creation and editing capabilities, including calendaring
+Docusign Envelope ID: 9FC3B236-97B3-4C67-BCCC-29F31330F1A2
+REGIONAL TRANSPORTATION COMMISSION OF SOUTHERN NEVADA
+Agenda Item
+=== page 17 ===
+26-007 AGREEMENT FOR SUPPLY OF 
+REMIX SOFTWARE 
+16 
+REGIONAL TRANSPORTATION COMMISSION OF SOUTHERN NEVADA
+Agenda Item
+Recommendation
+by Petitioner:
+Approve
+26-007,
+Remix
+with
+Remix
+Technologies, LLC in the not-to-exceed amount of $410,295.00 for the period of July
+1, 2025, through June 30, 2030, pursuant to Nevada Revised Statute 332.115.1(h),
+and authorize the Chair to sign (FOR POSSIBLE ACTION)
+BACKGROUND INFORMATION:
+The Regional Transportation Commission of Southern Nevada (RTC) Information Technology (IT) and Fixed
+Route staff requests approval to enter into an agreement with Remix Technologies, LLC for annual
+software maintenance and renewals for the period from July 1, 2025, through June 30, 2030.
+Nevada Revised Statute 332.115.1(h) specifies that software for computers is exempt from competitive
+bidding.
+Staff recommends approval.
+ATTACHED:
+Agreement No. 26-007, Supply of Remix Software
+$79,600.00 
+12 months (7/1/26 – 6/30/27) 
+$82,000.00 
+12 months (7/1/27 – 6/30/28) 
+ $84,445.00 
+ 12 months (7/1/28 – 6/30/29) 
+ $87,000.00 
+ 12 months (7/1/29 – 6/30/30) 
+Total 
+$410,295.00 
+Pricing Notes: 
+•
+Commitment Term 60 months
+•
+Remix licenses for an unlimited number of users within organization.
+•
+Software as a Service (SaaS): fully hosted, cloud-based web platform.
+•
+Dedicated Customer Success staff & enterprise Support: response to requests in 1 business day.
+•
+Training: 10 hours annually and Remix Learning Hub.
+•
+Marketing Terms Willingness to work with Remix to develop a case study, ability to use RTC as a
+reference; subject to RTC written approval.
+LONG TERM MAINTENANCE: 
+N/A 
+Support Notes: 
+•
+The 90-day Software warranty begins upon execution of this Agreement by both parties.
+PAYMENT MILESTONES: 
+Note: Item Amount Invoice Sent Payment Due 30 Days After Invoice 
+Payment 
+Milestone 
+# 
+Est. 
+Milestone 
+Date 
+Revised Milestone 
+Base 
+% of 
+Contract 
+Base 
+(Cumulative) 
+1 
+Contract 
+Execution 
+Year 1 invoice 
+$77,250.00 
+19% 
+$77,250.00 
+2 
+7/1/2026 
+Year 2 invoice 
+$79,600.00 
+19% 
+$156,850.00 
+3 
+7/1/2027 
+Year 3 invoice 
+$82,000.00 
+20% 
+$238,850.00 
+4 
+7/1/2028 
+Year 4 invoice 
+$84,445.00 
+21% 
+$323,295.00 
+5 
+7/1/2029 
+Year 5 invoice 
+$87,000.00 
+21% 
+$410,295.00 
+Totals 
+$410,295.00 
+100 % 
+Docusign Envelope ID: 9FC3B236-97B3-4C67-BCCC-29F31330F1A2
+REGIONAL TRANSPORTATION COMMISSION OF SOUTHERN NEVADA
+Agenda Item
+=== page 18 ===
+26-007 AGREEMENT FOR SUPPLY OF 
+REMIX SOFTWARE 
+17 
+Petitioner:
+Sa brina Glenn, Senior Director of Fixed Route Services, RTC
+Approve
+Agreement
+S
+upply
+w
+ith
+G
+oals:
+R
+TC Board of Commissioners - May 22 2025
+B
+ACKGROUND INFORMATION:
+The Regional Transportation Commission of Southern Nevada (RTC) Information Technology (IT) and Fixed
+Route staff requests approval to enter into an agreement with Remix Technologies, LLC for annual
+software maintenance and renewals for the period from July 1, 2025, through June 30, 2030.
+N
+evada Revised Statute 332.115.1(h) specifies that software for computers is exempt from competitive
+bidding.
+A
+TTACHED:
+Agreement No. 26-007, Supply of Remix Software
+•
+Travel-time isochrone visualizations
+•
+Title VI Engine (US) - generate a service equity analysis in less than 10 minutes
+•
+Timetables – generate and customize timepoints and segment-level runtimes
+•
+Export timetables into excel
+•
+Consistent and regular product improvements / feature launches
+•
+Full Google ready GTFS creation and editing capabilities, including calendaring
+Customer Support 
+Our Success Team brings years of planning experience and works with you to maximize your Remix 
+subscriptions potential through group training sessions and as needed one on one support.  
+Training: Remix will provide your staff with full access to the Remix Learning Hub where trainings and 
+office hours will be regularly hosted and recorded by Remix throughout the contract term.  
+Ongoing Support: Your Remix login provides consulting staff access to the Remix Help Site which has 
+numerous training resources available 24/7. Additionally, our Partner Success team can provide up to 10 
+hours of support per year.  
+Technical Requirements 
+•
+Remix is entirely web-based and software-as-a-service (SaaS).
+•
+Everything is in the cloud -- no installations or downloads. You can access the platform from
+anywhere.
+•
+Every user gets a login + password.
+•
+Remix works on the latest version of Google Chrome, Microsoft Edge, and Firefox
+•
+No maintenance fees
+Docusign Envelope ID: 9FC3B236-97B3-4C67-BCCC-29F31330F1A2
+REGIONAL TRANSPORTATION COMMISSION OF SOUTHERN NEVADA
+Agenda Item

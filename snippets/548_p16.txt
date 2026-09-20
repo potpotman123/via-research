@@ -1,0 +1,148 @@
+# source: raw/bleecker_drive/City of West Sacramento/Flexible_Microtransit_Turnkey_Services_for_West_Sacramento_s_On-Demand_Rideshare_Program_(Addendum_#2_Revision).pdf
+# path: raw/bleecker_drive/City of West Sacramento/Flexible_Microtransit_Turnkey_Services_for_West_Sacramento_s_On-Demand_Rideshare_Program_(Addendum_#2_Revision).pdf
+# hit page: 16 of 39
+# terms: Via+fleet, Via+per revenue hour, Via+turnkey, Via+vehicles
+
+=== page 15 ===
+Request for Proposals #23-076-RFP 
+Title: Flexible Microtransit Turnkey Services for West Sacramento's On-Demand Rideshare Program 
+15 
+ 
+• 
+Number of ride requests and breakdown of detailed status of ride request (completed ride, 
+unaccepted proposal, rider no show, booked out of service hours, seat unavailable, other error) 
+• 
+Scheduled pick-up time and actual pick-up time - wait time for pick-up for all trips, difference 
+between estimated wait time and actual wait time for all trips (e.g., on-time and not on-time 
+trips) 
+• 
+Walking distance from origin location to planned pick-up location - not necessary if operating a 
+curb-to-curb service model 
+• 
+Travel time (i.e., pick-up to drop-off) for all trips, difference between estimated travel time and 
+actual travel time for all trips 
+• 
+Travel distance (i.e., pick-up to drop-off) for all trips.  
+• 
+Utilization - average number of riders per vehicle per hour 
+• 
+Trip cancellations and no-show hotspots/concentrations by day and time of day, as well as 
+methods for diagnosis (e.g., increased wait time due to traffic congestion)  
+• 
+Percentage of trips paid by various payment methods (if applicable)  
+• 
+Percentage of trips booked through app, through phone-based service, and through web based 
+platform 
+• 
+Rideshare/shared rides percentage (i.e., percent of vehicle hours with more than one 
+trip/multiple passengers who did not book a “group trip” on a vehicle at the same time, for 
+vehicle hours with no group trips) 
+• 
+Rideshare/shared ride counts (i.e., all vehicle hours with trip counts, broken down by day and 
+hour with group trips factored in)  
+• 
+Percentage of passengers requiring assistance with mobility devices 
+• 
+Customer satisfaction data including comments, complaints, ratings, and other information 
+submitted through the app/web-based platform 
+• 
+Rider demographics- age, gender, ethnicity, etc. - if feasible.  
+• 
+Vehicle miles travelled  
+• 
+Ability to aggregate data and see averages, medians, mode, standard deviation, etc. as 
+determined useful planning purposes  
+• 
+Ability to manage data by various time frames (days, hours of the day, days of the week, weeks, 
+months, years) 
+• 
+Ability to manage data by geographical zones or subsets of the City
+=== page 16 ===
+Request for Proposals #23-076-RFP 
+Title: Flexible Microtransit Turnkey Services for West Sacramento's On-Demand Rideshare Program 
+16 
+ 
+The Contractor should be able to provide reporting that is consistent/compliant with funding 
+requirements such that the City can continue to utilize Transportation Development Act funds or seek 
+other grant funding opportunities. For example, the City must be able to access the following data if 
+using Transportation Development Act funds to support the On-Demand Rideshare Program: 
+• 
+Vehicle revenue hours - The hours that vehicles are scheduled to or actually travel while in 
+revenue service. Vehicle revenue hours include: layover/recovery time. Vehicle revenue hours 
+exclude: deadhead, operator training, vehicle maintenance testing; and other non-revenue uses 
+of vehicles. 
+• 
+Vehicle revenue miles - The miles that vehicles are scheduled to or actually travel while in 
+revenue service. Vehicle revenue miles include: layover/recovery time. Vehicle revenue hours 
+exclude: deadhead, operator training, vehicle maintenance testing; and other non-revenue uses 
+of vehicles. 
+• 
+Passengers per Revenue Hour 
+• 
+Passengers per Revenue Mile 
+• 
+Accidents/Vehicle roadcalls/breakdowns 
+• 
+On-time performance 
+• 
+Passenger complaints and compliments 
+2.4. Technical Specifications 
+The Contractor shall furnish all tools, materials, supplies, and equipment to perform the tasks outlined 
+in the Scope of Work. 
+This may require a technology platform that can achieve the following functions: 
+A. In real time, aggregate riders traveling from multiple origins to multiple destinations in an 
+exceptionally efficient way that optimizes the balance between maximizing vehicle utilization 
+across the fleet and maintaining excellent quality of customer experience.  
+B. Support fully automated scheduling, dispatch, and reservations, allowing passengers to book 
+trips in real-time via phone, mobile application, and/or web browser. If pre-scheduled bookings 
+are recommended as part of the transit model, indicate how is demand managed with pre-
+scheduled rides. 
+C. Flexible in developing pricing models to meet the City’s various service goals and objectives such 
+as pricing by distance, day/time of ride, location, or additional passenger pricing. The platform 
+should also have the ability to apply different rate structures to passengers (i.e. senior, disabled, 
+student, etc.). Please indicate what pricing models can be developed. Please indicate whether 
+City staff may have the ability to apply discounted rate structures to passengers who meet 
+eligibility requirements.
+=== page 17 ===
+Request for Proposals #23-076-RFP 
+Title: Flexible Microtransit Turnkey Services for West Sacramento's On-Demand Rideshare Program 
+17 
+ 
+D. Provide promotional pricing such as free rides, promo codes, or vouchers if requested by the 
+City.  
+E. Allow an option for people to request a wheelchair/mobility device on-demand vehicle. If the 
+service can provide bike racks and are not available on all vehicles, the platform should allow 
+people to request a vehicle with a bike rack.   
+F. Enhance connections to other mode choices - such as biking, walking, or taking existing fixed 
+route transit. Please indicate if the platform can provide real time information regarding other 
+transportation options, recommend optional trip routes, or allow multi-modal booking. Please 
+indicate if the platform is able to integrate with third party fare collection systems utilized by 
+other transportation/mobility options in the region.  
+G. Access to related ridership and performance data and the ability to create reports with ease. 
+The technology platform should allow the City to self-generate standard reports, graphs, and/or 
+spatial data or the Contractor should provide assistance in organizing data through graphs or 
+spatial analysis. Data should be available for direct download in a format accessible by the City 
+(CSV, excel, shapefiles for ArcGIS, etc.). 
+2.5. Equipment and Supplies 
+The Contractor shall furnish all tools, materials, supplies, and equipment to perform the tasks outlined 
+in the Scope of Work. This may require providing vehicles, vehicle maintenance, mobile data terminals, 
+tablet computer, or other equipment. The Contractor shall work closely with the City to develop a 
+vehicle plan that clearly outlines the fleet size, fixed and variables costs, operations and maintenance 
+needs. The City is looking for a demand responsive service, so vehicle supply throughout the service 
+period may be different through the day or day of week (i.e. peak commute hours may have more 
+vehicles available to manage demand or holidays may have less vehicles due to lower anticipated 
+ridership) adjust based on historic or anticipated ridership trends. The City desires vehicles that 
+accommodate mobility limited users and bicycle storage, as feasible. Proposers who operate alternative 
+fuel vehicles are highly desirable and should indicate so in their proposals.  
+All vehicles and vehicle equipment required by this RFP shall be maintained in good repair and in a 
+condition satisfactory to the City. All vehicles, including wheelchair accessible vehicles, must meet all 
+safety and mechanical standards established by Federal, State, County, and local law, rules, or 
+regulations. Contractor shall assume all responsibility for the proper maintenance of the vehicles. It shall 
+be the expressed responsibility of the Contractor to assume all coordination with the original 
+manufacturer of the vehicles if necessary to keep the vehicles in safe and good operating condition. This 
+shall include negotiating and processing all vehicle warranty claims through the manufacturer's own 
+warranty department, and is responsible for collection of any monies, extended warranties, or credits as 
+a result, for the length of time the warranty is in effect. The extent of the proposed preventive 
+maintenance program shall be an important consideration in the selection of the Contractor. 
+The Contractor shall develop a brand and logo suitable for multilingual users and campaigns that builds 
+upon, and integrates with, the City's existing brand. Vehicles should have decals or be wrapped with an

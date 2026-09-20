@@ -1,0 +1,75 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/City of Largo/2333993.pdf
+# pages_total: 1; hit_pages: [1]; included: [1]
+# context: Bleecker Drive folder: City of Largo
+
+=== page 1 of 1 ===
+RFP SIGN IN/RECEIVING LOG 
+PAGE#:                  
+PROJECT NAME:
+RFP  #19-P-688   SOFTWARE,  HARDWARE  &  IMPLEMENTATION  FOR  A
+ROUTING OPTIMIZATION & CUSTOMER SERVICE SYSTEM
+DATE/TIME:     OPENS: SEPT 10, 2019                             3:00 P.M., LOCAL TIME
+ 
+COMPANY NAME AND ADDRESS
+CONTACT PERSON & PHONE #
+1.
+ROUTEWARE, INC
+NAME
+THOMAS MALONE
+16525 SW 72ND AVE 
+PHONE
+503-906-8500
+PORTLAND, OR  97224
+EMAIL
+TMALONE@ROUTEWARE.COM
+2.
+RUBICON GLOBAL, LLC
+NAME
+MICHAEL ALLEGRETTI
+950 EAST PACES FERRY RD   STE 1900
+PHONE
+844-479-1507
+ATLANTA, GA   30326
+EMAIL
+MICHAEL.ALLEGRETT@RUBICONGLO
+BAL.COM
+3
+COASTAL CLOUD, LLC
+NAME
+SARA HALE
+1 HAMMOCK BEACH PKWY  STE 200
+PHONE
+800-237-9574
+PALM COAST, FL 32137
+EMAIL
+SARA.HALE@COASTALCLOUD.US
+4.
+VIA MOBILITY, LLC
+NAME
+ALI MERALI
+160 VARICK STREET,  FLOOR 4
+PHONE
+203-617-8835
+NEW YORK, NEW YORK  10013
+EMAIL
+ALI.MERALI@RIDEWITHVIA.COM
+5.
+NAME
+PHONE
+EMAIL
+6.
+NAME
+PHONE
+EMAIL
+7.
+NAME
+PHONE
+EMAIL
+EMPLOYEE SIGN IN - NAME AND DEPT
+EMPLOYEE SIGN IN - NAME AND DEPT
+                                                      
+                                                
+                                                    
+                                                 
+/home/largo/ad/purchasing/rfps/19/19P688_routing_optimization_solid_waste/19P688_rfp_receiving_log.odt

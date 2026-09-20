@@ -1,0 +1,52 @@
+# source_url: https://washoe-nv.legistar1.com/washoe-nv/attachments/fd1fee0f-c73d-4a76-8504-6153473a9b1f.pdf
+# path: raw/cache/4e14e28fe1c4e67becde07858a033b5cf55e9f3c.pdf
+# pages_total: 3; hit_pages: [1]; included: [1]
+# context: legistar client=washoe-nv; matter TMP-8043 (2023-10-17): Recommendation to approve the sole source waiver to establish an agreement between Washoe County and Tahoe Downtowner, LLC, for the Tahoe Truckee Area Regional Transportation Connect Micro Transit Pilot Program for the term of January 1, 2024, through April 30, 2024, in an amount not to exceed [$400
+
+=== page 1 of 3 ===
+WASHOE COUNTY
+SOLE SOURCE PURCHASE REQUEST FORM
+This form is required for sole source approval of any of the following:
+Non-grant funds:
+Equipment or supplies exceeding $50,000
+• Professional Services exceeding $50,000
+Grant funds:
+•
+Equipment or supplies exceeding $50,000
+• Professional Services* exceeding $50,000
+*Note: Noncompetitive awards to professionals or consultants that are on retainer contracts are restrictive
+of competition and not allowable under OMB guidelines.
+DEPARTMENT OCM - Community Reinvestment
+REQUESTOR'S NAME Carissa Bradley
+PHONE # (775) 895-4154
+REQUISITION NUMBER
+TBD
+DATE
+08/24/2023
+RECOMMENDED SOLE SOURCE SUPPLIER Tahoe Downtowner LLC
+ESTIMATED DOLLAR VALUE OF PROCUREMENT (ANNUALLY) $ 400,000.00
+Description of good or service requested:
+Contract services to extend the TART Connect Micro Transit pilot program for a third
+and final year.
+Unique features/qualifications required that are not available from another supplier:
+Tahoe Downtowner has been operating the program for the first two years of the pilot
+program. The TART Board decided to extend the pilot program by an additional year to
+gather more information before a competitive solicitation is released.
+Were other options sought?
+• If yes, why were they unacceptable? If no, why were alternatives not reviewed?
+The original contract was not competitively bid because Placer County, the primary
+contract manager did not pursue a competitve bid. After the final year of pilot program,
+the TART plans to competitively bid the program with jursidictions included.
+What efforts were made to determine there was no competition for the service or good and how was it
+determined the price for the purchase is fair and reasonable?
+The price was determined to be fair and reasonable due to the FY23/24 program
+estimated based on ridership in Zone 3 of the program space. The increased costs
+associated with the year 2 hours extension and additional stops is divided among
+funders and apportioned by population.
+I have read and understand the Policies and Procedures of the Board of County Commissioners including
+the Washoe County Grants Manual (if applicable) with regard to sole source procurements. I understand
+that competition is the preeminent consideration in the expenditure of County and grant funds, and I
+acknowledge the County's commitment to the principle of fairness to any vendor who would like to do
+business with the County. After observing these principles and considerations, I hereby submit that the
+goods, services, and/or supplier specified fit the County's sole source criteria for the following reasons:
+Updated 10/19/21

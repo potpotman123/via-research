@@ -1,0 +1,136 @@
+# source: raw/bleecker_drive/Spartanburg/Microtransit_with_FTA_C_4220_1G_FINAL.pdf
+# path: raw/bleecker_drive/Spartanburg/Microtransit_with_FTA_C_4220_1G_FINAL.pdf
+# hit page: 4 of 114
+# terms: Via+drivers, Via+vehicles
+
+=== page 3 ===
+1. Introduction 
+The City of Spartanburg is seeking proposals from qualiﬁed ﬁrms to provide a pilot microtransit 
+service program. The purpose of this pilot is to explore the feasibility and efectiveness of on- 
+demand transit services to meet local transportation needs. This pilot program will utilize three (3) 
+vehicles already owned by the City and will need to operate with existing branding that has already 
+been developed. Upon successful completion of the pilot, the City is interested in the potential to 
+expand the program. 
+The selected ﬁrm will be responsible for full management of the microtransit services, including but 
+not limited to driver hiring and management, vehicle maintenance, service operations, and 
+ensuring that the service meets the community’s transportation needs. Proposals should be 
+scalable, with room for growth beyond the initial pilot phase. 
+ 
+2. Background 
+The City of Spartanburg is focused on improving mobility and reducing trafic congestion by 
+providing innovative transportation options for its residents. Microtransit services, ofering ﬂexible 
+and on-demand rides, will help meet the diverse needs of residents who may not have access to 
+traditional transit options or need transportation for short distances or non-commute purposes. 
+This pilot program will start with a limited service area and three (3) City-owned vehicles. The City has 
+designed speciﬁc branding to be used across the service. This RFP outlines the requirements for 
+the management and operation of the service during the pilot phase. 
+ 
+3. Scope of Work 
+The successful proposer will be required to perform the following tasks: 
+3.1 Microtransit Service Operations 
+• 
+Service Design and Implementation: Develop an operational plan for the pilot 
+microtransit service with City Staf. 
+• 
+Technology Platform: Implement and manage a user-friendly mobile app or web-based 
+platform for riders to book and pay for rides. 
+• 
+Vehicle Operations: Manage the day-to-day operation of the City-owned vehicles, 
+including coordination of schedules, driver assignments, and route optimization. 
+• 
+Provide Exceptional Customer Service and Operations: 
+3.2 Management of Drivers 
+• 
+Driver Hiring and Training: Hire qualiﬁed drivers to operate the microtransit vehicles. This 
+includes conducting background checks, providing driver training, and ensuring compliance 
+with all local, state, and federal regulations.
+=== page 4 ===
+• 
+Driver Scheduling and Supervision: Establish and maintain a system for scheduling and 
+supervising drivers, ensuring that all shifts are covered and vehicles are properly stafed. 
+Hiring local drivers as much as feasible. 
+3.3 Vehicle Management 
+• 
+Vehicle Maintenance: Take over 3 new City vehicle for the pilot. Ensure the vehicles are 
+well-maintained, safe, and in compliance with all applicable safety standards. This includes 
+routine inspections, repairs, and the provision of necessary equipment for the vehicles. As 
+the program expands, vendor will work with City staf to select and purchase new vehicles. 
+• 
+Branding and Exterior Design: Ensure that the current and new City-owned vehicles are 
+branded with the City’s existing designs, and that the branding is consistently applied 
+across the ﬂeet. 
+3.4 Customer Service and Support 
+• 
+Customer Support: Provide customer service support for riders to address issues such as 
+booking problems, scheduling inquiries, and feedback collection. 
+• 
+Collect and Share Data: share collected data with City staf to understand trends, patterns 
+and help make informed programmatic decisions. 
+• 
+Alterative Scheduling Options: Vendor will provide options for those without smart phones 
+to book rides via phone calls. 
+• 
+Community Outreach: Work with City Team to conduct outreach to the Spartanburg 
+community to raise awareness of the microtransit service and encourage participation in 
+the pilot program. Also to train citizens as required and appropriate, and provide 
+appropriate training and market material. 
+3.5 Reporting and Evaluation 
+• 
+Performance Metrics: Track key performance indicators (KPIs) related to service eficiency, 
+customer satisfaction, ridership, and ﬁnancial performance. 
+• 
+Regular Reporting: Provide monthly and quarterly reports to the City of Spartanburg on 
+service performance, challenges, and recommendations for improvement. 
+• 
+Quick response to service issues: Quick and through communication is expected through 
+out the program to keep a maximum operational up time. 
+ 
+4. Pilot Program Duration 
+• 
+Start Date: The program is expected to launch in the Summer of 2025. 
+• 
+Pilot Program Duration: The pilot phase will last for 12 months, after which the City will 
+evaluate the program and determine the next steps, which may include expansion or 
+contract extension.
+=== page 5 ===
+5. Proposal Submission Requirements 
+Proposals must include, at a minimum, the following: 
+5.1 Executive Summary 
+A brief overview of the proposer’s qualiﬁcations, experience, and approach to the microtransit pilot 
+program. 
+5.2 Service Plan 
+Detailed description of the proposed microtransit service, including: 
+• 
+Operational plan and service area coverage 
+• 
+Proposed technology platform for booking and payments 
+• 
+Plans for vehicle management, including maintenance and branding 
+• 
+Driver recruitment, training, and scheduling processes 
+• 
+Customer support and community outreach strategies 
+5.3 Company Proﬁle 
+Information about the proposer’s company, including: 
+• 
+Company history and relevant experience in providing microtransit or related services 
+• 
+Demonstrated ability to manage transportation services of similar scope 
+• 
+Proposed staf and their qualiﬁcations 
+• 
+References from past clients with similar transportation projects 
+5.4 Financial Proposal 
+A breakdown of the ﬁnancial aspects of the proposal, including: 
+• 
+Estimated costs for the pilot program 
+• 
+Costs associated with vehicle maintenance, driver management, and technology platform 
+implementation 
+• 
+Proposed fare structure and revenue projections 
+• 
+Payment schedule and any potential contingencies 
+5.5 Scalability Plan 
+Outline the ﬁrm’s vision for expanding the program after the pilot, including potential growth in 
+service area, ﬂeet, or other considerations.

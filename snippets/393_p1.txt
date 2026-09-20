@@ -1,0 +1,94 @@
+# source: raw/bleecker_drive/SF Bay Area Rapid Transit District (Spare Labs)/24_085_Award_of_Agreement_No_6M4830_-_EDD.pdf
+# path: raw/bleecker_drive/SF Bay Area Rapid Transit District (Spare Labs)/24_085_Award_of_Agreement_No_6M4830_-_EDD.pdf
+# hit page: 1 of 4
+# terms: Spare Labs
+
+=== page 1 ===
+EXECUTIVE DECISION DOCUMENT
+GENERAL MANAGER APPROVAL:
+GENERAL MANAGER ACTION REQ'D:
+yes
+4/4/2024
+DATE: 3/26/2024
+BOARD INITIATED ITEM: Yes
+Originator/Prepared by: Robert Franklin 
+General Counsel
+Dept: Customer Dev & Station Access
+Controller/Treasurer District Secretary
+BARC
+Signature/Date:
+4/2/2024
+4/2/2024
+4/2/2024
+4/2/2024
+[
+]
+[
+]
+[
+]
+[
+]
+Authorization to Award RFP 6M4830 for Software Services for East Bay
+Paratransit Consortium
+Purpose:
+To seek Board authorization for the General Manager, acting jointly with Alameda-Contra
+Costa Transit District (AC Transit), to execute Contract No. 6M4830 with Spare Labs Inc.
+to provide software services for the East Bay Paratransit Consortium (EBPC) for a seven-
+year term, inclusive of an up to two-year implementation period and a five-year operational
+period for a total not-to-exceed project amount of $5,246,000 (BART's share is $1,626,000
+and AC Transit's share is $3,620,000).
+Discussion:
+EBPC is a partnership between BART and AC Transit to provide federally mandated
+paratransit services as required under the Americans with Disabilities Act (ADA) in the
+overlapping service areas of the two agencies. EBPC expenses are split 69% and 31%
+between AC Transit and BART, respectively. The paratransit service is operated by a
+contracted broker firm, which subcontracts with various service providers.
+EBPC has been utilizing the paratransit software solution ADEPT by Stratagen to manage
+eligibility and certifications, store user profiles, schedule rides for passengers, create route
+and trip manifests, and generate reports. ADEPT is nearing its end-of-life and will soon be
+unsupported by the vendor.
+This software procurement to replace ADEPT was undertaken jointly by BART and AC
+Transit, with BART taking the procurement lead. AC Transit is scheduled to consider this
+=== page 2 ===
+Authorization to Award RFP 6M4830 for Software Services for East Bay Paratransit Consortium
+item at its April 24, 2024 Board meeting. The Request for Proposals (“RFP”) sought a
+software-as-a-service platform that requires minimal development and customization and
+satisfies all features, functions, and services identified in the Paratransit Software
+Replacement Scope of Services and Technical Requirements of the RFP. The new software
+will provide innovative features such as dynamic vehicle routing to improve efficiency and
+reduce costs; expanded customer support and self-service functions such as trip booking
+and cancellation; improved efficiencies in the call center features and functions; and the
+ability to integrate with BART’s contactless paratransit fare payment app. The system will be
+flexible and scalable to support new technologies, will integrate with existing EBPC systems,
+and will be designed to adapt to rapidly changing processes and standards.
+The RFP was issued on August 25, 2023 and a Notice to Proposers was emailed to
+eighteen potential proposers and 463 certified Small Businesses. A Pre-Proposal Meeting
+was held with interested parties on September 7, 2023, with ten firms in attendance.
+Proposals were received on October 17, 2023 from four firms:
+1
+2
+3
+4
+. RideCo
+. Spare Labs Inc.
+. Stratagen Systems
+. Trapeze Software Group, Inc.
+For the selection committee, BART and AC Transit enlisted the expertise and assistance of
+several technical advisors, including personnel from New York City Transit (Department of
+Paratransit), Transdev (current paratransit broker), and Transsight (a technology firm) to
+review and evaluate the proposals. The committee determined that two firms – Spare Labs
+Inc. and Trapeze Software Group, Inc. - scored within a competitive range. Trapeze
+withdrew from the scheduled oral interview and was therefore disqualified from
+participation. The Selection Committee determined that Spare Labs Inc.’s product provided
+the best value to BART, AC Transit, and EBPC’s paratransit riders. Negotiations began in
+January 2024 between EBPC and Spare Labs Inc. A Best and Final Offer (BAFO) request
+was issued at the conclusion of negotiations in March 2024. Spare Labs Inc. adjusted its
+price according to its discussions with EBPC and its BAFO fell below the Independent Cost
+Estimate of $6,400,000.
+Pursuant to the District’s Non-Federal Small Business Program, the Office of Civil Rights
+set a 5% Small Business Prime Preference for this Agreement for Small Businesses certified
+by the California Department of General Services ("DGS"). It was determined that there
+were no certified Small Businesses certified by the DGS among the responsive Proposers
+and, therefore, the Small Business Prime Preference is not applicable.
+Pursuant to the District’s Non-Discrimination Program for Subcontracting, the Availability

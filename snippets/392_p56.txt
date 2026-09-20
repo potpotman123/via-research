@@ -1,0 +1,192 @@
+# source: raw/bleecker_drive/Los Alamos (Spare Labs)/1040_24_A_-_AGR_24-37_Spare_Labs_Inc.pdf
+# path: raw/bleecker_drive/Los Alamos (Spare Labs)/1040_24_A_-_AGR_24-37_Spare_Labs_Inc.pdf
+# hit page: 56 of 81
+# terms: Spare Labs
+
+=== page 55 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+55 
+ Agreement Template Version: 04012024 
+○ 
+At first, the change is enabled only for internal testing organizations 
+3. 
+A non-Engineer stakeholder, often a Product Manager or Designer, 
+will themselves manually test the change on an internal test 
+organization, to ensure it meets all requirements 
+○ 
+If not, changes will be made before rolling out to any customers 
+4. 
+The change will then be enabled for a small number of customers 
+○ 
+The most common process for determining candidate 
+customers is for Spare’s Partner Success team to nominate 
+customers (generally ones eagerly awaiting the feature), 
+reach out to the customers, and roll it out with their approval 
+to be an early adopter 
+5. 
+Feedback is collected from early adopters 
+○ 
+Release blocking bugs or functionality changes are incorporated before 
+rolling out further 
+6. 
+The rollout is gradually expanded to more customers, and finally all customers 
+○ 
+Depending on the change, this can happen over a period of days, weeks, 
+or even months 
+○ 
+When fully released, the feature flag is removed 
+○ 
+The only exception is certain features that not all customers 
+will want - in these cases the feature flag is left long term, so 
+the feature can be enabled/disabled on a customer by 
+customer basis 
+System Acceptance Testing 
+The system acceptance testing speaks to the testing of Spare’s 
+products and features to ensure uninterrupted functionality for Los 
+Alamos County. Our approach includes: 
+Automated Testing for Continuous Improvement. Spare uses automated 
+test-driven development techniques to ensure that as we develop new 
+features, they are being tested on the fly and as completed. Upon 
+completion of a feature, but prior to release, automated testing is 
+completed as discussed, then manual testing is completed by a variety of 
+engineers on the team to ensure the product is ready to be staged. Spare 
+also maintains a continuous monitoring system to alert engineers if any 
+issues are identified. With Spare’s 24/7 on-call schedule, we can guarantee 
+an engineer will be ready at a moment’s notice in the event of an 
+emergency. 
+Quality Checks at Every Stage. Spare uses Google Cloud Platform for its 
+cloud environment. We have a testing, staging and production 
+environment, and every feature or database update or release will go 
+through each environment prior to being shipped. Additionally, automated 
+monitoring processes notify the engineering operations team if anything 
+is out of the ordinary. Spare’s Partner Success team is also actively 
+observing systems every day to ensure a high quality of service. 
+Attachment A
+=== page 56 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+56 
+ Agreement Template Version: 04012024 
+Operability Performance Testing 
+We will work closely with Los Alamos County's project team to craft a 
+tailored end-to-end testing plan that ensures the service design and 
+Spare’s platform configurations align with Los Alamo’s objectives and 
+service goals. This will be set at the beginning of the project and will work 
+as the project’s North Star. 
+Testing can be done in the sandbox/testing and production environments, 
+based on the specific characteristics of what is being tested and Los 
+Alamos County’s desired testing approach. These are a few of the different 
+types of operability testing we do: 
+Desk testing. This involves booking fake trips with fake rider profiles and 
+fake driver duties/trips. This is completed by Los Alamos County’s project 
+team members. 
+ 
+Specific user workflow testing. This testing is done by the Admin, 
+Dispatcher/Scheduler, Driver, Customer Service Representative, and 
+Data Analyst. Similarly described in our Training section, this is 
+completed by specific end users to mirror real world operations. This 
+testing involves all the steps for: 
+● 
+Admin: Adding a platform user, adding admin notifications, adding 
+a custom field, editing a custom field, deleting a custom field, 
+creating a service, adding a new zone, adding service settings, 
+adding a stop zone, adding time rules, adding a fleet, creating a 
+new group/membership, creating an announcement, creating a fare 
+rule, adding a fixed fare rule, and adding a per rider (variable) fare 
+rule. 
+● 
+Dispatcher/Scheduler: Creating a duty, duplicating a duty, deleting a 
+duty, canceling a duty, changing a driver, changing a vehicle, 
+extending duty hours, changing a vehicle (down for maintenance), 
+simulating a vehicle incident (short term vehicle issue), simulating a 
+vehicle incident (long term vehicle issue), adding a driver, adding a 
+vehicle, adding a fleet, monitoring live requests, view requests by 
+hour, view requests by driver, and view requests by service. 
+● 
+Driver App: Creating a duty, downloading the Spare Driver App, 
+logging into Spare Driver, starting a duty, booking a request to your 
+duty, new requests, changing navigation view, viewing navigation by 
+directions, viewing rider/request details, canceling a trip, simulating 
+pick up, viewing all upcoming stops, and simulating a “no show”. 
+● 
+Customer Service Representative: Create a "leave as soon as 
+possible" request, cancel a trip, create a scheduled request, 
+create a return request, edit an existing request, arrive by request, 
+create a duplicate request, recurring trip, adding a rider, adding 
+default request preferences, adding a favorite location, adding a 
+membership, adding a payment method, lifting a rider ban early, 
+booking to the paratransit service, booking to the on-request 
+service, booking trips - troubleshooting, outside of the service 
+zone, rider not added to group, and ride requested outside of 
+service hours. 
+● 
+Rider App / Web Booker: Downloading the app, logging into the app 
+Attachment A
+=== page 57 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+57 
+ Agreement Template Version: 04012024 
+/ web booker, location settings, booking a trip, changing the trip type 
+(leave at / arrive by), change the amount of riders, adding 
+accessibility feature, adding a payment method, confirm booking, 
+finding upcoming trips, canceling a trip, updating your profile, 
+viewing past trips, adding a credit card, make payment type the 
+default, remove a credit card, add a favorite location, and signing 
+out. 
+End-to-end dry run testing. The holistic approach involves the vehicles on 
+the road with all user classes (e.g. dispatcher, reservationist, driver, etc.), 
+booking and completing live trips, though not necessarily with real riders. 
+This is essentially a soft launch of the services. Dry run testing involves: 
+● 
+Spare Rider App Testing 
+○ 
+Account 
+Creation 
+(Register 
+& 
+Verification 
+Code): 
+Registration, log in, log out, notification permission, 
+location permission, announcements. 
+○ 
+Booking Trips: Available services in the area, service 
+selection, finding and viewing trip destinations, booking 
+screen display, after requesting a ride. 
+○ 
+Post-Ride Experience: Leave a review and/or a tip. 
+○ 
+Extras: Edit profile, showing organization and 
+nearby available ones, fare passes, payments, 
+promos, past trips, group memberships, settings, 
+legal, sign out. 
+● 
+Spare Launch (Admin Panel) Testing 
+○ 
+Booking trips: Select a rider, set pickup and dropoff 
+locations, select the service, set the leave time, set Rider 
+and accessibility preferences, select payment method, 
+enter driver notes. 
+○ 
+Pausing Duties & Rematching Trips. 
+○ 
+Execute Vehicle Disruption Process: in the case of vehicle breakdown. 
+● 
+Spare Driver App Testing 
+○ 
+Perform the Pick-up & Drop-off of Riders. 
+○ 
+Viewing Rider Trip Notes. 
+○ 
+No-Shows & Cancellations. 
+If desired, Los Alamos County can soft launch Spare in a subsection of its 
+operating area and/or subsection of riders to work out any remaining kinks 
+before launching the full service. However, for paratransit services, this is 
+generally not recommended as there are risks associated with running two 
+systems in parallel. It would be difficult if the system is segmented into two 
+parts as users would need to use two systems. This would be prone to 
+errors, trips slipping through cracks, and can lead to poor efficiency as two 
+different software systems do not integrate nor speak with one another. 
+ 
+Attachment A

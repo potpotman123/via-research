@@ -1,0 +1,115 @@
+# source: raw/bleecker_drive/Metropolitan Council/Microtransit-Solutions _Peer-Case-Studies-Report.pdf
+# path: raw/bleecker_drive/Metropolitan Council/Microtransit-Solutions _Peer-Case-Studies-Report.pdf
+# hit page: 65 of 68
+# terms: RideCo
+
+=== page 64 ===
+TAKEAWAYS 
+ 
+October 24, 2024 ■ PEER MICROTRANSIT CASE STUDIES REPORT 
+63 
+ 
+ 
+Gwinnett County has begun the implementation process by partnering with the City of Norcross and 
+Gateway 85 Community Improvement District to fund the expansion in the Norcross area. In September 
+2024, it expects to launch the expanded service through Ride Gwinnett. The goal is to connect economic 
+drivers and businesses like the Amazon Distribution Center and a local shopping plaza. Their partnership 
+is aligned with the city's 2040 Comprehensive Plan regarding transit and economic development. 
+ 
+ 
+ 
+Gwinnett County is leveraging partnerships with different types of organizations to slowly implement 
+expansions of its microtransit service. Remaining expansion efforts are contingent on future funding 
+and the implementation of its long-range transit plan. 
+Figure 15 New Connections and Extensions 
+Source: Gwinnett Daily Post
+=== page 65 ===
+TAKEAWAYS 
+ 
+October 24, 2024 ■ PEER MICROTRANSIT CASE STUDIES REPORT 
+64 
+RideMICRO 
+RideMICRO has introduced and expanded the microtransit program, expanded specific zones, and 
+added new zones.  
+◼ Planned Implementation Method: RideMICRO's expansion was pre-planned in four phases, which  
+were gradually implemented throughout the pilot rather than at its conclusion. RideMICRO was 
+launched in October 2021, initially covering two zones in Northern Brunswick and Southeast 
+Pender. After a successful three-month pilot, the service expanded to include two additional zones 
+in northern and southern New Hanover. 
+◼ Replacement of Underperforming Fixed Routes: RideMICRO strategically expanded microtransit to 
+replace low-ridership fixed routes in an attempt to shift towards more efficient service for the area. 
+◼ Zones' Flexibility: RideMICRO's zones were designed to be flexible, adapting to changes in demand 
+and the transit plan. In partnership with the Wilmington Urban Metropolitan Planning Organization 
+(WMPO) and funded by NCDOT, RideMICRO temporarily extended its service to mitigate traffic 
+congestion from the Cape Fear Memorial Bridge construction. This three-month extension resulted 
+in a more than 50 percent increase in ridership compared to previous years. 
+After finishing its one-year pilot of the four zones, RideMICRO was deemed successful and was given 
+continued investment from NCDOT, as well as from New Hanover County to fund the two zones within 
+its boundary. Since its launch, RideMICRO has increased daily passenger numbers by 800 percent and 
+lowered the service cost per passenger by 85 percent. 
+ 
+Plymouth Metrolink Click-and-Ride 
+Before launching its microtransit service in 2019, Plymouth Metrolink Click-and-Ride used to be a dial-a-
+ride service. Dial-a-ride services allow passengers to request demand-response trips by phone or online, 
+similar to microtransit. However, these services traditionally must be scheduled in advance, leading to 
+less user flexibility. Expanding the service to be on-demand and providing a mobile application by RideCo 
+allowed Plymouth Metrolink Click-and-Ride to reach a larger audience and increase ridership. These 
+changes stemmed from program modifications rather than extending service. 
+In February 2023, Plymouth Metrolink Click-and-Ride expanded its service to the Maple Grove Transit 
+Station, which connects to other cities in the northwest Minneapolis metropolitan region. Plymouth 
+Metrolink Click-and-Ride allows riders to request transfers from the Maple Grove Transit Station to My 
+Ride, Maple Grove's microtransit service. The partnership between these two microtransit services 
+stems from their intentional, continual collaboration. Every other month, operators of all five 
+microtransit services in the Minneapolis metropolitan region—Plymouth Metrolink Click-and Ride, 
+Maple Grove My Ride, Metro Transit Micro, MVTA Connect, and SouthWest Prime—meet to discuss 
+best practices and challenges faced in their implementation process. All five microtransit services also 
+receive yearly funding from the Metropolitan Council through its annual budget. This close 
+collaboration led to the possibility of connecting two separate microtransit services. 
+ 
+ 
+RideMICRO has undergone several expansion efforts including adaptations to its existing service 
+during pilot periods, implementing new service to replace underperforming fixed-route service, and 
+providing flexibility in microtransit service to adapt to major events such as bridge construction.  
+Plymouth Metrolink Click-and-Ride, like FlexRide, stemmed from dial-a-ride demand response 
+service that was later adapted to be more technology focused. This effort was done in part because 
+of the agency’s collaboration with other regional agencies on best practices.
+=== page 66 ===
+CONCLUSION 
+ 
+October 24, 2024 ■ PEER MICROTRANSIT CASE STUDIES REPORT 
+65 
+5. Conclusion 
+Through the process of desktop research and interviews with the five agencies, there was a lack of 
+information on capital and operating costs of microtransit service, the option to commingle service 
+with paratransit, and cross-jurisdictional implementation. Due to the variety in service design and 
+service operation provided by each agency as well as differences in service models, costs varied and 
+detailed information could not be given. Paratransit commingling was not a service model employed by 
+the case study agencies, so there was not sufficient information to develop key takeaways on that 
+service model. Lastly, cross-jurisdiction coordination was commonly discussed by case study agencies 
+in regard to integrating microtransit services within one region. However, cross-jurisdictional 
+implementation was limited to microtransit service by one agency connecting to another transit type 
+operated by another agency. For this reason, key takeaways regarding cross-jurisdictional 
+implementation were not developed. 
+The case study and agency interviews revealed several common challenges and lessons learned that 
+should be considered when establishing microtransit service in the Baltimore region. Furthermore, the 
+research underscores several benefits and drawbacks of microtransit service. 
+Common Challenges 
+Transit service inherently comes with challenges, particularly when exploring something new. There 
+were several challenges that were expressed by several transit agencies. Below are the most relevant 
+ones to the Baltimore region: 
+◼ There is limited precedent for multijurisdictional collaboration between jurisdictions, agencies, and 
+overarching entities like transit authorities, and collaboration initiated by MPOs have been limited in 
+regions with multiple microtransit services operating. 
+◼ The lack of collaboration has led to a lack of standardization within regions, resulting in different 
+technology providers and inconsistent policies, which can create an inconsistent customer 
+experience. 
+◼ Partly due to the infancy of microtransit service and the post-pandemic ridership recovery, many 
+agencies report poor microtransit performance (e.g., passengers per revenue hour) but still view 
+microtransit service as a valuable transportation option. Agencies attribute poor performance to the 
+need for service design adjustments, having limited operational knowledge, or inadequate customer 
+education and promotion. 
+◼ While microtransit services can aim to connect workers to employment sites, agencies have faced 
+challenges in securing investments directly from employers to support microtransit for their 
+employees. 
+◼ Agencies can experience demand surges and struggle to meet trip requests during peak times, 
+especially in areas with many schools or higher-density urban areas.

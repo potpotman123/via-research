@@ -1,0 +1,178 @@
+# source: raw/bleecker_drive/City of Cottonwood Arizona/DM0179_Cooperative_Purchase_Agreement_fully_executed.pdf
+# path: raw/bleecker_drive/City of Cottonwood Arizona/DM0179_Cooperative_Purchase_Agreement_fully_executed.pdf
+# hit page: 6 of 25
+# terms: Via Mobility, Via Transportation, Via+vehicles
+
+=== page 5 ===
+Customer Responsibilities.  
+(a) General. Customer will operate and manage the Deployment as set forth in the Terms, Customer shall cooperate 
+with Via as necessary for the purpose of setting up the Deployment and its specifications, including by providing 
+prompt feedback to Via’s inquiries and providing local insights, in order to meet mutually agreed upon deadlines. 
+(b) Launch. Within one week of signing this Order, the Parties will mutually agree on the targeted launch date of the 
+Deployment (“Launch”). Launch shall be no fewer than 12 weeks following execution of this 
+Order. In the event that the  Launch date is moved at Customer’s request or delayed due to Customer’s inaction, 
+Customer will be charged a Technology Fee (as defined in Section “Fees” below) to accommodate hosting and 
+other direct IT costs.   
+(c) Zone: Customer and Via will agree at least three months prior to launch on the exact geographical scope for the 
+Deployment zone (“Deployment Zone”). Any changes or expansions to the Deployment Zone may result in 
+additional fees.  
+(d) Support Requests. At the start of the project, Via will direct Customer towards the relevant CRM tools to log 
+requests.  In order to trigger a Product Maintenance request, requests for product maintenance must contain 
+detailed information about the nature of the request. Requests for additional features may be subject to additional 
+fees.  
+(e) Payment Processing. The fees set forth above do not include any owed to the third party payment processor. Via 
+will facilitate an introduction to its recommended payment processor and Customer is responsible for entering an 
+agreement with such payment processor in order to be able to process credit card payments.   
+Fees.  
+Customer shall pay Via the following Fees for the Term, subject always to the Minimum Annual Fee set out below: 
+Fee Category 
+Amount 
+Invoicing Terms 
+Installation Fee (Part 1) 
+$7,500 
+Payable upon signing of this 
+Order 
+Installation Fee (Part 
+2) 
+$7,500 
+Payable upon start of 
+year 2 
+Minimum Annual Fee $24,000 calculated based on a minimum 
+of 4 active vehicles per calendar month 
+Payable upon signing of 
+this Order and annually 
+on the anniversary of the 
+Launch Date thereafter 
+Incremental Monthly 
+Fee 
+ 
+If the number of active vehicles in service exceeds 
+the minimum on any given month, the “Incremental 
+Monthly Fee” shall be calculated as follows: 
+• 
+$400 per active vehicle per 
+calendar month for vehicles 5+ 
+Invoiced for a given 
+month at the beginning 
+of the following month 
+with payment due with 
+net 30 payment terms  
+Total Fee (36 Months) 
+$87,000 assuming 4 vehicles (excluding Incremental Monthly Fees and Fees 
+for any Additional Services)  
+1. Installation and Minimum Annual Fees:  
+The Customer agrees to pay the Installation Fee and Minimum Annual Fee (as set out in the table 
+above) upon signing of this Order, with payment due in accordance with the Terms. In 
+subsequent years, the Minimum Annual Fee shall be payable annually on the anniversary of the 
+Launch Date. 
+2. 
+Incremental Monthly Fee: 
+In the event that more than 4 vehicles are used during a given calendar month, Via will calculate 
+Incremental Monthly Fees and provide Customer with an invoice based on the actual number of 
+active vehicles used during the previous month. Customer shall be responsible for paying the 
+Incremental Monthly Fee within 30 days of the date of such invoice.  
+ 
+The Customer agrees that the sample invoice set out in Appendix 2 is satisfactory to Customer, both in substance and 
+format. 
+Docusign Envelope ID: C429F67A-FCDE-4439-AAC1-E86EBC70B3B5
+=== page 6 ===
+Via shall calculate the Fees due. For the avoidance of doubt, (i) the number of vehicles per month for purposes of the above
+fees shall be the maximum number of distinct vehicles input by Customer that use the Via Solution on any given day over 
+the course of the applicable calendar month and (ii) in the event the duration of the Deployment does not exactly match 
+calendar months, monthly fees will be prorated for the first and/or last calendar months of the Deployment, as applicable, 
+so that Customer will only be charged for the portion of such months during which the Via Solution was available to be 
+used for the Deployment. 
+Customer shall reimburse all travel expenses of Via personnel for purposes of the Deployment. Installation-related services
+described above will initially be performed remotely, and if Via deems it necessary, in person by Via personnel for a limited 
+period around launch.  Thereafter, services will continue to be performed remotely as applicable, provided that Via 
+personnel can be sent to Customer’s location for additional trips upon reasonable request.  
+Twilio. Price includes our generic package for Twilio cost for 4 SMS notifications and 1.25 minutes of Twilio voice time per 
+ride, at a maximum of $0.06 per ride on average for all rides completed within each calendar month. Any costs associated 
+with Twilio in excess of $0.06 per ride will be billed to the Customer as at cost plus 10% on a monthly basis. 
+Launch Delay. If the Launch Date is delayed for more than a calendar month by Customer for any reason, Customer shall be
+responsible for paying Via for a $1,000 monthly technology fee for the cost of maintaining the technology infrastructure for 
+Customer’s deployment during the period of delay (the “Technology Fee”).  The Technology Fee shall be payable monthly
+at the beginning of the month in which it is incurred. In the event that the duration of the delay does not exactly match calendar
+months, the Technology Fee will be prorated for the relevant month in which Launch occurred. 
+Branding. The Deployment will be branded as Cottonwood Area Transit powered by Via. The “powered by Via” banner 
+must be used only in the exact format provided by Via, and will be prominent on all assets promoting the Deployment, 
+including (but not limited to) printed collateral, digital materials, websites, and any vehicle wraps. The “powered by Via” 
+banner will have equal prominence on all marketing materials to any additional partner logos or trademarks. Via may 
+provide pre-approved brand assets and guidelines that must be complied with in all marketing communications distributed 
+by the Customer. 
+Confidentiality. Information, data or materials that are trade secrets of, or proprietary and confidential to a party, whether 
+marked as “Confidential” or by their nature and the context of their disclosure, should reasonably be known to be 
+confidential (“Confidential Information”), may be provided or disclosed by one party (the “Disclosing Party”) to the other 
+party (the “Receiving Party”). Disclosing Party agrees to hold Confidential Information of Receiving Party in confidence 
+and shall not disclose the Confidential Information to any third party during the term and thereafter without the express 
+written consent of the Disclosing Party.  In the event Customer receives a request for Via’s Confidential Information, 
+including this Order, under the Freedom of Information Act (“FOIA”) or its state or local analogs, Customer agrees to 
+provide Via timely notice of such a request and to assist Via in seeking to protect its Confidential Information under any 
+applicable exemption for trade secrets, to the extent possible under applicable law. The foregoing obligations shall not apply 
+with respect to any information which: (i) Receiving Party can demonstrate was already known to it at the time of its receipt 
+hereunder; (ii) is or becomes generally available to the public other than by means of breach of contractual non-disclosure 
+obligation; (iii) is independently obtained from a third party (other than any authorized recipient) whose disclosure to 
+Receiving Party does not violate a duty of confidentiality and does not require further restrictions on such disclosure; or (iv) 
+is independently developed by Receiving Party without use of, reference to or reliance on any Confidential Information of 
+Disclosing Party.  In addition, Receiving Party may make disclosure of Confidential Information in a judicial, legislative, or 
+administrative investigation or proceeding or to a government or other regulatory agency; provided that, to the extent 
+permitted, Receiving Party shall provide to Disclosing Party prior written notice of the intended disclosure and if 
+practicable, Disclosing Party shall have a reasonable opportunity to limit such disclosure. 
+ 
+This Order shall be governed by the terms and conditions set forth in the 791 PURCHASING COOPERATIVE AND 
+VENDOR AGREEMENT between Via Transportation Inc. and 791 Purchasing Cooperative dated 12/13/2023 (the 
+“Agreement”) as a result of Via Transportation Inc. being awarded RFP #791_2023_09_001 Mobility Software and 
+Solutions, issued by 791 Purchasing Cooperative (the “RFP”). Conflicts between this Order and any other terms and 
+conditions shall be resolved in the following order: 1) this Order; 2) the Agreement; 3) the Proposal attached to the 
+Agreement; 4) the RFP. Capitalized terms used herein and not otherwise defined shall have the meaning set forth in the 
+Agreement. 
+ 
+VIA MOBILITY LLC 
+ 
+ 
+ 
+ 
+CITY OF COTTONWOOD 
+ 
+By: 
+ 
+ 
+ 
+ 
+ 
+ 
+By: 
+ 
+Name:  
+ 
+ 
+ 
+ 
+ 
+ 
+Name: 
+ 
+Docusign Envelope ID: C429F67A-FCDE-4439-AAC1-E86EBC70B3B5
+=== page 7 ===
+Title:  
+ 
+ 
+ 
+ 
+ 
+ 
+Title: 
+ 
+Date: 
+ 
+ 
+ 
+ 
+ 
+ 
+Date: 
+ 
+ 
+ 
+ 
+Docusign Envelope ID: C429F67A-FCDE-4439-AAC1-E86EBC70B3B5

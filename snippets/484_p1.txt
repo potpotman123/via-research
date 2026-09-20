@@ -1,0 +1,102 @@
+# source: raw/bleecker_drive/North Dakota/DM0220_Via_-_Final_Contract.pdf
+# path: raw/bleecker_drive/North Dakota/DM0220_Via_-_Final_Contract.pdf
+# hit page: 1 of 55
+# terms: Via Mobility, Via+SaaS
+
+=== page 1 ===
+TECHNOLOGY CONTRACT:  Paratransit and/or Fixed-Transit Scheduling and Dispatch Software 
+ 
+1. PARTIES 
+The parties to this contract (Master Contract) are the state of North Dakota, acting through its Office 
+of Management and Budget (STATE), and Via Mobility LLC, a Delaware limited liability company 
+having its principal place of business at 10 Crosby Street, Floor 2, New York, New York 10013 
+(CONTRACTOR). 
+2. COOPERATIVE PURCHASE  
+The contract resulting from this solicitation is a cooperative purchasing contract established 
+pursuant to North Dakota Century Code (N.D.C.C.) sections 54-44.4-13. This Master Contract is 
+made available to state entities, institutions under the jurisdiction of the State Board of Higher 
+Education, other government entities (including counties, cities, townships, public primary and 
+secondary educational entities, governmental boards and commissions), nonprofit entities 
+established on behalf of public entities, tribal agencies, transportation providers under N.D.C.C 
+chapter 39-04.2, and the International Peace Garden.  Participation by other governmental entities 
+is not mandated or guaranteed; therefore, the estimated volume of this contract is not known. 
+3. DEFINITIONS 
+a) Control Environment - is the set of standards, processes, and structures that provide the basis 
+for carrying out internal control across the organization. 
+b) Data - means any information provided to, or collected, generated, stored, or processed by the 
+system. Data includes user identification information and metadata which may contain Data or 
+from which the STATE’s Data may be ascertainable.  
+c) Data Breach - means any access, destruction, loss, theft, use, modification or disclosure of 
+Data by an unauthorized party or that is in violation of Contract terms and/or applicable state or 
+federal law. 
+d) Data Classification - means the process of defining data into relevant categories so the 
+information has the appropriate controls in place to protect confidentiality, integrity, and 
+availability based on the type of information. 
+e) Personally Identifiable Information (PII) - information about an individual maintained by an 
+agency, including that 1) can be used to distinguish or trace an individual’s identity, such as 
+name, social security number, date and place of birth, mother‘s maiden name, or biometric 
+records; or (2) is linked or linkable to an individual, such as medical, educational, financial, and 
+employment information. 
+f) PARTICIPATING ENTITY – means the eligible entity pursuant to Section 2 of this Master 
+Contract that may participate in this Master Contract by executing a separate Work Order 
+Request (WOR) specific to the work needed by PARTICIPATING ENTITY. 
+g) Recovery Point Objective (RPO) - means the point in time to which Data can be recovered 
+and/or systems restored when service is restored after an interruption. The Recovery Point 
+Objective is expressed as a length of time between the interruption and the most proximate 
+backup of Data immediately preceding the interruption. The RPO is detailed in the SLA. 
+h) Recovery Time Objective (RTO) - means the period of time within which information 
+technology services, systems, applications and functions must be recovered following an 
+unplanned interruption. The RTO is detailed in the SLA. 
+i) Software as a Service (SaaS). The capability provided to the consumer is to use the provider’s 
+applications running on a provider’s infrastructure. The applications are accessible from various 
+client devices through interfaces such as a web browser (e.g., web-based email), or a program 
+interface. The consumer does not manage or control the underlying infrastructure including 
+network, servers, operating systems, storage, or even individual application capabilities, with the 
+DocuSign Envelope ID: 6C4BAD1C-56BD-4CA0-AC37-27F31A878725
+=== page 2 ===
+possible exception of limited user-specific application configuration settings. This definition is 
+based on and consistent with National Institute of Standards and Technology (NIST) Special 
+Publication 800-145. 
+j) STATE – means the State of North Dakota Office of Management and Budget with authority to 
+execute this Master Contract. When the Master Contract is applied to control a Work Order 
+Request (WOR) for PARTICIPATING ENTITY, the term STATE shall include PARTICIPATING 
+ENTITY. 
+k) Users – means contractors, subcontractors, outsourcing vendors, consultants, and others who 
+have a need to use the software for the benefit of STATE. 
+l) 
+Work Order Request (WOR) - means the description of the specific work mutually agreed to 
+between a PARTICIPATING ENTITY and CONTRACTOR. The CONTRACTOR shall provide 
+the services, including any deliverables, set forth in such WOR. The WOR is subject to and 
+controlled by the terms and conditions of this Master Contract. 
+4. SCOPE OF WORK 
+The Scope of Work defines the required work to complete a project. It also includes project 
+milestones, deliverables, reports, etc. CONTRACTOR, in exchange for the compensation paid by 
+PARTICIPATING ENTITY under this Contract and an executed Work Order Request (WOR), shall 
+provide Paratransit and/or Fixed Transit scheduling and dispatch software. CONTRACTOR and 
+PARTICIPATING ENTITY will be able to use the WOR to mutually agree upon the acceptable 
+scope and process.   
+Attachment 6 WOR will be used to fully detail the specific work required by PARTICIPATING 
+ENTITY.  
+When a PARTICIPATING ENTITY requires services from this Master Contract, PARTICIPATING 
+ENTITY will prepare a written WOR describing the required services. 
+Each WOR will specify a proposal due date for CONTRACTOR to respond to the PARTICIPATING 
+ENTITY’s request.  
+CONTRACTOR must respond to PARTICIPATING ENTITY that issued the WOR, either affirming or 
+denying CONTRACTOR’s ability to provide the services and personnel in the required project time 
+frame and the cost priced at or below the rates proposed in the current Master Contract. During this 
+response period, if necessary, CONTRACTOR may seek clarifications of the work involved.  The 
+final WOR must be signed by CONTRACTOR and PARTICIPATING ENTITY. 
+5. COMPENSATION-PAYMENTS 
+a. Contractual Amount 
+PARTICIPATING ENTITY shall pay for the accepted services provided by CONTRACTOR 
+under this Master Contract as agreed upon in the WOR (Contractual Amount). The Contractual 
+Amount shall be paid according to the Exhibit C Offeror’s BAFO Cost Proposal. 
+The Contractual Amount is firm for the duration of this Master Contract and constitutes the 
+entire compensation due CONTRACTOR for performance of its obligations under this Master 
+Contract regardless of the difficulty, materials or equipment required, including fees, licenses, 
+overhead, profit and all other direct and indirect costs or expenses incurred by CONTRACTOR 
+except as provided by an amendment to this Master Contract. 
+b. Retainage 
+All deliverable payments shall be subject to 10% retainage. Retained amounts due to 
+CONTRACTOR shall be paid upon Final Acceptance.  
+DocuSign Envelope ID: 6C4BAD1C-56BD-4CA0-AC37-27F31A878725

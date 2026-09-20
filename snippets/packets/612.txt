@@ -1,0 +1,354 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Denton County Transportation Authority/March 10, 2021 DCTA Board Packet.pdf
+# pages_total: 476; hit_pages: [8, 11, 26, 186, 348, 351, 418, 436, 446]; included: [8, 26, 186, 351, 418]
+# context: Bleecker Drive folder: Denton County Transportation Authority
+
+=== page 8 of 476 ===
+DCTA BOD Meeting Agenda 
+ 
+p 2 of 8 
+ 
+ 
+ 
+CALL TO ORDER – Chair Watts asked Vice Chair Molina to call meeting to order and announced the 
+presence of quorum at 9:04 am. 
+ 
+CALL TO ORDER NTMC BOARD OF DIRECTORS MEETING (NTMC BOARD CHAIR) 
+  
+ 
+INVOCATION & MOMENT OF SILENCE IN MEMORY OF BRANDY PEDRON 
+ 
+PUBLIC COMMENT – No public comments were made or submitted 
+ 
+JOINT MEETING REGULAR AGENDA  
+ 
+1. 
+Presentation of the FY2020 Preliminary Audit Report 
+- 
+Board Member Costa asked how long Weaver had been DCTA's auditors; Jennifer Ripka said this 
+was the final year on the second contract term between DCTA and Weaver; Marisa Perry, CFO, 
+mentioned that DCTA had an active RFP on the streets for audit services and staff would bringing 
+a request for approval to the Board at the next meeting. 
+ 
+ 
+2. DCTA Status Update on Bus Operations and Maintenance Partnership Exploration 
+- 
+Nicole Recker, VP Mobility Services & Administration provided a status update on exploration 
+of a partnership with Trinity Metro for bus operations and maintenance. In an effort to provide 
+more efficient bus operations and management services, and gain access to established 
+technology platforms and practices, DCTA and Trinity Metro are exploring joint bus operations 
+and maintenance through a local government corporation. DCTA and Trinity Metro perform 
+materially identical functions and services, in the same region, and are pursuant to similar 
+statutory authority and restrictions. Both agencies desire to operate state-of-the-art 
+transportation systems and to provide their patrons the highest achievable level of service. 
+Those and other shared characteristics make DCTA and Trinity Metro ideal candidates for 
+mutually advantageous collaboration and cooperation. 
+ 
+ 
+3. Trinity Metro Status Update on Bus Operations and Maintenance Partnership Exploration 
+- Wayne Gensler, Trinity Metro presented on behalf of CEO Bob Baulsir.  
+   
+4. DCTA Service Plan Update & MaaS Proposal Presentation 
+Nicole Recker, VP Mobility Services & Administration, provided an updated on the service plan and 
+MaaS proposal. Staff will be requesting that the DCTA board consider awarding MaaS Task Order 
+#2 to River North Transit (Via).River North Transit (via) estimates an annual cost of $3,600,000 for 
+the initial year of service and $4,680,000 for the second year of service. Portions of the proposed 
+service have the potential to be federally reimbursed.  The extent of federal reimbursement is 
+dependent on the service solutions established with River North Transit (Via).  
+ 
+5. Discuss Potential DCTA Bus Operations Impacts to NTMC and Provide Direction to NTMC 
+Board 
+- Discussion led by Chair Watts and Raymond Suarez.  
+ 
+ 
+ 
+8
+
+=== page 26 of 476 ===
+Bid 21-03
+Fluids, Oils and Lubricants
+Bid Number   
+ 21-03 
+Bid Title   
+ Fluids, Oils and Lubricants 
+Expected Expenditure   $40,000.00 (This price is expected - not guaranteed)
+Bid Start Date
+ Jan 6, 2021 5:04:05 PM CST
+Bid End Date
+ Jan 27, 2021 2:00:00 PM CST
+Question & Answer
+End Date
+ Jan 15, 2021 5:00:00 PM CST
+Bid Contact  
+ Athena Forrester, CPPO, CPPB 
+ AVP of Regulatory Compliance 
+ aforrester@dcta.net 
+Contract Duration  
+2 years
+Contract Renewal  
+Not Applicable  
+Prices Good for  
+90 days
+Bid Comments
+DCTA is seeking pricing for the purchase of various automotive fluids, oils, and lubricants to be used by our
+Fleet Maintenance Department.  Some items are bulk delivery with the successful bidder furnishing all
+equipment necessary to deliver and pump the fluids into storage containers located in the maintenance
+facility. 
+Due to COVID restrictions DCTA is working remotely, in an effort to social distance DCTA is requiring all bids
+be submitted electronically through BidSync.  DCTA will hold a public bid opening electronically at 2:10 pm,
+January 27, 2021, you may participate in the bid opening by joining us via a Teams meeting.
+Microsoft Teams meeting
+Join on your computer or mobile app
+Click here to join the meeting
+Or call in (audio only)
++1 254-266-7685,,773564997#   United States, Hamilton
+Phone Conference ID: 773 564 997#
+Item Response Form
+Item    
+21-03--01-01 - Multi-Purpose Antifreeze/Coolant
+Quantity  
+1200 gallon
+Unit Price  
+Delivery Location  
+Denton County Transportation Authority
+  DCTA - Bus Operations & Maintenance
+  1101 Teasley Lane
+  Denton TX  76205
+  Qty 1200 
+Bid 21-03
+Denton County
+Transportation Authority
+1/6/2021 4:13 PM
+p. 2
+Consent Item 3
+Exhibit 1
+26
+
+=== page 186 of 476 ===
+Denton County Transportation Authority 
+Notes to Financial Statements 
+37 
+The Authority has a government crime policy with TML-IRP insuring against  forgery and computer fraud 
+up to $1,000,000 in the aggregate. For the years ended September 30, 2020 and 2019, the Authority has 
+not incurred any losses under this plan. 
+In addition to the coverages provided by TML-IRP, the Authority also carries Pollution Liability Coverage 
+for its 16,000 gallon Underground Fuel Storage Tank (UST) permitted by the Texas Commission on 
+Environmental Quality (TCEQ) and located at the Rail Operations & Maintenance Facility. The UST 
+provides fleet re-fueling for the Authority’s passenger rail vehicles. Mid-Continent Casualty Company is 
+the insurance provider with the following coverages: $1,000,000 each Pollution Incident for bodily injury, 
+property damage and claim handling, $2,000,000 Annual Aggregate, $5,000 deductible. 
+The Authority’s Excess Railroad Liability Insurance is provided through a multi-layer program with Steadfast 
+Insurance Company, a member of Zurich Insurance Group, as the primary carrier with a policy limit of 
+$125,000,000 and $2,000,000 self-insured retention and claims handling including defense costs. Prior to 
+securing its own rail liability insurance coverage in October 2016, this coverage was provided via shared 
+policy with DART and Trinity Metro which carried the Authority as an additional insured with the Authority 
+sharing in the cost of the annual premium.  
+Litigation  
+The Authority has no pending lawsuits as of September 30, 2020. 
+State and Federal Grants 
+The Authority participates in several State and Federal grant programs, which are governed by various 
+rules and regulations of the grantor agencies. Costs charged to these grant programs are subject to audit, 
+approval, and adjustment by the grantor agencies, which could result in refunds to the grantor. It is 
+management's opinion that the Authority has complied with substantially all of the requirements under 
+the respective grants, and therefore, no provision has been recorded in the accompanying financial 
+statements for such liabilities. 
+Commitments 
+At September 30, 2020, the Authority has the following outstanding commitments for large scale projects: 
+Rail purchased transportation services
+74,417,327
+$ 
+  
+"Spirit of Independence" shuttle buses
+1,060,137
+  
+Positive train control system implementation
+621,036
+    
+76,098,500
+$
+Regular Agenda 1
+Exhibit 1
+186
+
+=== page 351 of 476 ===
+MaaS Service Transition Considerations
+As of 3/2/2021
+Considerations
+Items to Research/Discuss
+Findings 
+Resolved
+How do we format the FY '22 budget?
+Do Via's costs need to be broken out by member city?
+How does this change formulat funding?
+How does this impact spare ratio?
+Are TNCs reimburseable? 
+How does this service modification impact Access service delivery?
+What will via report on our behalf?
+What does DCTA need to report?
+What will the cost of Via be to the passenger?
+How does the fare structure impact our existing structure?
+How will Via track ticket type?
+How will fares be collected/remitted?
+How will passengers make a transfer to other services?
+How does this fare structure impact our regional reciprocal fare 
+agreement?
+How do we address fare equity? (needs to be addressed in public 
+involvement process)
+How is Via's invoicing structured?
+Can Via break down the invoiced costs by member city?
+How does the board want staff to report ridership moving forward? (i.e. 
+monthly, quarterly)
+How will DCTA receive ridership reports from Via?
+How much service do we need to provide?
+What is our board's philosophy on provided service?
+How does FTA need to weigh in on the discussion?
+Could we add a "Phase II" for Via to take over Access service (or at 
+least non-ADA services)?
+How many vehicles do we need to auction (that are past their useful 
+life)?
+How many vehicles do we need to auction/pay back FTA the federal 
+portion (that aren't past their useful life)?
+How do we scale up or down as needed? (i.e. adding a fixed route 
+requires a bus, which could take several years to procure and take 
+ownership)
+Special Movements
+How do we address member city special movement requests (i.e. 
+Denton Arts and Jazz)?
+Per the FTA - Develop a "contingency fleet" and 
+corresponding plan for use of vehicles only for 
+special movement requests.
+Can Via identify "drop zones" where on-demand service and drop 
+students off on campus?
+Per UNT - They will begin to think about 
+options that would work with their traffic plans.
+How does this impact UNT's contract and the $49K/year Connect 
+Access Fee?
+Does UNT service remain open to the public? (this impacts Access 
+service requirements)
+A-train Station Access
+Staff needs to identify "drop zones" at each station for pick-up and drop-
+off through Via's on-demand service.
+Billing
+Can Via bill by day 5 of the month to meet DCTA's billing 
+requirements?
+DBE Reporting
+If we aren't the buyer, then we don't report. Will Via report on assets 
+that they purchase?
+Need to coordinate with FTA on their requirements.
+Title VI requirements
+Fleet/spare ratio requirements
+Compliance/Regulations
+Budget Methodology
+UNT
+Fleet Size
+Access Service 
+Ridership Reports
+Invoicing
+Fare Media/Fare Collection
+NTD Reporting Requirements
+Federal Transit Administration Impacts
+Regular Agenda 7
+Exhibit 1
+350
+
+=== page 418 of 476 ===
+Informational Report 1, Memo 2 
+ 
+Board of Directors Memo  
+ 
+ 
+ 
+ 
+                     March 10, 2021 
+SUBJECT: Monthly Mobility-as-a-Service Update 
+ 
+Background 
+A Request for Proposals (RFP) was released on January 16, 2019 for Mobility as a Service (MaaS).  Firms were invited 
+to submit proposals (for both federal and non-federal funding project categories) to provide innovative mobility 
+service to DCTA member cities, contract communities, partner organizations, as well as large employment centers 
+and other areas as the need arises.  On March 12, 2019, DCTA received thirty-seven (37) proposals in response to the 
+RFP.  Thirty-three (33) proposals were deemed responsive and were evaluated by the evaluation team.  The evaluation 
+team rejected two proposals that scored less than seventy (70) points and recommended award to thirty-one (31) 
+firms.  The Board of Directors approved the award of Mobility-as-a-Service to thirty-one firms and reduced the total 
+annual contract value of $2,400,000 to $75,000 for all task orders issued under the master on-call contracts. One of 
+the recommended firms will not execute a contract due to business operational changes; therefore, thirty (30) firms 
+remain eligible for contract execution.  As requested by the Board of Directors, staff is providing a monthly update 
+on all Mobility-as-a-Service commitments, activities and expenses.  
+ 
+To date, the following twenty-six contracts have been fully executed: 
+• 
+AJL International  
+• 
+Bird Rides  
+• 
+Bubbl Investments, LLC.  
+• 
+Dashboard Story dba DUET 
+• 
+DemandTrans Solutions 
+• 
+DoubleMap  
+• 
+Downtowner Holdings, LLC.  
+• 
+First Transit 
+• 
+Ford Smart Mobility, LLC.  
+• 
+Irving Holdings  
+• 
+Iteris  
+• 
+Kapsch 
+• 
+Lyft 
+• 
+Moovel 
+• 
+Moovit 
+• 
+MV Transportation  
+• 
+Muve: Quebec, Inc.  
+• 
+Quebec, Inc. dba Transit 
+• 
+RideCo  
+• 
+Rideshark Corporation  
+• 
+River North (Via)  
+• 
+Roundtrip 
+• 
+Routematch  
+• 
+Spare Labs, Inc.  
+• 
+Spare Labs, Inc. (with First 
+Transit)  
+• 
+Transdev North America 
+      
+The remaining four contracts, all with software companies (Passport, SeatsX, Token Transit and Transloc), have been 
+placed on hold until a need arises to enter into a contract for software.  
+ 
+Previous Board Activity & Action 
+Task Order #1 Lewisville Lakeway Zone and Denton Evening Zone was issued to Spart Labs, Inc. for Platform-
+as-a Service (Spare Platform).  The task order was approved for award at the June Board meeting and was issued 
+on 6/30/2020 for a not-to-exceed amount of $50,000 per year with an initial term of two years and one two-
+year option to extend (total of 4 years).  
+ 
+Task Order #2 On-Demand Services in Member Cities and Contracted Cities was discussed at the June Board 
+meeting and was presented at the September Board meeting to authorize negotiations with two firms.  January 
+2021, the Board approved and authorized staff to enter into a Task Order with River North (Via) to move 
+forward with the recommendations and implementation of an On-Demand Service plan.  Staff is working with 
+Via to finalize the Task Order.  
+ 
+Identified Need 
+Provides the Board of Directors a monthly status on Mobility-as-a-Service contracts 
+ 
+ 
+ 
+ 
+415

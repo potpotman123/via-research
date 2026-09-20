@@ -1,0 +1,135 @@
+# source: raw/bleecker_drive/Utah Transit Authority/877423.pdf
+# path: raw/bleecker_drive/Utah Transit Authority/877423.pdf
+# hit page: 32 of 141
+# terms: Via+not to exceed, Via+not-to-exceed, Via+vehicles
+
+=== page 31 ===
+Utah Transit Authority
+MEETING MEMO
+669 West 200 South
+Salt Lake City, UT 84101
+Board of Trustees
+Date: 8/10/2022
+TO:
+Board of Trustees
+THROUGH:
+Jay Fox, Executive Director
+FROM:
+Nichol Bourdeaux, Chief Planning and Engagement Officer
+Cherryl Beveridge, Acting Chief Operating Officer
+PRESENTER(S):
+Jaron Robertson, Acting Planning Director
+Ryan Taylor, Special Services General Manager
+TITLE:
+Contract: UTA-Tooele County Flex Route and On-Demand Microtransit Services Operating Agreement
+(Tooele County Health and Aging Services)
+AGENDA ITEM TYPE:
+Non-Procurement Agreement
+RECOMMENDATION:
+Approve the UTA-Tooele County Flex Route and On-Demand Microtransit Services Operating Agreement and
+authorize UTA’s Executive Director to execute the contract and associated disbursements with Tooele County
+Health and Aging Services (Tooele County) for the operations of Route F453 and UTA On-Demand Microtransit
+service in the amount of $9,105,434.
+BACKGROUND:
+The UTA-Tooele County Flex Route and On-Demand Microtransit Services Operating Agreement (Agreement)
+defines the terms and conditions between UTA and Tooele County for operations of UTA Flex Route and
+Microtransit services to be provided by Tooele County. These services are outlined in the UTA Five-Year Service
+Plan and are scheduled to be implemented as part of the August 2022 Change Day.
+UTA has also received a 2021 Federal Transit Administration (FTA) NoLo Emissions Grant to support the
+deployment of a fully electrified Microtransit service within Tooele County. It is anticipated the electrification
+of the Microtransit service will begin in late 2023.
+Tooele County will provide the day-to-day operations, including administrative oversight, customer support,
+vehicle operations and maintenance for Microtransit services within the UTA On Demand Tooele County zone
+and for Route F453 between Tooele and Salt Lake Counties. In partnership with Via, Tooele County will use
+Via’s software system to operate Microtransit services and driver scheduling. The Software as a Service (SaaS)
+Page 1 of 3
+31
+=== page 32 ===
+agreement with Via for the UTA On Demand Tooele County zone is outlined in UTA Contract Number: 20-
+03399-4.
+UTA will be responsible for providing Tooele County with the vehicles and technical operating support for
+Route F543. UTA will be responsible for providing the vehicles, electrical charging infrastructure, and technical
+operating support for Microtransit services.
+The five-year Agreement is effective from August 8, 2022 through December 31, 2027. A Not-to-Exceed (NTE)
+compensation schedule with Tooele County defines annual operating expenses for each year to operate UTA
+Microtransit and Flex Route services.  The exercise of any contract extensions or option years would require
+board approval at the end of the base contract period.
+DISCUSSION:
+Staff will provide an overview of the following:
+
+Purpose: UTA Five-Year Service Plan and August 2022 changes
+
+UTA-Tooele County Flex Route and On-Demand Microtransit Services Operating Agreement.
+
+UTA On Demand and Route F453 goals and objectives, service area, service    parameters, operating
+day and hours, customer experience, fares and budget.
+CONTRACT SUMMARY:
+Contractor Name:
+Tooele County Health and Aging Services
+Contract Number:
+22-03600
+Base Contract Effective Dates:
+August 8, 2022 - December 31, 2027
+Extended Contract Dates:
+N/A
+Existing Contract Value:
+N/A
+Amendment Amount:
+N/A
+New/Total Contract Value:
+$9,105,434
+Procurement Method:
+N/A
+Budget Authority:
+2022 IMS Budget (Tooele County Microtransit): $463,035
+2022 Special Services Budget: $756,389
+ALTERNATIVES:
+Tooele County is a long-term partner who has operated Flex Route and Dial-a-Ride services on UTA’s behalf.
+Tooele County has expressed a strong desire to continue operating Flex Route services and transition existing
+Flex Route services to the Microtransit service as defined with in the Five-Year service plan. There are several
+alternatives UTA can contemplate, but such alternatives would require additional time for planning and cost
+benefit analysis. Implementing any alternatives would require UTA to pause the August 2022 planned changes.
+
+Route F453:
+o
+Issue an RFP for alternative service providers
+o
+UTA directly operated
+
+Microtransit Service:
+o
+Via operated service (Transportation as a Service Solution)
+Page 2 of 3
+32
+=== page 33 ===
+FISCAL IMPACT:
+Microtransit Services:
+2022: $462,667
+2023: $1,110,401
+2024: $1,079,256
+2025: $1,132,420
+2026: $1,188,260
+2027: $1,246,829
+Total Expenses for Microtransit Services: $6,219,833
+Route F453:
+2022: $204,333
+2023: $485,592
+2024: $509,703
+2025: $534,983
+2026: $561,552
+2027: $589,437
+Total Route F453 Expenses: $2,885,601
+Total Contract Not to Exceed Amount:
+2022 NTE: $667,000
+2023 NTE: $1,595,994
+2024 NTE: $1,588,960
+2025 NTE: $1,667,403
+2026 NTE: $1,749,811
+2027 NTE: $1,836,266
+Total Contract Not to Exceed Amount: $9,105,434
+Includes 10% contingency to be used at UTA’s discretion
+ATTACHMENTS:
+UTA Contract No. 22-03600: UTA-Tooele County Flex Route and On-Demand Microtransit Services Operating
+Agreement
+Page 3 of 3
+33

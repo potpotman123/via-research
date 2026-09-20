@@ -1,0 +1,154 @@
+# source: raw/bleecker_drive/Springfield Ohio/Via_Springfield - Transportation as a Service_MSA.pdf
+# path: raw/bleecker_drive/Springfield Ohio/Via_Springfield - Transportation as a Service_MSA.pdf
+# hit page: 8 of 23
+# terms: Via+vehicles
+
+=== page 7 ===
+14. ENTIRE AGREEMENT AND SURVIVAL.
+These Terms and Conditions and each Order (including any SOW) are the entire Agreement between the
+parties with respect to the Via Solution and Services under them and supersede all previous or
+contemporaneous written and verbal agreements or proposals relating to the same subject matter, and
+cannot be modified except by written agreement referencing the specific provisions modified. Conflicts
+between these Terms and Conditions and an Order (including any SOW) with respect to amounts or timing
+of payments will be resolved in favor of the Order. All other conflicts will be resolved in favor of these Terms
+and Conditions, including in the event of a conflict with Customer's general conditions. If Customer's
+procurement processes require use of an internal purchase order neither it nor its terms shall supersede,
+replace, or amend this Agreement. Sections 3, 5.1, 6 and 8.2 each shall each survive expiration or
+termination of this Agreement.
+• Page 7 of 9
+=== page 8 ===
+15. DEFINITIONS
+"AAA" is defined in Section 11
+"Additional Services" is defined in Section 2.1(b).
+"Affiliate" means, with respect to any specified entity, any
+entity that directly or indirectly,
+through one or
+intermediaries, controls, is controlled by, or is under common
+control with, the entity specified.
+"Agreement" is defined in the preamble.
+"Applicable Law" means (i) any statute, statutory instrument
+or any other legislative instrument having the force of law; and
+(ii) any applicable judgment of a relevant court of law which is
+a binding precedent, in each case in force at any time during
+the Term.
+"Confidential Information" means
+materials in either tangible or intangible form that are trade
+secrets of, or proprietary and confidential to the Disclosing
+Party or its clients or business partners, including as may be
+so designated by statute, regulation or common law including
+by the form of the Uniform Trade Secrets Act and privacy laws
+under applicable law, or which
+"Confidential" or which, by their nature and the context of their
+disclosure, should reasonably be known to be confidential.
+"Control" means, with respect to any entity, the possession,
+directly or indirectly,
+of the power to
+direct or cause the
+direction of the management and policies of such entity,
+whether through the ownership of voting securities (or other
+ownership interest), by contract or otherwise.
+"Customer Incident" is defined in Section 8.2.
+"Disclosing Party" is defined in Section 6.1(a).
+"Export Laws" means the Export Administration Regulations,
+15 C.F.R. §§730-774, the International
+Traffic in Arms
+Regulations,
+22 C.F.R. Parts
+120-130.
+and
+programs implemented by the Office of Foreign Assets
+Control of the U.S. Department of the Treasurv and all similar
+laws or regulations in each applicable jurisdiction and any
+amendments or replacements therefor.
+"Fees" is defined in Section 4.
+"IPR" or Intellectual Property Rights ("IPR") means rights in and in
+relation to Confidential Information, all right, title and interest in and
+including all registered designs, design rights, copyright rights and
+neighboring rights (including rights in elements of layout or design),
+database rights, algorithms, utility models, patent rights (including
+ights under all patent applications, patents, letters patent
+supplementary patent certificates, inventor's certificates, continuec
+prosecution applications, reissues, continuations, continuations-in-
+part, divisions,
+extensions, requests for continued
+examination, and other similar filings or stages thereof), rights in and
+in relation to inventions (whether or not patentable), domain names,
+trade marks, service marks, trade and business names, logos and
+trademark rights, as well as all proprietary rights (including trade
+secrets), Know How, and moral rights (including the rights of
+authorship and attribution and subsequent modification), all rights
+or forms of protection having an equivalent or similar nature
+anywhere
+in
+the
+world,
+whether enforceable, registered
+unregistered or registrable (including, where applicable,
+all
+applications for registration) and whether or not evidenced by
+certificates, applications or registrations therefor, and whether
+granted provisionally or permanently, or upon initial issuance or
+upon reissue, re-examination, division, extension, in continuation,
+or in continuation-in-part, and at all times further including all
+goodwill associated with all such rights.
+"Know How" means all unpatented, secret, substantial and
+identified know how, expertise, technical, operational or other
+information including all related ideas, concepts, methods,
+inventions, discoveries, data, formulae, processes, methods,
+techniques and specifications.
+"Losses" means all losses, damages, liabilities, deficiencies,
+claims, actions, judgments, settlements, interest, awards,
+penalties, fines, costs or expenses of whatever kind, including
+reasonable attorneys' fees and the cost of enforcing any right
+to indemnification hereunder and the cost of pursuing any
+"Marks" means any word, name, symbol, logo, font, or device
+or any combination thereof, used to identify and distinguish
+goods or services from another source, including trademarks
+(both registered and unregistered), domain names and trade
+dress.
+"Order" is defined in Section 1.2
+"Riders" means actual or prospective riders of the Customer's
+transportation network.
+"Rider Data" means all data that is input by or on behalf of
+Riders into the Via Solution. Portions of the Rider Data may
+include personally identifiable information.
+"Receiving Party" is defined in Section 6. 1(a).
+"Services" is defined in Section 1.1.
+"Term" is defined in Section 5.1.
+"Transportation Laws" means any applicable law to which
+operators and owners of vehicles,
+employer of vehicle
+operators, and transportation service providers are required
+to adhere.
+"Via Solution" is defined in Section 1.1.
+SIGNATURES OF THE PARTIES APPEAR ON THE IMMEDIATELY FOLLOWING PAGE.
+• Page 8 of 9
+=== page 9 ===
+SIGNATURE PAGE TO MASTER TERMS AND CONDITIONS FOR TRANSIT AS A SERVICE
+IN WITNESS WHEREOF, the parties to these Master Terms and Conditions for Transit as a Service have caused them
+to be duly executed by their respective duly authorized representatives
+SERVICE PROVIDER: RIVER NORTH TRANSIT, LLO
+AUTHORIZED SIGNATURE
+PRINTED NAME
+TITLE
+DATE SIGNED
+CITY OF SPRINGFIELD, OH
+AUTHORIZED SIGNATURE
+PRINTED NAME
+TITLE
+DATE SIGNED
+CUSTOMER LEGAL
+NAME
+CUSTOMER PRINCIPAL
+BUSINESS ADDRESS
+CUSTOMER STATE OF
+INCORPORATION
+CUSTOMER CONTACT
+INFORMATION FOR
+NOTICES
+CITY OF SPRINGFIELD, OH
+76 E HIGH ST, SPRINGFIELD, OH 45502
+OHIO
+JASON VIA
+JVIA@SPRINGFIELDOHIO.GOV
+• Page 9 of 9

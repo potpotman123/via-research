@@ -1,0 +1,334 @@
+# source: raw/bleecker_drive/Metro Micro (LA)/Attachment A - Procurement Summary RFP No.pdf
+# path: raw/bleecker_drive/Metro Micro (LA)/Attachment A - Procurement Summary RFP No.pdf
+# hit page: 7 of 9
+# terms: NoMad Transit, RideCo
+
+=== page 6 ===
+No. 1.0.10 
+Revised 10/11/16 
+ 
+DATAMATICS 
+ 
+Datamatics Global Services Inc. has been in business for 40 years and currently has 
+over 8,000 employees worldwide. Datamatics provides comprehensive engineering, 
+mobility and analytics solutions to the mass transit industry. Datamatics has 
+experience working with private sector and public agencies such as Dubai Metro and 
+Airport, Transportation for London, Swedish Rail, and Lucknow Metro. Their mobility 
+division specializes in designing and building mobile applications with more than 400 
+developed to-date.   
+ 
+Datamatics demonstrated experience in technology customization and UX and UI 
+design and presented key mobile application projects including an Online Cab 
+Booking App, Spireon, Azuga-Danlaw and Veolia Water maintenance application. 
+The firm provided a management plan that included a project organization chart, 
+communication plan, quality control methodology, change management plan, and 
+methodology for selecting pilot locations. During the oral presentation the team 
+elaborated upon Datamatics’ expertise in technology and their ability to build custom 
+software to Metro’s specific needs.   
+ 
+The evaluation team participated in Datamatics’ in-vehicle demonstration and noted 
+the app experience to be user-friendly. However, the PET determined the 
+software/technology platform had a few features which could be added for on-
+demand mobility service. 
+ 
+SIEMENS 
+ 
+Siemens is a Fortune 50 infrastructure and technology company with 350,000 
+employees in 200 countries that has been in business since 1847. Siemens has 
+strong experience in road and rail projects for over 170 years. The Intelligent Traffic 
+Solutions (ITS) division was created 60 years ago for developing and testing 
+technology for traffic management.  
+ 
+Siemens’ proposal and oral presentation showcased expertise in a broad range of 
+disciplines, expertise in emerging technologies, effective project management, 
+quality control and featured an experienced team of project personnel.  The firm 
+demonstrated substantial experience in traffic management, mobility, energy saving 
+services and project management. Siemens also highlighted transportation 
+technologies experience with Seattle Department of Transportation and a new 
+mobility project in Tampa, Florida. 
+ 
+Siemens proposal and in-vehicle demonstration of their technology platform 
+identified additional information was needed in their software app for UX and UI.
+=== page 7 ===
+No. 1.0.10 
+Revised 10/11/16 
+ 
+After the PET evaluated the proposals and conducted the interviews and in-vehicle 
+demonstrations, the firms earned the following scores:  
+ 
+1 
+Firm 
+Average 
+Score 
+Factor 
+Weight 
+Weighted 
+Average 
+Score 
+Rank 
+2 
+RideCo 
+  
+  
+  
+  
+3 
+Qualifications & Partnerships 
+82.02 
+30.00% 
+24.61 
+  
+  
+  
+1 
+4 
+Effectiveness of Plan for Delivery of 
+Part A 
+81.50 
+20.00% 
+16.30 
+5 
+Effectiveness of Plan for Delivery of 
+Part B 
+80.00 
+10.00% 
+8.00 
+6 
+Innovation and User Experience 
+76.00 
+20.00% 
+15.20 
+7 
+Cost Proposal 
+82.44 
+20.00% 
+16.49 
+8 
+Total 
+ 
+100.00% 
+80.60 
+9 
+NoMad Transit LLC 
+ 
+  
+  
+  
+  
+  
+  
+2 
+10 
+Qualifications & Partnerships 
+88.01 
+30.00% 
+26.40 
+11 
+Effectiveness of Plan for Delivery of 
+Part A 
+85.13 
+20.00% 
+17.03 
+12 
+Effectiveness of Plan for Delivery of 
+Part B 
+83.50 
+10.00% 
+8.35 
+13 
+Innovation and User Experience 
+80.67 
+20.00% 
+16.13 
+14 
+Cost Proposal 
+41.25 
+20.00% 
+8.25 
+15 
+Total 
+ 
+100.00% 
+76.16 
+16 
+Transdev 
+ 
+  
+  
+  
+  
+  
+  
+3 
+17 
+Qualifications & Partnerships 
+87.10 
+30.00% 
+26.13 
+18 
+Effectiveness of Plan for Delivery of 
+Part A 
+82.67 
+20.00% 
+16.53 
+19 
+Effectiveness of Plan for Delivery of 
+Part B 
+83.00 
+10.00% 
+8.30 
+20 
+Innovation and User Experience 
+74.34 
+20.00% 
+14.87 
+21 
+Cost Proposal 
+40.35 
+20.00% 
+8.07 
+22 
+Total 
+ 
+100.00% 
+73.90 
+23 
+Datamatics 
+ 
+  
+  
+  
+  
+  
+  
+4 
+24 
+Qualifications & Partnerships 
+68.00 
+30.00% 
+20.40 
+25 
+Effectiveness of Plan for Delivery of 
+Part A 
+71.57 
+20.00% 
+14.31 
+26 
+Effectiveness of Plan for Delivery of 
+Part B 
+73.50 
+10.00% 
+7.35 
+27 
+Innovation and User Experience 
+70.33 
+20.00% 
+14.07
+=== page 8 ===
+No. 1.0.10 
+Revised 10/11/16 
+ 
+28 
+Cost Proposal 
+65.29 
+20.00% 
+13.06 
+29 
+Total 
+ 
+100.00% 
+69.19 
+30 
+Siemens 
+ 
+ 
+ 
+  
+  
+  
+5 
+31 
+Qualifications & Partnerships 
+69.77 
+30.00% 
+20.93 
+32 
+Effectiveness of Plan for Delivery of 
+Part A 
+68.76 
+20.00% 
+13.75 
+33 
+Effectiveness of Plan for Delivery of 
+Part B 
+58.00 
+10.00% 
+5.80 
+34 
+Innovation and User Experience 
+61.96 
+20.00% 
+12.39 
+35 
+Cost Proposal 
+22.57 
+20.00% 
+4.51 
+36 
+Total 
+  
+100.00% 
+57.38 
+ 
+The PET completed its evaluation of the above mentioned proposals on February 
+15, 2018 after oral presentations and in-vehicle demonstrations were held.  The 
+three firms ranked the highest to perform Part A, the planning and design phase of a 
+MicroTransit service, were also ranked competent to perform Part B, project 
+implementation. The PET determined it was in the best interest of Metro to award to 
+multiple Contractor Teams to produce the most cost effective solution and increase 
+the likelihood of success for this pilot project. Awarding to multiple firms is reflected 
+within the RFP should Metro determine that this is in the best interest.   
+Therefore, based on the unique offerings of the top three Contractor Teams, the 
+PET recommends multiple awards for Part A as follows:  
+ 
+1. RideCo 
+2. NoMad Transit LLC  
+3. Transdev 
+ 
+C.  Price Analysis  
+ 
+The recommended pricing has been determined to be fair and reasonable based 
+upon an independent cost estimate, price analysis, technical evaluation, 
+clarifications and negotiations.  
+ 
+ 
+Proposer Name 
+Proposal 
+Amount 
+Metro Independent 
+Cost Estimate  
+Negotiated 
+Amount 
+1. RideCo 
+$246,488.28  
+$615,274 
+$219,650.26 
+2. NoMad Transit LLC 
+$504,648.52  
+$615,274 
+$348,684.69 
+3. Transdev 
+$554,252.31  
+$615,274 
+$316,912.31 
+4. Datamatics 
+$458,792.05  
+$615,274 
+ 
+5. Siemens 
+$1,177,738.52  
+$615,274 
+ 
+ 
+The total recommended award amount for Part A for all three Contractor Teams 
+totals $885,247.26.

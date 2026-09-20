@@ -1,0 +1,143 @@
+# source: raw/bleecker_drive/Metropolitan Council/Microtransit-Solutions _Peer-Case-Studies-Report.pdf
+# path: raw/bleecker_drive/Metropolitan Council/Microtransit-Solutions _Peer-Case-Studies-Report.pdf
+# hit page: 10 of 68
+# terms: RideCo
+
+=== page 9 ===
+CASE STUDIES 
+ 
+October 24, 2024 ■ PEER MICROTRANSIT CASE STUDIES REPORT 
+8 
+3. Case Studies 
+Atlanta, GA – Regional Case Study 
+RIDE GWINNETT MICROTRANSIT 
+Ride Gwinnett 
+Service Objective – Expand transit connections and mobility 
+options. 
+AGENCY SERVICE AREA 
+◼ Size: 143 square miles 
+◼ Area type: Suburban, metropolitan 
+◼ Population: 702,116 people 
+◼ Population density: 4,910 people per square 
+mile 
+MICROTRANSIT SERVICE CHARACTERISTICS 
+General Information 
+◼ Status: Operational 
+◼ Service type: Curb-to-curb, curb-to-hub 
+◼ Number of zones: 2  
+◼ Size: 40 square miles 
+ Lawrenceville: 18 square miles 
+ Snellville: 22 square miles 
+◼ Dates in service: 
+ Lawrenceville: August 2023 – Present 
+ Snellville: August 2023 – Present 
+◼ Service hours: 6:00 a.m. to 8:00 p.m. from Monday 
+through Saturday 
+Source: Ride Gwinnett 
+Lawrenceville Microtransit Zone
+=== page 10 ===
+CASE STUDIES 
+ 
+October 24, 2024 ■ PEER MICROTRANSIT CASE STUDIES REPORT 
+9 
+◼ Microtransit fare structure: 
+ Regular fare: $3.00 
+ 
+◼ Fixed-route fare structure*: 
+ Regular fare: $2.50 
+ 65+: $1.25 
+ People with disabilities: $1.25 
+ People with Medicare: $1.25 
+*Only considers local fixed-route service 
+◼ Transfer policy: Yes, free with transit card 
+◼ Payment options: Cash, mobile application, transit card, credit card  
+◼ Connections (transit and points of interest): 
+ Ride Gwinnett, local fixed-route operated by Ride Gwinnett—connects to local commercial 
+districts, supermarkets, and heavy rail stations. 
+ Xpress, regional commuter bus service operated by Atlanta-Region Transit Link Authority (The 
+ATL) —connects to Midtown Atlanta  
+Service Model 
+Hybrid 
+◼ Technology provider: RideCo 
+◼ Vehicle provider: Transdev 
+◼ Driver provider: Transdev 
+Scheduling 
+◼ Booking method: Mobile application and call center 
+◼ Advance scheduling: up to 1 day in advance 
+◼ Target wait time: 10 minutes 
+Fleet 
+◼ Fleet size: 4 total 
+◼ Vehicle types: 12-passenger vehicles (shuttles/vans)  
+◼ ADA accommodations: ADA-compliant, able to load mobility-aid devices  
+IMPLEMENTATION METHOD 
+Funding Sources 
+◼ Lawrenceville and Snellville: Total amount not available  
+ Ride Gwinnett operating funds 
+ The ATL: $1,600,000, 2024 
+◼ Proposed Southwest Gwinnett Microtransit: $1,300,000, 2024 
+ Gateway 85 Community Improvement District: $572,000, 2024 
+ City of Norcross: $572,000, 2024 
+ Ride Gwinnett operating funds: $156,000, in 2024 
+◼ Future zones: 1% sales tax for transit investment to be voted on in fall 2024 
+Marketing and Education 
+Led by: Ride Gwinnett 
+◼ Local newspapers (North Gwinnett Voice, Gwinnett Daily Post, WSB-TV) 
+◼ Vehicle (Ride Gwinnett-wrapped) 
+◼ Social media (YouTube Videos, LinkedIn posts, Instagram posts) 
+ 
+Source: Ride Gwinnett
+=== page 11 ===
+CASE STUDIES 
+ 
+October 24, 2024 ■ PEER MICROTRANSIT CASE STUDIES REPORT 
+10 
+CPACS RIDE 
+Center for Pan Asian Community Services (CPACS) 
+Service Objective – Expand transit connections and mobility options. Investigate ridership potential in 
+new areas  
+AGENCY SERVICE AREA 
+◼ Size: 698 square miles 
+◼ Area type:  Suburban, metropolitan 
+◼ Population: 1,738,173 people 
+◼ Population density: 2,489 people per square mile 
+MICROTRANSIT SERVICE 
+CHARACTERISTICS 
+General Information 
+◼ Status: Not operational (pilot complete)  
+◼ Service type: Curb-to-curb, door-to-door (only 
+available for customers with mobility challenges) 
+◼ Number of zones: 1 
+◼ Size: 698 square miles 
+◼ Dates in service: November 2021 – July 2022 
+ Phase 1: November 2021 – December 2021 
+ Phase 2: March 2022 – July 2022 
+◼ Service hours: 9:00 am to 4:00 pm from Monday to 
+Friday. Weekend available on request. 
+◼ Microtransit fare structure: 
+ 65+: Free 
+ People with disabilities: Free 
+ Not over 65 or disabled: $2:00 (Must be 
+with someone of the targeted group) 
+◼ Fixed-route fare structure*: 
+ Regular fare: $2.50 
+ 65+: $1.25 
+ People with disabilities: $1.25 
+ People with Medicare: $1.25 
+*Only considers Ride Gwinnett local fixed-route service 
+◼ Transfer policy: No, not applicable (no fare) 
+◼ Payment options: Cash (non-eligible rider) 
+◼ Connections (transit and points of interest): 
+ Ride Gwinnett, local fixed-route operated by Ride Gwinnett—connects to local commercial 
+districts, supermarkets 
+ Xpress, regional commuter bus service operated by Atlanta-Region Transit Link Authority—
+connects to Midtown Atlanta  
+ MARTA, the regional metro system with bus, streetcar, and rail service operated by Metropolitan 
+Atlanta Rapid Transit Authority—connects to Downtown Atlanta and Hartsfield-Jackson Atlanta 
+International Airport 
+Service Model 
+Software 
+ 
+◼ Technology provider: Spare Labs 
+◼ Vehicle provider: CPACS 
+◼ Driver provider: CPACS, Spare Labs subcontracted to Lyft for additional drivers/vehicles 
+Source: Defining Metro Atlanta - Issuu

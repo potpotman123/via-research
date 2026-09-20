@@ -1,0 +1,317 @@
+# source: raw/bleecker_drive/City of West Sacramento/2023.06.07_-_City_Council_-_Amendment_No._5_to_NoMad_Transit_LLC_Contract.pdf
+# path: raw/bleecker_drive/City of West Sacramento/2023.06.07_-_City_Council_-_Amendment_No._5_to_NoMad_Transit_LLC_Contract.pdf
+# hit page: 55 of 63
+# terms: NoMad Transit
+
+=== page 54 ===
+NoMad Transit LLC
+PW20-011 Via Citywide Transportation Services
+Amendment 5
+Expires 6/30/2024
+2368104.1 7203.552 
+Exhibit B: FY 2023/24 Schedule of Fees
+WSC Via Year 6 Contract Value
+Price per 
+Driver 
+Hour
+Price per 
+Service 
+Hour
+Price per 
+Ride
+Total Not-to-
+Exceed Price
+(12 Months)
+Year 6 Service Planning*
+N/A
+N/A
+N/A
+$55,000
+Supply Planning*
+N/A
+N/A
+N/A
+$0
+Total Upfront Costs
+$55,000
+Project Management
+$3.55
+N/A
+N/A
+$203,060
+Performance Monitoring and Reporting
+$0.72
+N/A
+N/A
+$41,184
+Marketing & Promotions Plan and Implementation
+$0.14
+N/A
+N/A
+$8,008
+Program Operations**
+$47.82
+N/A
+N/A
+$2,735,304
+Total Cost per Driver Hour
+$52.23
+$2,987,556
+Customer Service (1.25 FTE X $30.39 per hour)
+N/A
+$37.99
+N/A
+$227,180
+Total Cost per Service Hour
+$37.99
+$227,180
+Estimated Access for All Regulatory Fee***
+$0.10
+$21,736
+Total Cost to West Sacramento (Incl. Fare Revenue), 
+Before PUCTRA Fees
+$3,291,472
+Estimated PUCTRA Regulatory Fee****
+$9,899
+Total Cost to West Sacramento (Incl. Fare Revenue), 
+Incl. PUCTRA Fees
+$3,301,372
+Sources of Funding:
+Fare Revenue from FY 22 23
+$150,000
+Fare Revenue from FY 23 24
+$313,642
+Funding from City of West Sacramento (Excl. Fare 
+Revenue)
+$2,837,730
+Total
+$3,301,372
+Driver Hours Summary:
+Total Implied Driver Hours
+57,200
+Implied Driver Hours (Weekly)
+1,100
+Service Hours Summary:
+Total Implied Service Hours
+5,980
+=== page 55 ===
+NoMad Transit LLC
+PW20-011 Via Citywide Transportation Services
+Amendment 5
+Expires 6/30/2024
+2368104.1 7203.552 
+Total Implied Service Hours (Weekly)
+115
+* Items to be invoiced in full upon the start of Year 6.
+** Includes driver pay, vehicle cost (incl. WAV retrofits and spares where applicable), insurance, 
+dedicated IT operations and supply admin, technology access, local & central operations support, 
+T&E, rent, and office expenses.
+*** TNC Access for All Fees to be invoiced to West Sacramento on a pass through basis.
+**** PUCTRA Fees to be invoiced to West Sacramento on a pass through basis.
+=== page 56 ===
+Attachment A
+County's Estimated June 30, 2023 Balance
+$0
+Local Transportation Fund Income 2023-2024
+$109,000,000
+Less: County Administrative Costs
+-$22,000
+Less: SACOG Administrative Costs
+-$1,217,284
+Balance for Allocation
+$107,760,716
+Jurisdication
+Population 1/
+% of Total
+Population
+County
+Finding of
+ Apportionment
+SACOG
+Planning
+Available to
+Jurisdiction
+Pedestrians
+& Bicycles 2/
+Available to
+Jurisdiction for
+Article 4 and
+Article 8
+Sacramento County
+(Unincorporated)
+604,272  
+38.33%
+$41,301,560  
+$64,430  
+$41,237,130  
+$826,031  
+$2,040,297  
+Citrus Heights
+86,367  
+5.48%
+$5,903,123  
+$0  
+$5,903,123  
+$118,062  
+$0  
+Elk Grove
+176,972  
+11.22%
+$12,095,910  
+$0  
+$12,095,910  
+$241,918  
+$0  
+Folsom
+84,592  
+5.37%
+$5,781,803  
+$0  
+$5,781,803  
+$115,636  
+$0  
+Galt
+25,239  
+1.60%
+$1,725,068  
+$51,752  
+$1,673,316  
+$34,501  
+$1,638,814  
+Isleton
+780  
+0.05%
+$53,312  
+$1,599  
+$51,713  
+$1,066  
+$50,647  
+Rancho Cordova
+80,359  
+5.10%
+$5,492,480  
+$0  
+$5,492,480  
+$109,850  
+$0  
+City of Sacramento
+518,037  
+32.86%
+$35,407,459  
+$0  
+$35,407,459  
+$708,149  
+$0  
+TOTALS
+1,576,618  
+100.00%
+$107,760,716  
+$117,782  
+$107,642,934  
+$2,155,214  
+$3,729,758  
+Jurisdication
+Finding of
+ Apportionment
+Finding of 
+Apportionment
+Less Ped & 
+Bicycle
+% of Population
+Within
+SRTD District 
+Allocation of 
+Finding of 
+Apportionment
+SACOG
+Planning
+Amount
+Available for To 
+Paratransit, Inc.
+Amount
+Available To
+SRTD
+Sacramento County
+(Unincorporated)
+$41,301,560  
+$40,475,529  
+94.8%
+$38,370,801  
+$1,174,616  
+$1,918,540  
+$35,277,645  
+Rancho Cordova
+$5,492,480  
+$5,382,631  
+100%
+$5,382,631  
+$164,774  
+$269,132  
+$4,948,725  
+City of Sacramento
+$35,407,459  
+$34,699,310  
+100%
+$34,699,310  
+$1,062,224  
+$1,734,966  
+$31,902,121  
+City of Citrus Heights
+$5,903,123  
+$5,785,060  
+100%
+$5,785,060  
+$177,094  
+$289,253  
+$5,318,714  
+City of Folsom
+$5,781,803  
+$5,666,167  
+100%
+$5,666,167  
+$173,454  
+$283,308  
+$5,209,404  
+City of Elk Grove
+$12,095,910  
+$11,853,992  
+100%
+$11,853,992  
+$362,877  
+$592,700  
+$10,898,415  
+TOTALS
+$105,982,336  
+$103,862,689  
+$101,757,961  
+$3,115,040  
+$5,087,898  
+$93,555,024  
+PI-30%
+$1,526,369
+SacRT=70%
+$3,561,529
+$97,116,552
+Regional Transit
+$97,116,552
+Paratransit
+$1,526,369
+SACOG
+$3,232,821
+Ped/Bike
+$2,155,214
+Other Jurisdictions
+$3,729,758
+Total
+$107,760,716
+ 1. Sources: Report E-5, Department of Finance, Demographic Research Unit, 2022
+ 2. Amount available to jurisdictions for pedestrian and bicycle purposes (Article 3,Section 99233.3)
+COUNTY OF SACRAMENTO
+March 2023
+FINDINGS OF APPORTIONMENT
+LOCAL TRANSPORTATION FUNDS  (LTF)
+Fiscal Year 2023-2024
+ SACRAMENTO REGIONAL TRANSIT DISTRICT and PARATRANSIT DRAFT
+Sac County; 2:38 PM2/6/2023
+FY 23-24 LTF-FOA-4-County.xlsx
+Attachment 4

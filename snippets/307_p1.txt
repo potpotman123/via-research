@@ -1,0 +1,181 @@
+# source: raw/bleecker_drive/Baldwin/RFP Total Scoring Sheet.pdf
+# path: raw/bleecker_drive/Baldwin/RFP Total Scoring Sheet.pdf
+# hit page: 1 of 1
+# terms: Spare Labs
+
+=== page 1 ===
+Criteria
+1. Technical Approach and Functionality
+2. Online sons
+4. Pricing
+5. Deployment Plan
+Total
+Request for Proposals (RFP) for Microtransit Software
+Possible Points
+25
+20
+20
+20
+15
+100
+Reviewer 1
+Reviewer 2
+Reviewer 3
+Reviewer 4
+Total
+Average Score
+Spare Labs, Inc.
+24
+19
+19
+15
+15
+92
+Ecolane USA, Inc.
+25
+18
+20
+19
+14
+24
+18
+20
+18
+14
+25
+18
+18
+17
+15
+20
+18
+17
+17
+15
+25
+20
+20
+19
+15
+24
+19
+19
+18
+14
+21
+19
+17
+18
+14
+18
+8
+15
+1
+HBSS Connect
+Corp.
+24
+23
+19
+18
+17
+17
+18
+18
+13
+13
+96
+94
+93
+87
+99
+94
+89
+47
+91
+89
+92
+96
+94
+93
+87
+99
+94
+89
+47
+91
+89
+61
+375
+93.75
+369
+92.25
+288
+72
+14
+17
+10
+15
+5
+61
+15
+10
+15
+10
+12
+62
+The Routing
+Company
+24
+23
+19
+17
+20
+19
+17
+18
+15
+15
+95
+92
+17
+12
+12
+15
+13
+69
+5
+10
+15
+40
+Kevadiya, Inc.
+23
+17
+18
+20
+12
+90
+22
+17
+17
+19
+12
+87
+12
+8
+8
+12
+8
+48
+62
+95
+92
+69
+318
+79.5
+40
+90
+87
+48
+265
+66.25
+1/31/2025

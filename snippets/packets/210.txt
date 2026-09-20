@@ -1,0 +1,535 @@
+# source_url: https://legistar1.granicus.com/McKinney/attachments/abb0b9be-9c15-4174-9e04-7b9d82941c25.pdf
+# path: raw/cache/5e92fe54da67feb112756b4c03bca94101b9439a.pdf
+# pages_total: 50; hit_pages: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50]; included: [22, 24, 25, 26, 29, 32, 45, 46]
+# context: legistar client=mckinney; matter 20-0715 (2020-08-03): Discussion of Spare Labs Transit Study Results
+
+=== page 22 of 50 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+Stage 4: Analysis of results 
+ 
+Key Performance Indicators (KPIs) 
+ 
+Spare Realize reports back on key KPIs from each simulation, including waiting times, 
+pooling ratios, efficiency measures (e.g. passenger per vehicle hour), and more. Maps of 
+pickups and dropoffs are also generated, to validate the accuracy of the model and to 
+enable in-depth assessment of system performance. Passengers-per-vehicle-hour (PPVH) is 
+provided as a standard measure of system efficiency, which will be relevant to CCT’s future 
+cost recuperation models. 
+ 
+Costs 
+ 
+Costs per trip and per operational year are reported for all scenarios to aid 
+decision-making. CCT already owns three dedicated vehicles, which, according to DCTA 
+invoices, cost $58 per hour to run (including base hourly rate, fuel and administrative 
+costs). On average, this equates to $94 per trip provided by CCT’s dedicated vehicles.  
+ 
+Since CCT already owns three vehicles, we use the $58 operational cost in our model, and 
+assume that each vehicle can be used for any on-demand trip if needed. In simulations 
+where more than 3 vehicles are placed on duty, any extra vehicle is assumed to be a 
+non-dedicated vehicle, which incurs costs to CCT on a per-trip (rather than per-hour) basis. 
+As explained in the Recommendations section, maximum vehicle occupancy data from our 
+simulations can help to inform right-sizing of the microtransit system. If CCT wanted to 
+purchase new vehicles that were most appropriate for their system, right-sizing insights 
+could help lower operational costs. 
+ 
+Analysis of invoices from CCT’s single non-dedicated operations supplier (Irving Holdings) 
+suggests that the average trip cost is $19 per trip. Rather than use this average trip price in 
+our cost model, we instead use the average per-mile cost ($2.40 per mile) and multiply it by 
+the distance of each trip in our simulations. This provides a more realistic estimate of the 
+costs incurred by CCT to serve the actual trips simulated in Realize. 
+ 
+Finally, we subtracted trip fares ($3 flat fare per trip) from the full costs to present the net 
+costs in this report.  
+ 
+ 
+ 
+ 
+ 
+ 
+21
+
+=== page 24 of 50 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+Results: Door-to-door service (normal hours: 6am–6pm) 
+ 
+Structured for low cost 
+ 
+ 
+Low Demand ​(52) 
+Medium Demand​ (65) 
+High Demand​ (85) 
+No. duties 
+3 
+4 
+4 
+Avg. wait time 
+28 ​mins 
+26 ​mins 
+28 ​mins 
+Max wait time 
+57 ​mins 
+58 ​mins 
+62 ​mins 
+<15 min wait 
+23% 
+25% 
+27% 
+PPVH 
+1.2 
+1.2 
+1.4 
+Pooling ratio 
+64% 
+54% 
+55% 
+Cost per trip 
+$36 
+$43 
+$38 
+Annual cost 
+$520,000 
+$830,000 
+$870,000 
+ 
+Structured for great service 
+ 
+ 
+Low Demand ​(52) 
+Medium Demand​ (65) 
+High Demand​ (85) 
+No. duties 
+5 
+6 
+8 
+Avg. wait time 
+20 ​mins 
+15 ​mins 
+16 ​mins 
+Max wait time 
+47 ​mins 
+43 ​mins 
+49 ​mins 
+<15 min wait 
+37% 
+56% 
+58% 
+PPVH 
+0.8 
+0.8 
+0.8 
+Pooling ratio 
+48% 
+53% 
+52% 
+Cost per trip 
+$59 
+$59 
+$61 
+Annual cost 
+$950,000 
+$1,200,000 
+$1,600,000 
+23
+
+=== page 25 of 50 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+Results: Door-to-door service (extended hours: 6am–12am) 
+ 
+Structured for low cost 
+ 
+ 
+Low Demand ​(60) 
+Medium Demand​ (75) 
+High Demand​ (98) 
+No. duties 
+3 
+4 
+4 
+Avg. wait time 
+27 ​mins 
+19 ​mins 
+26 ​mins 
+Max wait time 
+54 ​mins 
+58 ​mins 
+61 ​mins 
+<15 min wait 
+28% 
+59% 
+39% 
+PPVH 
+1.0 
+0.8 
+1.2 
+Pooling ratio 
+40% 
+31% 
+53% 
+Cost per trip 
+$42 
+$50 
+$42 
+Annual cost 
+$780,000 
+$1,100,000 
+$1,300,000 
+ 
+Structured for great service 
+ 
+ 
+Low Demand ​(60) 
+Medium Demand​ (75) 
+High Demand​ (98) 
+No. duties 
+5 
+6 
+8 
+Avg. wait time 
+20 ​mins 
+14 ​mins 
+17 ​mins 
+Max wait time 
+50 ​mins 
+37 ​mins 
+46 ​mins 
+<15 min wait 
+39% 
+64% 
+46% 
+PPVH 
+0.7 
+0.7 
+0.7 
+Pooling ratio 
+20% 
+35% 
+41% 
+Cost per trip 
+$69 
+$67 
+$67 
+Annual cost 
+$1,300,000 
+$1,600,000 
+$2,000,000 
+24
+
+=== page 26 of 50 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+Results: Stop-to-stop service (normal hours: 6am–6pm) 
+ 
+Structured for low cost 
+ 
+ 
+Low Demand ​(52) 
+Medium Demand​ (65) 
+High Demand​ (85) 
+No. duties 
+3 
+4 
+4 
+Avg. wait time 
+23 ​mins 
+17 ​mins 
+25 ​mins 
+Max wait time 
+66 ​mins 
+55 ​mins 
+62 ​mins 
+<15 min wait 
+38% 
+56% 
+34% 
+PPVH 
+1.2 
+1.2 
+1.3 
+Pooling ratio 
+78% 
+75% 
+34% 
+Cost per trip 
+$36 
+$43 
+$38 
+Annual cost 
+$520,000 
+$830,000 
+$870,000 
+ 
+Structured for great service 
+ 
+ 
+Low Demand ​(52) 
+Medium Demand​ (65) 
+High Demand​ (85) 
+No. duties 
+5 
+6 
+8 
+Avg. wait time 
+11 ​mins 
+10 ​mins 
+7 ​mins 
+Max wait time 
+50 ​mins 
+43 ​mins 
+36 ​mins 
+<15 min wait 
+73% 
+72% 
+86% 
+PPVH 
+0.8 
+0.8 
+0.8 
+Pooling ratio 
+61% 
+45% 
+53% 
+Cost per trip 
+$59 
+$59 
+$61 
+Annual cost 
+$950,000 
+$1,200,000 
+$1,600,000 
+25
+
+=== page 29 of 50 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+Comparing normal service hours and extended service hours 
+ 
+In the table below, we present the performance KPIs to compare the effect of extending the 
+service hours, assuming medium demand and the ‘low cost’ option. The best comparative 
+performance for each parameter is highlighted in green. 
+ 
+Results show that extending the service hours by 6 hours (until midnight) helps to spread 
+demand slightly across the day, in spite of the expected 15% boost in demand. Averages 
+wait times therefore decrease, and the proportion of riders expecting short waits vastly 
+increase under extended service hours.  
+ 
+However, this improvement in rider experience comes at the expense of a slightly less 
+efficient service, which becomes more expensive on both per-ride and annual bases. CCT 
+will have to decide whether it values investing an additional ~$200,000 per annum (p.a.) to 
+provide access to services and jobs for socio-economic groups other than seniors and 
+those with mobility difficulties. Ultimately, this may require re-assessing and restating the 
+ultimate aim of such a microtransit service. 
+ 
+ 
+ 
+Normal service hours 
+(6am–6pm) 
+(Medium demand, 4 duties) 
+Extended service hours 
+(6am–12am) 
+(Medium demand, 4 duties) 
+Avg. wait time 
+26 ​mins 
+19 ​mins 
+Max wait time 
+58 ​mins 
+58 ​mins 
+<15 min wait 
+25% 
+59% 
+PPVH 
+1.2 
+0.8 
+Pooling ratio 
+54% 
+31% 
+Cost per trip 
+$43 
+$50 
+Annual cost 
+$830,000 
+$1,100,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+28
+
+=== page 32 of 50 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+ 
+●
+CCT could save on operating costs in the long-term by investing in​ two additional 
+dedicated vehicles​ to serve the majority of expected demand. Using a dedicated 
+fleet could result in savings of $7 per trip and annual savings of $140,000, assuming 
+a medium-demand, low-cost scenario.  
+ 
+Moving forward, there are clear steps to success for CCT: 
+ 
+●
+In the first instance, a ​pooled microtransit system​ will deliver modest cost savings. 
+Perhaps the most important benefit it will bring is a ​wealth of data​ that can be 
+used to better understand the demand for transit and optimize the system further. 
+ 
+●
+In subsequent phases, adding ​multiple operators ​to the service will help to create 
+operational efficiencies and introduce time- and location-specific rules such as 
+dynamic pricing. A ​mixed supply model​ could be rapidly scaled up across the 
+microtransit zone using the unique Spare Fleets feature.  
+ 
+●
+The eventual introduction of ​commingling​ between different service types 
+(microtransit, paratransit, NEMT, schools) would ensure a ​fully flexible system that 
+delivers both an amazing rider experience and unparalleled savings for CCT.  
+ 
+These recommendations are discussed in more detail in the rest of this section. 
+ 
+Cost tradeoffs when investing in greater service 
+ 
+When designing and implementing microtransit in Collin County, CCT will have to consider 
+the tradeoffs between the overall cost and quality of service to riders. The cost of running a 
+microtransit service can vary widely depending on a number of factors, including (but not 
+limited to) the local price of labor, vehicle types, fare structures, service/vehicle hours, 
+service configuration, and administrative and technology costs.  
+ 
+The annual cost estimates (excluding administrative or ancillary costs) for a low-cost system 
+range from $520,000 to $870,000 per annum (p.a.), while implementing a great-service 
+system would cost $950000 to $1.6 million  p.a. Extending the service hours by six 
+additional hours would result in annual costs of $780,000–$1.3 million p.a. for a low-cost 
+system, or $1.3–2.0 million p.a. for a great-service system. 
+ 
+Whether additional investment beyond the basic low-cost, normal-hours option is 
+worthwhile is a highly pertinent question for CCT, because it is a public agency and 
+therefore must ultimately provide value for money to the taxpayer.  
+ 
+To give CCT a better understanding of the tradeoffs when investing in service quality 
+improvements, we quantify the average effect on service performance of spending an 
+31
+
+=== page 45 of 50 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+ 
+Figure A2. Distribution of historical trips by price paid by the rider (CCT pays the remaining 75%).  
+ 
+Only 55 trips were taken outside the MUTD zone (‘private pay’ trips), and most of them 
+were undertaken by only a few individuals. The exceptionally small proportion of 
+non-MUTD trips prevented us from reliably accounting for these in our model, so we only 
+model MUTD trips.  
+ 
+A major point of consideration in any ridership forecasting model is the differentiation of 
+trends for different trip lengths. Changes in demand will reflect the difference between the 
+new flat fare and the current price of a trip. For instance, if a trip’s price were to decrease 
+under the new pricing regime, the propensity of riders to take such a trip would differ to a 
+situation where a trip’s price would increase (this is explored in more detail in the following 
+sections).  
+ 
+To account for this, we divided trips into different price bands. In both scenarios, one price 
+band encompasses all trips that would cost ​more ​in the new regime (i.e. all trips <$2 in 
+scenario 1, and all trips <$3 in scenario 2). Of the remaining trips that would cost less in the 
+new regime, we defined a ‘low gains’ category (trips costing more than $2 but less than $4 
+in scenario 1, and trips costing more than $3 but less than $5 in scenario 2), a ‘medium 
+gains’ category (trips costing more than $4 but less than $9 in scenario 1, and trips costing 
+more than $5 but less than $9 in scenario 2), and finally a ‘big gains’ category (trips costing 
+more than $9 in both scenarios). These bands were defined according to the distribution of 
+trips displayed in Figure A2.  
+ 
+As shown in Table A2, almost 75% of all trips taken with CCT are short trips costing less 
+than $5. Under Scenario 1, a quarter of historical trips would end up paying more than they 
+44
+
+=== page 46 of 50 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+do currently, whereas under Scenario 2, almost half of historical trips would end up paying 
+more than they do currently.  
+ 
+Table A2. Statistics of trip price categories in each scenario. 
+ 
+Scenario 
+Trip price 
+category  
+(paid by 
+rider) 
+Average trip 
+price paid by 
+rider ($) 
+Average 
+number of 
+trips per 
+week 
+Proportion of 
+all trips (%) 
+Average trip 
+distance 
+(miles) 
+Scenario 1  
+($2 flat fare) 
+$2 or less 
+1.4 
+52 
+25 
+1.7 
+$2–$4 
+2.9 
+82 
+40 
+4.7 
+$4–$9 
+6.2 
+61 
+29 
+12.6 
+$9+ 
+10.2 
+14 
+6 
+19.7 
+Scenario 2 ($3 
+flat fare) 
+$3 or less 
+1.9 
+97 
+47 
+2.6 
+$3–$5 
+3.7 
+53 
+25 
+6.3 
+$5–$9 
+6.8 
+44 
+21 
+14.6 
+$9+ 
+10.2 
+14 
+6 
+19.7 
+ 
+The sensitivity of riders to transit pricing is traditionally measured using elasticities. 
+Elasticities are the percentage change in consumption resulting from a one-percent change 
+in price, all else held constant.  
+ 
+In the context of transit, a high elasticity value indicates that an individual’s choice to ride 
+transit ​is​ price-sensitive (i.e. a small change in price will dramatically affect how likely they 
+are to ride transit). A low elasticity value indicates that prices have relatively little effect on 
+ridership. Factors that affect transit elasticities include: 
+ 
+●
+User type 
+●
+Trip type 
+●
+Transit type 
+●
+Geography 
+●
+Type of price change 
+●
+Direction of price change 
+●
+Time period 
+ 
+While many of these are outside of the scope of this short study, we account for the 
+direction ​of price change and the ​time period​ of changes. For the ​direction of price change​, we 
+45

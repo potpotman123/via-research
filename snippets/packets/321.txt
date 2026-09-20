@@ -1,0 +1,87 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Hillsborough County/DM0276_Revised_NOITA_RFP-23-24177_-_Paratransit_Scheduling_Software_System_Termination_Award_072524.pdf
+# pages_total: 1; hit_pages: [1]; included: [1]
+# context: Bleecker Drive folder: Hillsborough County
+
+=== page 1 of 1 ===
+Revised Notice of Intent to Award, RFP-23-24177, Paratransit Scheduling Software System, Termination, Award
+POSTED: July 25, 2024
+Notice: Pursuant to Hillsborough County Ordinance 13-24, Protest Process and Procedures and Cone of Silence the bidder(s) identified are being recommended for contract award
+Interested parties with a grievance pertaining to this procurement shall provide the County written notice no later than five (5) business days from the date the County posts this notice o
+intent to award. See following link for specific ordinance details: http://hcflgov.net/library/hillsborough/media-center/documents/Procurement%20Services/Procurement%20Manual/AppendixCC
+Total
+Quote/Cost Total
+ Technical approach 
+including proposed 
+system components, 
+implementation plan, 
+training and support
+System capabilities 
+and ease of use.
+Proposer's 
+Qualifications 
+including 
+understanding of the 
+project requirements
+Proposer's 
+Organization 
+Experience.
+DM/DWBE/SBE Bonus 
+Points
+Supplier
+/ 105 pts
+/ 25 pts
+/ 30 pts
+/ 20 pts
+/ 10 pts
+/ 15 pts
+/ 5 pts
+Via Transportation Inc
+96
+25 ($860,825.00)
+Note 1
+28
+19
+10
+14
+0
+Ecolane USA, Inc.*
+90
+22 ($1,027,877.16)
+Note 2
+28
+18
+9
+13
+0
+Spare Labs
+82
+21 ($1,008,114.90)
+25
+17
+9
+10
+0
+HBSS Connect Corp
+70
+24 ($890,929.63)
+18
+10
+8
+10
+0
+TripSpark Technologies
+54
+16 ($1,349,562.90)
+15
+10
+5
+8
+0
+Note 1:  A contract was previously awarded to Via Transportation, Inc.; however, this vendor was unable to successfully 
+implement the proposed system and services. The County intends to terminate the contract and award to the next highest
+ranked proposer; Ecolane USA, Inc., therefore, a new Notice of Intent to Award is being published to ensure full 
+transparency.
+Note 2: The original RFP proposed and evaluation amount was $990,521.65; however, it is in the County's best interest 
+to purchase additional SMS bundles for years 3 through 5 as part of this award, which increases the award amount 
+without changing the order of proposers.

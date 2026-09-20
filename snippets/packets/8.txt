@@ -1,0 +1,184 @@
+# source_url: https://legistar.granicus.com/santarosa/attachments/83d46cfc-cc46-46ac-ac54-90b87c794dec.pdf
+# path: raw/cache/9685aba7732cd7071d49644a928413ae13df3bc9.pdf
+# pages_total: 16; hit_pages: [1, 10, 13]; included: [1, 10, 13]
+# context: legistar client=santa-rosa; matter 25-0030 (2024-12-16): RESOLUTION - AGREEMENT WITH REMIX TECHNOLOGIES LLC FOR TRANSIT SCHEDULING AND PLANNING SOFTWARE    RECOMMENDATION: It is recommended by the Transportation and Public Works Department that the Council, by resolution, approve a Professional Services Agreement with Remix Technologies LLC, a Delaware Li
+
+=== page 1 of 16 ===
+Page 1 of 10 
+Professional Services Agreement 
+Form approved by the City Attorney 5-11-20 
+CITY OF SANTA ROSA  
+PROFESSIONAL SERVICES AGREEMENT 
+WITH REMIX TECHNOLOGIES LLC  
+AGREEMENT NUMBER F002920 
+This "Agreement" is made as of this day of  
+, 2024, by and between the 
+City of Santa Rosa, a municipal corporation ("City"), and Remix Technologies LLC, a Delaware Limited 
+Liability Company. ("Consultant"). 
+R E C I T A L S 
+A.
+City desires to obtain planning and scheduling software and associated licenses for City’s
+fixed route bus services, assistance with integration of the software with the City’s existing systems, and 
+training and support. 
+B.
+City desires to retain a qualified firm to conduct the services described above in
+accordance with the Scope of Services as more particularly set forth in Exhibit A to the Agreement. 
+C.
+Consultant represents to City that it is a firm composed of highly trained professionals and
+is fully qualified to conduct the services described above and render advice to City in connection with 
+said services. 
+D.
+The parties have negotiated upon the terms pursuant to which Consultant will provide such
+services and have reduced such terms to writing. 
+AGREEMENT 
+NOW, THEREFORE, City and Consultant agree as follows: 
+1.
+SCOPE OF SERVICES
+Consultant shall provide to City the services described in Exhibit A ("Scope of Services
+and Compensation") Consultant shall provide these services at the time, place, and in the manner 
+specified in Exhibit A. Exhibit A is attached hereto for the purpose of defining the manner and scope of 
+services to be provided by Consultant and is not intended to, and shall not be construed so as to, modify 
+or expand the terms, conditions or provisions contained in this Agreement. In the event of any conflict 
+between this Agreement and any terms or conditions of any document prepared or provided by Consultant 
+and made a part of this Agreement, including without limitation any document relating to the scope of 
+services or payment therefor, the terms of this Agreement shall control and prevail. 
+EXHIBIT A
+
+=== page 10 of 16 ===
+Page 10 of 
+Form approved by the City Attorney 
+12-13-14 
+ 
+Executed as of the day and year first above stated. 
+ 
+ 
+CONSULTANT: 
+Name of Firm: Remix Technologies LLC 
+ 
+TYPE OF BUSINESS ENTITY (check one): 
+ 
+ Individual/Sole Proprietor 
+ 
+Partnership 
+ 
+Corporation 
+    X Limited Liability Company 
+ 
+ Other (please specify:  
+) 
+Signatures of Authorized Persons: 
+By:  
+ 
+Print Name: Dillon Twombly 
+  
+Title: Vice President 
+ 
+By:  
+  
+Print Name: 
+  
+Title:  
+  
+City of Santa Rosa Business Tax Cert. No. 
+CITY OF SANTA ROSA 
+a Municipal Corporation 
+By: 
+ 
+Print 
+Name: 
+ 
+Title: 
+  
+APPROVED AS TO FORM: 
+ 
+Office of the City Attorney 
+ATTEST: 
+ 
+City Clerk 
+ 
+ 
+Attachments: 
+Attachment One - Insurance Requirements 
+Exhibit A – Compensation and Scope of Service
+
+=== page 13 of 16 ===
+1 
+ 
+ 
+ 
+Exhibit A: Scope of Services and Compensation 
+This Service Order (the “Order”) is entered into between Remix Technologies, LLC, a Delaware limited liability corporation ("Company"), and 
+City of Santa Rosa ("Customer") and will become effective as of the Effective Date (defined below in the Order). The Remix solution is a 
+proprietary software owned by Remix Technologies, LLC. 
+ 
+Scope of Services & Terms 
+Remix Scheduling 
+Platform License 
+ 
+$64,300 USD / 5 Year Base Contract  
+● 
+Year 1: $11,200 + One Time Installation Fee of $5,000 
+ 
+● 
+Year 2: $11,500  
+● 
+Year 3: $11,800  
+● 
+Year 4: $12,200  
+● 
+Year 5: $12,600 
+● 
+Year 6: $13,000 (Option Year) 
+● 
+Year 7: $13,400 (Option Year) 
+ 
+$90,700 USD / 5 Year Base + 2 Option Years 
+ 
+Includes: 
+● 
+Remix licenses for an unlimited number of users within an organization.   
+● 
+Software as a Service (SaaS): fully hosted, cloud-based web platform. 
+● 
+Platform functionality as described in the Agreement with continuous improvements 
+released throughout the course of the contract. 
+● 
+Dedicated Customer Success staff. 
+● 
+Premium Enterprise Support: response to requests in 1 business day. 
+Remix Daily 
+Operations Module 
+(Add on) 
+$40,000 USD / 5 Year Base 
+● 
+Year 1: $7,600 
+ 
+● 
+Year 2: $7,800 
+ 
+● 
+Year 3: $8,000 
+ 
+● 
+Year 4: $8,200 
+● 
+Year 5: $8,400 
+● 
+Year 6: $8,700 (Option Year) 
+● 
+Year 7: $9,000 (Option Year) 
+ 
+$57,700 USD / 5 Year Base + 2 Option Years 
+ 
+Includes:  
+● 
+Remix licenses for an unlimited number of users within an organization.   
+● 
+Software as a Service (SaaS): fully hosted, cloud-based web platform. 
+● 
+Platform functionality as described in the Agreement with continuous improvements 
+released throughout the course of the contract. 
+● 
+Dedicated Customer Success staff. 
+● 
+Premium Enterprise Support: response to requests in 1 business day.

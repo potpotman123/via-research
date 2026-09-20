@@ -1,0 +1,121 @@
+# source: raw/bleecker_drive/Suffolk County/Via - Getting Microtransit Right.pdf
+# path: raw/bleecker_drive/Suffolk County/Via - Getting Microtransit Right.pdf
+# hit page: 6 of 26
+# terms: Via+vehicles
+
+=== page 5 ===
+VIa
+Finding the right partner
+When an agency considers whom to work
+with, there are a few considerations:
+On-demand and dynamic
+The most successful microtransit services are on-demand —
+customers get rides when they want them — and fully
+dynamic, meaning there are no static routes or schedules.
+Powering a flexible service that is continuously optimized in
+real time is a big technical challenge.
+Moreover, it's also important to confirm that the technology
+has been proven in similar markets in terms of population
+density, origin-destination patterns, and traffic
+characteristics - most microtransit algorithms are
+configured to function well in only one specific kind of
+market.
+Scalability
+It's one thing to power a dial-a-ride service with a few
+vehicles; it's another thing entirely to power a microtransit
+service at scale with dozens or even hundreds of vehicles
+delivering hundreds or thousands of rides every day.
+The ability to do the former, moreover, usually doesn't transfer
+to the latter - as the number of vehicles and rides increase,
+the number of possible rider/vehicle assignments and routing
+options grow exponentially, which requires both an algorithm
+and automated service management tools built to handle
+scale.
+=== page 6 ===
+Built for public transit
+Can the microtransit partner provide product features that
+are specific to a transit agency's public mission? Will people
+who go to recurring medical appointments be able to
+pre-schedule rides for themselves and, if necessary, for
+caretakers too? Similarly, will people in wheelchairs be able to
+request wheelchair accessible vehicles?
+What about low-income customers — will they be able
+to access the service if they don't have smartphones or
+credit cards?
+Access to best practices
+Technology alone doesn't a successful microtransit service
+make. Since transit agencies have historically configured
+service around fixed routes and schedules, even the sawiest
+service planners and operations managers don't have
+experience running real-time on-demand service with
+dynamically-routed vehicles.
+The best service plans are just academic if theyre not
+effectively implemented and managed. What's the best way to
+provide real-time customer service? What's the most
+cost-effective way to acquire new riders?
+Trying to reinvent the microtransit playbook is risky (as some
+agencies have learned) - choosing a microtransit partner
+with extensive experience launching, scaling, and optimizing
+service could be the difference between success and failure.
+Powerful data science tools
+What kind of analytics and reporting services
+does the partner provide?
+Even a small service can generate millions of data points;
+distilling actionable intelligence from data sets on that scale
+requires powerful data science tools, analytical expertise, and
+deep domain experience.
+VIa
+=== page 7 ===
+Why work with Via?
+Via is the world's leading developer
+and operator of microtransit systems —
+over the past five years, we've provided more
+than twenty-five million microtransit rides
+to over a million customers. Every day, our
+technology powers tens of thousands of rides
+around the world.
+We partner with some of the smartest
+transit agencies, cities, and transportation
+contractors in the world, including the Land
+Transport Authority in Singapore, the
+Capital Metropolitan Transportation
+Authority in Austin, the Los Angeles
+Metropolitan Transportation Authority, the
+cities of Arlington, Texas and West
+Sacramento, California, Transport for New
+South Wales in Australia, the public transit
+agency in Berlin, Germany (the BVG) through
+our joint-venture with Mercedes-Benz, Arriva
+in the United Kingdom, Keolis in France, and
+Go Bus in New Zealand.
+VIa
+Via Partnerships
+M Metro
+Daimler
+O Mercedes-Benz
+WEST
+SACRAMENTO
+A METRO
+ARLINGTON
+go
+@ ARRIVA
+Keolis
+Transport
+BVG
+Land Transport Authority
+Los Angeles, CA
+Orange County, CA
+Sacramento, CA
+Austin, TX
+Arlington, TX
+Queenstown, NZ
+Kent, UK
+Paris, France
+Newcastle, Australia
+Berlin, Germany
+Singapore
+Via Operated Services
+New York
+Washington
+Chicago
+Amsterdam

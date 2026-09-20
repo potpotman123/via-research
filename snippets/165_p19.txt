@@ -1,0 +1,129 @@
+# source: https://legistar.granicus.com/huntsvilleal/attachments/9800841b-3948-44e2-9e23-ef2ab1007faf.pdf
+# path: raw/cache/bbbdb020c072a8b6124814a71fc2748079790ca2.pdf
+# hit page: 19 of 37
+# terms: RideCo
+
+=== page 18 ===
+RIDECO SUBSCRIPTION AND SERVICES AGREEMENT
+Other terms:
+The pricing and terms stated in this proposal are valid for 90 days from the proposal transmittal date.
+• Professional services and on-site support (that are outside the scope of the services specified in this
+agreement) offered at a rate of $120/hour in addition to pre-approved travel costs.
+- All prices are in U.S. dollars and exclude taxes if applicable.
+Summary of Fees (incorporates all the above iters)
+Implementation
+Software License & Support
+Year 1 Cost
+Year 2 Cost
+Year 3 Cost
+Year 4 Cost
+Year 5 Cost
+Option Year 6 Cost
+Option Year 7 Cost
+Total 7 Years Cost
+$ 34,000
+$ 72,000
+$ 106,000
+$ 72,000
+$ 72,000
+$ 72,000
+$ 72,000
+$ 72,000
+$ 72,000
+$ 538,000
+One-time fee as specified above
+12 months of fees as specified above
+Total project cost based on statement of work
+RideCo Confidential
+Page 16 of 34
+=== page 19 ===
+RIDECO SUBSCRIPTION AND SERVICES AGREEMENT
+1.
+SCHEDULE "B"
+SERVICE LEVEL AGREEMENT
+APPROVED EQUIPMENT / THIRD PARTY SOFTWARE
+Driver Mobile App Requirements:
+• Android Device running the most recent Android OS major version release of and one
+previous major version release with Google Play Services
+• OPS Enabled Phone
+High speed (4G recommended) data plan with a minimum of 2GB/month
+Minimum screen resolution 800x480
+• Minimum recommended CPU: Mid-to-High range performance CPU based on
+ARMv8-A 64-bit Architecture
+• 2GB RAM
+• 1GB internal storage
+Passenger Mobile App Requirements:
+• iPhone running the most recent iOS major version release and two previous major version
+releases, or Android device running the most recent Android OS major version release of and
+two previous major version releases with Google
+Play Services
+Minimum screen resolution 800x480
+Minimum recommended CPU: dual-core 1.5GHIz
+IGB RAM
+• 200MB internal storage
+Browser requirements for operations dashboards:
+• Google Chrome (the most recent major version release and one previous major version
+release)
+• Firefox (the most recent major version release and one previous major version release)
+• Safiri (the most recent major version release and one previous major version release)
+2.
+2.1
+MAINTENANCE AND SUPPORT SERVICES
+Maintenance Services: RideCo shall provide the following maintenance services to Customer:
+Supply or deploy corrections to the Software as required to correct errors, defects,
+malfunctions, and deficiencies, if any, in the Sofiware; and
+Supply or deploy improvements, extensions, upgrades, enhancements and other changes
+to the Sofiware developed from time to time by RideCo.
+RideCo Confidential
+Page 17 of 34
+=== page 20 ===
+RIDECO SUBSCRIPTION AND SERVICES AGREEMENT
+2.2
+Support Services: In response to a support request from Customer, RideCo shall provide the
+following support services to Customer as per the priority levels, response times and procedures specified
+in Schedule "B" to be provided remotely:
+(a)
+Clarification of software functionality
+(b)
+Adjustments to software configuration; and
+(c)
+Advice on the use and results of the Service Offerings;
+Services Outside Scope of Maintenance and Support: The Maintenance and Support Services
+to be provided under this Agreement do not include:
+(a)
+Correction of errors or defects caused by operation of the Software in a manner other than
+specified in the Software documentation;
+(b)
+Rectification of errors caused by incorrect use of the Software;
+Corection of errors caused in whole or in part by the use of computer programs other
+than the Soflware unless the use of such programs has been approved by RideCo in
+writing; or
+(d)
+Diagnosis or rectification of faults not associated with the Software.
+2.4
+Access: The Customer shall:
+(a)
+provide RideCo's support personnel reasonable or necessary access to the Customer
+accounts relating to the Distributed Software, as may be applicable, al mutually agreed
+upon times, and for the purposes of providing the Maintenance and Support Services;
+Provide RideCo with a duly qualified and trained representative of the Customer, and with
+all relevant information and assistance required by RideCo to enable RideCo to provide
+the Maintenance and Support Services.
+Professional Services: Customer may request at any time and from time to time that RideCo
+provide to Customer any other professional services or Software modifications which are within the scope
+of its business and which are not provided for herein and which are not covered by the Subscription and
+Services Fee. RideCo shall evaluate such requests and may provide the Customer an estimate of the cost
+of such professional services. In no event shall RideCo be obligated to provide professional services not
+agreed in writing with Customer.
+2.6
+Availability:
+RideCo shall make the Service Offerings Available, as measured over the course of each
+calendar month during the term and any additional periods during which RideCo does o
+s required to provide Service Offerings (each such calendar month, a "Service Period"
+at least 99.9% of the time (the "Availability Requirement"), "Available" means thi
+Service Offerings are available and operable for access and use by the majority of enc
+users of the Customer over the Internet in conformity with the specifications and
+documentation therefor. "Availability" has a correlative meaning. The Service Offerings
+are not considered Available in the event of any of the following:
+RideCo Confidential
+Page 18 of 34

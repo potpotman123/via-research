@@ -1,0 +1,156 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/1.0 791 Cooperative Agreement/RFP_791_2023_09_002_Mobility_As_A_Service.pdf
+# pages_total: 97; hit_pages: [11, 15, 42]; included: [11, 15, 42]
+# context: Bleecker Drive folder: 1.0 791 Cooperative Agreement
+
+=== page 11 of 97 ===
+791 PURCHASING COOPERATIVE  
+ 
+ 
+Lead Agency: Central Texas Council of Governments 
+RFP #791_2023_09_002 Mobility As A Service and Solutions 
+ 
+Page 11 of 44 
+ 
+ 
+ 
+6.2 SUBCATEGORY 2 - MOBILITY AS A SERVICE RESPONSE AREAS  
+The following section outlines potential service providers, technology sectors, and additional Mobility-as-a-
+Service product categories that 791 COOP will consider for selection under this solicitation. Firms and 
+Contractor Teams that do not clearly fit into one area of desired service are still encouraged to apply so that 
+791 COOP can review all innovative project proposals.  
+In the interest of Americans with Disabilities Act (ADA) accessibility and unbanked customers, 791 COOP 
+would also like to receive potential solutions to address these populations as part of the submission.  
+ 
+6.3 SUBCATEGORY 3 - DEMAND-RESPONSE RIDESHARE SERVICE  
+This service category includes scheduled or real-time, dynamic mobility services primarily booked and 
+scheduled through an online platform accessible via mobile devices or online.   
+Responses in this project category can include (but are not be limited to):  
+• 
+‘Self-dispatch’ solutions that provide a customer a direct portal (such as a phone app) to personally 
+book a transportation provider for curb-to-curb, on-demand transportation, with actual transportation 
+provided through 791 COOP’s fleet or a TNCs that provides vehicles and operating personnel.    
+• 
+TNCs that provide vehicles and operating personnel that can deliver demand-response 
+transportation services through requests from online portals set up by 791 COOP. The agency is seeking 
+solutions that already demonstrate integration with other dispatch and booking solutions.  
+• 
+Other mobility service models that fit the requirements of this category, which combine some or all 
+the elements above. These include ‘turnkey’ solutions provided through a single contract that can provide 
+real-time, dynamic service, software applications, service operators, customer service, vehicle storage, 
+maintenance, service marketing, and data reporting.  
+ 
+  
+ 
+6.4 SUBCATEGORY 4 - SELF-OPERATED SHARED MOBILITY SERVICES  
+ 
+This service category includes leasable modes of transportation, both motorized and nonmotorized, 
+that can be used to supplement existing transit options.  
+ 
+Responses in this project category may include, but are not limited to:  
+• 
+Bikeshare companies  
+• 
+Carshare companies  
+• 
+Scooter rental  
+• 
+Other motorized or non-motorized vehicle rentals  
+• 
+Any combination of the above services  
+  
+6.5 SUBCATEGORY 5 - PLATFORM-AS-A-SERVICE  
+This service category includes software, apps, and technology solutions that allow for the use of personal
+
+=== page 15 of 97 ===
+791 PURCHASING COOPERATIVE  
+ 
+ 
+Lead Agency: Central Texas Council of Governments 
+RFP #791_2023_09_002 Mobility As A Service and Solutions 
+ 
+Page 15 of 44 
+automatic so not to jeopardize the criteria of multiple services that are being offered. 
+39. 
+The system shall automatically produce a driver schedule for each operator run, indicating the driver 
+pickup and drop off. Any trips that come in during these runs should be added to the driving schedule 
+according to the algorithm criteria. Notification of changes to a driver’s manifest should be immediate. In 
+instances where pooling/shared rides are allowed, it should occur automatically. 
+40. 
+Passenger requests shall have several options to indicate each pick-up and drop-off, including the 
+street address, point of interest and name of stop, as well as times for pickup and drop-off. 
+41. 
+The ride requests shall be transmitted to the Driver app in their assigned vehicle using the mobile 
+data communications system. Once a driver has logged in to that mobile device, the manifest will be 
+automatically updated. 
+42. 
+Adjustments (i.e., for insertions, changes, cancellations, or no-shows) during vehicle operation shall 
+be immediately transmitted to and from vehicles using the mobile data communications system. 
+43. 
+The central dispatching/monitoring system shall display the most recently reported location of all 
+vehicles on the map in real-time. 
+44. 
+The map display shall provide the following information via vehicle icon shape, color coding, and/or 
+overlays: 
+   • Network connection status; 
+   • Fleet; 
+   • Service state (e.g. in-service, not in service); 
+   • On-time state (e.g. running behind schedule, slack time) 
+45. 
+The map display for dispatchers shall provide more information about any vehicle via the icon text 
+and an available popup window when clicked over the icon. Such information shall include at a minimum: 
+   • Vehicle Number; 
+   • Operator; 
+   • Driver; 
+   • Logon status; 
+   • Upcoming Pick-up/Drop-off location (or a list of next events); 
+   • Trip and passenger information; 
+   • Current speed 
+46. 
+The central dispatch/monitoring system shall present a tabular display that presents the schedule 
+times for events currently assigned to each vehicle. 
+47. 
+The system shall allow historical trip information to be reviewed by the agency. 
+48. 
+The system shall allow all logged data to be retrieved, even if it has been archived. 
+49. 
+The historical map shall provide replay controls to view the entire sequence of reported locations 
+from the beginning of the time period through the sequence of events. 
+50. 
+The system shall allow selection of any time period for access to the historical data. 
+51. 
+All system data shall be owned by the agency, with the rights and ability to access all data, export it
+
+=== page 42 of 97 ===
+791 PURCHASING COOPERATIVE  
+ 
+ 
+Lead Agency: Central Texas Council of Governments 
+RFP #791_2023_09_002 Mobility As A Service and Solutions 
+ 
+Page 42 of 44 
+25. Describe how your company manages services calls on a not to exceed amount.  Is your company willing to accept 
+a not to exceed amount specified by the government entity or does your company operate with a minimum 
+amount not to exceed; if so, what is that amount? 
+26. Describe your process for troubleshooting a problem.  How does repair get escalated for service? 
+27. List the total dollar volume your company completes in Government annually. 
+28. List the other functions your company can provide. 
+29. Describe what project scheduling tools your company use to track projects. 
+30. Describe your company’s safety program performing services. 
+31. Provide your company’s administrative support resources 
+32. Provide who will provide the administrative support services including the person (s) title, phone number (s), fax 
+number(s), e-mail(s) and resume(s) 
+33. What support documents does your company provide to the government entity after Construction Project is 
+completed (typically for larger Projects)? 
+34. Describe what technical resources your company will provide to support the government entities’ projects. 
+35. Indicate if your company will accept all forms of Purchase Orders or Project Work Orders. 
+36. What credit requirements are needed by the government entity in order for your company to accept a purchase 
+order? 
+37. Identify the process of receiving a purchase order for the ordering of products. 
+38. Identify the process of receiving a purchase order and any billing (including progress payments). 
+39. Does your company require Tax Exempt Formsto be provided by government entities for each purchase order? 
+40. Describe how your company will invoice the government entity.  Include a process map. 
+41. Is your company able to send quotes in electronic format via email including specific information. 
+42. Discuss the invoicing options your company offers and the payment terms for each. 
+43. What is the average time frame associated with receiving an invoice following completion of a repair or 
+replacement?

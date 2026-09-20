@@ -1,0 +1,194 @@
+# source: raw/bleecker_drive/Maryland/2024-Oct-30-Summary.pdf
+# path: raw/bleecker_drive/Maryland/2024-Oct-30-Summary.pdf
+# hit page: 19 of 30
+# terms: Remix Technologies
+
+=== page 18 ===
+Item
+Agency
+Institution
+County
+Vendor, Contractor, Grantee
+Description
+Page 18 of 30
+30-Oct-24
+Hagerstown, Maryland Correctional Institution Women in 
+Jessup, Maryland Correctional Training Center in 
+Hagerstown, Occupational Skills Training Center in 
+Baltimore, and Western Correctional Institution in 
+Cumberland. Term: 11/1/24 - 10/31/27. Amount: 
+$457,973.
+action:
+Approved
+discussion:
+No
+P00B5600016
+Doc. No.
+5-S
+UNINEMFB
+Statewide
+CorVel Enterprise Comp, Inc.
+Services - Uninsured Employers Fund - Worker’s 
+Compensation Third Party Claims Administration 
+Professional Services. Term: 11/1/24 - 10/31/29. Amount: 
+$8,378,800.
+action:
+Approved
+discussion:
+No
+C96B5600001
+Doc. No.
+6-S-OPT
+PS
+Statewide
+Correct Rx Pharmacy Services, Inc.
+Services Option - Pharmacy Services that include 
+pharmaceuticals, delivery, and staff to the inmate 
+facilities - Exercise sole renewal option. Term: 1/1/25 - 
+12/31/26. Amount: $100,000,000.
+action:
+Approved
+discussion:
+No
+COK70885
+Doc. No.
+7-S-MOD
+MDH
+Statewide
+STChealth, LLC
+Services Modification - MyIR Mobile Vaccination Record 
+Services - (1) Extend term to complete the new 
+procurement; and (2) Add a six month renewal option. 
+Term: 11/1/24 - 4/30/25 (w/one 6-month renewal 
+option). Amount: $126,500.
+REV
+=== page 19 ===
+Item
+Agency
+Institution
+County
+Vendor, Contractor, Grantee
+Description
+Page 19 of 30
+30-Oct-24
+action:
+Approved
+discussion:
+No
+M00B3600483
+Doc. No.
+8-IT
+DOT/SHA
+Statewide
+Ledstar Inc.
+Information Technology - Spare parts for two Mark IV 
+Digital Messaging Signs. Term: Anticipated delivery - 
+12/1/24. Amount: $172,246.
+action:
+Approved
+discussion:
+No
+J02P4600118
+Doc. No.
+9-IT-OPT
+DOT/MTA
+Statewide
+Remix Technologies, LLC.
+Information Technology Option - Remix Transit Street 
+License, a web-based transit specific software - Exercise the 
+sole renewal option. Term: 11/1/24 - 10/31/26. Amount: 
+NTE $430,000.
+action:
+Approved
+discussion:
+No
+COK69714
+Doc. No.
+10-IT-MOD
+PS
+Statewide
+Idemia Identity & Security USA 
+LLC
+Information Technology Modification - Annual 
+Maintenance of Livescan Machines and purchase eight 
+replacement machines - Extend contract to complete the 
+new procurement and update list of machines that require 
+service. Term: 11/15/24 - 11/14/25. Amount: $232,922.
+action:
+Approved
+discussion:
+No
+COK70800
+Doc. No.
+11-IT-MOD
+DOT/MTA
+Statewide
+Trapeze Software Group, Inc.
+Information Technology Modification - Software 
+maintenance and support services for routing, 
+timekeeping, and scheduling software - Replace and 
+upgrade current navigation software for the Mobility 
+Ranger system. Term: 10/31/24 - 2/23/27. Amount:
+=== page 20 ===
+Item
+Agency
+Institution
+County
+Vendor, Contractor, Grantee
+Description
+Page 20 of 30
+30-Oct-24
+$198,608.
+action:
+Approved
+discussion:
+No
+COK07899
+Doc. No.
+12-IT-MOD
+MDH
+Statewide
+Ahlers & Associates, Inc.
+Information Technology Modification - Title X Family 
+Planning Program - Data collection and reporting of 
+federal (Department of Health and Human Services) 
+family planning data - Extend term to complete a new 
+procurement. Term: 10/31/24 - 10/31/25. Amount: 
+$125,120.
+action:
+Approved
+discussion:
+No
+COK71152
+Doc. No.
+13-IT-MOD
+MDH
+Statewide
+Revvity Health Science, Inc.
+Information Technology Modification - Maryland Infant 
+Screening Database - Add funds for enhancements. Term: 
+11/1/24 - 1/31/27. Amount: $85,210.
+action:
+Approved
+discussion:
+No
+M00B4600492
+Doc. No.
+14-IT
+DGS
+Various
+..
+Information Technology - Approve six (6) Task 
+Order/Purchase Order contracts under previously 
+approved Master Contracts: (1.0) Consulting and Technical 
+Services Plus (CATS+), (2.0) Commercial Off-the-Shelf 
+Software (COTS) 2012, and (3.0) Hardware/Associated 
+Equipment & Services 2012. Amount: $16,039,905.
+REV
+1.1  Radiant Innovative LLC
+56 resources to support future IT 
+projects including the new voting 
+system procurement and 
+implementation. Term: 1/1/25 - 
+$12,063,860.40
+ELECTLAW

@@ -1,0 +1,145 @@
+# source: raw/bleecker_drive/State of Vermont/VIA_MOBILITY_LLC_-_CONTRACT__PS1018_-_CONTRACT_-_PUBLIC_TRANSIT_CONSULTANT_SERVICES_2023_-_VERMONT.pdf
+# path: raw/bleecker_drive/State of Vermont/VIA_MOBILITY_LLC_-_CONTRACT__PS1018_-_CONTRACT_-_PUBLIC_TRANSIT_CONSULTANT_SERVICES_2023_-_VERMONT.pdf
+# hit page: 31 of 103
+# terms: Via Mobility
+
+=== page 30 ===
+7 | P a g e
+2. For Design/Engineering Professional Services for a Specific Projects:
+a.
+Prime Contractor:
+Where a contract is for design/engineering professional services for a specific project, 
+or, when a contract contains a mixed scope of work that in part consists of tasks of such 
+professional design services for a specific project or projects, then as to, and only as to, 
+those specific professional design services, the provisions of Standard Attachment C 
+on the subjects of “Defense and Indemnity” (numbered item 7 in the December 2017 
+version of Attachment C, and any equivalent provisions, however numbered, in any 
+subsequently-issued Attachment C) are stricken in their entirety and replaced in full by 
+the following:
+The Party shall defend the State and its officers and employees against all claims or 
+suits arising in whole or in part from any act or omission of the Party or of any agent 
+of the Party in providing “non-professional services” under this Agreement. As used 
+herein, “non-professional services” means services provided under this Agreement 
+other than professional services relating to the design and/or engineering of all or part 
+of the project. The State shall notify the Party in the event of any such claim or suit 
+covered by this Subsection, and the Party shall immediately retain counsel and 
+otherwise provide a complete defense against the entire claim or suit arising out of 
+“non-professional services” provided under this Agreement.
+Notwithstanding anything to the contrary set forth in Subsection C above, the Party 
+shall not be obligated to defend the State and its officers and employees against claims 
+or suits arising from the Party’s provision of engineering design services or 
+architectural design services. However, the Party’s obligation to defend the State and 
+its officers and employees against all claims or suits arising out of “non-professional 
+services” provided under this Agreement as provided in Subsection C above and the 
+Party’s other obligations under Attachment C shall remain in effect.
+The Party agrees to indemnify and hold the State, its officers and employees, harmless 
+from and against monetary damages to third parties, together with reasonable costs, 
+expenses and attorney’s fees incurred and paid by the State in defending claims by third 
+parties (collectively “Damages”) but only in the event and to the extent such Damages 
+are incurred and paid by the State as the proximate cause of negligent acts, errors or 
+omissions (“Professional Negligence”) by the Party, its employees, agents, consultants 
+and subcontractors, in providing the professional services required under this 
+Agreement.
+As used herein, “Professional Negligence” or “negligent acts, errors or omissions” 
+means a failure by the Party to exercise that degree of skill and care ordinarily 
+possessed by a reasonably prudent design professional practicing in the same or similar 
+locality providing such services under like or similar conditions and circumstances.
+The Party shall indemnify the State and its officers and employees in the event that the 
+State, its officers or employees become legally obligated to pay any damages or losses 
+PS1018 - Public Transit Consultant Services 2023
+                                    Via Mobility LLC
+Page 29 of 82
+=== page 31 ===
+8 | P a g e
+arising from any act or omission of the Party arising from the provision of “non-
+professional services” (as defined herein) under this Agreement.
+The Party shall not be obligated to indemnify the State for any Damages incurred by 
+the State attributable to the State’s own negligent acts, errors or omissions or the 
+negligent acts, errors or omissions of its officers, agents or employees, or the acts, 
+errors, omissions or breach of Agreement by persons or entities other than the Party, 
+its employees, agents, consultants and subcontractors.
+After a final judgment or settlement, the Party may request recoupment of specific 
+defense costs and may file suit in Washington Superior Court requesting recoupment. 
+The Party shall be entitled to recoup costs only upon a showing that such costs were 
+entirely unrelated to the defense of any claim arising from an act or omission of the 
+Party.
+b. Subcontractors: 
+As to subcontractors working under a prime contractor and where the subcontractors 
+are providing such professional design services for a specific project, the prime 
+contractor will include the same design-specific provisions as defined in Section 
+B(2)(a) above in the prime contractor’s own contracts with subcontractors. 
+Subcontractors must do the same for their sub-subcontractors.
+C. GENERAL COMPLIANCE WITH LAWS; RESPONSIBILITY FOR 
+VIOLATION
+1. The contractor shall observe and comply with all applicable federal, state, and municipal 
+laws, bylaws, ordinances, and regulations in any manner affecting the conduct of the work 
+and the action or operation of those engaged in the work, including all such orders or decrees 
+as exist at present and those which may be enacted, adopted, or issued later, during the 
+course of the work, by bodies or tribunals having any jurisdiction or authority over the work; 
+and the contractor shall defend, indemnify and save harmless the State, any affected 
+railroad(s), and any affected municipality(ies), and all their officers, agents, and employees 
+against any claim or liability arising from or based on the violation of any such law, bylaws 
+ordinances, regulations, order, or decree, whether by the contractor in person, its 
+employee(s), or by the contractor’s subcontractor(s) or agent(s), or employee(s) or agents 
+thereof.
+2. If the contractor discovers any provision(s) in the contract contrary to or inconsistent with 
+any law, ordinance, regulation, order, or decree, the contractor shall immediately report it to 
+the Project Manager in writing.
+D. COMPLIANCE WITH DESIGN SPECIFICATIONS, STANDARDS, 
+MANUALS, GUIDELINES, DIRECTIVES, AND POLICIES
+The contractor shall comply with all applicable statutes, regulations, ordinances, specifications, 
+manuals, standards, guidelines, policies, directives, and any other requirements related to the 
+PS1018 - Public Transit Consultant Services 2023
+                                    Via Mobility LLC
+Page 30 of 82
+=== page 32 ===
+9 | P a g e
+contract.  In case of any conflict with the items referenced above, the contractor is responsible to 
+ascertain and follow the direction provided by the State.
+E. SEVERABILITY 
+Provisions of the contract shall be interpreted and implemented in a manner consistent with each 
+other and using procedures that will achieve the intent of both parties. If for any reason a provision 
+in the contract is unenforceable or invalid, VTrans, in its sole discretion may sever that provision 
+from the contract, and the remaining provisions shall have the same force and effect as if the 
+severed provisions had never been a part of the contract.
+F. PROMPT PAYMENT
+1. The contractor, by accepting and signing the contract, agrees to fully comply with the 
+provisions of 9 V.S.A. §§ 4001-4009, also referred to as Act No. 74 of 1991 or the Prompt 
+Payment Act, as amended. Compliance with this clause also satisfied the requirements of 46 
+CFR § 26.29. applicable to Federally funded contracts.  
+2. In accordance with 9 V.S.A. Section 4003, notwithstanding any contrary contract provision, 
+payments shall be made within seven days from receipt of a corresponding final or 
+progress payment by the State to the contractor, or seven days after receipt of a 
+subcontractor’s invoice, whichever is later. Failure to comply constitutes violation of this 
+contract.
+3. On all federal-aid and state funded contracts, the contractor, during the life of the contract 
+and on a monthly basis, shall submit electronically a listing of payments to subcontractors 
+on 
+the 
+form 
+specified 
+by 
+the 
+State 
+and 
+made 
+available 
+at:  
+http://apps.vtrans.vermont.gov/consultants/. Electronic reports shall be filed with VTrans 
+Office of Civil Rights by an authorized representative and received in the VTrans Office of 
+Civil Rights on or before the tenth working day after month end. Contractors without access 
+to the internet shall obtain and submit manual reports to the VTrans Office of Civil Rights. 
+Manual reports shall be signed by an authorized representative, sent to the VTrans Office of 
+Civil Rights, and postmarked on or before the tenth working day after month end. There 
+shall be no direct compensation allowed the contractor for this work, but the cost thereof shall 
+be included in the general cost of the work.
+4. Violations shall be reported to the VTrans Office of Civil Rights for review. Failure to 
+resolve disputes in a timely manner will result in a complaint made to the VTrans Chief of 
+Contract Administration. In the Agency’s judgment, appropriate penalties may be invoked for 
+failure to comply with this specification. Penalties may include debarment or suspension of 
+the ability to submit proposals.
+5. This section shall be included in the prime contractor’s contract made with all of its 
+subcontractors.
+PS1018 - Public Transit Consultant Services 2023
+                                    Via Mobility LLC
+Page 31 of 82

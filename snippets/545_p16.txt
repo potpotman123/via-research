@@ -1,0 +1,172 @@
+# source: raw/bleecker_drive/City of West Sacramento/2023.06.07_-_City_Council_-_Amendment_No._5_to_NoMad_Transit_LLC_Contract.pdf
+# path: raw/bleecker_drive/City of West Sacramento/2023.06.07_-_City_Council_-_Amendment_No._5_to_NoMad_Transit_LLC_Contract.pdf
+# hit page: 16 of 63
+# terms: NoMad Transit, Via Transportation, Via+drivers, Via+fleet, Via+turnkey, Via+vehicles
+
+=== page 15 ===
+Triennial Performance Audit of Via Rideshare - West Sacramento – FYs 2019–2021 
+ 
+ 
+Michael Baker International - 1
+ 
+  
+ 
+Section I 
+ 
+Introduction 
+ 
+California’s Transportation Development Act (TDA) requires that a triennial performance audit be 
+conducted of public transit entities and transit service claimants that receive TDA revenues. The 
+performance audit serves to ensure accountability in the use of public transportation revenue.  
+ 
+The Sacramento Area Council of Governments (SACOG) engaged the Michael Baker International 
+audit team (Michael Baker) to conduct the TDA triennial performance audit of the nine public 
+transit operators and transit service claimants under its jurisdiction. This performance audit is 
+conducted for Via Rideshare in West Sacramento (City, West Sacramento, or Via) covering the 
+most recent triennial period, fiscal years 2018–19 through 2020–21.   
+ 
+The purpose of the performance audit is to evaluate Via Rideshare’s effectiveness and efficiency 
+in its use of TDA funds to provide public transportation in its service area. This evaluation is 
+required as a condition for continued receipt of these funds for public transportation purposes. In 
+addition, the audit evaluates Via Rideshare’s compliance with the conditions specified in the 
+California Public Utilities Code (PUC). This task involves ascertaining whether Via Rideshare is 
+meeting the PUC’s reporting requirements. Moreover, the audit includes calculations of transit 
+service performance indicators and a detailed review of the transit administrative functions. From 
+the analysis that has been undertaken, a set of recommendations has been made which is 
+intended to improve the performance of transit operations. 
+ 
+In summary, this TDA audit affords the opportunity for an independent, constructive, and 
+objective evaluation of the organization and its operations that otherwise might not be available. 
+The methodology for the audit included in-person and virtual interviews with management and 
+the contract operator, collection and review of agency documents, data analysis, and on-site 
+observations. The Performance Audit Guidebook for Transit Operators and Regional 
+Transportation Planning Entities, published by the California Department of Transportation 
+(Caltrans), was used to guide in the development and conduct of the audit.   
+ 
+Overview of the Transit System 
+ 
+Originally founded in 2012, Via Transportation is a transportation services technology provider 
+primarily focused on delivering on-demand and pre-scheduled shared rides, optimizing fixed 
+routes, and providing multimodal and intermodal transit technology. Via's algorithm matches 
+multiple passengers heading in the same direction and books them into a single vehicle. Shared 
+rides are usually from corner-to-corner to streamline vehicle routes, requiring passengers to walk 
+to a nearby pickup point, indicated on the app. Via primarily operates in partnership with a local 
+transit authority, government entity, university, school district, taxi fleet, or private organization. 
+The operational partnerships use Via's technology, but allow organizations to use their own
+=== page 16 ===
+Triennial Performance Audit of Via Rideshare - West Sacramento – FYs 2019–2021 
+ 
+ 
+Michael Baker International - 2
+ 
+  
+vehicle fleets, supply their own drivers, and provide their own live service staff. Partners may also 
+choose to have Via supply these resources, including full vehicle and operational management. 
+Those who opt for a turnkey solution run by Via, this is in partnership with 3rd party vehicle 
+partners and independent contracters. 
+ 
+In 2018, the City of West Sacramento launched the Via program as a one-year pilot, following 
+robust Transportation, Mobility, and Infrastructure (TMI) Commission and City Council 
+engagement dating back to June 2016. Following a competitive procurement, the City selected 
+NoMad Transit LLC, a wholly owned subsidiary of Via Transportation Inc., to pilot a shared, on-
+demand transportation service with flexible stops, schedules, and fleet supply. While primary 
+goals of the program included enhanced mobility, increased pooled rides, and improved quality 
+of life, the concept of right-sizing vehicles and making the supply of service demand-responsive 
+was also designed to capture cost efficiencies by regularly adapting the amount of service based 
+on historical and projected ridership trends. 
+ 
+West Sacramento is the third largest city of the four incorporated cities in Yolo County. The city 
+lies directly adjacent to the City of Sacramento, separated by the Sacramento River. The city has 
+a total land area of 21.43 square miles. Originally a collection of various fishing and farming 
+communities cumulatively known as “East Yolo,” the communities officially incorporated as the 
+City of West Sacramento in 1987. Based on the 2020 US Census, the city’s population was 53,915. 
+Based on the 2020 ACS 5-Year Estimate Data, 5,932 or 11.1 percent of the city’s population was 
+age 65 or older. The 2022 population is estimated to be 52,837 as reported by the California 
+Department of Finance. 
+ 
+System Characteristics 
+ 
+Via Rideshare is a rideshare service, allowing residents to catch a ride anywhere in the City of West 
+Sacramento for an affordable, flat fare. Passengers can book a ride using the free Via app. 
+Customers enter their pickup and drop-off locations and a vehicle will pick them up at their 
+doorstep or within a block or two. Those who don't have a smartphone or tablet can book a ride 
+by phone. 
+ 
+Customers are able to view estimated wait times when they enter their pickup and drop-off 
+locations in the Via app (or over the phone) before approving any payments. Wait times will vary 
+depending on nearby driver availability, but on average a Via van should arrive within 10-15 
+minutes. Riders typically don't wait longer than 30 minutes to be picked up. 
+ 
+Via Rideshare vehicles are wheelchair accessible in accordance with the Americans with 
+Disabilities Act (ADA) of 1990. Customers requiring a wheelchair-accessible vehicle can go to the 
+home page on the Via app and slide the wheelchair accessible button. Passengers making requests 
+by phone should inform the customer service representative. Once the wheelchair accessible 
+button is selected or a customer service representative is informed, an accessible vehicle will be 
+sent each time the rider requests a ride. Via vans have ample space for walkers, canes, or other
+=== page 17 ===
+Triennial Performance Audit of Via Rideshare - West Sacramento – FYs 2019–2021 
+ 
+ 
+Michael Baker International - 3
+ 
+  
+mobility devices to be stored. Riders can simply inform their Via driver should they need assistance 
+loading or unloading the vehicle. 
+ 
+Via Rideshare operates between 6:00 a.m. and 11:00 p.m. Monday through Friday; 9:00 a.m. and 
+11:00 p.m. on Saturdays; and 8:00 a.m. and 8:00 p.m. on Sundays. Service operates year-round 
+including holidays. 
+ 
+Fares 
+ 
+Via Rideshare is a cashless service. Customers pay by a credit, debit, or prepaid credit card, which 
+is entered when they set up an account on the Via app using a smartphone or tablet. Customers 
+who wish to book rides over the phone can call Via at 916-318-5101 to have an account set up. 
+The fare structure is shown in Table I-1.  
+ 
+Table I-1 
+Via Rideshare Fare Schedule 
+Fare Categories 
+Audit Period 
+Regular Fare (one-way trip) 
+$3.50 
+Senior & Disabled Riders 
+$1.75 
+Additional Riders  
+$1.00 
+ViaPass Weekly Pass (up to 4 rides a day) 
+$15.00 
+ViaPass Weekly Pass Senior & Disabled 
+$7.50 
+Source:  City of West Sacramento 
+ 
+People age 62+ or with a qualifying disability may receive a 50 percent discount. To obtain a senior 
+or disabled rider discount, riders must verify their eligibility in person at one of the following City 
+of West Sacramento facilities:  
+ 
+• 
+City Hall Utility Billing (Monday-Friday, 9 a.m.-5 p.m.) 
+• 
+Community Center (Monday-Friday, 9 a.m.-5 p.m.) 
+• 
+Recreation Center (Monday/Wednesday/Friday 9 a.m.-11 a.m., or Tuesday/Thursday  
+6 p.m.-8 p.m., or by appointment 916-617-4770) 
+  
+ For a senior discount, riders must provide at least one of the following forms of documentation: 
+• 
+Valid driver's license, US passport, military ID or DMV issued ID card 
+• 
+Valid Yolobus or SacRT Discount Rider pass with photo ID on the card (Connect Card) 
+• 
+Valid Medicare card  
+• 
+Current senior membership on file at the West Sacramento Recreation Center 
+  
+For a disabled rider discount, riders must provide at least one of the following forms of 
+documentation: 
+• 
+Current Medicare card or a Medicare, SSI, or SSDI award letter 
+• 
+Current DMV issued Disabled Person or Disabled Veteran placard ID 
+• 
+Valid Yolobus or SacRT Discount Rider pass with photo ID on the card (Connect Card)

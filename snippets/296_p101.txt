@@ -1,0 +1,109 @@
+# source: raw/bleecker_drive/0.0 OMNIA Cooperative Agreement/R250802_Via_Transportation_MAD_Redacted_081825_01.pdf
+# path: raw/bleecker_drive/0.0 OMNIA Cooperative Agreement/R250802_Via_Transportation_MAD_Redacted_081825_01.pdf
+# hit page: 101 of 191
+# terms: Via+drivers, Via+fleet, Via+vehicles
+
+=== page 100 ===
+Below, we have included three school and/or business references who have utilized our 
+solutions. These references highlight our experience over the past two years in providing 
+services similar to those requested by Region 4 ESC. We have included case studies on 
+the following pages. 
+Partner 
+Contact and Service Information 
+Proprietary, Confidential, and Trade Secret Information​
+    RFP No. 25-08  |  13
+=== page 101 ===
+ZIPZONE
+Modernizing paratransit and expanding
+on-demand access in an urban area.
+M Ovo
+TRINITY METRO
+Fort Worth, TX
+ADA paratransit, on-demand
+transit, commingled mobility
+110 vehicle fleet
+13
+Days of hands-on
+training
+30K+
+Distinct rider profiles
+W2 + IC
+drivers
+Tailored training unique
+to dedicated and
+overflow models
+MMINIMOVER
+Via Solution
+In 2019, Trinity Metro partnered with Via to launch
+ZIPZONE, one of the nation's fastest-growing and most
+cost-effective microtransit services. A key part of the
+agency's strategy to further reduce operating costs,
+increase efficiency, and improve quality of service
+throughout the city was to offer a fully integrated "smart"
+network, using Via's software to match each trip request
+to the most efficient vehicle, driver, and mode of
+transportation to serve that trip.
+In February 2024, Via was awarded the contract for a
+commingled ADA-paratransit and microtransit solution
+that will leverage a single unified software platform and
+Via's best-in-class dispatch capabilities to drive
+significant cost savings by allowing eligible riders of both
+services to be served by a unified pool of vehicles and
+drivers. Despite a complex operational setup involving
+multiple vendors, extensive stakeholder change
+management, and a robust data migration from Trapeze,
+the service was launched on time in autumn 2024.
+66 Via's integrated transit functionality will
+allow our riders to effortlessly travel
+across their communities, offering three
+advantages: availability, optionality,
+and simplicity.
+— Alicia Walker, Trinity metro
+=== page 102 ===
+MetroConnect
+Fixed-route planning, microtransit,
+autonomous vehicles, and Maas solutions.
+MIAMI-DADE
+COUNTY
+Miami-Dade County, FL
+Microtransit operations
+and fixed-route planning
+50+ vehicles
+3x
+Lower cost per ride than
+replaced fixed route
+917=
+63%
+Of trips connect to a
+fixed-route stop
+11
+Number of microtransit
+zones
+BAKERY
+CONNECT
+Via Solution
+In October 2020, Via partnered with Miami-Dade County
+to launch MetroConnect, an on-demand microtransit
+service that complements the existing transit
+infrastructure and encourages wider transit usage.
+MetroConnect provides shared, wheelchair accessible,
+first-and-last mile rides to and from Metrorail and bus
+stations within the service zones.
+In 2023, the County leveraged Via's Remix planning suite
+to conceptualize, solicit feedback on, and implement the
+Better Bus Network (BBN) - the first redesign of the
+Miami network of bus routes in 40 years. With more than
+130+ routes designed on Via's Remix platform, the County
+continues to improve transit outcomes for residents,
+growing ridership while lowering cost per ride.
+Via and Miami Dade County continue to innovate with the
+launch of autonomous vehicle shuttle service in 2024 and
+the roll out of Citymapper MaaS journey planning
+solutions in early 2025.
+66 It's a service that is very helpful for the
+community and for us who are
+struggling with cash, knowing that the
+city has something for us as well is
+very nice."
+6 6 "This service has helped me save
+thousands on car fares, fees, gas, etc"

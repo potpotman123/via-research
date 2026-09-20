@@ -1,0 +1,453 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/2.0 TIPS Cooperative Agreement/240101_CONTRACT_Technology_Via_Transportation.pdf
+# pages_total: 42; hit_pages: [1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42]; included: [19, 42]
+# context: Bleecker Drive folder: 2.0 TIPS Cooperative Agreement
+
+=== page 19 of 42 ===
+3
+5
+Certification Regarding Entire TIPS Agreement
+Vendor agrees that, if awarded, Vendor's final TIPS Contract will consist of the provisions set forth in the finalized
+TIPS Vendor Agreement, Vendor's responses to these attribute questions, and: (1) The TIPS solicitation document
+resulting in this Agreement; (2) Any addenda or clarifications issued in relation to the TIPS solicitation; (3) All
+solicitation information provided to Vendor by TIPS through the TIPS eBid System; (3) Vendor’s entire proposal
+response to the TIPS solicitation including all accepted required attachments, acknowledged notices and
+certifications, accepted negotiated terms, accepted pricing, accepted responses to questions, and accepted written
+clarifications of Vendor’s proposal, and; any properly included attachments to the TIPS Contract.
+ 
+Does Vendor agree?
+Yes, Vendor agrees
+3
+6
+Minimum Percentage Discount Offered to TIPS Members on all Goods and Services (READ
+CAREFULLY)
+Please read thoroughly and carefully as an error on your response can render your contract award
+unusable. 
+ 
+TIPS Members often turn to TIPS Contracts for ease of use and to receive discounted pricing. 
+ 
+What is the minimum percentage discount that you can offer TIPS Members off of all goods and service
+pricing (whether offered through Pricing Form 1, Pricing Form 2, or in another accepted format) that you
+offer?  Only limited goods/services specifically identified and excluded from this discount in Vendor’s
+original proposal may be excluded from this discount.  
+ 
+Vendor must respond with a percentage from 0%-100%. The percentage discount that you input below will be
+applied to your "Catalog Pricing", as defined in the solicitation, for all TIPS Sales made during the life of the
+contract. You cannot alter this percentage discount once the solicitation legally closes. You will always be required
+to discount every TIPS Sale by the percentage included below with the exception of limited goods/services
+specifically identified and excluded from this discount in Vendor’s original proposal.  If you add goods or services to
+your "Catalog Pricing" during the life of the contract, you will be required to sell those new items with this discount
+applied. 
+ 
+Example: In this example, you enter a 10% minimum percentage discount below.  In year-one of your TIPS
+Contract, your published "Catalog Pricing" (website/store/published pricing) for "Tablet A" is $100 and for "Tablet
+Set-Up Service" is $100.  In this example, you must sell those items under the TIPS Contract at the proposed 10%
+discounted price of: "Tablet A" - $90, "Tablet Set-Up Service" - $90.  In year two of your TIPS Contract, you update
+your "Catalog Pricing" with the market. You add "Tablet B" to your "Catalog Pricing" for $200 and have increased
+the price of "Tablet A" to $110 and the price of "Tablet Set-Up Service" to $110. In this example, after the "Catalog
+Pricing" update, you must still sell those items under the TIPS Contract at the proposed 10% discounted price
+of: "Tablet A" - $99, "Tablet Set-Up Service" - $99, and "Tablet B" - $180.00.
+ 
+With the exception of limited goods/services specifically identified and excluded from this discount in Vendor’s
+original proposal, if you cannot honor the discount on all goods and items now included or which may be added in
+the future with certainty, then you should offer a lesser discount percentage below.
+ 
+What is the minimum percentage discount that you can offer TIPS Members off of all goods and service
+pricing (whether offered through Pricing Form 1, Pricing Form 2, or in another accepted format) that you
+offer? 
+2%
+Vendor: Via Transportation Inc
+240101
+Page 9 of 31 pages
+
+=== page 42 of 42 ===
+7,36&2175$&7BBBBBBBBBBBBBBBBBBBB
+5(48,5('&21),'(17,$/,7<&/$,0)250
+(VENDOR MUST COMPLETE THE FOLLOWING VENDOR INFORMATION)
+Vendor Entity Name: _________________________________________________________________________________________
+Vendor Authorized Signatory Name: _____________________________________________________________________________
+Vendor Authorized Signatory Title: ______________________________________________________________________________
+Vendor Authorized Signatory Email: _____________________________________________________________________________
+Vendor Address: _____________________________________________________________________________________________
+City: _______________________________________________________________ State: ____________ Zip Code: _____________
+Vendor agrees that it is voluntarily providing its data (including but not limited to: Vendor information, Vendor documentation, Vendor’s 
+proposal, Vendor pricing submitted or provided to TIPS, TIPS contract documents, TIPS correspondence, Vendor logos and images, 
+Vendor’s contact information, Vendor’s brochures and commercial information, Vendor’s financial information, Vendor’s 
+certifications, and any other Vendor information or documentation submitted to TIPS by Vendor and its agents) (Hereinafter, “Vendor 
+Data”) to TIPS.  Vendor understands and agrees that TIPS is a government entity subject to public information laws including but not 
+limited to Texas Government Code (TGC) Chapter 552.  Vendor agrees that regardless of confidentiality designations herein, Vendor’s 
+submission of a proposal constitutes Vendor’s consent to the disclosure and release of Vendor’s Data and comprehensive proposal,
+including any information deemed confidential or proprietary herein, to and by TIPS Members.
+Notwithstanding the foregoing permissible release to TIPS Members, if Vendor considers any portion of Vendor’s proposal to be
+otherwise confidential and not subject to public disclosure pursuant to public information laws, including but not limited to TGC Chapter 
+552, Vendor must properly execute Option 1 only below, attach to this PDF all documents and information that Vendor deems 
+confidential, and upload the consolidated documentation.  Regardless of the Option selected below, this form must be completed and 
+uploaded to the “Response Attachments” section of the eBid System entitled “Required Confidentiality Claim Form.” Execution and 
+submission of this form is the sole indicator of whether Vendor considers any Vendor Data confidential in the event TIPS receives a
+request, a Public Information Request, or subpoena.  If TIPS receives a request, any responsive documentation not deemed confidential 
+by you through proper execution of Option 1 of this form will be automatically released. For information deemed confidential by you 
+through proper execution of Option 1 of this form, TIPS will follow procedures of controlling statute(s) regarding withholding that 
+documentation and shall not be liable for any release of information required by law, including Attorney General opinion or court order.
+(VENDOR MUST COMPLETE ONE OF THE TWO OPTIONS AND UPLOAD IN THE EBID SYSTEM)
+237,21±'(6,*1$7,1*&21),'(17,$/
+0$7(5,$/6± <(69(1'25+$6 $77$&+('
+&21),'(17,$/0$7(5,$/6
+(Confirm each bullet point and sign below)
+ Vendor claims some Vendor Data confidential to the extent
+permitted by TGC Chapter 552 and other applicable law.
+ Vendor attached to this PDF all potentially confidential
+Vendor Data and listed the number of attached pages below.
+ Vendor’s authorized signatory has signed below and shall
+upload this document in the proper location in the eBid
+System.
+ Vendor agrees that TIPS shall not be liable for any release of
+confidential information required by law.
+Number of pages attached deemed confidential: ____________
+Authorized Signature: ________________________________
+237,21±:$,9(52)&21),'(17,$/,7<±12
+9(1'25+$6127$77$&+(' &21),'(17,$/
+0$7(5,$/6
+(Confirm each bullet point and sign below)
+By signing for Option 2 below, Vendor expressly waives any 
+confidentiality claim for all Vendor Data submitted in relation 
+to this proposal and resulting contract.  Vendor confirms that 
+TIPS may freely release Vendor Data submitted in relation to 
+this proposal or resulting contract to any requestor.  Vendor 
+agrees that TIPS shall not be responsible or liable for any use 
+or distribution of Vendor Data by TIPS or TIPS Members.
+ Vendor’s authorized signatory has signed below and shall
+upload this document in the proper location in the eBid
+System.
+Vendor agrees that TIPS shall not be liable for any release of
+confidential information required by law.
+Authorized Signature: ________________________________
+City: ________
+__
+____
+____
+____
+______
+______
+___________________________________________ State: ____
+_
+________ 
+_
+Zip Code: ____
+____
+____
+_______
+Vend
+ndor
+or agr
+g ees that it is voluntatataririririlylyly pro
+roviviv did ng
+ng its data a (i(inc
+ncluluding butut noto lim
+imiti ed to: Vendor information, Vendor documentation
+on, Ve
+Ve
+Vend
+nd
+nd
+n or’s 
+proposal, Vendor
+o  pricing sub
+u mitted
+ed
+ed
+ed or r provididid d
+ed to TI
+TI
+TI
+TIPS
+PS
+PS
+PS, TI
+TI
+TIPS
+PS
+PS
+PS con
+on
+ontrtrtrac
+ac
+act do
+d cuments, TIPS correspondence, Vendor logos
+os and ima
+m ge
+g s,s  
+Vend
+ndor
+o ’s contatatatactc  information, Ve
+V
+d
+ndor’s bro
+r chures and com
+omme
+mercial ininininfo
+fo
+form
+r ation, Vendor’s financial information,n, Ven
+e do ’r’r s s
+certifications, and any other Vendor information
+on or documentation subm
+bmititteted toto TIPS by Vendor and its agents) (Hereinafafafafteter, “Vendo
+dor 
+Da
+Datatatatata”) to TIPS.  Vendor understands and agrees that TIPS is a government entntntitititi y subjec
+ec
+ect toto pub
+ub
+ub
+u lil c c information laws
+ws
+ws including bu
+bu
+bu
+but t not 
+lilimited to Texas Government Code (TGC) Chapter 552.  Vendor agr
+gree
+e s s s thththata  regardless of
+of
+of con
+on
+on
+onfifide
+de
+de
+dentntiaiality designa
+natititions herein, Vend
+ndor’s
+su
+submission
+on
+on of f a pr
+prop
+opos
+os
+osalal co
+cons
+ns
+n tititututetes Ve
+Ve
+Vend
+nd
+ndor
+or
+or’s consentntnt to o thththe did sclolololosu
+surerer and
+nd
+nd release of f Vendor’s’s’s’  Data and co
+comp
+mp
+mp
+mp
+m rerehensive pr
+pr
+pr
+prop
+op
+o osal,
+ininincluding g g any informatatatation de
+deem
+emed confifidential or
+or pro
+ropr
+prietary here ein, to and d by
+by TIPS Mem
+em
+em
+e bers.
+No
+N twithstanding the foregoining permisisissisisiblble rererelelel ase toto TIP
+IPS 
+S 
+S Me
+Me
+M mbers, if f Ve
+Vend
+ndor
+or con
+on
+onsiside
+dersr any
+ny por
+ortititition
+on
+on of Vend
+ndor
+o ’s’s propo
+posal to be
+oto herwise confididen
+e tial and nototot subject to public disclos
+o ure pursrsr ua
+uant to publicic inf
+nformation laws, includ
+uding bu
+but t not limited d toto TG
+TGC Chapter
+55
+55
+552,2  Vendor mu
+mu
+m stststst properlrly y y ex
+ex
+exec
+ecutute Op
+Op
+Optitition
+o  1 onlylylyly be
+be
+below,
+w,
+w,
+w,
+w, attttach to this PDF all documents and ininfo
+f rmata ion that Ven
+endor deems 
+co
+confidential, and upload the consolidated documen
+e tation.  Regardless of the Option selected below, this fo
+form must be
+be
+be
+be com
+om
+o pleted and 
+up
+uploaded
+ed
+ed toto the “Response Attachments” section of
+o  the eBid Sy
+Syststem
+em entitled “Required Confidentiality Claim Form.”. Exe
+xecu
+c tion and 
+su
+subm
+bm
+bm
+bm
+bmisissisision
+on
+on
+on of this form is the
+he sole indicator of whether Vendor con
+on
+onsis ders any Vendor Data confidential in the event TIP
+IP
+I S 
+S receives a
+reques
+es
+es
+e t, a Public Information Request, or subpoena.  If TIPS receives a request, any responsive docu
+cu
+cume
+m ntation not deemed con
+o fidential
+by you
+ou thththt rough proper execution of Optit on
+on
+o 1 of f ththisisi for
+orm will be automatically releleas
+ased
+ed
+ed
+ed. Fo
+For ini fo
+formatatioi n n deemed confide
+d ntial by you 
+through pr
+pr
+prop
+op
+o erer execution of Option n 1 of thisi  form, TI
+TIPS
+PS will fo
+folll ow pro
+rocedureres of
+of contrtrolliling
+ng statutet (s) rerer ga
+ga
+g rd
+rdining withholding that 
+documentatatioi n an
+a d shall not be liable for r any release of
+of infor
+ormation required d by law,
+w, including Attttor
+o ney Ge
+General opinininioi n n or court order.
+(VEND
+NDOR
+OR
+O  MUST COMPLETE ONE
+N
+OF 
+F TH
+THE 
+E TWO OP
+OPTIONS S AND UP
+UPLOAD IN 
+N THE EBID
+ID SYS
+YSTE
+T M)
+M
+237,21±'(6,*1$7,1* &21
+21),
+),'(
+' 17
+17,$
+,$/
+0$7(5,$/6± <(69(1'25
+25+$6
+$6 $77
+77
+7 $&+('
+&21),'(17,$/0$7(5,$/6
+(Confirm each bullet point and sign below)
+ Vendor claims some Vendor Data confidential to the extx ent
+permitted by TGC Chapter 552 and other applicable law.
+23
+237,
+7,21
+21
+2 ±:$,
+$,9(
+9(
+9(52)&21),'(
+' 17,$/,7<±12
+9(1'25+$612
+1 7
+7 $77$&+(' &2
+& 1),'(17,$/
+0$7(5,$/6
+(Confirm ea
+each
+ch bullet point and sign below)
+By signing for Option 2 below, Ven
+endo
+do
+d r expr
+pres
+essly waives any 
+confidentiality claim for all Vendor Datatata a su
+su
+su
+submitted in relation
+to this proposal and resulting contract
+Ve
+Vendor confirms that
+240101
+River North Transit, LLC
+Dillon Twombly
+Manager
+procurement@ridewithvia.com
+114 5th Avenue, FL 17
+New York
+NY
+10011
+6
+DocuSign Envelope ID: 91668661-70D7-432A-8385-F96A51CCA0A0

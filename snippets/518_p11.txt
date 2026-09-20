@@ -1,0 +1,90 @@
+# source: raw/bleecker_drive/North Carolina/dot_68241_DS1.pdf
+# path: raw/bleecker_drive/North Carolina/dot_68241_DS1.pdf
+# hit page: 11 of 113
+# terms: Via Transportation, Via+fleet
+
+=== page 10 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+2
+EXECUTIVE SUMMARY
+very positive, with riders noting the ability to access work and healthcare more 
+easily, as well as an easier time accessing public transit.
+Evolution
+Over the course of the demonstration, RIDE began experiencing issues with the 
+length of time it was taking to perform vehicle maintenance, resulting in fewer 
+vehicles in service and increased vehicle downtime. Fewer vehicles in service 
+also increased Estimated Time of Arrival (ETA), decreased quality of service, 
+and decreased ridership. As a result of the length of time it was taking to service 
+vehicles, RIDE introduced a new vehicle provider (Buggy) that expanded access 
+to local vehicle maintenance services, improved vehicle turnaround times, and 
+increased the average weekly number of active vehicles in the fleet. With the 
+addition of Buggy, RIDE service increased from 13 to 27 vehicles. 
+Via also had numerous engagement and outreach campaigns to learn about 
+rider experience with RIDE during the demonstration. Engagement included:
+• Two rider surveys to learn more about the preferences of key rider
+segments and continue to improve the tailoring of the RIDE service.
+• A churned rider campaign to contact riders who have been recently
+inactive.
+• A driver promotion that increased pay rates to incentivize drivers to claim
+shifts that previously had a low driver supply.
+Since the completion of the demonstration, Wilson renewed the contract 
+in September 2022 to continue the service with Via, along with keeping the 
+expanded hours funded by AIM permanently in place. 
+Evaluation
+An independent evaluation was conducted by FTA’s independent evaluation 
+team. The team’s research questions and interviews were intended to measure 
+whether program goals and objectives were met. Results of this evaluation will 
+be published in a separate report.
+During the demonstration, the 5:30–7:00 a.m. weekday expanded hours had 
+10,341 completed rides and the 6:00–7:00 p.m. weekday expanded hours had 
+4,347 completed rides, with a combined total of 14,688 completed rides. The 
+expanded hours represented 11% of all the rides taken (131,057) during the 
+one-year demonstration. Rider feedback highlighted a positive response to 
+the expanded service hours with riders noting the ability to access work and 
+healthcare more easily as well as an easier time accessing public transit.
+=== page 11 ===
+Section 1
+FEDERAL TRANSIT ADMINISTRATION 	
+3
+Introduction
+The City of Wilson is located in eastern North Carolina about an hour from the 
+state capital of Raleigh. Wilson has a population of just under 50,000 residents 
+and is considered rural by census definition. Like many rural areas, Wilson has 
+faced numerous public transportation challenges, including lack of first/last 
+mile service, low population density, infrequent service, unique trip routing, and 
+budget constraints. Transportation issues often ranked as one of the substantial 
+barriers to employment in Wilson and several employers in the city noted 
+concern about transportation options for employees without a vehicle.  
+The city’s original fixed route bus system launched in the 1960s, at a time when 
+the center of employment was in downtown Wilson. Today, much of Wilson’s 
+employment is in corporate and industrial parks located throughout the city 
+and not concentrated in the downtown area. The transit system’s ridership 
+was declining and its service covered approximately 40% of the area within 
+the city limits. In recent years, the fixed route system primarily connected 
+people to retail, government, and medical services. While the lack of service to 
+employment centers was concerning, additional budget to increase coverage 
+and frequency was out of reach. 
+Wilson had been studying fixed route transit alternatives for several years 
+and came upon microtransit as a potential option. After discussions with 
+the City Council and press coverage in the local paper, the city decided to 
+do a microtransit pilot but kept a fleet of six buses in case the pilot was not 
+successful, and the city needed to reimplement a fixed route system. 
+On September 1, 2020, the City of Wilson, in coordination with the North 
+Carolina Department of Transportation (NCDOT), awarded a contract to Via 
+Transportation, Inc. (Via), to be the third-party microtransit provider for the 
+replacement of Wilson’s existing fixed route transit system, which only covered 
+a portion of the city with limited frequencies, resulting in long wait times. This 
+new partnership launched the RIDE service, which aimed to greatly expand 
+service coverage and reduce wait times for public transit riders. RIDE also 
+aimed to be more convenient and responsive than the fixed route system as 
+riders could request a trip at any time during hours of operation. A RIDE vehicle 
+would meet the rider at a nearby pickup location and transport them to their 
+destination. Figure 1-1 shows the previous fixed route system map within the 
+city limits, covering only 40% of the municipal limits and operating six fixed 
+routes. Figure 1-2 shows the expanded RIDE service area.
+=== page 12 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+4
+SECTION  |  1 
+Figure 1-1  Previous fixed route system service area
+Figure 1-2  Map of RIDE service area

@@ -1,0 +1,108 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Fresno/24_1308_List_of_Proposers.pdf
+# pages_total: 6; hit_pages: [1, 5, 6]; included: [1, 5, 6]
+# context: Bleecker Drive folder: Fresno
+
+=== page 1 of 6 ===
+LISTING OF PROPOSERS 
+Page 1 
+FOR: REQUIREMENTS CONTRACT REQUEST FOR PROPOSALS FOR CLOUD BASED 
+TRANSIT PLANNING SOFTWARE 
+PROPOSERS 
+(In alphabetical order) 
+1. Optibus Inc.
+310 Southwest 4th Avenue 
+Suite 1100
+Portland, OR 97204
+2. Podaris Limited
+228 Park Avenue S.
+New York, NY 10003-1502
+3. Schedule Masters, Inc.
+7 Coronation Circle Brampton, 
+Ontario
+Canada L6Z 3Z7
+4. Trapeze Software Group, Inc. 
+dba Trapeze
+5265 Rockwell Dr. NE Cedar 
+Rapids, IA 52402
+5. Via Mobility LLC dba
+Remix Technologies
+114 5th Avenue, FL 17
+New York, NY 10011
+RFP No. 12402788 
+RFP Opening: 8/6/2024 
+TOTAL PROPOSAL AMOUNT 
+$294,615.00 
+$218,000.00 
+$60,000.00 
+$593,076.00 
+$197,000.00 
+Each proposer has agreed to allow the City one hundred and twenty (120) days from date 
+proposals were opened to accept or reject their proposal. 
+• 
+DEPARTMENT CONCLUSIONS AND RECOMMENDATION: 
+LX_]Award a contract in the amount of$ 197,000.00 _____ _ 
+to Via Mobility LLC aka Remix Technologies ______ _ 
+in accordance with the Selection Committee recommendation. 
+LJ Reject all proposals. Reason: 
+Remarks: 
+RC RFP Evaluation Form - DBE 
+Rev. 02-2024 
+Docusign Envelope ID: DF890153-4DEF-496F-A2CA-66EE3A9DECE8
+Docusign Envelope ID: 00832ADB-D413-4E0B-B515-D0689287D222
+
+=== page 5 of 6 ===
+COMMITTEE NOTES 
+Remix Technologies –  
+• Meets all the FAX requirements 
+• Current provider of the service 
+• Jane and Network Jane are excellent features for evaluating service area 
+• Multi-user editing 
+• Well written proposal 
+• Turnkey product with no additional resources needed 
+• Best value for the price 
+ 
+Trapeze Software Group -  
+• New product for Trapeze.   
+• Lacks desired features. 
+• Proposed software is not in use anywhere 
+• Inability to share maps 
+• Inability to shift trips based on trip times 
+• Inability to export to Excel 
+• Highest price for an inferior product 
+ 
+Podaris Limited –  
+• Training on-site is an additional fee ($8,000) 
+• References are from 2 consulting firms in the US and the only transit agency 
+using the product is in Ireland 
+• Excellent training and follow-up plan  
+• Well written proposal 
+ 
+Schedule Masters –  
+• Experience is with small operators with less than 1 million passenger trips (FAX 
+9.6 million) 
+• Proposal not clear about their abilities and do not fully address the requirements 
+• Insufficient details 
+• Low proposal 
+ 
+Optibus -  
+• Exceptions to Indemnification and General Conditions 
+• Data is hosted in Ireland with backup in the European Union. (CoF IT requires 
+hosting in the US) 
+• Optibus offers multiple modules, similar to our current provider Trapeze, but is 
+only proposing the Planning Module 
+• Machine learning run times, utilizing real times, historic times (if available) and 
+car travel times from Google Maps
+Docusign Envelope ID: DF890153-4DEF-496F-A2CA-66EE3A9DECE8
+Docusign Envelope ID: 00832ADB-D413-4E0B-B515-D0689287D222
+
+=== page 6 of 6 ===
+SUMMARY RECOMMENDATION 
+The City received five (5) responses to the solicitation. After independent evaluation of 
+the proposals, using the evaluation criteria noted above, the evaluation committee 
+unanimously determined that the most qualified, responsible, and responsive proposer 
+was Remix Technologies. Remix Technologies is a proven vendor with extensive 
+experience in transit planning software and has been the service provider for FAX since 
+2018. 
+Docusign Envelope ID: DF890153-4DEF-496F-A2CA-66EE3A9DECE8
+Docusign Envelope ID: 00832ADB-D413-4E0B-B515-D0689287D222

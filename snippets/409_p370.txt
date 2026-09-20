@@ -1,0 +1,59 @@
+# source: raw/bleecker_drive/Utah Transit Authority/Utah Transit Authority.pdf
+# path: raw/bleecker_drive/Utah Transit Authority/Utah Transit Authority.pdf
+# hit page: 370 of 469
+# terms: Via+fleet, Via+vehicles
+
+=== page 369 ===
+Docusign Envelope ID: 670A3F1E-632B-4725-85A8-4B343BEA1FEB
+Appendix A
+UTA On Demand by Via - West Provo
+Deployment Service Area
+jer
+Provo
+Provo Municipa
+Airport
+Provo River
+Provo
+369
+=== page 370 ===
+Docusign Envelope ID: 670A3F1E-632B-4725-85A8-4B343BEA1FEB
+Appendix B:
+Deployment Parameters
+The Parties agree to the following Deployment Parameters. Upon mutual agreement, the Parties
+may agree to subsequent modifications of these Parameters during the term of this Agreement.
+• Deployment Service Zone: Approximately 8.8 square miles coverage zone in West Provo,
+Utah.
+• Service Days/Hours: The Deployment's operating hours shall be Monday through
+Saturday, 6:00am to 9:00pm in West Provo.
+• Vehicle Fleet: For West Provo, Via's Vehicle Partner will offer a fleet of up to seven (7)
+branded, licensed, and insured vehicles, all of which will be Americans with Disabilities
+Act (ADA)-compliant Wheelchair Accessible Vehicles (WAV), to be made available to
+independent contractor Driver Partners, who will be able to gain access to these vehicles
+after being registered onto the Platform. Of the seven total vehicles, two (2) vehicles shall
+be treated by Via as spares in the event that a regular service vehicle requires maintenance
+or replacement. Fleet size and composition of WAVs and non-WAVs may be adjusted
+based upon mutual agreement of the Parties as the service grows in 2026.
+3
+370
+=== page 371 ===
+Docusign Envelope ID: 670A3F1E-632B-4725-85A8-4B343BEA1FEB
+Appendix C:
+Service Fees
+The table below outlines the payment structure, in which UTA would be charged a price per driver
+hour. Any new regulatory fees imposed by a governmental entity related to the service will be
+charged as a pass-through cost contingent on UTA advance agreement provided such agreement
+will not be unreasonably withheld. UTA will have the option of decreasing other services or
+expenses in order to off-set these additional fees. The Deployment shall include a fleet of vehicles
+as described in Appendix B, subject to extension by mutual agreement of the parties on terms to
+be agreed (including any change in fees). The total contract value shall not exceed that listed in
+this Appendix C, "Not-to-Exceed Fees," of $2,898,286 for the 20-month duration of this Service
+Order (through December 31, 2026). The parties agree that the budget outlined in Service Order 8
+for the Deployment in West Provo and the budget outlined in Service Order 5 for the Deployment
+in South Salt Lake and South Davis Counties can be shared, such that excess budget in either
+service order can be deployed towards the other. The Parties further agree that shifting budget from
+one service area or order to another may require a service order modification or change order if
+the approved Not-To-Exceed amount for a service order is affected.
+Via will separately invoice UTA for marketing expenses incurred and as authorized by UTA under
+Section 8 of the Service Order. Via will charge its standard labor rate of $150.00 per hour for
+4
+371

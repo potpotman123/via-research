@@ -1,0 +1,121 @@
+# source: raw/bleecker_drive/Milwaukee/25-26 JULY REPORT (received 061825).pdf
+# path: raw/bleecker_drive/Milwaukee/25-26 JULY REPORT (received 061825).pdf
+# hit page: 1 of 6
+# terms: Tidewater Transit
+
+=== page 1 ===
+25-26 
+COUNTY OF MILWAUKEE 
+Inter-office Communication 
+ 
+DATE: 
+6/18/2025 
+ 
+TO: 
+Marcelia Nicholson, Chairwoman, Milwaukee County Board of Supervisors  
+ 
+FROM: 
+Donna Brown-Martin, Director, Department of Transportation 
+ 
+Julie Esch, Interim President & CEO, Milwaukee County Transit System 
+ 
+SUBJECT: 
+From the Director, Department of Transportation and the Interim President 
+and CEO, Milwaukee County Transit System, providing an informational 
+report regarding transit/paratransit-related matters responsive to or within 
+the 2025 Adopted Budget. 
+ 
+FILE TYPE: Reference File Report 
+ 
+ 
+REQUEST 
+This report provides information on the Transit Plus Same Day Pilot Program 
+ 
+BACKGROUND 
+The Milwaukee County Transit System (MCTS) paratransit program, known as Transit 
+Plus, provides transportation for persons with disabilities whose disability prevents them 
+from using the fixed route bus system for some or all of their trips. The primary 
+responsibility of the Transit Plus office is to administer the federally required ADA 
+paratransit program.  In addition, Transit Plus also administers the Same Day Pilot 
+program. 
+ 
+The Transit Plus Same Day Pilot was developed in collaboration with the Paratransit 
+Taxi Task Force to provide same day trips for persons with disabilities that could not 
+have been scheduled the day before and thus could not have been scheduled on the 
+existing paratransit vans.   
+ 
+MCTS Service began on the Transit Plus Same Day Pilot at the end of August 2024 and 
+is provided under contract with Tidewater Transit, dba Via. Service is provided using 
+wheelchair accessible minivans which can transport a maximum of four ambulatory 
+riders or one ambulatory rider and one wheelchair user at a time. Contract terms are 
+currently being updated to provide service through December 2025 or until budgeted 
+funds are expired. 
+ 
+TRIP PURPOSE 
+ 
+The original parameters for the program limited trip purpose to trips for health/medical 
+or employment purposes only. Some examples of the use cases under this umbrella 
+included a same day trip to urgent care, going to pick up a sick child, or being called into
+=== page 2 ===
+work.  Ridership under the original parameters was very low.  As of March 3, 2025, 
+program parameters were expanded to make better use of vehicle service hours that 
+were already on the road.  All Transit Plus clients are automatically enrolled in the 
+program and clients can now use the service for a wide variety of trip purposes as long 
+as the trip could not have been scheduled the day before. 
+ 
+Since this change in trip parameters the number of trips for medical and employment 
+purposes has remained flat while the “other” category of trips has grown exponentially.  
+This indicates that while there are more unique riders on the program, most are using 
+this service for reasons other than the original program purposes. 
+ 
+After evaluating trip origins and destinations, no clear-cut patterns can be determined 
+due to the limited amount of trip data.  If ridership continues to grow, patterns of high 
+demand will become more evident. 
+ 
+RIDERSHIP 
+ 
+Ridership during the first six months of the program was extremely low, providing less 
+than 30 rides per month.  Since the change in program parameters in March, ridership 
+has been increasing dramatically.  The monthly number of trips each rider can take is 
+capped in an effort to manage demand.  This cap was reduced from eight one-way trips 
+per month to six, in March to make sure the expanded program did not grow unchecked 
+and as a result exceed the available vehicle hours or program funds. 
+ 
+Month/ Year 
+Client Trips 
+Total Riders 
+Sep-24 
+10 
+10 
+Oct-24 
+10 
+12 
+Nov-24 
+22 
+25 
+Dec-24 
+29 
+35 
+Jan-25 
+24 
+29 
+Feb-25 
+30 
+46 
+Mar-25* 
+88 
+112 
+Apr-25 
+151 
+179 
+May-25 
+272 
+327 
+*Program parameters expanded beyond employment and healthcare.  All Transit Plus riders enrolled. 
+Employment , 9%
+Medical, 28%
+Other, 63%
+Trip Purpose By Pecentage
+Employment
+Medical
+Other

@@ -1,0 +1,74 @@
+# source_url: https://legistar.granicus.com/santarosa/attachments/b373d938-0267-44cb-95b6-bb5bc90f6a16.pdf
+# path: raw/cache/8f9285537e66997817f9e3334503fab394a23998.pdf
+# pages_total: 55; hit_pages: [6]; included: [6]
+# context: legistar client=santa-rosa; matter 25-0030 (2024-12-16): RESOLUTION - AGREEMENT WITH REMIX TECHNOLOGIES LLC FOR TRANSIT SCHEDULING AND PLANNING SOFTWARE    RECOMMENDATION: It is recommended by the Transportation and Public Works Department that the Council, by resolution, approve a Professional Services Agreement with Remix Technologies LLC, a Delaware Li
+
+=== page 6 of 55 ===
+Proposal Submission Guidelines 
+Vendors shall submit Proposals shall be submitted electronically via PlanetBids ONLY.  
+Vendors should have a fully functioning scheduling platform. Companies should not submit proposals for 
+products that are in beta or are not fully functional at the time the proposals are due. Bidders should 
+also not submit content for products outside the scope of this RFP. 
+The cost proposal should reﬂect costs for a ﬁve (5) year term with two (2) option years. Bidders should 
+price each year separately and indicate their pricing methodology e.g. total ﬂeet size, active ﬂeet, staﬀ 
+size, etc. If the product being proposed is modular in nature, please indicate the costs for each module 
+summing to a total cost for each year of the contract. Cost proposals should be formatted with line items 
+for each contract year and for each agency. Example below:  
+Year 1 
+Year 2 
+Year 3 
+Year 4 
+Year 5 
+Year 6 
+Year 7 
+Annual Software 
+(Modules broken out) 
+  
+  
+  
+  
+  
+  
+  
+Annual Maintenance, 
+Hosting, and Support 
+  
+  
+  
+  
+  
+  
+  
+Training (Year 1 
+should have a fixed 
+price for onboarding 
+training with 
+following years as an 
+hourly rate for 
+refresher training) 
+  
+  
+  
+  
+  
+  
+  
+ 
+Evaluation Criteria 
+Proposals will be evaluated based on compliance with technical requirements, implementation approach 
+and expertise, and reasonableness of total price. The weighting for each score is as such: 
+• 
+Compliance with technical requirements – 50% 
+• 
+Implementation Approach and Expertise – 30% 
+• 
+Reasonableness of Total Price – 20%  
+AGENCIES will select the top three scoring bidders to move forward into a practical demonstration 
+round. Bidders will be expected to demonstrate the full functionality of their product from the beginning 
+to the end of the scheduling process. 
+ 
+Terms and Conditions 
+The City of Santa Rosa and City of Petaluma will enter into separate contracts with the awarded 
+proposer. 
+ 
+City of Santa Rosa

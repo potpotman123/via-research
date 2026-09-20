@@ -1,0 +1,74 @@
+# source: raw/bleecker_drive/Metropolitan Council/0122_2025_7.pdf
+# path: raw/bleecker_drive/Metropolitan Council/0122_2025_7.pdf
+# hit page: 1 of 3
+# terms: Remix Technologies
+
+=== page 1 ===
+1 
+M e t r o p o l i t a n  C o u n c i l   
+Committee Report 
+Transportation Committee 
+Committee Meeting Date: January 13, 2025 
+For the Metropolitan Council: January 22, 2025
+Business Item: 2025-7 
+Contract Amendment Authorization, Contract 23M006 – Transit Planning Software 
+Proposed Action 
+That the Metropolitan Council authorize the Regional Administrator to execute Contract 
+Amendment Authorization (CAA) #2 for Contract 23M006 with Remix Technologies LLC for transit 
+planning tools (Transit, Streets, and On-demand Planning) for a term no longer than three months, 
+in the amount not to exceed $65,625. 
+Summary of Transportation Committee Discussion/Questions 
+Metro Transit Business Systems Manager Shaun Morrell presented this item. There were no 
+questions or comments from Council members.  
+It was moved by Carter, Toni, seconded by Pacheco. Motion carried, consent to Council.
+=== page 2 ===
+1 
+M e t r o p o l i t a n  C o u n c i l   
+Business Item 
+Transportation Committee 
+Committee Meeting Date: January 13, 2025 
+For the Metropolitan Council: January 22, 2025 
+Business Item: 2025-7 
+Contract Amendment Authorization, Contract 23M006 - Transit Planning Software
+District(s), Member(s):  
+All Districts 
+Policy/Legal Reference: 
+FM 14-2 Expenditures for Procurement of Goods, Services, and Real 
+Estate Policy 
+Staff Prepared/Presented: 
+Lesley Kandaras, General Manager, 612-349-7513  
+ 
+ 
+ 
+ 
+Adam Harrington, Director Service Development, 612-349-7797 
+ 
+ 
+ 
+ 
+Shaun Morrell, Manager, System Support, 612-349-7706 
+Division/Department:  
+Metro Transit / Service Development 
+Proposed Action 
+That the Metropolitan Council authorize the Regional Administrator to execute Contract 
+Amendment Authorization (CAA) #2 for Contract 23M006 with Remix Technologies LLC for transit 
+planning tools (Transit, Streets, and On-demand Planning) for a term no longer than three months, 
+in the amount not to exceed $65,625. 
+Background  
+In 2019, the Council executed 19M025, a 2-year SAAS (software as a service) contract with Remix. 
+The agreement included two products: 1) Transit, a map-based bus route planner and 2) Streets, 
+a map-based street design platform for creating and enhancing road features and facilities. 
+The use of these services grew significantly and in 2021 a two-year renewal for the same products 
+was approved with a new Contract 21M006. The same vendor began operating under the name 
+Remix Technologies LLC after being purchased by Via Transportation. 
+Metro Transit’s internal Remix user base continued to expand and in 2023 a second contract 
+renewal was executed as a new Contract 23M006 with an expiration date of 3/31/2025. This 
+contract was later amended to add a third feature to the Remix portfolio. This product, called On-
+Demand Planning (OdP), is helping the agency grow its micro transit services. 
+Procurement and Service Development are currently advancing a Request for Proposal (RFP) to 
+procure similar transit planning tools through an open and competitive process. Proposals were due 
+on 12/30/2024. Given the time constraints and RFP schedule, we need to extend the current 
+contract to ensure continuity of service until the next contract is awarded. Therefore, we are 
+requesting authorization for a three-month extension with Remix, through 6/30/2025. 
+Without an amendment, delays in work could be expected for bus network analysis for Network 
+Now, transit advantage planning, and micro transit service planning.

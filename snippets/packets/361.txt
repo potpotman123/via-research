@@ -1,0 +1,295 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Lake County/21-0450.pdf
+# pages_total: 75; hit_pages: [1, 6, 7, 9, 28, 29, 30, 35, 36]; included: [1, 6, 7, 9, 28, 29, 30, 35]
+# context: Bleecker Drive folder: Lake County
+
+=== page 1 of 75 ===
+DocuSign Envelope ID: 41500079-9022-478D-A994-BCD35DE0510E
+M remix
+Remix Proposal for LakeXpress
+For: Jill Brown, Transit Director
+Date: March 12, 2021
+By: Remix Technologies, LLC
+Alyssa Overheul
+
+=== page 6 of 75 ===
+DocuSign Envelope ID: 41500079-9022-478D-A994-BCD35DE0510E
+This Services Agreement ("Agreement") is entered into between Remix Technologies, LLC., a subsidiary of Via
+Transportation, Inc. ("Company"), and LakeXpress ("Customer") and will become effective when it is executed by
+authorized representatives of both parties (the "Effective Date").
+Scope of Services & Terms
+Prepared for Jill Brown, LakeXpress. By Alyssa Overheul, Remix (alyssa.overheul@remix.com). Date:
+March 12, 2021
+Effective Date
+June 15, 2021
+Commitment Term
+3 years
+Remix Transit +
+Explore Planning
+License
+Remix Transit
+Scheduling License
+Implementation
+Fee
+$12,000 USD per year, based on a total fixed route fleet of 16, (10 in operation)
+• Access to Transit Planning platform
+• Remix licenses for an unlimited number of users within LakeXpress
+• Enhanced data visualization and analysis
+• Software as a Service (SaaS): fully hosted, cloud-based web platform
+• Dedicated Customer Success staff; Premium Enterprise Support: response to
+requests in 1 business day
+$19,000 USD per year, based on a total fixed route fleet of 16, (10 in operation)
+• Access to Transit Scheduling platform
+• Remix licenses for an unlimited number of users within LakeXpress
+• Enhanced data visualization and analysis
+• Software as a Service (SaaS): fully hosted, cloud-based web platform
+• Dedicated Customer Success staff; Premium Enterprise Support: response to
+requests in 1 business day
+$2,000 USD for 1 year, (one-time fee)
+• Provide onboarding and training for all staff.
+• Create user accounts
+• Calibrate and upload key datasets
+Marketing Terms
+Willingness to work with Remix to develop a case study, mutually agreeable press
+release, ability to use Customer as a reference.
+/Users/claudiapreciado/Desktop/Contract date Lake XPress.docx
+
+=== page 7 of 75 ===
+DocuSign Envelope ID: 41500079-9022-478D-A994-BCD35DE0510E
+This Agreement incorporates the attached Terms and Conditions ("Terms"). In the event of a conflict or inconsistency
+between the Terms and this Agreement, the Terms will control, except to the extent that this Agreement expressly
+states that it supersedes specific language in the Agreement. Capitalized terms not otherwise defined herein will have
+the meaning ascribed to them in the Agreement.
+The parties have caused their duly authorized representatives to execute this Agreement (incorporating the Terms) as
+of the dates set forth below.
+Remix Technologies, LLC.
+Signature:
+Name:
+- DocuSigned by:
+Tiffany (hu
+- A7F5346D1EB34A3...
+Tiffany Chu
+Title: CEO
+Date: 5/24/2021
+Email: tiffany.chu@ridewithviapf0he: 6282392455
+BOARD OF COUNTY COMMISSIONERS
+OF LAKE COUNTY, FLORIDA
+ATTEST:
+Sean M. Parks, Chairman
+This 22 Way or June 2022.
+BUNTY COMMISSION
+-COUNTY, NOT
+Board of County Commissioners of
+Lake County, Florida
+Approved as to form and legality:
+immand
+Melanie Marsh, County Attorney
+/Users/claudiapreciado/Desktop/LakeXpress Proposal 05.18.21.docx
+
+=== page 9 of 75 ===
+DocuSign Envelope ID: 41500079-9022-478D-A994-BCD35DE0510E
+REMIX TERMS AND CONDITIONS
+These Terms and Conditions ("Terms", together with an Order Form referencing these Terms, the "Agreement"), are
+entered into between Remix Technologies, LLC., a Delaware corporation ("Remix"), and the customer identified on the
+Order Form ("Customer"), and are effective as of the date that the Order Form is executed by both parties (the "Effective
+Date").
+DEFINITIONS. Capitalized terms will have the meanings set forth in this Section 1, or in the section in which they
+1.1
+'"Authorized User" means each of Customer's employees, agents, and independent contractors who
+are authorized to access the Remix Solution under this Agreement.
+1.2
+"Customer Content" means any content, data and information provided to Remix by or on behalf of
+Customer or its Authorized Users for use with the Services, including, without limitation, any Mobility Provider Data.
+Customer Content does not include Licensed Material or Resultant Data.
+"Documentation" means the materials describing the use and operation of the Remix Solution that are
+made available to Customer as written technical briefs or on https://help.remix.com/ or such other web page as Remix
+may designate to Customer from time to time.
+"Intellectual Property Rights" means any and all now known or hereafter existing (a) rights associated
+with works of authorship, including copyrights, mask work rights, and moral rights; (b) trademark or service mark rights;
+(c) trade secret rights; (d) patents, patent rights, and industrial property rights; (e) layout design rights, design rights,
+and other proprietary rights of every kind and nature other than trademarks, service marks, trade dress, and similar
+rights; and (f) all registrations, applications, renewals, extensions, or reissues of the foregoing, in each case in any
+jurisdiction throughout the world.
+1.5
+"Licensed Material means reports, results, materials and documentation made available to Customer
+as part of the Services. Licensed Material does not include the Remix Solution or any component thereof.
+1.6
+"Mobility Provider" means an operator of a transportation or rideshare service or platform that provides
+or facilitates transportation by train, bus, car, bicycle, scooter or any other mode of transportation and is required to
+provide transportation related data and information to Customer (or its third-party designees) by contract, permit or
+other applicable ordinance, regulation or law.
+"Mobility Provider Data" means any data or other information made available to Remix by a Mobility
+Provider at the direction, or for the specific benefit, of the Customer, even if Remix's receipt of such information is
+governed by its own agreement with the Mobility Provider.
+1.8
+references this Agreement.
+"Order Form" means an order form, scope of work or scope of services signed by both parties that
+"Professional Services" means professional services provided by Remix to Customer as described in
+any Order Form (as may be further described in any statement of work).
+1.10 "Remix Solution" means the Remix software-as-a-service application identified in any Order Form that
+allows Authorized Users to access certain features and functions through a web interface.
+"Resultant Data" means statistics, data, insights, observations, analyses, ideas and other information
+that does not identify any natural person and is derived from the categorization, modeling or other processing of one
+(or more) data set(s), including, without limitation, data sets that include Customer Content and data of Remix's other
+customers.
+/Users/claudiaprectado/Desktop/LakeXpress Proposal 05.18.21.docx
+
+=== page 28 of 75 ===
+DocuSign Envelope ID: 41500079-9022-478D-A994-BCD35DE0510E
+EXHIBIT C - FEDERALLY REQUIRED and OTHER MODEL CONTRACT CLAUSES
+PERFORMANCE BOND
+KNOW ALL MEN BY THESE PRESENTS: that
+Remix Technologies, LLC
+(Insert full name and address and legal title of Contractor) as Principal, hereinafter called
+Contractor, and
+at address 1128 Howard St, San Francisco, CA 94103
+(Insert full name and
+address or legal title of Surety) as Surety, hereinafter called Surety, are held and firmly bound unto
+RECIPIENT as Obligee, hereinafter called Authority, in the amount of Dollars (S) for the payment whereof
+Contractor and Surety bind themselves, their heirs, executors, administrators, successors and assigns,
+jointly and severally, firmly by these presents.
+05/20/2021
+WHEREAS, Contractor has by written agreement dated _ 20_ entered into a contract with the
+RECIPIENT for Contract No.
+Remix Proposal for LakeXpress,
+which contract is by reference made a part
+hereof, and is hereinafter referred to as the Contract.
+NOW, THEREFORE, THE CONDITION OF THIS OBLIGATION is such that, if Contractor shall promptly
+and faithfully perform said Contract, then this obligation shall be null and void; otherwise it shall remain
+in full force and effect.
+The Surety hereby waives notice of any alteration or extension of time made by the RECIPIENT.
+Whenever Contractor shall be, and is declared by the RECIPIENT to be in default under the
+Contract, the RECIPIENT having performed RECIPIENT'S obligations thereunder, the Surety may promptly
+remedy the default, or shall promptly
+1.
+Complete the Contract in accordance with it terms and conditions, or
+2.
+Obtain a bid or bids for completing the Contract in accordance with its terms and
+conditions, and upon determination by Surety of the lowest responsible bidder, or, if the RECIPIENT
+elects, upon determination by the RECIPIENT and the Surety jointly of the lowest responsible bidder,
+arrange for a contract between such bidder and the Authority, and make available as Work progresses
+(even though there should be a default or a succession of defaults under the contract or contracts of
+completion arranged under this paragraph) sufficient funds to pay the cost of completion less the balance
+of the contract price; but not exceeding, the amount set forth in the first paragraph hereof. The term
+"balance of the contract price," as used in this paragraph, shall mean the total amount payable by the
+RECIPIENT to Contractor under the Contract and any amendments thereto, less the amount properly paid
+by the RECIPIENT to Contractor.
+Any suit under this bond must be instituted before the expiration of two (2) years from the date
+on which final payment under the Contract falls due.
+No right of action shall accrue on this bond to or for the use of any person or corporation other than
+the RECIPIENT or the heirs, executors, administrators or successors of the RECIPIENT.
+D-7
+
+=== page 29 of 75 ===
+DocuSign Envelope ID: 41500079-9022-478D-A994-BCD35DE0510E
+EXHIBIT C - FEDERALLY REQUIRED and OTHER MODEL CONTRACT CLAUSES
+Signed and sealed this.
+20th day of
+May
+_20 21.
+See Notarized attached page
+Witness as to Principal
+See Notarized attached page
+Witness as to Principal
+PRINCIPAL:
+Remix Technologies, LLC
+(Company Name)
+By: Toffang Cha
+(Authorized Signature)
+Tiffany Chu
+(Printed Name)
+CEO
+(Title)
+1128 Howard Street
+San Francisco, CA 94103
+(Business Address)
+Attach hereto proof of authority of officers or agents to sign bond.
+See Notarized attached page
+D-8
+
+=== page 30 of 75 ===
+DocuSign Envelope ID: 41500079-9022-478D-A994-BCD35DE0510E
+ALL-PURPOSE ACKNOWLEDGMENT
+State/Commonwealth of
+VIRGINIA
+• City M County of
+Prince William
+On 05/20/2021
+before me, —
+Teneisha Monae McRoy
+Notary Name
+personally appeared_ Tiffany Chu
+Name(s) of Signers)
+• personally known to me -- OR --
+• proved to me on the basis of the oath of _
+-- OR -
+Name of Credible Witness
+* proved to me on the basis of satisfactory evidence:
+driver_license
+Type of ID Presented
+to be the individual(s) whose name(s) is (are) subscribed to the within instrument, and
+acknowledged to me that he/she/they executed the same in his/her/their authorized capacityies)
+and by proper authority, and that by his/her/their signature(s) on the instrument, the individual(s),
+or the person(s) or entity upon behalf of which the individual(s) acted, executed the instrument for
+the purposes and consideration therein stated.
+Teneisha Monae McRoy
+WITNESS my hand and official seal.
+Notary Public Signature: Vereisha Mona Mclay,
+N
+7910327
+COMMISSION EXORESI
+reoruary. 4o. 2023
+Notary Name:_
+Teneisha Monae McRoy
+Notary Commission Number: 7910327
+Notary Commission Expires:_02/28/2025
+Notarized online using audio-video communication
+DESCRIPTION OF ATTACHED DOCUMENT
+Title or Type of Document: Performance Bond Exhibit C document
+Document Date: 05/20/2021
+_ Number of Pages (w/ certificate): _
+Signers) Other Than Named Above: N/A
+3
+Capacity(ies) Claimed by Signer(s)
+Signer's Name: _
+Tiffany Chu
+Corporate Officer Title: CEO
+Partner - 0
+Limited • General
+Individual O
+Attorney in Fact
+Trustee
+Guardian of Conservator
+Other:
+Signer Is Representing: Remix Technologies LLC.
+3
+
+=== page 35 of 75 ===
+DocuSign Envelope ID: 41500079-9022-478D-A994-BCD35DE0510E
+EXHIBIT C - FEDERALLY REQUIRED and OTHER MODEL CONTRACT CLAUSES
+In accordance with 49 C.F.R. § 661.6, for the procurement of steel, iron or manufactured products,
+use the certifications below.
+Certificate of Compliance with Buy America Requirements
+The bidder or offeror hereby certifies that it will comply with the requirements of 49 U.S.C.
+5323(j)(1), and the applicable regulations in 49 C.F.R. part 661.
+Date: 5/24/2021
+-DacuSigned by:
+Signature:
+Titansy les
+- A7F5346D1EB34A3...
+Company: Remix Technologies, LLC
+Name: Tiffany Chu
+Title: CEO
+Certificate of Non-Compliance with Buy America Requirements
+The bidder or offeror hereby certifies that it cannot comply with the requirements of 49 U.S.C.
+5323(), but it may qualify for an exception to the requirement pursuant to 49 U.S.C. 5323(i)(2), as
+amended, and the applicable regulations in 49 C.F.R. § 661.7.
+Date: 5/24/2021
+- DocuSigned by:
+Signature:
+Tirany luk
+-A7F5346D1EB34A3...
+Company: Remix Technologies, LLC
+Name: Tiffany chu
+Title: CEO
+D-13

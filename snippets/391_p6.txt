@@ -1,0 +1,141 @@
+# source: raw/bleecker_drive/The Regional Transportation Commission of Southern Nevada/Agreement_No.pdf
+# path: raw/bleecker_drive/The Regional Transportation Commission of Southern Nevada/Agreement_No.pdf
+# hit page: 6 of 19
+# terms: Remix Technologies
+
+=== page 5 ===
+26-007 SUPPLY OF 
+REMIX SOFTWARE 
+4 
+Subject:
+Petitioner:
+8)
+LIMITATIONS OF LIABILITY
+A) REMIX does not guarantee the privacy, security, authenticity or non-corruption of any information 
+transmitted through the internet or any mobile or wireless network, or any information stored in 
+any system connected to the internet or to any mobile or wireless network. REMIX shall not be 
+responsible for any claims, damages, costs or losses whatsoever arising out of or in any way related 
+to RTC’s connection to or use of the Internet, or any mobile or wireless network.
+B) REMIX will not be liable to RTC or any third party for any claims, expenses, damages, costs or 
+losses whatsoever arising out of or in any way related to:
+1) RTC’s use of map or geographical data, owned by RTC or any third party, in conjunction with 
+the Remix Solution or otherwise; and,
+2) RTC’s use of the Remix Solution to store, transmit, display, disclose or otherwise use data or 
+information which is considered private, confidential, proprietary or otherwise exempt from 
+public disclosure under applicable law.
+C) NOTWITHSTANDING ANY PROVISION OF THIS AGREEMENT TO THE CONTRARY, 
+REMIX SHALL ONLY BE LIABLE FOR DIRECT DAMAGES AND IN NO EVENT SHALL 
+REMIX BE LIABLE FOR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, 
+PURE ECONOMIC LOSS UNRELATED TO LOSS OTHERWISE COVERED BY 
+INSURANCE, DAMAGES FOR LOSS OF PROFITS, OR BUSINESS INTERRUPTION) 
+ARISING OUT OF THE USE OF OR INABILITY TO USE ANY PRODUCT, EQUIPMENT OR 
+ASSOCIATED SOFTWARE DESCRIBED HEREIN, EITHER SEPARATELY OR IN 
+COMBINATION WITH ANY OTHER PRODUCT, EQUIPMENT, SOFTWARE OR OTHER 
+MATERIALS EVEN IF REMIX HAS BEEN ADVISED OF THE POSSIBILITY OR 
+CERTAINTY OF SUCH DAMAGES.
+D) EXCLUDING REMIX’S OBLIGATIONS IN CONNECTION WITH PERSONAL INJURY OR 
+PROPERTY DAMAGE, OR PURSUANT TO ARTICLE 7 (INDEMNIFICATION AND 
+DEFENSE), AND WITHOUT LIMITING REMIX’S OBLIGATIONS TO PROVIDE 
+INSURANCE COVERAGE AS REQUIRED BY THIS AGREEMENT, NEITHER OF WHICH 
+SHALL BE LIMITED IN ANY WAY, THE TOTAL AMOUNT OF REMIX’S AGGREGATE 
+LIABILITY TO RTC FOR ALL DAMAGES UNDER THIS AGREEMENT WHETHER BASED 
+UPON AGREEMENT, TORT (INCLUDING NEGLIGENCE AND STRICT LIABILITY) OR 
+OTHERWISE, SHALL IN NO EVENT EXCEED TWO TIMES THE TOTAL AMOUNTS PAID 
+BY RTC TO REMIX IN THE TWELVE (12) MONTHS PRIOR TO THE ACT THAT GAVE 
+RISE TO THE LIABILITY.
+9)
+TERMINATION
+A) Termination for Convenience: The RTC may terminate this Agreement related to a change in 
+available funding after 24 months, 36 months and/or 48 months with at least sixty (60) calendar 
+days’ prior written notice to REMIX. Upon such notification, REMIX shall immediately 
+stop all work hereunder and cause any of its subcontractors to cease such work. If during the 
+project, milestone payments exceed monies due to REMIX and there is a Termination for 
+Convenience, REMIX will refund the excess payment to RTC. 
+Docusign Envelope ID: 9FC3B236-97B3-4C67-BCCC-29F31330F1A2
+REGIONAL TRANSPORTATION COMMISSION OF SOUTHERN NEVADA
+Agenda Item
+=== page 6 ===
+26-007 SUPPLY OF 
+REMIX SOFTWARE 
+5 
+Re commendation
+by Petition er:
+Ag reement
+of 
+Rem ix
+Technologies, LLC in the not-to-exceed amount of $410,295.00 for the period of July
+1, 2025, through June 30, 2030, pursuant to Nevada Revised Statute 332.115.1(h),
+Goals:
+Mee ting:
+FI SCAL IMPACT:
+Funds in the amount of $77,250.00 are budgeted and available in the Transit Fun
+d for Fiscal Year 2026.
+Funds will be budgeted in the same fund for future fiscal
+ years.
+BAC KGROUND INFORMATION:
+The Regional Transportation Commission of Southern Nevada (RTC) Infor
+mation Technology (IT) and Fixed
+Route staff requests  approval to enter into an agreement with 
+Remix Technologies, LLC for annual
+software maintenance and renewals for the period from July 
+1, 2025, through June 30, 2030.
+Docusign Envelope ID: 9FC3B236-97B3-4C67-BCCC-29F31330F1A2
+REGIONAL TRANSPORTATION COMMISSION OF SOUTHERN NEVADA
+Agenda Item
+=== page 7 ===
+26-007 SUPPLY OF 
+REMIX SOFTWARE 
+ 
+6 
+ 
+REGIONAL TRANSPORTATION COMMISSION OF SOUTHERN NEVADA
+Agenda Item
+REGIONAL TRANSPORTATION COMMISSION OF SOUTHERN NEVADA
+Agenda Item
+Rec ommendation
+by Petitioner:
+Agr eement
+of 
+Rem ix
+Technologies, LLC in the not-to-exceed amount of $410,295.00 for the period of July
+1, 2025, through June 30, 2030, pursuant to Nevada Revised Statute 332.115.1(h),
+Mee ting:
+FIS CAL IMPACT:
+Funds in the amount of $77,250.00 are budgeted and available in the Transit Fund for Fiscal Year 2026.
+Funds will be budgeted in the same fund for future fiscal years.
+BAC KGR OUND  INFO RMA TION :
+The  Regio nal Transpo rtatio n Comm ission of Southern Ne vada (RTC) Info rma
+tion Technology (IT) and Fixed
+Route staff requests approval to enter into an agreement with Remix Techno
+logies, LLC for annual
+software maintenance and renewals for the period from July 1, 2025, through June 30, 2030.
+Nev ada Revised Statute 332.115.1(h) specifies that software for computers is exempt from competitive
+
+bidding.
+ 
+12) FORCE MAJEURE AND EXCUSABLE DELAYS 
+A) REMIX shall be excused from performing its obligations under this Agreement during the time and 
+to the extent that it is prevented from performing by an unforeseeable cause beyond its control 
+("Excusable Delays") such as any incidence of fire, flood; acts of God or the public enemy; 
+commandeering of material, products, plants or facilities by the federal, state or local government; 
+national fuel shortage; acts of war; terrorism; strikes; civil disobedience; any acts, restrictions, 
+regulations, by-laws, refusals to grant a license or permission; prohibitions or measures of any kind 
+on the part of any authority; freight embargoes; delays of REMIX’s suppliers for like causes; if 
+satisfactory evidence of such cause is presented to RTC, and provided further that such 
+nonperformance is unforeseeable, beyond the control and is not due to the fault or negligence of 
+the REMIX. REMIX shall use its best efforts to remove the cause of delay and resume work as 
+soon as possible. 
+B) RTC shall be excused from performing its obligations under this Agreement during the time and to 
+the extent that it is prevented from performing by an unforeseeable cause beyond its control 
+("Excusable Delays") including, but not limited to: any incidence of fire, flood; acts of God or the 
+public enemy; commandeering of material, products, plants or facilities by the federal, state or local 
+government; national fuel shortage; acts of war; terrorism; strikes; any acts, restrictions, 
+regulations, by-laws, refusals to grant a license or permission; prohibitions or measures of any kind 
+on the part of any authority; freight embargoes; delays of RTC’s suppliers for like causes; when 
+satisfactory evidence of such cause is presented to REMIX, and provided further that such 
+nonperformance is unforeseeable, beyond the control and is not due to the fault or negligence of 
+RTC. RTC shall use its best efforts to remove the cause of delay and resume work as soon as 
+possible. 
+Docusign Envelope ID: 9FC3B236-97B3-4C67-BCCC-29F31330F1A2
+REGIONAL TRANSPORTATION COMMISSION OF SOUTHERN NEVADA
+Agenda Item

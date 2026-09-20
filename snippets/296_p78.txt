@@ -4,7 +4,8 @@
 # terms: Via Transportation
 
 === page 77 ===
-
+$0.08
+RFP 25-08 | 40
 === page 78 ===
 RFP 25-08 
 Proprietary and Confidential Information 
@@ -31,3 +32,5 @@ trade secret or proprietary and exempt from disclosure under the Public Informat
 Proprietary, Confidential, and Trade Secret Information​
        RFP No. 25-08  |  1
 === page 79 ===
+and Trade Secret Information
+RFP No. 25-08 | 2

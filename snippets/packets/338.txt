@@ -1,0 +1,175 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Key West/22_2659_Agreement.pdf
+# pages_total: 19; hit_pages: [1, 2, 3, 4, 11, 18]; included: [1, 2, 3]
+# context: Bleecker Drive folder: Key West
+
+=== page 1 of 19 ===
+KEY WEST TRANSIT SOFTWARE AS A SERVICE DEPLOYMENT SERVICE ORDER 
+ 
+By this service order (the “Order”), Via Mobility LLC, a Delaware company with its principal office located at 10 Crosby Street, 
+Floor 2, New York, New York 10013 (“Via”), and the customer identified below (“Customer”) agree to collaborate towards the 
+operation by Customer of an on-demand transit deployment (the “Deployment”) in Key West, Florida. 
+ 
+Customer Name: City of Key West – Key West Transit 
+Customer Entity Type / State of Incorporation: Government, 
+Florida 
+Customer Notice Address:  
+Rod Delostrinos 
+5701 College Road  
+Key West, FL 33040 
+Customer Email:  
+rdelostrinos@cityofkeywest-fl.gov 
+chaia@cityofkeywest-fl.gov 
+Term: The duration of the Deployment shall last until the last day of the calendar month during which a period of 12 
+months following launch expires, subject to extension by mutual agreement of the parties on terms to be agreed (including 
+any increase in monthly fees for additional months).   
+Services: Customer will receive access to the standard Via Solution and automatic software updates, comprised of: 
+(a) Fully localized proprietary routing and matching algorithms that analyze all trip requests, assign riders dynamically 
+to the best-suited vehicle, and group passengers headed in the same direction into efficient shared rides powered by 
+Via’s patented technology; 
+(b) Downloadable iOS and Android rider apps that allow customers to book rides, track vehicles in real time, pay for 
+trips, and troubleshoot any issues; 
+(c) Downloadable driver app that provides efficient turn-by-turn directions; the app allows drivers to start and end 
+driving time, schedule breaks, and contact live support;  
+(d) Access to the Via Operations Console (VOC), which allows administrators to perform a variety of functions, 
+including checking trip details, adjusting account information, and providing customer support; and 
+(e) Data reporting as set forth in Appendix 1, to include data shared via VOC, email, and raw data formats. 
+Support Services – Installation. Via provides installation support for up to four weeks after the Deployment begins 
+serving Riders (“Launch”), consisting of:  
+(a) Localization for the agreed-upon zone, including optimizing the algorithm, configuring back-end, and defining 
+acceptable pick-up and drop off points; 
+(b) Testing and quality assurance;  
+(c) Help Customer to build a launch plan and rider acquisition strategy; and 
+(d) Instruction for drivers, dispatchers, and managers on Via’s best practices; remote launch support  
+Support Services – Ongoing. The following services are included in the fees up to the number of hours per month 
+identified below:  
+(a) Operational support and system adjustments: Includes algorithm adjustments and changes to virtual bus stops / 
+pickup points at request of Customer: up to 10 hours per month 
+(b) Expert consulting: up to 5 hours per month 
+● 
+Marketing and growth: help setting up complex promotions, review and assistance for third party tools 
+that can integrate into Via’s tech 
+● 
+Operations: Including supply optimization analysis, payment & fraud investigation, and business 
+case/unit economics analysis 
+● 
+Service expansion: Including feasibility analysis for service expansions or additional projects 
+(c) Tech Support: Dedicated customer success Via point of contact will use commercially reasonable efforts to 
+respond within one business day for non-critical issues (upon receipt of a detailed description of the issue as 
+requested by Via) and to ensure that assistance is provided within a reasonable time frame. Via will also provide 
+Customer with an appropriate channel for alerting Via to system outages or other critical issues, with respect to 
+which Via will provide emergency assistance. 
+Via will notify Customer if Customer is within 1 hour of exceeding capped hourly limit on Operational Support and System 
+Adjustments and/or Consulting Services,and will provide an estimate of hours needed to complete request before 
+proceeding. If requested hours are approved by Customer, the hours beyond those set forth above will be charged on an 
+hourly rate, ranging from $165-$225.
+
+=== page 2 of 19 ===
+Additional Services (detailed in Appendix 2) 
+☐Web-Based Booking Portal ☐White List Point Consulting ☐Flexible Booking ☐Corporate Account Management 
+dashboards ☐Fixed Route Referral ☐Multi-modal Integration ☐Cross-Agency Integration☐ Third-party trip planner 
+integration ☐Payment Provider Integration  [X] Customer Support  ☐Integrated Mobility Services [X] Consulting 
+ 
+Customer Responsibilities.  
+General. Customer will operate and manage the Deployment as set forth in the Agreement, Customer shall cooperate with 
+Via as necessary for the purpose of setting up the Deployment and its specifications, including by providing prompt 
+feedback to Via’s inquiries and providing local insights, in order to meet mutually agreed upon deadlines. Following Signing 
+of this Order, Customer and Via will engage in additional project scoping activities with the goal of aligning on a mutually 
+agreeable scope and schedule of work 
+(a) Launch. Within one week of signing this Order, the Parties will mutually agree on the exact geographic zone and a 
+targeted launch date (“Launch”). Launch date shall be no sooner than 12 weeks after the signing of this Order. In 
+the event that the Launch date is moved at Customer’s request or delayed due to Customer’s inaction, Customer 
+will be charged $500 per month to accommodate hosting and other direct IT costs.  
+(b) Zone: Customer and Via will agree at least one month prior to launch on the Deployment service zone. Any 
+changes or expansions to the zone may result in additional fees.  
+(c) Support Requests. At the start of the project, Via will direct Customer towards the relevant CRM tools to log 
+requests.  In order to trigger a Product Maintenance request, requests for product maintenance must contain 
+detailed information about the nature of the request. Requests for additional features may be subject to additional 
+fees.  
+(d) Payment Processing. The fees set forth above do not include any owed to the third party payment processor. Via 
+will facilitate an introduction to its      payment processor and, if Customer wishes to accept credit card payments 
+for this Deployment,      Customer will be responsible for entering an agreement this processor      . 
+Fees.  
+Customer shall pay Via the following Fees: 
+Fee Category 
+Amount 
+Invoicing Terms 
+Installation Fee 
+$30,000 one-time fee to be paid in first year of 
+service 
+● First installment 
+ 
+50% ($15,000) 
+Payable within 30 days of 
+signing of this Order 
+● Second installment 
+50% ($15,000) 
+Payable upon launch of the 
+Deployment 
+Additional Marketing & 
+Rider Growth Consulting 
+$30,000  
+Billed monthly, as incurred.   
+Assumes 200 hours per year. 
+Live Rider Support      
+$152,880 
+Billed monthly. 
+, as incurred.  Assumes 5,096 
+hours per year. 
+Minimum Monthly Fees 
+$36,000 annually (monthly broken out below, 
+assuming three vehicles) 
+● Per-vehicle fees 
+● 
+$1,250 per vehicle per calendar month for 
+vehicles 1-2 with a minimum of $2,500 
+per month  
+● 
+$500 per vehicle per calendar month for 
+vehicles 3-10 
+● 
+$450 per vehicle per calendar month for 
+vehicles 11-15+ 
+Minimum Monthly Fees 
+payable upon signing of this 
+Order, any amount in excess of 
+minimum to be invoiced 
+monthly by Via 
+Projected Total 
+$248,880 assuming 3 vehicles (excluding additional vehicles and Fees for any 
+Additional Services) 
+The Customer shall be responsible for paying its fees at the beginning of the month in which they are incurred based on the 
+monthly vehicle minimum(s) (the “Minimum Monthly Fee”).  The Minimum Monthly Fee will be paid in advance upon 
+signing of the contract.  In the event that the per-vehicle-fees incurred for a given month exceed the Minimum Monthly Fee, 
+Customer shall be responsible for paying the difference for each such month (“Monthly True-Up”) thereafter within 15 
+days of the date of such invoice. At the beginning of the following month, Via will provide Customer with an invoice 
+calculating the per-vehicle fees actually incurred based on the actual number of active vehicles used during that month, in
+
+=== page 3 of 19 ===
+the form attached hereto as Exhibit A. The Customer hereby agrees that the sample invoice set forth on Exhibit A is 
+satisfactory to Customer, both in substance and format.      
+For the avoidance of doubt, (i) the number of vehicles per month for purposes of the above fees shall be the maximum 
+number of distinct vehicles input by Customer that use the Via Solution on any given day over the course of the applicable 
+calendar month and (ii) in the event the duration of the Deployment does not exactly match calendar months, monthly fees 
+will be pro-rated for the first and/or last calendar months of the Deployment, as applicable, so that Customer will only be 
+charged for the portion of such months during which the Via Solution was available to be used for the Deployment. 
+Customer shall reimburse all travel expenses of Via personnel for purposes of the Deployment. Installation-related services 
+described above will initially be performed remotely, and if Via deems it necessary, in person by Via personnel for a limited 
+period around launch.  Thereafter, services will continue to be performed remotely as applicable, provided that Via 
+personnel can be sent to Customer’s location for additional trips upon reasonable request.  
+Launch Delay. If the Launch Date is delayed for more than a month by Customer for any reason, Customer shall be 
+responsible for paying Via for a $500 monthly technology fee for the cost of maintaining the technology infrastructure for 
+Customer’s deployment during the period of delay (the “Technology Fee”).  The Technology Fee shall be payable monthly 
+at the beginning of the month in which it is incurred. If the Launch Date is delayed for more than a month by Via without 
+cause, Customer shall have the right to terminate this Contract, effective immediately upon written notice.  
+Branding. The Deployment branding, which will include the phrasing “powered by Via”, will be as agreed upon between 
+the parties and may be used       for the life of the D     eployment. The “powered by Via” banner must be used only in the 
+exact format provided by Via, and will be prominent on all assets promoting the Deployment, including (but not limited to) 
+printed collateral, digital materials, websites, and any vehicle wraps. The “powered by Via” banner will have equal 
+prominence on all marketing materials to any additional partner logos or trademarks. Via may provide pre-approved brand 
+assets and guidelines that must be complied with in all marketing communications distributed by the Customer. 
+ 
+Customer Support. The scope of this service is for rider booking support only. Customer will use its existing interactive voice response 
+system to direct rider bookings calls to Via’s customer support center during service hours of 6:00 am-8:00 pm, 7 days a week. Via and 
+Customer will work together to determine a rider support workflow that the Customer will support for inquiries that fall outside of the 
+scope for rider booking.

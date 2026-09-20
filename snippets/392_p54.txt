@@ -1,0 +1,187 @@
+# source: raw/bleecker_drive/Los Alamos (Spare Labs)/1040_24_A_-_AGR_24-37_Spare_Labs_Inc.pdf
+# path: raw/bleecker_drive/Los Alamos (Spare Labs)/1040_24_A_-_AGR_24-37_Spare_Labs_Inc.pdf
+# hit page: 54 of 81
+# terms: Spare Labs
+
+=== page 53 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+53 
+ Agreement Template Version: 04012024 
+Exhibit G 
+Contractor’s Procedures for Integration Testing, System Acceptance Testing, Operability 
+Performance Testing and Applying Upgrades and Patches 
+AGR24-37 
+ 
+This Exhibit G is included herein for reference and reflects Contractor’s proposed Procedures for Integration 
+Testing, System Acceptance Testing, Operability Performance Testing and Applying Upgrades and Patches 
+as provided in Contractor’s Response.  Contractor may modify the way in which it performs these 
+procedures provided they are performed in a substantially similar manner to ensure the Platform functions 
+properly throughout the Term of this Agreement.  
+ 
+Testing Methodology 
+As a software, Spare believes in our product and follows a testing procedure 
+that includes internal and beta testing. We are problem solvers and we strive 
+to build the best product to suit Los Alamos County’s needs. There are 
+milestones and tasks for testing as part of our implementation plan. 
+Following is a walkthrough of our procedures for integrations, system 
+acceptance, and operability performance testing. 
+Integration Testing 
+Spare uses a combination of role-based permissions and individual 
+product permissions to manage user access to the administrative/staff 
+platform. Spare can support single-sign on (SSO) for the staff platform 
+through an integration with WorkOS. 
+Spare has iOS and Android apps for Spare Rider and Spare Driver–we 
+have no issues integrating these apps into the existing tablets and 
+phones used by Los Alamos County. 
+Any change to Spare’s code base goes through the following process: 
+1. 
+The Engineer pushes their changes to our source code repository, in a feature 
+branch 
+2. 
+A comprehensive suite of automated tests runs against the feature branch 
+ 
+○ 
+A very large number of “unit tests”, a moderate number of 
+“integration tests”, and a small number of “end to end” tests, 
+in accordance with a standard test pyramid approach 
+○ 
+If the change involves a “database migration” (altering the 
+structure of the database, or the data within it), all tests run 
+with both the new and old versions of the code, to ensure 
+the database changes are compatible with both 
+3. 
+The branch is reviewed by at least one other developer - at least two for higher 
+risk changes 
+○ 
+The change itself will, in almost all cases, include new 
+automated tests covering the new/changed behavior 
+4. 
+If approved, and all tests pass, the branch is merged into the primary branch 
+5. 
+The change is then automatically rolled out to a staging environment 
+Attachment A
+=== page 54 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+54 
+ Agreement Template Version: 04012024 
+○ 
+In most cases, the rollout is slowly ramped up over a 15-30 minute period 
+○ 
+If error rates rise during the rollout, it is automatically 
+rolled back, and Engineers are alerted 
+○ 
+We also have a bot that continuously performs key 
+workflows against the staging environment, “Spare 
+Monitor”. If any of them fail, the rollout is automatically 
+rolled back, and Engineers are alerted 
+○ 
+This environment is similar to our true production, that 
+customers use, but customers do not use it 
+○ 
+The rollout process is gradual, with automated monitoring: 
+6. 
+If the staging deploy succeeds without issue, a production 
+deploy (releasing to customers) is possible 
+○ 
+By default, changes will be automatically 
+deployed to production the day after a successful 
+staging deployment 
+○ 
+However, if necessary, Engineers can manually trigger a 
+production deploy before this (for example, to fix an 
+urgent bug) 
+7. 
+The production deploy goes through the same steps as the staging deploy 
+○ 
+See step 5 above (automated monitoring/rollback) 
+8. 
+Once the change is in production, a comprehensive set of alerts will 
+page on-call Engineers if any issues are detected 
+○ 
+Primarily we monitor for increases in error rates or latencies 
+○ 
+The bot described in step 5 will also alert if any key workflows do not 
+function properly 
+○ 
+There are always Engineers on call, 24/7 
+The above applies to even the smallest change. The above applies to 
+even the smallest change. For higher risk changes, or significant new 
+features, all of the above occurs, as well as extra measures to ensure 
+quality: 
+1. 
+The Engineer(s) working on the change run a manual QA process 
+○ 
+We have a set of manual QA “scripts” for specific types of changes 
+○ 
+For many changes, Engineers will produce a script specific 
+to this change, to ensure very specific new functionality 
+works as intended 
+2. 
+The change itself is gated by a “feature flag” 
+○ 
+This allows it to be enabled for a single organization at a time 
+ 
+ 
+Attachment A
+=== page 55 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+55 
+ Agreement Template Version: 04012024 
+○ 
+At first, the change is enabled only for internal testing organizations 
+3. 
+A non-Engineer stakeholder, often a Product Manager or Designer, 
+will themselves manually test the change on an internal test 
+organization, to ensure it meets all requirements 
+○ 
+If not, changes will be made before rolling out to any customers 
+4. 
+The change will then be enabled for a small number of customers 
+○ 
+The most common process for determining candidate 
+customers is for Spare’s Partner Success team to nominate 
+customers (generally ones eagerly awaiting the feature), 
+reach out to the customers, and roll it out with their approval 
+to be an early adopter 
+5. 
+Feedback is collected from early adopters 
+○ 
+Release blocking bugs or functionality changes are incorporated before 
+rolling out further 
+6. 
+The rollout is gradually expanded to more customers, and finally all customers 
+○ 
+Depending on the change, this can happen over a period of days, weeks, 
+or even months 
+○ 
+When fully released, the feature flag is removed 
+○ 
+The only exception is certain features that not all customers 
+will want - in these cases the feature flag is left long term, so 
+the feature can be enabled/disabled on a customer by 
+customer basis 
+System Acceptance Testing 
+The system acceptance testing speaks to the testing of Spare’s 
+products and features to ensure uninterrupted functionality for Los 
+Alamos County. Our approach includes: 
+Automated Testing for Continuous Improvement. Spare uses automated 
+test-driven development techniques to ensure that as we develop new 
+features, they are being tested on the fly and as completed. Upon 
+completion of a feature, but prior to release, automated testing is 
+completed as discussed, then manual testing is completed by a variety of 
+engineers on the team to ensure the product is ready to be staged. Spare 
+also maintains a continuous monitoring system to alert engineers if any 
+issues are identified. With Spare’s 24/7 on-call schedule, we can guarantee 
+an engineer will be ready at a moment’s notice in the event of an 
+emergency. 
+Quality Checks at Every Stage. Spare uses Google Cloud Platform for its 
+cloud environment. We have a testing, staging and production 
+environment, and every feature or database update or release will go 
+through each environment prior to being shipped. Additionally, automated 
+monitoring processes notify the engineering operations team if anything 
+is out of the ordinary. Spare’s Partner Success team is also actively 
+observing systems every day to ensure a high quality of service. 
+Attachment A

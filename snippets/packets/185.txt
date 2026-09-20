@@ -1,0 +1,357 @@
+# source_url: https://metro.legistar1.com/metro/attachments/bef00d39-fc49-40e8-9d37-71d0a29d7eb3.pdf
+# path: raw/cache/7c73a3b923d5b8e173f2b106ec3d67a1841e5dea.pdf
+# pages_total: 9; hit_pages: [1, 2, 3, 4, 5, 7, 8, 9]; included: [1, 2, 3, 4, 8]
+# context: legistar client=metro; matter 2018-0117 (2018-03-15): AUTHORIZE the Chief Executive Officer to award the following firm fixed price contracts to firms to partner with Metro for planning, designing, testing and evaluating a new transportation technology-based service for traveling short distances, subject to resolution of protest(s), if any:    A.	Contr
+
+=== page 1 of 9 ===
+No. 1.0.10 
+Revised 10/11/16 
+ 
+PROCUREMENT SUMMARY 
+ 
+MICROTRANSIT PILOT PROJECT/PS46292001, PS46292002, PS46292003 
+ 
+1. 
+Contract Numbers:  PS46292001, PS46292002, PS46292003 
+2. 
+Recommended Vendors:  RideCo, NoMad Transit LLC, and Transdev 
+3. 
+Type of Procurement  (check one): 
+ IFB   
+ RFP  
+ RFP–A&E   
+ Non-Competitive  
+  Modification  
+ Task Order 
+4. 
+Procurement Dates:  
+ 
+A. Issued: October 25, 2017 
+ 
+B. Advertised/Publicized:  October 25, 2017 
+ 
+C. Pre-Proposal Conference:  November 14, 2017 
+ 
+D. Proposals Due:  December 22, 2017 
+ 
+E. Pre-Qualification Completed:  February 27, 2018 
+ 
+F. Conflict of Interest Form Submitted to Ethics:  January 25, 2018 
+ 
+G. Protest Period End Date: April 16, 2018 
+5. 
+Solicitations Picked 
+up/Downloaded:  
+203 
+Bids/Proposals Received:   
+ 
+8 
+6. 
+Contract Administrator:  
+Roxane Marquez 
+Telephone Number:   
+213-922-4147 
+7. 
+Project Manager:   
+Rani Narula-Woods 
+Telephone Number:    
+213-922-7414 
+ 
+A.  Procurement Background 
+ 
+This Board Action is to approve Contract Nos. PS46292001, PS46292002, 
+PS46292003, respectively, issued to RideCo, NoMad Transit LLC, and Transdev 
+(referred to individually as “Contractor” and collectively as “Contractors”), in support 
+of the planning, design and development of MicroTransit, a new transportation 
+service to complement Metro’s existing system. Board approval of contract awards 
+are subject to resolution of any properly submitted protest. 
+ 
+Prior to the release of the Request for Proposal (RFP), an Industry Forum was 
+convened at Metro on August 29, 2017 to provide a project overview of the 
+MicroTransit Pilot Project and offer SBEs and DVBEs an opportunity to meet with 
+potential Metro prime contractors to help create partnering opportunities for the 
+MicroTransit Pilot Project.  Participants included technology firms, marketing and 
+outreach specialists and transportation planners. The Industry Forum included a 
+presentation of the Scope of Work, as well as a speed-networking opportunity to 
+encourage the assembly of Contractor Teams for the delivery of this project. Over 
+300 participants attended the event, including large business primes, small 
+businesses and Metro staff. 
+ 
+The RFP was issued in accordance with Metro’s Acquisition Policy and the contract 
+type is a firm fixed price. The RFP was issued with a SBE/DVBE goal of 15% (SBE 
+12% and DVBE 3%).  The RFP was solicited using a pre-development agreement 
+contracting model that consists of two parts: Part A (planning and design of a 
+financially and technically feasible on-demand MicroTransit service) and Part B 
+ATTACHMENT A
+
+=== page 2 of 9 ===
+No. 1.0.10 
+Revised 10/11/16 
+ 
+(implementation and evaluation). This Board Action is to approve Part A, Planning 
+and Design only. Part B will be a future Board action, at Metro’s sole discretion, 
+depending on the feasibility of Part A. A pre-proposal conference was held on 
+November 14, 2017, and was attended by 74 participants representing 49 
+companies. There were 81 questions asked and responses were released prior to 
+the proposal due date. 
+ 
+One amendment was issued during the solicitation phase of this RFP: 
+ 
+• Amendment No. 1, issued on November 29, 2017, clarified instructions to 
+Proposers – Submittal Requirements and extended the proposal due date to 
+December 22, 2017.  
+ 
+A total of 203 firms downloaded the RFP and were included in the planholders’ list.  A 
+total of eight proposals were received on December 22, 2017.   
+ 
+B.  Evaluation of Proposals 
+ 
+A Proposal Evaluation Team (PET) consisting of staff from the Office of 
+Extraordinary Innovation, Operations, Countywide Planning and Development, 
+Communications and Information Technology was convened and conducted a 
+comprehensive technical evaluation of the proposals received.   
+ 
+The proposals were evaluated based on the following evaluation criteria and 
+weights:  
+ 
+• Qualifications and Partnerships 
+ 
+ 
+30 percent 
+• Effectiveness of Plan for Delivery of Part A  
+20 percent 
+• Effectiveness of Plan for Delivery of Part B  
+10 percent 
+• Innovation and User Experience 
+ 
+ 
+20 percent 
+• Price Proposal  
+ 
+ 
+ 
+ 
+20 percent 
+ 
+Several factors were considered when developing these weights, giving the greatest 
+importance to qualifications and partnerships of the team with public agencies and 
+private sector companies. 
+ 
+On January 25, 2018, the Proposal Evaluation Team (PET) completed its 
+independent evaluation of proposals. The PET determined that two firms were 
+outside the competitive range and were not included for further consideration. 
+ 
+The six firms within the competitive range are listed below in alphabetical order: 
+ 
+1. Datamatics 
+2. DemandTrans Solutions, Inc. 
+3. NoMad Transit LLC  
+4. RideCo
+
+=== page 3 of 9 ===
+No. 1.0.10 
+Revised 10/11/16 
+ 
+5. Siemens 
+6. Transdev 
+ 
+All teams within the competitive range were invited to interview and to conduct an in-
+vehicle demonstration of their proposed software/technology platform with the PET.  
+On January 31, 2018, DemandTrans Solutions, Inc. notified Metro of their decision 
+to decline the invitation to interview. 
+ 
+During the weeks of February 5, 2018 and February 12, 2018, the PET met with the 
+remaining five firms where they participated in pre-demonstration interviews, in-
+vehicle demonstrations testing firms’ software/ technology platform and post-
+demonstration interviews. The firms’ project managers and key team members had 
+an opportunity to present each team’s qualifications and respond to the evaluation 
+committee’s specific questions regarding Part A and Part B of the Statement of 
+Work. Each team also had an opportunity to present real-time analytics of their in-
+vehicle demonstration in a post-demonstration interview and respond to the PET’s 
+questions regarding the in-vehicle demonstration. In general, each team’s 
+presentation addressed the requirements of the RFP, experience with the eight 
+required tasks, and stressed their commitment to partner with Metro for the success 
+of the project. Also highlighted were staffing plans, work plans, and anticipated 
+project opportunities and constraints.  
+ 
+Qualifications Summary of Firms within the Competitive Range:  
+ 
+RIDECO 
+ 
+RideCo is a full-service organization with experience performing on-demand 
+planning, service design, technology customization, white labelling, payment 
+integration, technology platform deployment and maintenance, operational training, 
+launch support, and performance optimization.  RideCo’s demonstrated expertise in 
+emerging on-demand technologies, experience with launching on-demand services, 
+effective project management, quality control and risk, and a skilled team of project 
+personnel demonstrating in-depth emerging technology.  
+ 
+The proposal and oral presentation demonstrated experience in all required tasks 
+including planning, service design, and technology customization across a wide 
+range of disciplines. RideCo identified projects that involved the unique challenges in 
+service planning for both the private and public sector, understanding risk and 
+reward opportunities. In addition, RideCo demonstrated that its key personnel have 
+expertise in the planning and design of mobility services for the public and private 
+sector alike. RideCo’s team consists of a transportation consulting company, a 
+leading communications firm, communications specialists, on-demand project 
+manager with direct public agency expertise, and a Los-Angeles based partner with 
+direct experience with community outreach for Metro.
+
+=== page 4 of 9 ===
+No. 1.0.10 
+Revised 10/11/16 
+ 
+RideCo presented impressive real-time analytics from their in-vehicle demonstration 
+that covered key performance indicators such as average wait time, average ride-
+rating, on-time pickup (percentages) and on-time drop-off (percentages).  RideCo 
+also presented efficiency and cost recovery KPI’s, performance targets and several 
+other measurements which drew the attention of the evaluation team to be useful for 
+Metro. Most notably unique to RideCo’s expertise is the advance knowledge of on-
+demand and emerging technology and the ability to leverage data and analytics to 
+model opportunities for new deployments. 
+ 
+The project manager is a founding team member with RideCo since 2014 and has 
+experience in building and managing operational teams for deploying new mobility 
+services. The project manager led on-demand deployment with Metrolinx (public 
+agency) in Canada and continues to with Grab in Singapore.  The principal in-charge 
+has experience in planning and launching on-demand services, and has expertise in 
+software engineering where he co-invented the technology platform.  
+ 
+Currently, RideCo technology is being used for on-demand services in Canada and 
+Singapore.   
+ 
+NOMAD TRANSIT LLC (Via) 
+ 
+NoMad Transit LLC (“Via”), is a wholly-owned subsidiary of Via Transportation, Inc. 
+Via is a ridesharing company focused on servicing on-demand mobility through the 
+use of a customized software technology platform. Via is headquartered in New York 
+City.  
+The proposal and oral presentation demonstrated a clear understanding of the 
+Statement of Work as they presented a focus on achieving specific agency-wide 
+goals in designing a service to complement and optimize Metro’s existing service. 
+Via noted the need for Metro to upgrade their existing service for the customer 
+experience of current and future riders.  
+ 
+Via demonstrated expertise in emerging technologies, effective project 
+management, quality control and an experienced team of project personnel. The 
+proposal and oral presentation provided a detailed management plan, addressing 
+transportation analysis and modeling, software/technology solutions, a performance 
+plan, capital programming and a cost structure, payment and recovery plan.  
+Notably, the management team identified schedule constraints and provided 
+solutions in meeting these constraints. 
+ 
+Via displayed experience in all required tasks including a deep working knowledge of 
+on-demand transportation planning and implementation and expertise in emerging 
+technology with an experienced team of project personnel. The proposal identified 
+projects involving coordination with the public sector, vehicle procurement and 
+branding, wayfinding, signage and the use of user-experience (UX) and user-
+interface (UI) principles.
+
+=== page 8 of 9 ===
+No. 1.0.10 
+Revised 10/11/16 
+ 
+28 
+Cost Proposal 
+65.29 
+20.00% 
+13.06 
+29 
+Total 
+ 
+100.00% 
+69.19 
+30 
+Siemens 
+ 
+ 
+ 
+  
+  
+  
+5 
+31 
+Qualifications & Partnerships 
+69.77 
+30.00% 
+20.93 
+32 
+Effectiveness of Plan for Delivery of 
+Part A 
+68.76 
+20.00% 
+13.75 
+33 
+Effectiveness of Plan for Delivery of 
+Part B 
+58.00 
+10.00% 
+5.80 
+34 
+Innovation and User Experience 
+61.96 
+20.00% 
+12.39 
+35 
+Cost Proposal 
+22.57 
+20.00% 
+4.51 
+36 
+Total 
+  
+100.00% 
+57.38 
+ 
+The PET completed its evaluation of the above mentioned proposals on February 
+15, 2018 after oral presentations and in-vehicle demonstrations were held.  The 
+three firms ranked the highest to perform Part A, the planning and design phase of a 
+MicroTransit service, were also ranked competent to perform Part B, project 
+implementation. The PET determined it was in the best interest of Metro to award to 
+multiple Contractor Teams to produce the most cost effective solution and increase 
+the likelihood of success for this pilot project. Awarding to multiple firms is reflected 
+within the RFP should Metro determine that this is in the best interest.   
+Therefore, based on the unique offerings of the top three Contractor Teams, the 
+PET recommends multiple awards for Part A as follows:  
+ 
+1. RideCo 
+2. NoMad Transit LLC  
+3. Transdev 
+ 
+C.  Price Analysis  
+ 
+The recommended pricing has been determined to be fair and reasonable based 
+upon an independent cost estimate, price analysis, technical evaluation, 
+clarifications and negotiations.  
+ 
+ 
+Proposer Name 
+Proposal 
+Amount 
+Metro Independent 
+Cost Estimate  
+Negotiated 
+Amount 
+1. RideCo 
+$246,488.28  
+$615,274 
+$219,650.26 
+2. NoMad Transit LLC 
+$504,648.52  
+$615,274 
+$348,684.69 
+3. Transdev 
+$554,252.31  
+$615,274 
+$316,912.31 
+4. Datamatics 
+$458,792.05  
+$615,274 
+ 
+5. Siemens 
+$1,177,738.52  
+$615,274 
+ 
+ 
+The total recommended award amount for Part A for all three Contractor Teams 
+totals $885,247.26.

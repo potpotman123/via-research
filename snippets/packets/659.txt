@@ -1,0 +1,136 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/City of Sugarland/Microtransit_Service_Pilot_Program_(Addendum_#1_Revision).pdf
+# pages_total: 35; hit_pages: [13, 28]; included: [13, 28]
+# context: Bleecker Drive folder: City of Sugarland
+
+=== page 13 of 35 ===
+CITY OF SUGAR LAND 
+ 
+ Solicitation Number RFP 2024-22 
+ 
+13 
+ 
+• Be available and responsive to requests for information, inspections, or meetings requested by the City. 
+As much as possible, these items will be scheduled ahead of time, but time-sensitive issues may arise.  
+8.8. 
+TECHNOLOGY & EQUIPMENT 
+• Proposer shall provide all hardware, software, installation, training, technical assistance, and equipment 
+required to deploy and manage the Microtransit rideshare service.  The City imagines a technology 
+platform that operates in real-time, combining passengers traveling within the service area zone in a way 
+that optimizes vehicle utilization while maintaining excellent customer service quality and on-time 
+performance goals.  
+• The technology platform should support fully automated scheduling, dispatch, and reservations allowing 
+riders to schedule trips on-demand in real-time via a telephone or a smartphone application. Passengers 
+should also be able to see where their assigned vehicle is located and watch its approach to their pick-up 
+location. This should be accessible to designated City staff via a standard web browser and it should 
+allow for report generation and operational data extraction for analysis at any time that the service is in 
+operation.  
+• Proposer will be responsible for coordinating payment and fare integration within the technology 
+platform and/or across other City applications, as necessary. The City envisions that the payment system 
+will be highly accessible and may include access through a smartphone app, online, or by phone and 
+would accept multiple forms of payment to accommodate residents that are unbanked, do not own a 
+smart phone, or have low technology literacy.  
+• The Proposer shall provide all necessary hardware required to fully deploy the transportation service. If 
+any transfer of equipment is required between vehicles, transfer should be simple and efficient. The 
+operator user interface should be safe and easy to use, and it should include audible and clear messaging 
+indicating passenger updates and stop changes. Driving instructions should be available in list, map, and 
+turn-by-turn voice instructions to limit driver distraction and guarantee safe vehicle operation.  
+8.9. 
+VEHICLE ACQUISITION & OPERATIONS 
+The Proposer shall supply and maintain all necessary vehicles for the service. If Proposer does not own the 
+necessary vehicles for the service, vehicle acquisition by way of purchase, leasing, or other agreement will be 
+required by the Proposer. The selected Proposer shall work with the City to develop a vehicle acquisition plan 
+that clearly outlines the fleet size, type, fixed and variable costs, operations, cleaning schedule, and maintenance 
+needs. The City desires vehicles that accommodate mobility limited users and bicycle storage, as feasible. 
+Vehicles shall be no more than six (6) years old and maintained regularly to ensure they are in good working 
+order, and a plan must be in place to provide regular vehicle inspection and maintenance records to the City. 
+Vehicles must meet all EPA standards. All of the non-ADA fleet should be plug-in electric at contract start. A 
+portion of the fleet must be ADA accessible vehicles, must be hybrid-electric if no fully electric vehicles are 
+available, and all relevant FTA requirements must be met with the provision of ADA compliant service.  
+Selected Proposer is responsible for ensuring that any owned or leased vehicles used in the performance of this 
+Pilot Project are covered by sufficient automobile liability insurance. Selected Proposer will be required to 
+provide to the City copies of all applicable insurance certificates and policies.
+
+=== page 28 of 35 ===
+CITY OF SUGAR LAND 
+ 
+ Solicitation Number RFP 2024-22 
+ 
+28 
+ 
+Mode Shift Rate 
+(MSR) 
+Measures the 
+percentage of riders 
+who switch from 
+single-occupancy 
+vehicles (SOVs) to 
+the Microtransit 
+service.  It is also 
+possible to segment 
+data by trip purpose 
+(e.g., work 
+commute, errands) 
+ 
+ 
+ 
+ 
+Pre-Trip Survey 
+within the Service 
+App or via phone 
+calls. 
+Monthly 
+Vendor 
+Monthly 
+Review 
+Calculation: 
+XX riders shifting from SOVs / monthly total 
+rides * 100 = X% 
+ 
+Example: 
+700 riders shifting from SOVs / 1000 total 
+rides * 100 = 70% 
+ 
+A higher MSR indicates a successful shift away 
+from SOV usage and towards a more 
+sustainable option.  
+  
+Future Performance 
+Metric 
+Data Source Data Collection 
+Frequency 
+Data Collection 
+Responsibility 
+Data Review 
+Cadence 
+Target 
+Estimated Vehicle 
+Emissions Reduction 
+Measures the potential 
+decrease in 
+greenhouse gas 
+emissions (e.g., CO2) 
+achieved through 
+reduced single-
+occupancy vehicle 
+(SOV) usage during 
+the Microtransit 
+Program 
+TBD 
+TBD 
+TBD 
+TBD 
+Target – Reduce CO2 emissions by 5% within the 
+pilot program area – timeframe? 
+ 
+Example: 
+• 
+30% Mode Shift Rate (MSR) 
+• 
+1,000 rides per month per month 
+• 
+Average trip distance is 5 miles 
+• 
+Chosen emission factor for standards 
+cars is 0.45 kg per kilometer (0.28 lb. 
+CO2 per mile.)

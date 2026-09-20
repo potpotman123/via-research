@@ -1,0 +1,139 @@
+# source: raw/bleecker_drive/Utah Transit Authority/Tooele County/contracts-22-08-04.pdf
+# path: raw/bleecker_drive/Utah Transit Authority/Tooele County/contracts-22-08-04.pdf
+# hit page: 37 of 47
+# terms: Via+drivers
+
+=== page 36 ===
+EXHIBIT B-2: VEHICLES
+Flex Route Vehicles
+Vehicle #
+1
+2
+3
+19201
+19202
+14203
+License # Vehicle I.D.
+219574EX Ford E450 Flex
+219575EX Ford E450 Flex
+210485EX Chevy 4500 Glaval Flex
+Year
+2019
+2019
+2014
+Microtransit Vehicles
+1
+2
+3
+4
+5
+6
+Vehicle #
+11502
+11528
+11539
+13501
+13505
+14502
+License # Vehicle I.D.
+508122EX
+5TDKK3DCOBS028647
+205944EX
+5TDZK3DCXBS062013
+508963EX 5TDZK3DC4BS098344
+209781EX
+• 5TDZK3DC9DS385164
+209778EX 5TDZK3DC8DS388041
+513643EX 5TDZK3DC5ES468768
+Year
+2010
+2010
+2011
+2013
+2013
+2014
+Note: UTA may add additional vehicles or change out vehicles from time to time based on
+ridership demand and health/age of the vehicles.
+Page 35 of 46
+=== page 37 ===
+EXHIBIT C
+SCOPE OF SERVICES: MICROTRANSIT SERVICES
+Overview
+UTA On Demand (Microtransit Services) is a demand responsive microtransit service which
+connects communities with transit options as well as other local destinations in a designated
+service area. This innovative form of transportation connects riders with other transit services as
+well as to other local destinations in the community. The app-based technology matches multiple
+riders headed in a similar direction into a single vehicle, with routing that allows for quick and
+efficient shared trips without lengthy detours or relying on fixed route schedules. Tooele County
+shall perform the Service as described within this Scope of Service.
+1. Demand Response Trips
+On-demand trip represents a range of innovative demand response services. Trips are
+commonly booked through the UTA On Demand smart phone app. These trips are directly
+issigned to a driver in real time as the trip is requested with minimal dispatcher intervention
+Riders are also able to book trips by telephone for this service through a dedicated telephone
+number to be scheduled and dispatched by Tooele County. Tooele County shall transport
+ambulatory and non-ambulatory customers from a nearby corner or from curb-to-curb in a
+courteous, safe, and efficient manner.
+2. Personnel
+Tooele County shall provide all necessary personnel such as drivers, mechanics (or
+maintenance contracts), administrative, customer service agents, project managers, and
+others as described within Exhibit B of this Agreement.
+3. Rider app
+UTA will provide riders with access to the UTA On Demand app, through which Riders will
+be able to book and pay for rides on a shared and on-demand basis.
+4. Driver app
+Tooele County shall use the Via Driver app for the day-to-day driver operations of the
+Microtransit Service which provides efficient turn-by-turn directions, allows drivers to start
+and end driving time, schedule breaks, and contact live support.
+5. Administrative Console and Via Operations Center (VOC)
+UTA shall sublease to Tooele County at no cost, the Via driver facing app and VOC, the
+administration oversight, dispatch, and telephone booking functions of the UTA On Demand
+service as part of the agreement between UTA and Via.
+6. Service Parameters and Trip Characteristics
+UTA shall determine all configurable service parameters and trip characteristics associated
+with the Microtransit Service, which may be modified from time to time.
+• Pooled rides of 1 to 8 passengers
+Page 36 of 46
+=== page 38 ===
+• Maximum wait time for pickup: 25 minutes
+• Average wait time for pickup: 15 minutes or less
+• Percent of ride requests completed: 80% or higher
+• Average walk distance to stop: 0.10 miles
+• Maximum walk distance to stop: 0.25 miles
+• Maximum total trip time from boarding to alighting: Customer experience is an
+acceptable alternative to driving a personal vehicle
+• Corner-to-corner service for customers for operational efficiencies
+• Curb-to-curb service from the nearest accessible building entrance for select
+customers with mobility difficulties using a wheelchair or a promo code as provide
+by UTA
+• Ability to add passengers to a route in progress
+• In the rare event of a Via software outage, County will attempt to continue to operate
+the Microtransit service using a fall back plan
+7. Geographic Coverage Zone
+The Service boundaries shall represent an approximately 52 square mile coverage zone in
+Tooele County, Utah which includes the cities of Erda, Tooele, Stansbury Park, and
+Grantsville. See Section 13 of this exhibit for a map of the service zone boundary. UTA may
+modify or expand the Geographic Coverage Zone with 30 days advance written notice to
+Tooele County.
+8. Service Days/Hours
+Service days shall be Monday through Friday, operating between the hours of 7:00 to 19:00
+for the general public. UTA may determine to expand service days and hours with 30 days
+advance written notice to Tooele County. Tooele County shall be entitled to submit a request
+for an equitable adjustment (REA) should service hours be materially expanded.
+9. Holidays
+Holiday service generally offers a reduced level of demand for the Service. Holiday service
+levels shall be determined by UTA with at least four weeks advance written notice provided
+by UTA to the County.
+10. Rider Fares
+Rider Fares and Rider Fare discounts shall be set by UTA including any discounted and
+promotional fares. UTA shall retain all fares collected through the Rider app. Rider Fares
+collected though a concierge booking service for customers without smartphones shall be
+reported to UTA and deducted from the billing to UTA on a monthly basis.
+11. Rider Payment
+UTA will ensure acceptance of Rider Payment through the Rider app via credit cards, Apple
+Pay, Google Pay, pre-paid debit cards, FAREPAY cards, and all electronic pass cards
+accepted by UTA. Cash is not accepted on the Service. County will provide a concierge
+booking service for riders without smartphones. The concierge service will include a rider
+payment option which meets Payment Card Industry Data Security Standards (PCI DSS).
+12. Reporting Requirements
+Page 37 of 46

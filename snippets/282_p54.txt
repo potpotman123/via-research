@@ -1,0 +1,151 @@
+# source: raw/bleecker_drive/Arlington, Texas/Via_Contract_FINAL_Redacted.pdf
+# path: raw/bleecker_drive/Arlington, Texas/Via_Contract_FINAL_Redacted.pdf
+# hit page: 54 of 68
+# terms: Via+not to exceed, Via+not-to-exceed
+
+=== page 53 ===
+EXHIBIT A 
+ 
+ON-DEMAND RIDESHARE SERVICE SCOPE OF SERVICES 
+ 
+ 
+1. Purpose; Scope 
+ 
+Contractor will provide on-demand rideshare services as described below (the “Service”) for the 
+City and its residents and visitors. Contractor’s Services include: 
+ 
+● Access to Via’s fully localized dynamic vehicle routing and real-time passenger 
+aggregation system; 
+● Establishing relationship with vehicle rental company (“Vehicle Partner”) to provide 
+access to Vehicles on a rental basis to independent contractor driver partners; 
+● Accompanying technical and operational support services in order to provide a turnkey 
+solution; 
+● Data sharing and reporting as described under Section 9 below;  
+● Access to the Via mobile application for users to book rides from a smartphone;  
+● Integration of the Arlington Student Transportation Program as described under Section 
+10 below;  
+● Integration of the Arlington RAPID service as described under Section 11 below; and 
+● Advertising services as described under Section 12. 
+  
+2. Duration 
+ 
+The Service will begin on December 11, 2022, unless otherwise mutually agreed by both parties. 
+The Service shall operate until December 31, 2024, with the option of four 2-year renewals, 
+subject to earlier termination in accordance with the Contract. 
+ 
+3. Fees 
+ 
+A. Contractor Fees 
+ 
+The City agrees to pay Contractor the amounts below, not to exceed Thirty Million Two 
+Hundred Forty Seven Thousand Six Hundred Forty Two Dollars ($30,247,642) in the aggregate 
+for the term of this Contract.  
+ 
+This fee shall be on a cost per on-demand service hour basis, corresponding with the tasks 
+outlined in the contractor’s response to the RFP, as outlined below:
+=== page 54 ===
+Standard Via Service Costs
+Task
+Project Management
+Performance Monitoring
+Cost per On-
+Demand
+Service Hour
+YEAR 6
+Estimated On-
+Demand
+Total Cost
+Service Hours
+ost per On
+Service Hour
+YEAR 7
+Estimated On-
+Demand
+Service Hours
+Total Cost
+TOTAL 24 MO.
+Total Cost
+Prout are per. T
+Customer Service
+Total Cost per On
+Tota disor co Hour
+Source of Funding
+City of Arlington (including
+Federal Transit
+Administration Funds)
+Estimated Service
+Revenue from Service
+Estimated Advertising
+Revenue
+Total Funding
+$10,860,796
+$11,187,120
+$22,047,916
+"On-demand service hour" or "service hour" means an hour that one driver is providing service
+pursuant to this Contract.
+The total number of service hours may differ from those set forth herein based on the mutual
+agreement of the parties, as long as the total cost paid by the City does not exceed the total "not
+to exceed" amount (subject to the provisions of the Contract). The Total Annual Cost shown
+above is based on the below assumptions with respect to source of funding. That amount (and
+the resulting number of service hours and operating hours required to be provided by Contractor)
+may change if the actual fare revenue differs from projections.
+=== page 55 ===
+Standard Via Service Costs
+Amount Year 2
+Amount Year 1
+Total Contract
+Amount
+Source of
+Funding
+City of Arlington
+(including Federal
+Transit
+Administration
+Funds)
+Estimated Service
+Revenue from
+Service
+Estimated
+Advertising Revenue
+Maximum Total
+Standard Via
+Service Costs
+Related Service Costs
+Maximum Funding
+for Arlington Student
+Transportation
+Program*
+Maximum Funding
+from Arlington
+RAPID Funds**
+Maximum Additional
+Funding for Intercity
+Service***
+$8,369,218
+$2,131,982
+$359,596
+$10,860,796
+N/A
+N/A
+$2,000,000
+All Costs
+Maximum Expenditure Amount (2 Years)
+$8,695,542
+$2,131,982
+$359,596
+$11,187,120
+N/A
+N/A
+$2,000,000
+$17,064,760
+$4,263,964
+$719,192
+$22,047,916
+$179,502
+$4,020,224
+$4,000,000
+$30,247,642
+*The City Funding for Arlington Student Transportation Program was made possible by
+additional funding from NCTCOG. As of October 31, 2022, $179,502 of the original $350,000
+was available to cover the cost of free Via rides for eligible students. There is no additional cost
+for the City for this Program.

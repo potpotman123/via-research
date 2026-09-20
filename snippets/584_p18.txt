@@ -1,0 +1,145 @@
+# source: raw/bleecker_drive/Cap Metro/500030.pdf
+# path: raw/bleecker_drive/Cap Metro/500030.pdf
+# hit page: 18 of 63
+# terms: Remix Technologies
+
+=== page 17 ===
+DocuSign Envelope ID: 9D1541DE-6DB6-4AD5-9AC3-C940472B84DC
+CAPITAL METROPOLITAN TRANSPORTATION AUTHORITY
+_ will
+X will not
+provide covered telecommunications equipment or services to the Authority in the performance of any contract, sub-
+contract or other contractual instrument resulting from this solicitation. The Offeror shall provide the additional disclo-
+sure information required at paragraph (d)(1) of this section if the Offeror responds "will" in paragraph (c)(1) of this
+section; and
+(2) After conducting a reasonable inquiry, for purposes of this representation, the Offeror represents that—
+does
+X does not
+use covered telecommunications equipment or services, or use any equipment, system, or service that uses covered
+telecommunications equipment or services. The Offeror shall provide the additional disclosure information required
+at paragraph (d)(2) of this section if the Offeror responds "does" in paragraph (c)(2) of this section.
+(d) Disclosures.
+(1) Disclosure for the representation in paragraph (c)(1) of this provision. If the Offeror has responded "will"
+in the representation in paragraph (c)(1) of this provision, the Offeror shall provide the following information as part
+of the offer:
+(i) For covered equipment—
+inique entity identifier. CAGE code
+distributor, if known);
+(C) Explanation of the proposed use of covered telecommunications equipment and any factors
+relevant to determining if such use would be permissible under the prohibition in paragraph (a)(1) of this provision.
+ii) For covered services—
+(A) If the service is related to item maintenance: A description of all covered telecommunications
+services offered (include on the item being maintained: Brand; model number, such as OEM number, manufacturer
+part number, or wholesaler number; and item description, as applicable); or
+(B) If not associated with maintenance, the Product Service Code (PSC) of the service being
+provided; and explanation of the proposed use of covered telecommunications services and any factors relevant to
+determining if such use would be permissible under the prohibition in paragraph (a)(1) of this provision.
+Disclosure for the representation in paragraph (c)(2) of this provision. If the Offeror has responded "does"
+in the representation in paragraph (c)(2) of this provision, the Offeror shall provide the following information as part
+of the offer:
+(i) For covered equipment—
+inique entity identifier. CAGE code
+SSP 308552 (08/12/2022)
+Page 12 of 13
+Exhibit B
+=== page 18 ===
+DocuSign Envelope ID: 9D1541DE-6DB6-4AD5-9AC3-C940472B84DC
+CAPITAL METROPOLITAN TRANSPORTATION AUTHORITY
+(B) A description of all covered telecommunications equipment offered (include brand; model
+number, such as OEM number, manufacturer part number, or wholesaler number; and item description, as applica-
+(C) Explanation of the proposed use of covered telecommunications equipment and any factors
+relevant to determining if such use would be permissible under the prohibition in paragraph (a)(2) of this provision.
+ii) For covered services—
+(A) If the service is related to item maintenance: A description of all covered telecommunications
+services offered (include on the item being maintained: Brand; model number, such as OEM number, manufacturer
+part number, or wholesaler number; and item description, as applicable); or
+(B) If not associated with maintenance, the PSC of the service being provided; and explanation
+of the proposed use of covered telecommunications services and any factors relevant to determining if such use
+would be permissible under the prohibition in paragraph (a)(2) of this provision.
+18. SIGNATURE BLOCK FOR ALL REPRESENTATIONS AND CERTIFICATIONS
+(a) These representations and certifications concern a material representation of fact upon which reliance will be
+placed in awarding a contract. If it is later determined that the offeror knowingly rendered an erroneous or false
+certification, in addition to all other remedies the Authority may have, the Authority may terminate the contract for
+default and/or recommend that the offeror be debarred or suspended from doing business with the Authority in the
+future.
+(b) The offeror shall provide immediate written notice to the Authority if, at any time prior to contract award, the
+offeror learns that the offeror's certification was, or a subsequent communication makes, the certification erroneous.
+(c) Offerors must set forth full, accurate and complete information as required by this solicitation (including this
+attachment). Failure of an offeror to do so may render the offer nonresponsive.
+(d) A false statement in any offer submitted to the Authority may be a criminal offense in violation of Section 37.10
+of the Texas Penal Code.
+I understand that a false statement on this certification may be grounds for rejection of this submittal or termi-
+nation of the awarded contract.
+Name of Offeror:
+Remix Technologies LLC
+Type/Print Name of Signatory:
+Dillon Twombly
+Signature:
+Dillon Twambly
+Date:
+9/16/2022
+SSP 308552 (08/12/2022)
+Page 13 of 13
+Exhibit B
+=== page 19 ===
+CAPITAL METROPOLITAN TRANSPORTATION AUTHORITY 
+____________________________________________________________________________
+__________________________________________________________________________________________________________________ 
+SSP 308552  
+Page 1 of 25 
+Exhibit E-Revised-1 
+EXHIBIT E-REVISED-1 
+CONTRACTUAL TERMS AND CONDITIONS 
+(SERVICES CONTRACT) 
+____________________________________________________________________________
+1.
+DEFINITIONS
+As used throughout this Contract, the following terms shall have the meaning set forth below: 
+(a) 
+“Applicable Anti-Corruption and Bribery Laws” means international, federal, state, provincial and local laws, 
+rules, regulations, directives and governmental requirements currently in effect and as they become effective relating 
+in any way to the Contractor’s provision of goods and/or services to Authority, including without limitation “FCPA” or 
+any applicable laws and regulations, including in the jurisdiction in which the Contractor operates and/or manufac-
+tures goods for the Authority, relating to anti-corruption and bribery. 
+(b) 
+“Authority”, “Capital Metro”, “Cap Metro”, “CMTA” means Capital Metropolitan Transportation Authority. 
+(c) 
+“Change Order” means a written order to the Contractor signed by the Contracting Officer, issued after execu-
+tion of the Contract, authorizing a change in the term or scope of the Contract. 
+(d) 
+“Contract” or “Contract Documents” means this written agreement between the parties comprised of all the 
+documents listed in the Table of Contents, Change Orders and/or Contract Modifications that may be entered into by 
+the parties. 
+(e) 
+“Contract Award Date” means the date of the Contract award notice, which may take the form of a purchase 
+order, signed Contract or Notice of Award, issued by the Authority. 
+(f) 
+“Contract Modification” means any changes in the terms or provisions of the Contract which are reduced to 
+writing and fully executed by both parties. 
+(g) 
+“Contract Sum” means the total compensation payable to the Contractor for performing the Services as origi-
+nally contracted for or as subsequently adjusted by Contract Modification.  
+(h) 
+“Contract Term” means period of performance set forth in the paragraph entitled “Term” contained in Exhibit E-
+Revised-1. 
+(i) 
+"Contracting Officer" means a person with the authority to enter into, administer, and/or terminate contracts 
+and make related determinations and finding on behalf of the Authority.  The term includes certain authorized repre-
+sentatives of the Contracting Officer acting within the limits of their authority as delegated by the Contracting Officer. 
+(j) 
+“Contractor” means the entity that has assumed the legal obligation to perform the Services as identified in the 
+Contract. 
+(k) 
+“Days” means calendar days.  In computing any period of time established under this Contract, the day of the 
+event from which the designated period of time begins to run shall not be included, but the last day shall be included 
+unless it is a Saturday, Sunday, or Federal or State of Texas holiday, in which event the period shall run to the end 
+of the next business day. 
+(l) 
+“FAR” means the Federal Acquisition Regulations codified in 48 C.F.R. Title 48. 
+(m) 
+“FCPA” means the United States Foreign Corrupt Practices Act, 15 U.S.C. §§ 78dd-1, et seq., as amended. 
+(n) 
+“Force Majeure Event” means strikes, lockouts, or other industrial disputes; explosions, epidemics, civil dis-
+turbances, acts of domestic or foreign terrorism, wars within the continental United States, riots or insurrections; 
+embargos, natural disasters, including but not limited to landslides, earthquakes, floods or washouts; interruptions by 
+DocuSign Envelope ID: 50401B53-7427-4701-AC18-B2EE4856E9D0

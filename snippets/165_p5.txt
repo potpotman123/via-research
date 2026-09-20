@@ -1,0 +1,121 @@
+# source: https://legistar.granicus.com/huntsvilleal/attachments/9800841b-3948-44e2-9e23-ef2ab1007faf.pdf
+# path: raw/cache/bbbdb020c072a8b6124814a71fc2748079790ca2.pdf
+# hit page: 5 of 37
+# terms: RideCo
+
+=== page 4 ===
+RIDECO SUBSCRIPTION AND SERVICES AGREEMENT
+"Maximum Available Minutes" is the total accumulated minutes during a calendar month when
+the Service Offerings are expected to be available to facilitate the booking and provision of
+passenger rides and for the use of onerator dashboards.
+Monthly Uptime % = (Maximum Available Minutes - Downtime) / Maximum Available
+Minules
+"Personal Data" has the meaning given in Schedule "C".
+"Platform Software" means collectively the RideCo Dynamic Transit System (DTS) cloud
+platform technology and underlying software, including its dynamic routing technologies, ride-
+sharing technologies, algorithms,
+implementation architectures, operations dashboards, user
+interfaces, and application programming interfaces (*APis") to third party systems.
+"Operational Data" means data recorded by the Distributed Software and presented through
+export on the operations dashboard end-user interlace, where such data is provided by Customer
+of passengers or partner drivers and operators of Customer. For greater certainty, Operational Data
+includes, but is not limited to, passenger ride booking information (origin, destination, time,
+ayment, status) and driver action data (location data, pickup/drop-off times) however Operationa
+Data does not include System Log Data or any other data that is not provided as an export to a
+end user through the operations dashboard end-user interface.
+Purchase Order" means any purchase order signed by RideCo (or its agents or distributors o
+esellers) and the Customer respecting the Service Offerings, either attached to this Agreement o
+incorporated by reference.
+•Service ONcring
+associated APls and
+nterices to third party systems provided by Ride pursuan ema statementor worn an
+terms of this Agreement.
+"Suftware" means collectively the Distributed Software, Platform Software, and any interfaces
+between the lwo.
+"Software Enhancements" means an update or upgrade to the Distributed Software or to the
+allorar Software, which update or upgrade may include new product features that change thc
+character or structure of the sofiware or its functional use or opcration and will usually form part
+of an automatic update to the Software without any action being required from Customer.
+"System Log Data" means data derived by RideCo from Operational Dain which has been
+contain any Customer Confidential Information.
+RideCo Confidential
+Page 2 of 34
+=== page 5 ===
+RIDECO SUBSCRIPTION AND SERVICES AGREEMENT
+chicle Hours" means the hours that a vehicle is scheduled to or actually travels from the tit
+pulls out from its garage to go into revenue service to the time il pulls in from revenue servi
+"Vehicles in Operation" means the maximum number of vehicles actually operated lo provide
+service on an average weekday.
+1.02
+Schedules: The schedules to this Agreement are set forth as follows:
+Schedule "A"
+Exhibit 1 to Schedule "A"
+Schedule "B"
+Schedule "C"
+Schedule "D"
+Schedule "E"
+Statement of Work
+Financial Terms
+Scrvice Level Agreement
+Data Protection Undertaking
+Insurance
+Federal Provisions
+2. SERVICE OFFERINGS LICENSE, INTELLECTUAL PROPERTY RIGITS,
+CONFIDENTIALITY
+2.01
+License Grant: Subject to the terms of this Agreement, RideCo grants Customer a
+limited, revocable, non-exclusive and non-transferable license to: (a) access and use the
+Suftware. RideCo or its agents, resellers or distributors may release from time to time to
+Customer at no additional charge during the term of this Agreement, sofware bug fixes
+and patches and such releases shall be considered "Softwarc" hercunder and subject to
+the terms of this Agreement unless otherwise specified by RideCo. This license does not
+imply any rights to Software Enhancements or technical or other support services, excep
+us otherwise expressly set forth herein. As used herein the "Intended Purpose" means use
+of the Service Offerings for the purpose of providing dynamic routing and shared ride
+Restrictions & End User Terms:
+2.02
+(a)
+RideCo Confidential
+Page 3 of 34
+=== page 6 ===
+2.03
+2.04
+2.05
+2.06
+2.07
+2.08
+RIDECO SUBSCRIPTION AND SERVICES AGREEMENT
+RideCo will inform end users that the transportation services are provided by
+Customer (or its partner drivers, as appropriate); not RideCo.
+RideCo Intellectual Property. All intellectual property created or developed by or on
+behalf of RideCo prior to or independently of this Agreement shall remain vested in
+RideCo, which background intellectual property of RideCo includes know-how,
+processes, methodologies and all proprietary information and materials of RideCo, the
+RideCo micro transit technology and all soflware code and algorithms used in the
+provision of services hereunder.
+Except as specifically set out in this Agreement or a
+SOW, no rights whatsoever are granted to Client in the patents, copyrights, trade secrets,
+trademarks or other intellectual property of RideCo whether created prior to, during or
+after the performance of this Agreement. For certainty, any improvements, modifications
+or customizations made to RideCo's background intellectual property, whether requested
+or suggested by Client, will belong exclusively to RideCo and to the extent Client acquires
+any right therein, Client will assign the same immediately to RideCo and waive any moral
+rights in connection with the same. Any deliverubles developed specifically for Client as
+right, title and interest and all intellectual property rights to any deliverables created by
+RideCo pursuant to this Agreement or any SOW hereunder and such deliverables shall
+not be considered "works made for hire".
+Operational Data. As
+between Customer and RideCo, Customer will own the
+oyalty-free right and license to access and use the Operational Data For thomance o05c
+Service Offerings; and (li) creating System Log Data (as defined in Section 2.05 below).
+Customer is not entitled to receive any compensation or re-imbursement of any kind from
+RideCo for use of said Operational Data. Except as otherwise expressly permitted in this
+Agreement, RideCo docs not claim any right, title or interest in the Operational Data
+customer represents and warrants that Customer has all necessary consents (if any)
+relating to the collection, retention, use, processing and disclosure of Operational Data
+Data Protection Undertaking. RideCo hereby agrees and undertakes to comply with the
+eggestions. RideCo shall have a royalty-free, worldwide, transferable, sub licensat
+evocable, perpetual, unrestricted license to use and/or incorporate into its produc
+Necdos no did by eus soner tining hate operation ests, Service dating or other
+RideCo Confidential
+Page 4 of 34

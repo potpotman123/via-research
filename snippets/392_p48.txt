@@ -1,0 +1,168 @@
+# source: raw/bleecker_drive/Los Alamos (Spare Labs)/1040_24_A_-_AGR_24-37_Spare_Labs_Inc.pdf
+# path: raw/bleecker_drive/Los Alamos (Spare Labs)/1040_24_A_-_AGR_24-37_Spare_Labs_Inc.pdf
+# hit page: 48 of 81
+# terms: Spare Labs
+
+=== page 47 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+47 
+ Agreement Template Version: 04012024 
+Exhibit E 
+Contractor’s Privacy Policy 
+AGR24-37 
+ 
+This Exhibit E is included herein for reference only and reflects Contractor’s Privacy Policy, which may be 
+found at https://sparelabs.com/en/security, as provided in Contractor’s Response.  Contractor may modify 
+this Policy from time to time throughout the Term of this Agreement provided privacy is maintained at 
+substantially equivalent levels throughout the Term of this Agreement.  Any terms or conditions of the 
+following Contractor Privacy Policy that conflict with the terms and conditions of AGR24-37, or with the laws 
+of New Mexico or the United States, are null and void as a matter of law.  
+ 
+ 
+Overview 
+Spare respects our customers' privacy and keeping our customers' data protected at all times is our 
+highest priority. This security overview provides a high-level overview of the security practices put in place 
+to achieve that objective. Have questions or feedback? Feel free to reach out to us at 
+security@sparelabs.com. 
+SOC-2 and HIPAA compliance 
+Spare has been audited by an independent certified auditor and is certified to SOC 2 Type II. SOC 2 is 
+widely recognized as the gold standard for data security and requires organizations to establish and 
+follow strict information security policies and procedures. To accomplish this, we use the best-in-class 
+security tools and practices to maintain a high level of security at Spare. 
+Additionally Spare has independently verified compliance to HIPAA. HIPAA compliance involves fulfilling 
+the requirements of the Health Insurance Portability and Accountability Act of 1996, its subsequent 
+amendments, and any related legislation such as HITECH. 
+Infrastructure 
+• 
+All of our services run in the cloud. We don’t host or run our own routers, load balancers, DNS 
+servers, or physical servers. 
+• 
+Our service is built on Google Cloud Platform (GCP). They provide strong security measures to 
+protect our infrastructure and are compliant with most certifications. 
+Data center security 
+Our data center is located in Canada. It is a ISO 27001, GDPR, HIPAA compliant facility. Our servers 
+separated on dedicated virtual machines from other data center customers. We enforce TLS for 
+connections used in transferring data and encrypt it while it is on disk. 
+Network level security monitoring and protection 
+Our network security architecture consists of multiple security zones. We monitor and protect our network, 
+to make sure no unauthorized access is performed using: 
+• 
+A virtual private cloud (VPC), a bastion host or VPN with network access control lists (ACL’s) and 
+no public IP addresses. 
+• 
+A firewall that monitors and controls incoming and outgoing network traffic. 
+Attachment A
+=== page 48 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+48 
+ Agreement Template Version: 04012024 
+• 
+An Intrusion Detection and/or Prevention technologies (IDS/IPS) solution that monitors and 
+blocks potential malicious packets. 
+• 
+IP address filtering 
+DDoS protection 
+We use Distributed Denial of Service (DDoS) mitigation services powered by an industry-leading solution. 
+Data encryption 
+Encryption in transit: All data sent to or from our infrastructure is encrypted in transit via industry best-
+practices using Transport Layer Security (TLS). 
+Encryption at rest: All our user data (including passwords) is encrypted using battled-proofed encryption 
+algorithms in the database. 
+Data retention and removal 
+Organizations on Spare Platform can configure security requirements to meet their needs, including 
+automatic removal an anonymization of user data in compliance with GDPR regulations. 
+Business continuity and disaster recovery 
+We back up all our critical assets and regularly attempt to restore the backup to guarantee a fast recovery 
+in case of disaster. All our backups are encrypted. 
+Application security monitoring 
+• 
+We use a security monitoring solution to get visibility into our application security, identify attacks 
+and respond quickly to a data breach. 
+• 
+We use technologies to monitor exceptions, logs and detect anomalies in our applications. 
+• 
+We use monitoring such as open tracing in our microservices. 
+Application security protection 
+• 
+We use a runtime protection system that identifies and blocks OWASP Top 10 and business logic 
+attacks in real-time. 
+• 
+We use security headers to protect our users from attacks. You can check our grade on this 
+security scanner. 
+• 
+We use security automation capabilities that automatically detect and respond to threats targeting 
+our apps. 
+Secure development 
+We develop following security best practices and frameworks (OWASP Top 10, SANS Top 25). We use 
+the following best practices to ensure the highest level of security in our software: 
+• 
+Developers participate in regular security training to learn about common vulnerabilities and 
+threats 
+• 
+We review our code for security vulnerabilities 
+• 
+We regularly update our dependencies and make sure none of them has known vulnerabilities 
+Responsible disclosure 
+Attachment A
+=== page 49 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+49 
+ Agreement Template Version: 04012024 
+We encourage everyone that practices responsible disclosure and comply with our policies and terms of 
+service to participate in our bug bounty program. Please avoid automated testing and only perform 
+security testing with your own data. Please do not disclose any information regarding the vulnerabilities 
+until we fix them. Rewards are done at our discretion depending on the criticality of the vulnerability 
+reported. 
+You can report vulnerabilities by contacting security@sparelabs.com. Please include a proof of concept. 
+We will respond as quickly as possible to your submission and won’t take legal actions if you follow the 
+rules. 
+Coverage 
+• 
+sparelabs.com 
+• 
+platform.sparelabs.com 
+• 
+api.sparelabs.com 
+• 
+routing.sparelabs.com 
+• 
+forms.sparelabs.com 
+Exclusions 
+• 
+Other subdomains of sparelabs.com 
+Accepted vulnerabilities are the following: 
+• 
+Cross-Site Scripting (XSS) 
+• 
+Open redirect 
+• 
+Cross-site Request Forgery (CSRF) 
+• 
+Command/File/URL inclusion 
+• 
+Authentication issues 
+• 
+Code execution 
+• 
+Code or database injections 
+This bug bounty program does NOT include: 
+• 
+Logout CSRF 
+• 
+Account/email enumerations 
+• 
+Denial of Service (DoS) 
+• 
+Attacks that could harm the reliability/integrity of our business 
+• 
+Spam attacks 
+• 
+Clickjacking on pages without authentication and/or sensitive state changes 
+• 
+Mixed content warnings 
+• 
+Lack of DNSSEC 
+Attachment A

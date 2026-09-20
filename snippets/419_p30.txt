@@ -1,0 +1,562 @@
+# source: raw/bleecker_drive/Utah Transit Authority/877423.pdf
+# path: raw/bleecker_drive/Utah Transit Authority/877423.pdf
+# hit page: 30 of 141
+# terms: Via Transportation
+
+=== page 29 ===
+SUMMARY OF ACCOUNTS RECEIVABLE
+EXHIBIT 1-9
+(UNAUDITED)
+As of June 30, 2022
+Classification
+Total
+Current
+31-60 Days
+61-90 Days
+90-120 Days Over 120 Days
+1
+Federal Grants Government Ϸ
+4,007,470
+$      
+4,007,470
+$
+-
+-
+-
+                 
+-
+2
+Sales Tax Contributions
+51,317,699
+      
+25,658,850
+25,658,850
+$
+-
+-
+                 
+-
+3
+Warranty Recovery
+2,209,465
+        
+2,209,465
+-
+-
+-
+                 
+-
+4
+Build America Bond Subsidies
+740,750
+           
+740,750
+-
+-
+-
+                 
+5
+Product Sales and Development
+1,440,722
+        
+390,347
+336,552
+39,931
+$
+43,605
+$         
+630,287
+$
+6
+Pass Sales
+158,600
+           
+178,328
+68,993
+(23,763)
+$
+75,345
+$         
+(140,303)
+$
+7
+Property Management
+93,871
+             
+27,585
+25,773
+600
+-
+                 
+39,913
+8
+Vanpool/Rideshare
+125,427
+           
+51,281
+12,901
+8,109
+22,425
+           
+30,711
+9
+Salt Lake City Agreement
+1,070,047
+        
+738,777
+145,616
+101,413
+84,241
+           
+-
+10
+Planning
+6,674
+               
+-
+-
+-
+-
+                 
+6,674
+11
+Capital Development Agreements
+3,391,514
+        
+3,130,226
+-
+-
+-
+                 
+261,288
+12
+Other 
+15,766,141
+      
+15,766,141
+-
+-
+-
+                 
+-
+13
+Total
+80,328,380
+$    
+52,899,220
+$
+26,248,685
+$
+126,290
+$
+225,616
+$       
+828,570
+$
+Percentage Due by Aging
+14
+Federal Grants Government Ϸ
+100.0%
+0.0%
+0.0%
+0.0%
+0.0%
+15
+Sales Tax Contributions
+50.0%
+50.0%
+0.0%
+0.0%
+0.0%
+16
+Warranty Recovery
+100.0%
+0.0%
+0.0%
+0.0%
+0.0%
+17
+Build America Bond Subsidies
+100.0%
+0.0%
+0.0%
+0.0%
+0.0%
+18
+Product Sales and Development
+27.1%
+23.4%
+2.8%
+3.0%
+43.7%
+19
+Pass Sales
+112.4%
+43.5%
+-15.0%
+47.5%
+-88.5%
+20
+Property Management
+29.4%
+27.5%
+0.6%
+0.0%
+42.5%
+21
+Vanpool/Rideshare
+40.9%
+10.3%
+6.5%
+17.9%
+24.5%
+22
+Salt Lake City Agreement
+69.0%
+13.6%
+9.5%
+7.9%
+0.0%
+23
+Planning
+0.0%
+0.0%
+0.0%
+0.0%
+100.0%
+24
+Capital Development Agreements
+92.3%
+0.0%
+0.0%
+0.0%
+7.7%
+25
+Other 
+100.0%
+0.0%
+0.0%
+0.0%
+0.0%
+26
+Total
+65.9%
+32.7%
+0.2%
+0.3%
+1.0%
+¹ Federal preventive maintenance funds, federal RideShare funds, and federal CARES Act, CRRSA, ARPA funding
+29
+=== page 30 ===
+SUMMARY OF APPROVED DISBURSEMENTS OVER $200,000 
+EXHIBIT 1-10
+FROM MAY 1, 2022 THROUGH MAY 31, 2022
+(UNAUDITED)
+Contract # and Description
+Contract Date
+Vendor
+Check #
+Date
+Check Total
+18-2741
+DEPOT DISTRICT TECHNOLOGY CENTER
+8/23/2018 BIG-D CONSTRUCTION
+890894
+6/1/2022
+234,004.00
+$   
+19-2972PP
+TRANSIT SYSTEM UPGRADES
+1/24/2019 TRAPEZE SOFTWARE GROUP, INC.
+890895
+6/1/2022
+350,432.00
+21-3488VW
+MOBU BUS FACILITY EXPANSION
+10/29/2021 R & O CONSTRUCTION
+890896
+6/1/2022
+363,744.02
+R2022-04-01
+SELECT HEALTH
+ZION-ACH
+6/1/2022
+735,046.87
+R2022-04-01
+PEHP
+ZION-ACH
+6/1/2022
+274,492.03
+R2022-04-01
+UTAH STATE TAX WITHHOLDING
+WITHDRAWAL
+6/2/2022
+280,855.04
+R2022-04-01
+CAMBRIDGE ASSOCIATES, LLC.
+ZION-ACH
+6/2/2022
+895,560.83
+R2022-04-01
+ROCKY MOUNTAIN POWER
+367883
+6/9/2022
+633,237.65
+19-0312PP
+27-45' COMMUTER BUSES
+8/19/2020 MOTOR COACH INDUSTRIES  INC
+890892
+6/9/2022
+696,758.96
+19-03125BM
+DIESEL AND UNLEADED FUEL
+12/23/2019 RHINEHART OIL CO. INC.
+890893
+6/9/2022
+1,066,793.87
+18-2741
+DEPOT DISTRICT TECHNOLOGY CENTER
+8/23/2018 BIG-D CONSTRUCTION
+890894
+6/9/2022
+5,065,026.67
+20-03329BM
+LIFTS FOR DEPOT DISTRICT
+10/1/2020 STERTIL KONI USA INC.
+890979
+6/9/2022
+226,414.00
+20-3401VW
+FRONTRUNNER PAINT BOOTH
+4/6/2021 PAULSEN CONSTRUCTION, INC.
+890980
+6/9/2022
+238,679.90
+20-3349VW
+ON-CALL MAINTENANCE
+6/9/2021 STACY AND WITBECK, INC.
+890981
+6/9/2022
+265,389.76
+17-2283AB
+LAND USE CONNECTION PROGRAM
+7/13/2021 WASATCH FRONT REG COUNCIL
+368077
+6/16/2022
+262,500.00
+19-03125BM
+DIESEL AND UNLEADED FUEL
+12/23/2019 RHINEHART OIL CO. INC.
+891069
+6/16/2022
+379,299.13
+20-03384VW
+PROJECT MGMT SERVICES
+4/17/2021 HNTB CORPORATION
+891070
+6/16/2022
+532,242.79
+R2022-04-01
+UTAH STATE TAX WITHHOLDING
+WITHDRAWAL
+6/16/2022
+292,323.02
+R2022-04-01
+CAMBRIDGE ASSOCIATES, LLC.
+ZION-ACH
+6/16/2022
+927,351.41
+17-2283AB
+LAND USE CONNECTION PROGRAM
+7/26/2017 WASATCH FRONT REG COUNCIL
+368272
+6/22/2022
+225,000.00
+19-03125BM
+DIESEL AND UNLEADED FUEL
+12/23/2019 RHINEHART OIL CO. INC.
+891142
+6/22/2022
+205,947.49
+20-03243PP
+ADA PARATRANSIT AND ROUTE DEVIATION
+6/1/2020 MV PUBLIC TRANSPORTATION
+891143
+6/22/2022
+253,440.86
+18-2398TP
+TIGER GRANT CONSTRUCTION CONTRACT
+4/11/2018 GRANITE CONSTRUCTION COMPANY
+891144
+6/22/2022
+258,088.49
+19-0312PP
+27-45' COMMUTER BUSES
+8/19/2020 MOTOR COACH INDUSTRIES INC
+891145
+6/22/2022
+696,785.96
+20-3349VW
+ON-CALL MAINTENANCE
+6/9/2021 STACY AND WITBECK, INC.
+891146
+6/22/2022
+2,706,611.85
+R2022-04-01
+SELECT HEALTH
+ZION-ACH
+6/22/2022
+820,024.60
+R2022-04-01
+PEHP
+ZION-ACH
+6/22/2022
+271,153.28
+R2022-04-01
+ROCKY MOUNTAIN POWER
+368320
+6/29/2022
+225,296.16
+22-03546VW
+APPRENTICESHIP TRAINING CURRICULUM
+5/14/2022 XPAN INTERACTIVE USA INC.
+368321
+6/29/2022
+342,205.40
+A02767
+MEDICAID SEED MONEY TO STATE
+7/10/2019 DEPT OF HEALTH AND HUMAN SERVICES
+368322
+6/29/2022
+526,031.20
+UT CONTRACT#PA2214 COMPUTER EQUIPMENT
+10/30/2015 MOBILE CONCEPT TECHNOLOGY, LLC
+368400
+6/29/2022
+286,350.00
+17-2455JH
+LOCOMOTIVE REMANUFACTURER
+8/22/2018 MOTIVE POWER, INC
+891224
+6/29/2022
+392,183.00
+19-0312PP
+27-45' COMMUTER BUSES
+8/19/2020 MOTOR COACH INDUSTRIES INC
+891225
+6/29/2022
+696,758.96
+19-03043BM
+SALT LAKE COUNTY MICROTRANSIT 
+7/2/2019 VIA TRANSPORTATION INC
+891226
+6/29/2022
+815,181.65
+19-03125BM
+DIESEL AND UNLEADED FUEL
+12/23/2019 RHINEHART OIL CO. INC.
+891227
+6/29/2022
+1,247,419.63
+16-1680PP
+40 FOOT DIESEL AND CNG BUSES
+5/1/2016 GILLIG CORPORATION
+891228
+6/29/2022
+2,829,305.50
+R2022-04-01
+UTAH STATE TAX WITHHOLDING
+WITHDRAWAL
+6/30/2022
+273,768.34
+R2022-04-01
+CAMBRIDGE ASSOCIATES, LLC.
+ZION-ACH
+6/30/2022
+896,340.23
+R2022-04-01
+BANC OF AMERICA PUBLIC CAPITAL
+ZION-ACH
+6/30/2022
+218,555.78
+R2022-04-01
+JP MORGAN EQUIPMENT FINANCE
+ZION-ACH
+6/30/2022
+246,288.77
+ϰϲ
+ϰϭ
+ϯϵ
+ϱϱ
+ϯϵ
+ϯϯ
+ϯϱ
+ϯϯ
+ϰϭ
+ϯϴ
+ϰϮ
+ϰϰ
+ϰϵ
+Ϭ
+ϭϬ
+ϮϬ
+ϯϬ
+ϰϬ
+ϱϬ
+ϲϬ
+:ƵŶϮϬϮϭ
+:ƵůϮϬϮϭ
+ƵŐϮϬϮϭ
+^ĞƉϮϬϮϭ
+KĐƚϮϬϮϭ
+EŽǀϮϬϮϭ
+ĞĐϮϬϮϭ
+:ĂŶϮϬϮϮ
+&ĞďϮϬϮϮ
+DĂƌϮϬϮϮ
+ƉƌϮϬϮϮ
+DĂǇϮϬϮϮ
+:ƵŶϮϬϮϮ
+ǀĞƌĂŐĞĂǇƐƚŽWĂǇ
+30
+=== page 31 ===
+Utah Transit Authority
+MEETING MEMO
+669 West 200 South
+Salt Lake City, UT 84101
+Board of Trustees
+Date: 8/10/2022
+TO:
+Board of Trustees
+THROUGH:
+Jay Fox, Executive Director
+FROM:
+Nichol Bourdeaux, Chief Planning and Engagement Officer
+Cherryl Beveridge, Acting Chief Operating Officer
+PRESENTER(S):
+Jaron Robertson, Acting Planning Director
+Ryan Taylor, Special Services General Manager
+TITLE:
+Contract: UTA-Tooele County Flex Route and On-Demand Microtransit Services Operating Agreement
+(Tooele County Health and Aging Services)
+AGENDA ITEM TYPE:
+Non-Procurement Agreement
+RECOMMENDATION:
+Approve the UTA-Tooele County Flex Route and On-Demand Microtransit Services Operating Agreement and
+authorize UTA’s Executive Director to execute the contract and associated disbursements with Tooele County
+Health and Aging Services (Tooele County) for the operations of Route F453 and UTA On-Demand Microtransit
+service in the amount of $9,105,434.
+BACKGROUND:
+The UTA-Tooele County Flex Route and On-Demand Microtransit Services Operating Agreement (Agreement)
+defines the terms and conditions between UTA and Tooele County for operations of UTA Flex Route and
+Microtransit services to be provided by Tooele County. These services are outlined in the UTA Five-Year Service
+Plan and are scheduled to be implemented as part of the August 2022 Change Day.
+UTA has also received a 2021 Federal Transit Administration (FTA) NoLo Emissions Grant to support the
+deployment of a fully electrified Microtransit service within Tooele County. It is anticipated the electrification
+of the Microtransit service will begin in late 2023.
+Tooele County will provide the day-to-day operations, including administrative oversight, customer support,
+vehicle operations and maintenance for Microtransit services within the UTA On Demand Tooele County zone
+and for Route F453 between Tooele and Salt Lake Counties. In partnership with Via, Tooele County will use
+Via’s software system to operate Microtransit services and driver scheduling. The Software as a Service (SaaS)
+Page 1 of 3
+31

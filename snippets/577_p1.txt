@@ -1,0 +1,60 @@
+# source: raw/bleecker_drive/Fresno/24_1308_Service_Contract.pdf
+# path: raw/bleecker_drive/Fresno/24_1308_Service_Contract.pdf
+# hit page: 1 of 3
+# terms: Remix Technologies
+
+=== page 1 ===
+GSD-B Service Contract – Contractor (01-2024) 
+- 1 - 
+SERVICE CONTRACT
+THIS CONTRACT (Contract) is made and entered into by and between the CITY OF 
+FRESNO, a California municipal corporation (City), and , Remix Technologies, LLC.
+(Contractor), as follows:
+1.
+CONTRACT DOCUMENTS. The "Notice Inviting Bids," "Instructions to 
+Bidders," "Bid Proposal," and the "Specifications" including "General Conditions", 
+"Special Conditions" and "Technical Specifications" for the following: Request for 
+Proposals Requirements Contract for Cloud Based Transit Planning Software (Bid File 
+No. 12402788)   
+copies of which are annexed hereto, together with all the drawings, 
+plans, and documents specifically referred to in said annexed documents, and are hereby 
+incorporated into and made a part of this Contract, and shall be known as the Contract 
+Documents.  
+2. 
+PRICE.  For the monetary consideration of $197,000.00, as set forth in the 
+Bid Proposal, Contractor promises and agrees to furnish or cause to be furnished, in a 
+new and working condition, and to the satisfaction of City, and in strict accordance with 
+the Specifications, all of the items as set forth in the Contract Documents.
+3.
+PAYMENT. City accepts Contractor's Bid Proposal as stated and agrees to 
+pay the consideration stated, at the times, in the amounts, and under the conditions 
+specified in the Contract Documents.
+4.
+INDEMNIFICATION: To the furthest extent allowed by law, including 
+California Civil Code section 2782, Contractor shall indemnify, hold harmless and defend 
+City and each of its officers, officials, employees, agents and volunteers from any and all 
+loss, liability, fines, penalties, forfeitures, costs and damages (whether in contract, tort or 
+strict liability, including, but not limited to personal injury, death at any time and property 
+damage) incurred by City, Contractor or any other person, and from any and all claims, 
+demands and actions in law or equity (including reasonable attorney's fees, litigation 
+expenses, and costs to enforce this Contract), arising or alleged to have arisen directly 
+or indirectly out of performance of this Contract. Contractor's obligations under the 
+preceding sentence shall apply regardless of whether City or any of its officers, officials, 
+employees, agents or volunteers are passively negligent, but shall not apply to any loss, 
+liability, fines, penalties, forfeitures, costs or damages caused by the active or sole 
+negligence, or by the willful misconduct, of City or any of its officers, officials, employees, 
+agents or volunteers. 
+If Contractor should subcontract all or any portion of the work to be performed under 
+this Contract, Contractor shall require each subcontractor to indemnify, hold harmless 
+and defend City and each of its officers, officials, employees, agents, and volunteers in 
+accordance with the terms of the preceding paragraph. 
+This section shall survive termination or expiration of this Contract. 
+5. 
+The City Manager, or designee, is hereby authorized and directed to execute 
+and implement this Agreement. The previous sentence is not intended to delegate any 
+authority to the City Manager to administer the Agreement, any delegation of authority 
+must be expressly included in the Agreement.
+=== page 2 ===
+GSD-B Service Contract – Contractor (01-2024) 
+- 2 - 
+[Signatures follow on the next page.]

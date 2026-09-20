@@ -1,0 +1,125 @@
+# source: raw/bleecker_drive/Topeka/Proposal-ViaMobilityLLCforPosting.pdf
+# path: raw/bleecker_drive/Topeka/Proposal-ViaMobilityLLCforPosting.pdf
+# hit page: 21 of 44
+# terms: Via+fleet, Via+per trip, Via+vehicles
+
+=== page 20 ===
+Via also offers our partners the most advanced transportation planning, design, and scheduling
+software through Remix, which hundreds of cities and transit authorities use to design, plan,
+optimize, and analyze multimodal transportation systems. We have deployed transit solutions in
+partnership with over 600 cities and transit agencies, including Metro, in nearly 50 countries
+around the world, as shown in the map below. In addition to Remix Transit and Remix Scheduling,
+for more details on how our other Remix suites and service planning simulation tool can inform our
+microtransit service with Metro, please see Section 8.3.3.
+8.3.2 The Via Advantage for Metro
+Via has earned a reputation for partner success by delivering outstanding project results, every
+time.
+We recognize that implementing new technology systems can be challenging for cities and transit
+providers, and that Metro has a choice when it comes to transit technology providers. Some offer
+lower fees than Via. Going that route may look less expensive, but there are hidden risks: inferior
+technology and expertise leading to poor experiences for riders, drivers, and dispatchers,
+ultimately resulting in unsuccessful services.
+Via approaches partnerships differently. Our mission is not just to meet our partners’ goals. It’s to
+exceed them. So we recruit the most talented software engineers, highly-trained transit planners,
+and skillful partner success experts. We directly deliver turnkey microtransit services using our
+own software, leveraging direct operational experience to continuously improve our technology for
+accessible and reliable transit service.
+RFP for Microtransit System | 46
+=== page 21 ===
+Via will provide Metro with more dollar-for-dollar impact than other providers. With Via as its
+partner, Metro will:
+●
+Delight riders: Riders will love Metro’s services because Via makes public transit the most
+convenient, accessible, and reliable transportation option. Our services reduce wait times
+by an average of 36% compared to other microtransit providers.
+●
+Grow ridership: Delighted riders become regular customers, meaning that we will drive
+both immediate and long-term ridership growth for Metro’s services. On average, Via
+increases ridership 289% when replacing or extending fixed-route bus service.
+●
+Reduce costs: Even as Metro’s services grow, we will reduce operating costs by
+automating service management and driving high vehicle utilization, resulting in better
+service using fewer vehicles, fewer miles traveled, and fewer dollars. We reduce costs by
+an average of 24% when replacing or extending fixed-route service.
+●
+Increase equity and accessibility: By prioritizing deploying effective on-demand
+microtransit in areas with limited public transit service, we increase access to opportunity
+for all. In the communities we serve, we have increased the number of jobs accessible by
+public transit by 46%.
+Only Via has a demonstrated record of successfully deploying and scaling solutions of this
+complexity and breadth, and supporting partners across the entire lifecycle of service delivery.
+Specifically, the following attributes set Via apart from other providers:
+●
+We are the only on-demand dispatch software provider with experience growing pilots
+into full-scale transit services at a sustainable cost. Informed by measurable
+achievements like increased ridership and reduced cost per trip over time, Via partners
+typically expand their services
+through fleet size increases,
+service zone expansions, and
+contract renewals. For example,
+since launching an on-demand
+service pilot in the City of Arlington,
+TX (a city with no formal public
+transportation network prior to Via)
+in 2018, we have grown the service
+by ten times to deliver over one
+million total rides as of February
+2022. This has driven a steady
+decrease in per-trip costs, and
+ongoing reduction in citywide
+vehicle miles traveled (VMT) as
+more riders take shared trips over
+single-occupancy vehicles (SOVs).
+What began as a pilot covering less than one quarter of the City’s area has grown to
+become a citywide service with nearly 70 vehicles.
+RFP for Microtransit System | 47
+=== page 22 ===
+●
+Via invests in community outreach and marketing to ensure our transit services grow.
+We understand that many passengers fear that if they don’t have a smartphone, don’t have
+a bank account, or live with a disability, public on-demand services will not serve them. Our
+in-house Marketing and Community Engagement teams will advise and support Metro’s
+development and implementation of an inclusive marketing strategy and community-based
+rider outreach plan.
+●
+On-demand transit advertising capabilities to generate additional revenue through our
+proprietary advertising service, Via Media Solutions (VMS). Several of our partners with
+fleet sizes comparable to Metro’s proposed service have recovered 50% of the cost of our
+software from this revenue stream alone.
+As a result, it’s no accident that Via-powered services consistently outperform other microtransit
+providers.3
+Rides Delivered to Date
+100M+
+<1M
+1M+
+Global Partnerships
+500+
+50+
+85
+Countries with an Active Presence
+40
+3
+9
+Engineers / Developers
+500+
+<54
+<50
+Year Founded
+2012
+2015
+2015
+Through a partnership with Via, we believe that Metro’s success is a foregone conclusion. We will
+deliver results by providing the world’s most advanced microtransit platform, and an unsurpassed
+suite of services, tools, and expertise. Your microtransit services are a major investment. Via will
+ensure you maximize the benefits for your district and the riders who depend on you every day.
+8.3.3 Service Planning
+Via has unparalleled experience designing, launching, and expanding on-demand microtransit and
+paratransit services. By providing software and turnkey on-demand services to hundreds of partners
+globally, Via has access to data from comparable deployments to Metro’s that will inform our service
+design assumptions and process. Additionally Via's service design team will leverage our best-in-class
+simulation engine, developed by Via’s world-class algorithm experts and used to simulate and optimize
+at-scale services across all Via markets. In 2021 alone, our tools simulated more than 11,000 scenarios for
+hundreds of existing and future microtransit services helping us refine the software to be as accurate as
+possible for all service types.
+3 Based on publicly-available information from the National Transit Database and competitor websites
+RFP for Microtransit System | 48

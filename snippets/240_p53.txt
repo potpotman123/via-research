@@ -1,0 +1,135 @@
+# source: https://denver.legistar1.com/denver/attachments/3b08e67e-403b-4049-933d-df19a44d8b1a.pdf
+# path: raw/cache/d9bbf72a447993ffe87373b22633daae189c3305.pdf
+# hit page: 53 of 112
+# terms: Downtowner
+
+=== page 52 ===
+Docusign Envelope ID: C130DEF8-ED45-45DB-8D9F-3099A1D21A35
+Policy No.
+CPS8016441
+^ SCOTTSDALE INSURANCE COMPANY®
+SCHEDULE OF FORMS AND ENDORSEMENTS
+Effective Date 09/27/2024
+12:01 A.M. Standard Time
+Named Insured
+ASPEN DOWNTOWNER GROUP, LIC;
+Agent No. 05022
+COMMON POLICY
+UTS-244L
+UTS-126L
+UTS-SP-2
+COMMERCIAL LIABILITY
+GLS-104L
+CG 20 01
+06-92
+10-93
+12-95
+06-92
+12-19
+CHANGE ENDORSEMENT FORM
+SCHEDULE OF TAXES, SURCHARGES OR FEES
+SCHEDULE OF FORMS AND ENDORSEMENTS
+SCHEDULE OF GENERAL LIABILITY CHANGES
+PRIMARY AND NONCONTRIBUTORY-OTHER INSURANCE CONDITION
+UTS-SP-2 (12-95)
+=== page 53 ===
+Docusign Envelope ID: C130DEF8-ED45-45DB-8D9F-3099A1D21A35
+Policy No.:
+33 SCOTISDALE INSURANCE COMPANY®
+SCHEDULE OF GENERAL LIABILITY CHANGES
+CPS8016441
+Effective Date:
+Named Insured:
+ASPEN
+DOWNTOWNER
+GROUP, LLC;
+Agent No.:
+09/27/2024
+12:01 A.M., Standard Time
+05022
+CLASS CODE INFORMATION AFFECTED BY THIS CHANGE IS ADDED, DELETED OR CHANGED AS INDICATED.
+THE FOLLOWING CLASS CODE INFORMATION IS: ADDED
+Code No.
+Premium Basis
+49950
+INCLUDED
+Premises/Operations
+Premises
+Exposure
+Classification:
+PRIMARY AND NONCONTRIBUTARY - OTHER INSURANCE CONDITION PER
+FORM CG 20 01
+Rate
+Premium
+INCLUDED
+INCLUDED
+Products/Completed Operations
+Rate
+Premium
+THE FOLLOWING CLASS CODE INFORMATION IS:
+Code No.
+Premium Basis
+Premises/Operations
+Premises
+Exposure
+Rate
+Premium
+Classification:
+Products/Completed Operations
+Rate
+Premium
+THE FOLLOWING CLASS CODE INFORMATION IS:
+Code No.
+Premium Basis
+Premises
+Exposure
+Premises/Operations
+Rate
+Premium
+Classification:
+Products/Completed Operations
+Rate
+Premium
+THE FOLLOWING CLASS CODE INFORMATION IS:
+Code No.
+Premium Basis
+Premises/Operations
+Premises
+Exposure
+Rate
+Premium
+Classification:
+Products/Completed Operations
+Rate
+Premium
+GLS-104L (6-92)
+=== page 54 ===
+Docusign Envelope ID: C130DEF8-ED45-45DB-8D9F-3099A1D21A35
+COMMERCIAL GENERAL LIABILITY
+CG 20 01 12 1
+THIS ENDORSEMENT CHANGES THE POLICY. PLEASE READ IT CAREFULLY.
+PRIMARY AND NONCONTRIBUTORY -
+OTHER INSURANCE CONDITION
+This endorsement modifies insurance provided under the following:
+COMMERCIAL GENERAL LIABILITY COVERAGE PART
+LIQUOR LIABILITY COVERAGE PART
+PRODUCTS/COMPLETED OPERATIONS LIABILITY COVERAGE PART
+The
+following is added to the Other Insurance
+Condition and supersedes any provision to the
+contrary:
+Primary And Noncontributory Insurance
+This insurance is primary to and will not seek
+contribution from any other insurance available to
+an additional insured under your policy provided
+that:
+(1) The additional insured is a Named Insured
+under such other insurance; and
+(2) You have agreed in writing in a contract or
+agreement that this insurance would be
+primary and would not seek contribution
+from any other insurance available to the
+additional insured
+CG 20 01 12 19
+© Insurance Services Office, Inc., 2018
+Page 1 of 1

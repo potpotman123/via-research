@@ -1,0 +1,135 @@
+# source: raw/bleecker_drive/North Carolina/dot_68241_DS1.pdf
+# path: raw/bleecker_drive/North Carolina/dot_68241_DS1.pdf
+# hit page: 31 of 113
+# terms: Via+drivers, Via+fleet, Via+vehicles
+
+=== page 30 ===
+Section 5
+FEDERAL TRANSIT ADMINISTRATION 	
+22
+Conclusions, Lessons Learned, 
+and Recommendations
+In September 2020, the City of Wilson fully replaced its existing fixed route 
+transit system with third-party microtransit provided by Via Transportation, Inc. 
+(Via). It was a two-year contract that ended in September 2022 with three, one-
+year optional renewals. In September 2022, Wilson renewed the contract for an 
+additional year.
+The RIDE service launched with hours of operation from 7:00 a.m. to 6:00 p.m., 
+Monday–Saturday. Looking for a way to increase service hours that contributed 
+to the intended benefits of RIDE, including improved access to employment 
+opportunities and improved accessibility to public transit, Wilson and NCDOT 
+sought AIM Demonstration Funding. The $250,000 in awarded funding allowed 
+for expanding hours of operation to 5:30 a.m. to 7:00 p.m., Monday–Friday, 
+from the original 7:00 a.m. to 6:00 p.m. service hours. These expanded hours 
+provided an additional two and a half hours of service, allowing RIDE to start an 
+hour and a half earlier and end an hour later Monday–Friday. Saturday service 
+remained unchanged.
+While there were challenges to overcome throughout the year-long 
+demonstration period and since the launch of RIDE, Wilson has seen 
+tremendous success in the RIDE service. In a July 2022 NPR article,1  the City 
+reported that RIDE averaged 3,700 trips a week compared to 1,400 riders its 
+previous fixed route system averaged during a typical week, pre-COVID. 
+The City of Wilson’s successes have been recognized with several awards 
+including:
+• America’s Transportation Award for “Best Use of Innovation and
+Technology” from the Southeastern Association of State Highway and
+Transportation Officials, August 2021
+• The 2021 Marvin Collins Outstanding Planning Award – Advancing Equity
+from the North Carolina Chapter of the American Planning Association,
+September 2021
+• Focus Technology for the American Association of State Highway and
+Transportation Officials’ (AASHTO) Innovation Initiative, 2021
+By being willing to innovate, Wilson continues to support RIDE’s intended 
+benefits of promoting equitable accessibility to transit and providing 
+opportunities for its citizens to access employment, healthcare, and other daily 
+needs.
+1 https://www.npr.org/2022/07/19/1111765630/on-demand-shuttles-have-replaced-buses-in-a-small-
+north-carolina-town Agency Safety Plan Final Rule. § 673.5, Definitions.
+=== page 31 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+23
+SECTION  | 5
+Challenges, Lessons Learned, and Recommendations
+During the year-long demonstration and since the launch of RIDE, the City of 
+Wilson, NCDOT, and Via have experienced challenges and successes that helped 
+to improve the service and offer insights for other agencies contemplating 
+a change to microtransit. Broadly, the challenges, lessons learned, and 
+recommendations can be grouped into two categories—operations and 
+funding—which are discussed in more detail below. 
+Availability of vehicle partners in smaller markets. RIDE started with a single 
+vehicle partner (Avis) that only performed maintenance in a city an hour away 
+from Wilson. The lack of local maintenance resulted in fewer vehicles being in 
+service, increased ETA, decreased quality of service, and decreased ridership. 
+A new vehicle partner (Buggy) was introduced in September 2021 that added 
+vehicles to the fleet and expanded access to local vehicle maintenance services 
+within the city. With the introduction of Buggy, RIDE saw improved vehicle 
+turnaround times for maintenance issues and an increased average weekly 
+number of active vehicles in the fleet.
+If smaller municipalities or transit agencies seek to implement microtransit 
+offered by a third-party provider, they should consider the availability of vehicle 
+partners within the area and whether those partners are able to service vehicles 
+locally. 
+Availability of drivers for all service hours. With the introduction of a third-
+party provider, the RIDE service relied on contracted drivers. Throughout 
+the demonstration, RIDE had trouble staffing off-peak times, including early 
+morning hours, afternoons, and weekends, and certain days of the week, such 
+as Mondays and Saturdays. Via initiated several driver promotions that offered 
+increased pay or weekly bonuses during the days and times that were difficult 
+to staff. In addition to staffing difficulties for specific service hours, there 
+were times when staffing was more difficult than anticipated, resulting in Via 
+offering higher wages and sign-on bonuses for drivers. Discussions at monthly 
+check-in meetings as to reasons for the difficultly in hiring drivers related to the 
+possibility of a limited driver pool within Wilson and the need for increased pay 
+to remain competitive. It should be noted that the demonstration (March 1, 2021 
+– February 28, 2022) fell during a time of low unemployment and high wages
+nationwide.
+If several municipalities or transit agencies within a smaller region seek to 
+implement microtransit through a third-party provider, they should take into 
+account the availability of drivers within the region as a whole. Depending 
+on the proximity of the municipalities or transit agencies to one another, the 
+possibility of competition to find and retain drivers for similar services offered 
+by each entity should also be considered.
+=== page 32 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+24
+SECTION  | 5
+Establish reporting protocols for accidents/incidents/complaints. After 
+a minor accident during the demonstration, Wilson noted the desire to have 
+established policies and procedures for reporting and tracking accidents and 
+incidents. Agencies interested in a similar service should consider establishing 
+protocols prior to the start of service that could include how driver partners 
+report any accidents or incidents, such as who to contact, what reports 
+should be filled out, and the timeframe for reporting to the service provider. 
+Protocols could also specify how and when the service provider reports that 
+information to the transit agency or municipality. Wilson also desired to have 
+documentation for reporting and responding to customers complaints, which 
+could be included in the accident and incident report protocols as well.
+Establish protocols for routine driver education. For the RIDE service, it 
+has been helpful to maintain ongoing driver education to remind drivers of 
+service policies or to provide regular training opportunities. For example, 
+drivers were reminded that the RIDE service is corner-to-corner after questions 
+arose about potentially providing door-to-door service for customers without 
+accommodations for that service. 
+Agencies should consider how ongoing driver education and communication 
+will be offered by the third-party provider. 
+Planning for federal transit requirements. Wilson’s transit fleet that was used 
+prior to RIDE service was mostly at or nearing the end of useful life, and the city 
+is in the process of disposing of vehicles with a federal interest. Other agencies 
+interested in a third-party provider should think about asset disposal for items 
+such as vehicles, buildings, and so on that have a federal interest.
+Incorporation of federal requirements such as drug/alcohol testing, safety and 
+training, and ADA (Americans with Disabilities Act) should also be considered 
+prior to using a third-party provider.
+Accounting for changing costs and service needs. RIDE launched in 
+September 2020 during the unprecedented times of the COVID-19 pandemic, 
+which has impacted service in its first two years in ways that could not have 
+been expected. At times, RIDE had difficultly hiring enough drivers, perhaps due 
+to low unemployment rates and higher labor costs, which led to the need to pay 
+higher wages and offer bonuses or additional pay incentives to serve all service 
+hours. In addition, in 2022, inflation soared and gasoline prices reached an all-
+time high, leading to higher operational costs. RIDE launched with a single ride 
+fare of $1.50 but proposed a fare increase in September 2022 to $2.50 per ride. 
+While drastic changes in economic conditions cannot be predicted, agencies 
+interested in third-party providers should bear in mind costing fares that can 
+absorb changes within the first several years to prevent needing to increase 
+fares while the service is still relatively new.

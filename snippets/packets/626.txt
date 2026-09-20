@@ -1,0 +1,62 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/City of Philadelphia/DM0211_Remix_Technologies_LLC_Request_for_Approval_Memo_06_29_01_FY23_carryover.pdf
+# pages_total: 6; hit_pages: [1]; included: [1]
+# context: Bleecker Drive folder: City of Philadelphia
+
+=== page 1 of 6 ===
+Memorandum 
+City of Philadelphia Law Department 
+Regulatory Law Unit 
+ 
+TO: 
+ 
+Rob Dubow, Director of Finance 
+ 
+ 
+Diana P. Cortes, City Solicitor 
+ 
+ 
+Barry Scott, Risk Manager 
+ 
+CC: 
+ 
+Valerie Robinson, Corporate and Tax Group 
+ 
+FROM: 
+Scott J. Schwarz, Chief Deputy City Solicitor 
+ 
+DATE: 
+June 29, 2021 
+ 
+SUBJECT: 
+Remix Technologies, LLC - Request for Approval of Liability Terms 
+ 
+The City acting through the Managing Director
+desires to enter into a micro-purchase
+service agreement with Remix Technologies, LLC (Remix) for a software data platform.  The 
+software platform will allow the City to both better engage with residents related to street design 
+as well as collaborate with partner agencies such as SEPTA and DVRPC while saving the city 
+consulting fees for concept design development.  The contract would be for a term of one (1) 
+year, effective June 30, 2021, at a cost to the City of $34,000.  This pricing is being offered
+exclusively for the City of Philadelphia as a part of a regional license with SEPTA and DVRPC.  
+ 
+Because the limitation of liability provision of the contract differs from the City s standard 
+provisions applicable to intellectual property contracts, this provision requires approval from the 
+Director of Finance, the City Solicitor, and the Risk Mana
+ The proposed 
+limitation of liability is attached as Exhibit A, 
+ 
+Discussion 
+ 
+Remix is the only company that brings together the complete transportation picture in a single 
+software platform.  The software platform is called Remix Streets and Explore.  The use of this 
+platform helps cities develop the best transportation outcomes for their communities. The 
+technology enables the City to see all of the data in one place, plan a holistic network, and build 
+consensus across stakeholders.  
+ 
+Remix will not agree to unlimited liability for this project.  The proposed limitation of liability 
+has been reviewed by attorneys in the Law Department s Commercial Law Unit and Intellectual 
+Property Division and has been revised to increase the liability limit to twice what originally 
+proposed by Remix based on a recommendation from the Division of Risk Management. 
+Acceptance of the proposed terms appears to be a legitimate business decision in this particular 
+case.

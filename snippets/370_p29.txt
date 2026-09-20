@@ -1,0 +1,136 @@
+# source: raw/bleecker_drive/Metropolitan Council/Microtransit-Solutions _Peer-Case-Studies-Report.pdf
+# path: raw/bleecker_drive/Metropolitan Council/Microtransit-Solutions _Peer-Case-Studies-Report.pdf
+# hit page: 29 of 68
+# terms: RideCo
+
+=== page 28 ===
+CASE STUDIES 
+ 
+October 24, 2024 ■ PEER MICROTRANSIT CASE STUDIES REPORT 
+27 
+Philadelphia, PA – Regional Case 
+Study  
+SEPTA ON-DEMAND 
+Southeastern Pennsylvania Transportation Authority (SEPTA) 
+ 
+Service Objective – Expand transit connections and mobility options. Create first/last mile connections 
+to fixed-route service. 
+AGENCY SERVICE 
+AREA 
+◼ Size: 844 square miles 
+◼ Area type: Urban, 
+suburban, metropolitan 
+◼ Population: 3,475,337 
+people 
+◼ Population density: 4,118 
+people per square mile 
+MICROTRANSIT 
+SERVICE 
+CHARACTERISTICS 
+General Information 
+◼ Status: Not yet 
+operational (planning 
+stage) 
+◼ Service type: Curb-to-
+curb, curb-to-hub 
+◼ Number of zones: 6 
+◼ Size: 51 square miles 
+ Bristol-Croydon-Cornwells Heights: 8.5 square miles 
+ Lansdale-Telford: 10.8 square miles 
+ Levittown-Bristol: 11 square miles 
+ Norristown: 5.3 square miles 
+ Paoli-Great Valley: 9.3 square miles 
+ West Chester-Malvern: 6.5 square miles 
+◼ Dates in service: Anticipated Winter 2024/Spring 2025  
+◼ Service hours: 6:00 am to 9:00 pm, with possible 11:00 pm extension, from Monday to Sunday 
+ 
+ 
+Source: SEPTA
+=== page 29 ===
+CASE STUDIES 
+ 
+October 24, 2024 ■ PEER MICROTRANSIT CASE STUDIES REPORT 
+28 
+◼ Microtransit fare structure: 
+ Regular fare: $2.50 ($2.00 if paying 
+with transit card) 
+ 
+◼ Fixed-route fare structure*: 
+ Regular fare: $2.00 
+ 65+: Free (with valid Senior Fare Card) 
+ <12: Free (with fare-paying adult) 
+ People with disabilities: $1.00 (with Reduced Fare 
+Card) 
+ Other: K-12 Student Pass, University Pass, Partner 
+Employers/Agency – varies by participating 
+organization 
+*Only considers local fixed-route service 
+◼ Transfer policy: No 
+◼ Payment options: Cash, credit card, mobile application, transit card 
+◼ Connections (transit and points of interest):  
+ SEPTA bus, light rail, and commuter rail service—connects to Philadelphia Center City and 
+indirectly to other states since the goal will be to integrate the regional rail, metro, and bus 
+network 
+Service Model 
+Software  
+◼ Technology provider: RideCo 
+◼ Vehicle provider: SEPTA (in-house) 
+◼ Driver provider: SEPTA (in-house) 
+Scheduling 
+◼ Booking method: Mobile application and call center 
+◼ Advance scheduling: To be determined 
+◼ Target wait time: 30 minutes 
+Fleet 
+◼ Fleet size: 48 (tentative) 
+◼ Vehicle types: Small buses, shuttles, vans 
+◼ ADA accommodations: To be determined 
+IMPLEMENTATION METHOD 
+Funding Sources 
+◼  $106,000,000 from SEPTA’s annual operating budget, 2023 (for paratransit and microtransit) 
+Marketing and Education 
+Led by: SEPTA 
+◼ News articles (Philly Voice, MassTransitMag, PR Newswire, Inquirer) 
+◼ Additional strategies to be determined
+=== page 30 ===
+CASE STUDIES 
+ 
+October 24, 2024 ■ PEER MICROTRANSIT CASE STUDIES REPORT 
+29 
+Wilmington, NC – Regional Case 
+Study 
+RIDEMICRO 
+Wave Transit 
+ 
+Service Objective – Expand transit connections and mobility options. Partially replace inefficient and 
+infrequent fixed-route service with more responsive service. 
+AGENCY SERVICE AREA 
+◼ Size: 200 square miles 
+◼ Area type: Suburban, small-town 
+◼ Population: 230,310 people 
+◼ Population density: 1,152 people per 
+square mile 
+MICROTRANSIT SERVICE 
+CHARACTERISTICS 
+General Information 
+◼ Status: Operational 
+◼ Service type: Curb-to-curb 
+◼ Number of zones: 4 
+◼ Size: 95 square miles 
+ Northern Brunswick: 22 square miles 
+ Southeast Pender: 28 square miles 
+ Southern New Hanover: 26 square 
+miles 
+ Northern New Hanover: 19 square 
+miles 
+◼ Dates in service: October 2021 – 
+Present 
+ Northern Brunswick and Southeast 
+Pender: October 2021 – Present 
+ Northern and Southern New 
+Hanover: December 2022 – Present 
+◼ Service hours: Varies by zone 
+ Northern Brunswick: 6:30 am to 7:00 pm from Monday to Friday 
+ Southeast Pender: 6:30 am to 10:30 am and 12:00 pm to 7:00 pm from Monday to Friday 
+ Northern and Southern New Hanover: 6:00 am to 8:00 pm from Monday to Friday, 8:00 am to 
+6:00 pm on Saturday, 9:00 am to 5:00 pm on Sunday 
+Source: Wave Transit

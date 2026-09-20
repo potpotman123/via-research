@@ -1,0 +1,233 @@
+# source_url: https://rideuta.legistar1.com/rideuta/attachments/fb76e18e-c5a9-44cf-83fc-a9480b0ccdff.pdf
+# path: raw/cache/3a887d3952ff4ec79eecce8bbfcade0e3456cfec.pdf
+# pages_total: 43; hit_pages: [1, 2, 14, 15, 18, 23, 24]; included: [1, 2, 15, 23]
+# context: legistar client=rideuta; matter 20-03399BM (2021-05-04): Contract: On-Demand Technologies and Innovative Mobility Services (River North Transit LLC - Via)
+
+=== page 1 of 43 ===
+Contractor makes a claim of confidentiality under Utah Code Annotated 63G-2-309.  Contract and Exhibits are claimed to 
+be Protected Records under Utah Code Annotated 63G-2-305 subsections (1) and (2). 
+ 
+1 
+ 
+               
+ 
+           
+UTA CONTRACT NO. 20-03399BM 
+ 
+ ON-DEMAND TECHNOLOGIES AND INNOVATIVE MOBILITY SERVICES 
+ 
+This Master Services Agreement (MSA or Contract) is entered into and made effective as of the date of 
+last signature below (the “Effective Date”) by and between UTAH TRANSIT AUTHORITY, a public 
+transit district organized under the laws of the State of Utah (“UTA”), and RIVER NORTH TRANSIT LLC, 
+a wholly owned subsidiary of Via Transportation, Inc. (“Consultant”). 
+ 
+RECITALS 
+WHEREAS, UTA desires to hire professional services for On Demand Technologies and Innovative 
+Mobility Services (“Work”). 
+WHEREAS, On January 11, 2021, UTA issued Request for Proposal Package Number 20-03399BM 
+(“RFP”) encouraging interested parties to submit proposals to perform the services described in the 
+RFP. 
+WHEREAS, Upon evaluation of the proposals submitted in response to the RFP, UTA selected Consultant 
+as the preferred entity with whom to negotiate a contract to perform the Work. 
+WHEREAS, Consultant is qualified and willing to perform the Work as set forth in the Scope of Services.  
+ 
+AGREEMENT 
+NOW, THEREFORE, in accordance with the foregoing Recitals, which are incorporated herein by 
+reference, and for and in consideration of the mutual covenants and agreements hereafter set forth, the mutual 
+benefits to the parties to be derived here from, and for other valuable consideration, the receipt and sufficiency 
+of which the parties acknowledge, it is hereby agreed as follows:  
+ 
+1. SERVICES TO BE PROVIDED  
+a. 
+This MSA sets forth the general scope of services (Work) and pricing for the services to be acquired 
+hereunder. However, service task order shall be issued for discreet projects or tasks to be performed 
+under the MSA. Each discreet task shall be negotiated using the Not-to-Exceed pricing specified in 
+Exhibit B of this MSA once specific scope and requirements are identified. Specific service task orders 
+shall be issued as Amendments to this MSA. All terms of this MSA shall apply to each amendment 
+unless specifically superseded by a provision in the amendment. Consultant shall perform all Work as 
+set forth in the Scope of Services (Exhibit A). Except for items (if any) which this Contract specifically 
+DocuSign Envelope ID: 4C018591-1985-4583-8A02-F67CC844E13A
+
+=== page 2 of 43 ===
+Contractor makes a claim of confidentiality under Utah Code Annotated 63G-2-309.  Contract and Exhibits are claimed to 
+be Protected Records under Utah Code Annotated 63G-2-305 subsections (1) and (2). 
+ 
+2 
+ 
+states will be UTA-provided, Consultant shall furnish all the labor, material and incidentals necessary 
+for the Work. 
+b. 
+Consultant shall perform all Work under this Contract in a professional manner, using at least that 
+standard of care, skill and judgment which can reasonably be expected from similarly situated 
+professionals.  
+c. 
+All Work shall conform to generally accepted standards in the transit industry. Consultant shall 
+perform all Work in compliance with applicable state and federal laws, regulations, rules, ordinances, 
+permit constraints and other legal requirements including, without limitation, those related to safety 
+and environmental protection.  
+d. 
+Consultant shall furnish only qualified personnel who meet any applicable state and federal licensing or 
+other eligibility requirements and materials necessary for the performance of the Work. 
+e. 
+When performing Work on UTA property, Consultant shall comply with all UTA work site rules 
+including, without limitation, those related to safety and environmental protection. 
+f. 
+Consultant and UTA shall work together in a spirit of collaboration while recognizing UTA’s 
+responsibility as the provider of public transit services and Consultant’s role as a service provider to 
+UTA.   
+g. 
+Any outreach or communications with UTA’s stakeholders or constituent cities, towns or local 
+governments will be done in collaboration with UTA.   Via shall not initiate or respond directly to 
+communications with UTA constituents or stakeholders but shall refer all such inquires or 
+communications back to UTA.  
+ 
+2. MANAGEMENT OF WORK/ISSUANCE OF SERVICE TASK ORDERS 
+a. 
+Consultant’s Project Manager will be the day-to-day contact person for Consultant and will be 
+responsible for all Work, as well as the coordination of such Work with UTA. 
+b. 
+UTA’s Project Manager will be the day-to-day contact person for UTA and shall act as the liaison 
+between UTA and Consultant with respect to the Work. UTA's Project Manager shall also coordinate 
+any design reviews, approvals or other direction required from UTA with respect to the Work. 
+c. 
+Service Task Orders (STOs) within the general scope of this MSA shall be issued by UTA once the 
+requirements for specific tasks or projects become identified. Each STO shall be issued with a defined 
+scope of work and a not-to-exceed price based on the rates and prices contained in Exhibit B. The 
+Consultant shall provide a proposal for each STO once requested by UTA containing a description of 
+Work along with an NTE. The Consultant shall not begin work on a STO until specifically authorized 
+by the UTA Program Manager.  
+d. 
+STOs shall be issued using the form contained at Exhibit D.  
+ 
+ 
+ 
+DocuSign Envelope ID: 4C018591-1985-4583-8A02-F67CC844E13A
+
+=== page 15 of 43 ===
+Contractor makes a claim of confidentiality under Utah Code Annotated 63G-2-309.  Contract and Exhibits are claimed to 
+be Protected Records under Utah Code Annotated 63G-2-305 subsections (1) and (2). 
+ 
+15 
+ 
+If to UTA:  
+Utah Transit Authority 
+ATTN: Brian Motes 
+669 West 200 South 
+with a required copy to:  
+Utah Transit Authority 
+ATTN: Legal Counsel 
+669 West 200 South 
+If to Consultant:  
+River North Transit LLC c/o Via Transportation Inc. 
+10 Crosby Street, 2nd Floor 
+New York, NY 10013 
+With a required copy to: 
+legal@ridewithvia.com 
+b. Any such notice shall be deemed to have been given, and shall be effective, on delivery to the notice address 
+then applicable for the party to which the notice is directed; provided, however, that refusal to accept 
+delivery of a notice or the inability to deliver a notice because of an address change which was not properly 
+communicated shall not defeat or delay the giving of a notice. Either party may change the address at which 
+such party desires to receive written notice by providing written notice of such change to any other party. 
+ 
+c. Notwithstanding Section 23.1, the parties may, through mutual agreement, develop alternative 
+communication protocols to address change notices, requests for information and similar categories of 
+communications.  Communications provided pursuant to such agreed means shall be recognized as valid 
+notices under this Contract. 
+ 
+28. CONTRACT ADMINISTRATOR 
+UTA’s Contract Administrator for this Contract is Brian Motes or designee. All questions and correspondence 
+relating to the contractual aspects of this Contract should be directed to said Contract Administrator, or 
+designee. 
+ 
+29. INSURANCE COVERAGE REQUIREMENTS FOR CONSULTANT EMPLOYEES 
+ 
+a. The following requirements apply to the extent that: (i) the initial value of this Contract is equal to or in 
+excess of $2 million; (ii) this Contract, with subsequent modifications, is reasonably anticipated to equal 
+or exceed $2 million; (iii) Consultant has a subcontract at any tier that involves a sub-consultant that 
+has an initial subcontract equal to or in excess of $1 million; or (iv) any subcontract, with subsequent 
+modifications, is reasonably anticipated to equal or exceed $1 million: 
+b. Consultant shall, prior to the effective date of this Contract, demonstrate to UTA that Consultant has 
+and will maintain an offer of qualified health insurance coverage (as defined by Utah Code Ann. § 17B-
+2a-818.5) for the Consultant’s employees and the employee’s dependents during the duration of this 
+Contract. 
+c. Consultant shall also demonstrate to UTA that subcontractors meeting the above-described subcontract 
+value threshold have and will maintain an offer of qualified health insurance coverage (as defined by 
+Utah Code Ann. § 17B-2a-818.5for the subcontractor’s employees and the employee’s dependents 
+during the duration of the subcontract. 
+ 
+DocuSign Envelope ID: 4C018591-1985-4583-8A02-F67CC844E13A
+
+=== page 23 of 43 ===
+Contractor makes a claim of confidentiality under Utah Code Annotated 63G-2-309.  Contract and Exhibits are claimed to 
+be Protected Records under Utah Code Annotated 63G-2-305 subsections (1) and (2). 
+ 
+23 
+ 
+• 
+Contractor to provide detailed specifications on driver app, safety technology (i.e. telematics or cameras), 
+and other relevant driver-facing interfaces. 
+ 
+2.4 Routing 
+• 
+A dynamic routing algorithm able to combine trips that generates pick-up and drop-off locations as well as 
+vehicle routing. 
+• 
+Ability to set parameters for either scheduled service points, virtual service points, or customer determined 
+service points within a service area or zone. 
+• 
+Ability to provide corner-to-corner service for customers to obtain operational efficiencies (requiring 
+customer to walk certain distances to meet a vehicle, to be determined by UTA). 
+• 
+Ability to provide curb-to-curb service from the nearest accessible building entrance for select customers 
+with mobility difficulties (to be determined by UTA). 
+• 
+Ability to add passengers to a route in progress. 
+• 
+Maximum time added based on reroute to pick-up passengers: Customer experience is not more than 5 
+minutes late from the quoted time.  
+• 
+Ability to integrate with UTA systems. 
+• 
+Ability to continuously improve routing and mapping based on customer feedback, safety concerns, etc. 
+ 
+2.5 Passenger Pick-Up 
+• 
+Safety for all users (including bicyclists and pedestrians) to be prioritized in all passenger pick-up locations 
+(vendors should not pick-up passengers in bike lanes or other areas that effect the safety of bicyclists or 
+pedestrians). 
+• 
+Maximum driver wait time for passenger pickup: 3 minutes. 
+• 
+Customers to see pick-up location and trip routing via smartphone app. 
+• 
+If necessary, customers to communicate directly with driver to coordinate pick-up. 
+ 
+2.6 Passenger Drop-Off 
+• 
+Safety for all users (including bicyclists and pedestrians) to be prioritized in all passenger drop-off locations 
+(vendors should not drop-off passengers in bike lanes or other areas that affect the safety of bicyclists or 
+pedestrians). 
+• 
+Customers to see drop-off location and trip routing via smartphone app. 
+ 
+2.7 Connections to Paratransit Services  
+• 
+Coordinated connections with UTA paratransit services which optimizes the customer experience and 
+minimizes wait times between on-demand and paratransit services. 
+• 
+Ability to integrate with UTA’s systems and applications such as Trapeze, to provide driver and/or 
+passenger information regarding their connecting service. 
+• 
+Ability to pre-schedule a connection to Paratransit services in advance. 
+• 
+Ability to pre-schedule recurring connections (subscription trips). 
+ 
+2.8 Fixed Route Bus and Vanpool Reservation Services 
+• 
+Using a reservation system, allow UTA customers to book a seat in advance on a bus they wish to take. The 
+customer should be able to track their vehicle in real-time prior to pick-up with an active driver app onboard 
+each bus or vanpool. 
+• 
+Advance ride booking features allowing customers to book their seat days or minutes in advance, as 
+determined by UTA.  
+DocuSign Envelope ID: 4C018591-1985-4583-8A02-F67CC844E13A

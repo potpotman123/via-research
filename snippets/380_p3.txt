@@ -1,0 +1,161 @@
+# source: raw/bleecker_drive/Tacoma Public Schools/Nomad Transit - TSD-24-146 - Alternate Transportation Contract-DSA - signed.pdf
+# path: raw/bleecker_drive/Tacoma Public Schools/Nomad Transit - TSD-24-146 - Alternate Transportation Contract-DSA - signed.pdf
+# hit page: 3 of 35
+# terms: NoMad Transit
+
+=== page 2 ===
+Page 1 of 34 
+TSD-24-146 
+rev. 08/2024 
+ 
+ 
+ 
+ 
+between 
+ 
+TACOMA SCHOOL DISTRICT NO. 10 
+(hereinafter referred to as District) 
+601 South 8th Street 
+P. O. Box 1357 
+Tacoma, WA  98401-1357 
+ 
+and 
+ 
+NOMAD TRANSIT, LLC 
+(hereinafter referred to as Nomad Transit or Contractor) 
+114 5th Avenue, 17th Floor 
+New York, NY 10011 
+Contact: Alex Lavoie, Manager 
+Email: alex@ridewithvia.com 
+Ph: 888-501-7511 x4 
+ 
+Federal Identification # 37-1782964 
+ 
+and 
+ 
+Unified Business Identifier # 604270840-001-0001 
+  
+ 
+In consideration of the promises and conditions contained herein, the District and Nomad Transit 
+do mutually agree as follows: 
+ 
+DUTIES OF NOMAD TRANSIT 
+ 
+A. The general objective of this Contract and Data Sharing Agreement TSD-24-146 (Contract-
+DSA) is to provide safe and reliable on-demand alternative vehicle transportation services 
+for District students, as outlined in the Scope of Work (Attachment B) under the General 
+Terms and Conditions (Attachment A). 
+ 
+B. In order to accomplish the general objective of this Contract-DSA, Nomad Transit shall 
+perform the specific duties included in the Scope of Work (Attachment B), and as specified 
+in its response to the District’s Request for BID # B24021C which is incorporated herein by 
+reference, to the satisfaction of the District’s designee, Director of Transportation Services, 
+under the General Terms and Conditions (Attachment A).  
+Contract-DSA No. TSD-24-146 
+                                                    For District Use Only
+=== page 3 ===
+Page 2 of 34 
+TSD-24-146 
+rev. 08/2024 
+ 
+ 
+DUTIES OF THE DISTRICT 
+ 
+A. 
+In consideration of Nomad Transit’s satisfactory performance of the duties set forth herein, 
+the District shall compensate Nomad Transit as per the Scope of Work (Attachment B). 
+ 
+Year 1 Contract Value: 
+$266,666.67 
+Year 2 Contract Value: 
+$266,666.67 
+Year 3 Contract Value: 
+$266,666.67 
+ 
+The total value of this Contract-DSA is $800,000.00 exclusive of sales tax.  
+ 
+B. 
+The costs associated with this Contract-DSA will remain firm and include all charges that 
+may be incurred in fulfilling the services covered by this Contract-DSA. All invoices will 
+reflect the rates as agreed to within Attachment C. 
+ 
+C. 
+The District will maintain the option to renew this Contract-DSA for two (2) additional one 
+(1)-year terms by way of formal amendment.  
+ 
+D. 
+Data requested by Nomad Transit per this Contract’s DSA (Attachment D):
+=== page 4 ===
+Page 3 of 34 
+TSD-24-146 
+rev. 08/2024 
+ 
+Data Requested 
+Reporting Year 
+Student Name 
+2024-2027 SYs 
+Student Grade 
+2024-2027 SYs 
+Student School Name 
+2024-2027 SYs 
+Student ID 
+2024-2027 SYs 
+Student Photo 
+2024-2027 SYs 
+Student Home Address 
+2024-2027 SYs 
+Student Pick-Up Address 
+2024-2027 SYs 
+Student Drop-Off Address 
+2024-2027 SYs 
+Student Program & Program Code 
+2024-2027 SYs 
+Student Radio-Frequency Identification (RFID) 
+2024-2027 SYs 
+Parent/Guardian Name & Relationship 
+2024-2027 SYs 
+Parent/Guardian Contact Information 
+2024-2027 SYs 
+Active/Status 
+2024-2027 SYs 
+Case Manager 
+2024-2027 SYs 
+AM PS 
+2024-2027 SYs 
+PM PS 
+2024-2027 SYs 
+ELO Session (1, 2, 3, 4) 
+2024-2027 SYs 
+Student Activity (scan date/day/time/location/vehicle) 
+2024-2027 SYs 
+Student schedules and run information 
+2024-2027 SYs 
+MyRide K-12 
+2024-2027 SYs 
+Student Accommodations (air conditioning, crutches, bus inserts, monitor, 
+nurse, head pad, stroller, safety vest, wheelchair, walker) 
+2024-2027 SYs 
+Student Medical Plans (ex. Asthma, allergies, diabetes, seizures. Reports to be 
+provided as needed with parent consent) 
+2024-2027 SYs 
+Employee Name and ID number (drivers) 
+2024-2027 SYs 
+Employee Driver’s License number (drivers) 
+2024-2027 SYs 
+Employee’s Certifications (drivers) (First Aid, CPR) 
+2024-2027 SYs 
+Employee Job Title (drivers) 
+2024-2027 SYs 
+ 
+ 
+CONDITIONS OF COMMENCEMENT OF PERFORMANCE 
+AND 
+SCHEDULE OF PERFORMANCE 
+ 
+Nomad Transit shall not commence performance or be entitled to compensation or reimbursement 
+for any services rendered, prior to the occurrence of each of the following conditions: (1) this 
+Contract-DSA must be executed by an authorized representative of Nomad Transit and the District; 
+and, if required, (2) this Contract-DSA must be approved by the Board of Directors.  
+ 
+This Contract-DSA becomes effective upon signature by all parties and remains in effect through 
+August 31, 2027, unless terminated prior to this date per the conditions herein.

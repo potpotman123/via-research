@@ -1,0 +1,303 @@
+# source: raw/bleecker_drive/Broward/MA_Report.pdf
+# path: raw/bleecker_drive/Broward/MA_Report.pdf
+# hit page: 3861 of 6451
+# terms: Via+not to exceed, Via+not-to-exceed
+
+=== page 3860 ===
+Current Procurement Contracts Sorted by Contract ID # As of 11/24/25
+Page 3860 of 6451
+Lead Agency Contact (Contact Unit Mgr if Incorrect)
+EOCONNELL@broward.org
+Contract ID #
+Document Description
+Start Date
+End Date
+Not To Exceed
+Amount Ordered
+OPN2126585G1_1
+Lab Testing & Sampling Srvcs.
+7/1/2023
+6/30/2028
+$350,000.00
+$44,679.04
+Vend#-AddrID-ContactID
+Legal Name
+Vendor Contact Email
+Vendor Phone #
+VS00007392
+PACE ANALYTICAL SERVICES
+Neshmah.Castaneda@pacelabs.com
+  
+Item #
+Category
+Description
+Total Line Qty
+Released
+UO
+M
+Maximum Line 
+Amount
+Unit Price
+Total Line Released 
+Amount
+Amount Paid
+0 
+ORGANICS GROUP. 
+Aldicarb, Aldicarb 
+sulfoxide, Aldicarb 
+sulfone. Proven method 
+performance via method
+specific protocol- must 
+show in QA manual. 
+Miami Dade# 
+EVN0000098, Group A 
+Line 30.
+OPN2126585G1_1_03
+1 
+9899180
+DIOXIN (2,3,7,8-
+TCDD) - FDEP 62-
+550.310(4)(b), Table 5 
+Must meet Regulatory 
+Detection Limit of 
+5X10-9 mg/L. Miami 
+Dade# EVN0000098, 
+Group A Line 31.
+14.0000
+EA
+$0.0000
+$250.0000
+$3,500.0000
+$2,250.0000
+OPN2126585G1_1_03
+2 
+9899180
+SECONDARIES 
+GROUP - FDEP 62-
+550.320(1), Table 6. 
+Miami Dade# 
+EVN0000098, Group A 
+Line 32
+6.0000
+EA
+$0.0000
+$124.2400
+$745.4400
+$0.0000
+OPN2126585G1_1_03
+3 
+9899180
+CHLORIDE. Proven 
+method performance via
+method specific 
+protocol- must show in 
+0.0000
+EA
+$0.0000
+$9.0800
+$0.0000
+$0.0000
+=== page 3861 ===
+Current Procurement Contracts Sorted by Contract ID # As of 11/24/25
+Page 3861 of 6451
+Lead Agency Contact (Contact Unit Mgr if Incorrect)
+EOCONNELL@broward.org
+Contract ID #
+Document Description
+Start Date
+End Date
+Not To Exceed
+Amount Ordered
+OPN2126585G1_1
+Lab Testing & Sampling Srvcs.
+7/1/2023
+6/30/2028
+$350,000.00
+$44,679.04
+Vend#-AddrID-ContactID
+Legal Name
+Vendor Contact Email
+Vendor Phone #
+VS00007392
+PACE ANALYTICAL SERVICES
+Neshmah.Castaneda@pacelabs.com
+  
+Item #
+Category
+Description
+Total Line Qty
+Released
+UO
+M
+Maximum Line 
+Amount
+Unit Price
+Total Line Released 
+Amount
+Amount Paid
+QA manual. Miami 
+Dade# EVN0000098, 
+Group A Line 33.
+OPN2126585G1_1_03
+4 
+9899180
+COLOR. Proven 
+method performance via
+method specific 
+protocol- must show in 
+QA manual. Miami 
+Dade# EVN0000098, 
+Group A Line 34.
+0.0000
+EA
+$0.0000
+$12.0000
+$0.0000
+$0.0000
+OPN2126585G1_1_03
+5 
+9899180
+FOAMING AGENTS. 
+Proven method 
+performance via method
+specific protocol- must 
+show in QA manual. 
+Miami Dade# 
+EVN0000098, Group A 
+Line 35.
+19.0000
+EA
+$0.0000
+$29.0000
+$551.0000
+$348.0000
+OPN2126585G1_1_03
+6 
+9899180
+ODOR. Proven method 
+performance via method
+specific protocol- must 
+show in QA manual. 
+Miami Dade# 
+EVN0000098, Group A 
+Line 36.
+24.0000
+EA
+$0.0000
+$15.0000
+$360.0000
+$210.0000
+OPN2126585G1_1_03
+7 
+9899180
+pH. Proven method 
+performance via method
+specific protocol- must 
+0.0000
+EA
+$0.0000
+$8.0000
+$0.0000
+$0.0000
+=== page 3862 ===
+Current Procurement Contracts Sorted by Contract ID # As of 11/24/25
+Page 3862 of 6451
+Lead Agency Contact (Contact Unit Mgr if Incorrect)
+EOCONNELL@broward.org
+Contract ID #
+Document Description
+Start Date
+End Date
+Not To Exceed
+Amount Ordered
+OPN2126585G1_1
+Lab Testing & Sampling Srvcs.
+7/1/2023
+6/30/2028
+$350,000.00
+$44,679.04
+Vend#-AddrID-ContactID
+Legal Name
+Vendor Contact Email
+Vendor Phone #
+VS00007392
+PACE ANALYTICAL SERVICES
+Neshmah.Castaneda@pacelabs.com
+  
+Item #
+Category
+Description
+Total Line Qty
+Released
+UO
+M
+Maximum Line 
+Amount
+Unit Price
+Total Line Released 
+Amount
+Amount Paid
+show in QA manual. 
+Miami Dade# 
+EVN0000098, Group A 
+Line 37.
+OPN2126585G1_1_03
+8 
+9899180
+SULFATE. Proven 
+method performance via
+method specific 
+protocol- must show in 
+QA manual. Miami 
+Dade# EVN0000098, 
+Group A Line 38.
+0.0000
+EA
+$0.0000
+$9.0800
+$0.0000
+$0.0000
+OPN2126585G1_1_03
+9 
+9899180
+TOTAL DISSOLVED 
+SOLIDS. Proven 
+method performance via
+method specific 
+protocol- must show in 
+QA manual. Miami 
+Dade# EVN0000098, 
+Group A Line 39.
+0.0000
+EA
+$0.0000
+$12.0000
+$0.0000
+$0.0000
+OPN2126585G1_1_04
+0 
+9899180
+GROSS ALPHA. 
+Detection Limit defined 
+in current version 
+eCFR. Miami Dade# 
+EVN0000098, Group D 
+Line 1.
+16.0000
+EA
+$0.0000
+$39.0000
+$624.0000
+$429.0000
+OPN2126585G1_1_04
+1 
+9899180
+GROSS BETA. 
+Detection Limit defined 
+in current version 
+8.0000
+EA
+$0.0000
+$39.0000
+$312.0000
+$0.0000

@@ -1,0 +1,87 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Ben Franklin Transit/Rider Information and Trip Planning RFP/Rider_Information_&_Trip_Planning_Platform_Solution_(Addendum_#1_Revision).pdf
+# pages_total: 39; hit_pages: [3, 21]; included: [3, 21]
+# context: Bleecker Drive folder: Ben Franklin Transit
+
+=== page 3 of 39 ===
+Request for Proposal #25-21 
+Title: Rider Information & Trip Planning Platform Solution 
+3 
+ 
+1. 
+Introduction 
+Ben Franklin Transit, (hereinafter referred to as BFT), a municipal corporation of the State of 
+Washington, located at 1000 Columbia Park Trail, Richland, WA 99352, is soliciting proposals from 
+qualified firms to provide the following services and requests listed below. 
+BFT is soliciting sealed electronic proposals in response to Request for Proposal (RFP) 25-21 Rider 
+Information & Trip Planning Platform Solution. Interested Contractors shall create a Free account with 
+OpenGov Procurement by signing up at: procurement.opengov.com . Once you have completed account 
+registration, browse back to: https://procurement.opengov.com/portal/bft and click on "Submit 
+Response", then follow the instructions to submit the electronic proposal by the proposal due date. 
+Proposals are due on Tuesday, December 9, 2025 no later than 2:00 pm Pacific Daylight Time (PDT). If a 
+Contractor would like to submit a proposal via sealed hard copy, please send your request to the 
+Procurement Manager and a pdf version of the RFP will be emailed to you in order to then submit your 
+sealed proposal via mail or in person. It is the Contractors responsibility to make aware to the 
+Procurement Manager that they prefer these notifications via email. 
+1.1. Summary 
+The selected vendor will provide a digital platform to improve the public transit rider experience by 
+delivering real-time service information, trip planning, and two-way communication. The platform must 
+offer mobile (iOS and Android) and web access, integrate with existing transit data systems, support 
+agency planning needs, and provide tools for managing live service updates, including detours. Future 
+integration with mobile ticketing is expected. 
+1.2. Background 
+BFT provides public transportation services in a 625 square mile area located in Benton County and 
+Franklin County since 1981. This area includes the cities of Kennewick, Pasco, Richland, West Richland, 
+Benton City, Prosser, and Finley, serving a population of approximately 285,000 residents. BFT sees 
+roughly 12,000 fixed route boardings a day, and BFT's current trip planning solution has +5,000 active 
+users. 
+Current Service Profile 
+BFT operates three modes of service: 
+A. Fixed Route Service: Approximately 160 bus operators, 70 low-floor buses, ~55 Vehicles 
+Operated in Maximum Service (VOMS), and an average of 12,000 unlinked passenger trips per 
+day. Service span is currently 6 AM – 10 PM weekdays, 7 AM to 10 PM Saturdays, and 8 AM to 6 
+PM on Sundays. 
+B. ADA Paratransit Service: Dial-A-Ride service for individuals unable to utilize regular fixed-route 
+bus services due to a disability or condition. 95 lift-equipped cutaway vehicles with an average 
+of 54 live daily routes and 1000 daily passenger trips.
+
+=== page 21 of 39 ===
+Request for Proposal #25-21 
+Title: Rider Information & Trip Planning Platform Solution 
+21 
+ 
+7.8. Access to Records and Audits (Local, State and Federal Funded 
+Procurements) 
+Local and State Funded Access to Records and Audits: 
+The Contractor agrees to permit any of the foregoing parties to reproduce by any means whatsoever or 
+to copy excerpts and transcriptions as reasonably needed. 
+Contractor shall maintain books, accounts, records, documents, and other evidence pertaining to the 
+costs and expenses allowable under this Contract in accordance with Generally Accepted Accounting 
+Practices. 
+Also, all such books of accounts and records required to be maintained by this Contractor shall be 
+subject to inspection and audit by representatives of BFT and of the Washington State Auditor at all 
+times and Contractor shall afford the proper facilities for such inspection and audit. Such books of 
+account and records may be copied by BFT where necessary to conduct or document an audit. 
+7.9. Federal/State and Local Taxes 
+BFT is not exempt from Washington State Sales Tax. The Contractor shall include in cost proposal form 
+and be responsible to pay all taxes associated with the project, including but not limited to: 
+State Utility Tax 
+State Sales and Use Tax on vehicles and other equipment 
+State B & O Tax 
+7.10. Legal Remedies 
+This Contract shall be construed in accordance with the laws of the State of Washington, and in any 
+disputes arising under the terms of, or in connection with this Contract, both parties agree that venue 
+shall be in the courts of Benton County in the State of Washington. 
+7.11. Assignment and/or Subcontracting 
+BFT and Contractor, each for themselves, binds themselves, themselves principals, successors, assigns 
+and legal representatives of such party in respect of all covenants of this Contract. This Contract and all 
+obligations arising thereunder shall not be sold, assigned or transferred by either party without the 
+previous consent in writing of the other party to this Contract. 
+The performance of all activities contemplated by this Contract shall be accomplished personally by 
+Contractor, identified in the submittal. Contractor must advise BFT of the necessity for a subcontract, 
+such as a special testing that the Contractor is not able to perform, via email to the designated BFT 
+contact. 
+Subcontractor means any individual, firm, partnership, corporation, joint venture, or other entity, other 
+than the Contractor providing the proposal. 
+Subcontract mean any agreement, including purchase orders (other than on involving an 
+employer/employee relationship), entered in to between the Contractor and a Subcontractor calling for

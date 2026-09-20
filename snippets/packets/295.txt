@@ -1,0 +1,288 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/High Valley Transit/Summit _04132021-2804.pdf
+# pages_total: 64; hit_pages: [1, 3, 10, 11, 13, 14, 15, 19, 24, 29]; included: [1, 3, 10, 11, 13, 14, 15, 19]
+# context: Bleecker Drive folder: High Valley Transit
+
+=== page 1 of 64 ===
+Page | 1 
+Agenda  
+High Valley Transit District 
+Tuesday, April 13, 2021, 1 PM 
+NOTICE is hereby given that the Board of Trustees will meet electronically, 
+via Zoom, on Tuesday, April 13, 2021 
+ (All times listed are general in nature, and are subject to change by the 
+Board) 
+Consistent with provisions of the Utah Open and Public Meetings Act, Utah Code Ann. §52-4-
+207(4), the High Valley Transit District Board of Trustees Chair has issued written 
+determinations supporting the Board of Trustees' decision to convene electronic meetings of 
+the Board without a physical anchor location. Due to the health and safety risks related to the 
+ongoing COVID-19 pandemic and considering public health orders limiting in-person 
+gatherings, members of the public should not attend Board meetings in person. However, 
+members of the public are invited and encouraged to view and participate in the Board’s 
+electronic meetings as described below. 
+Public comment may also be submitted until 10 AM on Tuesday, April 13, 
+2021 via email at TDadmin@summitcounty.org.  
+To participate in the webinar: 
+https://summitcountyut.zoom.us/j/91041274529 
+Or, to listen by phone, dial 1-301-715-8592; Zoom Webinar ID: 910 4127 
+4529 
+This meeting may be recorded. 
+1)
+Pledge of Allegiance
+2)
+Public Comment – all comments will be limited to three minutes per
+person
+Board Action 
+3)
+Discussion and possible approval of the Draft First Amendment to the 
+Master Services Agreement between Via Mobility LLC and Summit 
+County revising Indemnity and Warranties, and adding sections 
+regarding Insurance and Disputes (p. 3)
+4)
+Discussion and possible approval of TaaS Fixed Route Service Order 
+(p. 11)
+5)
+Discussion and possible approval of purchase for two New Flyer 
+vehicles (p. 30)
+Staff Report Page 1
+
+=== page 3 of 64 ===
+1 
+FIRST AMENDMENT TO MASTER SERVICES AGREEMENT 
+BETWEEN VIA MOBILITY, LLC AND SUMMIT COUNTY 
+This First Amendment to the Master Services Agreement (this “First Amendment”) is 
+made as of this ____ day of ___________ 2021 (the “Effective Date”), by and between 
+SUMMIT COUNTY, a political subdivision of the State of Utah (the “Customer”) and VIA 
+MOBILITY, LLC, a Delaware limited liability company (“Via”).  The County and Via are 
+sometimes referred to herein individually as a “Party” and collectively as the “Parties.” 
+A.
+Customer and Via previously entered into that certain Master Services
+Agreement, dated September 3, 2020 (the “Original Agreement”).  Each capitalized term not 
+defined in this First Amendment has the meaning ascribed to it in the Original Agreement.    
+B.
+The Parties now desire to amend the Original Agreement to provide for additional
+terms and modifications.  
+FOR GOOD AND VALUABLE CONSIDERATION, the receipt and adequacy of which 
+are hereby acknowledged, the Parties agree as follows: 
+1.
+Recitals.  The foregoing recitals are incorporated herein by this reference.
+2.
+Original Agreement; Amendment.  Except as expressly set forth in this First
+Amendment, the Original Agreement shall remain unmodified and in full force and effect, and is 
+hereby affirmed and ratified.  In the event of any inconsistency between the terms of the Original 
+Agreement and the terms of this First Amendment, the terms of this First Amendment shall 
+govern and control in all respects.  All references to the Original Agreement shall be deemed 
+references to the Original Agreement as amended hereby. 
+3.
+Indemnification.  Section 6 to the Original Agreement is modified as follows:
+6.
+INDEMNIFICATION
+a.
+Via will indemnify Customer for losses, including reasonable
+attorney’s fees, arising out of third party claims resulting from (a)
+Via, its contractors and subcontractor’s negligence, gross
+negligence or willful misconduct, (b) claims that the Via Solution
+infringes third party intellectual property rights (except if such
+claims are the result of Customer’s use or modification in violation
+of this agreement), or (c) Customer’s cost of remediation services
+in connection with unauthorized access to personal information of
+Customer or Customer’s customers or end users resulting from a
+material breach of Via’s security program.
+b.
+The Customer will indemnify Via for losses, including reasonable
+attorney’s fees, arising out of third party claims resulting from
+Customer’s negligence, gross negligence or willful misconduct.
+Staff Report Page 3
+
+=== page 10 of 64 ===
+8 
+VIA MOBILITY, LLC 
+160 Varick Street, Floor 4 
+New York, New York 10013 
+Tax ID#:  _____________ 
+By: _______________________________________ 
+Name:  _______________________________ 
+Title:   _______________________________ 
+Staff Report Page 10
+
+=== page 11 of 64 ===
+1 
+Transit as-a-Service (TAAS) SERVICE ORDER1 
+Fixed Route Transit Service 
+Date: April 8, 2021 
+1. Purpose; Integration of Master Agreement; Scope
+By this service order (the “Order”), River North Transit LLC, (“River North”), a wholly owned 
+subsidiary of Via Transportation, Inc. (“Via”) and Summit County  (“Customer”) agree to 
+collaborate towards the initiation of Customer’s fixed route transit service in Summit County (as 
+agreed upon by the parties during the planning and design stages of the Service) for 24 months 
+following launch thereof, subject to extension by mutual agreement of the parties. 
+The Master Services Agreement between Via Mobility, LLC and Summit County, dated 
+September 3, 2020, and its First Amendment, dated April __, 2021 (together, the “Master 
+Agreement”), is incorporated herein by this reference and shall be fully binding upon River North 
+and Via in the provision of Services (defined below) under this Order.  All capitalized terms used 
+but not defined herein shall have the meaning set forth in the Master Agreement. 
+In accordance with the Master Agreement, River North will provide Customer with technology 
+and technology- enabled integration services, acting as a broker coordinating the services of 
+third-party service providers to effectuate the fixed route transit service (the “Services”). River 
+North will contract with third party service providers to effectuate such integration, including with 
+fleet and driver managers, vehicle suppliers, background check providers, customer service 
+support agencies, a payment processor and insurance brokers and underwriters (the 
+“Operations”). River North’s Services will include: 
+●
+Bus transportation services for High Valley Transit passengers on routes as
+described herein.
+●
+Support for fixed route transit and paratransit services all within a single platform
+●
+Accompanying technical and operational support service;
+●
+Marketing and outreach initiatives as described herein.
+●
+Ongoing consulting and planning support as described herein.
+●
+Data sharing and reporting as described herein.
+Conflicts between this Service Order and any other terms and conditions or written agreements 
+between the parties shall be resolved in favor of this Service Order. 
+2. Duration & Launch Date
+Staff Report Page 11
+
+=== page 13 of 64 ===
+3 
+ 
+ 
+ 
+ 
+  
+Customer will be billed for the above fees as described below. Revenue hours will be billed as 
+incurred at the end of each month. Customer shall pay the following fees to Via: 
+  
+Recurring Fees: 
+Customer shall pay the following fees to be invoiced monthly by Via, starting upon launch of the 
+Operations: 
+●      $147.32 per revenue hour 
+●     Consulting and planning fees in accordance with the rates described in Section 10 
+ 
+Minimum fees:  
+River North will bill for a minimum of 42,000 annual revenue hours. Any reduction in service 
+determined by High Valley Transit cannot go below this threshold. 
+  
+River North will invoice Customer on or around the 15th of each month for revenue hours 
+incurred in the prior month. 
+ 
+ 
+Staff Report Page 13
+
+=== page 14 of 64 ===
+4 
+ 
+Service Description: 
+ 
+6 Lime 
+Service hours: 5:45am-11:45pm 
+● Frequency: 15-minute headways (both directions) 
+● Route: Jeremy Ranch to Deer Valley Resort 
+ 
+11 Black 
+Service hours: 5:42 AM - 6:08 PM 
+● Frequency: 6 round-trips per day 
+● Route: Old Town Transit Center to Francis 
+ 
+Kimball Junction Circulator 
+Service hours: 9am - 10pm, daily 
+● Frequency: 15 min 
+● Vehicles online: 2 
+● Vehicle type: AWD van (11 passenger seats) 
+ 
+Bitner Loop 
+Service hours: 6am - midnight, daily 
+● Frequency: 15 min 
+● Vehicles online: 1 
+● Vehicle type: 4WD shuttle (14 passenger seats) 
+ 
+  
+Service Changes 
+Should changes in applicable federal, state or local law result in a significant change in River 
+North’s costs, Via or Customer may opt to renegotiate the revenue hour fees. River North will 
+work with Customer to make reasonable accommodations, as requested, to change the 
+schedules for Services provided under this Order. In the event that a requested schedule 
+change results in changed costs to River North, the fees set forth in Section 3 will be adjusted to 
+reflect such changed costs. Additionally, should fluctuations in ridership demand or weather 
+conditions necessitate a change in service design to reflect a greater frequency of the schedule, 
+River North will retain the ability to add revenue hours, with approval from High Valley Transit.  
+River North shall make every reasonable effort to notify High Valley Transit in writing of any 
+such added costs prior to the implementation of any such proposed schedule change.  
+River North is not obligated to agree to a schedule pattern which increases the number of Buses 
+or drivers required to provide the Services, although River North will make every reasonable 
+effort to meet requests from High Valley Transit for increased service.  
+  
+High Valley Transit will be solely responsible for reimbursing River North for any extra fees and 
+expenses incurred by River North which result from any service modifications requested by High 
+Valley Transit. 
+Staff Report Page 14
+
+=== page 15 of 64 ===
+5 
+ 
+ 
+Fuel Pass-Through Billing 
+River North will invoice High Valley Transit for fuel on a pass-through basis, billed monthly. Fuel 
+costs are estimated to be $6/revenue hour. 
+ 
+Facility Buildout Pass-Through Billing 
+River North will invoice High Valley Transit on a pass-through basis for all costs related to the 
+bus depot facility buildout, including for labor, materials, and take-down costs. Facility buildout is 
+estimated to be $440,000 in total. 
+ 
+Bitner Loop and Kimball Junction Circulation Budget2 
+High Valley Transit will be invoiced monthly for costs related to the Bitner Loop and Kimball 
+Junction Circulator services at a total cost not to exceed $733,300, pending final agreement with 
+Downtowner. 
+ 
+ 
+  
+4. Fleet 
+ 
+● Vehicle Fleet: The Vehicle Provider will offer a fleet of up to 4 vehicles, 2 dedicated as 
+spares. High Valley Transit will provide 7 vehicles to River North to use for the service of 
+(MAKE, MODEL, YEAR - to be filled in by Summit County). River North and its 
+subcontractors will be responsible for maintenance and insurance of the vehicles provided 
+by High Valley Transit. All vehicles will have a communications device for drivers, mounted 
+ 
+2 Pending final agreement between River North, High Valley Transit, and Downtowner 
+Staff Report Page 15
+
+=== page 19 of 64 ===
+9 
+ 
+ 
+ 
+ 
+10. Consulting and Transit Planning 
+ 
+As the new High Valley Transit service is implemented, Customer may eventually consider an 
+expansion in the scope or volume of fixed-route transit, on-demand, or paratransit services it 
+offers; strategic partnerships with neighboring counties and agencies; public-private 
+partnerships; and other initiatives.  To support these activities, as directed by Customer, Via’s 
+planning and consulting team, Via Strategies, will carry out additional fixed-route, on-demand, 
+and multimodal service planning; network optimization; equity analysis; and other strategic 
+mobility consulting and planning services. The budget for these activities will not exceed 
+$50,000, and any work performed will be billed on an hourly basis according to the following 
+table of rates: 
+ 
+Category 
+Hourly Rate 
+Vice President 
+$220 
+Director 
+$175 
+Principal 
+$150 
+Associate Principal $95 
+Associate 
+$75 
+ 
+ 
+ 
+ 
+ 
+Staff Report Page 19

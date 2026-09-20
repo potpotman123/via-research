@@ -1,0 +1,307 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/North Carolina/AII_On_Demand_Microtransit_Webinar.pdf
+# pages_total: 79; hit_pages: [17, 20, 28, 33, 34, 36, 68, 69, 70, 72]; included: [17, 20, 28, 33, 34, 36, 68, 69, 70, 72]
+# context: Bleecker Drive folder: North Carolina
+
+=== page 17 of 79 ===
+Wilson, RIDE (Sep 2020)
+• Population: 40,351
+• Service: Monday-Saturday
+• Fleet: 26 vehicles (6 wheelchair 
+accessible); 15 vehicles operating at peak
+• Vehicle capacity: 6 passengers
+• Fare: $2.5
+• Pre-scheduling: not available
+• Stops: intersections and major destinations
+• Turnkey contract with Via
+June 2022
+16,243 riders
+
+=== page 20 of 79 ===
+Microtransit
+contracts
+Wilson, RIDE
+Wilmington, 
+RideMICRO
+Morrisville, Morrisville 
+SmartShuttle
+Wake County, 
+GoWake SmartRide 
+NE
+Orange County, 
+MOD
+YVEDDI, Elkin and 
+Mocksville 
+microtransit
+Total contract cost
+Turnkey contract: not 
+to exceed 
+$1,464,300 (in the 1st
+year)
+Turnkey contract: 
+not to exceed 
+$700,000
+Technology: not to 
+exceed $142,280
+Technology: $42,493
+Vehicles/drivers: 
+$265,379
+Technology: 
+$34,000
+Technology: $7,695
+Contracted fleet size
+9
+5
+3
+3
+3
+4
+One-time technology fees
+Installation and other 
+technology fees
+($50,000)
+-
+$29,000 
+$25,000
+$25,000
+$5,295
+Device hardware and 
+installation per vehicle
+-
+-
+$380/vehicle
+$845/vehicle
+-
+-
+Annual technology fees
+Annual data plan
+-
+-
+$180/vehicle
+$336/vehicle
+-
+-
+Monthly or hourly technology fees
+Fees/month
+-
+-
+-
+-
+$200/ month 
+Fees/vehicle/month
+-
+-
+$384 -$912/vehicle/
+month 
+$350/vehicle/
+month
+$300-$500/ 
+vehicle/month
+-
+Fees/service hour
+$15/service hour
+-
+-
+-
+-
+-
+Call center operation
+Responsibility to operate 
+call center 
+Via 
+Bus.com
+GoTriangle
+Wake County
+Orange County
+YVEDDI
+Vehicle and drivers’ costs
+Rate/vehicle revenue hour
+min rate: $38.27; 
+max rate: $40.39 
+$70.00
+$97.50 
+$42.53 
+-
+-
+
+=== page 28 of 79 ===
+28
+Via. Proprietary & Confidential.
+6 DAYS A WEEK
+Mon - Fri
+5:30 am - 7pm
+Sat
+7 am – 6 pm
+SEPT 1, 2020
+launch
+FLAT FARES
+$2.50 base price
++1s - $1
+children under 8 free
+Senior/disabled id card holders 
+½ fare
+10 Ride Pass for $20
+No more waiting for the bus.
+Book rides on your phone on the app or by 
+calling in. Get a ride within minutes. 
+First 10 rides at Launch were free!
+What looks different: 
+•
+Service area increased to entire city 
+•
+15 - 20 minute goal for wait times
+•
+Booking through an app
+•
+Credit/Debit card & voucher payment
+“Reliable, safe, affordable 
+transportation is a key to giving 
+people options for staying 
+involved in their community as 
+they phase out driving.” 
+— Ruthanne Fuller, Mayor of 
+Newton
+Innovative Solution
+Funding:
+•
+Comparable cost to fixed route at launch
+•
+$1.2 Million per year at launch now at $2.2 
+million per year
+•
+As demand goes up, ETA increases without 
+additional supply of vehicles/drivers (which 
+costs more)
+
+=== page 33 of 79 ===
+Via. Proprietary & Confidential
+33
+96,182
+Rides Taken
+3.5
+Avg. riders per vehicle hour
+2,394
+Unique Active Riders
+RIDE has grown significantly since launch in Year One
+Peak was 2,577 
+trips in a week 
+compared to an 
+average of 
+1,450/week on 
+fixed-route.
+18.5 min
+Average Wait Time
+
+=== page 34 of 79 ===
+Via. Proprietary &Conﬁdential
+2
+173,188
+RidesTaken
+3.9
+Avg. riders per vehicle hour
+4,764
+Unique Active Riders
+RIDE performance in Year Two – Another Year of Significant growth
+Peak was 4,215 trips in 
+a week compared to a 
+peak of 2,577 trips in a 
+week in year one.
+18.3 min
+Average WaitTime
+
+=== page 36 of 79 ===
+Proprietary & Confidential. 
+●
+Bb
+1.
+Sept 2021 - Expansion of 
+hours to support 
+increasing demand
+2.
+April 2022 - Max detour 
+was increased, resulting in 
+slightly longer deviations 
+to pickup additional riders
+3.
+November 2022 - Walking 
+parameters are under 
+review, to understand how 
+extra walking might 
+improve efficiency 
+Since the launch of the RIDE service, Via and the City of Wilson have worked 
+together to increase efficiency while accommodating increased in demand
+36
+Key Service Changes
+Our fixed route 
+utilization 
+averaged 5.8 riders 
+per vehicle hour
+
+=== page 68 of 79 ===
+BATA
+• SaaS model – started with TransLoc, 
+switching to Via
+• Uses regular fleet vehicles, giving 
+them large fleet and lots of 
+flexibility
+• Goals:
+• Improve efficiency
+• Reduce no-show/cancelation 
+rate
+• Results: 
+• Efficiency improved from <2 
+rides/hour using 5-6 buses to 3+ 
+rides/hour using 3-4 buses
+• No-show/cancelation rate 
+dropped from over 30% to less 
+than 3%
+
+=== page 69 of 79 ===
+MATS
+• Turnkey: Operated by River North 
+Transit, subsidiary of Via
+• Goals:
+• Control costs: Fixed route 
+service was being cut by 45%, 
+use microtransit to fill gap
+• Modernize operations
+• Results:
+• Not only filled the gaps from service reduction, but also able to expand 
+hours of service at lower cost.
+• New technology has been adopted easily by people who like tech and has 
+brought in new users. However, some aspects have been challenging for 
+older riders.
+• Goal was 175 trips/day. Currently doing 180-240 trips/day.
+• Generating more fare revenue than expected.
+
+=== page 70 of 79 ===
+RAPID CONNECT
+• Evolved from $8 Million Michigan Mobility Challenge pilot project, “Rapid On 
+Demand.” That was turnkey model operated by Via. Only paratransit service 
+in small area. Now using SaaS model from Ecolane.
+• Goals: 
+• Operational analysis found underserved areas that weren’t dense enough 
+to support fixed route. Wanted to fill gaps in service area.
+• Provide first mile-last mile connections
+• Use underutilized vehicles
+• Results:
+• Goals were met, but agency is surprised that more people aren’t using 
+service. Averaging 1 rider/hour – reaching out beyond “super users.”
+
+=== page 72 of 79 ===
+•
+Turnkey model, using Via
+•
+Operational analysis 
+recommended microtransit. 
+Piloted in three zones: two 
+communities and one corridor.
+•
+4th zone added for access to 
+COVID vaccines. So successful, it 
+was made permanent.
+•
+5th zone added to address staff 
+and vehicle shortages – 6 SMART 
+drivers and vehicles could be 
+redeployed to other areas.

@@ -1,0 +1,5 @@
+batch,agent_model,status
+tier1_haiku_00,haiku,running
+tier1_haiku_01,haiku,running
+tier2_sonnet_00,sonnet,running
+tier2_sonnet_01,sonnet,running

@@ -1,0 +1,307 @@
+# source: raw/bleecker_drive/Broward/MA_Report.pdf
+# path: raw/bleecker_drive/Broward/MA_Report.pdf
+# hit page: 980 of 6451
+# terms: Via+not to exceed, Via+not-to-exceed
+
+=== page 979 ===
+Current Procurement Contracts Sorted by Contract ID # As of 11/24/25
+Page 979 of 6451
+Lead Agency Contact (Contact Unit Mgr if Incorrect)
+RPMOORE@broward.org
+Contract ID #
+Document Description
+Start Date
+End Date
+Not To Exceed
+Amount Ordered
+A0905401G2_1
+Maint & Support Service Point
+4/23/2019
+5/6/2026
+$1,041,173.75
+$751,285.06
+Vend#-AddrID-ContactID
+Legal Name
+Vendor Contact Email
+Vendor Phone #
+0000005215
+WELLSKY CORPORATION
+Marsha.Blankenship@WellSky.com
+ 870/398-4831 
+Item #
+Category
+Description
+Total Line Qty
+Released
+UO
+M
+Maximum Line 
+Amount
+Unit Price
+Total Line Released 
+Amount
+Amount Paid
+the following:
+ServicePoint Software 
+Maintenance, 
+Enhancement, & 
+Customer Support. 
+Bowman Shared 
+Hosting Service. 
+Advanced Reporting 
+Tool (ART) - Ad Hoc 
+License. Advanced 
+Reporting Tool (ART) -
+Bandwidth Fee.Per
+A0905401G2_1_011 
+9201400
+SP Dedicated Hosting 
+Setup. Dedicated Server
+hardware, setup, and 
+license fees for servier 
+dedicated for usage by 
+Broward County only.
+0.0000
+EA
+$0.0000
+$25,000.0000
+$0.0000
+$0.0000
+A0905401G2_1_012 
+9201400
+Dedicated Hosting 
+Service on Leased 
+Servers (Tier II Level 1-
+5 GB of monthly data 
+transfers.)Bowman 
+Dedicated Server 
+Service provides 
+hosting, maintenance, 
+monitoring and 
+administration for 
+7.0000
+EA
+$0.0000
+$18,360.0000
+$128,520.0000
+$128,520.0000
+=== page 980 ===
+Current Procurement Contracts Sorted by Contract ID # As of 11/24/25
+Page 980 of 6451
+Lead Agency Contact (Contact Unit Mgr if Incorrect)
+RPMOORE@broward.org
+Contract ID #
+Document Description
+Start Date
+End Date
+Not To Exceed
+Amount Ordered
+A0905401G2_1
+Maint & Support Service Point
+4/23/2019
+5/6/2026
+$1,041,173.75
+$751,285.06
+Vend#-AddrID-ContactID
+Legal Name
+Vendor Contact Email
+Vendor Phone #
+0000005215
+WELLSKY CORPORATION
+Marsha.Blankenship@WellSky.com
+ 870/398-4831 
+Item #
+Category
+Description
+Total Line Qty
+Released
+UO
+M
+Maximum Line 
+Amount
+Unit Price
+Total Line Released 
+Amount
+Amount Paid
+leased servers dedicated
+to solely running the
+A0905401G2_1_013 
+9204500
+Data Transfers per 
+month. Data transfers 
+will be calculated each 
+month and billed 
+appropriately.
+55,225.0000
+LPS
+$0.0000
+$1.0000
+$55,225.0000
+$55,225.0000
+A0905401G2_1_014 
+9201400
+Premium Disaster 
+Recovery 
+ServicesEmergency 
+support line access 
+(24/7 basis); priority 
+level support. 
+Downtime will not 
+exceed 4 hours; includes
+hourly backups to an off
+site server via a secured 
+Virtual Private network 
+connections, and
+84.0000
+MTH
+$0.0000
+$800.0000
+$67,200.0000
+$67,200.0000
+A0905401G2_1_015 
+9201400
+Database Encryption for
+Service Point. All key 
+elements of d
+0.0000
+EA
+$0.0000
+$10,000.0000
+$0.0000
+$0.0000
+A0905401G2_1_016 
+9201400
+Annual Database 
+Encryption/License
+3,268.5800
+EA
+$0.0000
+$12.5000
+$40,857.3000
+$40,857.3000
+A0905401G2_1_017 
+9201400
+Training - Based on 
+Users/12 (class size)
+8.0000
+DAY
+$0.0000
+$1,500.0000
+$12,000.0000
+$12,000.0000
+A0905401G2_1_018 
+9201400
+Training - Web Based 
+Optional Professional 
+104.2500
+HR
+$0.0000
+$200.0000
+$20,850.0000
+$20,850.0000
+=== page 981 ===
+Current Procurement Contracts Sorted by Contract ID # As of 11/24/25
+Page 981 of 6451
+Lead Agency Contact (Contact Unit Mgr if Incorrect)
+RPMOORE@broward.org
+Contract ID #
+Document Description
+Start Date
+End Date
+Not To Exceed
+Amount Ordered
+A0905401G2_1
+Maint & Support Service Point
+4/23/2019
+5/6/2026
+$1,041,173.75
+$751,285.06
+Vend#-AddrID-ContactID
+Legal Name
+Vendor Contact Email
+Vendor Phone #
+0000005215
+WELLSKY CORPORATION
+Marsha.Blankenship@WellSky.com
+ 870/398-4831 
+Item #
+Category
+Description
+Total Line Qty
+Released
+UO
+M
+Maximum Line 
+Amount
+Unit Price
+Total Line Released 
+Amount
+Amount Paid
+Services
+A0905401G2_1_019 
+9201400
+Consulting - Data 
+Conversion 
+ServicesData 
+Conversion Analysis 
+with specialized agency 
+configuration to ensure 
+compliance with HUD 
+and other applicable 
+regulations.
+5.0000
+DAY
+$0.0000
+$1,650.0000
+$8,250.0000
+$8,250.0000
+A0905401G2_1_020 
+9201400
+Current Procedural 
+Terminology Code Set
+0.0000
+EA
+$0.0000
+$25.0000
+$0.0000
+$0.0000
+A0905401G2_1_021 
+9201400
+Diagnostic and 
+Statistical Manual of 
+Mental Disorders Code 
+S
+0.0000
+EA
+$0.0000
+$15.0000
+$0.0000
+$0.0000
+A0905401G2_1_022 
+9201400
+SP Training Site 
+Hosting Services 
+(Annual) Supports 
+ongoing training site 
+operation, including 
+software updates in 
+concert with the 
+production site.
+7.0000
+EA
+$0.0000
+$3,000.0000
+$21,000.0000
+$21,000.0000
+A0905401G2_1_024 
+9201400
+Programming Services -
+Optional Professional 
+Services - (Report 
+Customization)
+691.7000
+HR
+$0.0000
+$125.0000
+$86,462.5000
+$83,462.5000

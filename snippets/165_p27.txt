@@ -1,0 +1,128 @@
+# source: https://legistar.granicus.com/huntsvilleal/attachments/9800841b-3948-44e2-9e23-ef2ab1007faf.pdf
+# path: raw/cache/bbbdb020c072a8b6124814a71fc2748079790ca2.pdf
+# hit page: 27 of 37
+# terms: RideCo
+
+=== page 26 ===
+RIDECO SUBSCRIPTION AND SERVICES AGREEMENT
+unauthorized access or disclosure of Operational Data (any of the foregoing, a "Deficiency"),
+then in each case RideCo's officer in charge of information technology security (or, if
+mutually-agreed, his delegated representative), shall notify Customer and mect with Customer
+upon Customer's request to discuss with Customer the nature and extent of the Deficiency, and
+RideCo shall (a) promptly develop a remediation plan with respect to each Deficiency (which
+shall include deadlines for the completion of the tasks/activities under such remediation plan
+and such deadlines shall be negotiated with Customer), (b) diligently implement the
+remediation plan and shall use commercially reasonable efforts to remediate any Deficiencies,
+and (c) promptly report to Customer on the status of remediation efforts as requested by
+f. Consents. If under the Agreement, RideCo has to collect any Operational Data from the Customer's
+employees or any other individuals directly, RideCo must notify the individuals about the purpose
+of RideCo's collection and must obtain their consent before RideCo does so, and RideCo must
+follow any reasonable instructions which the Customer may give RideCo in this regard, and must
+comply with all applicable laws for such collection of Operational Data.
+g. Third Party Disclosure. RideCo must not disclose any Opcrational Data to any other unrelated
+persons/entities or transfer any Operational Data outside of the USA or Canada without the
+Customer's permission in writing.
+h. Return or Destruction of Operational Data. RideCo shall promptly return to the Customer or destroy
+any Operational Data received in error.
+RideCo must destroy Operational Data as soon as
+part of the Agreement and follow the Customer's instructions on returning or destroying the
+Operational Data, whether in written, electronic, or other form or media.
+destruction, the Customer may require RideCo to certify that RideCo (and such recipients) no longer
+have Operational Data. If RideCo wants to retain any Operational Data beyond the end of the
+Agreement, RideCo will be required to inform the Customer of RideCo's reasons and seek the
+Customer's written consent on the same. RideCo shall comply with all reasonable directions
+provided by Customer with respect to the return or disposal of Operational Data.
+RideCo Confidential
+Page 24 of 34
+=== page 27 ===
+RIDECO SUBSCRIPTION AND SERVICES AGREEMENT
+SCHEDULE "D"
+INSURANCE
+Insurance Coverages. RideCo shall provide and maintain insurance, acceptable to the
+Agency, in füll force and effect throughout the term of this Agreement, against claims for injuries to
+persons or damages to property which may arise from or in connection with the performance of the
+Services by RideCo, its agents, representatives or employees. RideCo shall procure and maintain the
+following scope and limits of insurance:
+Commercial 'General Liability (CL): Insurance written on an occurrence basis to protect RideÇo
+and Agency against liability or claims of liability which may arise out of this Agreement in the
+amount of two million dollars ($2,000,000) per occurrence and subject to an annual aggregate of four
+million dollars ($4,000,000). Coverage shall be at least as broad as Insurance Services Office form
+Commercial General Liability coverage (Occurrence Form CG 0001). All defense costs shall be
+outside the limits of the policy.
+Vehicle Liability Insurance: Vehicle liability insurance in an amount not less than $1,000,000 for
+injuries, including accidental death, to any one person, and subject to the same minimum for each
+person, in an amount not less than one million dollars ($1,000,000) for cach accident, and property
+damage insurance in an amount of not less than one million dollars ($1,000,000). A combined single
+limit policy with aggregate limits in an amount of not less than $2,000,000 shall be considered
+equivalent to the said required minimum limits. Coverage shall be at least as broad as Insurance
+Services Office form number CA 0001 covering Automobile Liability, including code 1 "any auto"
+and endorsement CA 0025, or equivalent forms subject to the approval of the Agency.
+Workers' Compensation Insurance: Workers' Compensation insurance with a minimum of one
+million dollars ($2,000,000) of employers' liability coverage. RideCo shall provide an endorsement
+that the insurer waives the right of subrogation against the Agency and its respective elected officials,
+officers, employees, agents and representatives. In the event a claim is filed against Agency by a
+bona fide employee of RideCo participating under this Agreement, RideCo is to defend and indemnify
+the Agency from such claim.
+Professional Liability Insurance: Professional liability insurance appropriate to the RideCo's
+profession in an amount not less than one million dollars $1,000,000 per occurrence.
+may be written on a "claims madc" basis, and must include coverage for contractual liability. The
+insurance must be maintained for at least three (3) consecutive years following the completion of
+RideCo's services or the termination of this Agreement. During this additional three (3) year period.
+RideCo shall annually and upon request of the Agency submit written evidence of this continuous
+B.
+Other Provisions. Insurance policies required by this Agreement shall contain the following
+provisions:
+1.
+All Coverages.
+Each insurance policy required by this Agreement shall be endorsed and stat
+he coverage shall not be suspended, voided, cancelled by the insurer or either Party to thi
+RideCo Confidential
+Page 25 of 34
+=== page 28 ===
+RIDECO SUBSCRIPTION AND SERVICES AGREEMENT
+Agreement, reduced in coverage or in limits except alter 30 days' prior written notice by certified
+mail, return receipt requested, has been given to Agency.
+b.
+Insurance is to be placed with insurers with a current A.M. Best's rating of no
+less than A:VI1.
+2.
+Commercial General Liability
+2.
+Commercial General Liability and Automobile Liability Coverages,
+a.
+Agency, and its respective elected and appointed officers, officials, and
+employees and volunteers are to be covered as additional insureds as respects: liability arising out of
+activities Rideo performs; products and completed operations of RideCo; premises owned, occupied
+or used by RideCo; or automobiles owned, leased, hired or borrowed by RideCo. The coverage shall
+contain no special limitations on the scope of protection afforded to Agency, and their respective
+elected and appointed officers, officials, or employees.
+RideCo's insurance covcrage shall be primary insurance with respect to
+Agency, and its respective elected and appointed, its officers, officials, employees and volunteers.
+Any insurance or self-insurance maintained by Agency, and its respective elected and appointed
+officers, officials, employees or volunteers, shall apply in excess of, and not contribute with. RideCo's
+RideCo's insurance shall apply separately to each insured against whom
+claim is made or suit is brought, except with respect to the limits of the insurer's liability.
+d.
+Any failure to comply with the reporting or other provisions of the insurance
+policies, including breaches of warranties, shall not affect coverage provided to Agency, and its
+respective elected and appointed officers, officials, employces or volunteers.
+e.
+The insurer waives all rights of subrogation against the Agency, its elected or
+appointed officers, officials, employees or agents.
+Workers' Compensation Coverage.
+Unless the Agency Manager Otherwise agrees in
+writing, the insurer shall agree to waive all rights of subrogation against Agency, and its respective
+elected and appointed officers, officials, employees and agents for losses arising from work performed
+by RideCo.
+C.
+Other Requirements. RideCo agrees 10 deposit with Agency, at or before the effective date of
+this Agreement, certificates of insurance necessary to satisfy Agency that the insurance provisions of
+this contract have been complied with. The Agency may require that RideCo furnish Agency with
+copies of original endorsements effecting coverage required by this Exhibit "B". The certificates and
+endorsements are to be signed by a person authorized by that insurer to bind coverage on its behalf.
+Agency rescrves the right to inspect compicte, certified copies of all required insurance policies, at
+any time.
+RideCo shall furnish certificates and endorsements from each subcontractor identical
+to those RideCo provides.
+RideCo Confidential
+Page 26 of 34

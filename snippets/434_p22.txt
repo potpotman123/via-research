@@ -1,0 +1,91 @@
+# source: raw/bleecker_drive/Springfield Ohio/Via_Springfield - Transportation as a Service_MSA.pdf
+# path: raw/bleecker_drive/Springfield Ohio/Via_Springfield - Transportation as a Service_MSA.pdf
+# hit page: 22 of 23
+# terms: River North Transit, Via Transportation
+
+=== page 21 ===
+Data Generator: Ride
+Request Table
+Detailed table of every ride
+request made for the
+service
+• Dropoff Time Scheduled vs. Actual: the average
+difference in minutes between the scheduled dropoff time
+and the actual dropoff time.
+• Pickup Time Requested vs. Scheduled: the average
+difference in minutes between the pickup time requested by
+the rider and the scheduled pickup time provided by the
+system at the time of booking.
+• Pickup Time Scheduled vs. Actual: the average
+difference in minutes between the scheduled pickup time
+and the actual pickup time.
+Rider Experience Graphs (filterable by day, week, month)
+• Average Ride Duration
+• Average Ride Distance
+• Average Ride Rating
+• Average Pickup Walking Distance
+Data Columns in Table
+• Request Creation Date
+• Request Creation Time
+• Request ID
+• Request Status
+• Rider ID
+• Wheelchair Accessible
+• Number of Passengers
+Origin Address
+Origin Latitude
+Origin Longitude
+Destination Address
+• Destination Lat
+Destination Lng
+Ride Price
+Ride Distance
+• Ride Duration (min)
+=== page 22 ===
+Exhibit A
+Invoice and Data Backup
+CONFIDENTIAL
+Invoice
+Date
+RIVER NORTH TRANSIT, LLC
+Via Transportation, Inc.
+114 Fifth Ave, Floor 17
+New York, NY 10011
+United States
+Bill To
+City of Springfield, OH
+76 E High St.
+Springfield, OH 45502
+Invoice #
+Terms Net 15
+Due Date
+PO #
+Billing Period
+Description
+Rate
+Quantity
+Amount
+Total Revenue hours
+Please make checks payable to:
+Liver North Transit, LL
+9.O. Box 741049:
+Chicago, IL 60674-0493
+Wire Instructions:
+Bank of America, N.A.
+222 Broadway
+New York, NY
+10038 Wire
+Routing # -
+026009593
+ACH Routing # -
+021000322
+Account # -
+483065995955
+Swift Code - BOFAUS3N
+Total
+=== page 23 ===
+City of Springfield, OH - Revenue hours Support
+Support for all invoicing shall be provided using the template below. The table shall include
+revenue hours and corresponding vehicle ID per vehicle for each day of the month in which the
+deployment and such vehicle is in service. This template is standard and will contain the
+information shown: Sample Revenue hours Support File.

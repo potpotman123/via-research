@@ -1,0 +1,111 @@
+# source: raw/bleecker_drive/Utah Transit Authority/Utah Transit Authority.pdf
+# path: raw/bleecker_drive/Utah Transit Authority/Utah Transit Authority.pdf
+# hit page: 364 of 469
+# terms: Via+fleet, Via+licensing, Via+vehicles
+
+=== page 363 ===
+Docusign Envelope ID: 670A3F1E-632B-4725-85A8-4B343BEA1FEB
+Conflicts between this Service Order and any other terms and conditions or written agreements
+between the Parties, including the MSA, shall be resolved in favor of this Service Order.
+2. Duration & Launch Date
+The duration of the Deployment shall last for a period of 20 (twenty) months, until December 31,
+2026, inclusive, following the Effective Date (the "Initial Term"), subject to year-by-year
+extensions based on mutual agreement of the Parties.
+Service operation of the Deployment will begin on UTA's April 2025 change day, scheduled for
+April 13, 2025, unless Via and UTA define an alternative mutually agreeable date in writing
+("Launch Date"). UTA will provide to Via written notice to proceed no later than January 13,
+2025 in order to Launch the Deployment on the intended Launch Date. For the avoidance of doubt,
+notice to proceed can only be written by UTA once the contract and appendices (included the
+Service Order) are final and signed, and any necessary local and regulatory approvals have been
+received or registrations completed. Upon receipt of such written notice to proceed, Via will
+commence local preparation for launch ("Launch Preparation Period").
+3. Fees
+Any new regulatory fees imposed by a governmental entity related to the Services will be
+charged as a pass-through cost contingent on UTA's advance agreement which will not be
+unreasonably withheld or delayed. UTA will have the option of decreasing other Services or
+expenses in order to off-set these additional fees.
+4. Service Parameters
+Pursuant to the MSA and in accordance with Appendix A and B, Via will provide access to a
+platform service (the "Platform") through which Riders will be able to book and pay for rides on
+a shared and on-demand basis and dedicated vehicles will be offered by the Vehicle Partner to
+Driver Partners on a rental basis. The Parties may add additional service zones through future
+amendments to Appendix A, B and/or C of this Service Order. Customer may expect per vehicle
+hour pricing for additional service zones to align with the pricing laid out in Appendix C, provided
+that the service details in the additional service zones are not significantly different from existing
+service zones, such as vehicle type, geography, and driver requirements. Additional service zones
+will also require implementation fees.
+Rider Fares: Rider fares and rider fare discounts will be set by UTA. During the duration of the
+Deployment, discounted and promotional rider fares may be implemented upon mutual agreement
+between the Parties.
+2
+363
+=== page 364 ===
+Docusign Envelope ID: 670A3F1E-632B-4725-85A8-4B343BEA1FEB
+Fare Revenue: UTA shall maintain its partner Braintree (or follow-on commercial vendor)
+account throughout the Deployment and shall collect and own all revenue from service fares
+("farebox revenue"), net of Braintree service fees, in the account.
+Payments: Via will ensure acceptance of Rider payment through the Rider app via credit cards,
+Apple Pay, Google Pay, pre-paid debit cards, FAREPAY cards, and all electronic pass cards
+accepted by UTA. Riders may also book trips using a "paper ticket" payment method and will be
+permitted to ride if the Driver Partner serving that Rider's trip deems the paper ticket valid. Via
+will also provide a concierge booking service for Riders without smartphones. The concierge
+service will include a customer payment option which meets Payment Card Industry Data Security
+Standards (PCI DSS).
+Via will ensure the execution of any necessary registrations and licensing to perform the Services,
+with UTA's cooperation and assistance.
+Parking: UTA shall identify and make available a UTA facility, depot, or parking lot
+("Depot/Lot") with ample overnight parking for the Vehicle Fleet. The Depot/Lot must be in a
+safe and lighted area inside the boundaries of the service zone and may be owned by UTA or by a
+UTA partner. Such parking shall not interfere with, nor disrupt, UTA or UTA partner operations.
+Routine Vehicle Fleet cleaning may be performed at the Depot/Lot and no vehicle maintenance
+will be performed at the Depot/Lot that would otherwise require mechanic services. In the event
+the Depot/Lot has secured access, Vehicle Partners and Driver Partners will comply with UTA or
+UTA partner standard operating procedures when accessing and using the Depot/Lot.
+Additional Waiver of Claims and Indemnification Regarding Stored Vehicles
+In addition to the agreements and obligations undertaken in Section 19 of the MSA, Via agrees to
+waive any claims against UTA or a UTA partner as applicable, its employees, agents, and assigns,
+and to also obtain waivers from its independent contractor Driver Partners for any claims against
+UTA or a UTA partner as applicable, its employees, agents, and assigns, for damage to vehicles
+stored in Depot/Lot, provided that the requirements in Section "Parking" above are met by UTA
+or a UTA partner as applicable.
+5. Project Team & Governance
+Via will be responsible for the integration of all relevant elements of the Deployment on a
+continuous basis during the course of the Deployment and will designate a project manager for
+this purpose (the "Via Project Manager") who will lead Via's Project Team. UTA will designate
+a project manager to be the primary point of contact with Via throughout the duration of the
+3
+364
+=== page 365 ===
+Docusign Envelope ID: 670A3F1E-632B-4725-85A8-4B343BEA1FEB
+Deployment (the "UTA Project Manager"). The Via Project Manager will be in regular contact
+with the UTA Project Manager through informal and scheduled project meetings.
+The Via Project Manager will be empowered to enact day-to-day decisions related to the Services
+and will serve as the primary point of contact with the UTA Project Manager on an ongoing basis.
+The Via Project Manager will appoint members to the Project Team to assist in the integration of
+the various elements of the Deployment, to include personnel with expertise in service scoping,
+independent contractor driver outreach and registration to the Platform, fleet maintenance
+procurement, marketing, and data analytics. For the avoidance of doubt, the Via Project Manager
+will have no power to serve notice or amend the Agreement, or this Order.
+During the course of the Deployment, Via's Project Team, led by the Via Project Manager, will
+liaise with the UTA Project Manager over the key deliverables of this Order and to endeavor to
+maximize ongoing service optimization.
+6. Driver Partner Registration & Supply Management
+Via will source Driver Partners to provide transportation services to UTA through the Platform.
+Via will ensure that Driver Partners have appropriate licenses, permits, and insurance required for
+the type of vehicles being operated as defined within the MSA. As part of Driver Partner
+registration for access to the Platform, all Driver Partners will be introduced to Via with the
+following areas covered: familiarization with the Deployment service areas; hours of service;
+UTA's expectations; use of the Driver App; and reporting incidents and delays in service.
+Throughout the Deployment, Via will review comments and ride reviews from customers
+submitted through the UTA On Demand application to identify opportunities for service
+improvements and address concerns over Driver Partner behavior and performance.
+Via will be responsible for ensuring that there is adequate driver supply for each service zone
+within designated hours to meet demand with optimal quality of service, given constraints.
+7. Rider and Driver Partner Support
+Via will ensure the provision of customer service and support for Driver Partners and Riders on
+issues that arise in connection with use of the Platform. In addition, Via will provide live translation
+services to customer using their call center in order to communicate with those who have limited
+English proficiency. Live support for Driver Partners and riders will be provided during service
+days/hours. Driver Partners and riders may call or text into the service during service days/hours
+4
+365

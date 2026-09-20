@@ -1,0 +1,310 @@
+# source: raw/bleecker_drive/Broward/MA_Report.pdf
+# path: raw/bleecker_drive/Broward/MA_Report.pdf
+# hit page: 3858 of 6451
+# terms: Via+not to exceed, Via+not-to-exceed
+
+=== page 3857 ===
+Current Procurement Contracts Sorted by Contract ID # As of 11/24/25
+Page 3857 of 6451
+Lead Agency Contact (Contact Unit Mgr if Incorrect)
+EOCONNELL@broward.org
+Contract ID #
+Document Description
+Start Date
+End Date
+Not To Exceed
+Amount Ordered
+OPN2126585G1_1
+Lab Testing & Sampling Srvcs.
+7/1/2023
+6/30/2028
+$350,000.00
+$44,679.04
+Vend#-AddrID-ContactID
+Legal Name
+Vendor Contact Email
+Vendor Phone #
+VS00007392
+PACE ANALYTICAL SERVICES
+Neshmah.Castaneda@pacelabs.com
+  
+Item #
+Category
+Description
+Total Line Qty
+Released
+UO
+M
+Maximum Line 
+Amount
+Unit Price
+Total Line Released 
+Amount
+Amount Paid
+eCFR. Miami Dade# 
+EVN0000098, Group A 
+Line 18.
+OPN2126585G1_1_01
+9 
+9899180
+THALLIUM. Must 
+meet detection limits 
+defined in current 
+version eCFR. Miami 
+Dade# EVN0000098, 
+Group A Line 19.
+28.0000
+EA
+$0.0000
+$6.6000
+$184.8000
+$145.2000
+OPN2126585G1_1_02
+0 
+9899180
+ZINC. Must meet 
+detection limits defined 
+in current version 
+eCFR. Miami Dade# 
+EVN0000098, Group A 
+Line 20.
+22.0000
+EA
+$0.0000
+$6.6000
+$145.2000
+$145.2000
+OPN2126585G1_1_02
+1 
+9899180
+NITRATE. Must meet 
+detection limits defined 
+in current version 
+eCFR. Miami Dade# 
+EVN0000098, Group A 
+Line 21.
+0.0000
+EA
+$0.0000
+$9.0800
+$0.0000
+$0.0000
+OPN2126585G1_1_02
+2 
+9899180
+NITRATE + NITRATE.
+Must meet detection 
+limits defined in current
+version eCFR. Miami 
+Dade# EVN0000098, 
+Group A Line 22.
+0.0000
+EA
+$0.0000
+$15.0000
+$0.0000
+$0.0000
+OPN2126585G1_1_02
+9899180
+FLUORIDE. Must meet
+0.0000
+EA
+$0.0000
+$9.0800
+$0.0000
+$0.0000
+=== page 3858 ===
+Current Procurement Contracts Sorted by Contract ID # As of 11/24/25
+Page 3858 of 6451
+Lead Agency Contact (Contact Unit Mgr if Incorrect)
+EOCONNELL@broward.org
+Contract ID #
+Document Description
+Start Date
+End Date
+Not To Exceed
+Amount Ordered
+OPN2126585G1_1
+Lab Testing & Sampling Srvcs.
+7/1/2023
+6/30/2028
+$350,000.00
+$44,679.04
+Vend#-AddrID-ContactID
+Legal Name
+Vendor Contact Email
+Vendor Phone #
+VS00007392
+PACE ANALYTICAL SERVICES
+Neshmah.Castaneda@pacelabs.com
+  
+Item #
+Category
+Description
+Total Line Qty
+Released
+UO
+M
+Maximum Line 
+Amount
+Unit Price
+Total Line Released 
+Amount
+Amount Paid
+3 
+detection limits defined 
+in current version 
+eCFR. Miami Dade# 
+EVN0000098, Group A 
+Line 23.
+OPN2126585G1_1_02
+4 
+9899180
+CYANIDE (as free 
+cyanide). Must meet 
+detection limits defined 
+in current version 
+eCFR. Miami Dade# 
+EVN0000098, Group A 
+Line 24.
+160.0000
+EA
+$0.0000
+$29.0000
+$4,640.0000
+$3,596.0000
+OPN2126585G1_1_02
+5 
+9899180
+ASBESTOS. Must meet
+detection limits defined 
+in current version 
+eCFR. Miami Dade# 
+EVN0000098, Group A 
+Line 25.
+3.0000
+EA
+$0.0000
+$120.0000
+$360.0000
+$360.0000
+OPN2126585G1_1_02
+6 
+9899180
+PHENOLS - DERM 
+CHAPT. 24-43.3. 
+Proven method 
+performance via method
+specific protocol- must 
+show in QA manual 
+Requires MDL of 0.001 
+mg/L. Miami Dade# 
+EVN0000098, Group A 
+Line 26.
+91.0000
+EA
+$0.0000
+$32.0000
+$2,912.0000
+$2,720.0000
+=== page 3859 ===
+Current Procurement Contracts Sorted by Contract ID # As of 11/24/25
+Page 3859 of 6451
+Lead Agency Contact (Contact Unit Mgr if Incorrect)
+EOCONNELL@broward.org
+Contract ID #
+Document Description
+Start Date
+End Date
+Not To Exceed
+Amount Ordered
+OPN2126585G1_1
+Lab Testing & Sampling Srvcs.
+7/1/2023
+6/30/2028
+$350,000.00
+$44,679.04
+Vend#-AddrID-ContactID
+Legal Name
+Vendor Contact Email
+Vendor Phone #
+VS00007392
+PACE ANALYTICAL SERVICES
+Neshmah.Castaneda@pacelabs.com
+  
+Item #
+Category
+Description
+Total Line Qty
+Released
+UO
+M
+Maximum Line 
+Amount
+Unit Price
+Total Line Released 
+Amount
+Amount Paid
+OPN2126585G1_1_02
+7 
+9899180
+TOTAL THMS 
+GROUP, FDEP 62-
+550.310(3), Table 3, 
+Chloroform, 
+Bromodichloromethane,
+Dibromochloromethane,
+Bromoform. Proven 
+method performance via
+method specific 
+protocol- must show in 
+QA manual. Miami 
+Dade# EVN0000098, 
+Group A Line 27.
+25.0000
+EA
+$0.0000
+$39.0000
+$975.0000
+$390.0000
+OPN2126585G1_1_02
+8 
+9899180
+VOLATILE ORGANIC
+COMPOUNDS 
+GROUP - FDEP 62- 
+550.310(4)(a), Table 4. 
+1 Miami Dade# 
+EVN0000098, Group A 
+Line 28.
+22.0000
+EA
+$0.0000
+$61.0000
+$1,342.0000
+$0.0000
+OPN2126585G1_1_02
+9 
+9899180
+SYNTHETIC 
+ORGANIC 
+CONTAMINANTS 
+GROUP - FDEP 62- 
+550.310(4)(b), Table 5. 
+EVN0000098, Group A 
+Line 29
+15.0000
+EA
+$0.0000
+$508.0000
+$7,620.0000
+$5,080.0000
+OPN2126585G1_1_03
+9899180
+OTHER SYNTHETIC 
+6.0000
+EA
+$0.0000
+$62.0000
+$372.0000
+$0.0000

@@ -1,0 +1,146 @@
+# source: raw/bleecker_drive/City of West Sacramento/Flexible_Microtransit_Turnkey_Services_for_West_Sacramento_s_On-Demand_Rideshare_Program_(Addendum_#2_Revision).pdf
+# path: raw/bleecker_drive/City of West Sacramento/Flexible_Microtransit_Turnkey_Services_for_West_Sacramento_s_On-Demand_Rideshare_Program_(Addendum_#2_Revision).pdf
+# hit page: 10 of 39
+# terms: NoMad Transit, Via+drivers, Via+turnkey, Via+vehicles
+
+=== page 9 ===
+Request for Proposals #23-076-RFP 
+Title: Flexible Microtransit Turnkey Services for West Sacramento's On-Demand Rideshare Program 
+9 
+ 
+2. 
+Scope of Work 
+2.1. On-Demand Rideshare Program Goals and Objectives 
+The City of West Sacramento (City) is soliciting proposals from qualified mobility service and technology 
+providers to assist with the development and implementation of the City's On-Demand Rideshare 
+Program. The goals for the On-Demand Rideshare Program are as follows: 
+• 
+Provide safe, reliable, and accessible on-demand transportation service 
+• 
+Connect areas poorly serviced by transit to key destinations/amenities 
+• 
+Increase awareness of and provide convenient connections to multi-modal and active 
+transportation options 
+• 
+Close first- and last- mile gaps at and around key transit hubs to support regional trips 
+• 
+Maintain a productive, cost-effective, and sustainable microtransit service 
+• 
+Gather data to complement, support, and advance existing and future transit options 
+Firms are invited to propose an innovative and flexible transportation model aimed at encouraging 
+Mobility on Demand, i.e., ridesharing and alternative transportation solutions. The City is interested in 
+continuing a service similar to the current On-Demand rideshare Program as detailed in the Introduction 
+section - an easily scalable service model that integrates real-time, dynamic operations technology and 
+the “right-sizing” of vehicles based on demand with the technology enabling a fully automated 
+scheduling, dispatching, and reservation system for a demand responsive transportation service. A 
+turnkey solution is desired, and proposals should include provisions for necessary software 
+application/platform, vehicles, drivers, customer service and other elements as necessary. 
+2.2. Current On-Demand Rideshare Service Parameters and Funding 
+The West Sacramento On-Demand Rideshare Program was launched as a 1-Year Pilot on May 14, 2018 
+following robust Transportation, Mobility, and Infrastructure (TMI) Commission and City Council 
+engagement dating back to June 2016. Following a competitive procurement, the City selected NoMad 
+Transit, LLC, a wholly owned subsidiary of Via Transportation, Inc. to pilot a shared, on-demand 
+transportation service with flexible stops, schedules, and fleet supply. 
+Following the success of the Pilot program, on May 1, 2019, the City Council unanimously approved an 
+Amended and Restated Contract with NoMad Transit LLC continuing the rideshare program through 
+June 30, 2020, which included fleet and service hour expansions to make the service more broadly 
+available and reliable. Currently, the On-Demand Rideshare Program is nearing the end of its fifth year 
+of operations and staff is soliciting feedback and approval from City Council on the fifth annual renewal 
+of the contract with NoMad Transit, LLC to continue operating the On-Demand Rideshare Program 
+through June 30, 2024. This is the final allowable extension per the January 18, 2018 Contract for 
+Services executed with NoMad Transit LLC during the Pilot. 
+Since launching, the program has received broad regional and local community support, and user 
+surveys have demonstrated successful performance across a range of human-centered indicators. The
+=== page 10 ===
+Request for Proposals #23-076-RFP 
+Title: Flexible Microtransit Turnkey Services for West Sacramento's On-Demand Rideshare Program 
+10 
+ 
+program has also received multiple awards at the local, state and national level including a League of 
+California Cities Helen Putnam Award, US Conference of Mayors City Livability Award, Metro Magazine’s 
+Innovative Solutions Award, a Smart Cities Connect Smart 50 Award, and the WTS Innovative 
+Transportation Solutions Award for its positive impacts on transportation equity for West Sacramento 
+residents. 
+The City currently operates a turnkey model, in which NoMad is contracted to provide all elements of 
+the service such as the vehicles, drivers, and technology. The City does provide a site for vehicles to be 
+stored overnight. NoMad provides the app that connects drivers and vehicles with passengers who want 
+rides. NoMad does not employ drivers, and they do not own vehicles. Drivers are independent 
+contractors who can self-select shifts and vehicles are currently owned by VGM and are rented by the 
+drivers for the duration of each shift. NoMad also supplies a rider support line to assist with booking 
+rides and issues including account support, fees or charges, and lost items. The service currently 
+operates from 6AM – 11PM Monday-Friday, 9AM – 11PM Saturday, and 8AM – 8PM Sunday. The service 
+is supported by up to 15 vehicles (inclusive of 4 wheelchair assessable vehicles), dependent upon 
+demand. Riders can book a ride through the Via app or over the phone and payment can be made 
+through a credit/debit card or pre-paid credit card. Currently, the City’s On-Demand Rideshare Program 
+does not allow a pre-scheduled booking option, but the City is open to considering the feature. 
+Passenger fares are $3.50 per ride, $1.75 for seniors and people with qualifying disabilities. Frequent 
+riders may consider ViaPass, which offers a $15 weekly pass allowing you to ride up to 4 times a day, 
+every day of the week. Riders are typically asked to walk less than 500 feet to their pick-up/drop-off 
+location in order to optimize routes for greater efficiency, however door-to-door service is available to 
+users with limited mobility subject to proof of eligibility.  
+Since launch through September 2023, Via has provided a total of over 728,000 rides throughout West 
+Sacramento for over 13,600 unique accounts. Of the 13,600+ accounts, more than 560, or 
+approximately 5 percent, are senior or disabled account holders. On average, pick-up estimated time of 
+arrival is approximately 12.8 minutes, deviation between estimated time of arrival and actual pick-up 
+time is 0.9 minutes, and 86 percent of vehicles are within 5 minutes of estimated pick up time. Riders 
+walk an average of 318.5 feet to be picked up and trips are an average of 3.3 miles and 10.2 minutes per 
+ride.  
+On June 15, 2022, the City Council approved a contract of $2,741,254 – comprised of $2,395,191 of 
+Transportation Development Act funding, $69,014 Fiscal Year (FY) 2021-22 fare revenues, and $277,049 
+of anticipated FY 2022-23 fare revenue reinvestment – with NoMad Transit LLC to support the On-
+Demand Rideshare Program operations and allocated $115,000 to fund staff time and materials for 
+fiscal year 2022-23.  
+Between July 2022 – June 2023, the service has completed over 188,000 rides - averaging of 3,622 
+weekly rides, 595 weekday daily rides, and 322 weekend daily rides. Currently, over 600 unique riders 
+are using the service weekly. Senior/Disabled ridership comprises an average of approximately 379 
+weekly rides. Average pick-up time for FY 2022-23 is 14 minutes, deviation between estimated time of 
+arrival and actual time of arrival is approximately 1.3 minutes, and 87 percent of vehicles are within 5 
+minutes of estimated pick up time. For Fiscal Year 2022-23, the average pick up walking distance was 
+320.7 feet. With recent ridership trends, Via currently targets running 1,000 - 1,050 driver hours per 
+week.
+=== page 11 ===
+Request for Proposals #23-076-RFP 
+Title: Flexible Microtransit Turnkey Services for West Sacramento's On-Demand Rideshare Program 
+11 
+ 
+On June 7, 2023, the City Council adopted the FY 2023-24 fee schedule as shown in Attachment C. The 
+City Council approved an allocation of up to $3,102,730 of Transportation Development Act funds, an 
+estimate of $150,000 in excess FY22-23 fare revenues, and an estimate of $313,642 in FY23-24 fare 
+revenues for the contract with NoMad LLC and allocated $115,000 to fund staff time and materials for 
+fiscal year 2023-24. Staff reconciled costs and fare revenues through the annual Transportation 
+Development Act Claim submission process, and for FY23-24, $35,951.79 of FY22-23 fare revenue, 
+$366,042 of FY23-24 fare revenue, and $2,899,378.21 of TDA funds will be available to support the 
+service. Prior contract extensions and service updates are provided on the City’s website: 
+https://www.cityofwestsacramento.org/services/via-rideshare. If documents cannot be accessed, please 
+contact City staff.  
+Given the success of this program, the City is interested in continuing the On-Demand Rideshare 
+Program. The City is interested in maintaining similar service parameters and system to the existing 
+program, but is open to considering transit model approaches ranging from nearly fixed route to entirely 
+demand-responsive and applying flexibility in any combination to routes, stops, and schedules. The City 
+is also interested in understanding costs to expand the service into a zone or select locations in 
+Downtown Sacramento. The City is also open to considering changes to the program that can provide 
+cost-savings without significant impact to ridership or considering changes that can provide a more 
+equitable program. This RFP is designed to provide flexibility in soliciting responses from a broad pool of 
+experts spanning transit services and operations, technology providers, transportation network 
+companies, startups, transit vehicle vendors, and marketing and promotions specialist, and other 
+services necessary to continue the City’s On-Demand Rideshare Program. The current On-Demand 
+Rideshare Program operates as detailed:  
+• 
+Hours of Operation 
+o Monday to Friday: 6AM - 11PM 
+o Saturday: 9AM - 11PM 
+o Sunday: 8AM - 8PM  
+o Operates on holidays with no change in hours of operation 
+• 
+Customer service during hours of operation 
+• 
+Service Area 
+o Coterminous with City limits of West Sacramento 
+• 
+Service Model 
+o Corner-to-corner 
+o User walks less than 500 feet to meet vehicle, unless requesting a WAV or requires curb-to-
+curb service due to mobility limitations 
+• 
+Targeted Average Wait Time 
+o 15 minutes

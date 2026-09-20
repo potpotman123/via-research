@@ -1,0 +1,104 @@
+# source: raw/bleecker_drive/Lake County/21-0450.pdf
+# path: raw/bleecker_drive/Lake County/21-0450.pdf
+# hit page: 36 of 75
+# terms: Remix Technologies
+
+=== page 35 ===
+DocuSign Envelope ID: 41500079-9022-478D-A994-BCD35DE0510E
+EXHIBIT C - FEDERALLY REQUIRED and OTHER MODEL CONTRACT CLAUSES
+In accordance with 49 C.F.R. § 661.6, for the procurement of steel, iron or manufactured products,
+use the certifications below.
+Certificate of Compliance with Buy America Requirements
+The bidder or offeror hereby certifies that it will comply with the requirements of 49 U.S.C.
+5323(j)(1), and the applicable regulations in 49 C.F.R. part 661.
+Date: 5/24/2021
+-DacuSigned by:
+Signature:
+Titansy les
+- A7F5346D1EB34A3...
+Company: Remix Technologies, LLC
+Name: Tiffany Chu
+Title: CEO
+Certificate of Non-Compliance with Buy America Requirements
+The bidder or offeror hereby certifies that it cannot comply with the requirements of 49 U.S.C.
+5323(), but it may qualify for an exception to the requirement pursuant to 49 U.S.C. 5323(i)(2), as
+amended, and the applicable regulations in 49 C.F.R. § 661.7.
+Date: 5/24/2021
+- DocuSigned by:
+Signature:
+Tirany luk
+-A7F5346D1EB34A3...
+Company: Remix Technologies, LLC
+Name: Tiffany chu
+Title: CEO
+D-13
+=== page 36 ===
+DocuSign Envelope ID: 41500079-9022-478D-A994-BCD35DE0510E
+EXHIBIT C - FEDERALLY REQUIRED and OTHER MODEL CONTRACT CLAUSES
+In accordance with 49 C.F.R. § 661.12, for the procurement of rolling stock (including train control,
+communication, and traction power equipment) use the following certifications:
+Certificate of Compliance with Buy America Rolling Stock Requirements
+The bidder or offeror hereby certifies that it will comply with the requirements of 49 U.S.C.
+5323(j), and the applicable regulations of 49 C.F.R. § 661.11.
+Date: 5/24/2021
+- DocuSigned by:
+Signature:
+Tiffany lu
+-A7F5346D1EBЭ4А3.
+Company: Remix Technologies, LLC
+Name: Tiffany chu
+Title: CEO
+Certificate of Non-Compliance with Buy America Rolling Stock Requirements
+The bidder or offeror hereby certifies that it cannot comply with the requirements of 49 U.S.C.
+5323(j) but may qualify for an exception to the requirement consistent with 49 U.S.C. 5323(j)(2)(C), and
+the applicable regulations in 49 C.F.R. § 661.7.
+Date:
+5/24/2021
+-A7F5346D1EB34A3...
+Company:
+Remix Technologies, LLC
+Name: Tiffany chu
+Title: CEO
+D-14
+=== page 37 ===
+DocuSign Envelope ID: 41500079-9022-478D-A994-BCD35DE0510E
+EXHIBIT C - FEDERALLY REQUIRED and OTHER MODEL CONTRACT CLAUSES
+5.0
+CARGO PREFERENCE REQUIREMENTS
+46 U.S.C. § 55305
+46 C.F.R. part 381
+Applicability to Contracts
+The Cargo Preference Act of 1954 requirements applies to all contracts involving equipment,
+materials, or commodities that may be transported by ocean vessels.
+Flow Down
+The Cargo Preference requirements apply to all contracts involved with the transport of
+equipment, material, or commodities by ocean vessel.
+Model Clause/Language
+The Maritime Administration (MARAD) regulations at 46 C.F.R. § 381.7 contain suggested contract
+clauses. Recipients can draw on the following language for inclusion in their federally funded
+procurements.
+Cargo Preference - Use of United States-Flag Vessels
+The contractor agrees:
+a. to use privately owned United States-Flag commercial vessels to ship at least 50 percent
+of the gross tonnage (computed separately for dry bulk carriers, dry cargo liners, and
+tankers) involved, whenever shipping any equipment, material, or commodities pursuant
+to the underlying contract to the extent such vessels are available at fair and reasonable
+rates for United States-Flag commercial vessels;
+b. to furnish within 20 working days following the date of loading for shipments originating
+within the United States or within 30 working days following the date of loading for
+shipments originating outside the United States, a legible copy of a rated, "on-board"
+commercial ocean bill-of-lading in English for each shipment of cargo described in the
+preceding paragraph to the Division of National Cargo, Office of Market Development,
+Maritime Administration, Washington, DC 20590 and to the FTA recipient (through the
+contractor in the case of a subcontractor's bill-of-lading.); and
+to include these requirements in all subcontracts issued pursuant to this contract when
+the subcontract may involve the transport of equipment, material, or commodities by
+ocean vessel.
+6.0
+CHARTER SERVICE
+49 U.S.C. 5323(d) and (r)
+49 C.F.R. part 604
+Applicability to Contracts
+The Charter Bus requirements apply to contracts for operating public transportation service.
+Flow Down Requirements
+D-15

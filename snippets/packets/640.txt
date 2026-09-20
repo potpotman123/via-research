@@ -1,0 +1,69 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Cupertino/19_5960_Staff_Report.pdf
+# pages_total: 3; hit_pages: [1, 3]; included: [1, 3]
+# context: Bleecker Drive folder: Cupertino
+
+=== page 1 of 3 ===
+CITY COUNCIL STAFF REPORT 
+Meeting: August 20, 2019 
+ 
+Subject 
+Agreement with Nomad Transit LLC (Via Transportation Inc.) for the 18-month On-
+Demand Community Shuttle Pilot Program. 
+ 
+Recommended Action 
+Authorize the City Manager to execute an agreement with Nomad Transit LLC (Via 
+Transportation Inc.) for the 18-month On-Demand Community Shuttle Pilot Program 
+with a not-to-exceed cost of $1,750,000. 
+ 
+Discussion 
+On June 18, 2019, as part of the Fiscal Year 2019-2020 Operating Budget, the City Council 
+approved a budget request for implementation of an 18-month on-demand community 
+shuttle with Via. City Council approved elimination of the formal competitive bid process 
+for this contract since Nomad Transit LLC is the only known provider of on-demand, 
+turn-key community shuttle services (transit vehicles, staffing, and management by one 
+vendor). 
+On June 18, 2019 three alternatives were presented to Council and Alternative A was 
+approved, setting a base fare of $5, and a not-to-exceed amount of $1,750,000 for the 18-
+month pilot program. Alternative A includes the use of ten transit vehicles, with hours of 
+operation from 6am to 8pm Monday through Friday, and 9am to 5pm Saturday.  
+ 
+Contract Negotiations 
+Contract negotiations were conducted with Via shortly after Council approval in June 
+2019. Primary negotiation points included indemnification language, limitation of 
+liability, and City insurance requirements. The City’s project-specific insurance 
+requirements are included as Exhibit D of the agreement, Attachment A.  
+ 
+Next Steps 
+Upon authorization of the proposed agreement Via will order the transit vehicles, a 
+process estimated to take between six to eight weeks. Via will also begin vetting and hiring 
+local drivers, and working with City staff on system planning details. City staff will work
+
+=== page 3 of 3 ===
+application on the City’s behalf. If awarded to Cupertino, reimbursement payments 
+would be passed through VTA to Cupertino for the period of time or amount funded by 
+the grant. VTA initially indicated a willingness to collaborate with the City and City staff 
+is working towards securing an agreement for the project.  
+ 
+Sustainability Impact 
+An on-demand community shuttle service may lead to a reduction in Single Occupant 
+Vehicle (SOV) miles traveled in Cupertino. A reduction in SOV miles traveled would 
+reduce transportation-related greenhouse gas emissions (GHG), furthering the goals of 
+the City’s Climate Action Plan. A community shuttle will make it easier for residents and 
+employees to access the growing Bay Area transportation network, enabling more 
+commuters to access Cupertino by public transit. Via vans will feature bicycle racks to 
+help bicyclists make connections and also provide an alternative mode of transportation 
+during inclement weather. Some of the Via fleet will be ADA vans, making it easier for 
+mobility-impaired individuals to travel freely, and improving their quality of life.  
+ 
+Fiscal Impact 
+A Budget Adjustment of $1,750,000 for this program was approved with the Operating 
+Budget for Fiscal Year 2019-2020.  No additional funding is needed.  
+_____________________________________ 
+ 
+Prepared by: Chris Corrao, Senior Transit & Transportation Planner 
+Prepared by: David Stillman, Transportation Manager 
+Reviewed by: Roger Lee, Director of Public Works 
+Approved for Submission by:  Deborah Feng, City Manager 
+Attachments:  
+A – Draft Agreement with Nomad Transit, LLC (Via Transportation Inc.)

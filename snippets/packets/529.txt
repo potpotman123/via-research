@@ -1,0 +1,50 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Spartanburg/Bid Tabulation MICRO.pdf
+# pages_total: 1; hit_pages: [1]; included: [1]
+# context: Bleecker Drive folder: Spartanburg
+
+=== page 1 of 1 ===
+BID TABULATION SHEET
+Right to Protest: Protest shall be received by City of Spartanburg not later than ten (10) working days prior to, or after the bid opening, and shall 
+contain all reasons for the protest.  The committee will then respond to the protest within five (5) working days of the receipt of the protest, and the 
+protestor will have five (5) working days to appeal City of Spartanburg’s initial response.  Once an appeal has been received, the committee will render 
+its final decision in writing within ten (10) working days to the protester
+City of Spartanburg :
+Project Name:
+Project No.
+Bid Date:
+Estimate:
+Contract Description:
+General
+HVAC
+Awarded
+To(check)
+Electrical
+Plumbing
+Asbestos
+Other
+List of the Bidding Contractors
+Total Bid Amount
+Submitted By
+Print Name:
+Lowest Responsive  Bidder 
+Signature:
+Title:
+2
+1
+3
+4
+5
+Witness Signatures  
+Print Name 
+Microtransit Services Pilot
+2425-04-22-01
+05-06-2025
+x
+Downtowner Holding, LLC
+Demand Trans Solutions, Inc.
+LAZ
+Ace Taxi
+Tidewater Transit, LLC
+187 West Broad Street Spartanburg SC  29304 
+_____________________________________________________

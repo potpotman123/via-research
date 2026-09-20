@@ -1,0 +1,105 @@
+# source: raw/bleecker_drive/City of West Sacramento/2023.06.07_-_City_Council_-_Amendment_No._5_to_NoMad_Transit_LLC_Contract.pdf
+# path: raw/bleecker_drive/City of West Sacramento/2023.06.07_-_City_Council_-_Amendment_No._5_to_NoMad_Transit_LLC_Contract.pdf
+# hit page: 33 of 63
+# terms: Via+per hour
+
+=== page 32 ===
+Triennial Performance Audit of Via Rideshare - West Sacramento – FYs 2019–2021 
+ 
+ 
+Michael Baker International - 18
+ 
+  
+Graph IV-5 
+Passengers per Vehicle Service Hour 
+ 
+ 
+ 
+Graph IV-6 
+Fare Recovery Ratio 
+ 
+ 
+2.90
+3.00
+3.10
+3.20
+3.30
+3.40
+3.50
+3.60
+3.70
+3.80
+3.90
+FY 2019
+FY 2020
+FY 2021
+0.0%
+5.0%
+10.0%
+15.0%
+20.0%
+25.0%
+FY 2019
+FY 2020
+FY 2021
+=== page 33 ===
+Triennial Performance Audit of Via Rideshare - West Sacramento – FYs 2019–2021 
+ 
+ 
+Michael Baker International - 19
+ 
+  
+Findings from Verification of TDA Performance Indicators 
+ 
+1. Operating costs increased by 156.9 percent from the first full year of operation in FY 2019 
+to FY 2021. On an average annual basis, costs increased 75.7 percent, with the highest 
+increase of 147.7 percent occurring in FY 2020. This increase can be attributed to higher 
+customer service costs as ridership increased as well as an increase of over 10,000 service 
+hours from FY 2019 to FY 2020. Additionally, COVID-19 related costs (frequent 
+cleanings/disinfectants, PPE supplies, applying and maintaining partitions, etc.) increased 
+operating costs beginning in FY 2020. Operating costs only increased 3.7 percent from FY 
+2020 to FY 2021, while driver hours remained relatively constant.  
+ 
+2. Ridership increased 20.2 percent from 92,063 rides during FY 2019 to 110,661 rides during 
+FY 2021. Ridership reached 139,340 in FY 2020 before the effects of the COVID-19 
+pandemic began impacting this indicator. On an average annual basis, ridership increased 
+15.4 percent with an increase of 51.4 percent occurring in FY 2020 and a decrease of 20.6 
+percent in FY 2021, a reflection of the effects of the pandemic on ridership.  
+ 
+3. The provision of vehicle service hours and miles both exhibited increases from FY 2019 to 
+FY 2021 as the program expanded past its pilot year. Vehicle service hours increased 31.7 
+percent and vehicle service miles increased 20.8 percent. Both indicators saw their peak 
+in FY 2020 before exhibiting decreases in FY 2021 due to the effects of the pandemic on 
+service.  
+ 
+4. Operating cost per passenger, an indicator of cost effectiveness, increased 113.7 percent 
+from $6.81 during FY 2019 to $14.56 during FY 2021. The trend is indicative of the 
+outpacing of operating expenses compared to ridership, exacerbated by the effects of the 
+pandemic on ridership as well as the pandemic’s effect on operating costs as discussed 
+above. 
+ 
+5. Operating cost per hour, an indicator of cost efficiency, increased 95 percent from $24.49 
+during FY 2019 to $47.75 during FY 2021. The trend in this indicator is reflective of the 
+increase in operating costs outpacing the increase in vehicle service hours, exacerbated by 
+the effects of the pandemic on service as well as the pandemic’s effect on operating costs 
+as discussed above.  
+ 
+6. Passengers per hour, which measures the effectiveness of the service delivered, decreased 
+by 8.8 percent from 3.6 passengers during FY 2019 to 3.3 passengers per hour during FY 
+2021. Passengers per hour increased to 3.8 passengers per hour in FY 2020 before the 
+effects of the pandemic on ridership can be seen in FY 2021. 
+ 
+7. Fare revenues for transit services provided by the YCTD, to which the City contributes, are 
+collected by the District. The fare revenue ratio for the YCTD is reported in the District’s 
+financial statements. The YCTD is subject to a 15 percent system-wide ratio that the system 
+meets, and which has been formalized by SACOG. There was a 42.1 percent decrease in
+=== page 34 ===
+Triennial Performance Audit of Via Rideshare - West Sacramento – FYs 2019–2021 
+ 
+ 
+Michael Baker International - 20
+ 
+  
+the farebox recovery ratio from 22.78 percent in FY 2019 to 13.2 percent in FY 2021. The 
+increases seen in operating costs outpaced the increases seen in fare revenue, which 
+explains the decreases seen in the farebox recovery during the audit period.

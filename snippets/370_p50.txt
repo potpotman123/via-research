@@ -1,0 +1,124 @@
+# source: raw/bleecker_drive/Metropolitan Council/Microtransit-Solutions _Peer-Case-Studies-Report.pdf
+# path: raw/bleecker_drive/Metropolitan Council/Microtransit-Solutions _Peer-Case-Studies-Report.pdf
+# hit page: 50 of 68
+# terms: Via Transportation, Via+drivers, Via+turnkey, Via+vehicles
+
+=== page 49 ===
+TAKEAWAYS 
+ 
+October 24, 2024 ■ PEER MICROTRANSIT CASE STUDIES REPORT 
+48 
+In addition to Denver Connector’s fare-free policy being an equity consideration, many agencies 
+including MARTA, Denver RTD, and Metro Transit replicated reduced fare programs from their existing 
+fare structure for disadvantaged populations when implementing microtransit. Along with fare 
+structure, offering several different payment methods can provide more equitable access to transit 
+service. Offering a cash payment option allows unbanked people to pay and use the service. In addition, 
+offering a transit funds payment option can allow agencies to enact a transfer policy that could reduce 
+overall costs for customers incorporating microtransit service into their transit trip.  
+In addition, SEPTA On-Demand and MARTA Reach exemplify services that include service zones for 
+underserved areas. Similarly, Denver Connector utilized an equity index analysis to define service 
+zones, ensuring alignment with community needs. Service design should consider other aspects like 
+service hours and tailor microtransit to the community's specific needs. This requires detailed local 
+knowledge, which can be challenging to obtain. Partnering with local nonprofits can help with local 
+knowledge, such as Denver Connector's collaboration with a TMA, or RideMICRO's partnership with 
+Pender Adult Services. Education and promotional materials should be provided in all primary 
+languages in the community, similar to Denver Connector, to help increase awareness and 
+accessibility. 
+For the Baltimore region, organizations with extensive community connections could be partners in 
+developing equity-oriented service design. While the importance of such partnerships may vary 
+depending on the microtransit service, the value of these types of partner organizations should not be 
+underestimated. Many successful programs attributed their achievements directly to these strategic 
+collaborations.
+=== page 50 ===
+TAKEAWAYS 
+ 
+October 24, 2024 ■ PEER MICROTRANSIT CASE STUDIES REPORT 
+49 
+Procurement Methods 
+INTRODUCTION 
+During the planning phase for microtransit programs, agencies may have varying procurement 
+processes depending on their service model. A hybrid service model requires sourcing different 
+contractors to provide technology versus vehicles and operators. The software only model requires an 
+agency to contract out its technology provider and use in-house drivers and vehicles. The turnkey 
+service model requires the agency to contract out the entire service to one provider for technology, 
+vehicles, and operators. Each service method has different procurement processes and potential 
+advantages for an agency. The following section highlights three unique case studies from the 
+research and their procurement methods. 
+CASE STUDIES 
+Metro Transit Micro 
+ 
+Overview 
+Metro Transit Micro began its service following the implementation of microtransit by 
+other jurisdictions in the region, and interest from elected officials. Metro Transit used 
+lessons from these other agencies as the framework for its service, though its 
+comparatively larger size led to a longer implementation timeframe. The agency 
+primarily runs microtransit service as a feeder to the high frequency transit network. 
+Metro Transit operates with separate providers for technology and operations. This hybrid model was 
+selected because the leadership of the Metropolitan Council, the regional policy-making body of the 
+Minneapolis-St. Paul metropolitan area, desired unionized operators. This approach allowed for more 
+direct control of who the operators are, preferring directly employed workers over subcontracted 
+workers. Additionally, there were concerns about the ability of a turnkey provider to supply enough 
+operators. The approach also allowed for more bids from local contractors, creating stronger 
+community connections and a greater ability to hire local operators. 
+Metro Transit released two separate RFPs in the procurement process: one for the technology and the 
+second for vehicles and operators. For its vehicle and operator provider, it selected the region's 
+paratransit provider for its Metro Mobility service, Transit Team—a Minnesota-based company. For its 
+technology provider, Metro Transit chose Via Transportation, a software provider company for 
+microtransit and paratransit services. In the future, Metro Transit will focus on data standardization in 
+technology provider RFPs, especially since the agency works closely with the other microtransit 
+providers in the Minneapolis region. This includes having providers utilize GTFS-Flex and having 
+standards for data reporting. 
+ 
+Metro Transit chose to operate its microtransit service with a hybrid service model using separate 
+providers for operators and technology rather than turnkey because of the agency’s preference to 
+have local, unionized operators. As a result, it was able to have more direct control over who its 
+operators are.
+=== page 51 ===
+TAKEAWAYS 
+ 
+October 24, 2024 ■ PEER MICROTRANSIT CASE STUDIES REPORT 
+50 
+ConnectWorks 
+ 
+Overview 
+Greater Cleveland Regional Transit Authority (GCRTA) formed ConnectWorks after a 
+political push for more transit services for essential workers during the COVID-19 
+pandemic. GCRTA wanted collaboration from an experienced, equal partner and pursued 
+a public-private partnership in which the agency funded half the cost of the program, and 
+the private partner was required to fund the other half. 
+GCRTA selected a turnkey model for its microtransit service because of limited staff resources and the 
+inability to take away from/repurpose existing services due to union agreements. GCRTA issued an RFP 
+and received responses from multiple interested parties. It evaluated responses based on experience, 
+proposed implementation processes, financial backing, and technology capabilities. The selected 
+vendor, SHARE Mobility, was responsible for funding its portion of the service by securing investment 
+from local employers. Any revenue generated from the service went directly to the vendor.  
+GCRTA learned many lessons from experimenting with this nontraditional method of contracting 
+microtransit service. The service had low ridership and many employers were unwilling to spend money 
+on a transit benefit package for their employees. In addition, its turnkey provider experienced a 
+significant change in leadership during the first year of the service. As a result, there were several 
+changes to fare structure and service, which likely contributed to the low ridership. Given the results of 
+the pilot program, GCRTA is not planning on continuing this type of public-private partnership, but is 
+interested in implementing other microtransit service in the future. 
+ 
+SEPTA On-Demand 
+ 
+Overview 
+SEPTA planned SEPTA On-Demand as part of its larger bus redesign plan, Bus 
+Revolution. The microtransit service will provide more transit options for less dense 
+suburbs, connecting them to the more extensive regional transit network. 
+SEPTA plans to operate this service with a software only model and utilize the same software for 
+microtransit and paratransit. SEPTA selected RideCo as its technology provider due to its experience in 
+improving ridership, efficiency, and proposed operation cost. Unlike other microtransit services, SEPTA 
+On-Demand is unique because the same technology will support both microtransit and paratransit 
+services, which could enable the commingling of trips. Commingled trips can allow more flexibility for 
+passengers and lead to cost savings for the transit agency. SEPTA also leveraged a paratransit vehicle 
+procurement, which is acquiring approximately 411 vehicles for its extensive paratransit fleet, to 
+procure 48 microtransit vehicles.  
+SEPTA’s unique approach of using common software across microtransit and paratransit led to a 
+three-phase procurement. In summer 2023, SEPTA procured paratransit vehicles. In winter 2023, 
+SEPTA released its technology RFP and chose RideCo to modernize its paratransit technology to allow 
+for integration with microtransit service. Finally, SEPTA procured microtransit vehicles in summer 2023 
+with vehicle delivery anticipated in winter 2024. SEPTA plans to launch the microtransit service in 
+summer 2025. 
+ConnectWorks selected a turnkey solution due to limited staff resources, inability to use existing 
+contracts for this service, and limited initial knowledge about microtransit service operations.

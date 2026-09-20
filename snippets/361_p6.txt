@@ -1,0 +1,124 @@
+# source: raw/bleecker_drive/Lake County/21-0450.pdf
+# path: raw/bleecker_drive/Lake County/21-0450.pdf
+# hit page: 6 of 75
+# terms: Remix Technologies, Via Transportation, Via+SaaS, Via+fleet, Via+implementation fee
+
+=== page 5 ===
+DocuSign Envelope ID: 41500079-9022-478D-A994-BCD35DE0510E
+LX
+Lake xpress Remix Scheduling Proposal for LakeXpress
+Prepared for Jill Brown, Lake County, FL. By Alyssa Overheul, Remix (alyssa, overheul@remix.com). Date: March 12,
+2021
+What do I get with a
+Remix License?
+A full transit scheduling platform for your entire agency. It's an annual
+subscription for unlimited users, and includes:
+•
+Interactive blocking to finalize vehicle assignments
+•
+Unlimited excel reports for daily vehicle assignments, driver assignments,
+and roster-style bidding
+• Dynamic runcutting interface for multiple schedule generation
+Optimization for peak bus count, costs, overtime, straight runs, and/or
+crew count
+Operator and labor-friendly schedules
+Cafeteria/roster-style bidding with intuitive and informational bid sheets
+for operators
+• Relief-vehicle logistics
+• Easy to read, detailed printable paddles for operators
+• Customizable timepoints to keep operators on schedule
+• GTFS export for mobile rider applications
+• Integration with a variety of AVL and farebox systems, including
+Syncromatics, AVAIL, Double Maps, and Transdev VDS
+Customer support?
+Our Success Team brings years of transit experience and works with you
+to develop a customized Success Plan. Each plan has three parts:
+4. Onboard (First 90 Days): Identify a first bid and work on it together.
+- Workshops, Project-Assisted Training, Individual Sessions, Video Guides
+5. Plan (Months 2+): Bring your plans to life with Remix.
+- Regular Check-ins, Best Practices Blog, Remix Webinars, Remix
+Conference
+6. Measure Results (Months 6+): Document your return on investment (ROl).
+- Develop ROI Report, Set Yearly Goals, Manage Renewal, Plan Ahead
+Technical
+requirements?
+Remix is entirely web-based and software-as-a-service (SaaS).
+• Everything is in the cloud -- no installations or downloads. Can access from
+anywhere.
+• Every user gets a login + password
+• Remix works on the latest version of any browser
+• Agency-wide annual subscription -- no maintenance fees.
+Remix Services Agreement for LakeXpress
+/Users/claudiapreciado/Desktop/LakeXpress Proposal 05.18.21.docx
+=== page 6 ===
+DocuSign Envelope ID: 41500079-9022-478D-A994-BCD35DE0510E
+This Services Agreement ("Agreement") is entered into between Remix Technologies, LLC., a subsidiary of Via
+Transportation, Inc. ("Company"), and LakeXpress ("Customer") and will become effective when it is executed by
+authorized representatives of both parties (the "Effective Date").
+Scope of Services & Terms
+Prepared for Jill Brown, LakeXpress. By Alyssa Overheul, Remix (alyssa.overheul@remix.com). Date:
+March 12, 2021
+Effective Date
+June 15, 2021
+Commitment Term
+3 years
+Remix Transit +
+Explore Planning
+License
+Remix Transit
+Scheduling License
+Implementation
+Fee
+$12,000 USD per year, based on a total fixed route fleet of 16, (10 in operation)
+• Access to Transit Planning platform
+• Remix licenses for an unlimited number of users within LakeXpress
+• Enhanced data visualization and analysis
+• Software as a Service (SaaS): fully hosted, cloud-based web platform
+• Dedicated Customer Success staff; Premium Enterprise Support: response to
+requests in 1 business day
+$19,000 USD per year, based on a total fixed route fleet of 16, (10 in operation)
+• Access to Transit Scheduling platform
+• Remix licenses for an unlimited number of users within LakeXpress
+• Enhanced data visualization and analysis
+• Software as a Service (SaaS): fully hosted, cloud-based web platform
+• Dedicated Customer Success staff; Premium Enterprise Support: response to
+requests in 1 business day
+$2,000 USD for 1 year, (one-time fee)
+• Provide onboarding and training for all staff.
+• Create user accounts
+• Calibrate and upload key datasets
+Marketing Terms
+Willingness to work with Remix to develop a case study, mutually agreeable press
+release, ability to use Customer as a reference.
+/Users/claudiapreciado/Desktop/Contract date Lake XPress.docx
+=== page 7 ===
+DocuSign Envelope ID: 41500079-9022-478D-A994-BCD35DE0510E
+This Agreement incorporates the attached Terms and Conditions ("Terms"). In the event of a conflict or inconsistency
+between the Terms and this Agreement, the Terms will control, except to the extent that this Agreement expressly
+states that it supersedes specific language in the Agreement. Capitalized terms not otherwise defined herein will have
+the meaning ascribed to them in the Agreement.
+The parties have caused their duly authorized representatives to execute this Agreement (incorporating the Terms) as
+of the dates set forth below.
+Remix Technologies, LLC.
+Signature:
+Name:
+- DocuSigned by:
+Tiffany (hu
+- A7F5346D1EB34A3...
+Tiffany Chu
+Title: CEO
+Date: 5/24/2021
+Email: tiffany.chu@ridewithviapf0he: 6282392455
+BOARD OF COUNTY COMMISSIONERS
+OF LAKE COUNTY, FLORIDA
+ATTEST:
+Sean M. Parks, Chairman
+This 22 Way or June 2022.
+BUNTY COMMISSION
+-COUNTY, NOT
+Board of County Commissioners of
+Lake County, Florida
+Approved as to form and legality:
+immand
+Melanie Marsh, County Attorney
+/Users/claudiapreciado/Desktop/LakeXpress Proposal 05.18.21.docx

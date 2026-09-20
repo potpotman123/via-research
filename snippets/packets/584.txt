@@ -1,0 +1,317 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Cap Metro/500030.pdf
+# pages_total: 63; hit_pages: [1, 3, 18, 21, 45]; included: [1, 3, 18, 21, 45]
+# context: Bleecker Drive folder: Cap Metro
+
+=== page 1 of 63 ===
+DocuSign Envelope ID: 50401B53-7427-4701-AC18-B2EE4856E9D0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONTRACT NO. 500030 
+(SSP 308552) 
+ 
+REMIX SOFTWARE LICENSES 
+ 
+ 
+ 
+ 
+CONTRACTOR: 
+ 
+Remix Technologies, LLC. 
+10 Crosby St, Floor 2 
+New York, NY 10013 
+Phone:(415) 712-0654 
+ 
+ 
+ 
+CONTRACT TERM: 
+November 1, 2022 – November 1, 2025 
+ 
+ 
+ 
+PRICE: 
+$556,000 
+ 
+ 
+ 
+ 
+PROJECT MANAGER: 
+Rose Lisska 
+Email Address 
+rose.lisska@capmetro.org 
+ 
+ 
+CONTRACT ADMINISTRATOR: 
+Jeffery Yeomans 
+Telephone # 
+(512) 369-7727 
+Email Address 
+Jeffery.Yeomans@capmetro.org 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROCUREMENT DEPARTMENT 
+CAPITAL METROPOLITAN TRANSPORTATION AUTHORITY 
+2910 E. 5th STREET 
+AUSTIN, TEXAS 78702
+
+=== page 3 of 63 ===
+DocuSign Envelope ID: 50401B53-7427-4701-AC18-B2EE4856E9D0 
+CAPITAL METROPOLITAN TRANSPORTATION AUTHORITY 
+AUSTIN, TEXAS 
+AWARD/CONTRACT 
+1. SOLICITATION NO:
+2. CONTRACT NO.:
+3. EFFECTIVE DATE:
+SSP-308552 
+500030 
+November 1, 2022 
+4. CONTRACT ADMINISTRATOR
+NAME: 
+Jeffery Yeomans 
+PHONE: 
+(512) 369-7727 
+5. SHIP TO ADDRESS:
+6. DELIVERY TERMS:
+Capital Metro 
+2910 East 5th Street 
+Austin, Texas 78702 
+FOB Destination 
+7. DISCOUNTS FOR PROMPT PAYMENT: N/A
+8. CONTRACTOR NAME & ADDRESS:
+9. REMITTANCE
+ADDRESS: 
+(If different from Item 8) 
+Remix Technologies, LLC 
+10 Crosby St, Floor 2 
+New York, NY 10013 
+PHONE: 
+415-712-0654 
+FAX: 
+EMAIL: 
+Olivia.ius@ridewithvia.com 
+10. DBE GOAL: N/A
+CONTRACT EXECUTION 
+CAUTION : 
+A false statement in any bid or proposal submitted to CMTA may be a criminal offense in violation of 
+Section 37.10 of the Texas Penal Code. 
+X 
+NEGOTIATED AGREEMENT: 
+(Contractor is required to sign below and return an original document to the 
+Contracting Officer within five (5) calendar days of receipt.) 
+Contractor agrees to furnish and deliver all items or perform all the services set forth or otherwise identified below and on any 
+continuation sheets for the consideration stated herein. The rights and obligations of the parties to this contract shall be 
+subject to and governed by the following documents: (a) this Award/Contract, (b) the solicitation, as amended, and (c), such 
+provisions, representations, certifications, and specifications, as are attached or incorporated by reference herein. 
+SIGNATURE OF CONTRACTOR: 
+Name/Title: Dillon Twombly
+Vice President 
+Signature: 
+Date:     12//27/2_0/2_2
+X 
+AWARD: 
+Items listed below are changes from the original offer and solicitation as submitted. 
+This Award/Contract Form may be executed in multiple originals, and an executed facsimile shall have the same force and 
+effect as an original document. 
+ALTERATIONS IN CONTRACT: 
+Refer to Exhibit E. Exhibit E shall be replaced in its entirety with Exhibit E-Revised-1, Contractual Terms & Conditions, 
+attached hereto and made a part hereof for all pertinent purposes. 
+Refer to Exhibit G. Exhibit G shall be replaced in its entirety with Exhibit G-Revised-1, Contractual Terms & Conditions, 
+attached hereto and made a part hereof for all pertinent purposes. 
+Refer to Exhibit H. Exhibit H shall be replaced in its entirety with Exhibit H-Revised-1, Contractual Terms & Conditions, 
+attached hereto and made a part hereof for all pertinent purposes. 
+ACCEPTED AS TO: Exhibit A, Pricing Schedule, Dated 9/16/2022, Section 6A through 6C, All items for a total not to exceed 
+price of $566,000 
+SIGNATURE OF CONTRACTING OFFICER: 
+Typed Name: 
+Muhammad Abdullah, CTCM, C.P.M. 
+Chief Contracting Officer 
+E-SIGNED by Muhammad Abdullah 
+December 30, 2022 
+Signature: 
+on 2022-12-30 08:07:09 CST 
+Date: 
+/ 
+_/_
+
+=== page 18 of 63 ===
+DocuSign Envelope ID: 9D1541DE-6DB6-4AD5-9AC3-C940472B84DC
+CAPITAL METROPOLITAN TRANSPORTATION AUTHORITY
+(B) A description of all covered telecommunications equipment offered (include brand; model
+number, such as OEM number, manufacturer part number, or wholesaler number; and item description, as applica-
+(C) Explanation of the proposed use of covered telecommunications equipment and any factors
+relevant to determining if such use would be permissible under the prohibition in paragraph (a)(2) of this provision.
+ii) For covered services—
+(A) If the service is related to item maintenance: A description of all covered telecommunications
+services offered (include on the item being maintained: Brand; model number, such as OEM number, manufacturer
+part number, or wholesaler number; and item description, as applicable); or
+(B) If not associated with maintenance, the PSC of the service being provided; and explanation
+of the proposed use of covered telecommunications services and any factors relevant to determining if such use
+would be permissible under the prohibition in paragraph (a)(2) of this provision.
+18. SIGNATURE BLOCK FOR ALL REPRESENTATIONS AND CERTIFICATIONS
+(a) These representations and certifications concern a material representation of fact upon which reliance will be
+placed in awarding a contract. If it is later determined that the offeror knowingly rendered an erroneous or false
+certification, in addition to all other remedies the Authority may have, the Authority may terminate the contract for
+default and/or recommend that the offeror be debarred or suspended from doing business with the Authority in the
+future.
+(b) The offeror shall provide immediate written notice to the Authority if, at any time prior to contract award, the
+offeror learns that the offeror's certification was, or a subsequent communication makes, the certification erroneous.
+(c) Offerors must set forth full, accurate and complete information as required by this solicitation (including this
+attachment). Failure of an offeror to do so may render the offer nonresponsive.
+(d) A false statement in any offer submitted to the Authority may be a criminal offense in violation of Section 37.10
+of the Texas Penal Code.
+I understand that a false statement on this certification may be grounds for rejection of this submittal or termi-
+nation of the awarded contract.
+Name of Offeror:
+Remix Technologies LLC
+Type/Print Name of Signatory:
+Dillon Twombly
+Signature:
+Dillon Twambly
+Date:
+9/16/2022
+SSP 308552 (08/12/2022)
+Page 13 of 13
+Exhibit B
+
+=== page 21 of 63 ===
+CAPITAL METROPOLITAN TRANSPORTATION AUTHORITY 
+____________________________________________________________________________
+__________________________________________________________________________________________________________________ 
+SSP 308552 
+Page 3 of 25 
+Exhibit E-Revised-1 
+(2) 
+Maximum order. The Authority will order a maximum not to exceed the total dollar amount of this 
+Contract. 
+3.
+PERFORMANCE BOND
+(a) 
+The Contractor shall provide a Performance Bond in an amount equal to fifty percent (50%) of the contract 
+amount.  The Contractor shall be required to submit the required bond to the Contracting Officer within ten (10) days 
+from the date of Contract Award Date. The surety company providing the bond must be listed in the latest United 
+States Treasury Department Circular 570, be authorized to do business in Texas and have an underwriting limitation 
+equal to or greater than the penal sum of the bond. If any surety upon any bond furnished in connection with the 
+Contract becomes insolvent, or otherwise not authorized to do business in the State, the Contractor shall promptly 
+furnish equivalent security to protect the interest of the Authority and of persons supplying labor, materials and/or 
+equipment in the prosecution of the Work. 
+(b) 
+The bond shall be accompanied by a valid Power-of-Attorney, issued by the surety company and attached, 
+signed and sealed, with the corporate embossed seal, to the bond, authorizing the agent who signs the bond to 
+commit the surety company to the terms of the bond, and stating on the face of the Power-of-Attorney the limit, if any, 
+in the total amount for which he/she is empowered to issue a single bond. 
+(c) 
+A surety bond rider increasing the dollar amount of any payment and performance bond will be required for 
+any Change Order that increases the contract amount. 
+(d) 
+In addition, the Authority may request a surety bond increasing the dollar amount if: 
+(1) 
+any surety upon any bond furnished with this Contract becomes unacceptable to the Authority; or 
+(2) 
+any surety fails to furnish reports on its financial condition as required by the Authority. 
+3.
+TERM
+The term of the Contract shall be three one (1) (3) years from November 1, 2022.  No Services shall be performed 
+under this Contract prior to the start of the term. 
+4.
+OPTION TO EXTEND CONTRACT TERM
+The Authority shall have the unilateral right and option to extend the Contract for up to three option periods for a 
+twelve (12) month duration each at the option prices set forth in Exhibit A - Pricing Schedule upon written notice to 
+the Contractor. 
+5.
+ADDITIONAL OPTION TO EXTEND CONTRACT PERFORMANCE
+ If the options granted in Paragraph 5 have been exercised in their entirety, the Authority shall have the unilateral 
+right and option to require continued performance of any services within the limits and rates specified in the Contract.  
+This option may be exercised more than once, but the extension of performance hereunder shall not exceed a total 
+of 6 months.  The Authority may exercise the option by written notice to the Contractor. 
+6.
+INVOICING AND PAYMENT
+(a) 
+Invoices may be submitted once per month for work completed and accepted by the Authority, and marked
+“Original” to: 
+Accounts Payable 
+Capital Metropolitan Transportation Authority 
+P.O. Box 6308 
+Austin, Texas 78762-6308 
+Or via e-mail to: ap_invoices@capmetro.org  
+and shall conform to policies or regulations adopted from time to time by the Authority.  Invoices shall be legible and 
+DocuSign Envelope ID: 50401B53-7427-4701-AC18-B2EE4856E9D0
+
+=== page 45 of 63 ===
+SSP 308552 (11/19/2019) 
+Page 2 of 3 
+Exhibit F 
+DocuSign Envelope ID: 50401B53-7427-4701-AC18-B2EE4856E9D0 
+CAPITAL METROPOLITAN TRANSPORTATION AUTHORITY 
+9)
+Ability to analyze existing conditions of street network, develop custom visualizations, import data such
+as stops to quickly analyze street design and transit stop locations.
+10) Ability to general models that estimate cost and service quality based on real deployment data and
+characteristics of agencies proposed on-demand program.
+11) Ability to plan for an on-demand service, view demographic impacts, and understand tradeoffs of
+different service areas.
+PROJECT PLAN & MILESTONES: 
+- 
+Within first two weeks following contract execution: 
+o
+Establish login information and accounts for all relevant CMTA Staff
+o
+Upload Current Street Network, updated GTFS feed and relevant data
+o
+Provide on-boarding/training sessions as described in “Other Work Tasks/Services” section
+below.
+OTHER WORK TASKS/SERVICES 
+- 
+Vendor will provide on-boarding/Training Sessions for all staff who plan to actively use the program 
+and maintain a user account either on-site or via webinar/video conference. On-boarding/Training 
+sessions will be provided upon request for new staff. Full user documentation will be provided by the 
+vendor. 
+- 
+Vendor will aid in the updating of underlying demographic data and transit route/stop data within the 
+software as a service platform. Demographic data, drawing from most up-to-date annual American 
+Community Survey (ACS) data, should be updated by vendor automatically as the data becomes 
+available online. GTFS or other data format feeding the transit route/stop data should be updated with 
+each triennial service change (January, June and August), by request of Capital Metro staff. 
+- 
+Vendor will aid in the uploading of custom data layers to the software as a service platform 
+- 
+Vendor will be available to help troubleshoot problems with the platform and/or data outputs throughout 
+the time that Capital Metro maintains a subscription license during business hours (Monday-Friday, 
+9am-5pm CST). Service response and resolution time during these hours should be less than 48 
+hours. 
+- 
+Vendor will consider custom software changes or updates based on customer needs/requests. 
+- 
+For setting user logins, Capital Metro prefers an option to have user authentication integration with 
+Microsoft Active Directory. Capital Metro will evaluate if this implementation is feasible with given 
+security needs. 
+- 
+Vendor will provide secure web access to hosted system 24x7x365 except for agreed upon periods of 
+maintenance. 
+- 
+Describe the safeguards in place to prevent unauthorized access to the domain, software, and data. 
+- 
+Vendor might perform interviews of Capital Metro IT personnel to determine business requirements 
+and address all business requirements in the proposed specifications. 
+- 
+Describe the process and procedures for regular backups of analysis/maps/data output created by 
+Capital Metro accounts.

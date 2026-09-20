@@ -1,0 +1,143 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Marin Transit/8-Uber-w-MT.pdf
+# pages_total: 18; hit_pages: [2, 12]; included: [2, 12]
+# context: Bleecker Drive folder: Marin Transit
+
+=== page 2 of 18 ===
+TAM Board Meeting, Item 8 
+      Page 2 of 3 
+May 28, 2020 
+ 
+ 
+TAM and Marin Transit staff reviewed all the proposals and completed an initial scoring and ranking based on 
+the criteria included in the proposal: 
+ 
+Criteria  
+Available 
+Points 
+References / Experience with Similar Agencies 
+10 
+Ability to meet Scope of Work 
+50 
+Price Proposal 
+40 
+TOTAL 
+100 
+ 
+The initial scoring process identified five competitive proposals that were advanced into the second round of 
+evaluation which included an oral interview process. Interviews with the five teams were completed between 
+January 6 and17, 2020. The review panel was composed of staff from Marin Transit, TAM, and a non-voting 
+member from the Metropolitan Transportation Commission (MTC). Following oral interviews, staff re-scored 
+all shortlisted vendors using the original criteria. The final scoring is shown in the table below. Based on the 
+outcome of the interview scores, Uber was recommended as the top firm by the review panel and TAM and 
+Marin Transit began contract negotiations. 
+ 
+Vendor 
+Score 
+Uber Technologies, Inc. 
+84 
+Spare Labs, Inc. 
+75 
+Via Mobility, LLC 
+75 
+RideCo, Inc. 
+75 
+Lyft, Inc. 
+69 
+Liftango, Inc. 
+59 
+Ecolane USA, Inc. 
+59 
+TransLoc 
+58 
+Bytemark, Inc. 
+55 
+HBSS Connect Corp 
+50 
+Routematch 
+Software, 
+Inc. 
+47 
+DemandTrans Solutions, 
+Inc. 
+41 
+Shotl 
+36 
+Mobisoft Infotech, LLC 
+31 
+Solyd Transit, Inc. 
+5 
+ 
+ 
+Uber Technologies offers Marin Transit and TAM the ability to seamlessly integrate the existing Marin Transit 
+Connect on-demand service and the GetSMART Program into a single app, providing an integrated user 
+experience. Based on the user’s desired origin and destination, the app will also show the user available public 
+transit options (real-time predictions) and price to complete the trip as well as other on-demand services offered 
+by Uber (UberPool, UberX, etc.). The proposal offers both agencies the required level of custom reporting and 
+oversight needed to meet regulatory reporting requirements. 
+ 
+74
+
+=== page 12 of 18 ===
+Comparison of Proposed Programs
+Marin Transit Connect
+TAM First/Last Mile
+TAM Employer Program
+Overview
+On-demand public transit in 
+Marin Connect vehicles
+Subsidized first & last mile trips 
+in the Marin area
+Subsidized trips to/from 
+employment locations
+Target 
+Riders
+Open to general public; 
+targeting ADA riders
+General public
+Employees of specific employers 
+who are part of the program
+Vehicles 
+Available 
+for Request
+Marin Connect vehicles
+Uber Pool (where available), 
+UberX (where Pool is 
+unavailable), UberWAV
+Marin Connect vehicles
+Uber Pool (where available), 
+UberX (where Pool is unavailable), 
+UberWAV
+Marin Connect vehicles
+Rider Fare
+$3 flat fare for Marin Access
+$4 per mile for all other 
+riders
+Rider pays first $4, TAM covers 
+next $5
+TBD in partnership with 
+employers, TAM will invoice 
+employers later.
+Geographic 
+Restriction
+Specific service area.
+Marin Connect service area
+Trips to/from transit stations
+Marin Connect service area, 
+expansion possible
+How to 
+Access
+Rider can request a Marin 
+Connect trip in their Uber 
+app or via the Marin Transit 
+call center with Uber Central
+Rider redeems an Uber Voucher, 
+which automatically applies for 
+all eligible trips, Call Center 
+through MT
+Rider is sent an Uber Voucher by 
+their employer, which 
+automatically applies for all 
+eligible trips
+Item 8 - Attachment B
+84

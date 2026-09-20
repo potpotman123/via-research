@@ -1,0 +1,602 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Utah Transit Authority/1230271.pdf
+# pages_total: 250; hit_pages: [2, 32, 161, 162, 163, 164, 165, 167]; included: [2, 32, 161, 162, 163, 164, 165, 167]
+# context: Bleecker Drive folder: Utah Transit Authority
+
+=== page 2 of 250 ===
+Board of Trustees
+REGULAR MEETING AGENDA
+February 12, 2025
+7.
+Resolutions
+a.
+R2025-02-02 - Resolution Authorizing the
+Amendment of Previously Approved Grant Awards
+and the Execution of Grant Agreements for
+Specified Projects
+Tracy Young 
+ Gregg Larsen
+8.
+Contracts, Disbursements and Grants
+a.
+Contract: Memorandum of Agreement for UTA Legal
+Counsel and Amendment One to the Memorandum
+of Agreement (Utah Attorney General's Office)
+David Wilkins 
+ Mike Bell
+b.
+Contract: Construction Services Agreement for UVX
+900 East Station (Calvin L Wadsworth Construction
+Company, LLC)
+Jared Scarbrough
+c.
+Change Order: Mid-Valley Bus Rapid Transit (MVX)
+Construction Change Order 6 - Station Amenity
+Purchase Authorization (Stacey & Witbeck, Inc.)
+Jared Scarbrough
+d.
+Change Order: On-Call Infrastructure Maintenance
+Contract Task Order 25-001 - 2025 Project Manager
+and Construction Manager Fees (Stacey and
+Witbeck, Inc.)
+Jared Scarbrough 
+ Jacob Wouden
+e.
+Change Order: Vehicle Program Management
+Consultant Services Contract Modification 8 for
+Increased Services (Mott MacDonald, LLC)
+Kyle Stockley
+f.
+Change Order: On-Demand Technologies Master
+Service Agreement Service Order 05, Amendment
+02 - Increased Service Hours in South Salt Lake and
+South Davis Counties (River North Transit, LLC / Via)
+Hal Johnson 
+ Shaina Quinn
+g.
+Pre-Procurements
+-
+Bus Electric Vehicle Charger Maintenance
+Contract
+-
+Bond Underwriting Services Contracts
+-
+Inventory Parts Auto-Purchase-Order Contracts
+Todd Mills
+9.
+Discussion Items
+a.
+Constituent and Customer Service - 2024 Annual
+Report
+Nichol Bourdeaux 
+ Cindy Medford
+Page 2 of 3
+
+=== page 32 of 250 ===
+SUMMARY OF APPROVED DISBURSEMENTS OVER $200,000 
+EXHIBIT 1-10
+FROM DEC 1, 2024 THROUGH DEC 31, 2024
+(UNAUDITED)
+Contract # and Description
+Contract Date
+Vendor
+Check #
+Date
+Check Total
+00223632
+MANAGEMENT SERVICES CONSULTANT
+4/14/2023 AECOM Technical Services, Inc.
+902337
+12/31/2024
+(313,296.92)
+             
+00203378
+TPSS UPGRADE/REHAB
+8/23/2021 C3M Power Systems LLC
+901992
+12/4/2024
+(369,526.30)
+             
+00203378
+TPSS UPGRADE/REHAB
+8/23/2021 C3M Power Systems LLC
+901992
+12/4/2024
+(369,526.30)
+             
+00203378
+TPSS UPGRADE/REHAB
+8/23/2021 C3M Power Systems LLC
+902146
+12/19/2024
+(497,728.15)
+             
+R2024-10-03
+Pension Contribution
+10/23/2024 Cambridge Associates, LLC.
+387258
+12/12/2024
+(1,327,507.08)
+          
+R2024-10-03
+Pension Contribution
+10/23/2024 Cambridge Associates, LLC.
+387586
+12/26/2024
+(1,264,413.27)
+          
+02303802
+CNG DOOR
+1/31/2024 CRAWFORD DOOR SALES
+387357
+12/19/2024
+(220,360.00)
+             
+00017368
+SGR Network Equipment
+6/16/2024 CVE Technologies Group, Inc.
+902054
+12/11/2024
+(233,254.98)
+             
+00017275
+200 S Bus Stops
+3/6/2024 Landmark Companies Inc
+387192
+12/11/2024
+(281,163.58)
+             
+02403819
+TRAX Platform in South Jordan
+5/8/2024 PAULSEN CONSTRUCTION, INC.
+902150
+12/19/2024
+(529,722.00)
+             
+00243813
+TRAX Platform in South Jordan
+5/8/2024 PAULSEN CONSTRUCTION, INC.
+902150
+12/19/2024
+(351,964.00)
+             
+00243813
+TRAX Platform in South Jordan
+5/8/2024 PAULSEN CONSTRUCTION, INC.
+902339
+12/31/2024
+(442,514.00)
+             
+00213430
+AD AGENCY
+6/24/2021 R&R PARTNERS , INC.
+902143
+12/19/2024
+(689,680.00)
+             
+00223660
+TRAINING
+7/17/2023 Relco Locomotives Inc
+902147
+12/19/2024
+(850,000.00)
+             
+02203566
+MKV20-System
+6/3/2020 SCHEIDT & BACHMANN USA, INC.
+901990
+12/4/2024
+(242,447.90)
+             
+02203566
+MKV20-System
+6/3/2020 SCHEIDT & BACHMANN USA, INC.
+902247
+12/24/2024
+(211,164.36)
+             
+02403832
+SOFTWARE SERVICE
+2/14/2024 SHI INTERNATIONAL CORP.
+902148
+12/19/2024
+(930,451.54)
+             
+02403832
+SOFTWARE SERVICE
+2/14/2024 SHI INTERNATIONAL CORP.
+902249
+12/24/2024
+(212,235.92)
+             
+00233786
+ON-CALL MAINTENANCE
+6/9/2021 Stacy and Witbeck, Inc.
+902056
+12/11/2024
+(361,715.00)
+             
+01136796
+ON-CALL MAINTENANCE
+6/9/2021 Stacy and Witbeck, Inc.
+902340
+12/31/2024
+(457,522.76)
+             
+00203349
+ON-CALL MAINTENANCE
+6/9/2021 Stacy and Witbeck, Inc.
+902340
+12/31/2024
+(1,667,631.00)
+          
+00203349
+ON-CALL MAINTENANCE
+6/9/2021 Stacy and Witbeck, Inc.
+902340
+12/31/2024
+(403,955.50)
+             
+02403847
+APC
+11/20/2024 URBAN TRANSPORTATION ASSOC. IN
+387583
+12/24/2024
+(300,000.00)
+             
+20038281
+Study
+9/6/2024 Utah Dept of Transportation (U
+387151
+12/4/2024
+(500,000.00)
+             
+HB-322
+Rail Car acquisition
+5/1/2022 Utah Dept of Transportation (U
+902151
+12/19/2024
+(5,000,000.00)
+          
+R2024-10-03
+INCOME TAX
+10/23/2024 UTAH ST TAX (WITHHOLDING ONLY)
+387292
+12/12/2024
+(355,212.98)
+             
+R2024-10-03
+INCOME TAX
+10/23/2024 UTAH ST TAX (WITHHOLDING ONLY)
+387622
+12/26/2024
+(336,567.60)
+             
+02033993
+ON DEMAND MOBILITY
+9/7/2021 VIA TRANSPORTATION INC
+902149
+12/19/2024
+(557,380.06)
+             
+02033993
+ON DEMAND MOBILITY
+9/7/2021 VIA TRANSPORTATION INC
+902149
+12/19/2024
+(256,717.86)
+             
+00203399
+ON DEMAND MOBILITY
+9/7/2021 VIA TRANSPORTATION INC
+902248
+12/24/2024
+(222,200.96)
+             
+02003255
+COMMSYSTEM
+11/14/2023 Woojin Is America Inc
+901991
+12/4/2024
+(253,026.10)
+             
+38
+43
+44
+40
+39
+42
+29
+33
+40
+32
+45
+36
+39
+30
+27
+29
+39
+34
+34
+99
+26
+36
+34
+34
+0
+20
+40
+60
+80
+100
+120
+Jan
+2023
+Feb
+2023
+Mar
+2023
+Apr
+2023
+May
+2023
+Jun
+2023
+Jul
+2023
+Aug
+2023
+Sep
+2023
+Oct
+2023
+Nov
+2023
+Dec
+2023
+Jan
+2024
+Feb
+2024
+Mar
+2024
+Apr
+2024
+May
+2024
+Jun
+2024
+Jul
+2024
+Aug
+2024
+Sep
+2024
+Oct
+2024
+Nov
+2024
+Dec
+2024
+Average Days to Pay
+32
+
+=== page 161 of 250 ===
+,  
+669 West 200 South 
+Salt Lake City UT 84101 
+ 
+January 6, 2025 
+Mott MacDonald 
+Conrad Fawcett 
+ 
+Sent via email only 
+ 
+Conrad.Fawcett@mottmac.com 
+ 
+RE: Contract 21-03429 Vehicle Program Management Consulting 
+ 
+Dear Mr. Fawcett, 
+ 
+The purpose of this letter is to modify the current Vehicle Program Management Consulting Agreement 
+("Agreement") between Mott MacDonald (the Consultant) and Utah Transit Authority (UTA) dated July 16, 
+2021 (UTA Contract Number 21-03429). This Agreement pertains to the performance of Consulting Services 
+for UTA. 
+ 
+This letter (Modification No. 8) is to increase the Not-to-Exceed (NTE) Amount from $1,350,000 per year to 
+$2,350,000 per year. 
+ 
+The current Contract value is $4,650,000. This Modification No. 8 will increase the contract $1,000,000 per 
+year, for a new Contract value to $5,650,000. 
+ 
+All other terms and conditions of the original Agreement shall remain in full force and effect. 
+If you are in agreement with the above referenced amendment, please sign on the line indicated below. 
+ 
+UTAH TRANSIT AUTHORITY 
+ 
+ 
+ 
+MOTT MACDONALD, LLC 
+ 
+By ___________________________ 
+ 
+ 
+By __________________________ 
+Jay Fox   
+ 
+ 
+ 
+ 
+ 
+Conrad Fawcett 
+Executive Director 
+Vice President 
+ 
+By___________________________ 
+ 
+ 
+By __________________________ 
+Dave Hancock 
+David Warnock 
+Chief Capital Services Officer 
+Vice President 
+ 
+Approved as to Content and Form 
+_____________________________ 
+Mike Bell 
+Assistant Attorney General 
+UTA Counsel 
+Docusign Envelope ID: 22AF859D-0A2E-4000-8CDC-CF5C88B8ECC0
+1/9/2025
+1/10/2025
+1/14/2025
+161
+
+=== page 162 of 250 ===
+Utah Transit Authority
+MEETING MEMO
+669 West 200 South
+Salt Lake City, UT 84101
+Board of Trustees
+Date: 2/12/2025
+TO:
+Board of Trustees
+THROUGH:
+Jay Fox, Executive Director
+FROM:
+Nichol Bourdeaux, Chief Planning and Engagement Officer
+PRESENTER(S):
+Hal Johnson, Innovative Mobility Solutions Director
+Shaina Quinn, IMS Program Manager
+TITLE:
+Change Order: On-Demand Technologies Master Service Agreement Service Order 05, Amendment 02 -
+Increased Service Hours in South Salt Lake and South Davis Counties (River North Transit, LLC / Via)
+AGENDA ITEM TYPE:
+Procurement Contract/Change Order
+RECOMMENDATION:
+Approve Amendment Number 02 to Service Order Number 05 of Contract 20-03399 and authorize the
+Executive Director to execute the Amendment and associated disbursements with River North Transit, LLC
+(DBA Via) in the not-to-exceed amount of $400,437 for the South Davis County and Southern Salt Lake County
+Microtransit Zones.
+BACKGROUND:
+Microtransit, branded as UTA On Demand, has proven to be an effective solution that complements UTA’s
+fixed-route bus and train services by addressing coverage gaps and providing flexible transportation options.
+On August 25, 2021, the Board of Trustees approved Contract 20-03399 with River North Transit, LLC (DBA Via)
+to expand and enhance Microtransit services.  The total estimated Master Service Agreement value that is
+currently approved by the board is $65,647,075.  Total Service Order values must not exceed this approved
+estimate.
+Since its inception, this contract has been modified through a series of service orders to accommodate service
+expansions and renewals.
+Service Order 5 was initially approved by UTA’s Board on December 20, 2023, to renew services to Southern
+Page 1 of 3
+162
+
+=== page 163 of 250 ===
+Salt Lake and Southern Davis Counties, and later amended on April 17, 2024, to include fuel costs.
+The proposed second amendment to Service Order 5 accommodates the increased service hours planned in
+UTA’s 2025 budget and is intended to ensure sufficient service capacity to meet growing customer demand
+and ridership in these key Microtransit zones.
+DISCUSSION:
+UTA staff is requesting approval of Amendment 2 to Service Order 5 of Contract 20-03399, not-to-exceed
+$400,347 From January 1, 2025 through December 31, 2025.
+This second amendment increases funding for UTA On Demand Microtransit service in South Davis County and
+Southern Salt Lake County zones for 12 months. These zones are experiencing significant growth, with
+ridership increasing 63% in South Davis County and 37% in Southern Salt Lake County from January to October
+2024.
+The additional funding will provide more service hours to meet growing demand, improving ride availability.
+The amendment also includes adding two vans to the Southern Salt Lake County zone and one van to the
+South Davis County zone to support this growth.
+CONTRACT SUMMARY:
+Contractor Name:
+River North Transit, LLC (DBA Via)
+Contract Number:
+20-03399-05-02
+Base Contract Effective Dates:
+January 1, 2024 - December 31, 2026
+Extended Contract Dates:
+N/A
+Existing Contract Value:
+Service Order 5 Only: $22,729,653
+Total Existing Contract Value: $55,603,305
+Amendment Amount:
+$400,437 (Service Order 5, Amendment 2)
+New/Total Contract Value:
+Service Order 5 Only: $23,130,090
+New Total Contract Value: $56,003,742
+Procurement Method:
+N/A
+Budget Authority:
+2025 Approved Operating Budget
+ALTERNATIVES:
+If UTA decides not to increase the service supply, fewer rides would be available to accommodate the growing
+demand, potentially impacting rider satisfaction and accessibility. Alternatively, UTA could explore other
+options outlined in the Five-Year Service Plan to address mobility needs and service gaps.
+FISCAL IMPACT:
+This amendment is consistent with UTA’s approved 2025 operating budget. The approved 2025 UTA operating
+budget allocates $1,710,000 to the South Davis zone and $5,928,000 to the Southern Salt Lake County zone.
+The total increased expected spend for this request is not-to-exceed $400,437 in 2025, with $284,105 to be
+allocated to the Southern Salt Lake County zone and $116,332 to be allocated to the South Davis zone, as
+Page 2 of 3
+163
+
+=== page 164 of 250 ===
+determined based on relative demand. These incremental increases are included in the approved operating
+budget totals.
+All service expenses are funded through the Innovative Mobility Solutions operating expense line item for
+contracted services in the annual Planning & Engagement budget (6550.050353).
+ATTACHMENTS:
+·
+Contract Modification: On-Demand Technologies and Innovative Mobility Services (River North Transit,
+LLC DBA Via) Contract Modification 05-02
+Page 3 of 3
+164
+
+=== page 165 of 250 ===
+Docusign Envelope ID: 8AA0B1AD-10C0-432B-BA48-19342E81FC43
+AMENDMENT NO. 2 TO
+SERVICE ORDER NO. 5 UNDER THE
+ON-DEMAND TECHNOLOGIES AND INNOVATIVE MOBILITY SERVICES
+MASTER SERVICES AGREEMENT
+UTA Contract No. 20-03399-5-2
+1. Amendment
+On January 1, 2024, each of River North Transit, LLC ("Via") and the Utah Transit Authority
+("UTA" or "Customer"), hereinafter collectively referred to as the "Parties," entered into Service
+Order No. 5 (the "Service Order") under UTA Contract No. 20-03399 (the "MSA") to establish
+an on-demand transit deployment ("Deployment") in South Davis County, Utah and Southern Salt
+Lake County, Utah, which was subsequently amended to increase the NTE to account for fuel
+charges on April 25, 2024.
+By Amendment No. 1, the Parties agreed to increase the NTE to include fueling costs
+By this Amendment No. 2, the Parties agree to amend the Service Order as follows:
+NTE Increase: the Not-to-Exceed fees, detailed in Appendix C of the Service Order, shall be
+increased by $400,437 to $23,130,090. This NTE will cover additional service hours for 2025.
+The two pricing tables in Appendix C shall be deleted in their entirety and replaced with the
+two tables below.
+165
+
+=== page 167 of 250 ===
+Docusign Envelope ID: 8AA0B1AD-10C0-432B-BA48-19342E81FC43
+IN WITNESS WHEREOF, the Parties hereto have caused this Amendment No. 2 to be executed
+in duplicate as of the date first herein written.
+Via: River North Transit, LLC
+Customer: Utah Transit Authority
+- Signed by:
+Alex Lavoie
+12/17/2024
+A16X 13981€
+Manager or River North Transit, LCC
+Jay Fox
+Executive Director
+Nichol Bourdeaux
+Chief Planning and Engagement Officer
+Hal Johnson
+Director, Innovative Mobility Solutions
+Recommending:
+Shaina Quinn, Program Manager
+- DocuSigned by:
+Mike Bill
+ĐE33А415B444F6
+Mike Bel
+Assistant Attorney General
+UTA Counsel
+167

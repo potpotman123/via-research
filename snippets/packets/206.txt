@@ -1,0 +1,208 @@
+# source_url: https://rideuta.legistar1.com/rideuta/attachments/562ef7d4-a686-435d-a6ec-fdcef36f5e50.pdf
+# path: raw/cache/06ae57f388662a7bc4f1d08cafbc8752a2cd0b66.pdf
+# pages_total: 10; hit_pages: [1, 2, 3, 4, 5, 6, 7, 9]; included: [1, 2, 4, 9]
+# context: legistar client=rideuta; matter 20-03399-2 BM (2021-11-22): Change Order: Microtransit Master Service Agreement Service Order No. 2: Southern Salt Lake County Renewal (River North Transit LLC. - Via)
+
+=== page 1 of 10 ===
+Service Order No. 1 UTA Contract No. 20-03399BM 
+(Confidential) ∙ Page 1 of 10 
+ 
+ 
+SERVICE ORDER NO. 2 UNDER THE  
+ON-DEMAND TECHNOLOGIES AND INNOVATIVE MOBILITY SERVICES  
+MASTER SERVICES AGREEMENT 
+UTA Contract No. 20-03399-2 
+ 
+ 
+SERVICE ORDER NO. 2  
+UTA ON DEMAND – SOUTHERN SALT LAKE COUNTY DEPLOYMENT RENEWAL 
+ 
+DATE: DECEMBER 15, 2021 
+ 
+ 
+1. Purpose 
+ 
+On September 1, 2021, each of River North Transit, LLC (“Via”) and the Utah Transit Authority 
+(“UTA” or “Customer”), hereinafter collectively referred to as the “Parties,” entered into an 
+agreement entitled On-Demand Technologies and Innovative Mobility Services (the “MSA”). By 
+this Service Order No. 2, the Parties agree to continue their collaboration on the UTA On Demand 
+Deployment (hereinafter the “Deployment”) in southern Salt Lake County, Utah, which began in 
+November 2019 pursuant to the Parties’ original Master Service Agreement (as amended up to the 
+date hereof). 
+ 
+Under this Service Order No. 2 (the “Service Order”), Via will continue to provide UTA with 
+technology and technology-enabled integration services (the “Services”), acting as a broker 
+coordinating the services of third-party service providers to effectuate the Deployment. Via will 
+contract with third party service providers to effectuate such integration, including with fleet 
+managers, vehicle suppliers, driver partners, background check providers, customer service 
+support agencies, a payment processor and insurance brokers and underwriters. Via’s Services will 
+include: 
+  
+● A Transportation as a Service (TaaS) solution as defined within the MSA; 
+● Localization of a proprietary cloud-based dynamic vehicle routing and real-time passenger 
+aggregation system; 
+● Access to the Via mobile rider application (iOS and Android) for individuals using UTA’s 
+service (“Riders”) to book and pay for rides through a smartphone; 
+● Access to booking via a dedicated phone line for Riders who do not have access to a 
+smartphone; 
+● Access to the Via mobile driver application for drivers to route and service rides through a 
+smartphone or tablet; 
+● Establish relationship with vehicle rental company (“Vehicle Partner”) to provide access 
+to vehicles on a rental basis to independent contractor driver partners (“Driver Partners”) 
+who shall provide transportation services;  
+● Accompanying technical and operational support service; 
+● Marketing and outreach initiatives as described herein; and 
+● Data sharing and reporting as described herein. 
+ 
+DocuSign Envelope ID: EF486C09-20EC-46C5-9325-8BAE290F95EA
+	
+
+
+
+=== page 2 of 10 ===
+Service Order No. 1 UTA Contract No. 20-03399BM 
+&RQILGHQWLDO෬3DJH2 of 10 
+ 
+Conflicts between this Service Order and any other terms and conditions or written agreements 
+between the Parties, including the MSA, shall be resolved in favor of this Service Order. 
+ 
+2. Effective Date; Duration 
+ 
+This Service Order shall take effect on January 1, 2022 (hereinafter the “Effective Date”), and 
+the term of the Deployment under this Service Order shall be for a period of 36 (thirty-six) 
+months from such date. The Appendices A, B, & C attached hereto may be amended annually to 
+reflect updated agreements on service parameters, and deployment goals and objectives.  
+  
+3. Fees 
+  
+The Parties agree to reassess and renegotiate the fees charged by Via to UTA on an annual basis, 
+if necessary, and to amend and include fees and a fee structure in the Appendices of this Service 
+Order.  
+ 
+Any new regulatory fees imposed by a governmental entity related to the Services will be charged 
+as a pass-through cost contingent on UTA’s advance agreement which will not be unreasonably 
+withheld or delayed. UTA will have the option of decreasing other Services or expenses in order 
+to off-set these additional fees. 
+ 
+4. Service Parameters 
+  
+Pursuant to the MSA and in accordance with Appendix A and B, Via will provide access to a 
+platform service (the “Platform”) through which Riders will be able to book and pay for rides on 
+a shared and on-demand basis and dedicated vehicles will be offered by the Vehicle Provider to 
+Driver Partners on a rental basis.  
+ 
+The Parties agree to collaborate toward the operation of two distinct, commingled service types to 
+be served concurrently by the same Vehicle Fleet: 
+ 
+(1) An on-demand microtransit service that shall be available to all eligible residents and 
+visitors to the UTA On Demand service area, and which shall remain inclusive and 
+accessible for persons with disabilities; and  
+(2) A dedicated “Paratransit Connection” service, which shall be available to UTA Paratransit-
+eligible Riders for the purpose of transporting them between their home or other location 
+inside the UTA On Demand service area and a UTA transit connection point (TRAX or 
+FrontRunner station) inside the service area. In mutually agreed upon cases (such 
+agreement in written email being sufficient), this service may also be used to transport 
+Riders from the Riders’ home directly to another location inside the service area in a point-
+to-point fashion. 
+ 
+The Parties agree to amend this Service Order or its appendices annually with updated parameters 
+regarding the service zone, service times, and vehicle fleet configuration, to be determined per the 
+Parties’ mutual agreement. 
+ 
+Rider Fares: Rider fare and rider fare discounts will be set by UTA. During the duration of the 
+Deployment, discounted and promotional rider fares may be implemented upon mutual agreement 
+between the Parties. 
+ 
+DocuSign Envelope ID: EF486C09-20EC-46C5-9325-8BAE290F95EA
+	
+
+
+
+=== page 4 of 10 ===
+Service Order No. 1 UTA Contract No. 20-03399BM 
+&RQILGHQWLDO෬3DJH4 of 10 
+ 
+During the course of the Deployment, Via’s Project Team, led by the Via Project Manager, will 
+liaise with the UTA Project Manager over the key deliverables of this Service Order and to 
+endeavor to maximize ongoing service optimization. 
+ 
+6. Driver Partner Registration & Supply Management 
+  
+Via will source Driver Partners to provide transportation services to UTA through the Platform. 
+Via will engage in a good faith effort to register Salt Lake County residents as Driver Partners.  
+  
+Via will ensure that Driver Partners have appropriate licenses, permits, and insurance required for 
+the type of vehicles being operated as defined within the MSA.  As part of Driver Partner 
+registration for access to the Platform, all Driver Partners will be introduced to Via with the 
+following areas covered: familiarization with the Deployment service areas; hours of service; 
+UTA’s expectations; use of the Driver App; and reporting incidents and delays in service. 
+ 
+Throughout the Deployment, Via will review comments and ride reviews from customers 
+submitted through the UTA On Demand application to identify opportunities for service 
+improvements and address concerns over Driver Partner behavior and performance. 
+ 
+Via will be responsible for ensuring that there is adequate driver supply for each service zone 
+within designated hours to meet demand with optimal quality of service, given constraints. 
+ 
+7. Rider and Driver Partner Support 
+  
+Via will ensure the provision of customer service and support for Driver Partners and Riders on 
+issues that arise in connection with use of the Platform. In addition, Via will provide live translation 
+services in Spanish to customers using their call center in order to communicate with those who 
+have limited English proficiency. Live support for Driver Partners and riders will be provided 
+during service days/hours. Driver Partners and riders may call or text into the service during service 
+days/hours and will receive prompt response to their inquiry. Riders may also email into the center 
+24/7 with inquiries about the service and will typically receive a response to their inquiry within 
+24 hours.  
+  
+Following each ride, the Rider will be prompted to submit a ride rating with feedback in the app. 
+If an issue arises for a Rider or Driver Partner before, during, or after a ride, these parties will be 
+able to reach customer support staff by phone, or by submitting an email ticket, which will be 
+replied to promptly by such customer support staff.    
+ 
+8. Marketing, Promotions, & Press 
+  
+Via shall work closely with UTA to determine a unified marketing and promotional program that 
+increases community awareness of the service and maximizes its success.  
+  
+The Deployment, including the rider app, will be co-branded as “powered by Via”. The “powered 
+by Via” banner must be used only in the exact format provided by Via and will be prominent on 
+all assets promoting the Deployment, including (but not limited to) printed collateral, digital 
+materials, websites, and any vehicle wraps. The “powered by Via” banner will have equal 
+prominence on all marketing materials to any additional partner logos or trademarks. Via may 
+provide pre-approved brand assets and guidelines that must be complied with in all marketing 
+communications distributed by UTA. 
+DocuSign Envelope ID: EF486C09-20EC-46C5-9325-8BAE290F95EA
+	
+
+
+
+=== page 9 of 10 ===
+Service Order No. 1 UTA Contract No. 20-03399BM 
+(Confidential) ∙ Page 1 of 10 
+ 
+ 
+Appendix B: 
+Deployment Parameters 
+ 
+The Parties agree to the following Deployment Parameters for the UTA On Demand Deployment 
+in Southern Salt Lake County. Upon mutual agreement, the Parties may agree to subsequent 
+modifications of these Parameters during the term of this Agreement. 
+ 
+x Deployment Service Zone: Approximately 71.1 square miles coverage zone in Salt Lake 
+County, Utah. See Appendix A for a map of the service zone boundary. 
+x Service Days/Hours: The Deployment’s operating hours shall be Monday through Friday, 
+4:00am to 12:15am (the following day); and Saturday, 6:00am to 1:15am (the following 
+day). 
+x Vehicle Fleet: Via’s Vehicle Partner will offer a fleet of up to twenty-four (24) branded, 
+licensed and insured vehicles, including twelve (12) Americans with Disabilities Act 
+(ADA)-compliant Wheelchair Accessible Vehicles (WAV) to be made available to 
+independent contractor Driver Partners, who will be able to gain access to these vehicles 
+after being registered onto the Platform. Of the 24 total vehicles, two (2) WAV and two (2) 
+non-WAV vehicles shall be treated by Via as spares in the event that a regular service 
+vehicle requires maintenance or replacement. Fleet size and composition of WAVs and 
+non-WAVs may be adjusted based upon mutual agreement of the Parties.  
+DocuSign Envelope ID: EF486C09-20EC-46C5-9325-8BAE290F95EA
+	
+
+

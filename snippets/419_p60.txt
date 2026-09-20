@@ -1,0 +1,138 @@
+# source: raw/bleecker_drive/Utah Transit Authority/877423.pdf
+# path: raw/bleecker_drive/Utah Transit Authority/877423.pdf
+# hit page: 60 of 141
+# terms: Via+vehicles
+
+=== page 59 ===
+Page 26 of 46
+EXHIBIT B: 
+General Requirements: Flex Route and Microtransit Services
+Tooele County shall provide Flex Route and Microtransit Transportation Service on behalf 
+of UTA, utilizing vehicles provided by UTA.
+BACKGROUND
+The Utah Transit Authority (UTA) is responsible for the development, implementation, and 
+maintenance of public transportation services within its service area along the Wasatch Front. 
+As part of this process, we are sharing with Tooele County an overall Mission Statement, 
+Vision and Operational Priorities to serve as general guidelines for daily operations.
+MISSION STATEMENT
+Utah Transit Authority strengthens and connects communities enabling individuals to pursue 
+a fuller life with greater ease and convenience by leading through partnering, planning, and 
+wise investment of physical, economic, and human resources.
+VISION
+Provide an integrated system of innovative, accessible and efficient public transportation 
+services that increase access to opportunities and contribute to a healthy environment for the 
+people of the Wasatch region.
+OPERATIONAL SCENARIOS
+There are two modes of service types being performed by Tooele County:
+1. Flex Route(s) F453. The deviation service requirement is Monday-Friday between
+8:00-17:00.
+2. Microtransit “UTA On-Demand” services Monday-Friday between 7:00-19:00.
+UTAH TRANSIT AUTHORITY’S OPERATIONAL PRIORITIES
+1. Safety 
+Emphasize safety of our customers, employees, equipment and community in all aspects of 
+our operations and maintenance services. 
+2. Earn and Retain the Community’s Trust 
+Engender trust and accountability and satisfy and exceed the expectations of citizens, 
+customers, and employees; increase ridership; operate an efficient, cost-effective operation; 
+maintain tight control of operational, administrative, and capital expenditures of public 
+resources; provide service that is ADA compliant and meets our customer’s needs. 
+3. Provide Outstanding Customer Service 
+Provide consistently high-quality service to customers at every interaction with UTA; be 
+rated by customers, the community, and employees as providing excellent customer service 
+59
+=== page 60 ===
+Page 27 of 46
+as measured annually in surveys. 
+4. Employee and Organizational Development 
+Have a well-trained and highly productive workforce; promote healthy dialogue on important 
+issues; reduce employee injuries. 
+5. Environmental  
+UTA takes a proactive approach to environmental management and compliance with all 
+federal, state, and local regulations through its Environmental Management Systems (EMS).  
+The program focusses on continuous improvement of environmental performance by 
+evaluating the impacts of UTA’s activities, products and services it makes in the community.
+6. Technology
+UTA currently uses Trapeze PASS software products to manage Flex Route service delivery
+and Via technology for Microtransit services. Use of the technology systems listed in this 
+section are required for fulfilling this Agreement.  UTA reserves the right to change, enhance 
+or discontinue use of current technology as new technologies are embraced by UTA. Tooele 
+County shall participate in any future technology testing/implementation that may be 
+required by UTA. Tooele County shall comply with UTA direction on all procedures for 
+transferring, entering and managing data necessary to operate or monitor daily services.
+Software required and distributed by UTA under this Agreement shall be for the exclusive 
+use of this Agreement. Tooele County shall protect the software from unlawful copying, 
+duplication, and theft.  
+7. Introduction
+This Scope of Services will detail two modes of Public Transportation Services Delivery, 
+Vehicle Maintenance and Administration Services. #1 Curb-to-curb Flex Route services 
+between Tooele County and Salt Lake Tooele County, #2 Microtransit services to portions 
+of Erda, Tooele, Stansbury Park, and Grantsville cities, in Utah Transit Authority’s Tooele 
+County service area obligation. All transportation service shall be delivered as shared-ride 
+and curb-to-curb transportation service unless noted otherwise. Services are inclusive of, but 
+not limited to, providing transportation services for passengers with disabilities who are 
+ambulatory, mobility dependent and transportation disadvantaged. Tooele County will utilize 
+vehicles provided by UTA as set forth in Exhibit D-2. The service areas and service hours 
+are set forth in Exhibit B, C and D-1.
+8. UTA Provided Software:
+x
+Via Operations Center (VOC)
+x
+Via Driver app
+x
+Via Reporting Application
+x
+Trapeze Pass workstation V17
+x
+Trapeze Reports V17
+x
+UTA paper manifest V17
+x
+Trans Track Customer Concerns module
+x
+UTA Radio Log
+60
+=== page 61 ===
+Page 28 of 46
+Tooele County is required to fill out a UTA Contractor access form to obtain permission to 
+use UTA provided technology and software. UTA will provide procedures and instructions 
+in writing related to Contractor access to and use of required technology. 
+Tooele County shall provide an up-to-date list of active software users and their software 
+access. Tooele County is responsible for notifying UTA within 24 hours of the employees’ 
+separation to ensure access has been terminated. Failure to do so is subject to Liquidated 
+Damages see Exhibit A-1.
+Tooele County employees may not share passwords to gain access to UTA software. Failure 
+of compliance is subject to Liquidated Damages see Exhibit A-1.
+Employees are required to change their passwords every 60 days. If this fails to occur, the 
+employee will be locked out of the system. Any performance standard failures due to this 
+action is subject to Liquidated Damages see Exhibit A-1.
+Tooele County is responsible for personnel training and testing to ensure real-time data is 
+transmitted to the correct mobile devices for Via application and UTA MDT’s.  Tooele 
+County must notify UTA immediately of communication failures.
+In the event of software or technology failure, use of a paper manifest will be required. No 
+interruption of service or Service Performance levels may occur due to technology failure.  
+Tooele County will develop and provide a written emergency backup plan to UTA in case of 
+a technology failure. 
+If it is necessary to use a paper manifest, all trip data must be recorded in permanent and 
+legible manner on the manifest, including: 
+x
+Accurate pick up times at all origins and drop off time at all destinations.
+x
+Reconciliation of all passengers and passenger types transported with address 
+information.
+x
+No Show and Missed Trip information with appropriate notes.
+x
+Beginning and ending mileages. 
+UTA reserves the right to add or alter the information that must be recorded. Tooele County
+is responsible for supplying high speed secure internet connections to all computers used in 
+service delivery.  Via Application requires mobile data plans and assigned mobile devices 
+for each vehicle. If Tooele County installs a WiFi or mobile hotspots, Tooele County will 
+ensure equipment will not interfere with systems or equipment provided by UTA. 
+Tooele County must provide Key Personnel with individual email accounts for daily use. All 
+email account lists must be updated and distributed to appropriate UTA staff when there is a 
+change in personnel. 
+Tooele County shall create a minimum of one (1) email distribution list for their Key 
+Personnel and one (1) for their leadership team that can be accessed from outside of the 
+Contractor network through an email address. This will allow for UTA staff to add the 
+provider to it internal contact lists. Tooele County is responsible for maintaining the accuracy 
+61

@@ -1,0 +1,58 @@
+# source: https://baldwincountyal.legistar1.com/baldwincountyal/attachments/8198868d-34b1-46ed-bbdc-364e79b75e82.pdf
+# path: raw/cache/023b604fe151323fc387b938a52d0b4ec6820cae.pdf
+# hit page: 4 of 4
+# terms: Via Mobility
+
+=== page 3 ===
+DocuSign Envelope ID: 75FD571E-9C2A-4248-A91D-A0ABB2D63DCF
+that Customer will only be charged for the portion of such months during which the Via solution
+was available to be used for the Deployment.
+The above fees do not include any fees owed to the third party payment processor. Via
+will facilitate an introduction to its recommended payment processor and Customer is
+responsible for entering an agreement with such payment processor in order to be able to process
+credit card payments.
+4. Product Enhancements
+Via commits to make all commercially reasonable efforts to deliver the following capabilities
+within its software platform within the contract year. Via agrees to communicate with Customer
+on an ongoing basis regarding the timeline for these capabilities, and to collaborate with Customer
+regarding the prioritization of these capabilities as relevant.
+• Trip Editing: Edit the total number of passengers on a trip booking after the booking has
+been made, without canceling the original booking;
+• Fixed Routes: Provide recurring trips at fixed times, from predetermined locations, along
+a fixed route, for students at designated private schools in Baldwin County; and along the
+"Baylinc" route from eastern Baldwin County to a predetermined point in downtown
+Mobile, Alabama;
+• Fixed/Flexible Driver Breaks: Designate driver breaks in the "Via Operations Center
+(VOC)" as either "fixed" (system cannot change or edit break automatically) or "flexible"
+(the system may change or edit the time of the break within established parameters so as
+to make the Deployment function more efficiently).
+5. Conflict of Terms.
+Unless otherwise stated, all terms and conditions contained in the Original Order are also
+applicable to this Extension. If a term contained in this Extension is in conflict with the terms of
+the Original Order, the specific term in this Extension shall take precedence. Any term or condition
+in the Original Order, including all Appendices not affected by this Extension, shall remain in full
+force and effect.
+=== page 4 ===
+DocuSign Envelope ID: 75FD571E-9C2A-4248-A91D-A0ABB2D63DCF
+IN WITNESS WHEREOF, the Parties hereto have caused this Extension and its accompanying
+Exhibits to be executed in duplicate as of the Effective Date.
+VIA: VIA MOBILITY, LLC
+—DocuSigned by:
+Dillon Twombly
+-9Đ9717479922458...
+AUTHORIZED SIGNATURE
+Dillon Twombly
+PRINTED NAME
+Manager
+TITLE
+9/19/2022
+DATE SIGNED
+CUSTOMER: Baldwin County Commission
+AUTHORIZED SIGNATURE
+James E. Ball
+PRINTED NAME KY
+9/20/2024
+ATE SIGNED THI
+......°
+Chairman
+TITLE

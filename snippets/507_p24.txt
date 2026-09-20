@@ -1,0 +1,70 @@
+# source: raw/bleecker_drive/Suffolk County/Via - Getting Microtransit Right.pdf
+# path: raw/bleecker_drive/Suffolk County/Via - Getting Microtransit Right.pdf
+# hit page: 24 of 26
+# terms: Via Transit, Via+per trip, Via+vehicles
+
+=== page 23 ===
+Upgrading paratransit and
+dial-a-ride
+=== page 24 ===
+Demand-response operators need better digital tools to improve quality of
+service for riders while decreasing costs. With Via, transit agencies can offer
+the ADA community and other eligible customers rides when they actually
+want them at a significantly lower cost per trip.
+VIA'S CREDENTIALS
+Austin's Capital Metropolitan Transportation Authority's Pickup service, a Via-powered
+microtransit offering, showcases how forward-thinking transit agencies can reengineer
+paratransit and dial-a-ride for the benefit of their communities.
+Before working with Via, Capital Metro operated a conventional deviated-fixed route service
+with low ridership. With the hands-on support of Via's microtransit experts, in June 2017
+Capital Metro launched a flexible, on-demand service that utilizes its dispatchers, vehicles, and
+operators in an entirely new way. Pickup riders can now request rides anywhere within the
+service area directly from a custom-built app as well as through a dispatcher, and get picked
+up within minutes in wheelchair accessible cutaway buses. And to support the unbanked,
+Pickup was designed to accept cash fares.
+Pickup has quickly achieved previously unattainable levels of service quality for customers and
+operational efficiency for the Authority.
+Before/with
+Via
+Average
+wait time
+(Minutes)
+Before Via
+With Via
+Minimum 2 hrs
+10 minutes
+% of trips
+booked
+through
+the app
+0%
+50%
+Rides per
+vehicle/hr
+% Utilization
+improvement
+% Cost
+reduction per
+ride
+3.5
+N/A
+56%
+N/A
+36%
+=== page 25 ===
+Why us?
+The Via Guarantee
+Our technology has been tested in markets around the world -- including
+New York City, Chicago, Washington D.C., Paris, and Orange County,
+California -- and validated by world-class partners like Daimler, Keolis,
+Arriva, and the Capital Metropolitan Transportation Authority in Austin.
+With the Via Guarantee, our support fee is tied to ridership and productivity
+targets to limit your financial and operational risk.
+Keolis
+A leCab
+) ARRIVA
+METRO
+Mercedes-Benz
+WarN Development Nort
+Contact us at platform@ridewithvia.com
+Visit platform.ridewithvia.com

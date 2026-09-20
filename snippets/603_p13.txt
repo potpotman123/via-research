@@ -1,0 +1,149 @@
+# source: raw/bleecker_drive/City of Galveston/19367.pdf
+# path: raw/bleecker_drive/City of Galveston/19367.pdf
+# hit page: 13 of 19
+# terms: Remix Technologies
+
+=== page 12 ===
+○
+“Experimental Prototypes” have included features such as: 
+■
+Jane Isochrone Before and After: ​Compare changes in 
+transit access between two maps 
+■
+Transit and Driving Access:​ Compare how far Jane, the 
+travel time isochrone, can travel by driving versus taking 
+transit 
+■
+Transit and Driving Distance:​ Overlay transit distance on 
+top of driving distance 
+■
+KML Import:​ Import a KML file into Remix as a new project  
+○
+“Experimental Prototypes” change over time based on customer 
+feedback  
+●
+Access to Remix Explore for rapid and flexible data analysis: 
+○
+Instant statistics on the community (e.g. demographics, travel 
+patterns) and points of interest for predefined areas (census tracts, 
+city boundaries, etc) and custom geographies created with drawing 
+and a multi-selection tool  
+○
+“Breakdown Tables” help users dig deeper into the demographic 
+analysis of the selected area - “Breakdown Tables” allow users to 
+cross-tabulate two different characteristics through pivot tables  
+○
+Easily filter data across multiple dimensions and legend breaks  
+○
+Calculating change over time for data with multiple versions with 
+“delta layers” 
+○
+Custom data uploads available upon request including, but not 
+limited to, dynamic uploads of ridership, passenger load, or APC 
+(average passenger count) data  
+ 
+Tiffany Chu 
+Remix Software, Inc 
+1128 Howard Street 
+San Francisco, CA 94103
+www.remix.com 
+Chief Executive Officer
+ 
+tiffany@remix.com
+ 
+415.610.5336  
+ 
+7
+=== page 13 ===
+1 | P a g e  
+CONTRACT FOR SERVICES 
+REMIX TRANSIT + EXPLORE PLANNING LICENSE 
+ 
+This Contract (the “Contract”) is made and entered into this DAY!!! day of December, 2024, by and 
+between the City of Galveston (“City”), a Texas home-rule municipality, and Remix Technologies, LLC, 
+(Company), located at 10 Crosby Street, Floor 2, New York, NY 10013.  By entering into this 
+Agreement, Company agrees that City is entering into this agreement in its governmental capacity, and 
+not a proprietary one. 
+WHEREAS, the City of Galveston desires to obtain services in connection with Remix Transit 
++ Explore Planning License, within the City of Galveston (“City”) and Remix Technologies, LCC 
+(“Company”) desires to provide such services; and 
+WHEREAS, this Agreement between the Parties consist of the terms and conditions set forth 
+herein, and Exhibit A, identified as the proposal from the Company for the scope of services, and 
+those document(s), attached and incorporated for all purposes. 
+ 
+           NOW, THEREFORE, for and in consideration of the mutual covenants hereinafter set forth, 
+the parties do mutually agree as follows: 
+1. SCOPE OF SERVICES:  Company will provide the services (“Work”) to the City in connection 
+with the Project, more specifically described in Exhibit A, attached and fully incorporated for all 
+intents and purposes.   
+2. STANDARD OF CARE: The standard of care for all services performed or furnished by Company 
+under this agreement will be the care and skill ordinarily used by members of the subject profession 
+practicing under similar circumstances at the same time and in the same locality.  
+3. COMPLIANCE WITH LOCAL, STATE AND FEDERAL LAWS – Company shall comply 
+with all applicable laws, ordinances, and codes of the federal, state, and local governments. 
+4. CHANGES:  The City may request changes in the scope of the services to be performed hereunder. 
+Such changes, including any increase or decrease in the amount of compensation to Company, which 
+are mutually agreed upon by and between the City and Company, shall be incorporated in written 
+amendments to this Contract. No changes in the terms of this contract shall be binding unless it is in 
+writing and signed by an authorized representative of both parties.  
+5. TERM:  Contract shall be effective upon execution by the City of Galveston for three (3) years 
+unless sooner terminated under the terms set forth herein.  
+6. APPROPRIATIONS:  The obligations of the City to make payment under this Contract are 
+expressly subject to appropriations by the City of funds that are lawfully available to be applied to such 
+purpose. 
+7. SCHEDULE AND DELIVERABLES:  The City and its agencies will cooperate with Company to 
+facilitate the performance of the work described in the contract.  Company will perform the Work in 
+accordance with the schedules/timetables described in greater detail in the attached Exhibit A.  
+In the event that one or more of the members of the Company cannot perform because of ill health, 
+physical disability or other reasons beyond his/her control, Company shall use its best efforts to furnish 
+a substitute of similar stature for such member of the Company whom City agrees to accept.  City does 
+not have to accept any substitutes provided by the Company, but, may contract a substitute of their 
+own.
+=== page 14 ===
+2 | P a g e  
+8.  FORCE MAJEURE: In the event that the performance of any of the covenants of this agreement 
+shall be prevented by an act of God, the acts and regulations of public authorities, or labor disputes, 
+acts of the public enemy, acts of superior governmental authority, or other circumstances, or cause 
+beyond their or its reasonable control, the City and Company shall be respectively relieved of their 
+obligations hereunder with respect to the performance(s) so prevented.  In the above mentioned event, 
+Company grants City the right to reschedule the performance(s) under the same terms and conditions 
+of this contract. 
+9. COMPENSATION:  The City shall compensate Company for the Work at the 
+agreed upon Exhibit A. All invoices are due under Government Code Sec. 2251.021, and are 
+payable to Company at 10 Crosby Street, Floor 2, New York, NY 10013.   The City shall not be 
+responsible for any payment to Company for any additional services or expenses not specifically 
+included in Exhibit A, except upon execution of an amendment to this Contract in writing by both 
+parties. Parties shall attempt to resolve any payment disputes within thirty (30) days after the invoice 
+date.  
+10. INSURANCE REQUIREMENTS: Company shall provide all required City of Galveston 
+certificates of coverage and all renewals throughout the duration of the Project.  For each policy except 
+Workers’ Compensation protection, Company shall name the City as an additional insured and shall 
+provide that the policy require the insurance carrier to notify the City a minimum of thirty days (30) 
+in advance of cancellation of all or part of the policy. All insurance policies are to be issued by an 
+insurance company authorized to do business in the State of Texas and using an insurance company 
+with an A.M. Best rating of B+ or better. All subcontractors utilized must also comply with these 
+specifications as if they were the winning proposer.  Specific details of coverage limits and conditions 
+are listed below.  
+Required Insurance: 
+ 
+a. Commercial general liability insurance, naming the City of Galveston as an additional 
+insured and as certificate holder, and waiving subrogation per the contractual 
+requirements of this project. Limits are to be equal to or greater than: 
+$2,000,000 general liability (includes products and personal, etc.) 
+$1,000,000 fire damage 
+$1,000,000 automobile damage 
+$500,000 workers compensation employers’ liability 
+Statutory limits for workers compensation 
+Insurance coverage shall be on an “occurrence basis” 
+ 
+11. TERMINATION:  This Contract may be terminated prior to completion of the Work by either 
+party upon 10 days' written notice to the other.  If, through any cause, Company shall fail to fulfill in 
+a timely and proper manner his/her obligations under this contract, the City shall thereupon have the 
+right to terminate this Contract by giving written notice to Company of such termination and 
+specifying the effective date thereof, at least five days before the effective date of such termination. 
+In the event of early termination, City shall pay Company for all work performed and expenses 
+incurred to the date specified in the notice of termination. Notwithstanding the above, Company shall 
+not be relieved of liability to the City for damages sustained by the City by virtue of any breach of the 
+Contract by Company or its subordinates and the City may withhold any payments to Company for 
+the purpose of set-off until such time as the exact amount of damages due the City from Company is 
+determined.

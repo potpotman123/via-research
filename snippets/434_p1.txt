@@ -1,0 +1,108 @@
+# source: raw/bleecker_drive/Springfield Ohio/Via_Springfield - Transportation as a Service_MSA.pdf
+# path: raw/bleecker_drive/Springfield Ohio/Via_Springfield - Transportation as a Service_MSA.pdf
+# hit page: 1 of 23
+# terms: Via Transit, Via+hourly rate
+
+=== page 1 ===
+EXHIBIT
+1
+MASTER TERMS AND CONDITIONS FOR TRANSIT AS A
+SERVICE
+THESE MASTER TERMS AND CONDITIONS FOR VIA TRANSIT AS A SERVICE (these "Terms anc
+conditions" or this "Agreement") are entered into as of the effective date designated on the signature
+terms have the meaning given to them in Section 14 or in the Section in which they first appear.
+1. BACKGROUND AND PURPOSE.
+co pride steersices of chird pay serice prowes be intigate puser or prating ansporaten
+networks (collectively, the "Services").
+Purpose: Ordering. The purpose of these Terms and Conditions is to provide a framework under
+which Service Provider will provide to Customer the Services. These Terms and Conditions shall govern
+the provision of Services by Service Provider to Customer as described in the service order attached hereto
+and any other service order signed by Service Provider and Customer (each, an "Order").
+2. THE SERVICES.
+2.1
+The Services.
+The Services. Pursuant to one or more Orders, the parties intend that Service Provider
+shall provide the Services described in
+such Order. In some cases, Services will require a more
+comprehensive description than that contained in the applicable Order. If that is the case, the parties will
+enter into a mutually agreed statement of work and attach it to the applicable Order (each, a "Statement
+of Work" or "SOW"). Each Order or SOW, as needed, will set forth the particulars of the Services for each
+city or locality in which Customer intends to operate the Via Solution in connection with the Service. as
+specified in the Order.
+Additional Services. From time-to-time Customer may desire to engage Service Provider
+to perform additional services, such as development of product features and/or services directly related to
+the Via Solution which fall outside the scope of the Services. In such cases, the parties will negotiate toward
+potential execution of such SOWs as are jointly determined to be appropriate. All such services described
+in this Section 2.1(b) are referred to collectively as, the "Additional Services". The Parties shall agree
+upon a blended hourly rate for Service Provider to bill Customer for performing such Additional Services
+under the relevant SOW. Service Provider shall consider proposals for such Additional Services in good
+faith but is under no obligation to perform the Additional Services if an SOW cannot be agreed upon with
+General Terms. All references to
+Orders include their SOWs. Service Provider shall
+provide the Services to the Customer in accordance with the relevant Order beginning on the Effective Date
+and continuing throughout the Term, in accordance with the terms of this Agreement. The Services to be
+delivered to the Customer are set forth in the relevant Order as may be amended through written agreement
+between Service Provider and the Customer from time to time during the Term. All Services to be performed
+by Service Provider shall be in accordance with the applicable Order executed by Service Provider and the
+Customer and Service Provider's obligations under Section 9.1 (Regulatory Compliance). Service
+Provider's provision of the Services requires such reasonable and timely cooperation as Service Provider
+may require of the Customer, including access to the Customer's information, personnel, and/or systems,
+and Service Provider shall not be responsible for any failures or delays caused by the Customer's failure
+to so cooperate or any inaccurate information provided by or on behalf of the Customer. Unless an Order
+has different acceptance terms, Customer will accept the Services and any resulting deliverables upon
+payment or fifteen (15) days after their performance, whichever occurs first, and may not withhold,
+• Page 1 of 9
+=== page 2 ===
+(d) Relationship Management. The Customer Manager and Service Provider Manager
+named in an Order shall assume operational responsibility for that Order. Changes to the scope of an
+existing Order or SOW (including changes to any deliverables) require mutual written consent of the parties.
+3. INTELLECTUAL PROPERTY AND RELATED RIGHTS.
+The Via Solution. No exchange of or license to intellectual property rights is contemplated
+hereunder. For the avoidance of doubt, as between Customer and Service Provider hereunder, all
+Intellectual Property Rights ("IPRs" as defined in Section 14) in and to the Via Solution and all of their
+derivative works and improvements are owned by, and are proprietary to Via. No right, title or interest in or
+to the Via Solution or any portion thereof is or shall be granted or transferred to Customer under this
+Agreement, whether by license or otherwise; and Customer acknowledges and agrees that it shall have no
+right to use, reproduce, distribute, sublicense, modify or otherwise provide to third parties, the Via Solution,
+in whole or in part.
+Rider Data. As between Customer and Service Provider, all IPR in and to Rider Data are owned
+by Service Provider. Service Provider shall be responsible for displaying a privacy policy to Riders. Service
+Provider shall provide data reporting as set forth in the Order.
+3.3
+Rights to Marks. As between them hereunder, each party is and shall continue to be the exclusive
+owner of all IPR in and to their respective Marks. To the extent the parties have agreed that one party
+requires the use of the other party's Marks in connection with performance under an Order, such Order
+shall be deemed to contain a grant of license (or sublicense, as applicable) to such party's Marks sufficient
+to allow full performance under such Order. In addition, Service Provider shall have the right to use
+Customer's Marks in accordance with Section 12. In the event that Customer uses Via's Marks in a way
+that causes material reputational harm to Via's brand, Via reserves the right to withdraw Customer's use of
+the Via Marks from the Service.
+Independent Activities. The Customer acknowledges that Service Provider is in the business of
+performing services similar to the Services for third parties and that, subject to its confidentiality obligations
+hereunder, nothing herein prevents Service Provider from continuing to engage in the performance of such
+services and related independent activities.
+4. FEES, TAXES, EXPENSES AND PAYMENTS.
+The fees for Services purchased (the "Fees") together with the schedule of payments and any additional
+payment information are listed in each applicable Order. Unless otherwise stated in the Order, all Fees will
+be payable by Customer within fifteen (15) days of receipt of invoice. Customer's obligation to pay under
+any one Order is not contingent on Customer entering into, or Service Provider performing under, any other
+Order now or in the future. Fees do not include applicable taxes (including sales, use, value-added, or
+excise taxes) or government charges all of which are payable by Customer (excluding taxes on Service
+Provider's income), nor do they include expenses Service Provider may incur for Customer's direct benefit,
+which will be incurred in accordance with Customer's applicable expense-reimbursement policies, if so
+requested. Sales or value-added taxes or similar governmental charges associated with the provision of
+any Services (excluding taxes on Service Provider's income) will be separately stated on the relevant
+invoice and shall be paid by Customer in accordance with this Section 4. If Service Provider does not
+receive timely payment, Service Provider may charge the maximum monthly interest allowed by law or one
+percent, whichever is greater, suspend Service Provider's performance and seek cost of collection,
+including reasonable attorneys' fees. If Customer disputes invoiced amounts, Customer must submit
+disputes to Service Provider in writing within ten (10) business days of the date the invoice originally was
+due, otherwise it will be final and non-refundable.
+5. TERM AND TERMINATION.
+5.1
+Term; Duration of Right to Place Orders. The Customer's right to enter into Orders under these
+Terms and Conditions commences on the Effective Date and continues, unless earlier terminated pursuant
+to this Section 5, for so long as at least one Order remains continuously in effect (the "Term").
+5.2
+Termination.
+• Page 2 of 9

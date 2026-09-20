@@ -1,0 +1,158 @@
+# source: raw/bleecker_drive/Broward/MA_Report.pdf
+# path: raw/bleecker_drive/Broward/MA_Report.pdf
+# hit page: 2838 of 6451
+# terms: Via+not to exceed, Via+not-to-exceed
+
+=== page 2837 ===
+Current Procurement Contracts Sorted by Contract ID # As of 11/24/25
+Page 2837 of 6451
+Departmental Usage
+# of PO's
+Amount Ordered
+Amount Paid
+FINANCE & ADMIN SVCS 
+7
+$259,625.0000
+$84,687.5000
+Department Totals
+7
+$259,625.0000
+$84,687.5000
+Renewals
+Line #
+Starts
+Expires
+1 
+8/16/24 
+8/15/27
+2 
+8/16/27 
+8/15/28
+3 
+8/16/28 
+8/15/29
+=== page 2838 ===
+Current Procurement Contracts Sorted by Contract ID # As of 11/24/25
+Page 2838 of 6451
+Lead Agency Contact (Contact Unit Mgr if Incorrect)
+SFARMER@broward.org
+Contract ID #
+Document Description
+Start Date
+End Date
+Not To Exceed
+Amount Ordered
+GEN2127868Q1_2
+FINANCIAL ADVISORY SERVICES
+8/16/2024
+8/15/2027
+$375,000.00
+$28,125.00
+Vend#-AddrID-ContactID
+Legal Name
+Vendor Contact Email
+Vendor Phone #
+VS00011949
+FRASCA & ASSOCIATES LLC
+kcushine@frascallc.com
+  
+Item #
+Category
+Description
+Total Line Qty
+Released
+UO
+M
+Maximum Line 
+Amount
+Unit Price
+Total Line Released 
+Amount
+Amount Paid
+GEN2127868Q1_2_00
+1 
+9184900
+Annual Retainer 
+($25,000, as per Article 
+5.1.1 of Agreement)
+28,125.0000
+YRS
+$0.0000
+$1.0000
+$28,125.0000
+$28,125.0000
+ 
+Optional Services for 
+Special Assignments via
+Work Authorizations, as
+per Article 5.1.2 of 
+Agreement (Contract 
+Year 2024-2027)
+0.0000
+0
+$300,000.0000
+$0.0000
+$0.0000
+$0.0000
+ 
+Optional Services for 
+Special Assignments via
+Work Authorizations, as
+per Article 5.1.2 of 
+Agreement (Contract 
+Year 2027-2028)
+0.0000
+0
+$100,000.0000
+$0.0000
+$0.0000
+$0.0000
+ 
+Optional Services for 
+Special Assignments via
+Work Authorizations, as
+per Article 5.1.2 of 
+Agreement (Contract 
+Year 2028-2029)
+0.0000
+0
+$100,000.0000
+$0.0000
+$0.0000
+$0.0000
+Vendor Total
+$500,000.0000
+$28,125.0000
+$28,125.0000
+Departmental Usage
+# of PO's
+Amount Ordered
+Amount Paid
+FINANCE & ADMIN SVCS 
+5
+$28,125.0000
+$28,125.0000
+=== page 2839 ===
+Current Procurement Contracts Sorted by Contract ID # As of 11/24/25
+Page 2839 of 6451
+Departmental Usage
+# of PO's
+Amount Ordered
+Amount Paid
+Department Totals
+5
+$28,125.0000
+$28,125.0000
+Renewals
+Line #
+Starts
+Expires
+1 
+8/16/24 
+8/15/27
+2 
+8/16/27 
+8/15/28
+3 
+8/16/28 
+8/15/29

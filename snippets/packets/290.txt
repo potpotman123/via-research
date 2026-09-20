@@ -1,0 +1,121 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Arlington, Texas/Staff_Report_-_Contract_Amendment_to_Incorporate_Paratransit_Software_Services.pdf
+# pages_total: 2; hit_pages: [1, 2]; included: [1, 2]
+# context: Bleecker Drive folder: Arlington, Texas
+
+=== page 1 of 2 ===
+Staff Report
+                
+Contract Amendment to Incorporate Paratransit Software Services
+and a Vietnamese Language Smart Phone Application, Project 22-
+0031
+City Council Meeting Date: 05-23-2023
+Document Being Considered:  Resolution
+RECOMMENDATION
+Approve a resolution authorizing the City Manager or his designee to execute an Amendment 
+#1 to the On-Demand Rideshare Contract with River North Transit, LLC., of New York, New 
+York (“Via”) in an amount not to exceed $164,984, to include paratransit software services 
+and the creation of a Vietnamese language smart phone application. River North Transit, LLC 
+is not a MWBE firm.
+PRIOR BOARD OR COUNCIL ACTION
+Previous City Council action to approve the execution of agreements with Via Transportation, 
+Inc., of New York took place as follows:
+
+Minute Order No. 11072017-020, for an estimated amount of $922,500 
+
+Resolution No. 18-313, first renewal, for an amount not to exceed $2,617,375
+
+Resolution No. 19-325, second renewal, for an amount not to exceed $4,552,510
+
+Resolution No. 20-197, first amendment to the second renewal to implement the TCC 
+student ride program and the Arlington RAPID project
+
+Resolution No. 20-280, third renewal for an amount not to exceed $10,817,468
+
+Resolution No. 21-293, fourth renewal for an amount not to exceed $10,186,523
+
+Resolution No. 22-109, first amendment to the fourth renewal to continue the Arlington 
+RAPID project, for an amount not to exceed $10,336,523
+
+Resolution No. 22-277, second amendment to the fourth renewal to increase service 
+revenue to be collected by $600,000
+
+Resolution No. 22-335, execution of an On-Demand Rideshare Service Contract for an 
+amount not to exceed $30,247,642  
+ANALYSIS
+In support of City Council’s "Enhancing Regional Mobility" priority, the City partnered with Via
+Transportation, Inc., to launch an on-demand rideshare service on December 11, 2017, to 
+offer an additional mobility option for residents, employees, and visitors. City Council 
+approved a new contract with Via on November 29, 2022, to continue service through 
+December 31, 2024, with the option of up to four two-year renewals. 
+The app-based rideshare service currently uses a fleet of six-passenger vehicles, a smart 
+phone application and dynamic routing to provide efficient on-demand trips and access to a 
+wide range of destinations. Pick-ups and drop-offs take place within a one to two block walk.
+There are no fixed routes and no fixed schedules, allowing riders to experience a personalized 
+transportation solution that fits their needs. Booking options are available for riders that do 
+not have a smartphone, need a cash option, need curb to curb service or need a wheelchair 
+accessible vehicle.
+The current service area includes the Arlington city limits, the Eastchase area of Fort Worth
+and the CentrePort TRE Station. The current rate structure allows riders to access any 
+destination within the service area from 6am to 9pm, Monday through Friday and from 9am 
+to 9pm on Saturdays for $3.00 to $5.00 per person per trip, depending on distance traveled.
+
+=== page 2 of 2 ===
+Page 2 of 2
+Riders can also purchase a weekly ViaPass for a current cost of $25 for up to four rides per 
+day for the week and a monthly ViaPass for a current cost of $80 for unlimited rides for 30 
+days.
+More information on the service and how to book a ride is available at 
+www.arlingtontx.gov/via.
+An amendment to the current Via contract is necessary to transition the City’s Handitran 
+elderly and disabled service to the Via software platform and to develop a Vietnamese 
+language version of the Via smart phone application. In order to provide a unified software 
+platform for both the Via rideshare service and the City’s Handitran service for elderly and 
+disabled riders, the Handitran service will be transitioned to the Via software platform. A 
+unified software platform will allow riders to access both services through one application, 
+improve data reporting and analytics and yield efficiencies. The cost of this software service 
+provision has a not to exceed amount of $139,984. 
+In order to provide a high quality of service to riders, the City has asked Via to provide the 
+Via smart phone application in additional languages. Via is in the process of creating a Spanish 
+language version of the app, which will be available later this year at no additional charge to 
+Arlington. The City will also request that Via create a Vietnamese language version of the app 
+for an additional cost of $25,000 for programming work. The Vietnamese language version of 
+the app will also be available later this year. 
+These amendments to the Contract represent a total of $164,984 and increase the amount of 
+the Contract to not to exceed $30,412,626. This not to exceed amount for the two year 
+contract includes a maximum of $22,047,916 for the standard Via service, $179,502 for the 
+Arlington Student Transportation Program, $4,020,224 for the Arlington RAPID service, and 
+$4,000,000 for future intercity services, in addition to the $164,984 for paratransit software 
+services and the Vietnamese language app. 
+The Texas Attorney General has previously ruled that certain information in the Via contract 
+is confidential and cannot be disclosed to the public, and therefore a redacted copy of the 
+contract is included in the agenda packet. 
+FINANCIAL IMPACT
+The projected financial impact for this contract term is as follows:    
+FY 2023    
+FY 2024     
+FY 2025
+         $83,500                                   $66,248  
+         $15,236
+Funds are available in the Transportation Department Grant Account No. CC418604-61000-
+SC0533-GR000018 and subject to FY2024 and FY2025 budget approval.
+ADDITIONAL INFORMATION
+Attachments:
+Resolution
+Redacted Amended Contract (per Attorney 
+General ruling)
+Under separate cover:
+None
+Form 1295:
+Yes
+MWBE:
+No
+STAFF CONTACT(S)
+Ann W. Foss, PhD, AICP
+Alicia Winkelblech, AICP
+Planning and Programming Manager
+Transportation Director
+817-459-6678
+817-459-6686
+Ann.Foss@arlingtontx.gov
+Alicia.Winkelblech@arlingtontx.gov

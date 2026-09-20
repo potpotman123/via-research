@@ -1,0 +1,78 @@
+# source: raw/bleecker_drive/Hall County/Micro-Transit-Feasibility-Study.pdf
+# path: raw/bleecker_drive/Hall County/Micro-Transit-Feasibility-Study.pdf
+# hit page: 2 of 24
+# terms: Via+SaaS, Via+fleet
+
+=== page 1 ===
+February 2019
+Microtransit 
+Feasibility Study
+Hall County, GA
+=== page 2 ===
+Table of Contents 
+Executive Summary ............................................................................................................................. 1 
+Via Overview ........................................................................................................................................ 3 
+Firm History ...................................................................................................................................... 3 
+Current Operations .......................................................................................................................... 3 
+Feasibility Study Methodology .......................................................................................................... 4 
+1) Identifying Opportunities for Microtransit ............................................................................... 4 
+2) Projecting Demand ..................................................................................................................... 4 
+3) Simulation Overview .................................................................................................................. 5 
+Hall County Simulation Results ......................................................................................................... 7 
+Scenario 1)  ........................................................................................................................................ 7 
+Scenario 2)  ....................................................................................................................................... 8 
+Scenario 3)  ....................................................................................................................................... 9 
+Scenario 4)...................................................................................................................................... 10 
+Scenario 5) ....................................................................................................................................... 11 
+Summary of Results ....................................................................................................................... 12 
+Quality of Service ........................................................................................................................... 12 
+Microtransit Operating Model ........................................................................................................... 13 
+1) Turn-key (TaaS) ......................................................................................................................... 14 
+2) Turn-key (TaaS) with Hall County fleet ................................................................................ 14 
+3) Licensed Software (SaaS) ........................................................................................................15 
+Recommendations ..............................................................................................................................15 
+Additional Notes ............................................................................................................................ 16 
+Conclusions ......................................................................................................................................... 17 
+Appendix 1 - Ridership Data ............................................................................................................. 19
+=== page 3 ===
+RFP #39-021 – Microtransit Feasibility Study  
+Via Mobility, LLC 
+ 
+ 
+ 
+Page 1 
+ 
+ 
+Executive Summary 
+Hall County seeks to understand how shared, on-demand transit (‘microtransit’) can play a 
+role in its future transportation offerings. Due the the expected reclassification of Gainesville 
+as a ‘large urbanized area’ after the 2020 census, Hall County anticipates a reduction in 
+federal funding for public transit in the region. To ensure Hall County can continue to provide 
+convenient and comprehensive access to transit for its residents and visitors, the County 
+engaged Via to analyze existing demand data, develop models from simulation of 
+microtransit services, and determine fleet requirements for a shared, on-demand 
+transportation network that is both compelling for customers and operationally efficient. 
+This report identifies challenges and inefficiencies in the existing fixed-route bus and dial-a-
+ride networks, explores opportunities for strategic deployment of microtransit technologies, 
+and recommends next steps for Hall County. 
+ 
+To understand how microtransit could be most effective in Hall County, Via considered the 
+following data as initial inputs: 
+• Historic Dial-A-Ride and Gainesville Connection ridership data to understand base 
+demand and travel patterns; 
+• Quality of service assumptions grounded in customer expectations in Via’s other 
+markets; 
+• OpenStreetMaps data including road layout, traffic speeds, and turn restrictions. 
+ 
+These data were analyzed and converted into inputs for Via’s proprietary simulations and 
+analytics tools. Via simulated permutations of several scenarios, considering that 
+microtransit could replace and upgrade the Dial-A-Ride service, the Gainesville Connection, 
+or both. In addition to simulating base demand, Via also modeled high-demand scenarios, 
+given that a high-quality microtransit service will effectively compete with taxis and private 
+vehicles, resulting in a significant increase in ridership.  
+ 
+From these analyses, we recommend retaining Hall County’s three highest performing bus 
+routes, and using microtransit to replace all other routes, along with the Dial-A-Ride service.  
+● Recommended microtransit fleet: 8-10 vehicles 
+● Recommended fixed-route fleet: 3 vehicles (one vehicle per route) 
+● Estimated ridership: 20% - 50% increase in ridership

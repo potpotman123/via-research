@@ -1,0 +1,190 @@
+# source: raw/bleecker_drive/City of West Sacramento/2023.06.07_-_City_Council_-_Amendment_No._5_to_NoMad_Transit_LLC_Contract.pdf
+# path: raw/bleecker_drive/City of West Sacramento/2023.06.07_-_City_Council_-_Amendment_No._5_to_NoMad_Transit_LLC_Contract.pdf
+# hit page: 48 of 63
+# terms: Via+not to exceed, Via+not-to-exceed, Via+per hour, Via+per service hour
+
+=== page 47 ===
+Triennial Performance Audit of Via Rideshare - West Sacramento – FYs 2019–2021 
+ 
+ 
+Michael Baker International - 33
+ 
+  
+These key measures create additional dashboard indicators that mirror public transit 
+operations from which service goals and standards could be formed to better measure 
+productivity over time. For example, a goal standard for passengers per revenue hour and cost 
+per revenue hour could be a rolling 6 to 12 month average under TDA definitions. The City 
+should work with the contractor to develop productivity standards using these measures to 
+build a log of operational efficiency and effectiveness tracking. Section IV of this audit provides 
+the TDA required measures as a starting point.
+=== page 48 ===
+Scenario 1 
+WSC Via Year 6 Contract Value
+Price per 
+Driver Hour
+Price per 
+Service Hour
+Price per Ride
+Total Not-to-
+Exceed Price
+ (12 Months)
+Year 6 Service Planning*
+N/A
+N/A
+N/A
+$55,000
+Supply Planning*
+N/A
+N/A
+N/A
+$0
+Total Upfront Costs
+$55,000
+Project Management
+$3.55
+N/A
+N/A
+$177,500
+Performance Monitoring and Reporting
+$0.72
+N/A
+N/A
+$36,000
+Marketing & Promotions Plan and Implementation
+$0.14
+N/A
+N/A
+$7,000
+Program Operations**
+$47.82
+N/A
+N/A
+$2,391,000
+Total Cost per Driver Hour
+$52.23
+$2,611,500
+Customer Service (1.25 FTE X $30.39 per hour)
+N/A
+$37.99
+N/A
+$227,180
+Total Cost per Service Hour
+$37.99
+$227,180
+Estimated Access for All Regulatory Fee***
+$0.10
+$17,254
+Total Cost to West Sacramento (Incl. Fare Revenue), Before PUCTRA Fees
+$2,910,934
+Estimated PUCTRA Regulatory Fee****
+$8,758
+Total Cost to West Sacramento (Incl. Fare Revenue), Incl. PUCTRA Fees
+$2,919,692
+Sources of Funding:
+Fare Revenue
+$248,972
+Funding from City of West Sacramento (Excl. Fare Revenue)
+$2,670,720
+Total
+$2,919,692
+Driver Hours Summary:
+Total Implied Driver Hours
+50,000
+Implied Driver Hours (Weekly)
+962
+Service Hours Summary:
+Total Implied Service Hours
+5,980
+Total Implied Service Hours (Weekly)
+115
+* Items to be invoiced in full upon the start of Year 6.
+** Includes driver pay, vehicle cost (incl. WAV retrofits and spares where applicable), insurance, dedicated IT operations and supply admin, technology 
+access, local & central operations support, T&E, rent, and office expenses.
+*** TNC Access for All Fees to be invoiced to West Sacramento on a pass through basis.
+**** PUCTRA Fees to be invoiced to West Sacramento on a pass through basis.
+Attachment 2
+=== page 49 ===
+Scenario 2
+WSC Via Year 6 Contract Value
+Price per 
+Driver Hour
+Price per 
+Service Hour
+Price per Ride
+Total Not-to-
+Exceed Price
+ (12 Months)
+Year 6 Service Planning*
+N/A
+N/A
+N/A
+$55,000
+Supply Planning*
+N/A
+N/A
+N/A
+$0
+Total Upfront Costs
+$55,000
+Project Management
+$3.55
+N/A
+N/A
+$203,060
+Performance Monitoring and Reporting
+$0.72
+N/A
+N/A
+$41,184
+Marketing & Promotions Plan and Implementation
+$0.14
+N/A
+N/A
+$8,008
+Program Operations**
+$47.82
+N/A
+N/A
+$2,735,304
+Total Cost per Driver Hour
+$52.23
+$2,987,556
+Customer Service (1.25 FTE X $30.39 per hour)
+N/A
+$37.99
+N/A
+$227,180
+Total Cost per Service Hour
+$37.99
+$227,180
+Estimated Access for All Regulatory Fee***
+$0.10
+$21,736
+Total Cost to West Sacramento (Incl. Fare Revenue), Before PUCTRA Fees
+$3,291,472
+Estimated PUCTRA Regulatory Fee****
+$9,899
+Total Cost to West Sacramento (Incl. Fare Revenue), Incl. PUCTRA Fees
+$3,301,372
+Sources of Funding:
+Fare Revenue
+$313,642
+Funding from City of West Sacramento (Excl. Fare Revenue)
+$2,987,730
+Total
+$3,301,372
+Driver Hours Summary:
+Total Implied Driver Hours
+57,200
+Implied Driver Hours (Weekly)
+1,100
+Service Hours Summary:
+Total Implied Service Hours
+5,980
+Total Implied Service Hours (Weekly)
+115
+* Items to be invoiced in full upon the start of Year 6.
+** Includes driver pay, vehicle cost (incl. WAV retrofits and spares where applicable), insurance, dedicated IT operations and supply admin, technology 
+access, local & central operations support, T&E, rent, and office expenses.
+*** TNC Access for All Fees to be invoiced to West Sacramento on a pass through basis.
+**** PUCTRA Fees to be invoiced to West Sacramento on a pass through basis.

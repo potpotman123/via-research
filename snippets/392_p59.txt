@@ -1,0 +1,186 @@
+# source: raw/bleecker_drive/Los Alamos (Spare Labs)/1040_24_A_-_AGR_24-37_Spare_Labs_Inc.pdf
+# path: raw/bleecker_drive/Los Alamos (Spare Labs)/1040_24_A_-_AGR_24-37_Spare_Labs_Inc.pdf
+# hit page: 59 of 81
+# terms: Spare Labs
+
+=== page 58 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+58 
+ Agreement Template Version: 04012024 
+Applying Upgrades and Patches 
+Spare’s SaaS solution and technical infrastructure is hosted on the Google Cloud 
+Platform in North America. SaaS facilitates remote application hosting and 
+delivery, making this the key advantage of SaaS: painless application access. 
+Unlike legacy software platforms (i.e. used by paratransit), customers who use 
+SaaS have no hardware or software to install, maintain, or upgrade. Access to 
+these applications is easy and secure, requiring only an internet connection. All 
+of Spare’s information systems that process, store, or transmit confidential data 
+is defined in our Data Management Policy, and applies to all employees and 
+external parties with access to Spare’s engineering networks and system 
+resources. We closely follow our security policies, and with Spare being SOC 2 
+and HIPAA-compliant, we continue to strive to achieve the highest standards for 
+security compliance for all of our transit partners. 
+Clients receive new releases on a continuous basis–sometimes many times a 
+day, in line with our change management policy. These releases contain slight 
+adjustments made for better performance or for fixing a bug as an example. They 
+don’t contain new features. When a new feature is released, it’s first made 
+available in the test environment, with sufficient testing and training time for the 
+agency. Such releases occur less often–roughly one to two times per quarter. 
+All updates are communicated to agency staff by the project manager in real-
+time. If training is required for a large update that effects interaction with the 
+software, Spare's project manager will initiate training, as required, to get agency 
+staff up to speed. The structure would either be one-on-one, train-the-trainer 
+style–so that agency person can train others, or the project manager would train 
+multiple staff in one session. These training sessions will be recorded, distributed 
+to the agency staff for future reference, and stored on a Project Home Page 
+workspace shared between Spare and the agency project team. 
+Los Alamos County will always receive the latest version of Spare’s SaaS 
+platform throughout the entire contract duration. Spare does not operate on 
+warranty–we continuously deliver software updates to our customers. We do this 
+by only maintaining a single version of the software at any given time. By 
+reducing the maintenance burden, Spare is able to deliver software faster and 
+provide more value to our customers. These upgrades are included in our pricing 
+and come at no additional cost. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Attachment A
+=== page 59 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+59 
+ Agreement Template Version: 04012024 
+Exhibit H 
+Contractor’s Training Program 
+AGR24-37 
+ 
+This Exhibit H is included herein for reference and reflects Contractor’s proposed Training Program as 
+provided in Contractor’s Response.  Contractor may modify the training modules and descriptions 
+described herein provided substantially similar training is provided to County, upon County Request, 
+throughout the Term of this Agreement.  
+ 
+Properly training staff is one of the most, if not the most critical part of new technology implementation. This 
+is why Spare has a comprehensive training program that includes five in-depth training modules tailored to 
+Administrators, Dispatchers/Schedulers, Drivers, Customer Service Representatives, Data Analysts, and 
+Eligibility Managers. These training modules are accompanied with a range of resources and reading 
+materials, to equip Los Alamos County’s leaders, team members, and end users across the executive, 
+operations, customer service, and IT/business intelligence teams with the know-how to confidently interact 
+with Spare’s software. The detailed training will also increase their knowledge of the platform in order to 
+train others themselves. There is no limit to the number of attendees allowed, however the size of the group 
+will impact ability to get through all questions if very large. All sessions are recorded. 
+ 
+Spare approaches all training with a train-the-trainer approach that will be customized to Los Alamos 
+County’s needs. Our Partner Success team, led by your Project Manager, delivers all training either virtually 
+or in-person if requested. Across our services, we’ve found that virtual sessions complemented by our 
+training material and resources have worked well for our partners. Training sessions take place over one 
+or two hours depending on the module. 
+ 
+Comprehensive training reference materials are available for all training modules. These resources help 
+strengthen Los Alamos County’s knowledge of the Spare Platform and include recorded training sessions, 
+help articles (FAQ), training videos, and user guides. Spare is committed to providing the training materials 
+our customer stakeholders need to be successful in their new workflows. 
+ 
+ 
+ 
+ 
+ 
+ 
+(This section intentionally left blank) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Attachment A
+=== page 60 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+60 
+ Agreement Template Version: 04012024 
+ 
+ 
+Training Modules. Detailed training sessions for every end-user so that your users are confident with the 
+platform. 
+ 
+Training Module & Description 
+Key Skills Acquired 
+MODULE 1: Administrator 
+User Profile: Management, administrators, service 
+planners, IT staff 
+The administrator module provides the holistic 
+knowledge to successfully launch your service with 
+Spare. This module focuses on the platform’s setup and 
+planning features customized to your objectives. A 
+general overview of the platform’s various features and 
+functionalities gives administrators, planners, and 
+management a robust understanding of the platform’s 
+capabilities and possibilities. 
+✓ Live map and dashboards 
+✓ Creating and configure a new service 
+✓ Setting up fares and payments 
+✓ Setting up dedicated and non-
+dedicated fleets 
+✓ Enable rider notifications 
+✓ Set up and restrict user permissions 
+✓ Scheduling and managing driver 
+duties 
+✓ Managing rider and driver profiles 
+✓ Managing vehicles 
+✓ Data, analytics, and reporting 
+MODULE 2: Dispatcher/Scheduler 
+User Profile: Management, dispatchers, schedulers 
+The dispatcher module provides an overview of 
+managing the daily operations and dealing with 
+specific scenarios and procedures. All of the features 
+of Spare Launch are explained, including duty 
+scheduling, driver management, dealing with and 
+moving trips, real-time operations monitoring, as well 
+as how to conduct data analysis, do deep dives, and 
+create custom reports. 
+✓ Live map 
+✓ Creating dashboards 
+✓ Creating and duplicating driver duties 
+✓ Driver schedule optimization 
+✓ Managing driver duties and exceptions 
+✓ Rematching and managing 
+trip requests 
+✓ Diagnosing operational problems 
+✓ Standard operating procedures 
+and workflows 
+✓ Out-of-service vehicle procedures 
+✓ Setting up admin notifications 
+✓ Setting up driver break policies 
+Attachment A

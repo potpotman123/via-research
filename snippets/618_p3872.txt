@@ -1,0 +1,293 @@
+# source: raw/bleecker_drive/Broward/MA_Report.pdf
+# path: raw/bleecker_drive/Broward/MA_Report.pdf
+# hit page: 3872 of 6451
+# terms: Via+not to exceed, Via+not-to-exceed
+
+=== page 3871 ===
+Current Procurement Contracts Sorted by Contract ID # As of 11/24/25
+Page 3871 of 6451
+Lead Agency Contact (Contact Unit Mgr if Incorrect)
+EOCONNELL@broward.org
+Contract ID #
+Document Description
+Start Date
+End Date
+Not To Exceed
+Amount Ordered
+OPN2126585G1_1
+Lab Testing & Sampling Srvcs.
+7/1/2023
+6/30/2028
+$350,000.00
+$44,679.04
+Vend#-AddrID-ContactID
+Legal Name
+Vendor Contact Email
+Vendor Phone #
+VS00007392
+PACE ANALYTICAL SERVICES
+Neshmah.Castaneda@pacelabs.com
+  
+Item #
+Category
+Description
+Total Line Qty
+Released
+UO
+M
+Maximum Line 
+Amount
+Unit Price
+Total Line Released 
+Amount
+Amount Paid
+QA manual. Miami 
+Dade# EVN0000098, 
+Group E Line 24.
+OPN2126585G1_1_07
+3 
+9899180
+NITRITE. Proven 
+method performance via
+method specific 
+protocol- must show in 
+QA manual. Miami 
+Dade# EVN0000098, 
+Group E Line 25.
+64.0000
+EA
+$0.0000
+$8.2500
+$528.0000
+$280.5000
+OPN2126585G1_1_07
+4 
+9899180
+NITRATE+NITRITE 
+NITROGEN. Proven 
+method performance via
+method specific 
+protocol- must show in 
+QA manual. Miami 
+Dade# EVN0000098, 
+Group E Line 26.
+0.0000
+EA
+$0.0000
+$9.0000
+$0.0000
+$0.0000
+OPN2126585G1_1_07
+5 
+9899180
+ORTHOPHOSPHATE 
+PHOSPHORUS. Proven
+method performance via
+method specific 
+protocol- must show in 
+QA manual. Miami 
+Dade# EVN0000098, 
+Group E Line 27.
+0.0000
+EA
+$0.0000
+$12.0000
+$0.0000
+$0.0000
+OPN2126585G1_1_07
+6 
+9899180
+TOTAL KJELDAHL 
+NITROGEN (TKN). 
+0.0000
+EA
+$0.0000
+$12.7500
+$0.0000
+$0.0000
+=== page 3872 ===
+Current Procurement Contracts Sorted by Contract ID # As of 11/24/25
+Page 3872 of 6451
+Lead Agency Contact (Contact Unit Mgr if Incorrect)
+EOCONNELL@broward.org
+Contract ID #
+Document Description
+Start Date
+End Date
+Not To Exceed
+Amount Ordered
+OPN2126585G1_1
+Lab Testing & Sampling Srvcs.
+7/1/2023
+6/30/2028
+$350,000.00
+$44,679.04
+Vend#-AddrID-ContactID
+Legal Name
+Vendor Contact Email
+Vendor Phone #
+VS00007392
+PACE ANALYTICAL SERVICES
+Neshmah.Castaneda@pacelabs.com
+  
+Item #
+Category
+Description
+Total Line Qty
+Released
+UO
+M
+Maximum Line 
+Amount
+Unit Price
+Total Line Released 
+Amount
+Amount Paid
+Proven method 
+performance via method
+specific protocol- must 
+show in QA manual. 
+Miami Dade# 
+EVN0000098, Group E 
+Line 28.
+OPN2126585G1_1_07
+7 
+9899180
+TOTAL 
+PHOSPHORUS. Proven
+method performance via
+method specific 
+protocol- must show in 
+QA manual. Miami 
+Dade# EVN0000098, 
+Group E Line 29.
+0.0000
+EA
+$0.0000
+$16.0000
+$0.0000
+$0.0000
+OPN2126585G1_1_07
+8 
+9899180
+FECAL COLIFORM 
+(MF). Proven method 
+performance via method
+specific protocol- must 
+show in QA manual. 
+Miami Dade# 
+EVN0000098, Group E 
+Line 30.
+0.0000
+EA
+$0.0000
+$20.0000
+$0.0000
+$0.0000
+OPN2126585G1_1_07
+9 
+9899180
+FECAL COLIFORM 
+(MPN). Proven method 
+performance via method
+specific protocol- must 
+show in QA manual. 
+0.0000
+EA
+$0.0000
+$20.0000
+$0.0000
+$0.0000
+=== page 3873 ===
+Current Procurement Contracts Sorted by Contract ID # As of 11/24/25
+Page 3873 of 6451
+Lead Agency Contact (Contact Unit Mgr if Incorrect)
+EOCONNELL@broward.org
+Contract ID #
+Document Description
+Start Date
+End Date
+Not To Exceed
+Amount Ordered
+OPN2126585G1_1
+Lab Testing & Sampling Srvcs.
+7/1/2023
+6/30/2028
+$350,000.00
+$44,679.04
+Vend#-AddrID-ContactID
+Legal Name
+Vendor Contact Email
+Vendor Phone #
+VS00007392
+PACE ANALYTICAL SERVICES
+Neshmah.Castaneda@pacelabs.com
+  
+Item #
+Category
+Description
+Total Line Qty
+Released
+UO
+M
+Maximum Line 
+Amount
+Unit Price
+Total Line Released 
+Amount
+Amount Paid
+Miami Dade# 
+EVN0000098, Group E 
+Line 31.
+OPN2126585G1_1_08
+0 
+9899180
+FECAL COLIFORM 
+IN SOILS/SLUDGE 
+TO ESTABLISH 
+COMPLIANCE WITH 
+EPA PART 503. Proven
+method performance via
+method specific 
+protocol- must show in 
+QA manual. Miami 
+Dade# EVN0000098, 
+Group E Line 32.
+0.0000
+EA
+$0.0000
+$42.6000
+$0.0000
+$0.0000
+OPN2126585G1_1_08
+1 
+9899180
+TOTAL COLIFORM 
+(MF). Proven method 
+performance via method
+specific protocol- must 
+show in QA manual. 
+Miami Dade# 
+EVN0000098, Group E 
+Line 33.
+0.0000
+EA
+$0.0000
+$14.2000
+$0.0000
+$0.0000
+OPN2126585G1_1_08
+2 
+9899180
+TOTAL COLIFORM 
+(MPN). Proven method 
+performance via method
+specific protocol- must 
+show in QA manual. 
+Miami Dade# 
+0.0000
+EA
+$0.0000
+$14.2000
+$0.0000
+$0.0000

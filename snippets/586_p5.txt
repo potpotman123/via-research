@@ -1,0 +1,225 @@
+# source: raw/bleecker_drive/City of Largo/2323529.pdf
+# path: raw/bleecker_drive/City of Largo/2323529.pdf
+# hit page: 5 of 30
+# terms: Via+drivers, Via+fleet
+
+=== page 4 ===
+PART I
+CITY OF LARGO, FLORIDA
+REQUIREMENTS, CONDITIONS and EVALUATION CRITERIA
+FOR SOFTWARE, HARDWARE AND IMPLEMENTATION FOR A
+ROUTING, OPTIMIZATION AND CUSTOMER SERVICE SYSTEM
+RFP # 19-P-688
+Purpose of Request for Proposal
+The City is seeking proposals from qualified and experienced vendors to provide and maintain a cloud-based, 
+real-time routing, optimization and customer service system. The technology will be used on the City’s solid 
+waste vehicle fleet to:
+a)
+Monitor the City's Solid Waste Divisions collections operations in order to further increase operational 
+efficiency;
+b)
+Provide route information and direction to City drivers;
+c)
+Optimize collections operations, routing and establish integrated systems (GIS mapping and route 
+optimization);
+d)
+Monitor fleet and truck performance;
+e)
+Provide “real-time” collection data via a remote management tool;
+f)
+Improve customer service and driver safety; and
+g)
+Provide data insights to advance the City’s solid waste and diversion goals.
+The data collected through the information system should lead to better forecasts for budgets, assist in 
+identifying current and future routing and equipment needs, and simplify the production of monthly, quarterly, 
+and annual reports. The software must be easy to deploy and able to integrate effectively with other software 
+utilized by the City.
+While the technology will be installed in the City’s fleet to give drivers the ability to report and flag issues in the 
+field, direct interaction from drivers should not be required for most data collection. The City should be able to 
+automatically collect data with little interference in day-to-day truck operations.
+Proposals should include sufficient information to assess the proposing vendor’s capability to meet the 
+requirements for this project.
+Background
+The City’s Solid Waste Division (also referred to in this RFP as the “Division”) provides full-service, automated 
+municipal solid waste (MSW), automated recycling,  claw truck bulk waste, rear-load yard waste collection for 
+an estimated 16,200 residential homes, front load commercial MSW and recyling service for an estimated 1861
+businesses and rolloff MSW, construction and demolition (C&D), and recycling service to 220 customers . This 
+is completed through a network of 121 routes that utilize 30 trucks every week. Currently, the City utilizes a 
+routing and optimization system provided by WM Logistics LLC. for all residential and commercial front load 
+work.  Routes are currently developed for a ten (10) hour day as drivers work four (4) days per week.  Rolloff 
+routes are developed manually each day. The Solid Waste Division operates out of the City’s Public Works 
+Complex located at 1000 2nd Street S.E., Largo, Florida 33779.  The Solid Waste Division also conducts 
+container repair and container storage activity at 1551 Starkey Rd, Largo, Florida 33771.
+In fiscal year (FY) 2018, the Solid Waste Division collected 86,196 tons of MSW, bulk waste and yard debris 
+and 7,760 tons of recyclables. The Solid Waste Division employs 57 full-time employees to include drivers, 
+supervisors, office support and managers. The Division’s total approved budget for FY 2019 is $14,088,400. 
+Tables 1 and  2 provide an overview of the Division’s current operations and service levels.
+Since 1997, the City has developed and pursued an aggressive annexation strategy to create logical borders 
+and to increase service efficiencies.  This progressive growth strategy requires fundamental and dynamic 
+planning tools for evaluation and re-deployment of resources and services. The Division realizes the 
+4
+=== page 5 ===
+inefficiency of constantly having to manually re-route established routes, the time demands of the process, and 
+the inability to effectively project the resource requirements of future growth.
+Collections Fleet
+The solid waste collection fleet consists of:
+Sixteen (16) automated residential side loaders;
+Eleven (11) commercial front loaders;
+Seven (7) roll offs;
+Two (2) rearloaders; and
+Six (6) claw trucks.
+Vehicle maintenance and repairs are typically performed in-house by the City, with some work contracted out 
+as needed. Communication with and among drivers and other staff occurs via two way radio system. There is 
+one (1) driver per one (1) vehicle with the exception of rear loaders with one (1) driver and one (1) helper and 
+one (1) commercial frontload route with one (1) driver and one (1) spotter.
+Collections Service
+Residential. Residential MSW collection occurs twice per week for each service address (Monday – Thursday 
+or Tuesday - Friday). Residential recycling, bulk waste and yard waste collection occur once per week 
+(Monday, Tuesday,  Thursday and Friday). The City offers two (2) cart sizes for residential MSW and recycling 
+service (64 gallon or 95 gallon).  The 95 gallon is the predominate cart.  Bulk waste and yard waste is left at the
+curb and collected as is.
+The City uses RFID software to track activity and location of residential MSW and recycling carts.  RFID 
+hardware and software is provided by Rehrig Pacific Company.
+Commercial Front Load. Commercial front load MSW collection occurs up to six (6) days a week (Monday -
+Saturday). Commercial front load recycling collection occurs up to five (5) days a week (Monday - Friday. There
+are four (4) container sizes for commercial front load service:
+Two (2) cubic yard;
+Four (4) cubic yard;
+Six (6) cubic yard; and
+Eight (8) cubic yard.
+Commercial Roll Off.  Commercial roll off collection occurs up to five (5) days per week (Monday – Friday).  
+This work is a mix of compactors and open top containers.  The work is fifty (50) percent permanently 
+scheduled and fifty (50) percent call in.  Container sizes are as follows:
+Ten (10) cubic yard open top;   
+Twenty (20) cubic yard open top;
+Thirty (30) cubic yard open top;
+Forty (40) cubic yard open top;
+Ten (10) cubic yard compactor;
+Twenty (20) cubic yard compactor;
+Thirty (30) cubic yard compactor;
+Thirty-five (35) cubic yard compactor; and
+Forty (40) cubic yard compactor.
+5
+=== page 6 ===
+Table 1: Solid Waste Routes
+Day of Week
+Commercial
+MSW
+Commercial
+Recycling
+Rolloff
+Residential
+MSW
+Residential
+Recycling
+Residential
+Bulk
+Residential
+Yard
+Waste
+Monday
+7
+1
+5
+8
+3
+5
+1
+Tuesday
+4
+1
+5
+7
+3
+5
+1
+Wednesday
+4
+1
+3
+0
+0
+0
+0
+Thursday
+5
+1
+5
+7
+3
+5
+1
+Friday
+6
+2
+5
+6
+3
+5
+1
+Saturday
+2
+0
+0
+0
+0
+0
+0
+Total Routes
+28
+6
+23
+28
+12
+20
+4
+Table 2 – Routes per Day/Customers Serviced per Week
+Truck Type
+Routes Per Day
+Customers Serviced per Week
+Frontload MSW
+5.6
+1861
+Frontload Recycling
+1.2
+310
+Rolloff
+4.6
+155 (pulls per week)
+Residential ASL MSW
+7 (4 day Week)
+32400
+Residential ASL Recycling
+3 (4 day week)
+16200
+Residential Claw Bulk
+5 (4 day week)
+16200
+Residential Rearloader - YW
+1 (4 day week)
+16200
+Scope of Work
+The City intends to hire a single vendor for this project. However, nothing contained herein shall be construed 
+as entitlement to a single award or a non-exclusive contract. All work performed and deliverables provided to 
+the City must conform to the requirements of this RFP. The selected vendor shall be expected to:
+a) Furnish all supervision, labor, materials, tools, supplies, equipment and transportation required to 
+implement the technology;
+b) Be responsible for providing and installing all necessary hardware and peripheries;
+c) Perform necessary technical work to ensure all routes are entered into the system;
+d) Ensure City drivers/vehicles are supplied necessary equipment; and
+e) Ensure City personnel are trained to use the system.
+The technology should communicate information in real time to a main portal or dashboard that can be 
+accessed by varying levels of City staff, including customer service support staff, drivers, supervisors, and 
+managers.
+Data outputs shall include, at minimum, the following:
+ Service confirmations with “time stamped” service delivery;
+
+ A map of all vehicles and their locations in real-time;
+
+ Daily insights into how trucks, routes, or drivers are performing;
+
+ Directions for drivers to specific points and disposal facilities, including a return to route feature;
+
+ Transit time estimates;
+
+6

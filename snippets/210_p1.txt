@@ -1,0 +1,42 @@
+# source: https://legistar1.granicus.com/McKinney/attachments/abb0b9be-9c15-4174-9e04-7b9d82941c25.pdf
+# path: raw/cache/5e92fe54da67feb112756b4c03bca94101b9439a.pdf
+# hit page: 1 of 50
+# terms: Spare Labs
+
+=== page 1 ===
+On-demand transit
+in Collin County
+Simulation report for Collin County Transit, by Spare Labs Inc.
+July 2020
+810-815 West Hastings
+Vancouver, BC
+Canada
+V6C 1B4
+spare
+=== page 2 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+ 
+ 
+ 
+Spare Realize is a fundamentally new way of planning and optimizing transportation 
+networks. At its core, it is a transportation network simulation tool that can be used to run 
+quick and informative transit simulations during the planning and operational stages of a 
+transportation service. 
+ 
+This document, prepared by Spare Labs (henceforth referred to as Spare) for Collin County 
+Transit (henceforth referred to as CCT, provides results and insights from simulations of 
+the potential performance of an on-demand microtransit service across Collin County.  
+ 
+Spare is dedicated to helping CCT identify suitable operational models for this large zone, 
+and to advising on the likely performance of the service. Ultimately Spare seeks to help CCT 
+achieve its objectives to continue to be an innovative provider of transit in Texas. 
+ 
+ 
+ 
+ 
+This document and the information contained in it is confidential information of Spare Labs Inc., and shall not be used, 
+published, disclosed or disseminated outside of Spare Labs in whole or in part without Spare Labs’ consent. This document 
+contains trade secrets of Spare Labs. Reverse engineering of any of the information in this document is prohibited. The 
+copyright notice does not imply publication of this document.​ ​© Spare Labs Inc. 2020 All Rights Reserved 
+ 
+1

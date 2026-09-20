@@ -1,0 +1,159 @@
+# source: raw/bleecker_drive/Miami Dade/231379.pdf
+# path: raw/bleecker_drive/Miami Dade/231379.pdf
+# hit page: 2 of 13
+# terms: Via+vehicles
+
+=== page 1 ===
+Date: 
+To: 
+Honorable Chairman Oliver G. Gilbert, III 
+ and Members, Board of County Commissioners 
+From: 
+Daniella Levine Cava 
+Mayor 
+Subject: 
+Request for Approval to Exercise the Option to Renew Term and Authorize a 
+Designated Purchase for On-Demand Transit Services 
+This item was amended at the June 14, 2023 Transportation, Mobility and Planning Committee 
+(TMPC) meeting to reduce the option to renew term from three years to 18 months and to make 
+corresponding reductions to the various contract amounts and to direct the County Mayor or 
+County Mayor’s designee to prepare and provide a cost analysis report detailing the ridership, 
+cost per rider, and trip distance information for the on-demand transit services provided during 
+the initial term of Contract No. RFP-01083 to River North Transit, LLC. 
+Summary 
+This item is recommending exercise of an 18-month option to renew term available under Contract No. 
+RFP-01083, On-Demand Transit Services, with expenditure authority of $2,310,375 and approval of a 
+designated purchase for $9,527,000 to cover expanded service zones. On July 21, 2020, the Board of 
+County Commissioners (Board) approved an initial three-year term with an option to renew for up to three 
+years subject to Board approval. Therefore, the Department of Transportation and Public Works (DTPW) 
+is now requesting approval of the option for 18-month term, allowable under the original contract. During 
+this time, a solicitation will be issued on behalf of DTPW for a subsequent competitively awarded contract. 
+This item also approves a designated purchase to support the expansion of the on-demand transit 
+program to other areas of Miami-Dade County. The implementation of new service zones will cover transit 
+gaps in areas with no or low transit frequency, such as northern and southern areas of the County. This 
+service will complement the implementation of the Better Bus Network (BBN).  Furthermore, this service 
+will be expanded to assist riders with disabilities when elevators and escalators at Metromover and 
+Metrorail stations are down. This innovative application will support the Country’s efforts to enhance 
+accessibility and minimize service disruption. 
+The GO Connect program is an on-demand transit service (commonly known as microtransit) that provides 
+shared, on-demand, dynamically routed, near door-to-door rides (nearby pick-up/drop-off location) to and 
+from transit facilities and popular destinations within the designated service zones. Although GO Connect 
+provides rides to customers making essential and short trips, it has the unique capability to prioritize rides 
+connecting with fixed transit services. GO Connect users can view, book, pay and track rides in real-time 
+via smartphone/mobile devices, website, or phone call. 
+The service is delivered through a proprietary digital platform that seamlessly integrates on-demand transit 
+services into Miami-Dade’s transit system. Through the GO Connect program, DTPW has introduced an 
+intermodal trip planning functionality to the rider mobile application which allows riders to plan a trip by 
+combining both fixed-route and on-demand services. The intermodal trip planning application is uniquely 
+positioned to ensure on-demand services do not take away ridership from the current transit network but 
+rather enhances first- and last-mile connectivity.  To prevent service disruption and enable expansion to 
+new zones, the 18-month extension and designated purchase are recommended.   
+Recommendation 
+It is recommended that the Board authorize the exercise of an 18-month option to renew term with 
+predetermined expenditure authority in the amount of $2,310,375. The Board awarded this contract to 
+July 6, 2023
+MDC001
+Agenda Item No. 8(P)(2)
+=== page 2 ===
+Honorable Chairman Oliver G. Gilbert, III 
+and Members, Board of County Commissioners 
+Page 2 
+River North, LLC through Resolution No. R-726-20 with an allocation of $4,663,500 for the initial three-
+year term. The contract amount for the initial term was increased by $932,700 under the County Mayor’s 
+delegated authority. Further, it was indicated that should the County choose to exercise the one, three-
+year option to renew term, the cumulative value would be $9,284,250. With the approval of an 18-month 
+option to renew term, the cumulative value would be $7,906,575. 
+Additionally, it is recommended that the Board approve a designated purchase for $9,527,000 for DTPW 
+to cover an expanded scope of services during the option term pursuant to Section 2-8.1(b)(3) of the Code 
+of Miami-Dade County (Code) by a two-thirds vote of the Board members present. 
+Background 
+DTPW uses this contract to provide shared, on-demand, dynamically routed, near door-to-door rides to 
+and from transit facilities for customers connecting to rail or bus within designated service zones. Although 
+the service provides rides to customers making essential and short trips within designated service zones, 
+rides connecting to transit corridors are prioritized. The program provides customers with the ability to 
+request a ride in real-time, pay and track the ride via smartphone/mobile devices, website, or phone call. 
+The service includes real-time ride matching and dynamically routed service, meaning that the route to 
+the destination can change based on real-time demand without affecting the customer’s travel time (in-
+vehicle time) and wait time (pick-up time).  
+The assignment of vehicles allows for the completion of one or more trips at a time to maximize vehicle 
+occupancy and minimize vehicle miles traveled, while maintaining the desired level of service (LOS), with 
+average wait time and in-vehicle time of no more than 15 minutes each. To maintain the desired LOS, the 
+number of deviations to pick-up/drop-off passengers is limited. Finally, customers have the ability to 
+request a wheelchair accessible vehicle. 
+GO Connect has a multimodal trip planning app that allows customers to see directly in the mobile app, 
+web portal or by phone call, all available transit options. It is designed to ensure that riders are offered 
+traditional transit options first. Customers using the GO Connect app can easily and quickly access transit 
+service information, book, pay and track their rides using a single app. This helps riders make informed 
+choices, while enhancing their trip experience.  
+The most significant benefits of the GO Connect intermodal trip planning application are described below: 
+•
+Increase Ridership: By providing all transit options in real-time and in a single app, GO Connect
+can drive ridership to fixed-route transit corridors, strengthening the existing transit network and
+helping to build ridership for the Better Bus Network (BBN) and South Dade Bus Rapid Transit
+(BRT).
+•
+Increase Access and Mobility Equity: GO Connect uses a real-time on-demand and dynamically
+routed technology to help cover areas near the BBN and BRT with low or no transit service,
+allowing more residents to access BBN and BRT, thereby increasing access to underserved areas
+in Miami-Dade. Additionally, the ability to easily and quickly make modifications to designated
+service zones enables DTPW to assist riders with disabilities by providing GO Connect rides
+between transit stations when there are elevator and escalator outages at Metromover and
+Metrorail stations.
+•
+Improve Traveler Information Access: GO Connect riders can do it all:  booking, paying, and
+tracking their rides using the GO Connect app. The GO Connect multimodal trip planning app
+allows riders to seamlessly and quickly view and book fixed routes and GO Connect options in a
+single app. This application functionality will expand to allow the integration of multiple mobility
+providers. It provides quick and easy access to transit information in a single app, empowering
+riders to make informed decisions.
+MDC002
+=== page 3 ===
+Honorable Chairman Oliver G. Gilbert, III 
+and Members, Board of County Commissioners 
+Page 3 
+•
+Trip Prioritization and Prevention of Mobility Mode Competition: the technology used allows GO
+Connect to prioritize rides connecting to transit. This recent offering is uniquely positioned to
+ensure the on-demand services do not take away ridership from the current transit network but
+rather enhances first- and last-mile connectivity. The logic used is primarily geared around target
+wait-time, walking distance, and number of transfers among other parameters established by
+DTPW. This unique feature of the GO Connect app allows the service to only act as a “feeder
+system,” prioritizing rides connecting to transit corridors. The existing County transit app, GO
+Miami-Dade Transit, does not have an intermodal booking integration and cannot prevent mode
+competition.
+Since launching on October 28, 2020, GO Connect has seen a massive growth in demand (despite the 
+impacts of COVID-19). To date, the service has completed over 174,500 rides across the four service 
+zones (Town of Cutler Bay, Dadeland/South Miami, West Kendall, and Civic Center) and provided rides 
+to over 2,300 unique riders. GO Connect ridership has increased over 60% in the past year, reaching its 
+highest ridership in March 2023, with over 20,000 ride requests and 11,983 completed rides. Currently, 
+GO Connect provides over 500 rides during weekdays, contributing to traffic reduction while serving as a 
+feeder service for the County’s fixed transit system. 
+In March 2023, GO Connect received 9,165 more ride requests and served 4,633 more rides than in 
+March 2022; this was a 63% increase in monthly ridership and 82% growth in monthly requests. This 
+increasing trend is indicative of the significant continual growth observed since GO Connect launched, 
+exceeding the existing scope of the contract. The service is under significant pressure to meet rider 
+demand as it continues to grow, with over 10% of rides being denied on a daily basis due to high demand. 
+This item as well as the future competitive solicitation for a replacement long-term award addresses the 
+need to prevent service disruption in the current commuting and transit patterns. 
+Additionally, GO Connect has provided more convenient and affordable service options while improving 
+access to major transit corridors. According to a rider survey conducted in August 2022, about 93% of the 
+responders would be disappointed if GO Connect were to no longer be an option. Survey data indicated 
+that about 42% of survey respondents make under $25,000 a year, suggesting that GO Connect is 
+providing an affordable transportation option for groups that would otherwise have limited access to 
+mobility. According to the ridership data, about 30% of the rides are made to and from Metrorail and 
+TransitWay stations, increasing access to major transit corridors while serving first- and last-mile trips. 
+Additional expenditure authority is needed to support DTPW in establishing a billable hourly rate of $57.50 
+for the hours of service that will enhance the scope defined in Appendix A, Section 2.3 of the contract – 
+adding the cost of Dadeland weekend service; adding vehicles to meet growth in ridership and including 
+pricing and budget for May Mobility Autonomous Vehicles and Transit app; and adding the budget for the 
+deployment of new service zones. These changes require amending the contract allocation for 18-month 
+option to renew term in the total amount of $9,527,000 with specific increases as follows: 
+1) $2,500,000 for continued estimated demand growth in the 18-month option to renew term.
+2) $3,500,000 for the implementation of new service zones to cover transit gaps in areas with no or
+low transit frequency, such as northwestern and southern areas of the County. This service will
+complement the Better Bus Network (BBN) and the South Dade Bus Rapid Transit (BRT).
+3)
+$3,500,000 for increased service capacity delivered through autonomous vehicles operating as
+part of the GO Connect program. This service will increase contract capacity and enhance
+efficiency in areas with a high density of short trips.
+MDC003

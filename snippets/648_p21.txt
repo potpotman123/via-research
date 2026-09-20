@@ -1,0 +1,81 @@
+# source: raw/bleecker_drive/Cupertino/19_5960_A_-_Draft_Agreement.pdf
+# path: raw/bleecker_drive/Cupertino/19_5960_A_-_Draft_Agreement.pdf
+# hit page: 21 of 28
+# terms: Via+per service hour
+
+=== page 20 ===
+Via Cupertino Service Area Map
+Approximate zone size: 10.6 sq miles
+NOTES:
+Additional service islands under 
+consideration not shown (to be 
+mutually agreed upon by Via and 
+the City):
+1. Palo Alto Medical
+Foundation - (Mtn View)
+2. Mountain View Caltrain
+Station
+3. El Camino Hospital
+(Mtn View)
+=== page 21 ===
+EXHIBIT C - FEES 
+Fees 
+The table below outlines the payment structure, in which Cupertino would be charged on a price 
+per driver hour and price per service hour basis. The total contract value shall not exceed 
+$1,750,000 for the 18-month contract term. 
+ Note: Hours are indicative and subject to change. 
+Cupertino will be billed for the above fees and a revenue share as described below. Driver 
+hours, service hours, and revenue share from rides served will be billed as incurred at the end 
+of each month. Cupertino shall pay the following fees to Via: 
+Installation Fee 
+Cupertino shall pay to Via a non-refundable installation fee of $122,200, 50% of which ($61,100) 
+will be payable upon signing of this Order, and the remaining 50% ($61,100) will be payable 
+upon launch of the Deployment. 
+Monthly Fees 
+Cupertino shall pay the following fees to be invoiced monthly by Via, starting upon launch of the 
+Deployment: 
+●
+$35.83 per driver hour
+●
+$25.00 per service hour
+=== page 22 ===
+Revenue Share 
+Cupertino shall pay to Via $1.50 for each completed ride (the “Revenue Share”), to be invoiced 
+monthly by Via, starting upon launch of the Deployment. The City of Cupertino shall receive a 
+monthly invoice credit in an amount equal to the net farebox revenue collected, less the 
+Revenue Share retained by Via in that same previous calendar month. 
+Optional Enhancements Services and Fees 
+Upon reasonable request, Via will provide enhancements subject to the following fees: 
+Additional 
+Services 
+Description 
+Rate 
+Additional 
+Features 
+Add access to powerful 
+features like a web-
+based booking portal, 
+corporate account 
+management 
+dashboards, linkage to 
+fixed route bus and train 
+lines, and integration into 
+third party travel 
+planners and payment 
+apps 
+Pricing available upon 
+request 
+Expert 
+Consulting 
+Services 
+Additional support 
+Pricing available 
+upon request 
+Advanced 
+Data Analytics 
+Create a data warehouse 
+or additional dashboards 
+not covered in the 
+original agreement 
+Pricing available 
+upon request

@@ -1,0 +1,41 @@
+# source_url: https://metro.legistar1.com/metro/attachments/1cb4c6c7-7b1b-4f86-b8c7-7f1cd165511e.pdf
+# path: raw/cache/847eea1661cf6e4927f26bb7357b5598aec8d323.pdf
+# pages_total: 1; hit_pages: [1]; included: [1]
+# context: legistar client=metro; matter 2025-1010 (2025-11-13): AUTHORIZE the Chief Executive Officer to Execute Modification No. 2 to Contract No. PS124278(2)000, Metro Micro Software Services with Spare Labs, Inc. in support of Metro Micro enhancements and the 2026 FIFA World Cup software platform for shuttle services in the firm-fixed price of $386,150.00, in
+
+=== page 1 of 1 ===
+No. 1.0.10 
+Revised 01-29-15 
+DEOD SUMMARY 
+ 
+METRO MICRO SOFTWARE SERVICES / PS124278(2)000 
+ 
+A. Small Business Participation  
+ 
+At the time of solicitation, the Diversity & Economic Opportunity Department did not 
+establish a Disadvantaged Business Enterprise (DBE) goal for this procurement due 
+to the lack of subcontracting opportunities.  It is expected that Spare Labs, Inc. will 
+continue to perform the services of the contract with its own workforce. 
+ 
+B. Living Wage and Service Contract Worker Retention Policy Applicability 
+ 
+The Living Wage and Service Contract Worker Retention Policy is not applicable to 
+this modification. 
+ 
+C. Prevailing Wage Applicability 
+ 
+Prevailing wage is not applicable to this modification. 
+ 
+D. Project Labor Agreement/Construction Careers Policy 
+ 
+Project Labor Agreement/Construction Careers Policy is not applicable to this 
+Contract. PLA/CCP is applicable only to construction contracts that have a 
+construction related value in excess of $2.5 million.     
+ 
+E. Manufacturing Careers Policy 
+ 
+The Manufacturing Careers Policy (MCP) does not apply to this contract. The MCP 
+is required on Metro's Rolling Stock RFPs, with an Independent Cost Estimate of at 
+least $50 million. 
+ 
+ATTACHMENT C

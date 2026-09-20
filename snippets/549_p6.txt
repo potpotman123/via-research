@@ -1,0 +1,162 @@
+# source: raw/bleecker_drive/Hall County/Micro-Transit-Feasibility-Study.pdf
+# path: raw/bleecker_drive/Hall County/Micro-Transit-Feasibility-Study.pdf
+# hit page: 6 of 24
+# terms: Via Mobility, Via+fleet, Via+vehicles
+
+=== page 5 ===
+RFP #39-021 – Microtransit Feasibility Study  
+Via Mobility, LLC 
+ 
+ 
+ 
+Page 3 
+ 
+ 
+Via Overview 
+Via develops and operates the most powerful on-demand transport systems in the world. 
+Our technology enables customers to share rides by dynamically routing vehicles in real-
+time in response to demand. Using advanced algorithms developed by elite researchers and 
+engineers, Via optimizes the balance between maximizing fleet utilization and ensuring that 
+each rider has a high-quality experience. 
+Firm History 
+Via was co-founded in 2012 by Daniel Ramot and Oren Shoval in New York City, with a simple, 
+yet highly ambitious mission -- to deliver the world’s most convenient and affordable shared 
+rides to everyone, everywhere. Ramot (Via’s CEO) has a Ph.D. from Stanford in neuroscience, 
+and Shoval (Via’s CTO) has a Ph.D. in systems biology from the Weizmann Institute. Prior to 
+Via, Ramot built supercomputers designed to discover new pharmaceutical drugs and 
+developed avionic systems for F-15s and F-16s for the Israeli Air Force. Shoval led engineering 
+projects for the Air Force and worked as consultant at McKinsey & Company. 
+  
+Via delivered its first rides in 2013 in Manhattan, starting with just a handful of drivers. 
+Identifying a gap in the transit network between the Upper East Side and Midtown 
+Manhattan, Via launched as a shared, dynamic service that enabled commuters to reach work 
+conveniently, and at a transit-comparable price. Via was the first transportation network 
+company to offer shared, dynamic rides, and is still the most efficient and most advanced 
+shared ride platform in the world -- we provide more shared rides in New York City, for 
+example, than Uber and Lyft combined. 
+Current Operations  
+Today, in 2019, Via powers microtransit services with over 30 partners, helping cities, transit 
+agencies, and private operators seeking to improve their existing transit networks. When we 
+partner with transit providers, we localize our on-demand transit operating system to meet 
+the mobility needs of the communities we serve. Often, partners will plug our on-demand 
+transit software into an existing fleet of vehicles, driven by agency-employed or agency-
+contracted drivers, and rely on Via to provide, maintain, and support the software that 
+powers the system (a Software as a Service, or SaaS, solution). Via also operates  consumer-
+facing services at scale in New York City, Chicago, Washington DC, London, Milton Keynes, 
+and Amsterdam and operates services on behalf of public sector partners in Arlington, Texas, 
+West Sacramento, California, and Berlin, Germany. Across our services, Via has delivered 
+nearly 50 million rides to date. To support our growth and global operations, Via has a 
+software team of 200 full-time professionals with deep experience in advanced algorithms, 
+data science, digital mapping, database architecture, product management, and app 
+development, and 250 full-time employees focused on operations, growth, member services, 
+expansion, business development, and partner success.
+=== page 6 ===
+RFP #39-021 – Microtransit Feasibility Study  
+Via Mobility, LLC 
+ 
+ 
+ 
+Page 4 
+ 
+ 
+Feasibility Study Methodology 
+Via’s feasibility study methodology consists of following main steps, 1) identifying 
+opportunities for microtransit, 2) projecting demand, and 3) simulating scenarios to 
+determine a microtransit configuration that meet our partner’s goals. 
+1) Identifying Opportunities for Microtransit  
+Microtransit can achieve a number of goals for transit agencies, including: 
+● Providing transit in previously underserved areas (transit deserts) 
+● Providing suburban mobility 
+● Retiring under-performing fixed route services 
+● Providing first- and last-mile connections to fixed route services 
+● Mitigating traffic congestion  
+● Reducing parking congestion  
+● Upgrading a paratransit offering 
+Hall County have indicated two primary goals for a microtransit service, 1) upgrading the 
+existing Dial-A-Ride service, and 2) replacing under-performing fixed route services. 
+2) Projecting Demand 
+For Via’s simulations, demand is modeled as the volume and distribution of ride requests 
+over a given period of time. For this report, historic Dial-A-Ride and fixed-route ridership was 
+used to project demand (see Appendix 1 for more details). Real-world ridership will depend 
+on a wide range of factors, some specific to Hall County, others dependent on operational 
+elements like marketing budget or quality of service goals. These factors include: 
+● Travel patterns 
+● Alternative modes of travel (e.g. availability of buses, taxis, bicycles) 
+● Demographics (e.g. age, income, access to vehicles, mobility characteristics, mode 
+choice) 
+● Pedestrian infrastructure 
+● Seasonality of demand (e.g. tourist season) 
+● Employment density 
+● Residential density 
+● Retail and entertainment density 
+● Fare structure 
+● Parking availability 
+● Marketing budget and effectiveness 
+● Weather conditions 
+● Congestion levels 
+Via benchmarks against quality of service at peak hours, when demand is highest, in order to 
+accurately guide fleet size requirements. During off-peak hours, the full fleet would not be 
+required.
+=== page 7 ===
+RFP #39-021 – Microtransit Feasibility Study  
+Via Mobility, LLC 
+ 
+ 
+ 
+Page 5 
+ 
+ 
+3) Simulation Overview 
+Via's simulation engine is used by Via’s operations team to shape at-scale services in 
+international markets. The tool was developed by Via’s world-class algorithm experts, many 
+of whom have years of experience in algorithm development and hold PhDs in physics and 
+mathematics. 
+ 
+The following components make up the simulation process: 
+1. Set service zone, which defines the boundaries of the microtransit service zone. The 
+origins and destinations of all trips are limited to this zone. 
+2. Generate underlying road map by pulling data within the service zone boundaries 
+from OpenStreetMap. Data includes all roads categorized by type, turn restrictions, 
+and street walkability and drivability information.  
+3. Determine traffic speeds by querying Google’s Maps APIs for average traffic speeds, 
+specific to the time range of the simulation. This ensures that ETAs and trip times of 
+the simulated service reflect real-world traffic data at the time of day for which 
+service is being modeled. 
+4. Set “terminals,” the designated waiting areas for vehicles that do not have active 
+ride assignments. Terminals are safe parking areas throughout the service zone. 
+When empty, vehicles will be routed to the terminal where the system has predicted 
+demand. This ensures that each vehicle is used efficiently, and riders will benefit from 
+the shortest possible ETAs. 
+5. Generate “virtual bus stops,” safe places for pickups and drop-offs. By default, Via 
+generates virtual bus stops throughout a service zone at intersections, at points 
+where vehicles can safely park. Typically, there are hundreds or thousands of virtual 
+bus stops in a zone. When setting up the zone, virtual bus stop generation considers 
+unique features of the zone, such as the pedestrian walking map, no parking/standing 
+areas, and bus stops.  
+6. Set simulation parameters, which are configured to serve our partners’ service 
+quality and rider aggregation targets. The configurations used for Hall County are 
+outlined in the table below. These are only a few of the many algorithm parameters 
+configurable for live services.  
+ 
+Parameter  
+Notes 
+Hall County Configuration 
+Vehicle capacity - 
+Number of seats in 
+the vehicle available 
+to riders (excludes 
+the driver). 
+ 
+In Via’s experience, the ideal 
+vehicle size balances the benefits 
+of smaller vehicles (greater 
+comfort, greater navigability 
+through smaller roads) and the 
+benefits of larger vehicles (chiefly, 
+greater carrying capacity). 
+Via simulated vehicles with 
+6 seats. Using higher 
+capacity vehicles will not 
+reduce the number of 
+vehicles or vehicle hours 
+required.

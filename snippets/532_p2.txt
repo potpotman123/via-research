@@ -1,0 +1,149 @@
+# source: raw/bleecker_drive/Napa Valley Transportation Authority/25_3553_Staff_Report.pdf
+# path: raw/bleecker_drive/Napa Valley Transportation Authority/25_3553_Staff_Report.pdf
+# hit page: 2 of 20
+# terms: Remix Technologies, Via Transportation, Via+not to exceed, Via+not-to-exceed
+
+=== page 1 ===
+May 21, 2025 
+NVTA Agenda Item 9.4 
+Continued From: New 
+Action Requested:  APPROVE 
+ 
+ 
+ 
+NAPA VALLEY TRANSPORTATION AUTHORITY 
+COVER MEMO 
+______________________________________________________________________ 
+SUBJECT 
+ 
+Purchase Order 25-P5060 with Via Transportation Inc, doing business as (dba) Remix 
+Technologies, LLC 
+ 
+STAFF RECOMMENDATION 
+ 
+That the Napa Valley Transportation Authority (NVTA) Board approve Purchase Order 
+25-P5060 with Remix Technologies, LLC (Attachment 1) for transit planning and 
+scheduling software services for three (3) years until June 30, 2028 in an amount not to 
+exceed $215,433. 
+ 
+EXECUTIVE SUMMARY 
+ 
+NVTA staff has been using Remix since 2019 to provide easy-to-use tool to accurately 
+cost out service and create schedules, maps and visuals. The software significantly 
+reduces staff time and provides a web interface, which improves public outreach and input 
+from the riding public. 
+ 
+FISCAL IMPACT 
+ 
+Is there a Fiscal Impact? Yes. If the contract is approved the cost will be $215,432.50, 
+which is included in the Fiscal Year 2025-2026 and will need to be included in future 
+budgets. 
+17
+=== page 2 ===
+May 21, 2025 
+NVTA Agenda Item 9.4 
+Continued From: New 
+Action Requested:  APPROVE 
+ 
+ 
+ 
+NAPA VALLEY TRANSPORTATION AUTHORITY 
+Board Agenda Memo 
+______________________________________________________________________ 
+TO:  
+ 
+ 
+ 
+ 
+NVTA Board of Directors 
+FROM:  
+ 
+ 
+ 
+Kate Miller, Executive Director 
+REPORT BY: 
+Rebecca Schenck, Program Manager – Public Transit 
+(707) 259-8636 / Email: rschenck@nvta.ca.gov 
+SUBJECT: 
+ Purchase Order 25-P5060 with Via Transportation Inc, doing business 
+as (dba) Remix Technologies, LLC 
+ 
+______________________________________________________________________ 
+RECOMMENDATION 
+ 
+That the Napa Valley Transportation Authority (NVTA) Board approve Purchase Order 
+25-P5060 with Remix Technologies, LLC (Attachment 1) for transit planning and 
+scheduling software services for three (3) years until June 30, 2028 in an amount not to 
+exceed $215,433. 
+ 
+COMMITTEE RECOMMENDATION 
+ 
+None 
+ 
+BACKGROUND 
+ 
+On July 17, 2019, the NVTA Board approved a three-year contract with Remix Software 
+Inc. (Included as Attachment 2 for your reference) that commenced on October 1, 2019 
+and expired on September 30, 2022, at a cost of$163,330.68.  In September 21, 2022, 
+the NVTA Board approved a three-year renewal that expires on September 30, 2025 for 
+a total of $182,582.28.  Staff is requesting approval for a new three-year contract starting 
+July 1, 2025 which will terminate the existing contract on that day so the contracts do not 
+overlap. This would result in a new contract that would commence July 1, 2025 and expire 
+on June 30, 2028 for a total of $215,433.  This is a cost increase of 18.0% over the prior 
+three-year period.  
+ 
+ 
+ 
+ 
+ 
+ 
+18
+=== page 3 ===
+The cost of the contract per year is as follows: 
+Remix Transit Planning License  
+2025/26: $32,787.50 USD per year 
+2026/27: $36,000 USD per year 
+2027/28: $39,670 USD per year 
+Remix Scheduling License 
+2025/26: $32,500 USD per year 
+2026/27: $35,475 USD per year 
+2027/28: $39,000 USD per year 
+Total = Planning + Scheduling 
+Licenses 
+2025/26: $62,287.50 USD per year 
+2026/27: $71,475 USD per year 
+2027/28: $78,670 USD per year 
+TOTAL 
+$215,432.50 
+ 
+ 
+Remix provides an easy-to-use online platform to accurately perform transit planning, 
+blocking, run cuts, roster style bidding, relief vehicle scheduling and paddles. The 
+software significantly reduces staff time when drafting new schedules, routes, and it 
+provides a web interface to improves public outreach. 
+ 
+Planning Tools: The platform offers fast, accurate sketch planning using existing stop 
+infrastructure, with instant demographic impact analysis and cost estimates. Users benefit 
+from unlimited exports (Excel, shapefile, KML, GTFS, high-res images), custom data 
+layers, and GTFS uploads. It supports public engagement, travel-time isochrone 
+visualizations, and a Title VI Engine for quick equity analysis. Timetables can be 
+generated, customized, and exported to Excel, all within a system that receives regular 
+feature updates and improvements. 
+ 
+Scheduling Tools:  
+In regards to blocking, Remix provides: 
+• Interactive blocking to finalize vehicle assignments 
+• Excel report for daily vehicle assignments 
+• Determines optimally efficient peak bus count 
+• Detailed bus logistics for dispatch and maintenance 
+ 
+In regards to Run Cuts, Remix provides:  
+• Dynamic run-cutting interface for multiple schedule generation 
+• Excel report for with driver assignments to vehicles 
+• Optimize cost, OT, or crew count 
+• Produce driver & labor friendly schedules 
+• Maximize straight runs 
+Additionally, staff has been informed that the California Integrated Travel Project (CalITP) 
+operated by Caltrans is looking to provide free or significantly reduced costs Remix 
+licenses to agencies that receive both 5311 and 5307 funds next year. PO 25-P5060 
+19

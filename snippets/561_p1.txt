@@ -1,0 +1,30 @@
+# source: raw/bleecker_drive/City of Gainesville/410734_Bid_Record.pdf
+# path: raw/bleecker_drive/City of Gainesville/410734_Bid_Record.pdf
+# hit page: 1 of 1
+# terms: Downtowner, RideCo, Spare Labs, Via Transportation
+
+=== page 1 ===
+BID NUMBER: 
+RTSX-240002-DS
+Mobility-On-Demand Software App
+June 9, 2023 @ 3:00pm
+Transportation - Regional Transit System
+NUMBER OF PLAN HOLDERS:  
+54
+GENERAL GOVERNMENT                                     
+PROCUREMENT DIVISION                                    
+BID RECORD
+BID NAME: 
+DUE DATE: 
+USER DEPARTMENT: 
+BIDDER NAME
+Downtowner
+HB Software Solutions
+TransLoc
+Via Transportation, Inc
+Lewisville   NON-RESPONSIVE
+Moovit, Inc
+Pantonium, Inc
+RideCo, Inc
+Software Staffers
+Spare Labs

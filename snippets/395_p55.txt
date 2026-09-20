@@ -1,0 +1,184 @@
+# source: raw/bleecker_drive/The Metropolitan Government of Nashville and Davidson County/2025_1155_Contract.pdf
+# path: raw/bleecker_drive/The Metropolitan Government of Nashville and Davidson County/2025_1155_Contract.pdf
+# hit page: 55 of 70
+# terms: Remix Technologies
+
+=== page 54 ===
+Docusign Envelope ID: FB67CC8E-A5D2-4D73-ADD1-FC7AE1463C8E
+Sole Source Review
+Reviewed By:
+Received for Review:
+Recommendation:
+Supplier:
+Description:
+Zak Kelley
+06/25/2024
+Approve
+Via Transportation
+Remix Steet - Street Design Software
+Reviewed:
+Department:
+Pricing:
+Method:
+07/02/2024
+NDOT
+$266,500.00
+Multi-Year Contract
+Procurement Code:
+Procurement Regulations:
+Department Justification:
+MC 4.12.060
+R4.12.060.02 - Other
+See justification.
+Review: Under section R4.12.060.02 of the procurement regulations, a contract may be awarded without competition when only a
+single source is available to provide the good or service.
+This is a request to sole source street design software from Via Transpiration (VT). If VT is found to be the only supplier for SDS, as
+sole source may be recommended. If other supplies are available, a sole source may not be recommended.
+After considerable market research, the division of purchases concurs that this is a sole source. While there are providers with
+similar street design products, the division of purchases is unable to find a platform that combines all the elements of Remix Street
+including but not necessarily limited to design, GIS integration, and the ability to collaborate with/collect feedback from the public.
+Were a competitive solicitation to be issued, it seems reasonably doubtful that Metro would find a provider who could perform the
+same scope of work.
+Further, the department argues that only this product will meet their need due to a variety of factors detailed in their request. The
+division of purchases can neither affirm nor disaffirm this assertion, but defers to NDOT as the subject matter expert.
+A sole source is recommended pursuant to R4.12.060.02.
+=== page 55 ===
+Contract Purchase Agreement 6577813 
+Contract Purchase Agreement # 
+ 
+Document # K5000 Rev C 
+ 
+1 
+ 
+Formatted: Right
+Terms and Conditions 
+ 
+ 
+1. GOODS AND SERVICES CONTRACT 
+ 
+1.1. Heading 
+ 
+This contract is initiated by and between The Metropolitan Government of Nashville and Davidson County 
+("METRO") and Remix Technologies, LLC Enter Legal Name ("CONTRACTOR") located at 114 5th Avenue, Fl 
+17 New York, NY 10011. Enter Address, City, ST ZIP.  This Contract consists of the following documents: 
+• 
+Any properly executed contract amendment (most recent with first priority), 
+• 
+This document, including exhibits, 
+●      Exhibit A – (Pricing)  
+●      Exhibit B – (Scope of Services) 
+ 
+●      Exhibit C – (MISA Terms and Conditions) 
+ 
+• 
+The solicitationSole Source documentation for RFQ# this agreement[Enter Number] and affidavit(s)   (all 
+made a part of this contract by reference), 
+• 
+Purchase Orders (and PO Changes), 
+• 
+CONTRACTOR's response to the solicitation, 
+• 
+Equal Business Opportunity (EBO) Program forms (incorporated by reference). 
+In the event of conflicting provisions, all documents shall be construed in the order listed above. 
+ 
+2. THE PARTIES HEREBY AGREE TO THE FOLLOWING TERMS AND CONDITIONS: 
+ 
+2.1. Duties and Responsibilities 
+ 
+CONTRACTOR agrees to provide Remix: Streets Software the goods and/or services as fully defined in the 
+solicitation and as outlined in Exhibit B – Scope of Services. 
+ 
+2.2. Delivery and/or Installation. 
+ 
+All deliveries (if provided by the performance of this Contract) are F.O.B. Destination, Prepaid by Supplier, Inside 
+Delivery, as defined by METRO. METRO assumes no liability for any goods delivered without a purchase order. All 
+deliveries shall be made as defined in the solicitation or purchase order and by the date specified on the purchase 
+order. Installation, if required by the solicitation and/or purchase order shall be completed by the date specified on the 
+purchase order. 
+ 
+3. CONTRACT TERM 
+ 
+3.1. Contract Term 
+ 
+The Contract Term will begin on the date (the “Effective Date”) of [insert date here], or the date this Contract is 
+approved by all required parties and filed in the Metropolitan Clerk's Office, whichever date last occurs. This Contract 
+Term will end (60) months from the Effective Date. The The Contract Term will begin on the date (the “Effective 
+Date”) this Contract is approved by all required parties and filed in the Metropolitan Clerk's Office. This Contract Term 
+will end (36) months from the Effective Date. In no event shall the term of this Contract exceed thirty-six (36) months 
+from the Effective DateContract Term will begin on the date (the “Effective Date”) of April 2, 2024 or the date this 
+Contract is approved 
+by all required parties and filed in the Metropolitan Clerk's Office whichever date last occurs. This Contract Term will 
+end (60) months from the Effective Date.. This Contract may be extended by Contract Amendment. The option to 
+Formatted: Centered
+Formatted: Font: Not Bold, Not Italic
+	
+		
+
+=== page 56 ===
+Contract Purchase Agreement 6577813 
+Contract Purchase Agreement # 
+ 
+Document # K5000 Rev C 
+ 
+2 
+ 
+Formatted: Right
+extend may be exercised by and at the discretion of the Purchasing Agent.  However, in no event shall the term of this 
+Contract exceed sixty (60) months from the Effective Date.The Contract Term will begin on the date (the “Effective 
+Date”) of April 2, 2024 or the date this Contract is approved by all required parties and filed in the Metropolitan Clerk's 
+Office. The Contract Term will end no later than sixty (60) months from the date it is filed in the Clerk’s Office. 
+ 
+In no event shall the term of this Contract exceed sixty (60) months from the Effective Date. 
+ 
+This Contract may be extended by Contract Amendment. The option to extend may be exercised by and at the 
+discretion of the Purchasing Agent.  However, in no event shall the term of this Contract exceed sixty (60) months 
+from the Effective Date. 
+ 
+4. COMPENSATION 
+ 
+4.1. Contract Value 
+ 
+This Contract has an estimated value of $[Agreement Amount266],500.00. The pricing details are included in Exhibit 
+A and are made a part of this Contract by reference. CONTRACTOR shall be paid annually in advance, within thirty 
+(30) days from METRO's receipt of invoice from CONTRACTORpaid as work is completed and METRO is 
+accordingly, invoiced. 
+ 
+4.2. Other Fees 
+ 
+There will be no other charges or fees for the performance of this Contract.  METRO will make reasonable efforts to 
+make payments within 30 days of receipt of invoice but in any event shall make payment within 60 days.  METRO 
+will make reasonable efforts to make payments to Small Businesses within 15 days of receipt of invoice but in any 
+event shall make payment within 60 days. 
+ 
+4.3. Payment Methodology 
+ 
+Payment in accordance with the terms and conditions of this Contract shall constitute the entire compensation due 
+CONTRACTOR for all goods and/or services provided under this Contract.   
+ 
+METRO will compensate CONTRACTOR in accordance with Exhibit A of this Contract.  Subject to these payment 
+terms and conditions, CONTRACTOR shall be paid for delivered/performed products and/or services properly 
+authorized by METRO in accordance with this Contract.  Compensation shall be contingent upon the satisfactory 
+provision of the products and/or services as determined by METRO. 
+ 
+4.4. Escalation/De-escalation 
+ThisThis Contract is not eligible for annual escalation/de-escalation adjustments. Contract is eligible for annual 
+escalation/de-escalation adjustments. 
+  The request for adjustment must be in accordance with Exhibit A and submitted by CONTRACTOR to the 
+Purchasing Agent no less than sixty (60) days prior to the annual anniversary of the Effective Date of this Contract.  
+Any such adjustment, if approved by the Purchasing Agent, shall become effective on the anniversary of the Effective 
+Date of this Contract. 
+ 
+4.5. Electronic Payment 
+All payments shall be effectuated by ACH (Automated Clearing House). 
+ 
+4.6. Invoicing Requirements 
+ 
+CONTRACTOR shall invoice METRO no more frequently than once a month or for the satisfactorily and accurately 
+delivered/performed products and/or services, whichever is less frequent.  Invoices shall detail this Contract Number 
+accompanied by any necessary supporting documentation.  CONTRACTOR shall submit all invoices no later than 
+ninety (90) days after the products and/or services have been delivered/performed. 
+ 
+Formatted: Indent: Left:  0"
+	
+		
+

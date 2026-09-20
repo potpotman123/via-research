@@ -1,0 +1,97 @@
+# source: raw/bleecker_drive/Topeka/Proposal-ViaMobilityLLCforPosting.pdf
+# path: raw/bleecker_drive/Topeka/Proposal-ViaMobilityLLCforPosting.pdf
+# hit page: 20 of 44
+# terms: Via+drivers, Via+turnkey
+
+=== page 19 ===
+utilize either available documentation or direct interaction with the third party for solution
+co-definition. We can accommodate any standard industry practice (e.g. REST API, Webhooks, etc)
+and data formats (e.g. JSON, XML, CSV, etc).
+8.2.3 Customer Facing Functionality
+Through deploying hundreds of demand response transit services worldwide, we have found that
+an exceptional Rider App is critical to a successful service. On-demand transit succeeds when
+there is continuous rider growth, and poor app performance — whether through a poor User
+Interface (UI) or unreliable booking process — dissuades riders from sticking with a service, or
+even booking their very first trip. In addition, introducing a quality mobile app can transform the
+paratransit rider experience — providing a convenient option for booking and tracking rides, and
+contacting support in real time. Via’s Rider App has been downloaded over a million times,
+consistently receives glowing reviews, and is the only mobile booking app that has consistently
+demonstrated an exceptional user experience leading to rider growth for public transit
+providers around the world. Our Rider App comes in multiple languages such as English and
+Spanish, and can be downloaded for free from the Google Play or Apple App Store on the latest
+version of Android and iOS devices.
+On the following pages, we describe the Via experience from a rider’s perspective. The Via
+Platform supports multiple booking modes — riders can book through the app, through our Web
+Booking Portal (with the same look and flow as our app), or over the phone with a customer
+support reservationist.
+RFP for Microtransit System | 22
+=== page 20 ===
+Via also offers our partners the most advanced transportation planning, design, and scheduling
+software through Remix, which hundreds of cities and transit authorities use to design, plan,
+optimize, and analyze multimodal transportation systems. We have deployed transit solutions in
+partnership with over 600 cities and transit agencies, including Metro, in nearly 50 countries
+around the world, as shown in the map below. In addition to Remix Transit and Remix Scheduling,
+for more details on how our other Remix suites and service planning simulation tool can inform our
+microtransit service with Metro, please see Section 8.3.3.
+8.3.2 The Via Advantage for Metro
+Via has earned a reputation for partner success by delivering outstanding project results, every
+time.
+We recognize that implementing new technology systems can be challenging for cities and transit
+providers, and that Metro has a choice when it comes to transit technology providers. Some offer
+lower fees than Via. Going that route may look less expensive, but there are hidden risks: inferior
+technology and expertise leading to poor experiences for riders, drivers, and dispatchers,
+ultimately resulting in unsuccessful services.
+Via approaches partnerships differently. Our mission is not just to meet our partners’ goals. It’s to
+exceed them. So we recruit the most talented software engineers, highly-trained transit planners,
+and skillful partner success experts. We directly deliver turnkey microtransit services using our
+own software, leveraging direct operational experience to continuously improve our technology for
+accessible and reliable transit service.
+RFP for Microtransit System | 46
+=== page 21 ===
+Via will provide Metro with more dollar-for-dollar impact than other providers. With Via as its
+partner, Metro will:
+●
+Delight riders: Riders will love Metro’s services because Via makes public transit the most
+convenient, accessible, and reliable transportation option. Our services reduce wait times
+by an average of 36% compared to other microtransit providers.
+●
+Grow ridership: Delighted riders become regular customers, meaning that we will drive
+both immediate and long-term ridership growth for Metro’s services. On average, Via
+increases ridership 289% when replacing or extending fixed-route bus service.
+●
+Reduce costs: Even as Metro’s services grow, we will reduce operating costs by
+automating service management and driving high vehicle utilization, resulting in better
+service using fewer vehicles, fewer miles traveled, and fewer dollars. We reduce costs by
+an average of 24% when replacing or extending fixed-route service.
+●
+Increase equity and accessibility: By prioritizing deploying effective on-demand
+microtransit in areas with limited public transit service, we increase access to opportunity
+for all. In the communities we serve, we have increased the number of jobs accessible by
+public transit by 46%.
+Only Via has a demonstrated record of successfully deploying and scaling solutions of this
+complexity and breadth, and supporting partners across the entire lifecycle of service delivery.
+Specifically, the following attributes set Via apart from other providers:
+●
+We are the only on-demand dispatch software provider with experience growing pilots
+into full-scale transit services at a sustainable cost. Informed by measurable
+achievements like increased ridership and reduced cost per trip over time, Via partners
+typically expand their services
+through fleet size increases,
+service zone expansions, and
+contract renewals. For example,
+since launching an on-demand
+service pilot in the City of Arlington,
+TX (a city with no formal public
+transportation network prior to Via)
+in 2018, we have grown the service
+by ten times to deliver over one
+million total rides as of February
+2022. This has driven a steady
+decrease in per-trip costs, and
+ongoing reduction in citywide
+vehicle miles traveled (VMT) as
+more riders take shared trips over
+single-occupancy vehicles (SOVs).
+What began as a pilot covering less than one quarter of the City’s area has grown to
+become a citywide service with nearly 70 vehicles.
+RFP for Microtransit System | 47

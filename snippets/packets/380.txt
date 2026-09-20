@@ -1,0 +1,353 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Tacoma Public Schools/Nomad Transit - TSD-24-146 - Alternate Transportation Contract-DSA - signed.pdf
+# pages_total: 35; hit_pages: [1, 2, 3, 4, 5, 21, 22, 23, 24, 25, 26, 29, 30, 31, 32, 33, 34, 35]; included: [1, 3, 4, 22, 25, 33, 35]
+# context: Bleecker Drive folder: Tacoma Public Schools
+
+=== page 1 of 35 ===
+CONTRACT & DATA 
+SHARING AGREEMENT 
+ 
+ 
+ 
+TSD-24-146 
+ 
+ 
+ 
+NOMAD TRANSIT, LLC  
+ 
+ 
+ 
+[ALTERNATIVE VEHICLE TRANSPORTATION  
+FOR DISTRICT STUDENTS] 
+ 
+ 
+ 
+FROM DATE SIGNED – 08/31/2027
+
+=== page 3 of 35 ===
+Page 2 of 34 
+TSD-24-146 
+rev. 08/2024 
+ 
+ 
+DUTIES OF THE DISTRICT 
+ 
+A. 
+In consideration of Nomad Transit’s satisfactory performance of the duties set forth herein, 
+the District shall compensate Nomad Transit as per the Scope of Work (Attachment B). 
+ 
+Year 1 Contract Value: 
+$266,666.67 
+Year 2 Contract Value: 
+$266,666.67 
+Year 3 Contract Value: 
+$266,666.67 
+ 
+The total value of this Contract-DSA is $800,000.00 exclusive of sales tax.  
+ 
+B. 
+The costs associated with this Contract-DSA will remain firm and include all charges that 
+may be incurred in fulfilling the services covered by this Contract-DSA. All invoices will 
+reflect the rates as agreed to within Attachment C. 
+ 
+C. 
+The District will maintain the option to renew this Contract-DSA for two (2) additional one 
+(1)-year terms by way of formal amendment.  
+ 
+D. 
+Data requested by Nomad Transit per this Contract’s DSA (Attachment D):
+
+=== page 4 of 35 ===
+Page 3 of 34 
+TSD-24-146 
+rev. 08/2024 
+ 
+Data Requested 
+Reporting Year 
+Student Name 
+2024-2027 SYs 
+Student Grade 
+2024-2027 SYs 
+Student School Name 
+2024-2027 SYs 
+Student ID 
+2024-2027 SYs 
+Student Photo 
+2024-2027 SYs 
+Student Home Address 
+2024-2027 SYs 
+Student Pick-Up Address 
+2024-2027 SYs 
+Student Drop-Off Address 
+2024-2027 SYs 
+Student Program & Program Code 
+2024-2027 SYs 
+Student Radio-Frequency Identification (RFID) 
+2024-2027 SYs 
+Parent/Guardian Name & Relationship 
+2024-2027 SYs 
+Parent/Guardian Contact Information 
+2024-2027 SYs 
+Active/Status 
+2024-2027 SYs 
+Case Manager 
+2024-2027 SYs 
+AM PS 
+2024-2027 SYs 
+PM PS 
+2024-2027 SYs 
+ELO Session (1, 2, 3, 4) 
+2024-2027 SYs 
+Student Activity (scan date/day/time/location/vehicle) 
+2024-2027 SYs 
+Student schedules and run information 
+2024-2027 SYs 
+MyRide K-12 
+2024-2027 SYs 
+Student Accommodations (air conditioning, crutches, bus inserts, monitor, 
+nurse, head pad, stroller, safety vest, wheelchair, walker) 
+2024-2027 SYs 
+Student Medical Plans (ex. Asthma, allergies, diabetes, seizures. Reports to be 
+provided as needed with parent consent) 
+2024-2027 SYs 
+Employee Name and ID number (drivers) 
+2024-2027 SYs 
+Employee Driver’s License number (drivers) 
+2024-2027 SYs 
+Employee’s Certifications (drivers) (First Aid, CPR) 
+2024-2027 SYs 
+Employee Job Title (drivers) 
+2024-2027 SYs 
+ 
+ 
+CONDITIONS OF COMMENCEMENT OF PERFORMANCE 
+AND 
+SCHEDULE OF PERFORMANCE 
+ 
+Nomad Transit shall not commence performance or be entitled to compensation or reimbursement 
+for any services rendered, prior to the occurrence of each of the following conditions: (1) this 
+Contract-DSA must be executed by an authorized representative of Nomad Transit and the District; 
+and, if required, (2) this Contract-DSA must be approved by the Board of Directors.  
+ 
+This Contract-DSA becomes effective upon signature by all parties and remains in effect through 
+August 31, 2027, unless terminated prior to this date per the conditions herein.
+
+=== page 22 of 35 ===
+Page 21 of 34 
+TSD-24-146 
+rev. 08/2024 
+ 
+ATTACHMENT B 
+SCOPE OF WORK 
+ 
+The general objective of this Contract-DSA TSD-24-146 is to provide safe and reliable on-demand 
+alternative vehicle transportation services for District students. In order to accomplish the general 
+objective of this Contract-DSA, the District and Nomad Transit shall perform the specific duties 
+outlined below. 
+ 
+RESPONSIBILITIES OF NOMAD TRANSIT 
+ 
+SAFETY 
+ 
+A. Nomad Transit will be responsible for the safe and reliable vehicle transportation of District 
+students at the District’s request. 
+ 
+B. Nomad Transit will ensure that all services under this Contract will comply with current 
+Washington State Division of Industrial Safety orders, OSHA, and any/all other applicable local, 
+state, and federal safety laws, ordinances, and regulations governing the vehicles and vehicles for 
+hire.  
+ 
+C. Nomad Transit will ensure all appropriate license(s), permits to operate, and training are obtained 
+and maintained for the compliant operation within the cities, counties, and state covered by this 
+Contract, including but not limited to the Washington State Vehicle Code.  
+ 
+1. Cell phones will not be used for personal purposes while students are in the vehicle. 
+ 
+D. Pursuant to Revised Code of Washington (RCW) 28A.400.330, Nomad Transit will prohibit any 
+employee from working under this Contract who has contact with children during the course of 
+their employment and who has pled guilty to or been convicted of any felony crime involving the 
+physical neglect of a child under Chapter 9A.32 or 9A.36 RCW (except motor vehicle violations 
+under Chapter 46.61 RCW), sexual exploitation of a child under Chapter 9.68 RCW, sexual 
+offenses under Chapter 9A.44 RCW where a minor is the victim, promoting prostitution of a 
+minor under Chapter 9A.88 RCW, the sale or purchase of a minor child under RCW 9A.64.030, 
+or violation of similar laws of another jurisdiction. Failure to comply with this section shall be 
+grounds for the District to immediately terminate the Contract.   
+ 
+E. Nomad Transit shall utilize for all potential drivers at the time of hire the background check 
+procedures of the Washington State Patrol and potential drivers will be screened through a 
+national FBI check. Fingerprinting will be used, with a complete Washington State Identification 
+Fingerprint Card, to ensure positive identification as is the responsibility of Nomad Transit. All 
+background checks, including fingerprinting, must be completed and demonstrated as “passed” 
+prior to any potential driver or employee performs services for the District under this Contract. 
+ 
+F. Nomad Transit drivers and staff which may come in to contact with students must be fit-for-duty 
+and able to communicate effectively orally and in writing. All drivers will be clean, neat in 
+personal appearance, and courteous.
+
+=== page 25 of 35 ===
+This banner indicates that you are utilizing the latest and greatest template! 
+Thank This banner will be removed prior to signatures. 
+Page 24 of 34 
+ 
+ 
+ 
+ 
+ 
+TSD-24-146 
+rev. 08/2024 
+within the cities and counties of Washington State at the District’s request. 
+C. Nomad Transit will be capable of providing up to and as many as thirty (30) different vehicles at 
+any time as needed for the vehicle transportation of District students. 
+1. The District routing is based on enrollment and student need in real-time, with a
+typical heavier volume in spring.
+D. For those occasions with less than thirty (30) trips booked and confirmed for a given day, for any 
+trips booked and confirmed more than twenty-four (24) hours in advance (one business day) that 
+do not get covered by Nomad Transit as requested, Nomad Transit will be charged the cost the 
+District incurs to make up for such. The District will provide documentation outlining how any 
+such changes are calculated. 
+E. Nomad Transit will be responsible for arriving on-time and no later than ten (10) minutes from 
+the scheduled time. 
+F. Nomad Transit will provide vehicles that are appropriately permitted, properly maintained and in 
+good working order, clean, and have all required safety equipment and associated features. 
+1. A file shall be kept available for each vehicle documenting such and will be made
+immediately available to the District upon request.
+2. Parents/Guardians of students that are required to use a car-seat under Washington
+State Law will have child safety seat(s) available and as appropriate.
+BILLING 
+A. Invoices will be submitted to the District each month to reflect the prior month’s services. 
+Payment will be made following receipt of Nomad Transit’s adequate and original invoices. For 
+an invoice to be deemed adequate, the Purchase Order number must appear on the invoice as 
+well as itemizations. Itemizations must include: 
+1. Date of service.
+2. Name of student.
+3. Address of pick-up.
+4. Address of drop-off.
+5. Name of Nomad Transit staff.
+6. Vehicle ID (e.g., license plate number).
+7. Miles per trip (roundtrip if applicable).
+8. Rate, and total.
+B. Nomad Transit will ensure that invoices reflect the rates as provided within Attachment C, Rate 
+Schedule.
+
+=== page 33 of 35 ===
+This banner indicates that you are utilizing the latest and greatest template! 
+Thank This banner will be removed prior to signatures. 
+Page 32 of 34 
+ 
+ 
+ 
+ 
+ 
+TSD-24-146 
+rev. 08/2024 
+E. NONDISCRIMINATION: Both the District and Nomad Transit agree that no individual shall be 
+excluded from participation in, denied the benefits of, subjected to discrimination under, or denied 
+employment in the administration of or in connection with any aspect of this DSA because of sex, 
+race, creed, religion, color, national origin, age, honorably discharged veteran or military status, 
+sexual orientation including  gender expression or identity, the presence of any sensory, mental or 
+physical disability, or the use of trained dog guide or service animal by a person with a disability. 
+Harassment on the basis of any of the foregoing conditions is strictly prohibited.  The Parties agree 
+to abide by the standards of responsibility toward the disabled as specified by the Americans with 
+Disabilities Act and Washington Law Against Discrimination. In the event that one of the Parties 
+hereto refused to comply with the above provision, this DSA may be canceled, terminated, or 
+suspended in whole or in part by the other Party. 
+F. ASSIGNMENT: Neither Party shall assign its rights or responsibilities under this DSA without the 
+written authorization of all the other Parties. 
+G. PERIOD OF PERFORMANCE: This DSA becomes effective upon signatures by all parties and 
+remains in effect through August 31, 2027, unless terminated prior to this date per the conditions 
+herein.  
+H. DSA TERMINATION: The District may immediately terminate this DSA at any time for its own 
+convenience, and for any reason, including, without limitation, violations of the Confidentiality 
+provisions identified within, followed by written notice provided to Nomad Transit at the time of the 
+decision to terminate the DSA, or at a practical time soon thereafter. Nomad Transit may terminate 
+this Agreement for any reason by providing the District with 30 calendar days’ written notice of 
+Nomad Transit intent to terminate.   
+I. SEVERABILITY: If any term of this DSA is held invalid or unenforceable, the remainder of the 
+DSA will not be affected but continue in full force. 
+J. INTEGRATION: This writing contains all terms and conditions of the DSA. It replaces all prior 
+negotiations and agreements regarding the terms and conditions in this DSA. Any modifications to 
+this DSA must be made by way of formal amendment/addendum.
+
+=== page 35 of 35 ===
+ATTACHMENT A 
+DATA REQUEST 
+ 
+The table below describes the confidential information that may be shared with Nomad Transit 
+by the District per the terms of this DSA TSD-24-146.  
+ 
+Data Request 
+ 
+Confidential information, as defined in the DSA, includes only the following educational records related 
+to a District student: 
+ 
+Data Requested 
+Reporting Year 
+Student Name 
+2024-2027 SYs 
+Student Grade 
+2024-2027 SYs 
+Student School Name 
+2024-2027 SYs 
+Student ID 
+2024-2027 SYs 
+Student Photo 
+2024-2027 SYs 
+Student Home Address 
+2024-2027 SYs 
+Student Pick-Up Address 
+2024-2027 SYs 
+Student Drop-Off Address 
+2024-2027 SYs 
+Student Program & Program Code 
+2024-2027 SYs 
+Student Radio-Frequency Identification (RFID) 
+2024-2027 SYs 
+Parent/Guardian Name & Relationship 
+2024-2027 SYs 
+Parent/Guardian Contact Information 
+2024-2027 SYs 
+Active/Status 
+2024-2027 SYs 
+Case Manager 
+2024-2027 SYs 
+AM PS 
+2024-2027 SYs 
+PM PS 
+2024-2027 SYs 
+ELO Session (1, 2, 3, 4) 
+2024-2027 SYs 
+Student Activity (scan date/day/time/location/vehicle) 
+2024-2027 SYs 
+Student schedules and run information 
+2024-2027 SYs 
+MyRide K-12 
+2024-2027 SYs 
+Student Accommodations (air conditioning, crutches, bus inserts, monitor, 
+nurse, head pad, stroller, safety vest, wheelchair, walker) 
+2024-2027 SYs 
+Student Medical Plans (ex. Asthma, allergies, diabetes, seizures. Reports to be 
+provided as needed with parent consent) 
+2024-2027 SYs 
+Employee Name and ID number (drivers) 
+2024-2027 SYs 
+Employee Driver’s License number (drivers) 
+2024-2027 SYs 
+Employee’s Certifications (drivers) (First Aid, CPR) 
+2024-2027 SYs 
+Employee Job Title (drivers) 
+2024-2027 SYs 
+ 
+In order to timely obtain this data, Nomad Transit will provide this completed form to District’s Director 
+of Transportation Services.  
+ 
+ 
+Page 34 of 34 
+ 
+ 
+ 
+ 
+TSD-24-146 
+ 
+ 
+ 
+rev. 08/2024

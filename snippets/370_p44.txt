@@ -1,0 +1,124 @@
+# source: raw/bleecker_drive/Metropolitan Council/Microtransit-Solutions _Peer-Case-Studies-Report.pdf
+# path: raw/bleecker_drive/Metropolitan Council/Microtransit-Solutions _Peer-Case-Studies-Report.pdf
+# hit page: 44 of 68
+# terms: Spare Labs
+
+=== page 43 ===
+TAKEAWAYS 
+ 
+October 24, 2024 ■ PEER MICROTRANSIT CASE STUDIES REPORT 
+42 
+Technology Integration 
+INTRODUCTION 
+Microtransit technology integration can take several forms. This integration can include (1) 
+incorporating microtransit services into an agency's overall mobile application, (2) connecting data and 
+services between different agencies' microtransit programs, and (3) continuously adapting trip 
+planning to enhance service effectiveness. The following section highlights two unique case studies 
+from the research, focusing on technology integration strategies. 
+CASE STUDIES 
+FlexRide 
+Denver RTD, which has the second-largest service area and the most zones among the twelve selected 
+case studies, has heavily focused on intermodal mobility within its regional transit system. Denver RTD 
+offers a wide variety of transit options, including: 
+ 
+ 
+ 
+ 
+Microtransit 
+Fixed-Route Bus 
+Commuter Rail 
+Light Rail 
+Integrating first-mile/last-mile connectivity service was a priority for RTD, as several of its microtransit 
+zones are oriented toward commuter trips. To facilitate easy customer trip planning between services, it 
+developed a web application accessible on all browsers. Plan Your Trip displays all transit services in one 
+location.  
+Figure 7: RTD's Plan Your Trip Web Application 
+ 
+Source: RTD Denver
+=== page 44 ===
+TAKEAWAYS 
+ 
+October 24, 2024 ■ PEER MICROTRANSIT CASE STUDIES REPORT 
+43 
+By collaborating with a third-party contractor, RTD integrated data from its microtransit technology 
+provider, Demand Trans, into the more comprehensive RTD application. The web version differs from 
+the mobile ticketing application, MyRide. The web interface provides multiple features, such as walking 
+distance, transfer wait times, and minimum wait times. The goal is to optimize the transit trip planning 
+experience using the Mapbox web services application programming interface (API). It is the only 
+transit agency in the selected case studies with a single trip planning platform displaying all transit 
+options, including microtransit. 
+ 
+CPACS Ride 
+ 
+Overview 
+ 
+In 2021, CPACS launched its CPACS Ride microtransit program to serve immigrants, low-
+income individuals, and people with disabilities. CPACS is unique as the only nonprofit in 
+the case studies. Before CPACS Ride, CPACS operated a single transit service through a 
+pre-scheduling, call-and-ride system without any technology integration. 
+ 
+CPACS Ride's technology integration is notable for its (1) cross-compatibility with different agencies, 
+specifically Ride Gwinnett, and (2) its continuous technological adaptation. Since it was relatively new 
+to transit technology usage, CPACS sought two significant requirements in its request for proposals 
+(RFP) for scheduling software: 
+1. To share data with Ride Gwinnett 
+2. To create a multilingual platform and collect personalized data on each user to determine the 
+program's success 
+For the first objective, CPACS Ride’s RFP included a "Transactional Data Specification," requiring its 
+selected provider, Spare Labs, to provide technical assistance for sharing data with Gwinnett County’s 
+transit service, Ride Gwinnett. The technology provider had to follow the format outlined in the Transit 
+Cooperative Research Program’s (TCRP) "Development of Transactional Data Specifications for 
+Demand-Responsive Transportation" report. Data sharing aims to allow one microtransit program to 
+provide a transit option and facilitate transfers between services if the other cannot. Through Spare 
+Labs, CPACS achieved data integration with Ride Gwinnett using this shared format. The challenge was 
+not the technology but the coordination between the organizations, as they had different service areas, 
+types, and operations. By the pilot's end, CPACS was able to share data but was not able to coordinate 
+trips with Ride Gwinnett as this required additional coordination. 
+For the second objective, CPACS aimed to provide a tailored technology experience for users, 
+specifically with translation capabilities for Korean, Burmese, Nepalese, and Chinese speakers. These 
+languages are representative of the dominant communities CPACS serves. Additionally, CPACS sought 
+to collect data tailored to each individual rider, such as trip purpose, age, hometown, living situation, 
+and primary language. This qualitative data allowed CPACS to understand users of its service and to 
+measure successful alignment with its mission. Using this data, it created individual activity profiles to 
+gain a nuanced understanding of its rider pool and the rider experience. This insight led CPACS to 
+expand language support to include Swahili and Mandarin during the pilot. Tailoring technology 
+integration to an operator's needs and continuously adapting the service to better serve users is 
+essential for a successful microtransit program.  
+RTD is the only case study with full integration of all transit types on one trip planning platform. This 
+integration allows for more comprehensive trip planning with microtransit service as part of the 
+overall journey.
+=== page 45 ===
+TAKEAWAYS 
+ 
+October 24, 2024 ■ PEER MICROTRANSIT CASE STUDIES REPORT 
+44 
+Figure 8: Example of a CPACS Ride Persona 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: Shared Use Mobility Center 
+CPACS’s objectives were to provide necessary transit services to its community. Technology 
+integration helped meet its objectives by data sharing with a neighboring transit agency, by ensuring 
+a trip request could be fulfilled, ultimately through the partnerships with TNCs, and by providing 
+multiple language options on the trip booking application. 
+Additional Examples: 
+MARTA Reach: Like FlexRide, MARTA is 
+seeking a technology provider for its 
+upcoming microtransit program that can 
+integrate its fixed-route and new 
+microtransit application into one mobile 
+interface.  
+Metro Transit Micro: Like CPACS Ride, 
+Metro Transit is looking for ways to 
+integrate its service with the four 
+neighboring transit agencies during the 
+upcoming expansion of its microtransit 
+program. This could require using the 
+GTFS-Flex data format.

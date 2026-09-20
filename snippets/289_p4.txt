@@ -4,7 +4,57 @@
 # terms: River North Transit, Via+SaaS, Via+fleet, Via+vehicles
 
 === page 3 ===
-
+3. Amendment. The following language in Section II A is replaced in its entirety with the
+following:
+CITY agrees to pay CONTRACTOR the amounts set forth in the Scope of Services, not to
+exceed $20,791,648.32 (i.e., the total amount of funding obtained by the City as of the date
+hereof) for the period of this Renewal, subject to the following provisions. This total includes a
+maximum of $18,588,845.60 for the Arlington On-Demand (microtransit TaaS) cost, $284,229.12
+for Handitran (paratransit TaaS) cost, $1,086,860.25 for Dynamic Direct Route cost, $816,713.35
+for the Arlington RAPID service cost, and $15,000 for Third Party Booking Functionality.
+In addition, all other references to the not to exceed amount shall be increased accordingly to
+$20,791,648.32.
+Summary Costs for January 1, 2025 - December 31, 2026:
+Service
+Cost Category
+Arlington On-Demand
+(Micro TaaS)
+Year 8: January 1, 2025 -
+December 31, 2025
+Oosem.b0r34, 202,2028 -
+Total
+$9,156,776.20
+$9,432,069.40
+Handitran
+(Paratransit SaaS)
+Total
+$139,670.64
+$144,558.48
+Dynamic Direct Route
+Total
+$834,070.25
+$252,790.00
+RAPID
+(Autonomous Vehicle Program)
+Third Party Booking
+Funcionality
+Total
+$816,713.35
+$0.00
+Total
+Grand Service Total (without farebox)
+$15,000.00
+$10,962,230.44
+$0.00
+$9,829,417.88
+4. Amendment. The language in Section II B Additional Funding is replaced in its entirety with
+the following:
+B. [Reserved]
+5. Amendment. Notwithstanding anything to the contrary in this Renewal or the Contract, the
+maximum number of vehicles in service across all transportation services, including Arlington On-
+Demand, Handitran, Dynamic Direct Route, and RAPID, shall not exceed ninety-nine (99) vehicles
+as follows: (i) the number of vehicles used in the transportation services consisting of Arlington
+On-Demand, Dynamic Direct Route and RAPID shall not exceed sixty-five (65) vehicles (the
 === page 4 ===
 “Microtransit Services Fleet Cap”) and (ii) the number of vehicles in the Handitran 
 Transportation Service shall not exceed thirty-four (34) vehicles  (the “SaaS Services Fleet Cap”, 

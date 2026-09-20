@@ -1,0 +1,135 @@
+# source: raw/bleecker_drive/City of West Sacramento/2023.06.07_-_City_Council_-_Amendment_No._5_to_NoMad_Transit_LLC_Contract.pdf
+# path: raw/bleecker_drive/City of West Sacramento/2023.06.07_-_City_Council_-_Amendment_No._5_to_NoMad_Transit_LLC_Contract.pdf
+# hit page: 44 of 63
+# terms: NoMad Transit, Via Transportation, Via+drivers
+
+=== page 43 ===
+Triennial Performance Audit of Via Rideshare - West Sacramento – FYs 2019–2021 
+ 
+ 
+Michael Baker International - 29
+ 
+  
+5. There were no prior audit recommendations. This report constitutes the first triennial 
+performance audit of the operator. 
+ 
+6. Operating costs increased by 156.9 percent from the first full year of operation in FY 2019 to 
+FY 2021. On an average annual basis, costs increased 75.7 percent, with the highest increase 
+of 147.7 percent occurring in FY 2020. This increase can be attributed to higher customer 
+service costs as ridership increased as well as an increase of over 10,000 service hours from FY 
+2019 to FY 2020. Additionally, COVID-19 related costs (frequent cleanings/disinfectants, PPE 
+supplies, applying and maintaining partitions, etc.) increased operating costs beginning in FY 
+2020. Operating costs only increased 3.7 percent from FY 2020 to FY 2021, while driver hours 
+remained relatively constant.  
+ 
+7. Ridership increased 20.2 percent from 92,063 trips during FY 2019 to 110,661 trips during FY 
+2021. Ridership reached 139,340 in FY 2020 before the effects of the COVID-19 pandemic 
+began impacting this indicator. On an average annual basis, ridership increased 15.4 percent 
+with an increase of 51.4 percent occurring in FY 2020 and a decrease of 20.6 percent in FY 
+2021, a reflection of the effects of the pandemic on ridership. 
+ 
+8. The provision of vehicle service hours and miles both exhibited increases from FY 2019 to FY 
+2021 as the program expanded past its pilot year. Vehicle service hours increased 31.7 percent 
+and vehicle service miles increased 20.8 percent. Both indicators saw their peak in FY 2020 
+before exhibiting decreases in FY 2021 due to the effects of the pandemic on service.  
+ 
+9. Operating cost per passenger, an indicator of cost effectiveness, increased 113.7 percent from 
+$6.81 during FY 2019 to $14.56 during FY 2021. The trend is indicative of the outpacing of 
+operating expenses compared to ridership, exacerbated by the effects of the pandemic on 
+ridership as well as the pandemic’s effect on operating costs as discussed above. 
+ 
+10. Operating cost per hour, an indicator of cost efficiency, increased 95 percent from $24.49 
+during FY 2019 to $47.75 during FY 2021. The trend in this indicator is reflective of the increase 
+in operating costs outpacing the increase in vehicle service hours, exacerbated by the effects 
+of the pandemic on service as well as the pandemic’s effect on operating costs as discussed 
+above. 
+ 
+11. Via Rideshare is a network-optimized, on-demand rideshare service operating within the city 
+limits of West Sacramento. Through the initial pilot program, Via provided an on-demand 
+rideshare service for a period of one year, with 10 Mercedes Metris vans rented at no cost to 
+the City by Nomad Transit LLC, a subsidiary of Via Transportation, Inc. Riders are able to book 
+a ride using a smart phone app and over the phone. The pilot service launched on May 14, 
+2018. 
+ 
+12. The City’s rideshare program is administered by a senior transportation planner in the 
+Community Development Department and by a team composed of a partner success manager, 
+general manager, and local field manager. On January 17, 2018, the City Council approved a
+=== page 44 ===
+Triennial Performance Audit of Via Rideshare - West Sacramento – FYs 2019–2021 
+ 
+ 
+Michael Baker International - 30
+ 
+  
+contract with NoMad Transit LLC, a wholly owned subsidiary of Via Transportation, Inc., in the 
+amount of $720,000 for a one-year pilot. There was an amendment entered on Feb 20, 2019 
+to utilize $90,000 in fare revenues. The contract may be extended annually up to five 
+additional years. The contract is reviewed annually. 
+ 
+13. Via Rideshare driver partners are classified as independent contractors. All driver partners 
+undergo thorough criminal background checks before driving on the Via platform. Applicants 
+may complete their applications, provide required documentation, and sign required 
+agreements through Via’s Driver Portal (https://my.drivewithvia.com/). Candidate screening 
+consists of a four-step process. The number of driver partners available for West Sacramento 
+Via Rideshare ranges between 20 and 40 drivers.  
+ 
+14. Vehicle maintenance is the responsibility of the driver partners. The driver partners conduct 
+pre- and post-inspections on the vehicle at the Via Rideshare staging lot. The inspections 
+involve drivers taking photos of the exterior and interior of the vehicle and uploading them to 
+the Via Driver Portal. The Rideshare vans are parked along the northern perimeter of the lot 
+composed of 16 spaces. 
+ 
+15. West Sacramento’s Via Rideshare is marketed through several media, including a rider’s guide, 
+mobile app, and a dedicated web page on the City of West Sacramento website 
+(https://www.cityofwestsacramento.org/via). Other fare media and promotions include the 
+Via Pass and discounts to senior citizens and disabled people. The service is branded with the 
+City’s Tower Bridge logo.
+=== page 45 ===
+Triennial Performance Audit of Via Rideshare - West Sacramento – FYs 2019–2021 
+ 
+ 
+Michael Baker International - 31
+ 
+  
+ 
+Recommendations 
+ 
+1. Complete the annual Transit Operators’ Financial Transactions Report for submittal to the 
+State Controller. (High Priority - Compliance Requirement) 
+ 
+Pursuant to Public Utilities Code, Section 99243 (a), transit operators are required to submit 
+an annual report, called the Transit Operators’ Financial Transactions Report, to the regional 
+transportation planning agency (RTPA) based upon the Uniform System of Accounts and 
+Records established by the State Controller. This report is due within seven months after the 
+end of the fiscal year (on or before January 31). The report shall contain underlying data from 
+audited financial statements prepared in accordance with generally accepted accounting 
+principles, if this data is available.  
+ 
+In lieu of submitting the Transit Operators’ Financial Transactions Report, the City of West 
+Sacramento completed and submitted the Cities' Financial Transactions Report to the State 
+Controller during the audit period. The Cities' Financial Transactions Report does not include 
+financial and operating data that pertain to the Via Rideshare service. It is recommended that 
+commencing with FY 2022, the City use the Transit Operators’ Financial Transactions Report 
+for reporting transit financial and operational data. The City would need to set up an account 
+through the Local Government Financial Reporting System as a transit operator. See link: 
+https://lgrsonline.sco.ca.gov/Account/Login?RememberMe=False&Optentitytype=TRS. 
+General instructions for reporting transit expenditures, revenues and operating data are found 
+at the link:  https://www.sco.ca.gov/Files-ARD-Local/LocRep/TO_FTR_Instructions_20-21.pdf. 
+ 
+2. Ensure that performance measures are consistent with TDA statute definitions, in particular 
+with regard to vehicle service hours and mileage as well as employee hours. (High Priority) 
+ 
+The auditor queried the Via Rideshare contractor about how vehicle service hours and miles 
+are reported. It was revealed that vehicle service hours and miles are recorded when the 
+vehicles leave the staging yard, which would include deadhead hours and mileage. According 
+to the TDA statute, actual vehicle revenue hours are:  
+ 
+The hours that vehicles travel while in revenue service. Vehicle revenue hours include 
+layover/recovery time but exclude deadhead, training operators prior to revenue service 
+and road tests, as well as school bus and charter services. 
+ 
+Actual vehicle revenue miles are:  
+ 
+The miles that vehicles travel while in revenue service. Vehicle revenue miles exclude 
+deadhead, training operators prior to revenue service and road as well as school bus and 
+charter services.

@@ -1,0 +1,237 @@
+# source: raw/bleecker_drive/City of Gainesville/410734_Mobility-On-Demand_Software_App_(Rebid).pdf
+# path: raw/bleecker_drive/City of Gainesville/410734_Mobility-On-Demand_Software_App_(Rebid).pdf
+# hit page: 9 of 47
+# terms: Via+per hour, Via+vehicles
+
+=== page 8 ===
+Bidding Document - RFP - Page 8 of 47 
+a vehicle goes out of service, or vehicle is behind schedule.  
+ 
+RTS or Agency-branded consumer facing smartphone application that disallows advertisements. RTS-generated 
+information is exempt.  
+ 
+App available in multiple languages such as Spanish. 
+ 
+App effectively interfaces with Braille technology.  
+ 
+App has ability to increase font size. 
+ 
+Ride star rating system with ability for customer comments. 
+ 
+Account Recovery - account management such as password/user name recovery. 
+ 
+2.4.4 
+Driver-facing features of the App  
+Shall be a web-based portal (IOS required and Android optional) that interfaces with all web browsers and has the following 
+functionalities: 
+ 
+ 
+Driver Itineraries - driver name, start time of itinerary, timestamp of each pick-up/drop-off, location of each 
+pick-up/drop-off. 
+ 
+Ability to send trip arrival alert to rider through the app or via SMS/email.  
+ 
+Driver Shift Actions - driver name, shift start time, shift end time, timestamp of an Offline action, timestamp 
+of an online action, timestamp of accepting/rejecting a trip request. 
+ 
+Ability for driver to pause app without redirecting rides to another vehicle. 
+ 
+Ability for driver sign-on to account. 
+ 
+Ability for driver to accept ride requests from Dispatch and override service sequence and maintain app 
+functionality. 
+ 
+Ability for driver to contact passenger if they cannot find them at designated pick-up location via anonymized 
+phone number(s). 
+ 
+Ability to receive Dispatcher notes on specific trips/customers. 
+ 
+Turn by turn audio and visual (on screen) directions. 
+ 
+Ability to log pick-ups and drop-offs. 
+ 
+Ability to see disabilities indicated by rider (in their account) so they can provide appropriate level of service. 
+ 
+Ability to log no-shows. 
+ 
+Ability to add trip comments by driver to promote service improvement. 
+ 
+Ability to pan and zoom the map and view the entire route on the map. 
+ 
+2.4.5 
+Data Collecting and Reporting Requirements 
+Provide an online dashboard for reporting real-time data on riders, vehicles, drivers, and service performance/Key Performance 
+Indicators (KPIs). (Note: where applicable, data should conform to National Transit Database (NTD) metric and reporting 
+standards, as well as have the ability to be exported in a CSV format.) Data and reporting should capture, store, and report at a 
+minimum: 
+ 
+ 
+Passenger trip data – total completed trips, total riders, by type of rider, by revenue hour, by trip, by source 
+(call-in, app), origin and destination both of which must be tagged by postal code. 
+ 
+Travel times – wait time, ride duration, on-time percentage, and late percentage. 
+ 
+A method for collecting on-time performance relative to planned drop-off times and estimated pick-up times. 
+ 
+Trips Booked – rider name, rider name, trip request time, planned pick-up and drop-off times and locations, 
+actual pick-up and drop-off times and locations, number of passenger(s), seat type(s) selected, ride status 
+(including but not limited to completed, no-show, canceled by rider, canceled by system, and view errors that 
+turned down the trip request). 
+ 
+Dispatch response time, missed calls. 
+ 
+Revenue Hours - Fields must include at a minimum for each hour: number of online minutes, number of trip 
+acceptances, number of trip rejections, and number of minutes deadheading, number of minutes with 
+passengers on board. 
+ 
+Reporting by geo-fence, with ability to add, alter, or remove geo-fenced zones with history. 
+ 
+Reporting data inquiries within route number, date and time ranges. 
+ 
+Vehicle performance and reliability. 
+ 
+Total vehicle hours. 
+ 
+Trip and driver comments. 
+ 
+Driver hours.
+=== page 9 ===
+Bidding Document - RFP - Page 9 of 47 
+ 
+Aggregate reports (e.g. daily and annual totals) must include breakdown reports, including at a minimum, 
+breakdowns by vehicle and day so that total figures can be traced by an auditor to source data, including 
+chronological vehicle manifests of pull-outs from garage, first pick-up, all pick-up/drop-off times and 
+locations, all operator break and/or refueling begin and end times and locations, last drop-off time/location, 
+pull-in garage, and any additional deadhead activity. 
+ 
+Reports including but not limited to revenue vehicle hours, must be tagged and allow breakdowns by service 
+zone. 
+ 
+All statistics above are available on individual trip basis in an agency-facing dashboard with maps and Graphical 
+User Interface (GUI). At a minimum, the dashboard should include views for: all booked trips, including 
+origin/destination mapping capabilities, all driver shifts, all KPI statistics, vehicle & driver management, and 
+shift management. 
+ 
+Generate an NTD-standard report for upload to the Federal Transit Agency system. 
+ 
+RTS/City of Gainesville must be able to own and access all data, including rider data, during and post-contract. 
+ 
+Proposal should clearly indicate any manual data input that will be required to capture sufficient data for 
+reporting purposes, as well as how mileage and location data will be captured. 
+ Reportable data on pilot KPIs, including ridership, virtual stop usage and frequency, reservations, cancellations, 
+promotional codes, trip ratings, driver ratings, comments, and customer service requests, riders per hour by 
+individual geo-fence and system-wide. 
+ 
+The following constitute future capabilities 
+ 
+Daily Reports of Key Performance Indicators are delivered by email to project stakeholders.  
+ 
+Virtual stop usage and frequency. 
+ 
+Number and percentage of trip transfers to and from fixed route. 
+ 
+Driver and trip rating, number of passengers, and seat types selected. 
+ 
+Number and success of marketing events – audience reached. 
+ 
+Promotional or referral code usage and frequency. 
+ 
+A concierge interface for hotels, restaurants, non-profit organizations, or employers to book a trip on behalf of 
+a customer via web interface.  
+ 
+GTFS (General Transit Feed Specification): Ability to consume the GTFS to provide additional information to 
+the public.  
+ 
+System should have an open API that is capable of integrating with trip planning and mobile ticketing apps 
+(e.g. Kontron) that allows customers to plan a trip and pay for a trip on the service without using the provider’s 
+app. Native integration is preferred. 
+ 
+Identify which app platforms the system currently integrates with and if it is a deep link or native integration 
+solution in the proposal.  
+ 
+2.4.6 
+Technical Support, Software Upgrades and Releases 
+ 
+Provide a licensed software/technology platform that supports demand-responsive routing and dispatch of 
+vehicles. 
+ 
+Provide upgrades and new features to software generally made available to other licensees for no additional 
+charge. 
+ 
+Support Services must be provided via phone and email and must be available during RTS operating hours. 
+ 
+Provide prior notice in a timely manner to RTS when the software will be unavailable for any reason, such as 
+system maintenance, and coordinate a date/time that is outside of regular RTS operating hours. 
+ 
+Software Security and User Privacy: Ensure privacy and security of all data maintained as part of the service. 
+ 
+2.4.7 
+Privacy Requirements and Software Security 
+The software shall meet the following security and privacy requirements: 
+ 
+ 
+The passenger and driver apps are ‘stateless’ and do not store confidential passenger data on the local device. 
+ 
+All data is stored securely in the cloud (Amazon Web Services – ‘AWS’) or approved equal. All data stored 
+securely in the cloud utilizing infrastructure that is designed and managed for maximum uptime and availability 
+and in full compliance with IT security best practices and standards.
+=== page 10 ===
+1 A RESTful API is an architectural style for an application program interface (API) that uses HTTP requests to access and use data. That data can be used to GET, PUT, 
+POST and DELETE data types, which refers to the reading, updating, creating and deleting of operations concerning resources control. 
+E-Bidding Document - RFP - Page 10 of 47 
+ 
+The passenger and driver apps communicate securely with the cloud-based platform using RESTful APIs1. 
+ 
+Data is encrypted in transit using standard HTTPS, using a TLS wildcard certificate. 
+ 
+All public facing web servers have been hardened using industry best practices, including updating servers 
+according to latest security bulletins. External tools are used to verify the integrity of the TLC certificates and 
+how they are applied to the servers. 
+ 
+Internal networks are shielded by AWS security groups which define allowable ports and IP addresses for 
+internal services. 
+ 
+APIs are all secured using token authentication using City of Gainesville identity management system. Tokens 
+are only valid for one user and can only be acquired by successfully authenticating against our authentication 
+API. For certain API calls, throttling exists to prevent against DOS type attacks. 
+ 
+Maintain a 99%+ uptime performance record and service level guarantee. 
+ 
+Daily backups of production databases are taken and housed against an AWS S3 bucket for disaster recovery. 
+ 
+The mobile applications and operations dashboards include their own terms of service to end users that include 
+provisions relating to data privacy, confidentiality, and intellectual property rights. 
+ 
+In the future and when necessary, Software shall not store any payment card or billing information on our 
+servers. 
+ 
+2.4.8 
+Transfer of Data at Contract Termination or Expiration 
+Provide all services necessary to transfer administration of RTS’ demand transportation program to the City of Gainesville/RTS 
+or its designee at the expiration or termination of this Contract and no additional compensation will be allowed for such transfer 
+services. For the purpose of this Section, “information” includes all information and/or data (hereinafter “data”) stored and/or 
+processed by successful vendor that is related to rider’s data/account, without regard to the type of device or media that is used 
+to store such data, that is within successful vendor’s or successful vendor’s sub vendor(s) to store and process such data.  Upon 
+termination or expiration of this Contract or upon RTS’ written request at any time during the term hereof, successful proposer 
+or contractor must provide such data to the Agency’s designate using the same type of storage device as was used by successful 
+proposer to store such data or any other storage device that stores the data in any manner that can be readily accessed and 
+processed by RTS using a computer similar to the one that was used by successful proposer or successful sub-contractor(s) to 
+store and process such data. 
+ 
+2.4.9 
+Import of Existing Data 
+Successful proposer must import the existing data from the current RTS system for the continuity of the operation including 
+specialized client identification (ID) customer database, operator information and schedule information/GTFS feed. 
+ 
+During the registration process individuals are providing information that is considered personal information, therefore the 
+successful proposer must comply with City’s Minimum Technical Requirements (tab-4) on the Vendor Technology Questionnaire 
+(Appendix A) by providing technical knowledge and support to Agency staff.  The Vendor Technology Questionnaire is 
+intended to identify and resolve privacy risks throughout the design or redesign of a technology, system, program or service. 
+ 
+2.4.10 Training and Support 
+The software Provider shall provide training to RTS administrator, operators, dispatchers, and customer service representatives 
+on how to use the software. This shall include any customer-facing and operations-facing applications, software, dashboards, or 
+other related tools. 
+ 
+The Provider shall provide up to four (4) two-hour training sessions prior to service launch and on an as-needed basis, as 
+requested by RTS. The training shall be administered virtually or in-person, as requested by RTS.

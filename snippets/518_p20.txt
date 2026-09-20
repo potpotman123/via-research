@@ -1,0 +1,114 @@
+# source: raw/bleecker_drive/North Carolina/dot_68241_DS1.pdf
+# path: raw/bleecker_drive/North Carolina/dot_68241_DS1.pdf
+# hit page: 20 of 113
+# terms: Via+vehicles
+
+=== page 19 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+11
+SECTION  |  2 
+Figure 2-6  Persons with a disability
+=== page 20 ===
+Section 3
+FEDERAL TRANSIT ADMINISTRATION 	
+12
+Project Evolution
+This section describes how components of the RIDE service have changed since 
+launch and during the demonstration.
+Workforce Transition
+As Wilson’s fixed route service ended, there were seven full-time operators 
+employed. In preparing for the transition to microtransit, Via held several 
+sessions for these operators to explain Via’s driver platform and employment 
+opportunities. Via’s operators are employed as independent contractors rather 
+than as employees of Via. In addition to the opportunities to become operators 
+with Via, the city encouraged operators to apply for open city positions. Of the 
+seven fixed route operators, one chose to drive with Via, one chose to transfer to 
+another city division, and the remaining five chose to be laid off, thus receiving 
+unemployment benefits.
+Vehicle Partners
+RIDE launched with 13 vehicles in September 2020, which were all provided 
+by a single vehicle partner (Avis). Avis did not have any local service providers 
+to perform routine maintenance and/or needed repairs on the RIDE vehicles, 
+so all vehicle maintenance was performed an hour away from Wilson. During 
+the spring of 2021, RIDE began experiencing issues with the length of time it 
+was taking for maintenance, even routine maintenance such as oil changes. 
+Anecdotally, Wilson reported that vehicles could sit for several weeks before 
+being picked up for service, which would then take several additional weeks to 
+be completed. 
+As a result of vehicle maintenance occurring an hour away from Wilson, there 
+were fewer vehicles in service and increased vehicle downtime. RIDE’s operators 
+noted issues with vehicle availability; they might show up for a shift and not 
+have a vehicle available to complete their shift. Fewer vehicles in service also 
+increased ETA, decreased quality of service, and decreased ridership. For 
+example:
+• The week of April 11, 2021, had a weekly ridership of 2,300 and an ETA of
+approximately 16 minutes.
+• The week of June 20, 2021, had a weekly ridership of 2,100 and an ETA of
+approximately 26 minutes.
+• The week of August 15, 2021, had a weekly ridership of 1,800 and an ETA of
+approximately 31 minutes.
+Via worked with Avis to increase the number of RIDE vehicles from 13 to 19 in 
+the summer of 2021, though the issue of maintenance taking too long persisted.
+=== page 21 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+13
+SECTION  | 3 
+Anecdotally, Wilson reported sometimes having only 8 vehicles operational out 
+of the fleet of 19. 
+Via tried to address the maintenance issues with Avis, but as the problems 
+persisted even with an increased fleet size, Via looked to bring in a new 
+vehicle partner (Buggy) that they already worked with in other markets. On 
+September 22, 2021, Via introduced Buggy as their new vehicle partner. The new 
+partnership increased the fleet size from 19 to 27 vehicles. Buggy also provided 
+expanded access to local vehicle maintenance services that aimed to improve 
+turnaround times and increase the average weekly number of active vehicles 
+in the fleet. Almost immediately, ridership increased and ETAs decreased, as 
+shown in Table 3-1.
+At the end of 2021, RIDE’s total rides per quarter increased from approximately 
+28,000 in calendar year Quarter 3 to approximately 38,000 in calendar year 
+Quarter 4. The average ETA also decreased from 25 minutes in calendar year 
+Quarter 3 to 18 minutes in calendar year Quarter 4. 
+Engagement and Outreach 
+Via has conducted numerous engagement and outreach campaigns to learn 
+about rider and driver experiences with RIDE. 
+Rider Surveys
+Via conducted a rider survey between May 26 and June 10, 2021, that was 
+released through the Via app and had 69 responses (full results shown in 
+Appendix D). Of the survey respondents, 28% noted the desire to see decreased 
+wait times. The responses aligned with the timeframe of the third-party vehicle 
+partner issues that were observed and provided insight into long wait times 
+noted by riders.
+Via conducted another survey from November 21 to December 21, 2021, that 
+was released through the Via app and received 91 responses (full results shown 
+in Appendix E). The survey asked about riders’ demographic data and their 
+experience with RIDE. The goal of the survey was to learn more about the 
+Week of 
+9/26/21
+Week of 
+10/04/21
+Week of 
+10/11/21
+Week of 
+10/18/21
+Week of 
+10/25/21
+Requests
+3,629
+3,532
+3,547
+3,551
+3,867
+Rides
+2,248
+2,273
+2,585
+2,655
+3,060
+ETA (in minutes)
+27.5
+25.1
+19.1
+16.8
+11.8 
+Table 3-1  Change in Requests, Rides, and Average ETA after the Introduction of 
+Vehicle Partner Buggy

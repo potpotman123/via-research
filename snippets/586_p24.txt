@@ -1,0 +1,151 @@
+# source: raw/bleecker_drive/City of Largo/2323529.pdf
+# path: raw/bleecker_drive/City of Largo/2323529.pdf
+# hit page: 24 of 30
+# terms: Via+per hour
+
+=== page 23 ===
+#
+Description
+Response & Rating
+(Y=Fully supported,
+N=Not supported,
+3P= With Third Party,
+F=Future functionality)
+Ability to mount in vehicles on a fixed or temporary mount (access 
+will not interfere with driver and passenger safety)
+3.
+Customer Service
+User interface for customer service staff with time information, 
+including real-time customer pickups
+Ability to dispatch real-time staff initiated service requests/work 
+orders
+Ability to manage service requests/work orders
+Real-time data display
+Identification of individual users of the system
+Ability to search for an account by a variety of methodologies, etc.
+System interfaces with existing software
+4.
+Management
+Instant reporting capability
+Asset tracking and management
+Determine route times, driving time on routes
+Display the status of route
+Online account information
+Ability to put driver instructions on specific accounts
+Service request history
+System has a minimum of three levels of user profiles
+Ability to modify routes based on real-time conditions
+Drag and drop scheduling and resource management tools for 
+assignment of routes, drivers, and vehicles
+Ability to track various vehicle telemetry data (e.g., speed, 
+direction, idle time, arm movements, tips, g-force events)
+Capable of archiving and retrieving historical
+mapping, travel paths, and activity of vehicles
+Utilize geo-fencing, including monitoring location, establish arrival/
+departures, etc. within user-defined fences
+Work completion functionality with tracking management of field 
+exceptions
+23
+=== page 24 ===
+#
+Description
+Response & Rating
+(Y=Fully supported,
+N=Not supported,
+3P= With Third Party,
+F=Future functionality)
+Generate reports
+ Driver performance
+
+ Pickups per hour by type of service/driver/day
+
+ Reporting by commodity, including tonnage and set‐outs
+
+Search and report on all fields in database, including user-defined 
+fields, with ability to organize, summarize, sort, filter, and subtotal 
+in a variety of ways
+5.
+General Technology Features
+System navigation with “click” drill-down to transaction level detail 
+and across to other modules
+Data input supported by drop down menus, lists with configurable 
+selection options, or context-sensitive choices
+Unlimited notes or text fields
+Date-effective changes throughout the system
+Role-based, user configurable menus, screens, fields, and reports
+Ability to work on multiple open screens at one time from a single 
+sign-on
+Technology has two-way communication from base station to the 
+unit via voice/text
+6.
+Technology (Software)
+System is compatible with Microsoft 2016 and newer
+Fully web-enabled interface for all functionality
+System compatible Google Chrome, Microsoft Edge/Internet 
+Explorer and Mozilla Firefox
+Back-up system when internet is not available
+Ability for the mobile application to work offline (Cache data) when 
+internet connectivity is not available
+Full export functionality for individual files of video and single‐
+frame photography
+Capability to provide data exports as requested for archiving 
+purposes
+Ability to attach various file formats (PDF, DOCX, JPEG, TIFF, 
+PNG, XLSX) to work orders, invoices, and other application 
+modules
+24
+=== page 25 ===
+#
+Description
+Response & Rating
+(Y=Fully supported,
+N=Not supported,
+3P= With Third Party,
+F=Future functionality)
+Ability to support mobile technologies (e.g., VPN, synchronization),
+and various handheld devices (e.g., phones, tablets, etc.)
+Ability to work on Android, iOS, and Windows Mobile Devices
+7.
+Technology (Hardware)
+Provide GPS units
+Provide on-dash displays
+Collect GPS location data at least every 15 seconds
+8.
+Reports and Searches
+Search and report on all fields in the database, including user‐
+defined fields, with ability to organize, summarize, sort, and 
+subtotal in a variety of ways
+Search for an account by:
+ Name
+
+ Partial or full
+
+ Commercial or residential
+
+ Responsible billing party
+
+ Service address
+
+ Partial or full numbers or street names
+
+ Phone number
+
+ Utility Billing account number
+
+ Type of issue
+
+ On Comments fields
+
+ Other
+
+Save a query as a report to computer or to a library in the system
+Access reports through graphical dashboard display
+Executive dashboard tailored to each user
+Analytical reporting tool to analyze trends, etc.
+Monitor and report on user-defined Key Performance
+Indicators
+9.
+Additional Data Collection and Customization
+Customize reporting and technology features according to City 
+needs
+25

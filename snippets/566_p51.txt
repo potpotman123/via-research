@@ -1,0 +1,177 @@
+# source: raw/bleecker_drive/Doral/20_3828_2019_SFMTA_Board_Report.pdf
+# path: raw/bleecker_drive/Doral/20_3828_2019_SFMTA_Board_Report.pdf
+# hit page: 51 of 62
+# terms: Via+SaaS
+
+=== page 50 ===
+SFMTA P-648 (4-18) 
+A-1 
+ 
+CFP 
+ 
+n:\ptc\as2019\1000426\01354057.doc 
+ 
+ 
+Appendix A 
+Scope of Services  
+ 
+I.  
+SaaS Application and SaaS Services 
+II. 
+SaaS Data Centers 
+III. 
+SaaS Maintenance Services 
+IV. 
+City Responsibilities 
+V. 
+Technical Support & Training 
+ 
+I. 
+SaaS Application and SaaS Services: Contractor shall set up and provide for the term of 
+this Agreement the SaaS Application and SaaS Services, including the Remix Transit Planning 
+Software (i.e., SaaS Application) and all components, hardware, other Software, firmware, and 
+other equipment necessary to host and deliver the SaaS Application (i.e., SaaS Services) as 
+follows:   
+ 
+A. 
+Software:  The City’s use of Contractor’s Software (including the SaaS 
+Application) operating on hosted equipment located at Contractor’s facility and/or any Data 
+Center as further outlined under Section II (SaaS Data Centers) of this Appendix A.  This 
+includes the SaaS Application (i.e., Remix Transit Planning Software), the functionality for 
+which shall at minimum include: 
+1. Fast and accurate sketch planning using existing transit stop infrastructure; 
+2. Instant demographic impact analysis; 
+3. Instant cost estimates; 
+4. Unlimited exports (MS Excel, shapefile, KML, frequency-based GTFS, high-
+resolution image); 
+5. Unlimited custom data layers (polygon-based shape files); 
+6. Unlimited GTFS uploads; 
+7. Public engagement and share features; 
+8. Travel-time isochrone visualizations; 
+9. Title VI Engine (US) - generate a service equity analysis in less than 10 minutes; and 
+10. Consistent and regular product improvements and feature launches. 
+ 
+B. 
+Remote Software:  Contractor shall provide the City access to and use of a 
+remote software tool for the City’s management of Authorized Users, access rights, and other
+=== page 51 ===
+SFMTA P-648 (4-18) 
+A-2 
+ 
+CFP 
+ 
+n:\ptc\as2019\1000426\01354057.doc 
+similar role-based controls as they pertain to the SaaS Application and SaaS Services.  Method of 
+access will be published through Contractor portal and be made available to Authorized Users 
+with elevated privileges.  
+ 
+C. 
+Back-Up of City’s Data: 
+1. 
+Contractor shall provide up to 36 months of on-line hourly data retention 
+for operation and functionality of the SaaS Application.  
+ 
+2. 
+Contractor shall provide incremental backups of City Data to an off-site 
+location other than the primary hosting center. 
+ 
+3. 
+Contractor shall provide weekly, off-site backups with a duration that 
+matches the agreed-upon backup schedule and retention to a location other than the primary 
+hosting center. Off-site backups to include previous eight weeks.  
+ 
+E. 
+SaaS Environments:  The SaaS Application and SaaS Services shall be hosted in 
+a certified and secure Tier-3 data hosting center.   
+ 
+1. 
+Contractor shall make available as needed a single Back-up Environment 
+to serve as the back-up or “failover” environment for the SaaS Application and SaaS Services. 
+ 
+2. 
+Contractor shall use feature flags in a live environment to test all major 
+software revisions and upgrades with a controlled set of users referred to as the “Early Access 
+Group”.  This function shall be available to the City and Contractor for the evaluation and 
+eventual promotion of SaaS Application updates, patches, fixes, or otherwise deemed tests. The 
+live, test environment shall perform at 50% or better than the production environment. 
+ 
+F. 
+Reporting:  Contractor shall provide to the City electronic notification of any 
+significant incidents or breaches that occur within the live, test environment or to the SaaS 
+Application within one day of discovery, and in subsequent monthly reports.  In the event of a 
+breach, Contractor shall follow the procedures set forth in Section 13.1.5 of the Agreement.   
+G. 
+ Availability of SaaS Application:  Contractor (or its hosting services contractor) 
+shall host the SaaS Application on computers owned or controlled by the Contractor (or its 
+contractor) and shall provide the City with access to both a production environment with SaaS 
+Application and data and a test environment with SaaS Application via Internet-access to use 
+according to the terms herein. 
+1. 
+Hosted SaaS Application Uptime: Other than Scheduled SaaS 
+Maintenance as outlined in Section III, emergency maintenance described below, Force Majeure 
+as described in the Agreement, or lack of Internet availability as described below, Contractor 
+shall provide uptime to the SaaS Application and SaaS Services to achieve a service level 
+availability of no less than 99.9%. 
+2. 
+Scheduled SaaS Maintenance:
+=== page 52 ===
+SFMTA P-648 (4-18) 
+A-3 
+ 
+CFP 
+ 
+n:\ptc\as2019\1000426\01354057.doc 
+A. 
+Contractor shall conduct Scheduled SaaS Maintenance only during 
+the following hours: Saturdays between 12 AM (Pacific Time) and 8 AM (Pacific Time), with 
+the same exclusions noted in subsection 1, above.  
+ 
+B. 
+Scheduled SaaS Maintenance shall not exceed an average of four 
+hours per month over a 12-month period except for major scheduled upgrades.  
+ 
+3. 
+Unscheduled SaaS Maintenance:   
+A. 
+During any month, Contractor shall use commercially reasonable 
+efforts to prevent more than 60 minutes of aggregate downtime for unscheduled SaaS 
+maintenance of the SaaS Application and SaaS Services during regular business hours (6:00am 
+to 6:00pm US Pacific Time).  If Contractor fails to meet this requirement, Contractor shall credit 
+the City 5% of the Services Fee owing to Contractor that month for each 30 consecutive minutes, 
+or fraction thereof, of downtime.  No more than one credit shall accrue per day, and total credits 
+for any calendar month shall cap out at one week’s worth of Services Fees. Contractor shall only 
+apply a credit to the month in which the corresponding downtime occurs.  Credits for downtime 
+cannot be redeemed for cash. 
+ 
+B. 
+Downtime shall begin to accrue as soon as the City recognizes 
+downtime is taking place and shall continue until Contractor restores the availability of the SaaS 
+Application or SaaS Services.  In order to receive downtime credit, City must notify Contractor 
+in writing within 24 hours from the time of downtime, and failure to provide such notice will 
+forfeit the right to receive the credit for that occurrence of downtime.  
+ 
+C. 
+Contractor’s blocking of data communications or other Service in 
+accordance with its policies shall not be deemed to be a failure of Contractor to provide adequate 
+service levels under this Agreement.   
+ 
+4. 
+Emergency Maintenance: If Force Majeure Events or emergencies arise 
+or continue, Contractor shall be entitled to take any action Contractor, in good faith, determines 
+is necessary or advisable to prevent, remedy, mitigate, or otherwise address actual or potential 
+harm, interruption, loss, threat, security or like concern to any component of the SaaS 
+Application or SaaS Services. Such emergency maintenance may include, but is not limited to: 
+analysis, testing, repair, maintenance, re-setting and other servicing of the hardware, cabling, 
+networks, software and other devices, materials and systems through which access to and/or use 
+of the SaaS Application by City is made available.  Contractor shall endeavor to provide 
+advance written notice of such emergency maintenance to City as soon as is reasonably 
+possible. 
+5. 
+Notice of Unavailability: In the event there will be more than 30 minutes 
+downtime of any component of the SaaS Application or SaaS Services for any reason, 
+including, but not limited to, Scheduled SaaS Maintenance or emergency maintenance, 
+Contractor shall provide notice to users by posting a web page that indicates that the site is 
+temporarily unavailable and to please come back later.  Contractor shall also provide advanced 
+e-mail notice to Craig.Raphael@sfmta.com which will include at least a brief description of the 
+reason for the downtime and an estimate of the time when City can expect the site to be up and 
+available.

@@ -1,0 +1,108 @@
+# source: raw/bleecker_drive/Cupertino/21_9123_Staff_Report.pdf
+# path: raw/bleecker_drive/Cupertino/21_9123_Staff_Report.pdf
+# hit page: 3 of 4
+# terms: Via+per trip, Via+vehicles
+
+=== page 2 ===
+After the Santa Clara County Health Department issued a stay-at-home order on March 
+13, 2020, Via-Cupertino ridership decreased significantly. Despite the sudden drop in 
+ridership, some riders continued to use the service and the trip data suggested those trips 
+were to essential services such as grocery stores. A reduced service, with fewer vans and 
+shorter hours of operation was maintained through August 2020. After this time, and due 
+to increasingly restrictive health orders, very few trips were taken, and the program was 
+suspended. Per the terms of the suspension agreement, monthly payments of $3,125 were 
+made to Via during the suspension period for non-operation. These payments covered 
+non-operational and administrative program costs (vehicle holding fees, data fees, and 
+other ancillary costs). In exchange for these fees Via will allow the program to be restarted 
+without additional launch fees. 
+ 
+Contract Amendment  
+This contract amendment includes updated language regarding AB 5 and Proposition 22, 
+it extends the length of the contract, and increases driver compensation.  
+AB 5 is a law that became effective January 1, 2020 that requires that most wage-earning 
+workers be classified as employees, and not independent contractors. Proposition 22 was 
+approved by voters in November 2020 and grants an exception to app-based 
+Transportation Network Companies (TNC’s) from this provision. Via has confirmed that 
+its operations in Cupertino will qualify for the exemption, as operational, scheduling, and 
+technical changes have been made to comply with AB 5 and Proposition 22. Via has agreed 
+to indemnify the City from any potential liabilities regarding compliance with the 
+provisions of AB 5 and Proposition 22. Complying with AB 5 and Proposition 22 has led 
+to some cost increases, however less funds were expended during COVID due to the 
+suspended service and the previously allocated budget will cover these additional costs 
+through the remainder of the pilot program. 
+The amended contract will expire on October 31, 2022. Expiration on this date adds time 
+for when the service was suspended plus an additional two months. The purpose of the 
+added two months is to allow time for the preparation of a Request for Proposals (RFP) if 
+Council decides to make the program permanent.  
+Driver pay will be raised $3 per hour to be more competitive given the nationwide labor 
+shortage. All drivers are independent contractors. 
+ 
+Re-launch  
+Re-launch planning is currently underway, with marketing materials being prepared, 
+design work on the vehicle wrap (exterior graphics on the vans), and updates to the Via-
+Cupertino app. Upon execution of the contract amendment, vehicles will be ordered from 
+Avis (Via’s vehicle partner) and service is scheduled to resume on September 1, 2021.  
+The service will launch with eight vans to avoid previous capacity issues and long wait 
+times which occurred in February and early March 2020 due to the popularity of the 
+program. There is no additional cost to the City to launch with more vans, as Via only 
+schedules driver shifts based on demand. Previously, fewer vans were used at launch and 
+ordering additional vans proved to be a lengthy process.
+=== page 3 ===
+Rates & Hours of Operation 
+At launch the service will operate Monday to Friday, 7am – 7pm, and Saturday from 9am-
+5pm. Fares will be $4 per trip and $2 for discounted fares (senior, low-income, disabled, 
+and student). This is two hours per-day less than the original hours of operation. This 
+change will help offset rising labor costs and will better match changing travel patterns.  
+ 
+Vehicles 
+The vehicles used will no longer be Mercedes Metris, as many riders disliked the high 
+step into the vans. Instead, Dodge Caravans and Chrysler Pacificas will be used in the 
+service. The new vans will feature refreshed graphics. All vans except for the wheelchair 
+accessible vans will feature bike racks. Cyclists will be able to reserve a rack space using 
+the app.  
+ 
+Next Steps 
+The Via-Cupertino shuttle will operate until October 31, 2022. Staff will return to Council 
+by June 2022 to report on the progress of the pilot program. A community survey will be 
+conducted by this time to receive community feedback. With this information, staff 
+anticipates making a recommendation to Council to authorize an RFP process to solicit 
+bids for a permanent on-demand transit service by the end of summer 2022. Pending this 
+authorization and a successful RFP, a permanent shuttle program could be in place by 
+November 1, 2022. 
+ 
+Sustainability Impact 
+On-demand transit and shared rides have the potential to convert trips that would have 
+otherwise been made in single-occupancy vehicles. This has the potential to reduce local 
+congestion and Vehicle Miles Traveled (VMT) by offering shared rides anywhere in 
+Cupertino and by connecting to the Sunnyvale Caltrain station. These connections enable 
+more Cupertino residents and visitors to use the growing regional rail network. Reducing 
+VMT has a corresponding reduction in greenhouse gas (GHG,) and helps further goals 
+outlined in the City’s Climate Action Plan. Additionally, by including bicycle racks on 
+vans, the system helps cyclists by providing a backup during inclement weather, or when 
+making difficult connections where there are gaps in the bicycle network. 
+ 
+Fiscal Impact 
+No fiscal impact. Of the approved $1.75 million allocated to the Via-Cupertino shuttle, 
+$561,137.76 has been spent to date. Passenger fares are credited from each Via invoice, 
+which totals $20,270.52 to date.  
+ 
+The increase in driver pay will result in an estimated $163,346.20 increase in cost. The 
+remaining budget of $1,188,862.24 is sufficient to cover this increase and is expected to be 
+fully expended through the performance of the agreement by the end of the amended 
+contract date of October 31, 2022.
+=== page 4 ===
+The City was awarded a grant from the Bay Area Air Quality District’s (BAAQMD) Pilot 
+Trip Reduction Program, however as the grant is narrowly tied to Sunnyvale Caltrain 
+trips, with reduced commuting tied to the COVID-19 pandemic, it is unlikely to generate 
+significant revenue through the end of the pilot program. Transportation staff continues 
+to research alternative funding sources to support the program.   
+_____________________________________ 
+ 
+Prepared by: Chris Corrao, Senior Transit & Transportation Planner 
+Reviewed by: Roger Lee, Director of Public Works; David Stillman, Transportation 
+Manager 
+Approved for Submission by:  Dianne Thompson, Acting City Manager 
+Attachments:  
+ 
+A – Draft Contract Amendment 
+B – Ridership Heat Map

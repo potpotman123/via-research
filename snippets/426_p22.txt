@@ -1,0 +1,114 @@
+# source: raw/bleecker_drive/Utah Transit Authority/Tooele County/contracts-22-08-04.pdf
+# path: raw/bleecker_drive/Utah Transit Authority/Tooele County/contracts-22-08-04.pdf
+# hit page: 22 of 47
+# terms: Via+per hour
+
+=== page 21 ===
+**Actual fuel charges will be calculated on the monthly invoice.
+*** Contingency to be used at UTA's sole discretion.
+2. Dedicated Vehicles Operated with Authority-Provided Vehicles
+Dedicated vehicle service, utilizing vehicles provided by the Authority, shall be provided at a
+per vehicle hour rate. The hourly rates for dedicated vehicles service are as follows:
+Service Rate for On-
+Demand Micro transit
+Service
+Service Rate for Flex Route
+Service
+Year 1: August 1,2022 through December
+Year 2: January 1, 2023 through December
+Year 3: January 1, 2024 through December
+Year 4: January 1, 2025 through December
+31,2025
+Year 5: January 1, 2026 through December
+31,2026
+Year6: January 1, 2027 through December
+31,2027
+$58.93
+$58.93
+$61.88
+$64.97
+$52.48
+$55.10
+$68.22
+$71.63
+Page 20 of 46
+=== page 22 ===
+EXHIBIT A-1
+SERVICE STANDARDS AND PAYMENT ADJUSTMENTS
+1. SERVICE STANDARD ADJUSTMENTS
+Tooele County hereby agrees that pursuant to the Flex Route Services and Microtransit
+Agreement, Tooele County will keep detailed and complete records of the below-specified
+indicators of service performance. Tooele County shall organize by service type (by specific
+Flex Route) such records in a manner such that the records are readily available for the UTA's
+inspection, and Tooele County shall provide such records and any supporting documentation
+to UTA upon request.
+A. Tooele County's average vehicle productivity as calculated by revenue
+passengers per hour. Tooele County shall follow reasonable instructions and
+guidelines provided by UTA in the calculation of vehicle productivity. Toole
+County must complete required information in the Excel spreadsheet as provided
+by the 5th of each month for the prior month's ridership information.
+B. The percentage of the Tooele County's total scheduled trips which are on-time.
+For purposes of the Flex Route Agreement, on-time shall be defined as zero (O)
+minute before the published scheduled. For purposes of the Microtransit
+Agreement, on-time shall be defined as within five (5) minutes of the quote
+customer pick up time. Tooele County must synchronize their clock with UTA
+daily, and must have a verifiable clock to be used by each driver to insure a
+consistent measurement of time. The bus MDC/radio and Via Driver app will be
+considered "the verifiable clock" rather than individual watches which are not
+sufficient unless they are synchronized with the dispatch center.
+C. The number of customer complaints pertaining to Tooele County, as well as the
+number of customer complaints pertaining to Tooele County which, after
+investigation by UTA and/or Tooele County, are deemed to be valid.
+After the first year of Tooele County's service pursuant to the Flex Route Services and
+Microtransit Agreement, Tooele County and the UTA shall meet for the purpose of
+discussing Tooele County's service during the initial year and reviewing the results of the
+above-specified indicators of service performance. At thatmeeting, UTA and Tooele County
+shall mutually agree on Toole County's goals with respect to such standards during the
+following years for which the Agreement is in effect.
+2.
+LIQUIDATED DAMAGES
+The following procedure will be used by UTA in noticing and assessing liquidated damages
+in compliance with Toole County:
+Assessment Procedure
+UTA is committed to provide a value driven service to the riders we serve. In order to assure
+Page 21 of 46
+=== page 23 ===
+a high quality of service under this Agreement UTA and Tooele County must maintain a
+constant flow of information. To meet the requirement Tooele County agrees to submit
+liquidated damage performance measurement in summary information with their monthly
+invoice documents. Tooele County also agrees to include with the summary all supporting
+documentation for UTA's review. UTA will submit notification of the liquidated damage
+assessmentto Tooele County, wherein Tooele County has five (5) business days from receipt
+to respond back to the UTA
+A. UTA may assess liquidated damages for inadequate performance, such as failure
+to adhere to schedule and failure to address in-service failures adequately.
+Subsection 2B identifies several performance failures that UTA anticipates would
+give rise to the assessment of liquidated damages. Subsection 2B also sets out an
+anticipated amount of liquidated damages for each violation. The specific
+liquidated damages to be applicable to Tooele County's performance will be set
+B. UTA may, in its discretion, assess such damages on a monthly basis and deduct
+such amounts from the monthly payments due to Tooele County. UTA will
+provide Tooele County with prior notice of the liquidated damages to be assessed,
+and will consider documented information from Tooele County that outline any
+exceptions) to the assessment based on evidence that demonstrates
+circumstances beyond the control of Tooele County.
+The performance failures set forth below may result in an assessment of liquidated
+damages to Tooele County:
+(1) Refusal of a Trip. Tooele County agrees to accept all trip requests, and
+staff in accordance with daily demand.
+a) In the event Tooele County must turn back a trip UTA, Tooele
+County will be assessed liquidated damages in the amount of $25.00 per trip.
+(2) Confidentiality. UTA considers all information listed on the manifest or
+contained in the Trapeze system as confidential. Tooele County shall protect all
+written or electronic data. In the event that Tooele County uses any confidential
+information for the purpose other than set forth in this Agreement will be assessed
+liquidated damages in the amount of $1,000.00 per incident.
+(3) Data Collection or Service Performance Monitoring. In order to capture
+all of the information needed to monitor service performance the Operators should
+then record the actual arrival at the origins and the drop-off times at the
+destinations, and fare payment. Cancellations and no-shows should be recorded both
+by the operators and the dispatchers and recorded on the final operator manifests.
+Tooele County is expected to update no show information into Trapeze and the
+Radio Log immediately, with all other information updated within 7 days from the
+date of service. At the sole discretion of UTA,
+Page 22 of 46

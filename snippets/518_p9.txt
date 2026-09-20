@@ -1,0 +1,109 @@
+# source: raw/bleecker_drive/North Carolina/dot_68241_DS1.pdf
+# path: raw/bleecker_drive/North Carolina/dot_68241_DS1.pdf
+# hit page: 9 of 113
+# terms: Via Transportation
+
+=== page 8 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+viii
+Acknowledgments
+The North Carolina Department of Transportation (NCDOT) would like to 
+acknowledge the partnership with the City of Wilson, North Carolina, and Via 
+Transportation, Inc., that helped make the RIDE service successful. Wilson’s 
+willingness to try new and innovative approaches has transformed public transit 
+for Wilson’s citizens, providing increased opportunities to access jobs, healthcare, 
+and other services. NCDOT would also like to thank the guidance and support the 
+Federal Transit Administration has provided throughout the project.
+Abstract
+On September 1, 2020, the City of Wilson, North Carolina, with support from the 
+North Carolina Department of Transportation (NCDOT) through an Accelerating 
+Innovative Mobility (AIM) FY20 award, replaced its existing fixed route transit 
+system with an on-demand microtransit service called RIDE. Wilson partnered 
+with mobility solutions provider Via Transportation, Inc., to be the city’s 
+microtransit provider and expand service coverage and reduce wait times for 
+public transportation riders. The project sought to increase access to jobs, 
+healthcare, and other services in a rural area by expanding RIDE’s weekday 
+hours of operation to 5:30 a.m. to 7:00 p.m., from the original 7:00 a.m. to 6:00 
+p.m. service hours. This report summarizes the development, evolution, and
+evaluation of the project, highlighting the implementation of expanded service
+hours along with the project outcomes and lessons learned.
+=== page 9 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+1
+Executive Summary
+The North Carolina Department of Transportation received a Federal Transit 
+Administration (FTA) Accelerating Innovative Mobility (AIM) award to coordinate 
+with the City of Wilson, North Carolina, and Via Transportation, Inc. (Via), to 
+increase access to jobs, healthcare, and other services in a rural area through 
+the city’s RIDE service. RIDE was 1 of more than 20 projects funded by FTA’s AIM 
+Demonstration Program. The AIM funding expanded RIDE weekday hours of 
+operations to 5:30 a.m. to 7:00 p.m., from the original 7:00 a.m. to 6:00 p.m. This 
+report discusses how the project developed and was implemented, along with 
+project outcomes and lessons learned.
+Background
+The City of Wilson is located in eastern North Carolina about an hour from the 
+state capital of Raleigh. Wilson has a population of just under 50,000 residents 
+and is considered rural by census definition. Like many rural areas, Wilson faces 
+numerous public transportation challenges, including lack of first/last mile 
+service, low population density, infrequent service, unique trip routing, and 
+budget constraints.
+In September 2020, Wilson, in coordination with the North Carolina Department 
+of Transportation (NCDOT), awarded a contract to Via Transportation, Inc. (Via), 
+to be the third-party microtransit provider for the replacement of Wilson’s 
+existing fixed route transit system. This new partnership resulted in the launch 
+of the RIDE service, which would greatly improve service coverage and reduce 
+wait times for public transit riders. 
+Results
+RIDE has been successful since its launch, experiencing continued growth even 
+after two years in service and having higher ridership than the previous fixed 
+route service. Performance during the demonstration was the same level of 
+performance seen throughout the life of the project. During the demonstration, 
+RIDE showed an increase in monthly completed rides from 9,000 rides (March 
+2021) to 14,200 rides (February 2022), an increase of 58%. In addition, RIDE was 
+meeting 94% of demand in March 2021, which rose to meeting 99% of demand 
+in February 2022. The percentage of met demand is the number of ride requests 
+(in passengers) that receive a trip proposal in the rider app divided by the total 
+number of ride requests made (in passengers). For example, if 25 riders made 
+requests for 30 total passengers, of which 29 passengers received a proposal, 
+the met demand would be 96.7% (29/30).
+In addition to high ridership levels, rider surveys throughout the demonstration 
+highlighted the benefits to riders from the service. The overall response was
+=== page 10 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+2
+EXECUTIVE SUMMARY
+very positive, with riders noting the ability to access work and healthcare more 
+easily, as well as an easier time accessing public transit.
+Evolution
+Over the course of the demonstration, RIDE began experiencing issues with the 
+length of time it was taking to perform vehicle maintenance, resulting in fewer 
+vehicles in service and increased vehicle downtime. Fewer vehicles in service 
+also increased Estimated Time of Arrival (ETA), decreased quality of service, 
+and decreased ridership. As a result of the length of time it was taking to service 
+vehicles, RIDE introduced a new vehicle provider (Buggy) that expanded access 
+to local vehicle maintenance services, improved vehicle turnaround times, and 
+increased the average weekly number of active vehicles in the fleet. With the 
+addition of Buggy, RIDE service increased from 13 to 27 vehicles. 
+Via also had numerous engagement and outreach campaigns to learn about 
+rider experience with RIDE during the demonstration. Engagement included:
+• Two rider surveys to learn more about the preferences of key rider
+segments and continue to improve the tailoring of the RIDE service.
+• A churned rider campaign to contact riders who have been recently
+inactive.
+• A driver promotion that increased pay rates to incentivize drivers to claim
+shifts that previously had a low driver supply.
+Since the completion of the demonstration, Wilson renewed the contract 
+in September 2022 to continue the service with Via, along with keeping the 
+expanded hours funded by AIM permanently in place. 
+Evaluation
+An independent evaluation was conducted by FTA’s independent evaluation 
+team. The team’s research questions and interviews were intended to measure 
+whether program goals and objectives were met. Results of this evaluation will 
+be published in a separate report.
+During the demonstration, the 5:30–7:00 a.m. weekday expanded hours had 
+10,341 completed rides and the 6:00–7:00 p.m. weekday expanded hours had 
+4,347 completed rides, with a combined total of 14,688 completed rides. The 
+expanded hours represented 11% of all the rides taken (131,057) during the 
+one-year demonstration. Rider feedback highlighted a positive response to 
+the expanded service hours with riders noting the ability to access work and 
+healthcare more easily as well as an easier time accessing public transit.

@@ -1,0 +1,147 @@
+# source: raw/bleecker_drive/City of Norman/ITEM-Attachment-002-2542bb0cc3e74375b8d315929255b362.pdf
+# path: raw/bleecker_drive/City of Norman/ITEM-Attachment-002-2542bb0cc3e74375b8d315929255b362.pdf
+# hit page: 1 of 3
+# terms: River North Transit, Via Transportation, Via+not to exceed, Via+not-to-exceed
+
+=== page 1 ===
+City of Norman 
+K-2223-164 Amend. #4 
+Page 1 of 3 
+ 
+AMENDMENT # 4 TO AGREEMENT FOR  MICROTRANSIT SERVICES 
+River North Transit, LLC (“Consultant”), a wholly owned subsidiary of Via Transportation, Inc. 
+(“Via”) and the City of Norman, a municipal corporation (“Customer” and, together with Via, the 
+“Parties”) have entered into that certain agreement titled AGREEMENT FOR MICROTRANSIT 
+SERVICES dated June 27, 2023 and modified by Amendment #1 dated August 8, 2023, 
+Amendment #2 dated April 23, 2024, and Amendment #3 dated July 9, 2024 (together, the 
+“Agreement”). Upon execution of this Amendment #4 (the “Amendment”), the Parties agree to 
+modify the Agreement as follows: 
+I. 
+Amendment. “Section 12. Term of Agreement” of the Agreement is modified to read 
+as follows: 
+This Agreement shall be signed on June 27, 2023. Microtransit service shall 
+commence beginning August 21, 2023 and conclude after June 30, 2026, contingent 
+on funds being available each fiscal year. 
+II. 
+Amendment. Subsection a of Section 14 (“Compensation”) of the Agreement is 
+modified to read as follows: 
+ 
+a. 
+City agrees to pay Consultant in an amount not to exceed $2,243,470.00, 
+subject to future appropriation, for services outlined in Exhibit A. 
+ 
+III. 
+Amendment. Subsection a of Section 39 (“Notices”) of the Agreement is modified 
+to read as follows: 
+a. 
+Any notices to Consultant may be delivered personally or by mail addressed to  
+River North Transit, LLC, 114 5th Avenue, Floor 17, New York, NY 10011,  
+Attention: Michael Vaccarino, Manager. 
+ 
+IV. 
+Amendment. The first paragraph of Section 2 (“Duration & Launch Date”) of Exhibit 
+A of the Agreement is modified to read as follows: 
+The duration of the Pilot shall conclude after June 30, 2026 (the “Initial Term”), 
+subject to extension by mutual agreement of the parties on terms to be agreed 
+(including any increase in monthly fees for additional months).  
+V. 
+Amendment. The last sentence of the first paragraph of Section 3 (“Fees”) of 
+Exhibit A of the Agreement is modified to read as follows: 
+ 
+ 
+The total contract value shall not exceed $2,243,470.00 for the Initial 
+ 
+Term.
+=== page 2 ===
+City of Norman 
+K-2223-164 Amend. #4 
+Page 2 of 3 
+ 
+VI. 
+Amendment. Section 3 (“Fees”) of Exhibit A of the Agreement is modified by 
+replacing the first table therein with the following table: 
+ 
+Norman, OK: Via Total Not-to-Exceed Contract Value 
+Price per 
+Driver 
+Hour 
+Total Price 
+(Original 24-Month 
+Contract) 
+Total Price (10-
+Month + 10 Days 
+Extension) 
+Total Price 
+Fixed (Upfront Costs) 
+N/A 
+$83,078 
+$0 
+$83,078 
+Additional Wrapped WAV 
+N/A 
+$16,370 
+0 
+$16,370 
+Total Upfront Cost 
+$99,448 
+$0 
+$99,448 
+Project Management & Other 
+Operations* 
+$32.83 
+$502,693 
+$239,564 
+$742,257 
+Driver Pay (Incl. WAV) 
+$56.11 
+$859,156 
+$409,441 
+$1,268,597 
+Customer Service 
+$5.89 
+$90,188 
+$42,980 
+$133,168 
+Total Cost per Driver Hour 
+$94.83 
+$1,452,037 
+$691,985 
+$2,144,022 
+Total Not-to-Exceed Cost to 
+Norman, OK 
+$1,551,485 
+$691,985 
+$2,243,470 
+Note: Pricing excludes all taxes and assumes service hours of August 21, 2023 to May 11, 2024, and 
+August 19, 2024 to May 10, 2025 - 7:00 PM to 1:00 AM on Monday through Wednesday; 7:00 PM to 
+3:00 AM on Thursday through Saturday; 10:00 AM to 6:00 PM on Sundays. All other days during the 
+term of the Agreement 7:00 PM to 1:00 AM on Monday through Saturday; 10:00 AM to 6:00 PM on 
+Sundays. 
+● Includes IT hosting, technology access, operations support, and other miscellaneous costs. 
+Driver Hours Summary: 
+Total Implied Driver Hours 
+15,312 
+7,297 
+22,609 
+Total Implied Driver Hours 
+(Weekly) August 21, 2023 - 
+April 30, 2024 
+137 
+Total Implied Driver Hours 
+(Weekly) May 1, 2024 - August 
+20, 2025 
+152 
+Total Implied Driver Hours 
+(Weekly) 
+163 
+152 
+Service Hours Summary: 
+Total Implied Service Hours 
+5,056 
+2,199 
+7,255 
+Total Implied Service Hours 
+(Weekly) 
+49 
+49 
+49

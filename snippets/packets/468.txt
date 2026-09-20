@@ -1,0 +1,630 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Metro Micro (LA)/2024_0989_Attachment_C_-_Procurement_Summary.pdf
+# pages_total: 8; hit_pages: [1, 2, 3, 4, 5, 6, 7]; included: [2, 3, 5, 6, 7]
+# context: Bleecker Drive folder: Metro Micro (LA)
+
+=== page 2 of 8 ===
+No. 1.0.10 
+Revised 08/16/2023 
+ 
+Policy, updated Exhibit 2, Schedule of Quantities and Prices for the North and the 
+South regions, revised the Exhibit A, Scope of Services, and updated Exhibit H, 
+Liquidated Damages  
+ 
+A hybrid pre-proposal conference was held on May 1, 2024.  There were three in-person 
+participants and 20 virtual participants for a total of 23 participants representing a total of 10 
+firms.  There were 112 questions received, and responses were provided prior to the proposal 
+due date. 
+ 
+A total of 98 firms downloaded the RFP and were included on the planholders list.  
+ 
+The following proposals were received on June 17, 2024, and are listed below in alphabetical 
+order by region. 
+ 
+North Region: 
+1. MV Transportation, Inc. 
+2. Nomad Transit, LLC, a wholly owned subsidiary of Via Transportation, Inc. 
+3. Southland Transit, Inc. 
+ 
+South Region: 
+1. MV Transportation, Inc. 
+2. Nomad Transit, LLC, a wholly owned subsidiary of Via Transportation, Inc. 
+3. Circuit Transit Inc. 
+ 
+Alternate (North and South Region Combined): 
+1. MV Transportation, Inc.  
+ 
+B.  Evaluation of Proposals 
+ 
+A Proposal Evaluation Team (PET) consisting of staff from Metro’s MicroTransit Operations, 
+Maintenance, and Bus Operations groups was convened and conducted a comprehensive 
+technical evaluation of the proposals received.   
+ 
+On June 18, 2024, the PET met to discuss the evaluation process, confidentiality requirements, 
+review information regarding conflicts of interest and receive the evaluation documents.   
+ 
+The RFP required that all proposals would be evaluated first on the minimum qualifications on 
+a pass/fail basis. Any proposer that received a single rating of “fail” for any of the minimum 
+qualifications would be eliminated from further consideration. The minimum qualifications were 
+as follows:  
+ 
+1. Proposer shall have experience on at least three projects providing on-demand rideshare 
+microtransit services, or commercial transit services. At least one of the projects must be for 
+a transit agency with on-demand rideshare or microtransit services. 
+2. Proposer shall demonstrate that they have at least three years of experience leading an on-
+demand microtransit project of similar scope utilizing software platform technology. 
+3. Proposer was the lead on the successful implementation of an on-demand rideshare 
+program that is similar in scope within the last five years.
+
+=== page 3 of 8 ===
+No. 1.0.10 
+Revised 08/16/2023 
+ 
+All proposals met the minimum qualification requirements and were further evaluated 
+according to the following evaluation criteria: 
+ 
+• 
+Experience and Qualifications of Proposed Team, Organization,  
+and Past Performance 
+ 
+ 
+ 
+ 
+ 
+ 
+    20 percent 
+• 
+Experience and Qualification of Proposed Key Personnel 
+ 
+    15 percent 
+• 
+Approach to Work and Implementation of the Services  
+     
+    31 percent 
+• 
+Contractor’s Facility 
+ 
+ 
+ 
+ 
+ 
+                10 percent 
+• 
+Contracting Outreach and Mentoring Plan  
+ 
+ 
+ 
+      4 percent 
+• 
+Price Proposal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    20 percent 
+ 
+The evaluation criteria are appropriate and consistent with criteria developed for other, similar 
+operations procurements.  Several factors were considered when developing these weights, 
+giving the greatest importance to the approach to work and implementation of the services. 
+ 
+During the week of July 22, 2024, the evaluation committee conducted virtual interviews with 
+the firms.  The firms’ key personnel had an opportunity to present each team’s qualifications 
+and respond to the evaluation committee’s questions.  In general, each team’s presentation 
+addressed each firm’s technical proposal with a focus on the day-to-day operations and how 
+the Proposer planned to manage the program.  Each team was asked questions regarding key 
+operations roles, driver schedules, flexibility to adjust schedules, and resolution of unexpected 
+challenges. 
+ 
+On August 9, 2024, DEOD notified Circuit Transit and Nomad Transit, LLC that they were 
+determined to be non-responsive for failure to meet the 20% DBE goal, and failure to 
+demonstrate adequate Good Faith Efforts (GFE).  Under Metro Administrative Code, proposers 
+that fail GFE evaluations are afforded the opportunity of an administrative reconsideration 
+conducted by Metro’s Ethics Department.  Both Circuit Transit and Nomad Transit, LLC 
+requested Reconsideration Hearings and the hearings were held on August 21, 2024, and 
+August 26, 2024, respectively. 
+ 
+During their hearings, both Circuit Transit and Nomad Transit, LLC presented evidence to 
+support their position that adequate GFE had been made. Evidence submitted in support of 
+adequate GFE is governed by specific criteria and a process which does not consider, for 
+example, an individual proposer’s previously achieved goal (i.e., whether they achieved 1% or 
+19%) or a proposer’s cost estimate. Metro’s Reconsideration Officer (RO) reviewed the 
+requirements of each category, DEOD’s initial evaluation, and all forms and evidence 
+submitted by the Proposers.  
+ 
+On September 5, 2024, Metro’s RO issued the Reconsideration Hearing Opinions for both 
+Proposers.   
+ 
+In the case of Circuit Transit, the RO determined that Circuit Transit did not demonstrate 
+sufficient GFE and as such on September 13, 2024, they were notified that they were 
+determined to be non-responsive for failing to meet the DBE goal and not demonstrating that 
+they made sufficient GFE.   Circuit Transit was therefore eliminated from further consideration.  
+ 
+In the case of Nomad Transit, LLC, the RO determined that Nomad demonstrated GFE and 
+was deemed to have passed GFE.
+
+=== page 5 of 8 ===
+No. 1.0.10 
+Revised 08/16/2023 
+ 
+ 
+At the conclusion of the evaluation process, Via’s North and South proposals were determined 
+to be the top ranked proposals for the North and South Regions. 
+ 
+The following is a summary of the PET scores. 
+ 
+North Region 
+ 
+1 
+Firm 
+Average 
+Score 
+Factor 
+Weight 
+Weighted 
+Average 
+Score 
+Rank 
+2 
+Nomad Transit, LLC (Via) - North Region 
+  
+  
+  
+  
+3 
+Experience and Qualifications of Proposed 
+Team, Organization, and Past Performance 
+84.50 
+20.00% 
+16.90 
+  
+4 
+Experience and Qualification of Proposed Key 
+Personnel 
+80.33 
+15.00% 
+12.05 
+  
+5 
+Approach to Work and Implementation of the 
+Services 
+77.21 
+31.00% 
+23.94 
+  
+6 
+Contractor’s Facility 
+91.60 
+10.00% 
+9.16 
+  
+7 
+Contracting Outreach and Mentoring Plan  
+25.00 
+4.00% 
+1.00 
+  
+8 
+Price 
+100.00 
+20.00% 
+20.00 
+  
+9 
+Total 
+  
+100.00% 
+83.05 
+1 
+10 
+MV Transportation, Inc. - North Region 
+  
+  
+  
+  
+11 
+Experience and Qualifications of Proposed 
+Team, Organization, and Past Performance 
+85.70 
+20.00% 
+17.14 
+  
+12 
+Experience and Qualification of Proposed Key 
+Personnel 
+90.53 
+15.00% 
+13.58 
+  
+13 
+Approach to Work and Implementation of the 
+Services 
+84.21 
+31.00% 
+26.11 
+  
+14 
+Contractor’s Facility 
+90.40 
+10.00% 
+9.04 
+  
+15 
+Contracting Outreach and Mentoring Plan  
+100.00 
+4.00% 
+4.00 
+  
+16 
+Price 
+57.25 
+20.00% 
+11.45 
+  
+17 
+Total 
+  
+100.00% 
+81.32 
+2 
+18 
+MV Transportation, Inc. - Alternate  
+(North and South Region Combined) 
+  
+  
+  
+  
+19 
+Experience and Qualifications of Proposed 
+Team, Organization, and Past Performance 
+85.60 
+20.00% 
+17.12 
+  
+20 
+Experience and Qualification of Proposed Key 
+Personnel 
+85.73 
+15.00% 
+12.86 
+  
+21 
+Approach to Work and Implementation of the 
+Services 
+85.95 
+31.00% 
+26.64 
+  
+22 
+Contractor’s Facility 
+91.20 
+10.00% 
+9.12 
+  
+23 
+Contracting Outreach and Mentoring Plan  
+100.00 
+4.00% 
+4.00 
+  
+24 
+Price 
+53.85 
+20.00% 
+10.77 
+  
+25 
+Total 
+  
+100.00% 
+80.51 
+3
+
+=== page 6 of 8 ===
+No. 1.0.10 
+Revised 08/16/2023 
+ 
+26 
+Southland Transit, Inc. - North Region 
+  
+  
+  
+  
+27 
+Experience and Qualifications of Proposed 
+Team, Organization, and Past Performance 
+88.80 
+20.00% 
+17.76 
+  
+28 
+Experience and Qualification of Proposed Key 
+Personnel 
+79.33 
+15.00% 
+11.90 
+  
+29 
+Approach to Work and Implementation of the 
+Services 
+82.56 
+31.00% 
+25.59 
+  
+30 
+Contractor’s Facility 
+95.60 
+10.00% 
+9.56 
+  
+31 
+Contracting Outreach and Mentoring Plan  
+50.00 
+4.00% 
+2.00 
+  
+32 
+Price 
+67.50 
+20.00% 
+13.50 
+  
+33 
+Total 
+  
+100.00% 
+80.31 
+4 
+ 
+South Region 
+ 
+1 
+Firm 
+Average 
+Score 
+Factor 
+Weight 
+Weighted 
+Average 
+Score 
+Rank 
+2 
+Nomad Transit, LLC (Via) - South Region 
+  
+  
+  
+  
+3 
+Experience and Qualifications of Proposed 
+Team, Organization, and Past Performance 
+83.90 
+20.00% 
+16.78 
+  
+4 
+Experience and Qualification of Proposed Key 
+Personnel 
+80.33 
+15.00% 
+12.05 
+  
+5 
+Approach to Work and Implementation of the 
+Services 
+77.63 
+31.00% 
+24.07 
+  
+6 
+Contractor’s Facility 
+92.40 
+10.00% 
+9.24 
+  
+7 
+Contracting Outreach and Mentoring Plan  
+25.00 
+4.00% 
+1.00 
+  
+8 
+Price 
+100.00 
+20.00% 
+20.00 
+  
+9 
+Total 
+  
+100.00% 
+83.14 
+1 
+10 
+MV Transportation, Inc. - Alternate  
+(North and South Region Combined) 
+  
+  
+  
+  
+11 
+Experience and Qualifications of Proposed 
+Team, Organization, and Past Performance 
+85.60 
+20.00% 
+17.12 
+  
+12 
+Experience and Qualification of Proposed Key 
+Personnel 
+85.73 
+15.00% 
+12.86 
+  
+13 
+Approach to Work and Implementation of the 
+Services 
+85.95 
+31.00% 
+26.64 
+  
+14 
+Contractor’s Facility 
+91.20 
+10.00% 
+9.12 
+  
+15 
+Contracting Outreach and Mentoring Plan  
+100.00 
+4.00% 
+4.00 
+  
+16 
+Price 
+53.85 
+20.00% 
+10.77 
+  
+17 
+Total 
+  
+100.00% 
+80.51 
+2 
+18 
+MV Transportation Inc. - South Region 
+  
+  
+  
+  
+19 
+Experience and Qualifications of Proposed 
+Team, Organization, and Past Performance 
+86.10 
+20.00% 
+17.22 
+  
+20 
+Experience and Qualification of Proposed Key 
+Personnel 
+89.87 
+15.00% 
+13.48 
+  
+21 
+Approach to Work and Implementation of the 
+Services 
+87.11 
+31.00% 
+27.00 
+  
+22 
+Contractor’s Facility 
+86.80 
+10.00% 
+8.68
+
+=== page 7 of 8 ===
+No. 1.0.10 
+Revised 08/16/2023 
+ 
+23 
+Contracting Outreach and Mentoring Plan  
+100.00 
+4.00% 
+4.00 
+  
+24 
+Price 
+48.95 
+20.00% 
+9.79 
+  
+25 
+Total 
+  
+100.00% 
+80.17 
+3 
+ 
+C.  Price Analysis  
+The recommended Not-to-Exceed (NTE) amounts for the North and South Regions have been 
+determined to be fair and reasonable based upon adequate price competition, discussions, 
+negotiations, Best and Final Offers, and Metro’s Independent Cost Estimate (ICE). 
+ 
+North Region 
+ 
+Proposer Name 
+Proposal 
+Amounts 
+Metro ICE 
+Best and Final 
+Offers 
+1. 
+Nomad Transit, LLC 
+(Via)(North) 
+$95,931,413.77 
+$104,597,315.96 
+$92,066,033.83 
+2. 
+MV Transportation (North) 
+$144,162,951.63 
+$104,597,315.96 
+$141,758,111.80 
+3. 
+MV Transportation (Alternate) 
+$226,402,097.26 
+$104,597,315.96 
+$220,050,334.79 
+4. 
+Southland Transit 
+$128,934,706.50 
+$104,597,315.96 
+$112,596,202.34 
+ 
+ 
+ South Region 
+ 
+Proposer Name 
+Proposal 
+Amount 
+Metro ICE 
+Best and Final 
+Offers 
+1. 
+Nomad Transit, LLC (Via)(South) 
+$44,754,255.57 
+$47,482,772.14 
+$42,953,484.45 
+2. 
+MV Transportation (Alternate) 
+$226,402,097.26 
+$47,482,772.14 
+$220,050,334.79 
+3. 
+MV Transportation (South) 
+$88,360,335.37 
+$47,482,772.14 
+$82,911,703.10 
+ 
+The recommended NTE amount of $92,066,033,83 proposed by Nomad Transit, LLC for the 
+North Region is $49,692,077.97 less than MV Transportation’s North Region proposal, and 
+$20,530,168.51 less than Southland Transit’s North Region proposal. 
+ 
+The recommended NTE amount of $42,953,484.45 proposed by Nomad Transit, LLC for the 
+South Regions is also $39,958,218.66 less than MV Transportation’s South Region proposal. 
+ 
+Nomad Transit, LLC’s combined total proposal amount for the North and South Regions of 
+$135,019,518.27 is $85,030,816.52 less than MV Transportation’s Alternate Proposal 
+combining the two regions.  While the Alternate Proposal submitted by MV Transportation did 
+provide an overall reduction of $4,619,480.11 from their individual Region proposals, it is 63% 
+higher than Nomad Transit, LLC’s proposal and 45% higher than Metro’s combined ICE of 
+$152,080,088.10.   
+  
+ 
+D.  Background on Recommended Contractor 
+ 
+The recommended firm, Nomad Transit, LLC, a wholly owned subsidiary of Via Transportation, 
+Inc., is headquartered in New York, NY and has been in business for 12 years.  As a leader in

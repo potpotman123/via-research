@@ -1,0 +1,60 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/State of Vermont/Contracts for Services - Bid Results and Awards _ Agency of Transportation.pdf
+# pages_total: 25; hit_pages: [10]; included: [10]
+# context: Bleecker Drive folder: State of Vermont
+
+=== page 10 of 25 ===
+Contracts for Services
+Contractor
+Award Amount
+Award
+Date
+Multimodal Guidance
+Development Services
+2023
+Vanasse Hangen Brustlin,
+Inc.
+$1,000,000.00
+09/11/2023
+Public Transit Consultant
+Services 2023
+AECOM Technical Services,
+Inc.
+Steadman Hill Consulting,
+Inc.
+RLS & Associates, Inc.
+Cambridge Systematics,
+Inc.
+Via Mobility LLC
+Via 
+$975,000.00
+$499,000.00
+$975,000.00
+$975,000.00
+$99,000.00
+12/06/2022
+Materials Testing and
+Fabrication Inspection
+Services 2023
+John Turner Consulting,
+Inc.
+HRV Conformance
+Verification Associates, Inc.
+TRC Engineers Inc.
+Pennoni Associates, Inc. 
+Advance Testing Company,
+Inc. 
+WSP USA Inc.
+$10,000,000.00
+Each Contract
+03/24/2023
+VTTC Leadership Training
+Services 2023
+ 
+ 
+NO AWARD
+Vehicle, Equipment and
+Trailer Bodywork Services
+ 
+ 
+NO AWARD

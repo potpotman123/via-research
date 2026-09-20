@@ -1,0 +1,65 @@
+# source: https://legistar1.granicus.com/StPaul/attachments/287ff15c-48e3-4ddb-83eb-9518cf2b294f.pdf
+# path: raw/cache/086bbe529500a4d87d15d53b5a9304cf1fb75904.pdf
+# hit page: 3 of 3
+# terms: Downtowner
+
+=== page 2 ===
+IN SOMeS!
+side walk
+sPeaker
+Ds table
+Downtowner Parks Lot
+Downtowner woodfire
+=== page 3 ===
+FANT
+CITY OF SAINT PAUL
+DSI RECEIPT
+Date: 01/24/2018
+Received From: DOWNTOWNER WOODFIRE GRILL
+253 7TH ST W ST PAUL MN 55102
+Description:
+Invoice Details
+1015548
+Noise Variance
+TOTAL AMOUNT PAID:
+Invoice Amount
+$172.00
+Amount Paid
+$172.00
+$172.00
+Paid By:
+Payment Type
+Credit Card
+Check #
+VISA 3875
+Received Date
+01/24/2018
+Amount
+$172.00
+DSI
+375 JACKSON ST
+STE 228
+SAINT PAUL. 266. 915101-1806
+Sale
+xxxxx3875
+VISA
+Amount: $
+Tax:
+$
+Total: $
+01/24/18-
+Inv #: 090886883
+Apprud: Chline
+Visa Credit.
+AID: A888888831018
+TVR: 80 80 08 80 08
+TSI: 68 08
+Entry Method: Chip
+172.00
+0.00
+172.00
+10:20:30
+Appr Code: 014282
+Customer Copy
+THANK YOU!
+Page 1 of 1

@@ -1,0 +1,175 @@
+# source: raw/bleecker_drive/Miami Dade/231379.pdf
+# path: raw/bleecker_drive/Miami Dade/231379.pdf
+# hit page: 5 of 13
+# terms: River North Transit
+
+=== page 4 ===
+Honorable Chairman Oliver G. Gilbert, III 
+and Members, Board of County Commissioners 
+Page 4 
+4) $27,000 for the costs of integrating the GO Connect program into the third-party trip planning
+tool, Transit App, on behalf of the County.
+This turnkey project has allowed the County to evaluate the new service delivery model. Since the 
+community is now familiar with the model, it is believed that it will also support and accept the autonomous 
+vehicle implementation in zones where GO Connect is already operating. The GO Connect service will be 
+expanded to new zones across the County. Preliminary areas include the northwestern and southern parts 
+of the County where transit gaps or low transit frequency are anticipated after the implementation of the 
+BBN and South Dade BRT. GO Connect will complement the bus network system, facilitating access and 
+connection to transit corridors. The designated purchase provides contract capacity to accommodate new 
+service zones within municipalities and the unincorporated municipal service area and accessible service 
+at Metromover and Metrorail stations during elevator and escalator outages. 
+Competition for the scope of services is not practicable at this time since the County has a turnkey project 
+contract with River North Transit, LLC which has been successfully operating GO Connect in four County 
+zones, increasing service ridership by more than 60% in the past year. In essence, on-demand transit 
+solutions have been built to maximize the efficiency of how a dedicated fleet of vehicles is dispatched to 
+provide a service within a designated area.  Due to the nature of the service, applications are proprietary 
+and not compatible with others. This is currently the standard in the industry.  A competitive bidding 
+process for the option term would result in significant service disruption if a new vendor were to be awarded 
+given the time needed to phase in and acclimate any new provider.  Moreover, a contractual process with 
+another vendor would be cost prohibitive for that term. Continuing services with current vendor will save 
+the County costs associated with: 
+•
+Vehicle Sourcing: GO Connect program operates with a fleet of 19 minivans and plans to acquire
+an additional 20 to 24 minivans (including wheelchair accessible vehicles) needed to meet demand
+and expand the service across the County. The fleet is managed by River North Transit, who
+ensures the vehicles are wrapped and the necessary equipment is installed.
+•
+Driver Recruitment & Onboarding: GO Connect has recruited a pool of 60 drivers needed to
+operate the current service and is well placed to support the planned expansion with additional
+drivers. Over the course of the contract, River North Transit has developed this pool of drivers into
+a strong community of advocates for the GO Connect service through significant training and
+engagement efforts. Recruiting, training and maintaining an entirely new pool of drivers would be
+expensive and negatively impact the experience of riders who have come to rely on GO Connect
+drivers as knowledgeable transit advocates for Miami-Dade County.
+•
+Service Operations: Existing service zones (4) have been mapped and geo-fenced. Points of
+interest and pickup/drop off locations have been mapped facilitating pick-up and drop-off of
+passengers without impacting other transit modes.
+•
+Rider App (Multimodal Trip Planning App), Web Portal & Driver App: GO Connect has an
+intermodal trip planning application that allows customers to view, book, pay and track their rides
+using a single app; a web portal that allows the County to easily access all service performance
+analytics and stats by date and zone (groups); and driver app for navigation. The web portal and
+the multimodal trip application that allows GO Connect to prioritize rides connecting to transit and
+prevent mode competition are not compatible with other platforms.
+•
+Dispatch & Customer Service: Go Connect counts with a call center operated by River North
+Transit, LLC. The call center allows customers to book and pay for a trip via phone; assists
+customers with information regarding the GO Connect service; and helps customers that need
+MDC004
+=== page 5 ===
+Honorable Chairman Oliver G. Gilbert, III 
+and Members, Board of County Commissioners 
+Page 5 
+assistance downloading and creating a GO Connect account. The agents are well trained in the 
+specifics of the service and River North Transit, LLC has a process for keeping agents informed 
+as the service evolves over time. Additionally, the call center operates in both English and Spanish 
+and leverages a translation service should riders request a different language. 
+•
+Marketing Services: River North Transit, LLC has developed marketing materials (e.g., user
+guidelines, pamphlets with service information material, photos, etc.) with the GO Connect
+branding used for promoting service. The team has also developed an on-going marketing plan
+that targets communities within service zones.
+•
+Experience Servicing Large Service Zones: River North Transit, LLC is operating a service that is
+similar to Miami-Dade’s in King County, Washington and Jersey City, New Jersey. It has a long
+track record as the industry leader of providing turnkey microtransit services for municipalities at
+scale.
+Most importantly, the communities in the current service zones are already familiar with the program and 
+mobile app. Splitting providers can lead to a poor rider experience as riders have to learn multiple 
+technologies and switch between fleets as they pass through the County. River North Transit, LLC is 
+uniquely positioned to support the upcoming deployment of the Better Bus Network and South Dade Bus 
+Rapid Transit, improving the overall rider experience. Furthermore, it is the only microtransit service 
+vendor that offers the ability to deploy on-demand autonomous vehicles, with successful AV deployments 
+in both Arlington, Texas and Grand Rapids, Michigan. Accordingly, it is in the County’s best interest to 
+approve this designated purchase pursuant to Section 2-8.1(b)(3) of the Code. Pursuant to Resolution No. 
+R-391-17, while competition is not feasible at this time, the contract contains all current Board mandated
+terms.
+Scope 
+The impact of this item is countywide in nature. 
+Delegated Authority 
+The County Mayor or the County Mayor’s designee will have the authority to execute Supplemental 
+Agreement No. 3 and exercise all provisions of the contract, including any renewals, cancellation or 
+extensions, pursuant to Section 2-8.1 of the County Code and Implementing Order 3-38. 
+Fiscal Impact/Funding Source 
+The fiscal impact is $11,837,375 for the 18-month option to renew term and associated designated 
+purchase. The current contract term expires on August 31, 2023, and the option to renew term will 
+commence on September 1, 2023. The contract has a current cumulative allocation of $5,596,200. If this 
+request is approved, the contract will have a modified cumulative allocation of $17,433,575 and will expire 
+on March 31, 2025.  The additional expenditure being requested was approved by the Board as part of 
+the Fiscal Year 2022-23 County budget. The cost for operating GO Connect within the municipal area of 
+the Town of Cutler Bay will be fully reimbursed by the Town of Cutler Bay. 
+Department 
+Current 
+Cumulative 
+Allocation 
+Predetermined 
+Allocation for 
+the Option to 
+Renew Term 
+Designated 
+Purchase for 
+the Option to 
+Renew Term 
+Modified 
+Cumulative 
+Allocation 
+Funding 
+Source 
+Contract 
+Manager 
+DTPW 
+$5,596,200 
+$2,310,375 
+$9,527,000 
+$17,433,575 
+State 
+Funds and 
+DTPW 
+Operating 
+Carlos Cruz-
+Casas, P.E. 
+Total 
+$5,596,200 
+$2,310,375 
+$9,527,000 
+$17,433,575 
+MDC005
+=== page 6 ===
+Honorable Chairman Oliver G. Gilbert, III 
+and Members, Board of County Commissioners 
+Page 6 
+Track Record/Monitor  
+Vanessa Stroman of the Strategic Procurement Department (SPD) is the Procurement Contracting 
+Manager. 
+Awarded Vendor 
+Vendor 
+Principal Address 
+Local Address 
+Principal 
+River North Transit, LLC 
+160 Varick Street 
+Floor 4 
+New York, NY 
+None 
+Alex Lavoie 
+Due Diligence 
+Pursuant to Resolution No. R-187-12, due diligence was conducted in accordance with SPD’s 
+Procurement Guidelines to determine contractor responsibility, including verifying corporate status and 
+review of performance and compliance issues through various vendor responsibility lists and a keyword 
+internet search. The lists referenced include convicted vendors, debarred vendors, delinquent contractors, 
+suspended vendors, and federal excluded parties. There were no adverse findings relating to contractor 
+responsibility. 
+Applicable Ordinances and Contract Measures 
+•
+The two percent User Access Program provision does not apply due to the original federal funding
+source.
+•
+The Small Business Enterprise Selection Factor and Local Preference did not apply due to the
+original federal funding source.
+•
+The Living Wage Ordinance applies.
+_ __________________ 
+Jimmy Morales 
+Chief Operations Officer 
+MDC006

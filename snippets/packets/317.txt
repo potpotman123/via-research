@@ -1,0 +1,87 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/League of Oregon Cities/Synopsis-LOC-RFP-2360.pdf
+# pages_total: 4; hit_pages: [2, 4]; included: [2, 4]
+# context: Bleecker Drive folder: League of Oregon Cities
+
+=== page 2 of 4 ===
+The text of the published notice of solicitation is as follows: 
+ 
+ 
+ 
+  
+LOC received a proposal(s) from the following vendor(s): 
+ 
+1. 
+ 
+Computronix (USA) Inc. 
+2.  
+ 
+Emergent Health Care Solutions 
+3. 
+ 
+CivicEye 
+ 
+4.  
+ 
+Mutualink, Inc. 
+5.  
+ 
+PSTrax 
+6.  
+ 
+Tablet Command, Inc. 
+7.  
+ 
+Via Transportation, Inc.  
+ 
+Proposals were evaluated by LOC based on the criteria contained in the RFP and selected the 
+following successful proposer(s): 
+ 
+ 
+1. 
+ 
+Emergent Health Care Solutions 
+2.  
+ 
+Mutualink, Inc. 
+3.  
+ 
+PSTrax 
+4.  
+ 
+Via Transportation, Inc.
+
+=== page 4 of 4 ===
+Pricing Structure 
+ 
+Emergent Health Care Solutions:  Proposer provided a discount off list price. See Price List 
+Attachment in the resulting Master Price Agreement. 
+ 
+Mutualink: Proposer provided a discount off list price. See Price List Attachment in the resulting 
+Master Price Agreement. 
+ 
+PSTrax: Proposer provided a discount off list price. See Price List Attachment in the resulting 
+Master Price Agreement. 
+ 
+Via Transportation: Proposer provided a discount off list price. See Price List Attachment in the 
+resulting Master Price Agreement. 
+ 
+Additional Information 
+ 
+National Purchasing Partners 
+ 
+ 
+Marshall Stiles, Contract Manager 
+International Place, North Tower 
+ 
+marshall.stiles@mynpp.com 
+17930 International Boulevard  
+ 
+nppgov.com 
+Suite 900 
+ 
+ 
+ 
+ 
+ 
+SeaTac, WA  98188

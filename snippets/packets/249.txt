@@ -1,0 +1,249 @@
+# source_url: https://rideuta.legistar1.com/rideuta/attachments/0d017a98-5a41-4297-9dd9-03bd173e756f.pdf
+# path: raw/cache/40d36ec4fb2f30414aba13d5c663358a3a1f094a.pdf
+# pages_total: 12; hit_pages: [1, 2, 3, 4, 7, 9, 10, 11, 12]; included: [2, 4, 9, 10, 11, 12]
+# context: legistar client=rideuta; matter 20-03399-9 (2026-03-16): Change Order: On Demand Technologies Master Service Agreement Service Order No. 9 - Adding North Utah County Service Area (River North Transit, LLC / Via)
+
+=== page 2 of 12 ===
+2 
+ 
+Conflicts between this Service Order and any other terms and conditions or written agreements 
+between the Parties, including the MSA, shall be resolved in favor of this Service Order. 
+2. Duration & Launch Date 
+  
+The duration of the Deployment shall last for a period of 11 (eleven) months, until June 30, 2027, 
+inclusive, following the Effective Date (the “Initial Term”).  
+ 
+Service operation of the Deployment will begin on UTA’s August 2026 change day, scheduled for 
+August 15, 2026, unless Via and UTA define an alternative mutually agreeable date in writing 
+(“Launch Date”). UTA will provide to Via written notice to proceed no later than June 15, 2026 
+in order to Launch the Deployment on the intended Launch Date. For the avoidance of doubt, 
+notice to proceed can only be written by UTA once the contract and appendices (including the 
+Service Order) are final and signed, and any necessary local and regulatory approvals have been 
+received or registrations completed. Upon receipt of such written notice to proceed, Via will 
+commence local preparation for launch (“Launch Preparation Period”). 
+  
+3. Fees 
+  
+Any new regulatory fees imposed by a governmental entity related to the Services will be 
+charged as a pass-through cost contingent on UTA’s advance agreement which will not be 
+unreasonably withheld or delayed. UTA will have the option of decreasing other Services or 
+expenses in order to off-set these additional fees. Any remaining contingency funds will remain 
+with UTA and will decrease the not-to-exceed amount at the end of the contract. 
+ 
+4. Service Parameters 
+  
+Pursuant to the MSA and in accordance with Appendix A and B, Via will provide access to a 
+platform service (the “Platform”) through which Riders will be able to book and pay for rides on 
+a shared and on-demand basis and dedicated vehicles will be offered by the Vehicle Partner to 
+Driver Partners on a rental basis. The Parties may add additional service zones through future 
+amendments to Appendix A, B and/or C of this Service Order. Customer may expect per vehicle 
+hour pricing for additional service zones to align with the pricing laid out in Appendix C, provided 
+that the service details in the additional service zones are not significantly different from existing 
+service zones, such as vehicle type, geography, and driver requirements. Additional service zones 
+will also require implementation fees. 
+ 
+Rider Fares: Rider fares and rider fare discounts will be set by UTA. During the duration of the 
+Deployment, discounted and promotional rider fares may be implemented upon mutual agreement 
+between the Parties. 
+ 
+
+	
+	
+
+=== page 4 of 12 ===
+4 
+ 
+Deployment (the “UTA Project Manager”).  The Via Project Manager will be in regular contact 
+with the UTA Project Manager through informal and scheduled project meetings.   
+  
+The Via Project Manager will be empowered to enact day-to-day decisions related to the Services 
+and will serve as the primary point of contact with the UTA Project Manager on an ongoing basis.  
+The Via Project Manager will appoint members to the Project Team to assist in the integration of 
+the various elements of the Deployment, to include personnel with expertise in service scoping, 
+independent contractor driver outreach and registration to the Platform, fleet maintenance 
+procurement, marketing, and data analytics.  For the avoidance of doubt, the Via Project Manager 
+will have no power to serve notice or amend the Agreement, or this Order. 
+  
+During the course of the Deployment, Via’s Project Team, led by the Via Project Manager, will 
+liaise with the UTA Project Manager over the key deliverables of this Order and to endeavor to 
+maximize ongoing service optimization. 
+ 
+6. Driver Partner Registration & Supply Management 
+  
+Via will source Driver Partners to provide transportation services to UTA through the Platform.  
+  
+Via will ensure that Driver Partners have appropriate licenses, permits, and insurance required for 
+the type of vehicles being operated as defined within the MSA.  As part of Driver Partner 
+registration for access to the Platform, all Driver Partners will be introduced to Via with the 
+following areas covered: familiarization with the Deployment service areas; hours of service; 
+UTA’s expectations; use of the Driver App; and reporting incidents and delays in service. 
+ 
+Throughout the Deployment, Via will review comments and ride reviews from customers 
+submitted through the UTA On Demand application to identify opportunities for service 
+improvements and address concerns over Driver Partner behavior and performance. 
+ 
+Via will be responsible for ensuring that there is adequate driver supply for each service zone 
+within designated hours to meet demand with optimal quality of service, given constraints. 
+ 
+7. Rider and Driver Partner Support 
+  
+Via will ensure the provision of customer service and support for Driver Partners and Riders on 
+issues that arise in connection with use of the Platform. In addition, Via will provide live translation 
+services to customer using their call center in order to communicate with those who have limited 
+English proficiency. Live support for Driver Partners and riders will be provided during service 
+days/hours. Driver Partners and riders may call or text into the service during service days/hours 
+
+	
+	
+
+=== page 9 of 12 ===
+9 
+ 
+ 
+Appendix B: 
+Deployment Parameters 
+ 
+The Parties agree to the following Deployment Parameters. Upon mutual agreement, the Parties 
+may agree to subsequent modifications of these Parameters during the term of this Agreement. 
+ 
+x Deployment Service Zone: Approximately 77.2 square miles coverage zone in North Utah 
+County, Utah.  
+x Service Days/Hours: The Deployment’s operating hours shall be Monday through 
+Saturday, 6:00am to 9:00pm in North Utah County.  
+x Vehicle Fleet: For North Utah County, Via’s Vehicle Partner will offer a fleet of up to 
+sixteen (16) branded, licensed, and insured vehicles, eight (8) of which will be Americans 
+with Disabilities Act (ADA)-compliant Wheelchair Accessible Vehicles (WAV), to be 
+made available to independent contractor Driver Partners, who will be able to gain access 
+to these vehicles after being registered onto the Platform. Of the sixteen (16) total vehicles, 
+four (4) vehicles shall be treated by Via as spares in the event that a regular service vehicle 
+requires maintenance or replacement. Fleet size and composition of WAVs and non-WAVs 
+may be adjusted based upon mutual agreement of the Parties as the service grows. As 
+electric charging infrastructure becomes available, Via agrees to transition to a mix of 
+electric or hybrid vehicles, with all associated vehicle costs included in the current hourly 
+rate service fees. 
+x Distance Caps: UTA may implement distance caps, which limit how far a rider can 
+travel, to optimize the service based on parameters set at its discretion. 
+x 
+TNC Overflow: UTA may direct ride requests to brokered TNC services based on 
+parameters set at its discretion. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+	
+	
+
+=== page 10 of 12 ===
+Docusign Envelope ID: 51AE72A3-62A5-4D27-ABC9-C526388E0177
+Appendix C:
+Service Fees
+The table below outlines the payment structure, in which UTA would be charged a price per driver
+hour. Any new regulatory fees imposed by a governmental entity related to the service will be
+charged as a pass-through cost contingent on UTA advance agreement provided such agreement
+will not be unreasonably withheld. UTA will have the option of decreasing other services or
+expenses in order to off-set these additional fees. The Deployment shall include a fleet of vehicles
+as described in Appendix B, subject to extension by mutual agreement of the parties on terms to
+be agreed (including any change in fees). The total contract value shall not exceed that listed in
+this Appendix C, "Not-to-Exceed Fees," of $3,463,509 including contingency and marketing for
+the 11-month duration of this Service Order (through June 30, 2027).
+The table below also documents a contingency budget, which the Parties may agree in writing to
+use in the event that the demand for the service exceeds forecasts.
+Via | Expansion Proposal for UTA
+Via will separately invoice UTA for marketing expenses incurred and as authorized by UTA under
+Section 8 of the Service Order. Via will charge its standard labor rate of $150.00 per hour for
+internal marketing labor cost. All other marketing expenses will be passed through at cost. The
+total combined marketing expenses incurred by Via and UTA shall not exceed $20,000 per year.
+The values in the table above are Not-to-Exceed (NTE) amounts and are subject to downward
+adjustment based on actual revenue hours achieved.
+UTA will be billed for the above fees as described below. Driver hours will be billed as incurred
+at the end of each month. UTA shall pay the following fees to Via:
+Ongoing Invoice Fees
+10
+
+=== page 11 of 12 ===
+11 
+ 
+UTA shall pay the following fees to be invoiced monthly by Via on or around the 15th of each 
+month:  
+2026 (September 1, 2026 – December 31, 2026): 
+ per driver hour in ongoing project costs, 
+to include driver partner pay, vehicle rental and wheelchair-accessible vehicle (WAV) costs, live 
+customer support, and project operations  
+2027 (January 1, 2027 – December 31, 2027): 
+per driver hour in ongoing project costs, to 
+include driver partner pay, vehicle rental and wheelchair-accessible vehicle (WAV) costs, live 
+customer support, and project operations  
+The above per vehicle hour amounts includes and account for fixed costs incurred in the provision 
+of the services. Such costs will be treated as a pass-through and identified in the invoice statement 
+provided to Customer for transparency but does not constitute an increase in the per vehicle hour 
+rate amounts set forth above. Examples of these costs may include, but are not limited to (i) fuel, 
+(ii) vehicle cleaning and/or (iii) the portion of a Driver partner's compensation which corresponds 
+to their vehicle rental costs. 
+Should changes in inflationary environment, applicable federal, state, or local law result in a 
+significant change in Via’s costs, either an increase or decrease, Via or UTA may opt to 
+renegotiate the ongoing on-demand service hour fees or level of service obtained.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+	
+	
+
+=== page 12 of 12 ===
+12 
+ 
+Appendix D: 
+Service Goals and Objectives 
+ 
+ 
+UTA and Via will collaborate towards the service goals and objectives for the Deployment as 
+noted below. Via agrees to use commercially reasonable efforts to meet the goals and objectives, 
+but the parties acknowledge that failure to meet the goals and objectives shall not constitute a 
+breach of the MSA or this Service Order.  
+ 
+The Parties agree to hold regular performance reviews throughout the duration of the Deployment 
+to review service performance metrics, track progress toward the goals listed below, and, as 
+appropriate, to jointly re-assess strategies to ensure the Deployment’s long-term success. 
+ 
+Objectives: 
+x Attract and build new ridership to promote the use of public transit rather than single-
+occupancy vehicle automobile trips 
+x Provide new mobility options for residents of the Northern Utah County 
+x Support connections to UTA fixed route services and other popular locations for the 
+residents of the neighborhoods served 
+x Provide support to UTA and local jurisdictions inside the Deployment Service Area to 
+stimulate the local economy and small businesses 
+x Build brand recognition and awareness for UTA On Demand  
+ 
+Goals: 
+x Ridership growth: Estimate between 2% and 10% growth each year, each zone 
+x On-time performance: 90% of bookings “picked up” no later than 5 minutes after the 
+planned pickup time provided to the customer at the time of booking (“Actual Planned 
+Pickup Time” compared to “Original Planned Pickup Time”) 
+x Service quality: No more than 3% of customer booking requests receive a “seat 
+unavailable” error, on average (at least 97% average “Met Demand”) 
+x Service efficiency: Average service utilization between 2.0 and 5.0 (customers per vehicle 
+hour) based on completed passenger trips per driver shift hour 
+x 
+Cost efficiency: Average cost per ride $20.00 or lower 
+x 
+Wait time: Average wait time between 15 and 20 minutes from booking to pickup 
+ 
+
+	
+	

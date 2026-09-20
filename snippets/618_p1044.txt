@@ -1,0 +1,270 @@
+# source: raw/bleecker_drive/Broward/MA_Report.pdf
+# path: raw/bleecker_drive/Broward/MA_Report.pdf
+# hit page: 1044 of 6451
+# terms: Via+not to exceed, Via+not-to-exceed
+
+=== page 1043 ===
+Current Procurement Contracts Sorted by Contract ID # As of 11/24/25
+Page 1043 of 6451
+Lead Agency Contact (Contact Unit Mgr if Incorrect)
+RJAIN@broward.org
+Contract ID #
+Document Description
+Start Date
+End Date
+Not To Exceed
+Amount Ordered
+A1358306A1_1
+Hansen Lic SW Svcs & Support
+1/26/2016
+1/25/2026
+$4,306,569.95
+$2,242,013.73
+Vend#-AddrID-ContactID
+Legal Name
+Vendor Contact Email
+Vendor Phone #
+VS00008829
+HANSEN CORPORATION PTY LTD
+Glenn.Lamont@hsntech.com
+  
+Item #
+Category
+Description
+Total Line Qty
+Released
+UO
+M
+Maximum Line 
+Amount
+Unit Price
+Total Line Released 
+Amount
+Amount Paid
+customer relationship 
+licenses and support 
+thereof)This order is in 
+accordance with the 
+Hansen Corporation 
+License, Software 
+Services, and Support 
+Agreement approved by
+the Bo
+A1358306A1_1_3 
+9204500
+Reimbursables for the 
+duration of the 
+agreement inclusive of 
+any renewalsThis order 
+is in accordance with 
+the Hansen Corporation 
+License, Software 
+Services, and Support 
+Agreement approved by
+the Board on January 
+26, 2016, Item No. 14
+108,850.8600
+LPS
+$125,000.0000
+$1.0000
+$108,850.8600
+$108,850.8600
+A1358306A1_1_4 
+9204500
+Optional Renewal for 
+License(s) and Support 
+and 
+Maintenance$220,000
+/Annually (N-T-E)Total
+for five renewal terms 
+N-T-E $1,100,000This 
+order is in accordance 
+0.0000
+LPS
+$0.0100
+$1.0000
+$0.0000
+$0.0000
+=== page 1044 ===
+Current Procurement Contracts Sorted by Contract ID # As of 11/24/25
+Page 1044 of 6451
+Lead Agency Contact (Contact Unit Mgr if Incorrect)
+RJAIN@broward.org
+Contract ID #
+Document Description
+Start Date
+End Date
+Not To Exceed
+Amount Ordered
+A1358306A1_1
+Hansen Lic SW Svcs & Support
+1/26/2016
+1/25/2026
+$4,306,569.95
+$2,242,013.73
+Vend#-AddrID-ContactID
+Legal Name
+Vendor Contact Email
+Vendor Phone #
+VS00008829
+HANSEN CORPORATION PTY LTD
+Glenn.Lamont@hsntech.com
+  
+Item #
+Category
+Description
+Total Line Qty
+Released
+UO
+M
+Maximum Line 
+Amount
+Unit Price
+Total Line Released 
+Amount
+Amount Paid
+with the Hansen 
+Corporation License, 
+Software Services, and 
+Support Agree
+A1358306A1_1_5 
+9204500
+Optional Services via 
+Work AuthorizationFor 
+Information Purposes 
+OnlyOptional Services 
+via Work Authorization 
+for the duration of the 
+Agreement inclusive of 
+any renewals in the not-
+to-exceed amount of 
+$600,000WA No. ### 
+($0.00)Ava
+0.0000
+LPS
+$0.0100
+$1.0000
+$0.0000
+$0.0000
+A1358306A1_1_6 
+9204500
+Four Js Support and 
+MaintenanceAnnually 
+in Advance - $72.00 per
+User Annually. Third 
+Party Software Support 
+and Maintenance Fees 
+shall be paid to Provider
+by County. Based on 47
+Users, this would be 
+$3,384.00 but would 
+increase if the num
+423.0000
+YRS
+$0.0000
+$72.0000
+$30,456.0000
+$30,456.0000
+A1358306A1_1_7 
+9204500
+Support and 
+Maintenance for 
+200,451.8900
+LPS
+$200,451.9500
+$1.0000
+$200,451.8900
+$200,451.8900
+=== page 1045 ===
+Current Procurement Contracts Sorted by Contract ID # As of 11/24/25
+Page 1045 of 6451
+Lead Agency Contact (Contact Unit Mgr if Incorrect)
+RJAIN@broward.org
+Contract ID #
+Document Description
+Start Date
+End Date
+Not To Exceed
+Amount Ordered
+A1358306A1_1
+Hansen Lic SW Svcs & Support
+1/26/2016
+1/25/2026
+$4,306,569.95
+$2,242,013.73
+Vend#-AddrID-ContactID
+Legal Name
+Vendor Contact Email
+Vendor Phone #
+VS00008829
+HANSEN CORPORATION PTY LTD
+Glenn.Lamont@hsntech.com
+  
+Item #
+Category
+Description
+Total Line Qty
+Released
+UO
+M
+Maximum Line 
+Amount
+Unit Price
+Total Line Released 
+Amount
+Amount Paid
+Original Peace 
+SoftwareIn accordance 
+with the Remote 
+Software Maintenance 
+AgreementThis order is 
+in accordance with the 
+Hansen Corporation 
+License, Software 
+Services, and Support 
+Agreement approved by
+the
+A1358306A1_1_9 
+9204500
+Four Js Support and 
+Maintenance (Annually 
+in Advance). Third 
+Party Software Support 
+and Maintenance Fees 
+shall be paid to Provider
+by County.
+62.0000
+YRS
+$0.0000
+$126.0000
+$7,812.0000
+$7,812.0000
+ 
+Optional Services
+75,808.0000
+0
+$0.0000
+$0.0000
+$75,808.0000
+$75,808.0000
+Vendor Total
+$2,606,569.9700
+$2,242,013.7300
+$2,078,162.0400
+Departmental Usage
+# of PO's
+Amount Ordered
+Amount Paid
+WWS - INSTRMNT & INFO TECH 
+5
+$931,098.3600
+$931,098.3600
+WWS FISCAL OPERATIONS 
+DIVISION 
+25
+$1,310,915.3700
+$1,147,063.6800
+Department Totals
+30
+$2,242,013.7300
+$2,078,162.0400

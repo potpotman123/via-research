@@ -1,0 +1,194 @@
+# source: raw/bleecker_drive/Los Alamos (Spare Labs)/1040_24_A_-_AGR_24-37_Spare_Labs_Inc.pdf
+# path: raw/bleecker_drive/Los Alamos (Spare Labs)/1040_24_A_-_AGR_24-37_Spare_Labs_Inc.pdf
+# hit page: 68 of 81
+# terms: Spare Labs
+
+=== page 67 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+67 
+ Agreement Template Version: 04012024 
+Exhibit J 
+Optional Spare Realize Transit Planning and Simulation Projects 
+AGR24-37 
+ 
+This Exhibit J is included herein for reference and reflects Contractor’s proposed Spare Realize Transit 
+Planning and Simulation Projects Services, as provided in Contractor’s Response. Upon County’s request, 
+Contractor shall provide such services pursuant to Exhibit A. Contractor may modify its approach to 
+providing such Services, provided they are planned and performed in a substantially similar manner as to 
+that described herein, acceptable to the County Project Manager. 
+ 
+Included in this partnership, potential simulations and service planning projects for Atomic City 
+Transit will be led by your Account manager, and may include the exercise of scoping 
+potential service changes, the execution of a simulation with your data, and 
+recommendations based on projected metrics and projections against your goals and 
+objectives. 
+Spare's planning and service simulations module, Realize, is a tool that enables you to 
+plan, simulate, and optimize on-demand transit networks and make better, data-driven 
+decisions for your region and community. Within this partnership, your assigned Account 
+Manager will be the lead for any related service simulation on planning exercises, with the 
+intention of providing a low-barrier way to explore service optimization and refinement, 
+possible expansions, zone adjustments, or cost-benefit analyses. 
+ 
+ 
+Attachment A
+=== page 68 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+68 
+ Agreement Template Version: 04012024 
+ 
+Spare Realize combines a variety of datasets, including population, jobs, destinations, 
+agency-provided data, like Automated Passenger Counter, APC,data and General Transit 
+Feed Specification, GTFS, and information gathered from Spareʼs live services, to generate 
+powerful simulations that can help inform your planning decisions. 
+To create a baseline simulation, Spare Realize has the capability to pull from open source 
+demographic and geographic data sources all around the world, and from third party APIs. 
+In order to run Spare Realize simulations at greater detail, a number of data sources can 
+be used, such as: 
+● 
+Existing fixed route or on-demand origin-destination data 
+● 
+Fixed route ridership data, including APC data 
+● 
+Current Dial-A-Ride/on-demand service data 
+● 
+Anonymous telecom location data 
+● 
+GTFS data 
+These simulations are run at an accelerated pace and calculate expected KPIs over the 
+service lifetime, like expected costs, reach, and wait times. Some of the Spare Realize 
+outputs available are: 
+● 
+Number of vehicles required to achieve a certain service quality, such as wait time, 
+minutes on vehicle, and more 
+● 
+Estimated number of daily boardings 
+● 
+Estimated passengers per hours of service 
+● 
+Estimated cost per trip 
+● 
+Estimated passengers per trip 
+● 
+Optimal size zone 
+● 
+Trip patterns, such as simulated pickup and drop offs 
+● 
+Service quality statistics, such as wait time and minutes on the vehicle 
+● 
+Vehicle capacity utilization 
+● 
+Operating efficiency, such as revenue hours, revenue miles, passenger per hour, and 
+more 
+● 
+Time utilization, such as idle time, unoccupied time to pickup or drop off, and 
+occupied time 
+The end result of a Spare Realize simulation includes a discussion of the results, what the 
+outputs mean, how they were established, the assumptions that were initially made, and 
+recommendations based on results. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Attachment A
+=== page 69 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+69 
+ Agreement Template Version: 04012024 
+Exhibit K 
+FTA Checklist and Required Clauses 
+AGR24-37 
+ 
+ 
+PROJECT NO: Micro Transit Software 
+ 
+Federal Transit Administration Required Clauses 
+(where applicable) 
+ 
+If an item on the following table is marked “All,” it is a required clause for any purchases exceeding the federal 
+micro-purchase threshold.  If applicable, the corresponding certification must be completed and submitted with the 
+bid or proposal in order to be determined “responsive.”  Please check items that apply and are included. 
+ 
+√ Sec. 
+Contract Clause 
+Applicability to Type of Contract 
+√ 
+1. 
+No Government Obligation to Third Party 
+Value > $10K 
+√ 
+2. 
+Program Fraud and False or Fraudulent Statements 
+or Related Acts 
+Value > $10K 
+√ 
+3. 
+Access to Records 
+Value > $10K 
+√ 
+4. 
+Federal Changes 
+Value > $10K 
+√ 
+5. 
+Civil Rights (includes EEO requirements for 
+construction projects) 
+Value > $10K 
+√ 
+6. 
+Disadvantaged Business Enterprise (DBE) 
+Value > $10K 
+√ 
+7. 
+Incorporation of FTA Terms 
+Value > $10K 
+√ 
+8. 
+Energy Conservation 
+Value > $10K 
+√ 
+9. 
+Termination 
+Value > $10K 
+√ 
+10. 
+Seat Belt Use 
+Value > $10,000 
+√ 
+11. 
+Distracted Driving 
+Value > $10,000 
+√ 
+12. 
+Federal Tax Liability and Recent Felony 
+Convictions 
+Value > $10,000 
+√ 
+13. 
+Trafficking in Persons 
+Value > $10,000 
+√ 
+14. 
+Prohibition on Certain Telecommunications and 
+Video Surveillance Services or Equipment 
+Value > $10K for telecommunications and video 
+surveillance services or equipment 
+√ 
+15. 
+Governmentwide Debarment and Suspension 
+Value > $25K 
+√ 
+16. 
+Notification Related to Fraud, Waste, Abuse or 
+Other Legal Matters 
+Value > $25K 
+Attachment A

@@ -1,0 +1,117 @@
+# source: raw/bleecker_drive/Cupertino/19_5960_A_-_Draft_Agreement.pdf
+# path: raw/bleecker_drive/Cupertino/19_5960_A_-_Draft_Agreement.pdf
+# hit page: 16 of 28
+# terms: Via+drivers, Via+fleet
+
+=== page 15 ===
+Consultant will work with City staff on developing additional fare packages, such as a monthly 
+pass, and other ways to maximize fare-box recovery and increase ridership.  
+The City will be responsible for verifying whether riders qualify for discounted fares. The City will 
+identify simple methods of verification, such as student ID’s for the student fare, or cards 
+demonstrating that riders qualify for existing low-income programs to simplify the verification 
+process to the maximum extent feasible.  
+Any changes to base ride cost will be made in response to Pilot service data, and with the 
+intention of making the Pilot as efficient and cost-effective as possible while retaining service 
+accessibility. The City will retain full authority to approve any changes to the base ride cost 
+range described above.  
+Fare payment options shall include payment by credit card submitted electronically through the 
+Rider App or submitted through the Via system when booking is made for a rider over the 
+phone.  
+Fleet/Vehicles  
+Dedicated vehicles will be offered by the Consultant’s chosen third party vehicle provider 
+(“Vehicle Provider”) to Driver Partners on a rental basis.  The Vehicle Provider will offer a fleet of 
+up to ten (10) branded, licensed and insured vehicles (“Fleet Vehicles”), all of which can fit a 
+minimum of 6 passengers and as many as two bicycles.  The Fleet Vehicles shall include one 
+Wheelchair Accessible Vehicle (WAV) (approximately 10% of the total Fleet Vehicles) to be 
+made available to independent contractor Driver Partners, who will be able to gain access to 
+these vehicles after being registered onto the Platform.  Consultant will ensure Vehicle Provider 
+keeps vehicles clean and maintained in a preventive maintenance program for vehicles used in 
+this pilot program.  For the avoidance of doubt, the Vehicle Provider shall not be deemed a 
+“subcontractor” for the purposes of Section 5 of the Agreement. 
+Drivers  
+Qualified and accredited independent contractor drivers will be able to gain access to the Fleet 
+Vehicles after being registered onto the Via system, enabling these individuals to sign up for 
+specific daily slots or longer periods of work. Consultant shall establish driver registration and 
+certification protocols designed to ensure compliance with applicable laws, regulations, or terms 
+of project funding sources. Consultant shall ensure drivers are aware of the pilot program and 
+can articulate to riders pilot program basics, including how to get additional program information. 
+For the avoidance of doubt, independent contractor driver partners shall not be deemed 
+“subcontractors” for the purposes of Section 5 of the Agreement.  
+Smartphone App  
+Consultant shall work closely with the City to provide a co-branded splash page in the Via 
+Smartphone App. The ultimate appearance of the app will be built upon Via’s proprietary rider
+=== page 16 ===
+application to provide a tailored user experience. As mutually agreed upon, the app may 
+suggest locations to customers, or present service announcements, promotions, or discounted 
+pricing through in-app messages or push notifications.  
+Technology Platform  
+Via will leverage its powerful suite of apps, real-time operations and administrative tools, and 
+data analysis and reporting features to power the Pilot service. This platform will be the same 
+one used to manage each Via service around the world. The Consultant will provide use of the 
+Via technology platform that in real time aggregates riders travelling from multiple origins to 
+multiple destinations efficiently, while optimizing the balance between vehicle utilization fleet-
+wide and a high quality of service. The Via system has fully automated ride proposal, booking, 
+and dispatch services, and is accessible by mobile application and, as required, phone 
+bookings. In order to serve those users who do not have a smartphone or may require 
+additional technology assistance, the Consultant shall provide the option for account creation by 
+phone for at least 10 hours per week (pre-set hours to be determined as part of launch 
+planning).  Should Via have the capacity for web-based booking, it shall be made available as 
+an option to the City at no additional cost.  
+Deliverables:  
+Final Launch Plan  
+Additional documentation of Parameters, as mutually agreed upon by Consultant and City 
+Task 2.3 Technology Localization & Back-end Systems Setup  
+Consultant shall localize all infrastructure technology, including mapping and real-time routing 
+systems, specifically for the Pilot, taking into account local geography and any algorithmic 
+adjustments required in order to achieve system and service efficiency. Back-end operational 
+systems, including those required for driver registration and supply monitoring, will be fully 
+localized and maintained over the course of the Pilot.  
+Deliverables:  
+Completion of Technology Localization & Back-end Systems Setup 
+Task 2.4 Driver Acquisition & On-Boarding  
+Consultant shall source independent contractor drivers from the community and surrounding 
+areas if possible and shall verify that drivers possess all data and documentation to satisfy Via’s 
+standards as well as local and State requirements. Independent contractor drivers will go 
+through registration, which includes an introduction to Via’s system, customer service 
+expectations, and customer and driver safety protocol and policies. Drivers will be subject to 
+comprehensive background checks as required by local and State law.  
+Deliverables: Drivers fully registered to drive on the Via platform 
+Task 2.5 Vehicle Delivery & Branding
+=== page 17 ===
+Vehicle Provider shall coordinate the delivery and availability of a fleet of up to ten (10) Fleet 
+Vehicles vehicles such that these vehicles are ready to be driven by independent contractor 
+drivers on the Launch Date. Vehicle preparation will include successful completion of all 
+relevant insurance, registration, licensure, and maintenance requirements. Fleet Vehicles will 
+have custom co-branding in the form of vehicle decals or wrapping as to be easily recognizable 
+to users of the service. Vehicle branding design will be finalized in collaboration with the City.  
+Deliverables:  
+Vehicle Fleet with custom co-branding 
+Task 2.6 WAV Service  
+The Pilot Wheelchair Accessible Vehicle (WAV) service shall satisfy relevant FTA ADA 
+requirements, including the equal provision of service to potential Pilot riders of all physical 
+means. To fulfill this goal, Consultant will either (1) ensure Vehicle Provider provides dedicated 
+WAV to be used for the Pilot or (2) identify and subcontract with wheelchair accessible vehicle 
+(WAV) providers who have personnel that are trained to operate vehicles and equipment safety 
+and to assist and treat individuals with disabilities in a respectful and courteous way, with 
+appropriate attention to the difference among individuals with disabilities. Consultant will ensure 
+that any drivers providing WAV service as part of the Pilot will be trained to operate WAV 
+vehicles and equipment safely, as well as to properly assist and treat individuals with disabilities 
+in a courteous and respectful manner.  
+Deliverables: 
+WAV service  
+Task 2.7 External Stakeholder Coordination Meetings  
+City and Consultant will together identify key external stakeholders relevant to or interested in 
+the Pilot (i.e., Santa Clara Valley Transportation Authority, neighboring cities of Cupertino in the 
+western portion of Santa Clara County, San Jose, etc.) and setup meetings in advance of the 
+Launch Date in order to gather data and local information relevant to the Pilot, build community 
+support, and identify opportunities to support multi-modal linkages. This initiative will be 
+spearheaded by the City so as to best utilize local relations, with significant involvement 
+provided by Contractor. Local schools with students ages 14 and older should be contacted by 
+the Consultant launch team prior to the Launch Date to discuss appropriate pick-up and drop-off 
+locations in congested school zones to maximize safety.  
+Deliverables:  
+Participation in external stakeholder meetings 
+Meeting agendas & notes  
+Task 3. Pilot Deployment & Operations  
+The Consultant will collaborate with the City of Cupertino to design and operate a Pilot service 
+that meet the project’s operational goals. Consultant will establish a project team in the area and

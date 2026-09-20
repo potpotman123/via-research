@@ -1,0 +1,378 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Mobile Alabama/43841ba2-b11b-47e6-bea7-486d290c0a93.pdf
+# pages_total: 80; hit_pages: [1, 2, 3, 15, 53, 54]; included: [1, 2, 3, 15, 53, 54]
+# context: Bleecker Drive folder: Mobile Alabama
+
+=== page 1 of 80 ===
+Agenda of:
+Submitted by:
+Sponsored by:
+A brief synopsis and explanation of the following:
+FUNDING SOURCE:
+Associated Costs:
+*If Cost will continue, write "indefinite" and list project annual cost.
+Routing Authorized:
+Reviewed by:
+AGENDA  ITEM   SUMMARY  SHEET
+If this is not the lowest bid, explain why not:
+How many bidders submitted bids (if applicable):
+How many bidders received bid packages (if applicable):
+If not bid, state reason:
+Renewal date of contract (if applicable):
+Effective date of contract:
+Amount:
+Future years
+Year:
+Amount:
+Current year (itemize)
+Type:
+Matching funds:
+Grant funds:
+INCREASED
+REDUCE
+Budget amendment:
+Discretionary Funds:
+Budget Item:
+AMOUNT OF CONTRACT:
+OTHER
+ORDINANCE
+RESOLUTION
+PURPOSE & SCOPE OF PROJECT:
+PROJECT NAME:
+Date
+Mayor's Office
+Executive Director
+Title
+Name
+Department Head
+Department
+Item No.
+Date
+September 2, 2025
+Print Page
+Reset
+Transit
+Joe Snowden
+Mayor Stimpson
+Joe Snowden
+Contract with Port City Transit, LLC
+5 yr contract renewable for 1 addl 5 yr period with Port City Transit, LLC, for transit management 
+services to operate the City of Mobile transit system. 
+General fund.
+NTE $12.1M per year.
+upon signature
+Sealed Request for Proposals
+2+internet
+4
+.
+
+=== page 2 of 80 ===
+R E S O L U T I O N 
+ 
+Sponsored by:  Mayor William S. Stimpson 
+ 
+ 
+BE IT RESOLVED BY THE CITY COUNCIL OF MOBILE, ALABAMA, that the Mayor 
+and City Clerk be, and they hereby are, authorized to execute and attest, 
+respectively, for and on behalf of the City of Mobile, an agreement, by and 
+between the City of Mobile and Port City Transit, LLC, for five years, 
+renewable for one additional five-year period without further City Council 
+approval, in a total amount not to exceed $12,100,000.00 per year, as 
+appropriated funds are available, and to make application for, receive, and 
+expend any such grant or other funds in furtherance of this purposes of this 
+agreement, for services to operate the City of Mobile transit system, as 
+outlined in the agreement attached hereto and made a part hereof as though 
+set forth in full. A copy of said contract is on file in the Office of the City 
+Clerk. 
+Adopted: 
+ 
+ 
+____________________________ 
+                    City Clerk
+
+=== page 3 of 80 ===
+CITY OF MOBILE 
+AGREEMENT BETWEEN OWNER AND SERVICE PROVIDER  
+FOR A NOT-TO-EXCEED SUM (HEREINAFTER “AGREEMENT”) 
+1 
+ 
+ 
+This Agreement made and entered into this ____________________________________. 
+ 
+BETWEEN the OWNER (: or “City”) 
+ 
+CITY OF MOBILE 
+ 
+ 
+ 
+ 
+  
+ 
+205 Government Street 
+ 
+ 
+ 
+ 
+ 
+ 
+P. O. Box 1827 
+ 
+ 
+ 
+ 
+ 
+ 
+Mobile, Alabama  36633 
+ 
+And the SERVICE PROVIDER:  
+ 
+Port City Transit, LLC 
+ 
+ 
+ 
+ 
+ 
+ 
+114 5th Avenue, Floor 16 
+ 
+ 
+ 
+ 
+ 
+ 
+New York, NY 10011 
+ 
+ 
+ 
+ 
+ 
+City of Mobile Business License No.: 135000 
+ 
+           Secretary of State Registration No.: 000-206-733 
+ 
+ 
+ 
+ 
+For the following: 
+ 
+Transit Provider Services  
+Mobile, Alabama 
+ 
+ 
+In Reference to RFP Number: 
+5963 
+ 
+ 
+ 
+ 
+The OWNER and SERVICE PROVIDER agree as set forth below: 
+1.1 
+ENGAGEMENT 
+1.11  
+The OWNER hereby engages Port City Transit, LLC  (the “SERVICE PROVIDER”) as an 
+independent contractor to provide full and comprehensive “turnkey” management, operations, 
+maintenance, logistics, marketing and promotion, innovation planning and implementation, and 
+the provision and integration of end-to-end technology platforms  for the Mobile Transit System, 
+together with an integrated ride-share program, encompassing fixed-route, paratransit, and  
+microtransit  services within the corporate limits of, and all annexed areas to, the City of Mobile, 
+in accordance with this Agreement and Exhibit A. The Request for Proposals (RFP) dated June 
+20, 2025, and (with addenda) is incorporated by reference for descriptive/background purposes 
+only; in the event of conflict, this Agreement controls. 
+1.2 
+DESIRED RESULT 
+1.2.1 
+Establish a long-term engagement with the SERVICE PROVIDER that: (a) optimizes the  
+management and operation of the Mobile Transit System; (b) plans and implements service and 
+technology innovations that increase ridership and improve service quality; (c) delivers services 
+at competitive, fair, and reasonable pricing within the City’s, pre-approved annual budget; and 
+(d) provides ongoing technical support to City staff and elected officials to ensure a compliant, 
+accessible, and inclusive transit.
+
+=== page 15 of 80 ===
+Page 13 of 54 
+SERVICE PROVIDER shall provide a qualified interim GM within ten (10) business days and a
+permanent replacement acceptable to the OWNER within sixty (60) days. The OWNER’s approval 
+shall not be unreasonably withheld.  
+(d) No Service Degradation/No Cost Increase. SERVICE PROVIDER shall ensure continuity of
+operations during any transition and shall bear all costs associated with replacement; no additional cost
+to the OWNER.
+(e) Material Breach. Failure to timely provide and implement an acceptable CAP or to furnish an
+interim/permanent replacement as required constitutes a material breach.
+4.2         OWNER/SERVICE PROVIDER REPRESENTATIVES 
+4.2.1 
+OWNER’s Representative. The Executive Director of Finance (or successor title) is the OWNER’s 
+authorized representative for this Agreement (the “OWNER’s Representative”). The OWNER may 
+change the OWNER’s Representative by written notice to the SERVICE PROVIDER. The OWNER’s 
+Representative is the primary point of contact and may issue written directions, approvals, and 
+determinations required under this Agreement; however, the OWNER’s Representative has no 
+authority to modify this Agreement, increase compensation, extend time, or issue change orders except 
+as expressly authorized in writing by the OWNER. All notices, submittals, and requests for approval 
+shall be directed to the OWNER’s Representative (with copies as the OWNER may designate). In an 
+operational emergency, email authorization from the OWNER’s Representative may be relied upon to 
+proceed up to a stated not-to-exceed amount, subject to formal confirmation within ten (10) business 
+days. 
+4.2.2 
+SERVICE PROVIDER’S REPRESENTATIVE IN CHARGE 
+Firm Name: 
+Address: 
+Phone Number: 
+Email address: 
+Name:  
+Port City Transit, LLC 
+114 5th Avenue, Floor 16, New York, NY, 10011  
+(914)943-8478
+michael.vaccarino@ridewithvia.com
+Michael Vaccarino
+4.2.3 
+PERSONNEL QUALIFICATIONS; KEY PERSONNEL CHANGES 
+(a) The SERVICE PROVIDER shall ensure that all personnel (including subcontractor personnel)
+assigned to this Agreement are properly qualified, licensed/certified, trained, and capable of
+performing their assigned duties in compliance with this Agreement and all applicable laws and
+regulations.
+(b) Key Personnel. The SERVICE PROVIDER’s Key Personnel (as identified in the accepted
+Proposal) are subject to the OWNER’s prior written approval.
+(c) Changes/Substitutions. The SERVICE PROVIDER shall not reassign, replace, or substitute any
+Key Personnel without the OWNER’s prior written approval (not unreasonably withheld). For
+planned changes, provide at least fifteen (15) days’ prior written notice with résumés and
+qualifications of proposed replacements. For unplanned separations, provide immediate written
+notice, assign a qualified interim within ten (10) business days, and propose a permanent
+replacement within sixty (60) days.
+(d) Background/Safety Compliance. All safety-sensitive personnel, as defined by FTA regulations
+and in §2.1(Q), shall satisfy background screening, motor-vehicle record checks, and pre-
+employment and ongoing drug and alcohol testing consistent with 49 C.F.R. Part 655. The
+"!#             
+
+=== page 53 of 80 ===
+Page 51 of 54 
+ 
+ 
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement—the City of Mobile, by and 
+through its Mayor acting with full authority of office, and the SERVICE PROVIDER, by its duly authorized 
+signatory—as of the Effective Date set forth in Section 3.1. Each signatory represents and warrants that he or 
+she has full authority to bind the respective party. 
+ 
+ 
+ 
+ 
+City of Mobile                                          
+ 
+Port City Transit, LLC:   
+OWNER:                                                                            SERVICE PROVIDER:  
+ 
+ 
+______________________________ 
+ 
+ 
+__________________________________ 
+Signature 
+ 
+ 
+ 
+ 
+ 
+Signature 
+ 
+William S. Stimpson, Mayor 
+                  
+ 
+Michael Vaccarino_____________________ 
+Printed Name and Title  
+ 
+ 
+ 
+Printed Name and Title 
+ 
+ 
+(Corporate Seal if applicable) 
+ 
+ 
+ 
+ 
+ATTEST:  City of Mobile 
+ 
+ 
+ 
+ 
+ 
+______________________________ 
+ 
+ 
+City Clerk 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SERVICE PROVIDER: 
+ 
+STATE OF ALABAMA  
+COUNTY OF MOBILE 
+Before me, the undersigned a Notary Public in and for said County and State, personally appeared 
+__________________ as ___________________ of _________________________ and after being duly 
+sworn, did depose and say that he, as such officer and with full authority, signed the above and foregoing 
+voluntarily as the act of said corporation on the day the same bears date.  
+Sworn to and subscribed for me this __________________ day of __________________________, 
+20__________.  
+ 
+ 
+_____________________________________________ 
+NOTARY PUBLIC 
+My Commission Expires: ________________________________ 
+ 
+ 
+ 
+ 
+"!#             
+
+
+=== page 54 of 80 ===
+Page 52 of 54 
+ 
+ 
+ 
+EXHIBIT A 
+ 
+Transit Provider Services 
+Mobile, Alabama 
+Reference # 5963 
+ 
+SCOPE OF SERVICES 
+ 
+SERVICE PROVIDER’S NAME will provide the following services, which will be set forth in greater detail 
+in one or more of the below sections: 
+1) Full and comprehensive “turnkey” management, operations, logistics, maintenance, promotion, 
+and innovation implementation(s), including end-to-end technology platform(s), for the Mobile 
+Transit System, integrated with an expanded, City-funded equivalent version of Mobile Area 
+Chamber of Commerce’s pilot ride-share program “MoGo;”  
+2) Fixed route, paratransit, and Microtransit services, to the greatest degree possible, within all 
+annexed areas of City of Mobile; 
+3) Advisory and technical assistance as may be reasonably required in the management of the Mobile 
+Transit System.   
+ 
+ 
+Provision 1- Service Provider shall assume control of the existing transit system and operate it mostly  as-
+is from execution date of the contract through month nine of the Agreement.  
+Provision 2- Service Provider shall be prepared to start operations of the re-branded and fully integrated 
+system, including the new and expanded on demand rideshare service, which is then operated more in line 
+with the VIA proposal for services from the start of month ten and for the next four annual terms of the 
+contract.   
+Provision 3- The SERVICE PROVIDER reserves the right and has an obligation to adjust services to a level 
+that coincides with the total funding amount for any fiscal year, but shall consult the OWNER prior to 
+implementing said adjustments to the system. Any adjustments to the system shall be communicated to the 
+public by and through the SERVICE PROVIDER. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+"!#             

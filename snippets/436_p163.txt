@@ -1,0 +1,160 @@
+# source: raw/bleecker_drive/Williston/Williston_Adopted_MunicipalPlan_August_2025.pdf
+# path: raw/bleecker_drive/Williston/Williston_Adopted_MunicipalPlan_August_2025.pdf
+# hit page: 163 of 376
+# terms: Via Mobility
+
+=== page 162 ===
+114 
+ 
+10.10 
+Design and build new Taft Corners streets for slow-moving traffic and 
+to accommodate bicyclists and pedestrians. 
+10.10.1 
+Evaluate the feasibility of allowing or 
+requiring 10-foot-wide travel lanes in some 
+or all of the new Street Specifications that 
+were adopted in 2022 as part of the Taft 
+Corners Form-Based Code, many of which 
+allow for 11- or 10-foot-wide travel lanes. 
+Planning 
+Public Works 
+Short Term 
+-- 
+10.10.2 
+Evaluate the Form-based Code Street 
+Specifications Map to ensure a complete 
+bicycle network will be created as these 
+streets are built over time. Ensure where 
+possible that all streets that provide an off-
+street cycle track are connected to one 
+another. 
+Planning  
+Public Works 
+Short Term 
+--
+=== page 163 ===
+115 
+ 
+End Notes 
+ 
+1 Chapter header pictures: from left: the construction of Interstate 89 and Exit 12 in 1962 fundamentally 
+changed land use and transportation patterns in Williston; vision for future Trader Lane grid street; Williston 
+Safe Routes to School leads monthly walks to Williston Central and Allen Brook Schools. 
+ 
+2 Heaps, Wendy et al, 2021. Public Transportation In The US: A Driver of Health and Equity. Health Affairs 
+Health Policy Brief, July 29, 2021. DOI: 10.1377/ hpb20210630.810356. Accessed 4/8/2025 at 
+https://www.healthaffairs.org/content/briefs/public-transportation-us-driver-health-and-equity.  
+ 
+3 Scoping study was completed in 2014 and was updated in 2025. 
+ 
+4 Short/Mid/Long Term Implementation Package of Phase III CIRC Alternative Projects. Chittenden County 
+Regional Planning Commission. Accessed 4/7/2025 at https://www.ccrpcvt.org/wp-
+content/uploads/2016/01/20131121_PhaseIII_Project_List_Final.pdf.  
+ 
+5 R.S.G. Transportation, Inc. prepared for Chittenden County Regional Planning Commission. 2014. Williston 
+Essex Network Transportation Study (WENTS) – Final Report. Accessed 4/8/2025 at 
+https://www.ccrpcvt.org/wp-content/uploads/2016/01/WENTS-Final-Report-March2014.pdf.  
+ 
+6 Dubois and King, Inc., 2016. Class I Town Highways: Costs and Issues for Vermont Communities 
+Considering Reclassification of State Highways. White Paper prepared for Vermont Agency of Transportation 
+Policy, Planning and Research Bureau. Accessed 4/8/2025 at 
+https://vtrans.vermont.gov/sites/aot/files/planning/documents/planning/Class%20I%20Town%20Highways
+%20White%20Paper.pdf.  
+ 
+7 Town of Williston, Vermont, 2024. Town Plan Engagement Insights 
+Report. https://www.town.williston.vt.us/vertical/sites/%7BF506B13C-605B-4878-8062-
+87E5927E49F0%7D/uploads/Williston_2050_Engagement_Insights_Report_Final_April_2024.pdf. Accessed 
+April 29, 2024.  
+ 
+8 Volker, J. M. B., & Handy, S. (2021). Economic impacts on local businesses of investments in bicycle and 
+pedestrian infrastructure: a review of the evidence. Transport Reviews, 41(4), 401–431. Accessed 4/8/2025 at 
+https://doi.org/10.1080/01441647.2021.1912849.  
+ 
+9 Vermont Statutes. 24 V.S.A. § 4421. Official map. Accessed 4/8/2025 at 
+https://legislature.vermont.gov/statutes/section/24/117/04421.  
+ 
+10 Green Mountain Transit schedules, accessed 4/8/2025 at https://ridegmt.com/gmt-schedules/.  
+ 
+11 Green Mountain Transit Performance Dashboard. Accessed 4/8/2025 at 
+https://ridegmt.com/performance-dashboard/.  
+ 
+12 Green Mountain Transit. Town of Williston 2024 Annual Report. Accessed 4/8/2025 at 
+https://www.town.williston.vt.us/vertical/sites/%7BF506B13C-605B-4878-8062-
+87E5927E49F0%7D/uploads/2024_Annual_Town_Report.pdf.  
+ 
+13 Via Mobility, LLC., 2023. Williston Microtransit Study Final Report. Accessed 4/8/2025 at 
+https://www.town.williston.vt.us/vertical/sites/%7BF506B13C-605B-4878-8062-
+87E5927E49F0%7D/uploads/Williston_Microtransit_Study_Final_Report_-_v2.pdf.
+=== page 164 ===
+116 
+ 
+11 Energy and climate resilience1 
+ 
+ 
+ 
+Introduction
+The planet is facing a climate crisis, and the 
+impacts of climate change will increasingly 
+become a matter of public safety and economic 
+prosperity as extreme weather events occur with 
+greater frequency and intensity. Looking 
+towards the future, action must take place at all 
+levels to cut greenhouse gas (GHG) emissions 
+that result from the use of fossil fuels and to 
+mitigate its impacts. To meet these challenges, 
+towns need to design and implement plans that 
+ensure 
+safe, 
+sustainable, 
+and 
+thriving 
+communities in the context of a changing climate 
+and energy landscape.   
+The 2025 Williston Energy Plan is a standalone 
+document that is incorporated by reference into 
+this Town Plan and summarized in this chapter. 
+The Energy Plan was developed in accordance 
+with the Vermont Department of Public Service’s 
+energy planning standards and in alignment with 
+the goals outlined by the 2022 Vermont 
+Comprehensive Energy Plan (CEP). The Energy 
+Committee developed the energy plan with 
+input from Sustainable Williston, guidance from 
+town staff and Chittenden County Regional 
+Planning 
+Commission 
+(CCRPC) 
+staff, 
+and 
+oversight from the Planning Commission. The 
+Plan provides direction for the reduction of 
+greenhouse gas emissions by focusing attention 
+on five key areas: 1) transportation and land use, 
+2) building energy usage, 3) recycling and 
+consumption, 4) renewable energy generation, 
+and 5) agriculture.  
+ 
+Within each major focus area, the plan 
+articulates measurable goals the town aims to 
+achieve, outlines objectives to achieve said 
+goals, 
+identifies 
+pathways 
+that 
+list 
+the 
+responsible entities, and suggests a timeline for 
+task completion.  
+The energy profile for Williston (pages 7-13 of 
+the Energy Plan) provides an estimate of current 
+energy consumption in the heating, electricity, 
+and transportation sectors. These estimates are 
+provided to better understand where the town 
+is currently with respect to Vermont’s energy 
+goals.  
+The Energy Plan (pages 13-20) also provides a 
+picture of estimated future energy targets that 
+need to be met for Williston to achieve the goal 
+of 90% renewable energy by 2050. To achieve 
+these targets, multiple strategies and actions are 
+proposed.

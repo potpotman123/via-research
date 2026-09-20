@@ -1,0 +1,242 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Bay Transit/REDACTED-Via-Mobility-LLC-Response_RFP-2024-01-Transit-Scheduling-Software.pdf
+# pages_total: 60; hit_pages: [1, 3, 4, 5, 7, 9, 10, 11, 12, 14, 15, 17, 18, 20, 21, 22, 24, 25, 26, 27, 30, 34, 35, 37, 51, 57, 59, 60]; included: [1, 3, 4, 5, 18, 22, 34, 37]
+# context: Bleecker Drive folder: Bay Transit
+
+=== page 1 of 60 ===
+Transit Scheduling Software
+Bay Transit, a Division of Bay Aging
+Request for Proposal | No. 2024-01
+April 15, 2024
+Submitted by Via Mobility, LLC
+(A wholly owned subsidiary of Via Transportation, Inc.)
+
+=== page 3 of 60 ===
+1. Cover Letter
+Via Mobility, LLC
+(a wholly owned subsidiary of Via Transportation, Inc.)
+114 5th Avenue, 17th Floor
+New York, NY 10011
+Subject: RFP #2024-01 for Transit Scheduling Software
+To: Bay Transit, a Division of Bay Aging
+Attn: Michael B. Norvell
+Dear Mr. Norvell,
+Building upon the success of our existing on-demand partnership with Bay Transit, Bay
+Transit Express, we are excited to present Via’s response to Bay Transit’s Request for
+Proposal for Transit Scheduling Software. We look forward to expanding our partnership
+by unifying Bay Transit’s demand response and on-demand services onto a single
+scheduling and dispatch software platform, ensuring significant cost savings and greater
+consistency and flexibility for users across the region.
+Via is the world’s leading provider of demand response transportation software. We
+successfully serve more than 750 cities and agencies across the globe, including Virginia
+providers like
+We are also proud of
+our existing partnership
+with Bay Transit, where we
+have powered Bay Transit
+Express in the Gloucester
+Courthouse area since
+2021. We look forward to
+expanding this coverage
+to include demand
+response services across
+the broader Northern
+Neck and Middle
+Peninsula regions.
+RFP #2024-01 Transit Scheduling Software | 1
+
+=== page 4 of 60 ===
+Our demand response software delivers an exceptional experience for all users — riders,
+drivers, and backend staff — and the necessary flexibility to meet Bay Transit’s evolving
+transit needs. Our dedicated project team and expert advisors will continually work with
+Bay Transit to achieve its goal of streamlining transit operations and enhancing the user
+experience of Bay Transit drivers, dispatchers, and riders. We will leverage our in-house
+service design, marketing, and fundraising teams to ensure a seamless demand response
+service transition and long-term scalability across Bay Transit’s services.
+Our proposal for Bay Transit is centered on:
+A Single End-to-End Platform for On-Demand and Demand Response Services
+Via’s suite of familiar and user-friendly tools will provide Bay Transit with a single unified
+interface to manage all of its on-demand and demand response services, eliminating the
+​need for Bay Transit administrators to learn an entirely new system. Our software suite,
+which currently powers Bay Transit Express in the Gloucester Courthouse area, includes
+three core components: our white-labeled, fully automated Rider App, designed with user
+experience and accessibility at the forefront; our Driver App, which provides real-time
+turn-by-turn navigation and a hands-free display; and the Via Operations Center, a
+highly automated administrative platform that Bay Transit staff will use to manage
+services in real time. Through Via’s software, administrators will be able to seamlessly
+visualize and analyze the services thanks to a suite of fully integrated dashboards,
+reports and data tables.
+RFP #2024-01 Transit Scheduling Software | 2
+
+=== page 5 of 60 ===
+These integrated components will work together to enhance transparency,
+communication, and service performance on a rolling basis, leading to enhanced
+efficiency and cost savings for Bay Transit. Consolidating the demand response and
+on-demand services onto a single end-to-end platform will also benefit Bay Transit’s
+riders by providing a seamless user experience across different modes within the Bay
+Transit network, and enhancing accessibility across the region.
+Algorithms to Maximize Service Value
+Our partners provide services that are
+essential to the overall mobility of their
+communities, and Via’s technology is proven to
+maximize the public benefit that they can
+provide within a fixed budget. Our proprietary
+algorithms and mapping infrastructure are
+designed to help agencies provide their riders
+with essential services that offer high service
+quality, increased vehicle utilization, and
+reduced vehicle miles traveled. Our software
+uses machine learning, artificial intelligence,
+and leverages the data of the over 145 million
+trips we have powered. This allows our
+platform to make routing decisions based on
+historic and real-time traffic speeds, travel times, and customer demand data on a
+second-by-second basis, allowing vehicles to avoid congested areas and slower roads
+and provide more accurate wait times and ETAs to riders. As an example, King County
+Metro in Seattle, WA ran microtransit pilot programs with three vendors over four years,
+and found that they were able to save more than $53 per ride using Via’s technology
+compared to competitors’, allowing them to serve more trips with the same budget (as
+shown in the graphic above).
+Proprietary, Confidential, and Trade Secret Information
+RFP #2024-01 Transit Scheduling Software | 3
+
+=== page 18 of 60 ===
+‭The Rider App also provides a seamless interface‬
+‭to book pre-scheduled demand response rides. We‬
+‭can customize parameters such as the time‬
+‭intervals for pick up and how far in advance a rider‬
+‭can book a ride. To book a pre-scheduled trip,‬
+‭riders input their requested trip date, and whether‬
+‭they would like to be picked up or dropped off by‬
+‭their requested time. If the rider wishes to book a‬
+‭recurring trip — for example, every weekday, every‬
+‭Tuesday and Thursday, etc. — they can easily do‬
+‭so with the “Recurring ride” toggle. After inputting‬
+‭their preferences, the rider receives a trip proposal‬
+‭and can tap the “book ride” button to confirm.‬
+‭Bay Transit  Requirement‬
+‭Via‬
+‭Scheduling‬
+‭The software shall allow riders to schedule demand response and/or on demand rides via smart phone‬
+‭application, web-based portal, or telephone (call taker).‬
+‭Software shall allow riders to schedule rides in advance outside of business hours (while ride‬
+‭confirmation will only occur within business hours).‬
+‭Configured to accept a reservation even if the optimal wait times are not available. Instead, it should‬
+‭provide the next available time for pick-up and avoid reporting 'No ride available'.‬
+‭Allow on-demand service riders to schedule same day rides allowing for shorter wait times (10-15‬
+‭minutes).‬
+‭Allow demand response riders to schedule trips up to seven (7) days in advance of the requested trip‬
+‭date for subscription trips and four (4) days in advance to the requested trip date for regular trips.‬
+‭1‬
+‭Software shall allow cancellations prior to pick-up time. The software shall monitor same day‬
+‭cancellations for demand response service as these may result in a penalty fee for the rider.‬
+‭System shall provide functionality to prohibit riders from constraining demand response service‬
+‭scheduling resourcing (e.g., a rider cannot schedule multiple rides during the same date/time window).‬
+‭Software shall allow riders to have subscriptions (standing orders).‬
+‭Software shall allow riders to book a return trip (for demand response service).‬
+‭RFP #2024-01 Transit Scheduling Software‬ ‭|‬ ‭16‬
+
+=== page 22 of 60 ===
+and other relevant profile data. We can also configure custom fields based on Bay
+Transit’s needs, including Social Security Number, client ID, bus swipe card number, and
+other information not already included in the Rider Profile. Rider Profiles also allow
+administrators to see which programs a rider is eligible for and track rider-specific
+accommodations or “driver notes.”
+Authorized staff (based on assigned roles and permissions) can edit information in the
+customer database, such as adding ride credit or promo codes to waive fares for eligible
+riders, or add relevant comments to Rider Profiles at any time. Additionally, Bay Transit
+can set up parameters to automatically block riders from booking rides if they have
+excessive no-show rates or for other reasons as determined appropriate by Bay Transit.
+Bay Transit Requirement
+Via
+Scheduling
+The software shall be enabled for demand response and/or on-demand rides, including ride scheduling
+and dispatch.
+System shall provide configurable demand response service scheduling business rules, such as ride
+distance or advanced ride date restrictions.
+Software shall allow transit provider dispatchers to see all rides scheduled and dispatched.
+Software shall allow dispatchers to reschedule, cancel and/or reassign rides, as necessary.
+Software shall have the capabilities to flag riders that consistently no-show for rides, provide a
+list/notification of these riders to Bay Transit, and limit these riders’ access and ability to use the system.
+Software shall have the ability to identify operators’ and vehicles’ availability for scheduling (e.g.,
+operators on break and vehicles not active due to vehicle service/maintenance), to reduce potential for
+mis-scheduling a ride to an unavailable operator or vehicle.
+Software shall allow dispatchers to aggregate rides provided riders have a similar pick-up location or
+destination.
+Software shall allow dispatchers to schedule rides for riders that have subscriptions (standing orders).
+Software shall allow the ability to assign vehicles to multiple regions.
+Software shall update estimated time of arrival as well as the rider manifest based on ride requests and
+real-time travel information.
+RFP #2024-01 Transit Scheduling Software | 20
+
+=== page 34 of 60 ===
+Service Planning and Design: Each community has unique goals and
+passenger needs, so our launch process is anchored around a
+collaborative input gathering stage that includes simulation studies, a
+review of Bay Transit’s technical requirements, and alignment on
+performance and reporting goals. The result is a service design plan that is completely
+customized to suit Bay Transit’s needs, and which allows Via's implementation specialists
+to configure the Via system according to Bay Transit’s goals.
+Testing and Training: In advance of launch, Via's launch team will install
+Via's Driver App, test with drivers in vehicles, and conduct training
+workshops for Bay Transit staff to ensure they are comfortable using Via's
+software from day one. Via-provided marketing materials can also support
+the Bay Transit’s pre-launch community outreach and marketing efforts to
+ensure passengers are aware of the service transition.
+Launch Support: We understand how challenging it can be to transition
+software providers, and we also recognize the importance of face-to-face
+conversations to facilitate trust in the new system. Via is pleased to commit
+to on-the-ground support for Bay Transit’s staff during the immediate
+launch period. This in-person support will be supplemented by our robust partner support
+team, including a dedicated Partner Support Manager and 24/7 technical support.
+4.5.2 Data Conversion from Routematch to Via
+As part of our launch process, we will migrate all data from Bay Transit’s existing systems
+into Via’s platform in order to enable access through the VOC for report and data
+generation. Via’s in-house Data Science team will work directly with staff to conduct a
+proven, four-step data migration process:
+1.
+Knowledge sharing & data scoping
+2. Data evaluation
+3. Initial data migration, quality assurance (QA), and validation
+4. Full migration, QA, validation, and field testing
+This process will ensure a successful migration of data to the Via Platform, and enable us
+to convert Bay Transit’s service with minimal disruptions.
+RFP #2024-01 Transit Scheduling Software | 32
+
+=== page 37 of 60 ===
+4.6 Technical Support
+From our experience as operators of transit services, we understand that consistent
+service delivery is incredibly important for Bay Transit riders, drivers, and staff. Our
+software has been designed to function with minimal intervention so that our partners can
+focus more on innovating their transit systems and less on solving technical problems. To
+deliver on this promise, our global staff includes over 500 software engineers who are
+committed to building reliable, user-friendly software. The result is a highly available
+and consistent platform for our partners, delivering 99.9% uptime. In the event that Bay
+Transit riders, drivers, and staff need support, we have developed robust materials and
+processes to ensure prompt incident response and resolution:
+4.6.1 Written Materials and Guides
+As a part of the implementation and training
+process, Via works with our partners to
+build a suite of tailored materials regarding
+the use of the platform and various features
+(for more details, see section 4.5.3 Training
+Plan). Bay Transit will continue to have easy
+access to these materials afterwards, so
+that staff may quickly reference them at any
+time when they have questions.
+4.6.2 24/7 Technical Support
+Bay Transit will have access to 24/7 technical assistance through our support platform. A
+rotating team of support engineers is on call at all times to resolve any problems that may
+arise. Incidents are escalated using a predefined alert protocol, which instantly notifies
+the on-call member of the team. The technical team member will immediately examine
+the issue to begin the process of issue resolution and resource allocation. All issues will
+be resolved based on their level of severity and associated response times, and Via will
+provide Bay Transit with regular status updates on resolution.
+4.6.3 Partner Success Support
+will continue to serve as Bay Transit’s Partner Success Manager, the main
+point of contact for technical support, troubleshooting, and ongoing training.
+will be
+available to support the Bay Transit team via email and phone during regular business
+hours. She will also train new staff members, offer refresher sessions, and provide
+training after significant software updates.
+RFP #2024-01 Transit Scheduling Software | 35

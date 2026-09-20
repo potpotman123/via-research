@@ -1,0 +1,80 @@
+# source: https://rideuta.legistar1.com/rideuta/attachments/ebcdcddc-5e2e-4868-aa89-6b81aeb29ed3.pdf
+# path: raw/cache/7c3b5e4f812cf9edf698942d5d1f98d5c6e93eb8.pdf
+# hit page: 11 of 12
+# terms: Via+not to exceed, Via+not-to-exceed, Via+per vehicle hour, Via+vehicles
+
+=== page 10 ===
+Docusign Envelope ID: 670A3F1E-632B-4725-85A8-4B343BEA1FEB
+Appendix C:
+Service Fees
+The table below outlines the payment structure, in which UTA would be charged a price per driver
+hour. Any new regulatory fees imposed by a governmental entity related to the service will be
+charged as a pass-through cost contingent on UTA advance agreement provided such agreement
+will not be unreasonably withheld. UTA will have the option of decreasing other services or
+expenses in order to off-set these additional fees. The Deployment shall include a fleet of vehicles
+as described in Appendix B, subject to extension by mutual agreement of the parties on terms to
+be agreed (including any change in fees). The total contract value shall not exceed that listed in
+this Appendix C, "Not-to-Exceed Fees," of $2,898,286 for the 20-month duration of this Service
+Order (through December 31, 2026). The parties agree that the budget outlined in Service Order 8
+for the Deployment in West Provo and the budget outlined in Service Order 5 for the Deployment
+in South Salt Lake and South Davis Counties can be shared, such that excess budget in either
+service order can be deployed towards the other. The Parties further agree that shifting budget from
+one service area or order to another may require a service order modification or change order if
+the approved Not-To-Exceed amount for a service order is affected.
+Via will separately invoice UTA for marketing expenses incurred and as authorized by UTA under
+Section 8 of the Service Order. Via will charge its standard labor rate of $150.00 per hour for
+4
+=== page 11 ===
+Docusign Envelope ID: 670A3F1E-632B-4725-85A8-4B343BEA1FEB
+internal marketing labor cost. All other marketing expenses will be passed through at cost. The
+total combined marketing expenses incurred by Via and UTA shall not exceed $100,000. This
+amount is not included in the pricing table shown above.
+The values in the table above are Not-to-Exceed (NTE) amounts and are subject to downward
+adjustment based on actual revenue hours achieved.
+UTA will be billed for the above fees as described below. Driver hours will be billed as incurred
+at the end of each month. UTA shall pay the following fees to Via:
+Ongoing Invoice Fees
+UTA shall pay the following fees to be invoiced monthly by Via on or around the 15th of each
+month:
+These fees are exclusive of fuel. Via will provide fuel though and charge this to UTA as a
+passthrough cost.
+The above per vehicle hour amounts include and account for the Vehicle Partner's fixed costs to
+meet the vehicle requirements set forth herein. Such cost equals a rate of $6 per vehicle hour. For
+the avoidance of doubt, fuel, maintenance, and other variable costs related to vehicle upkeep are
+not included in the fixed vehicle costs as outlined above. The Vehicle Partner will be primarily
+responsible for the provision of vehicles on a rental basis to Driver Partners.
+Should changes in applicable federal, state, local law result in a significant change in Via' s
+costs, either an increase or decrease, Via or UTA may opt to renegotiate the ongoing on-
+demand service hour fees or level of service obtained.
+5
+=== page 12 ===
+Docusign Envelope ID: 670A3F1E-632B-4725-85A8-4B343BEA1FEB
+Appendix D:
+Service Goals and Objectives
+UTA and Via will collaborate towards the service goals and objectives for the Deployment as
+noted below. Via agrees to use commercially reasonable efforts to meet the goals and objectives,
+but the parties acknowledge that failure to meet the goals and objectives shall not constitute a
+breach of the MSA or this Service Order.
+The Parties agree to hold regular performance reviews throughout the duration of the Deployment
+to review service performance metrics, track progress toward the goals listed below, and, as
+appropriate, to jointly re-assess strategies to ensure the Deployment's long-term success.
+Objectives:
+• Attract and build new ridership to promote the use of public transit rather than single-
+occupancy vehicle automobile trips
+• Provide new mobility options for residents of the West Provo Deployment Service Area
+• Support connections to UTA fixed route services and other popular locations for the
+residents of the neighborhoods served
+• Provide support to UTA and local jurisdictions inside the Deployment Service Area to
+stimulate the local economy and small businesses
+• Build brand recognition and awareness for UTA On Demand by Via
+Goals:
+• Ridership growth: Estimate 10% growth each year, each zone
+• On-time performance: 90% of bookings "picked up" no later than 5 minutes after the
+planned pickup time provided to the customer at the time of booking ("Actual Planned
+Pickup Time" compared to "Original Planned Pickup Time")
+• Service quality: No more than 3% of customer booking requests receive a "seat
+unavailable" error, on average (at least 97% average "Met Demand")
+• Service efficiency: Average service utilization between 2.0 and 3.5 completed passenger
+trips per driver shift hour
+• Cost efficiency: Average cost per ride $20.00 or lower
+6

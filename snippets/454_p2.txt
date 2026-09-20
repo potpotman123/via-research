@@ -1,0 +1,114 @@
+# source: raw/bleecker_drive/Topeka/Proposal-ViaMobilityLLCforPosting.pdf
+# path: raw/bleecker_drive/Topeka/Proposal-ViaMobilityLLCforPosting.pdf
+# hit page: 2 of 44
+# terms: Via Mobility
+
+=== page 1 ===
+RFP for Microtransit 
+System
+Topeka Metropolitan Transit Authority 
+Request for Proposal | TM-22-01
+August 17, 2022
+Submitted by Via Mobility, LLC 
+(A wholly owned subsidiary of Via Transportation, Inc.)
+=== page 2 ===
+Proprietary and Confidential Information
+Via Mobility, LLC (“Via”) response and all supporting documentation, including associated exhibits
+and appendices, contain confidential information exempt from disclosure under the Kansas
+Statutes Annotated (“K.S.A.”) § 45-215 (the “Kansas Open Records Act”). The confidential materials
+include, but are not limited to, information relating to the pricing of Via's services, back-end
+application processes, proprietary algorithms, unique business methodologies, entity officer and
+member details, market positioning, third party reference letters, compliance efforts, and sensitive
+information on key performance indicators. This information is exempt from disclosure under
+several provisions of the Kansas Open Records Act, including but not limited to K.S.A. § 45-221(33)
+(as a sealed bid and information relating to such a bid); K.S.A. § 45-221(33) (as financial
+information submitted by a potential contractor); K.S.A. § 45-221(18) (as proprietary plans,
+designs, drawings, or specifications for a transit solution); K.S.A. § 45-221(30) (as personal
+information); and K.S.A. § 45-221(1) (as information that qualifies as trade secret under K.S.A. §
+60-3320(4) and similar federal laws, the disclosure of which is prohibited or restricted by federal
+law, state statute or rule of the Kansas supreme court). Accordingly, we request that your office
+maintain the confidentiality of Via’s response and provide Via with timely notice of any third party’s
+request for these materials prior to production by contacting compliance@ridewithvia.com.
+RFP for Microtransit System | 2
+=== page 3 ===
+Table of Contents
+8.2 Understanding Scope and Specifications
+6
+8.2.1 Specifications
+10
+8.2.2 Introduction to Via Software
+15
+A) Overview of Via Platform
+15
+B) Routing and Matching Algorithms
+18
+C) Commingling
+19
+D) Multimodal Planning with Fixed-Route
+20
+E) Integration
+21
+8.2.3 Customer Facing Functionality
+22
+Rider Registration
+23
+Fare Payment
+23
+Accessibility
+25
+Pickup and Drop-Off Location Selection
+26
+Group Size Selector
+27
+On-Demand Trip Proposal
+28
+Pre-Scheduled Trip Proposal
+28
+Rider Communications
+29
+Rider Support and Feedback
+30
+8.2.4 Driver-Facing Functionality
+31
+Driver App Overview
+32
+Driver App Connectivity
+33
+8.2.5 Dispatching Interface
+34
+The Hub
+34
+The Ride Plan
+35
+The Booking Module
+36
+The Map Editor
+37
+Databases
+38
+8.2.6 Data & Reporting
+42
+Service KPI Reports
+43
+Data Generator
+43
+Regulatory Reports
+44
+8.3 Experience and Qualifications of the Firm
+45
+8.3.1 Via Overview
+45
+8.3.2 The Via Advantage for Metro
+46
+8.3.3 Service Planning
+48
+A) Overview
+49
+B) Internal Simulation Tools
+50
+C) Configurable Service Parameters
+51
+8.3.4 Project Team and Ongoing Support
+52
+A) Firm Structure & Organization
+52

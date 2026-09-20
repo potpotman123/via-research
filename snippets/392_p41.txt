@@ -1,0 +1,228 @@
+# source: raw/bleecker_drive/Los Alamos (Spare Labs)/1040_24_A_-_AGR_24-37_Spare_Labs_Inc.pdf
+# path: raw/bleecker_drive/Los Alamos (Spare Labs)/1040_24_A_-_AGR_24-37_Spare_Labs_Inc.pdf
+# hit page: 41 of 81
+# terms: Spare Labs
+
+=== page 40 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+40 
+ Agreement Template Version: 04012024 
+4 
+The software shall provide replay controls to view the entire sequence of reported events and 
+locations for a given time frame. Individual vehicle history reports must be available to County staff for 
+a minimum of seven (7) years. 
+5 
+The software shall enable automatically generated operator itineraries for each service day, taking 
+into consideration all recurring trip reservations and pre-scheduled reservations. The system shall 
+optimize for least distance and travel time, based on the street network segment parameters stored in 
+the system, and prioritize ADA paratransit certified passengers over riders of the general public.   
+6 
+The software shall provide the ability to print or export operator itineraries in a printable format for 
+each service day. 
+7 
+The software shall allow for vehicle assignments by service zone. Vehicles shall perform passenger 
+boardings and alightings only within the designated service zone and will not be assigned passenger 
+trips in alternate service zones. The software shall allow dispatchers to manually override this setting 
+as circumstances dictate.   
+8 
+The software shall allow for time buffers between passenger boardings, allowing for additional 
+boarding time for customers with special needs which may cause an extended boarding process, 
+such as the use of a mobility device or service animal.  
+9 
+The software shall allow users and staff to book trips that transfer to or from fixed route bus stops. 
+Scheduling should use knowledge of the fixed route schedule (using either GTFS, GTFS-Realtime, or 
+another similar method) to provide an optimal trip. Ideally, real-time fixed route information will be 
+used to modify the itinerary as needed. 
+10 
+The system shall indicate to County staff all relevant client information such as client name, pickup 
+window, special equipment needs, and any relevant client-linked notes for each reservation. This 
+information shall be available in the dispatching software in addition to the vehicle operator interface 
+(at the time of passenger boarding).   
+05 
+Vehicle Operator Interface 
+1 
+The operator application shall be available for installation on standard tablet hardware. Alternatively, 
+the operator application should be compatible with Avail Technologies mobile data units if the 
+preceding requirement cannot be met.    
+2 
+The operator application shall display turn-by-turn directions with street names and mileage until next 
+movement while the operator is enroute to a passenger boarding location and while a trip is in 
+progress. The operator application shall alert the operator when off task or off route.   
+3 
+If the software adds a passenger trip while a trip is in progress, the driving directions will automatically 
+update with no input from the vehicle operator.   
+4 
+The operator application shall display a map showing the current location of the vehicle alongside 
+routing directions to boarding and alighting locations.  
+5 
+The operator application will provide all relevant passenger information, (including but not limited to) 
+passenger name, origin, destination, pickup window, appointment time (if relevant), and any notes 
+entered by the client or dispatch. 
+06 
+Public Portal - For General Public 
+1 
+The customer application shall be available for download from the Google Play Store and Apple App 
+Store. The application shall be compatible for all Android and Apple devices.  
+2 
+The application shall allow customers to create and modify account details and store personal 
+information free of agency intervention.  
+3 
+The application must detect the customer’s current location upon login.   
+4 
+Customers must be able to select boarding and alighting locations by either entering a street address 
+into a search bar, searching for a Point of Interest, directly selecting locations displayed on a map, 
+placing a pin on a map, or by using the customer’s current location. 
+Attachment A
+=== page 41 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+41 
+ Agreement Template Version: 04012024 
+5 
+The customer application shall display a map showing the current location of the requested vehicle, 
+estimated time of arrival for pick up, and descriptive information about the vehicle such as operator 
+name, fleet number, and vehicle make or model prior to passenger boarding. While a trip is in 
+progress, the customer application shall display estimated time of arrival to the destination and 
+current vehicle location.   
+6 
+Once a trip is booked, the customer application shall provide step by step travel instructions for 
+customers, including walking directions to/from the boarding and alighting locations.  
+7 
+For those trips that utilize the fixed-routes for part of the journey, the customer application shall 
+provide directions for how and when to board and alight the fixed-route. Preferably, the application 
+will utilize GTFS-Realtime information or some other method to provide real-time fixed-route 
+information to the passenger. 
+8 
+If enabled by the customer, the application shall send messages to the customer’s mobile device as 
+certain thresholds are met, including the day before a scheduled trip, an hour before a scheduled trip, 
+and as the on-demand vehicle approaches the boarding location, including (but not limited to) push 
+notifications, SMS text messages, emails, and IVR telephone calls.   
+9 
+The customer application shall allow customers to book reservations by desired arrival or departure 
+times.   
+10 
+The customer application shall prevent customers from booking trips that do not meet predetermined 
+service criteria, including trips booked outside of a service area or span of service, or trips that do not 
+meet minimum distance requirements.   
+11 
+When making reservations, ADA and general public customers shall have the ability to indicate the 
+use of various aid tools, such as mobility devices and service animals.   
+12 
+The customer application shall comply with all prevailing ADA accessibility guidelines.  
+13 
+The customer application shall be translatable into multiple languages.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Attachment A
+=== page 42 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+42 
+ Agreement Template Version: 04012024 
+Exhibit C 
+County Technology Standards 
+AGR24-37 
+ 
+The following County Technology Standards marked as “Yes” under “Required” shall be supported by the 
+Contractor, throughout the Term of this Agreement. The table below indicates the Contractor has either 
+agreed to a specific standard or a standard has been agreed by County to not be required or not 
+applicable to this Agreement. 
+ 
+STANDARD REQUIREMENT 
+Required or  
+Not Applicable (“N/A”) 
+Server 
+Operating 
+system (OS) 
+(On-Premises) 
+Microsoft (MS) Windows Server 2019, 64 bit or current 
+(Standard and Datacenter). Contractor software must be 
+maintained to run on a supported platform service level as 
+defined by Microsoft at the latest stable patch level. 
+Departments shall be responsible for licensing costs and must 
+request cost estimates from Information Management (IM) 
+Division. 
+N/A 
+Server 
+Hardware 
+(On-Premise) 
+Preferred: Use of County VMware server platform. 
+Environment design must be submitted and reviewed by IM 
+Division for acceptance. Proposals shall include required 
+hardware and licensing of VMware, operating system, and 
+proposed application-based requirements. Application with 
+a proven Virtual installation template is preferred. 
+ 
+Physical Server minimum hardware specifications consist 
+of: Multi Socket/Multi Core processor Intel or AMD based 
+server (standalone or blade server as determined by Los 
+Alamos County IM Division with a minimum 64 GB RAM 
+and RAID capability. Contractor software must be 
+maintained to run on a supported platform service levels as 
+defined by Microsoft at the latest stable patch level. 
+N/A 
+Network 
+Infrastructure 
+See LAC Standards and Specifications for Building and 
+Campus Distribution Systems Version 3 (Primarily used for 
+building construction purposes). 
+N/A 
+Network 
+(On-Premise) 
+Supported network protocol is TCP/IP (IPv4). Standards 
+based NIC rated at 100/1000/10G copper or fiber is 
+supported. If considering a 10G connection County IT 
+network group shall be consulted to ensure equipment 
+compatibility and availability at proposed site. Additional 
+hardware cost, may be required of the project, based on 
+project requirements, equipment and availability. The County 
+uses Cisco technology as its default network equipment 
+standard. Solutions shall be compatible with Cisco Network 
+Technology. 
+N/A 
+Remote 
+Network 
+Access (On- 
+Premise) 
+Direct remote access to the County network and server 
+environment shall be done using the County’s Cisco 
+AnyConnect SSH VPN. Once a VPN connection is 
+established end-point connections are supported via 
+Microsoft RDP. Contractor support accounts shall be set up 
+in accordance with the adopted Los Alamos County IT 
+Usage and Security Policy #1210. 
+N/A 
+LAC Network 
+Account 
+Privilege (On- 
+Premise & 
+Hosted) 
+Desktop Client Software shall function for end users with 
+standard user privileges. user cannot install software and shall 
+not have administrative rights. 
+YES 
+Attachment A

@@ -1,0 +1,60 @@
+# source: raw/bleecker_drive/Hall County/Micro-Transit-Feasibility-Study.pdf
+# path: raw/bleecker_drive/Hall County/Micro-Transit-Feasibility-Study.pdf
+# hit page: 10 of 24
+# terms: Via Mobility, Via+vehicles
+
+=== page 9 ===
+RFP #39-021 – Microtransit Feasibility Study  
+Via Mobility, LLC 
+ 
+ 
+ 
+Page 7 
+ 
+ 
+Hall County Simulation Results 
+Via simulated the following 5 scenarios: 
+Scenario 1) Upgrade the Dial-A-Ride service 
+This would be a County-wide service, replacing the existing Dial-A-Ride service, which 
+delivers ~40 rides per day across a 400 sq. mile zone, shown below. Approximately half of 
+Dial-A-Ride trips begin and end within the core microtransit zone, and would be served ‘on-
+demand’, meaning a rider can request an immediate pickup. Via recommends that the rides 
+outside of this core zone, which currently make up about 20 rides per day, be accessed 
+through  pre-scheduling, meaning they are requested in advance. Users will be asked to 
+indicate their pickup window (within a configurable range), allowing Via’s technology to 
+better aggregate these longer trips.  
+Microtransit vehicles required: 5-6 vehicles 
+Expected daily ridership: 40-70 rides / day
+=== page 10 ===
+RFP #39-021 – Microtransit Feasibility Study  
+Via Mobility, LLC 
+ 
+ 
+ 
+Page 8 
+ 
+ 
+Scenario 2) Upgrade all six Gainesville Connection (GC) routes 
+This service would replace the Gainesville Connection fixed-route network, which serves 
+approximately 620 rides /day. The proposed service area is overlaid on the existing routes in 
+the map below.  
+Microtransit vehicles required: 14-16 vehicles 
+Expected Daily Ridership: 600-900 rides / day
+=== page 11 ===
+RFP #39-021 – Microtransit Feasibility Study  
+Via Mobility, LLC 
+ 
+ 
+ 
+Page 9 
+ 
+ 
+Scenario 3) Upgrade three underperforming Gainesville Connection 
+routes 
+This service would replace three of the six Gainesville Connection routes. Currently, routes 
+20, 41, and 50 (shown on the map below) deliver approximately 220 rides / day and carry 
+fewer than 10 passengers per service hour, an opportunity for additional efficiency gain 
+through a more flexible microtransit service model. The proposed service area is overlaid on 
+the existing routes in the map below.  
+Microtransit vehicles required: 7-8 vehicles 
+Expected daily ridership: 200-350 rides / day

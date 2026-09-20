@@ -1,0 +1,231 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/City of Norman/ITEM-Attachment-001-5dd10c600aad47c78619f616d072ec4a.pdf
+# pages_total: 25; hit_pages: [1, 11, 13, 15, 16, 22]; included: [1, 11, 13, 15, 16, 22]
+# context: Bleecker Drive folder: City of Norman
+
+=== page 1 of 25 ===
+1 | Page 
+ 
+AGREEMENT FOR MICROTRANSIT SERVICES 
+This Agreement for Microtransit Services (“Agreement”) is made and entered into in the State of 
+Oklahoma, this ____ day of ___________, 2023, by and between the City of Norman, a municipal 
+corporation (“City”), and River North Transit, LLC (“Consultant”). 
+WHEREAS, City desires to hire Consultant to perform certain services specified herein; and 
+WHEREAS, Consultant represents that Consultant and/or Consultant’s personnel have the qualifications 
+and experience to properly perform such services: 
+NOW, THEREFORE, City and Consultant hereby agree as follows: 
+1.   Scope of Services 
+Consultant shall furnish City with services as more particularly set forth in Exhibit A (Scope of Services) 
+attached hereto and incorporated by this reference in full herein. 
+ 
+2.   Method of Performing Services 
+Subject to the terms and conditions of this Agreement, Consultant may determine the method, details, 
+and means of performing the services described herein. 
+ 
+3.   Standard of Performance 
+Consultant agrees to undertake and complete these services to conclusion, using that standard of care, 
+skill, and diligence normally provided by a professional person in performance of similar consulting 
+services. 
+ 
+4.   Nonexclusive Services 
+This Agreement shall not be interpreted to prevent or preclude Consultant from rendering any services 
+for Consultant’s own account or to any other person or entity as Consultant in its sole discretion shall 
+determine. Consultant agrees that performing such services will not materially interfere with services to 
+be performed for the City. 
+ 
+5.   Coordination of Services 
+All services are to be coordinated with the Transit and Parking Program Manager, subject to the 
+direction of the City Manager. 
+ 
+ 
+DocuSign Envelope ID: AF22D6C9-3063-4196-BEFB-79BD22904046
+
+=== page 11 of 25 ===
+Exhibit A (Scope of Services)1 
+  
+  
+Date: _____________ 
+  
+          
+1. Purpose; Scope  
+  
+By this service order (the “Order”), River North Transit, LLC (“Consultant”), a wholly owned 
+subsidiary of Via Transportation, Inc. (“Via”) and The City of Norman, Oklahoma (“City”) agree 
+to collaborate towards the initiation of City’s demand response transit service in Norman, 
+Oklahoma (as agreed upon by the parties during the planning and design stages of the Pilot) for 
+twelve months following launch thereof, subject to extension by mutual agreement of the 
+parties. 
+  
+In accordance with the Agreement, Consultant will provide City with technology and technology- 
+enabled integration services (the “Services”), acting as a broker coordinating the services of 
+third party service providers to effectuate the on-demand transit service (the “Pilot”). Consultant 
+will contract with third party service providers to effectuate such integration, including with fleet 
+managers, vehicle suppliers, driver partners, background check providers, customer service 
+support agencies, a payment processor and insurance brokers and underwriters. Consultant’s 
+Services will include: 
+  
+●      Localization of a proprietary cloud-based dynamic vehicle routing and real-time 
+passenger aggregation system; 
+●      Access to the Via mobile rider application (iOS and Android) for individuals using 
+the City’s service (“Riders”) to book and pay for rides through a smartphone; 
+●      Access to booking via a dedicated phone line for Riders who do not have access to 
+a smartphone; 
+●      Access to the Via mobile driver application for drivers to route and service rides 
+through a smartphone or tablet; 
+●      Establish relationship with vehicle rental company (“Vehicle Partner”) to provide 
+access to vehicles on a rental basis to independent contractor driver partners (“Driver 
+Partners”) who shall provide transportation services;  
+●      Accompanying technical and operational support service; 
+●      Marketing and outreach initiatives as described herein. 
+●      Data sharing and reporting as described herein. 
+  
+Conflicts between this Service Order and any other terms and conditions or written agreements 
+between the parties shall be resolved in favor of this Service Order. 
+ 
+1 A  cap ta zed terms used but not def ned here n sha  have the mean ng set forth n the Agreement for M crotrans t 
+Serv ces s gned by R ver North Trans t, LLC and the C ty (the “Terms”). 
+DocuSign Envelope ID: AF22D6C9-3063-4196-BEFB-79BD22904046
+
+=== page 13 of 25 ===
+City will be billed for the above fees as described below. Fees assume Launch Date occurs 
+within four months of contract signing. If the Launch Date is delayed beyond four months of 
+contract signing, Consultant may opt to renegotiate the fees. Ongoing Invoice Fees will be billed 
+payable in advance on the first of the month and as further specified below. City shall pay the 
+following fees to Consultant: 
+ 
+Fixed (Upfront) Costs 
+City shall pay to Consultant a non-refundable installation fee of $91,960, which will be payable in 
+full upon signing of this Agreement. In addition to technology localization costs, installation fee 
+includes WAV retrofits and vehicle wraps. Should City require additional WAV retrofits or vehicle 
+wraps, Consultant will bill City as incurred. 
+  
+Ongoing Invoice Fees 
+City shall be responsible for monthly ongoing fees of $99.70 per vehicle hour (the “Monthly 
+Subscription Fees”). A vehicle hour is defined as each hour during which a driver is paid on the 
+Via platform. All fees set forth herein shall be payable by City on a net thirty-day basis. If 
+Consultant does not receive timely payment, Via Entity may suspend Via Entity’s performance 
+and seek cost of collection, including reasonable court ordered attorneys’ fees. 
+ 
+Consultant will provide City with an invoice statement showing the calculation of the Monthly 
+Subscription Fees incurred based on the actual number of vehicle hours that Driver Partners 
+performed during that month in the form attached hereto as Exhibit B. The City hereby agrees 
+DocuSign Envelope ID: AF22D6C9-3063-4196-BEFB-79BD22904046
+
+=== page 15 of 25 ===
+● Geographic Coverage Zone: Approximately 15.1 square miles coverage zone in 
+Norman, OK with an approximate shape as indicated in the image below. The final zone 
+will be determined by mutual agreement between City and Consultant. 
+ 
+● Service Days/Hours: 7:00 PM to 1:00 AM on Monday through Saturday; 10:00 AM to 
+6:00 PM on Sundays 
+● Rider Fare: The rider fare will be $2.00. During the duration of the launch process and 
+the Pilot, rider fare may be amended by mutual agreement between City and Consultant. 
+● Payment: Consultant will ensure acceptance of Rider payment through the app via credit 
+cards and pre-paid debit cards.  
+● Payment: The Vehicle Provider will offer a fleet of up to four (4) branded, licensed and 
+insured vehicles, to be made available to independent contractor Driver Partners, who will 
+be able to gain access to these vehicles after being registered onto the Platform. One of 
+these four (4) vehicles will be treated as a spare vehicle, which will only be used if one of 
+the core fleet vehicles becomes inoperable. If the branded vehicle fleet is not sufficient to 
+meet service requirements for any reason, Consultant may supplement the fleet with a 
+temporary fleet that would include other makes and models, as necessary in order to 
+increase the supply of vehicle hours. Such vehicles may be unwrapped and identified by 
+magnets. 
+ 
+During the Term of the Agreement, Service Parameters may be modified based on mutual 
+agreement between City and Consultant. City shall be responsible for any cost incurred by 
+Consultant as a result of such changes.  
+ 
+Consultant will ensure the execution of the necessary registrations and licensing to perform the 
+Services, with the cooperation and assistance of the City. 
+ 
+Parking: City shall identify and make available a depot or parking lot with ample overnight parking 
+(at minimum 7 spaces) for the dedicated fleet along with spaces for Driver Partners’ personal 
+vehicles. The depot/lot must be in a safe and lighted area inside the boundaries of the service 
+zone 
+  
+ 
+ 
+DocuSign Envelope ID: AF22D6C9-3063-4196-BEFB-79BD22904046
+
+=== page 16 of 25 ===
+5. Project Team & Governance 
+  
+Consultant will be responsible for the integration of all relevant elements of the Pilot on a 
+continuous basis during the course of the Pilot and will designate a project manager for this 
+purpose (the “Consultant Project Manager”) who will lead Consultant’s Project Team.  City will 
+designate a project manager to be the primary point of contact with Consultant throughout the 
+duration of the Pilot (the “City Project Manager”).  The Consultant Project Manager will be in 
+regular contact with the City Project Manager through informal and scheduled project meetings.   
+  
+The Consultant Project Manager will be empowered to enact day-to-day decisions related to the 
+Services and will serve as the primary point of contact with the City Project Manager on an 
+ongoing basis.  The Consultant Project Manager will appoint members to the Project Team to 
+assist in the integration of the various elements of the Pilot, to include personnel with expertise in 
+service scoping, independent contractor driver outreach and registration to the Platform, fleet 
+maintenance procurement, marketing, and data analytics.  For the avoidance of doubt, the 
+Consultant Project Manager will have no power to serve notice or amend the Agreement, or this 
+Order. 
+  
+Leading up to the launch of, and during the course of the Pilot, Consultant’s Project Team, led by 
+the Consultant Project Manager, will liaise with the City Project Manager over the key deliverables 
+of this Order and to endeavor to maximize ongoing service optimization. 
+  
+6. Driver Partner Registration & Supply Management 
+  
+Consultant will source Driver Partners to provide transportation services to City through the 
+Platform. Consultant will engage in a good faith effort to register Norman residents as Driver 
+Partners.  
+  
+Consultant will ensure that Driver Partners have appropriate licenses, permits, and insurance 
+required for the type of vehicles being operated.  As part of Driver Partner registration for 
+access to the Platform, all Driver Partners will be introduced to Consultant with the following 
+areas covered: familiarization with the Pilot service areas; hours of service; City’s expectations 
+as set out in the Norman Microtransit Pilot Program RFP and Via’s proposal; use of the Driver 
+App; and reporting incidents and delays in service. 
+  
+Consultant will be responsible for ensuring that there is adequate driver supply for each service 
+zone within designated hours to meet demand with optimal quality of service, given constraints. 
+  
+7. Rider and Driver Partner Support 
+  
+Consultant will ensure the provision of customer service and support for Driver Partners and 
+Riders on issues that arise in connection with use of the Platform.  
+  
+DocuSign Envelope ID: AF22D6C9-3063-4196-BEFB-79BD22904046
+
+=== page 22 of 25 ===
+DocuSign Envelope ID: AF22D6C9-3063-4196-BEFB-79BD22904046
+Exhibit B
+Invoice and Data Backup
+CONFIDENTIAL
+Invoice
+Date
+River North Transit, LLC
+Via Transportation, Inc.
+10 Crosby Street, Floor 2
+New York, NY 10013
+United States
+Bill To
+City of Norman, Oklahoma
+201 W Gray St,
+Norman, OK 73069
+Description
+Rate
+Total Vehicle Hours
+Please make checks payable to:
+River North Transit LLC
+P.O. Box
+7410493
+chica
+160674
+0493
+Wire Instructions:
+Invoice #
+Terms
+pue Date
+Billing Period
+Net
+Quantity
+Amount
+Total

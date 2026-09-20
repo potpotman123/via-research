@@ -1,0 +1,145 @@
+# source: raw/bleecker_drive/Green Bay Metro/fb3feab088.pdf
+# path: raw/bleecker_drive/Green Bay Metro/fb3feab088.pdf
+# hit page: 9 of 20
+# terms: Spare Labs, Via+turnkey, Via+vehicles
+
+=== page 8 ===
+Microtransit Feasibility Report 
+July 2020 
+8 
+ 
+Figure 5: Green Bay Metro Weekday Boarding Heatmap, November 2019 
+ 
+Source: Brown County Planning Commission 
+* Note: UW-Green Bay and Edison Middle School were omitted from this graphic due to data limitations.   
+ 
+Opportunities for Improvement 
+Based on the ridership, productivity, and fare revenue information listed above, six routes consistently 
+fall short of Green Bay Metro’s performance standards: Route 3, Route 10, Route 15, Route 16, Route 
+17, and Route 18. While Green Bay Metro prioritizes review for routes under 80 percent of the median 
+route performance, Routes 15, 16, and 17 perform at less than 50 percent of the median on all three 
+measures.  
+ 
+Three routes (Route 15, 16, and 18) in a contiguous service area on Green Bay’s east side and in the 
+neighboring Village of Bellevue, where the population density, land use, and pedestrian environment are 
+less conducive to fixed-route transit. Each route connects to the rest of the Green Bay Metro network 
+via Route 12 and Route 14 at the agency’s East Side Transfer Point (2240 Main Street). Given the 
+proximity of these three routes to one another, as well as the availability of connecting fixed-route 
+service, Routes 15, 16, and 18 offer opportunities for restructuring, including potential conversion to 
+demand-response service.   
+ 
+Section 2 of this report will investigate the potential for restructuring of Routes 15, 16, and 18, including 
+the addition of demand-response service and the implementation of supporting changes on other 
+routes.
+=== page 9 ===
+Microtransit Feasibility Report 
+July 2020 
+9 
+Section 2: Microtransit Pilot Project   
+Across the United States, transit agencies are increasingly pursuing service allocation projects that 
+reassess the current models of transit service delivery across routes, modes, and urban typologies. In 
+many cases, these efforts are intended to prioritize fixed-route transit service in dense urban areas that 
+offer higher ridership potential, while right-sizing transit capacity in lower-density areas that are less 
+suited to fixed routes.  
+ 
+The challenges addressed by these studies are not new: transit agencies have long been tasked with 
+balancing ridership and service coverage. However, recent innovations in demand-response 
+transportation offer new and compelling ways to provide on-demand transportation that is perceived as 
+high-quality transit. Since the advent of private on-demand transportation services like Lyft and Uber, 
+customers have increasingly become familiar with the process of booking a ride via a smartphone app.  
+ 
+In the past five years, many transit agencies have begun experimenting with pilot projects that could 
+offer a similar customer experience to transit customers, either via agency-operated demand-response 
+service or turnkey contracts with private providers. These services, in many cases branded as 
+“microtransit,” intend to deliver shared-ride service on demand, with dynamic dispatching, real-time 
+information, and a customer experience that is more responsive and convenient than traditional 
+advance-reservation dial-a-ride service. Examples of microtransit services in other regions are shown in 
+Table 4.  
+ 
+Table 4: Peer Microtransit Service Examples 
+Transit Agency 
+Service Name 
+Provider(s) 
+Description 
+SouthWest Transit 
+(Eden Prairie, MN) 
+SW Prime 
+Operations:  
+In-House 
+Software:  
+Spare Labs 
+Started as a pilot in 2015, SW Prime provides shared-ride on-
+demand service within the communities of Eden Prairie, Chaska, 
+Chanhassen, Carver, and Victoria, located in the Twin Cities 
+Metropolitan Area. SouthWest Transit uses SW Prime to provide 
+service for local community-based trips, as well as to connect with 
+its extensive network of express buses serving downtown 
+Minneapolis, the University of Minnesota, and other regional 
+destinations. Local trips are offered at a premium fare of $5.25 
+($5.00 using cash), with discounts available for seniors, children, 
+group rides, and participants in the Twin Cities region’s Transit 
+Assistance Program (TAP). For customers transferring to or from a 
+SouthWest Transit express bus, SW Prime fares are free. 
+Denver RTD 
+(Denver, CO) 
+FlexRide 
+Operations: 
+Paratransit 
+Contractor 
+Software: 
+DemandTrans 
+Solutions 
+Originally started as RTD’s Call-n-Ride service in the mid-2000s, 
+FlexRide is the Denver region’s general-public demand-response 
+service. RTD operates 24 FlexRide zones across the Denver region, 
+with each zone served by 1-4 vehicles depending on demand. 
+Customers can reserve a trip in advance through a website or 
+mobile device or book a trip on demand (10 minutes in advance). 
+Fares are set at $3.00 (equal to the regional local transit fare), with 
+discounts available for seniors, passengers with disabilities, and 
+youth. Most FlexRide zones serve both first- and last-mile trips to 
+RTD rail or bus hubs, as well as local trips within the service area.
+=== page 10 ===
+Microtransit Feasibility Report 
+July 2020 
+10 
+Transit Agency 
+Service Name 
+Provider(s) 
+Description 
+Sacramento 
+Regional Transit 
+District 
+(Sacramento, CA) 
+SmaRT Ride 
+Operations:  
+In-House 
+Software:  
+Via Transportation, 
+Inc. 
+Introduced in 2018, SacRT’s SmaRT Ride service has expanded 
+from a small pilot project to become one of the nation’s largest 
+on-demand microtransit services. Starting in January 2020, SacRT 
+contracted with Via to provide the on-demand routing software 
+and customer-facing mobile app, expanding to 9 zones with 42 
+transit vehicles. The service includes 3 “curb-to-curb” zones and 6 
+“corner-to-corner” zones; in the latter case, customers may be 
+asked to walk to an intersection to facilitate more efficient trips. 
+Fares are $2.50, or $1.25 for reduced-fare riders.  
+  
+As noted in the previous section, Green Bay Metro has identified portions of its service area currently 
+covered by Routes 15, 16, and 18 as an opportunity to pilot a new, on-demand microtransit service.  By 
+using smaller, more flexible vehicles dispatched on an on-demand basis, Green Bay Metro hopes to 
+deliver a quality transit service to customers traveling in the within the areas currently served by these 
+routes while simultaneously freeing up fixed-route buses and associated operating costs for use on more 
+productive routes.  
+ 
+Microtransit Basics 
+Microtransit service is intended to deliver a modern demand-response transit service with a customer 
+experience similar to the private, smartphone-enabled transportation services now available in many 
+cities (including Lyft, Uber, and others). As a publicly subsidized service, microtransit is typically offered 
+as a shared-ride service using either vans or dedicated paratransit-style vehicles, as shown below. 
+ 
+Figure 6: Example Microtransit Vehicle 
+ 
+Source: Capital Metro (Austin, TX) via Community Impact Newspaper, August 2019.

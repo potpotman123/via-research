@@ -1,0 +1,71 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Milwaukee/25-271 REPORT.pdf
+# pages_total: 4; hit_pages: [3]; included: [3]
+# context: Bleecker Drive folder: Milwaukee
+
+=== page 3 of 4 ===
+Same Day Pilot Program 
+ 
+Service began on the Transit Plus Same Day Pilot at the end of August 2024 and is 
+contracted with Tidewater Transit, dba Via, to run until September 2025 or until 
+budgeted funds are expired.  Service is provided on a same day basis rides for trips that 
+could not have been scheduled the day before and thus could not have been scheduled 
+on the existing paratransit vans.   
+ 
+The original parameters for the program limited trip purpose to trips for health/medical 
+or employment purposes only. Some examples of the use cases under this umbrella 
+would include a same day trip to urgent care, going to pick up a sick child, or being 
+called into work.  Ridership under the original parameters was very low. 
+Month 
+Client Trips 
+Total Riders 
+September 
+10 
+10 
+October 
+10 
+12 
+November 
+22 
+25 
+December 
+29 
+35 
+January 
+24 
+29 
+February  
+30 
+46 
+ 
+As of March 3, 2025, program parameters were expanded to make better use of vehicle 
+service hours that are already on the road.  Clients can now use the service for a wide 
+variety of trip purposes as long as the trip could not have been scheduled the day 
+before.  Additionally, all Transit Plus clients are automatically enrolled into the pilot and 
+cash is now accepted on the vans. Preliminary information indicates that these changes 
+have resulted in increased ridership and better utilization of the vehicle service hours 
+provided. 
+ 
+ALIGNMENT TO STRATEGIC PLAN 
+Describe how the item aligns to the strategic plan: 
+2A: 
+Determine what, where, and how we deliver services to advance health equity. 
+2B: 
+Break down silos across County government to maximize access to and quality of 
+services offered. 
+3A: 
+Invest “upstream” to address root causes of health disparities. 
+3B: 
+Enhance the County’s fiscal health and sustainability. 
+3C: 
+Dismantle barriers to diverse and inclusive communities. 
+ 
+RECOMMENDATION 
+This report is for informational purposes unless otherwise directed. 
+ 
+VIRTUAL MEETING INVITES 
+Donna Brown-Martin, Director, MCDOT 
+John Rodgers, Deputy Director, MCDOT 
+Julie Esch, Interim President and Managing Director, MCTS (jesch@mcts.org) 
+Sandra Kellner, Chief Administrative Officer, MCTS (skellner@mcts.org) 
+Frances Musci, Director of Paratransit, MCTS (fmusci@mcts.org)

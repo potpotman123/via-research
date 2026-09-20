@@ -1,0 +1,513 @@
+# source: raw/bleecker_drive/North San Diego/Board Agenda Packet - March 20, 2025.pdf
+# path: raw/bleecker_drive/North San Diego/Board Agenda Packet - March 20, 2025.pdf
+# hit page: 135 of 255
+# terms: Remix Technologies
+
+=== page 134 ===
+Original Commitments 500K in Value or Less and Change Order Commitments 250K in Value or Less 
+October 1, 2024 to December 31, 2024 
+ 
+Page 7 of 8 
+ 
+Order 
+Number 
+Original 
+Order 
+Change 
+Order 
+Supplier Description 
+Service/Product Description 
+ Extended Cost  
+Fed 
+Funds 
+Sole 
+Source 
+36820 
+X 
+  
+Grainger, Inc 
+Janitorial Supplies 
+ $          4,986.48  
+N 
+  
+36801 
+X 
+  
+Rivcomm, Inc. 
+Remote Mount Kit at SOF 
+ $          4,986.78  
+N 
+  
+36863 
+X 
+  
+Waxie Enterprises, LLC 
+Janitorial Supplies BOW 
+ $          4,990.66  
+N 
+  
+36846 
+X 
+  
+Cal Systems 
+E-Access Migration and Upgrade 
+ $          4,995.00  
+N 
+  
+36700 
+X 
+  
+Pinsource 
+Challenge Coin-Veteran's Day 
+ $          4,998.23  
+N 
+  
+36725 
+X 
+  
+The Sherwin-Williams Co 
+Paint (Open PO) 
+ $          4,999.00  
+N 
+  
+36726 
+X 
+  
+APCO International, Inc. 
+Frequency Coordination Fees 
+ $          4,999.00  
+N 
+  
+36752 
+X 
+  
+Elite Relocation Services, LLC 
+Warehouse Relocation Services 
+ $          4,999.00  
+N 
+  
+36772 
+X 
+  
+ Narcy Construction & Roofing 
+Roof Repairs at BOE 
+ $          4,999.00  
+N 
+  
+36798 
+X 
+  
+Motorola Solutions, Inc. 
+AVTEC Dispatch Tech Support 
+ $          4,999.00  
+N 
+  
+36879 
+X 
+  
+Impact Pacific Inc. dba Impact Design 
+As Needed Signs 
+ $          4,999.00  
+N 
+  
+36883 
+X 
+  
+Autodesk 
+Renewal-AutoCAD Licenses 
+ $          4,999.00  
+N 
+  
+36871 
+X 
+  
+Pacific Lift and Equipment Co. 
+Rotary Lift Repair at BOE 
+ $          4,999.26  
+N 
+  
+36880 
+X 
+  
+Kept Companies dba Fleetwash 
+Bus Stops Powerwash (92 stops) 
+ $          4,999.99  
+N 
+  
+24012 
+  
+X 
+EIDIM AV Technology 
+Boardroom Technology Upgrade 
+ $          5,724.98  
+Y 
+  
+23069 
+  
+X 
+Roma Engineering 
+Station Platform Sign Installation 
+ $          5,950.00  
+Y 
+  
+36716 
+X 
+  
+Computer Design Center LLC 
+ThinkStation P620 Workstation 
+ $          6,554.25  
+Y 
+  
+36876 
+X 
+  
+Grainger, Inc 
+Janitorial Supplies - BOW 
+ $          6,665.66  
+N 
+  
+23069 
+  
+X 
+Roma Engineering 
+Station Platform Sign Installation 
+ $          6,950.00  
+Y 
+  
+24046 
+  
+X 
+Gafcon 
+Labor Compliance Consulting Services 
+ $          7,539.33  
+N 
+  
+36817 
+X 
+  
+NOREX, Inc. 
+ Norex Renewal 
+ $          7,600.00  
+N 
+X 
+36717 
+X 
+  
+Wabtec dba Wabtec Global Services 
+TMC and CDU Radio Repairs 
+ $          7,613.27  
+N 
+  
+36773 
+X 
+  
+TTCI dba MxV Rail 
+FCC 601 Radio License renewal 
+ $        10,000.00  
+N 
+  
+23069 
+  
+X 
+Roma Engineering 
+Station Platform Sign Installation 
+ $        12,127.00  
+Y 
+  
+36818 
+X 
+  
+Datel Systems, Inc. 
+Barracuda Web App Renew 
+ $        12,743.00  
+N 
+  
+17038 
+X 
+  
+Trapeze Software Group, Inc. 
+Extra Licenses 
+ $        12,943.00  
+Y 
+  
+25009 
+X 
+  
+Blue Triton Brands dba Ready Refresh 
+Water Services 
+ $        13,465.49  
+N
+=== page 135 ===
+Original Commitments 500K in Value or Less and Change Order Commitments 250K in Value or Less 
+October 1, 2024 to December 31, 2024 
+ 
+Page 8 of 8 
+ 
+Order 
+Number 
+Original 
+Order 
+Change 
+Order 
+Supplier Description 
+Service/Product Description 
+ Extended Cost  
+Fed 
+Funds 
+Sole 
+Source 
+36722 
+X 
+  
+CDW Government, Inc. 
+Ocularis Licensing 
+ $        15,141.90  
+N 
+  
+25011 
+X 
+  
+Quadient, Inc. 
+Postage Machine 
+ $        19,009.80  
+N 
+  
+36727 
+X 
+  
+GovConnection, Inc dba Connect 
+VMWare Support Contract 
+ $        20,663.50  
+N 
+  
+36721 
+X 
+  
+ESRI, Inc. 
+ARCGIS LICENSES 
+ $        22,225.00  
+N 
+X 
+23027 
+X 
+  
+STV, Inc. 
+MOW Building Tenant Improvements 
+ $        24,326.00  
+Y 
+  
+20032 
+  
+X 
+Alstom Transportation, Inc. 
+Bilingual Decals 
+ $        25,046.26  
+N 
+  
+35760 
+  
+X 
+Verizon 
+Toughbook Data Plans - ROW 
+ $        28,808.64  
+N 
+  
+22013 
+X 
+  
+Sardo Bus & Coach Upholstery 
+Passenger Seat Reupholstery 
+ $        30,017.86  
+Y 
+  
+36765 
+X 
+  
+AT&T Calnet 3 
+Circuits AT&T MPLS 
+ $        40,780.15  
+N 
+  
+25010 
+X 
+  
+Razor Safe 
+Welders Training 
+ $        40,800.00  
+N 
+  
+24061 
+X 
+  
+Dilax 
+APC Software 
+ $        45,565.00  
+N 
+  
+36865 
+X 
+  
+MyCOI LLC 
+COI Management Service 
+ $        52,532.00  
+N 
+  
+36807 
+X 
+  
+Railquip 
+SPRINTER Auxiliary Bogies 
+ $        71,973.09  
+Y 
+  
+22016 
+  
+X 
+Trillium 
+Replace Fleetwatch Fuel Management System 
+ $      109,607.65  
+Y 
+  
+36658 
+X 
+  
+Penske Chevrolet 
+Non-revenue Vehicles-Extended Cab and Hi-Rail 
+ $      127,962.99  
+Y 
+  
+18007 
+X 
+  
+STV, Inc. 
+Fuel Cell Electric Buses Inspections 
+ $      188,473.13  
+Y 
+  
+36799 
+X 
+  
+WorkTango, Inc. 
+Rewards & Recognition Software 
+ $      245,449.83  
+N 
+  
+20009 
+X 
+  
+Liebert Cassidy Whitmore 
+On Call Legal Services 
+ $      249,999.00  
+N 
+  
+20011 
+X 
+  
+Devaney Pate Morris & Cameron 
+On Call Legal Services 
+ $      249,999.00  
+N 
+  
+20013 
+X 
+  
+McDougal Love Boehmer Foley et al 
+On Call Legal Services 
+ $      249,999.00  
+N 
+  
+36850 
+X 
+  
+Balfour Beatty Infrastructure, 
+115lb Crossing Panels 
+ $      308,809.23  
+Y 
+  
+25015 
+X 
+  
+Remix Technologies, LLC dba Remix 
+Remix Software License 
+ $      362,643.01  
+N 
+X 
+23020 
+X 
+  
+Zones, LLC 
+Microsoft License Subscriptions 
+ $      432,683.00  
+N 
+  
+25016 
+X 
+  
+Vincor Construction, Inc. 
+SOF Finish Improvements 
+ $      441,855.48  
+N
+=== page 136 ===
+March 20, 2025 Board Meeting 
+ 
+Staff Report No.:  SR-25-03-010 
+ 
+Agenda  
+Item #  
+10 
+ 
+RATIFY REVISION 7 TO ADDENDUM NO. 21 TO MASTER 
+MEMORANDUM OF UNDERSTANDING BETWEEN THE NCTD, THE 
+SAN DIEGO METROPOLITAN TRANSIT SYSTEM, AND SAN DIEGO 
+ASSOCIATION OF GOVERNMENTS CONCERNING THE REGIONAL 
+FARE PAYMENT SYSTEM 
+ 
+ 
+Time Sensitive:  ☒ 
+Consent:  ☒ 
+ 
+STAFF 
+RECOMMENDATION: 
+Ratify Revision No. 7 to Addendum No. 21 to the Master Memorandum of 
+Understanding Between NCTD, the San Diego Metropolitan Transit System, and 
+San Diego Association of Governments concerning the Regional Fare Payment 
+System including an initial five-year capital spending limit for future PRONTO 
+enhancements subject to available funding and programming in the NCTD Capital 
+Improvement Program.   
+ 
+BACKGROUND 
+INFORMATION: 
+ 
+In December 2018, the San Diego Metropolitan Transit System (MTS) awarded a 
+contract for a new regional account-based fare system to Innovations in 
+Transportation, Inc. (INIT). In the third and fourth quarters of FY2020, the North 
+County Transit District (NCTD) awarded separate contracts to INIT for the field 
+equipment and software associated with the new regional fare collection system 
+branded as PRONTO. PRONTO went live in September 2021 to replace the 
+former Compass Card program.  
+ 
+PRONTO allows passengers to pay the fare to ride transit services using a 
+PRONTO card, through the PRONTO mobile application (app), or a contactless 
+credit/debit card. The PRONTO card or app may hold either transit products or cash 
+(as stored value) for use on regional transit services. Transit products may include 
+but are not limited to monthly passes, post-secondary passes, single-day, and 
+multi-day passes. The PRONTO Card utilizes wireless technology to interface with 
+validator devices on buses, rail platforms, and Ticket Vending Machines (TVMs). 
+Passengers must tap their PRONTO Card or validate their PRONTO mobile app 
+barcode on a validator, or purchase a one-way ticket at a PRONTO TVM, to utilize 
+transportation services. PRONTO offers numerous operational benefits for NCTD, 
+including unified system access, a single sales channel for all product types, 
+enhanced ridership tracking, more access to data, and enhanced customer 
+relationship management capabilities (CRM). 
+ 
+In September 2021, NCTD and MTS executed the “PRONTO Regional Fare 
+System Administration Service Level Agreement” (SLA), which outlines the 
+parameters for the management of the PRONTO fare system and establishes MTS 
+as the System Administrator. The SLA also founded the PRONTO Task Force 
+(PTF), which includes representatives from NCTD and MTS. The PTF guides the 
+system change management and future enhancement process for PRONTO.   
+ 
+Revision No. 7 of the MOU includes language to provide greater flexibility in joint 
+marketing and promotions involving PRONTO fare media, clarifies invoicing 
+procedures, provides an initial five-year capital spending limit for PRONTO future 
+enhancements ($800,000), updates revenue sharing to include open payments,

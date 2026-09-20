@@ -1,0 +1,100 @@
+# source: raw/bleecker_drive/City of Norman/ITEM-Attachment-001-5dd10c600aad47c78619f616d072ec4a.pdf
+# path: raw/bleecker_drive/City of Norman/ITEM-Attachment-001-5dd10c600aad47c78619f616d072ec4a.pdf
+# hit page: 13 of 25
+# terms: Via+per vehicle hour, Via+subscription
+
+=== page 12 ===
+2. Duration & Launch Date 
+  
+The duration of the Pilot shall last for a period of 12 months following the launch date (the 
+“Initial Term”), subject to extension by mutual agreement of the parties on terms to be agreed 
+(including any increase in monthly fees for additional months).   
+   
+The City will provide written notice to proceed to Consultant at least 8 weeks prior to service 
+launch.  For the avoidance of doubt, notice to proceed can only be written by City once the 
+contract and appendices (including the Order) are final and signed, and any necessary local and 
+regulatory approvals have been received or registrations completed. Upon receipt of such 
+written notice to proceed, Consultant will commence local preparation for launch (“Launch 
+Preparation Period”). Service operation will begin on a mutually agreeable date, no earlier than 
+August 21, 2023, unless Consultant and the City define an alternative mutually agreeable date 
+in writing (“Launch Date”). 
+  
+3. Fees 
+  
+The Fees for the service described in this Order are: 
+  
+The table below outlines the payment structure, in which City would be charged an upfront fee, 
+ongoing monthly fees based on vehicle hours. All regulatory fees related to the service will be 
+charged as a pass-through cost. The Pilot shall include a fleet of vehicles as described in Section 
+4, Service Parameters, subject to extension by mutual agreement of the parties on terms to be 
+agreed (including any change in fees). The total contract value shall not exceed $639,413 for the 
+initial contract term.  
+  
+DocuSign Envelope ID: AF22D6C9-3063-4196-BEFB-79BD22904046
+=== page 13 ===
+City will be billed for the above fees as described below. Fees assume Launch Date occurs 
+within four months of contract signing. If the Launch Date is delayed beyond four months of 
+contract signing, Consultant may opt to renegotiate the fees. Ongoing Invoice Fees will be billed 
+payable in advance on the first of the month and as further specified below. City shall pay the 
+following fees to Consultant: 
+ 
+Fixed (Upfront) Costs 
+City shall pay to Consultant a non-refundable installation fee of $91,960, which will be payable in 
+full upon signing of this Agreement. In addition to technology localization costs, installation fee 
+includes WAV retrofits and vehicle wraps. Should City require additional WAV retrofits or vehicle 
+wraps, Consultant will bill City as incurred. 
+  
+Ongoing Invoice Fees 
+City shall be responsible for monthly ongoing fees of $99.70 per vehicle hour (the “Monthly 
+Subscription Fees”). A vehicle hour is defined as each hour during which a driver is paid on the 
+Via platform. All fees set forth herein shall be payable by City on a net thirty-day basis. If 
+Consultant does not receive timely payment, Via Entity may suspend Via Entity’s performance 
+and seek cost of collection, including reasonable court ordered attorneys’ fees. 
+ 
+Consultant will provide City with an invoice statement showing the calculation of the Monthly 
+Subscription Fees incurred based on the actual number of vehicle hours that Driver Partners 
+performed during that month in the form attached hereto as Exhibit B. The City hereby agrees 
+DocuSign Envelope ID: AF22D6C9-3063-4196-BEFB-79BD22904046
+=== page 14 ===
+that the sample invoice form set forth on Exhibit B is satisfactory to City, both in substance and 
+format, and sufficient to process invoicing such that questions regarding invoice or invoice support 
+format will not delay payment to Consultant. If City requires additional invoice support, Consultant 
+can use best efforts to provide it, and additional costs may apply.  
+ 
+Should changes in applicable federal, state or local law result in a significant change in 
+Consultant’s costs, Consultant or City may opt to renegotiate the ongoing monthly fees. Should 
+changes in applicable market dynamics result in an increase in Consultant’s cost per hour of 10% 
+or more to any of the following categories, compared to costs at the time of contract signing, 
+Consultant may amend the ongoing on-demand vehicle hour rate accordingly: 
+● Labor (driver pay) 
+● Vehicle rental 
+● Fuel 
+  
+Should Consultant elect to adjust the per vehicle hour rate, supporting documentation of the 
+relevant cost increases will be provided to City, and the contract will be amended to reflect the 
+new Fee structure and per vehicle hour rate so that, at the discretion of the City, either: 
+1. The total not-to-exceed contract value is adjusted such that the total not-to-exceed number 
+of vehicle hours remains unchanged, or 
+2. The total not-to-exceed number of vehicle hours is adjusted such that the total not-to-
+exceed contract value remains unchanged. 
+ 
+Fare Revenue  
+Fare revenue collected (net of processing fees), will be reflected as a credit on the City’s invoice 
+on a one month lag. 
+ 
+Launch Delay 
+If the Launch Date is delayed for more than a month by City for any reason, City shall be 
+responsible for paying Consultant for any actual out of pocket costs incurred by Consultant in 
+preparation for launch (the “Upfront Costs”) and a $2,000 technology fee for the cost of 
+maintaining the technology infrastructure for City’s deployment during the period of delay (the 
+“Technology Fee”).  The Upfront Costs shall be payable within thirty days from the date City 
+notifies Consultant of the delay and the Technology Fee shall be payable monthly at the beginning 
+of the month in which it is incurred. 
+  
+4. Service Parameters 
+  
+Consultant will provide access to a platform service (the “Platform”) through which Riders will be 
+able to book and pay for rides on a shared and on-demand basis; and dedicated vehicles will be 
+offered by the Vehicle Provider to Driver Partners on a rental basis.  
+  
+DocuSign Envelope ID: AF22D6C9-3063-4196-BEFB-79BD22904046

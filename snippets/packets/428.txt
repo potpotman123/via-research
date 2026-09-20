@@ -1,0 +1,48 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/St. Lucie County/2456623_RFP_No._21-011_Addendum_2.pdf
+# pages_total: 7; hit_pages: [2]; included: [2]
+# context: Bleecker Drive folder: St. Lucie County
+
+=== page 2 of 7 ===
+Questions received on RFP No. 21‐011 St. Lucie County Microtransit Software 
+ 
+Q1:  TransLoc has a mobility solution for micro transit and they are big in this space. The RFQ mentions 
+new entrants with improved functionality and capabilities. What specific functionality and capabilities 
+are missing in TransLoc that the county is looking for? The reason for this question is to ensure that we 
+expend our resources intelligently.  Is the county looking for a finished off‐the‐shelf (OTS) solution or is 
+willing to invest in a solution built and tailored to the county’s needs with the expectation that such a 
+solution will take time to deliver? 
+Answer:  SLC’s minimum requirements are included in the RFP.  SLC is interested in the extent to 
+which a proposer’s system currently matches up with ‐‐ and how it handles ‐‐ each of the 
+requirements.  SLC will be checking with other transit agencies where a proposer’s technology is in 
+use to verify whether capabilities and features are being provided and are proven in day‐to‐day use. 
+ 
+Q2:  Does the County intend on releasing a pricing form? If so, we suggest that you leverage a per 
+vehicle revenue hour costing model.  That way the County is only charged for what they use and 
+respondents earn their revenues based off of usage. 
+Answer: The current pricing structure is a turnkey, reoccurring service fee based on the number of 
+vehicles in service.  
+The proposers are requested to take the existing, simplistic approach with a bottom line proposal to 
+the county. It is expected that the licensing cost, technical support, maintenance fees, license fees, 
+upgrades and new versions be provided when available. Each year of the contract should be included 
+in the bottom line proposal per vehicle.  
+ 
+Q3:  Would it be possible to provide Connector On‐Demand Service Statistics in an excel or .csv format? 
+Answer: Yes‐ Attached.  
+ 
+Q4:  How many vehicles will the County operate when this service launches? Understanding the County 
+is interested in expanding service, how many vehicles does the County intend to add to the service over 
+time? 
+Answer: It is guessed that there may initially be 1‐2 vehicles per each area if the pandemic continues, 
+with the expected ridership less than what normally would be forecast.  Post‐pandemic, 2‐3 vehicles 
+may be needed.  However, we will be in part dependent on the proposer’s software’s simulation 
+capabilities to determine the final number for each area, and in turn, the results of the simulation will 
+determine where the expansion takes place. 
+ 
+Q5:  Other than the requirements stated in RFP Part 1, does St. Lucie County require any forms to be 
+included with the contractor's submission? 
+Answer:   Any required documents is listed in the RFQ document.  
+ 
+Q6:  Considering public health guidelines and business closures in response to the COVID‐19 pandemic, 
+we respectfully request that the County accept digital proposals (submitted via email) in lieu of printed 
+copies.

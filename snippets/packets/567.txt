@@ -1,0 +1,48 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Doral/20_3828_Remix_Transit_Sole_Source.pdf
+# pages_total: 6; hit_pages: [3]; included: [3]
+# context: Bleecker Drive folder: Doral
+
+=== page 3 of 6 ===
+●
+(US Agencies) Default data layers:​ Remix provides immediate value to 
+agencies with out-of-the-box data layers for rapid demographic and equity 
+analysis. Default data layers include demographic data from the American 
+Community Survey (ACS), jobs data from the Longitudinal 
+Employer-Household Dynamics (LEHD) and Census Transportation Planning 
+Product (CTPP), origin-destination data from Origin-Destination 
+Employment Statistics (LODES), essential services data with Homeland 
+Infrastructure Foundation-Level Data (HIFLD), infrastructure data with the 
+Bureau of Transportation Statistics (BTS), and political boundaries data with 
+Community Development Financial Institutions Fund (CDFI Fund) and 
+Census.   
+ 
+●
+Unlimited users and technical support:​ One agency license includes access 
+for an unlimited number of users without the worry of maintenance, hosting, 
+or software updates. Users access Remix via a username/password with no 
+installation or downloads necessary. Remix Software, Inc. maintains the 
+technology infrastructure and releases new features for Remix Transit, 
+available immediately to active customers. Remix also provides unlimited 
+customer support for no additional charge.  
+ 
+●
+Wide range of imports and exports to promote interoperability:​ As a SaaS 
+product, Remix Transit is designed to work with existing agency tools and 
+processes, and the licensing is designed to support maximum collaboration. 
+Users can import and export existing information to GTFS. Other exports 
+include Microsoft Excel, KML, shapefile, PNG images, as well as print-ready 
+visuals in PDF. 
+ 
+Detailed Specifications 
+Remix Software, Inc warrants that it is the manufacturer and sole provider of the 
+Remix software platform. Furthermore, Remix Software, Inc. warrants that they are 
+the only source for setup and customization, training, and customer support services 
+for the Remix software.  In summary, Remix Transit provides the following features: 
+●
+Fast and accurate sketch planning using existing stop infrastructure, 
+including:  
+○
+Stops database built on latitude and longitude of existing stops, stop 
+IDs, stop names 
+3

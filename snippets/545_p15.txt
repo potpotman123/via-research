@@ -1,0 +1,157 @@
+# source: raw/bleecker_drive/City of West Sacramento/2023.06.07_-_City_Council_-_Amendment_No._5_to_NoMad_Transit_LLC_Contract.pdf
+# path: raw/bleecker_drive/City of West Sacramento/2023.06.07_-_City_Council_-_Amendment_No._5_to_NoMad_Transit_LLC_Contract.pdf
+# hit page: 15 of 63
+# terms: Via Transportation, Via+fleet
+
+=== page 14 ===
+Executive Summary 
+ 
+Michael Baker International - vi
+ 
+ 
+ 
+Performance Audit 
+Recommendation 
+Background 
+Timeline 
+and miles according to TDA, which the City or contractor 
+can then determine transit cost efficiency and 
+effectiveness measures that comply with TDA and transit 
+industry reporting standards.  
+ 
+Of the available metrics complimenting those already 
+being collected by the City and discussed with Via 
+Transportation, the following are suggested measures 
+that the City should require to be calculated and 
+reported in regular intervals, such as monthly, quarterly, 
+and annually. 
+ 
+• 
+Passengers per revenue hour  
+• 
+Passengers per revenue mile 
+• 
+Operating cost per revenue hour 
+• 
+Operating cost per revenue mile 
+• 
+Operating cost per passenger 
+• 
+Accidents/Vehicle roadcalls/breakdowns 
+• 
+On-time performance  
+• 
+Passenger complaints and compliments 
+ 
+These key measures create additional dashboard 
+indicators that mirror public transit operations from 
+which service goals and standards could be formed to 
+better measure productivity over time. For example, a 
+goal standard for passengers per revenue hour and cost 
+per revenue hour could be a rolling 6 to 12 month 
+average under TDA definitions. The City should work 
+with the contractor to develop productivity standards 
+using these measures to build a log of operational 
+efficiency and effectiveness tracking. Section IV of this 
+audit provides the TDA required measures as a starting 
+point.
+=== page 15 ===
+Triennial Performance Audit of Via Rideshare - West Sacramento – FYs 2019–2021 
+ 
+ 
+Michael Baker International - 1
+ 
+  
+ 
+Section I 
+ 
+Introduction 
+ 
+California’s Transportation Development Act (TDA) requires that a triennial performance audit be 
+conducted of public transit entities and transit service claimants that receive TDA revenues. The 
+performance audit serves to ensure accountability in the use of public transportation revenue.  
+ 
+The Sacramento Area Council of Governments (SACOG) engaged the Michael Baker International 
+audit team (Michael Baker) to conduct the TDA triennial performance audit of the nine public 
+transit operators and transit service claimants under its jurisdiction. This performance audit is 
+conducted for Via Rideshare in West Sacramento (City, West Sacramento, or Via) covering the 
+most recent triennial period, fiscal years 2018–19 through 2020–21.   
+ 
+The purpose of the performance audit is to evaluate Via Rideshare’s effectiveness and efficiency 
+in its use of TDA funds to provide public transportation in its service area. This evaluation is 
+required as a condition for continued receipt of these funds for public transportation purposes. In 
+addition, the audit evaluates Via Rideshare’s compliance with the conditions specified in the 
+California Public Utilities Code (PUC). This task involves ascertaining whether Via Rideshare is 
+meeting the PUC’s reporting requirements. Moreover, the audit includes calculations of transit 
+service performance indicators and a detailed review of the transit administrative functions. From 
+the analysis that has been undertaken, a set of recommendations has been made which is 
+intended to improve the performance of transit operations. 
+ 
+In summary, this TDA audit affords the opportunity for an independent, constructive, and 
+objective evaluation of the organization and its operations that otherwise might not be available. 
+The methodology for the audit included in-person and virtual interviews with management and 
+the contract operator, collection and review of agency documents, data analysis, and on-site 
+observations. The Performance Audit Guidebook for Transit Operators and Regional 
+Transportation Planning Entities, published by the California Department of Transportation 
+(Caltrans), was used to guide in the development and conduct of the audit.   
+ 
+Overview of the Transit System 
+ 
+Originally founded in 2012, Via Transportation is a transportation services technology provider 
+primarily focused on delivering on-demand and pre-scheduled shared rides, optimizing fixed 
+routes, and providing multimodal and intermodal transit technology. Via's algorithm matches 
+multiple passengers heading in the same direction and books them into a single vehicle. Shared 
+rides are usually from corner-to-corner to streamline vehicle routes, requiring passengers to walk 
+to a nearby pickup point, indicated on the app. Via primarily operates in partnership with a local 
+transit authority, government entity, university, school district, taxi fleet, or private organization. 
+The operational partnerships use Via's technology, but allow organizations to use their own
+=== page 16 ===
+Triennial Performance Audit of Via Rideshare - West Sacramento – FYs 2019–2021 
+ 
+ 
+Michael Baker International - 2
+ 
+  
+vehicle fleets, supply their own drivers, and provide their own live service staff. Partners may also 
+choose to have Via supply these resources, including full vehicle and operational management. 
+Those who opt for a turnkey solution run by Via, this is in partnership with 3rd party vehicle 
+partners and independent contracters. 
+ 
+In 2018, the City of West Sacramento launched the Via program as a one-year pilot, following 
+robust Transportation, Mobility, and Infrastructure (TMI) Commission and City Council 
+engagement dating back to June 2016. Following a competitive procurement, the City selected 
+NoMad Transit LLC, a wholly owned subsidiary of Via Transportation Inc., to pilot a shared, on-
+demand transportation service with flexible stops, schedules, and fleet supply. While primary 
+goals of the program included enhanced mobility, increased pooled rides, and improved quality 
+of life, the concept of right-sizing vehicles and making the supply of service demand-responsive 
+was also designed to capture cost efficiencies by regularly adapting the amount of service based 
+on historical and projected ridership trends. 
+ 
+West Sacramento is the third largest city of the four incorporated cities in Yolo County. The city 
+lies directly adjacent to the City of Sacramento, separated by the Sacramento River. The city has 
+a total land area of 21.43 square miles. Originally a collection of various fishing and farming 
+communities cumulatively known as “East Yolo,” the communities officially incorporated as the 
+City of West Sacramento in 1987. Based on the 2020 US Census, the city’s population was 53,915. 
+Based on the 2020 ACS 5-Year Estimate Data, 5,932 or 11.1 percent of the city’s population was 
+age 65 or older. The 2022 population is estimated to be 52,837 as reported by the California 
+Department of Finance. 
+ 
+System Characteristics 
+ 
+Via Rideshare is a rideshare service, allowing residents to catch a ride anywhere in the City of West 
+Sacramento for an affordable, flat fare. Passengers can book a ride using the free Via app. 
+Customers enter their pickup and drop-off locations and a vehicle will pick them up at their 
+doorstep or within a block or two. Those who don't have a smartphone or tablet can book a ride 
+by phone. 
+ 
+Customers are able to view estimated wait times when they enter their pickup and drop-off 
+locations in the Via app (or over the phone) before approving any payments. Wait times will vary 
+depending on nearby driver availability, but on average a Via van should arrive within 10-15 
+minutes. Riders typically don't wait longer than 30 minutes to be picked up. 
+ 
+Via Rideshare vehicles are wheelchair accessible in accordance with the Americans with 
+Disabilities Act (ADA) of 1990. Customers requiring a wheelchair-accessible vehicle can go to the 
+home page on the Via app and slide the wheelchair accessible button. Passengers making requests 
+by phone should inform the customer service representative. Once the wheelchair accessible 
+button is selected or a customer service representative is informed, an accessible vehicle will be 
+sent each time the rider requests a ride. Via vans have ample space for walkers, canes, or other

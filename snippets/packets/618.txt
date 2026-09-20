@@ -1,0 +1,932 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Broward/MA_Report.pdf
+# pages_total: 6451; hit_pages: [980, 1044, 1077, 2836, 2838, 2840, 3858, 3859, 3860, 3861, 3862, 3864, 3865, 3866, 3867, 3868, 3869, 3870, 3871, 3872, 3873, 3874, 3875, 3876, 3877, 3880, 3881, 3882, 5633, 5678, 5779]; included: [980, 1044, 2836, 2838, 2840, 3864, 3881, 5633, 5779]
+# context: Bleecker Drive folder: Broward
+
+=== page 980 of 6451 ===
+Current Procurement Contracts Sorted by Contract ID # As of 11/24/25
+Page 980 of 6451
+Lead Agency Contact (Contact Unit Mgr if Incorrect)
+RPMOORE@broward.org
+Contract ID #
+Document Description
+Start Date
+End Date
+Not To Exceed
+Amount Ordered
+A0905401G2_1
+Maint & Support Service Point
+4/23/2019
+5/6/2026
+$1,041,173.75
+$751,285.06
+Vend#-AddrID-ContactID
+Legal Name
+Vendor Contact Email
+Vendor Phone #
+0000005215
+WELLSKY CORPORATION
+Marsha.Blankenship@WellSky.com
+ 870/398-4831 
+Item #
+Category
+Description
+Total Line Qty
+Released
+UO
+M
+Maximum Line 
+Amount
+Unit Price
+Total Line Released 
+Amount
+Amount Paid
+leased servers dedicated
+to solely running the
+A0905401G2_1_013 
+9204500
+Data Transfers per 
+month. Data transfers 
+will be calculated each 
+month and billed 
+appropriately.
+55,225.0000
+LPS
+$0.0000
+$1.0000
+$55,225.0000
+$55,225.0000
+A0905401G2_1_014 
+9201400
+Premium Disaster 
+Recovery 
+ServicesEmergency 
+support line access 
+(24/7 basis); priority 
+level support. 
+Downtime will not 
+exceed 4 hours; includes
+hourly backups to an off
+site server via a secured 
+Virtual Private network 
+connections, and
+84.0000
+MTH
+$0.0000
+$800.0000
+$67,200.0000
+$67,200.0000
+A0905401G2_1_015 
+9201400
+Database Encryption for
+Service Point. All key 
+elements of d
+0.0000
+EA
+$0.0000
+$10,000.0000
+$0.0000
+$0.0000
+A0905401G2_1_016 
+9201400
+Annual Database 
+Encryption/License
+3,268.5800
+EA
+$0.0000
+$12.5000
+$40,857.3000
+$40,857.3000
+A0905401G2_1_017 
+9201400
+Training - Based on 
+Users/12 (class size)
+8.0000
+DAY
+$0.0000
+$1,500.0000
+$12,000.0000
+$12,000.0000
+A0905401G2_1_018 
+9201400
+Training - Web Based 
+Optional Professional 
+104.2500
+HR
+$0.0000
+$200.0000
+$20,850.0000
+$20,850.0000
+
+=== page 1044 of 6451 ===
+Current Procurement Contracts Sorted by Contract ID # As of 11/24/25
+Page 1044 of 6451
+Lead Agency Contact (Contact Unit Mgr if Incorrect)
+RJAIN@broward.org
+Contract ID #
+Document Description
+Start Date
+End Date
+Not To Exceed
+Amount Ordered
+A1358306A1_1
+Hansen Lic SW Svcs & Support
+1/26/2016
+1/25/2026
+$4,306,569.95
+$2,242,013.73
+Vend#-AddrID-ContactID
+Legal Name
+Vendor Contact Email
+Vendor Phone #
+VS00008829
+HANSEN CORPORATION PTY LTD
+Glenn.Lamont@hsntech.com
+  
+Item #
+Category
+Description
+Total Line Qty
+Released
+UO
+M
+Maximum Line 
+Amount
+Unit Price
+Total Line Released 
+Amount
+Amount Paid
+with the Hansen 
+Corporation License, 
+Software Services, and 
+Support Agree
+A1358306A1_1_5 
+9204500
+Optional Services via 
+Work AuthorizationFor 
+Information Purposes 
+OnlyOptional Services 
+via Work Authorization 
+for the duration of the 
+Agreement inclusive of 
+any renewals in the not-
+to-exceed amount of 
+$600,000WA No. ### 
+($0.00)Ava
+0.0000
+LPS
+$0.0100
+$1.0000
+$0.0000
+$0.0000
+A1358306A1_1_6 
+9204500
+Four Js Support and 
+MaintenanceAnnually 
+in Advance - $72.00 per
+User Annually. Third 
+Party Software Support 
+and Maintenance Fees 
+shall be paid to Provider
+by County. Based on 47
+Users, this would be 
+$3,384.00 but would 
+increase if the num
+423.0000
+YRS
+$0.0000
+$72.0000
+$30,456.0000
+$30,456.0000
+A1358306A1_1_7 
+9204500
+Support and 
+Maintenance for 
+200,451.8900
+LPS
+$200,451.9500
+$1.0000
+$200,451.8900
+$200,451.8900
+
+=== page 2836 of 6451 ===
+Current Procurement Contracts Sorted by Contract ID # As of 11/24/25
+Page 2836 of 6451
+Lead Agency Contact (Contact Unit Mgr if Incorrect)
+DLESCOTT@broward.org
+Contract ID #
+Document Description
+Start Date
+End Date
+Not To Exceed
+Amount Ordered
+GEN2127868Q1_1
+FINANCIAL ADVISORY SERVICES
+8/16/2024
+8/15/2027
+$375,000.00
+$259,625.00
+Vend#-AddrID-ContactID
+Legal Name
+Vendor Contact Email
+Vendor Phone #
+VC00005713
+PUBLIC RESOURCES ADVISORY GROUP 
+INC
+  
+Item #
+Category
+Description
+Total Line Qty
+Released
+UO
+M
+Maximum Line 
+Amount
+Unit Price
+Total Line Released 
+Amount
+Amount Paid
+GEN2127868Q1_1_00
+1 
+9184900
+Annual Retainer 
+($25,000, as per Article 
+5.1.1 of Agreement)
+28,125.0000
+YRS
+$0.0000
+$1.0000
+$28,125.0000
+$28,125.0000
+ 
+Optional Services for 
+Special Assignments via
+Work Authorizations, as
+per Article 5.1.2 of 
+Agreement (Contract 
+Year 2024 - 2027)
+231,500.0000
+0
+$300,000.0000
+$0.0000
+$231,500.0000
+$56,562.5000
+ 
+Optional Services for 
+Special Assignments via
+Work Authorizations, as
+per Article 5.1.2 of 
+Agreement (Contract 
+Year 2027 - 2028)
+0.0000
+0
+$100,000.0000
+$0.0000
+$0.0000
+$0.0000
+ 
+Optional Services for 
+Special Assignments via
+Work Authorizations, as
+per Article 5.1.2 of 
+Agreement (Contract 
+Year 2028 - 2029)
+0.0000
+0
+$100,000.0000
+$0.0000
+$0.0000
+$0.0000
+Vendor Total
+$500,000.0000
+$259,625.0000
+$84,687.5000
+
+=== page 2838 of 6451 ===
+Current Procurement Contracts Sorted by Contract ID # As of 11/24/25
+Page 2838 of 6451
+Lead Agency Contact (Contact Unit Mgr if Incorrect)
+SFARMER@broward.org
+Contract ID #
+Document Description
+Start Date
+End Date
+Not To Exceed
+Amount Ordered
+GEN2127868Q1_2
+FINANCIAL ADVISORY SERVICES
+8/16/2024
+8/15/2027
+$375,000.00
+$28,125.00
+Vend#-AddrID-ContactID
+Legal Name
+Vendor Contact Email
+Vendor Phone #
+VS00011949
+FRASCA & ASSOCIATES LLC
+kcushine@frascallc.com
+  
+Item #
+Category
+Description
+Total Line Qty
+Released
+UO
+M
+Maximum Line 
+Amount
+Unit Price
+Total Line Released 
+Amount
+Amount Paid
+GEN2127868Q1_2_00
+1 
+9184900
+Annual Retainer 
+($25,000, as per Article 
+5.1.1 of Agreement)
+28,125.0000
+YRS
+$0.0000
+$1.0000
+$28,125.0000
+$28,125.0000
+ 
+Optional Services for 
+Special Assignments via
+Work Authorizations, as
+per Article 5.1.2 of 
+Agreement (Contract 
+Year 2024-2027)
+0.0000
+0
+$300,000.0000
+$0.0000
+$0.0000
+$0.0000
+ 
+Optional Services for 
+Special Assignments via
+Work Authorizations, as
+per Article 5.1.2 of 
+Agreement (Contract 
+Year 2027-2028)
+0.0000
+0
+$100,000.0000
+$0.0000
+$0.0000
+$0.0000
+ 
+Optional Services for 
+Special Assignments via
+Work Authorizations, as
+per Article 5.1.2 of 
+Agreement (Contract 
+Year 2028-2029)
+0.0000
+0
+$100,000.0000
+$0.0000
+$0.0000
+$0.0000
+Vendor Total
+$500,000.0000
+$28,125.0000
+$28,125.0000
+Departmental Usage
+# of PO's
+Amount Ordered
+Amount Paid
+FINANCE & ADMIN SVCS 
+5
+$28,125.0000
+$28,125.0000
+
+=== page 2840 of 6451 ===
+Current Procurement Contracts Sorted by Contract ID # As of 11/24/25
+Page 2840 of 6451
+Lead Agency Contact (Contact Unit Mgr if Incorrect)
+SFARMER@broward.org
+Contract ID #
+Document Description
+Start Date
+End Date
+Not To Exceed
+Amount Ordered
+GEN2127868Q1_3
+FINANCIAL ADVISORY SERVICES
+8/16/2024
+8/15/2027
+$375,000.00
+$28,125.00
+Vend#-AddrID-ContactID
+Legal Name
+Vendor Contact Email
+Vendor Phone #
+0000005413
+PFM FINANCIAL ADVISORS LLC
+gloverj@pfm.com
+ 407/406-5751 
+Item #
+Category
+Description
+Total Line Qty
+Released
+UO
+M
+Maximum Line 
+Amount
+Unit Price
+Total Line Released 
+Amount
+Amount Paid
+GEN2127868Q1_3_00
+1 
+9184900
+Annual Retainer 
+($25,000, as per Article 
+5.1.1 of Agreement)
+28,125.0000
+YRS
+$0.0000
+$1.0000
+$28,125.0000
+$28,125.0000
+ 
+Optional Services for 
+Special Assignments via
+Work Authorizations, as
+per Article 5.1.2 of 
+Agreement (Contract 
+Year 2024 - 2027)
+0.0000
+0
+$300,000.0000
+$0.0000
+$0.0000
+$0.0000
+ 
+Optional Services for 
+Special Assignments via
+Work Authorizations, as
+per Article 5.1.2 of 
+Agreement (Contract 
+Year 2027 - 2028)
+0.0000
+0
+$100,000.0000
+$0.0000
+$0.0000
+$0.0000
+ 
+Optional Services for 
+Special Assignments via
+Work Authorizations, as
+per Article 5.1.2 of 
+Agreement (Contract 
+Year 2028 - 2029)
+0.0000
+0
+$100,000.0000
+$0.0000
+$0.0000
+$0.0000
+Vendor Total
+$500,000.0000
+$28,125.0000
+$28,125.0000
+Departmental Usage
+# of PO's
+Amount Ordered
+Amount Paid
+FINANCE & ADMIN SVCS 
+5
+$28,125.0000
+$28,125.0000
+
+=== page 3864 of 6451 ===
+Current Procurement Contracts Sorted by Contract ID # As of 11/24/25
+Page 3864 of 6451
+Lead Agency Contact (Contact Unit Mgr if Incorrect)
+EOCONNELL@broward.org
+Contract ID #
+Document Description
+Start Date
+End Date
+Not To Exceed
+Amount Ordered
+OPN2126585G1_1
+Lab Testing & Sampling Srvcs.
+7/1/2023
+6/30/2028
+$350,000.00
+$44,679.04
+Vend#-AddrID-ContactID
+Legal Name
+Vendor Contact Email
+Vendor Phone #
+VS00007392
+PACE ANALYTICAL SERVICES
+Neshmah.Castaneda@pacelabs.com
+  
+Item #
+Category
+Description
+Total Line Qty
+Released
+UO
+M
+Maximum Line 
+Amount
+Unit Price
+Total Line Released 
+Amount
+Amount Paid
+in version eCFR. Miami
+Dade# EVN0000098, 
+Group D Line 7.
+OPN2126585G1_1_04
+7 
+9899180
+TRITIUM. Detection 
+Limit defined in current 
+version eCFR. Miami 
+Dade# EVN0000098, 
+Group D Line 8.
+0.0000
+EA
+$0.0000
+$68.0000
+$0.0000
+$0.0000
+OPN2126585G1_1_04
+8 
+9899180
+RADON. Proven 
+method performance via
+method specific 
+protocol- must show in 
+QA manual. Miami 
+Dade# EVN0000098, 
+Group D Line 9.
+0.0000
+EA
+$0.0000
+$59.0000
+$0.0000
+$0.0000
+OPN2126585G1_1_04
+9 
+9899180
+EPA 503 SLUDGE 
+RULE LIST GROUP - 
+SOLIDS MATRIX 
+Group E Line 1
+3.0000
+EA
+$0.0000
+$164.0000
+$492.0000
+$492.0000
+OPN2126585G1_1_05
+0 
+9899180
+ALKALINITY. Proven 
+method performance via
+method specific 
+protocol- must show in 
+QA manual. Miami 
+Dade# EVN0000098, 
+Group E Line 2.
+154.0000
+EA
+$0.0000
+$6.0000
+$924.0000
+$990.0000
+OPN2126585G1_1_05
+1 
+9899180
+CALCIUM. Proven 
+method performance via
+66.0000
+EA
+$0.0000
+$6.0000
+$396.0000
+$336.0000
+
+=== page 3881 of 6451 ===
+Current Procurement Contracts Sorted by Contract ID # As of 11/24/25
+Page 3881 of 6451
+Lead Agency Contact (Contact Unit Mgr if Incorrect)
+EOCONNELL@broward.org
+Contract ID #
+Document Description
+Start Date
+End Date
+Not To Exceed
+Amount Ordered
+OPN2126585G1_2
+Lab Testing & Sampling Srvcs.
+7/1/2023
+6/30/2028
+$130,000.00
+$85,214.00
+Vend#-AddrID-ContactID
+Legal Name
+Vendor Contact Email
+Vendor Phone #
+VC00105628
+FLORIDA SPECTRUM ENVIRONMENTAL 
+SERVICES
+LAJOHNSON1@AOL.COM
+  
+Item #
+Category
+Description
+Total Line Qty
+Released
+UO
+M
+Maximum Line 
+Amount
+Unit Price
+Total Line Released 
+Amount
+Amount Paid
+Dade# EVN0000098, 
+Group B Line 4.
+OPN2126585G1_2_10
+2 
+9899180
+HALOACETONITRIL
+ES GROUP. Miami 
+Dade# EVN0000098, 
+Group B Line 5.
+0.0000
+EA
+$0.0000
+$320.0000
+$0.0000
+$0.0000
+OPN2126585G1_2_10
+3 
+9899180
+HALOACETIC ACIDS
+GROUP. Miami Dade# 
+EVN0000098, Group B 
+Line 6
+0.0000
+EA
+$0.0000
+$130.0500
+$0.0000
+$0.0000
+OPN2126585G1_2_10
+4 
+9899180
+CHLORAL 
+HYDRATE. Proven 
+method performance via
+method specific 
+protocol- must show in 
+QA manual. Miami 
+Dade# EVN0000098, 
+Group B Line 7.
+0.0000
+EA
+$0.0000
+$300.0000
+$0.0000
+$0.0000
+OPN2126585G1_2_10
+5 
+9899180
+CYANOGEN 
+CHLORIDE. Proven 
+method performance via
+method specific 
+protocol- must show in 
+QA manual. Miami 
+Dade# EVN0000098, 
+Group B Line 8.
+0.0000
+EA
+$0.0000
+$240.0000
+$0.0000
+$0.0000
+OPN2126585G1_2_10
+6 
+9899180
+TOTAL ORGANIC 
+CARBON. Proven 
+415.0000
+EA
+$0.0000
+$21.6000
+$8,964.0000
+$6,328.8000
+
+=== page 5633 of 6451 ===
+Current Procurement Contracts Sorted by Contract ID # As of 11/24/25
+Page 5633 of 6451
+Lead Agency Contact (Contact Unit Mgr if Incorrect)
+movidal@broward.org
+Contract ID #
+Document Description
+Start Date
+End Date
+Not To Exceed
+Amount Ordered
+TEC2114786P1_1
+Investigative Management Sys
+10/24/2018
+8/31/2026
+$642,647.24
+$235,875.24
+Vend#-AddrID-ContactID
+Legal Name
+Vendor Contact Email
+Vendor Phone #
+0000004865
+WINGSWEPT, LLC
+strickland@wingswept.com
+ 919/600-5102 
+Item #
+Category
+Description
+Total Line Qty
+Released
+UO
+M
+Maximum Line 
+Amount
+Unit Price
+Total Line Released 
+Amount
+Amount Paid
+CMTS Online Intake 
+Services.  Renewal 
+Term: 9/1/28 - 8/31/29 
+@ $25,550.87.
+ 
+Optional Services
+0.0000
+0
+$65,000.0000
+$0.0000
+$0.0000
+$0.0000
+ 
+Optional Services 
+PSHR
+0.0000
+0
+$35,000.0000
+$0.0000
+$0.0000
+$0.0000
+ 
+Optional Services for 
+Other Agencies via 
+Work Authorizaions per
+Second Amendment 
+(Duration of 
+Agreement)
+0.0000
+0
+$250,000.0000
+$0.0000
+$0.0000
+$0.0000
+Vendor Total
+$780,647.2400
+$235,875.2400
+$235,875.2400
+Departmental Usage
+# of PO's
+Amount Ordered
+Amount Paid
+OFFCE INSPCTR GNRL 
+11
+$149,453.4800
+$149,453.4800
+OFFCE INTGOV AFFRS PROF 
+STNDRD 
+5
+$86,421.7600
+$86,421.7600
+Department Totals
+16
+$235,875.2400
+$235,875.2400
+Renewals
+Line #
+Starts
+Expires
+1 
+10/24/18 
+8/31/22
+
+=== page 5779 of 6451 ===
+Current Procurement Contracts Sorted by Contract ID # As of 11/24/25
+Page 5779 of 6451
+Lead Agency Contact (Contact Unit Mgr if Incorrect)
+RJUSTAFORT@broward.org
+Contract ID #
+Document Description
+Start Date
+End Date
+Not To Exceed
+Amount Ordered
+TEC2125271A1_1
+Remix Route Planning Software
+4/12/2023
+4/11/2026
+$257,000.00
+$257,000.00
+Vend#-AddrID-ContactID
+Legal Name
+Vendor Contact Email
+Vendor Phone #
+0000010826
+REMIX TECHNOLOGIES LLC
+AP@ridewithvia.com
+ 415/712-0654 
+Item #
+Category
+Description
+Total Line Qty
+Released
+UO
+M
+Maximum Line 
+Amount
+Unit Price
+Total Line Released 
+Amount
+Amount Paid
+TEC2125271A1_1_00
+1 
+9563575
+Remix Initial Term - 
+Subscription Fees
+62,000.0000
+LPS
+$62,000.0000
+$1.0000
+$62,000.0000
+$62,000.0000
+TEC2125271A1_1_00
+2 
+9563575
+Remix Extension Terms
+Subscription Fees
+195,000.0000
+LPS
+$0.0000
+$1.0000
+$195,000.0000
+$195,000.0000
+ 
+Optional Services
+0.0000
+0
+$25,000.0000
+$0.0000
+$0.0000
+$0.0000
+Vendor Total
+$87,000.0000
+$257,000.0000
+$257,000.0000
+Departmental Usage
+# of PO's
+Amount Ordered
+Amount Paid
+TRANSIT 
+3
+$257,000.0000
+$257,000.0000
+Department Totals
+3
+$257,000.0000
+$257,000.0000
+Renewals
+Line #
+Starts
+Expires
+1 
+4/12/23 
+4/11/24
+2 
+4/12/24 
+4/11/25
+3 
+4/12/25 
+4/11/26

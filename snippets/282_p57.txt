@@ -4,7 +4,44 @@
 # terms: Via+per hour
 
 === page 56 ===
-
+**City was awarded $4,560,000 in funding from the North Central Texas Council of
+Governments (NCTCOG) for a two year deployment of the Arlington RAPID service. In the
+interim before this NCTCOG funding is accepted, the City will continue the RAPID service at a
+cost of $100,000. For all Arlington RAPID services performed in this Contract term, City will
+pay Contractor up to $4,020,224 for deployment of the Arlington RAPID, subject to City
+Council acceptance of the NCTCOG funding service.
+As part of the funding for Arlington RAPID, as such service is described in Section 11,
+CONTRACTOR agrees to provide Four Hundred Ninety Six Thousand Six Hundred Eighty Six
+Dollars ($496,686) in In-Kind matching contributions. The parties anticipate that the required
+in-kind matching contributions will be provided by Via and Contractor's subcontractor, May
+Mobility, in the following amount:
+In-Kind Contribution Types
+Via Contributions
+Personnel/Staff Time
+$396,686 for Project
+Management
+May Mobility Contributions
+$100,000 for Project
+Management
+***Additional funding for Intercity Service is not guaranteed, and Intercity Service shall not be
+added to the Services until such service is approved by City Council and the City Manager or his
+designee provides written approval of additional funding for expansion of the service area to
+include Intercity Service.
+Should changes in applicable federal, state or local law result in a significant change in Via's
+costs, City or Contractor can opt to renegotiate the ongoing on-demand service hour fees, hours
+provided, or service area. If the parties are unable to reach an agreement, City may terminate
+this Contract. Unless otherwise requested by City, Service will not be interrupted or changed
+during the negotiation period and will be provided at the same cost to City until an agreement is
+reached or the contract is terminated.
+Upon reasonable request, Via will provide customization and development services subject to the
+following fee:
+Service
+Description
+Fee
+Customize
+Via's service
+as may be
+requested
 === page 57 ===
 B. Invoicing 
  
@@ -49,3 +86,35 @@ services, broken out by type of advertising solution;
 ○ List of expenses and fees incurred during the reporting period; and 
 ○ Total revenue net of fees and expenses.
 === page 58 ===
+4. Project Team
+Contractor will take responsibility for the project management and integration of all relevant
+elements of the on-demand rideshare service on a continuous basis during the course of such
+service and will designate a "General Manager"
+Contractor will
+subsequently designate a "Partner Success Manager"
+The City will designate a Project Manager to be the primary point of contact with Contractor
+throughout the duration. The Contractor General Manager will be empowered to enact decisions
+related to the project on the Contractor's behalf and will serve as the primary point of contact
+with the City's Project Manager on an ongoing basis.
+During the course of the Service, Contractor's Project Team, led by its General Manager and
+Partner Success Manager, will be closely engaged with the City in order to ensure that key
+deliverables are provided in a timely way, and that learnings from the Service are incorporated
+into its optimization.
+5. Service Scope Parameters
+On an ongoing basis, Contractor shall set service scope parameters that yield a successful,
+sustainable, and efficient Service.
+The service scope parameters will be updated from time to time, and ultimately be determined by
+both learnings generated about demand patterns and economics over time, as well as the level of
+City financial resources available for the Service over the year. Based on these factors, the
+Contractor shall use commercially reasonable efforts to operate a service that delivers upon the
+City's goals and makes the most of the resources available for the project.
+During the Contract term, the Contractor shall use commercially reasonable efforts so that the
+service scope parameters be as follows:
+A. Service Days/Hours: Monday through Saturday excluding holidays, for which a mutual
+decision whether the service should operate during such days will be made between the
+City and Contractor. The service will operate from 6am to 9pm, Monday through Friday,
+and 9am to 9pm on Saturdays. Service Days and Hours may be changed or extended at
+City's request and mutual agreement between the City and Contractor.
+B. Geographic Coverage: The service area for the Contract term will be the area noted as the
+Service Area in Section I(G) of the Contract. The service area may be revised upon
+request of the City and mutual agreement between the City and Contractor.

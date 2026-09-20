@@ -1,0 +1,19 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Chandler/Chandler City Council approves Chandler Flex contract renewal _ City of Chandler.pdf
+# pages_total: 2; hit_pages: [1]; included: [1]
+# context: Bleecker Drive folder: Chandler
+
+=== page 1 of 2 ===
+Chandler City Council approves Chandler
+Flex contract renewal
+Home |  News Center
+May 1, 2025
+CHANDLER, Ariz – The Chandler City Council has approved a two-year contract
+renewal for Chandler Flex, the city’s on-demand, shared transportation service.
+The renewed agreement with River North Transit, LLC (Via) will extend service
+from July 1, 2025, through June 30, 2027, at a cost not to exceed $3.315 million.
+Chandler Flex was originally launched in July 2022 to provide residents with
+convenient and flexible transit options.
+During the first two years of service, Chandler Flex was funded by an A for
+Arizona Transportation Modernization grant using state funding. To fund the
+next two years of the newly approved contract, Congressman Greg Stanton

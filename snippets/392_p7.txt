@@ -1,0 +1,182 @@
+# source: raw/bleecker_drive/Los Alamos (Spare Labs)/1040_24_A_-_AGR_24-37_Spare_Labs_Inc.pdf
+# path: raw/bleecker_drive/Los Alamos (Spare Labs)/1040_24_A_-_AGR_24-37_Spare_Labs_Inc.pdf
+# hit page: 7 of 81
+# terms: Spare Labs, Via+drivers, Via+licensing
+
+=== page 6 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+6 
+ Agreement Template Version: 04012024 
+County, upon County request, and shall provide professional Services to configure 
+the Platform to utilize County’s payment processor to collect fare payments. Such 
+professional services to configure the Platform shall be charged in accordance with 
+the rates outlined in Exhibit A. 
+5. County User and Rider Access to Platform.  
+5.1. 
+County Users. Contractor provides a limited, revocable, non-exclusive, non-
+transferable, license which is not further sublicensable, to the County for an unlimited 
+number of County Users for the Term of this Agreement, which shall be assigned to 
+County, to remotely access and use the Platform, and unless prohibited by law, will 
+provide access to any County User reasonably designated by County.  In addition to 
+all applicable user requirements stated in Exhibits B and C, Platform shall conform to 
+the following: 
+5.1.1. 
+Platform shall keep and maintain account usernames and passwords in a 
+secure manner using industry standard encryption algorithms, such as standard 
+SAML 2.0.  
+5.1.2. 
+County Users shall have the ability to access the Platform via local personal 
+computer-based internet browsers and the internet through secure internet 
+connections and protocols through individual user accounts.  Contractor shall 
+initially establish County Platform roles and rights, including Administrator 
+accounts and permission levels during initial Platform implementation. 
+Administrators shall then have the ability to assign accounts and permission 
+levels to other Administrators and County Users, which shall be based on 
+permission-based roles including but not limited to: Administrator (the highest 
+level of permissions), operations manager, booking agent, scheduler, service 
+planner, and finance manager. Administrators shall also have the ability to grant 
+privileges only for access to reporting and analytics.  
+5.2. 
+Riders. Contractor shall grant to an unlimited number of Riders, a personal, 
+revocable, non-exclusive and non-transferable license during the Term of this 
+Agreement for Riders to access and use the front-end public-facing County Portal via 
+local personal computer-based internet browsers and the internet and through an 
+App, developed and maintained by Contractor, available on common App stores such 
+as Google Play Store and Apple App Store, for mobile smart-phones.  County 
+acknowledges that such use of the Platform by Riders may be subject to Contractor’s 
+Terms of Use, Privacy Policy, or other such terms and conditions as Contractor 
+deems necessary.  County is not responsible for Rider conformance or non-
+conformance with Contractor’s terms and conditions. 
+6. Functionality, Upgrades, Patches, and Maintenance.  
+6.1. 
+Platform Functional Specifications and Defects. Contractor warrants that the 
+Platform shall be without material Defect(s) for the Term of this Agreement and shall 
+substantially conform to the Platform functional specifications set forth in Exhibit B 
+and applicable County’s Technology Standards set forth in Exhibit C, or their 
+functional equivalent.  If Platform does not perform as warranted, Contractor shall use 
+reasonable efforts consistent with industry standards, to cure the material Defect.  
+Should Contractor be unable to cure the material Defect, County may terminate this 
+Agreement as described in Section W, and Contractor shall issue a prorated refund 
+Attachment A
+=== page 7 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+7 
+ Agreement Template Version: 04012024 
+to County of any pre-paid fees for Services after the effective date of termination. 
+Parties agree that termination is not County’s only remedy for Contractor’s failure to 
+comply with the terms, conditions, and obligations stated herein.   
+6.2. 
+Upgrades, Patches, and Maintenance.  Throughout the Term of this Agreement, 
+Contractor may amend, enhance, or modify the Platform from time to time provided 
+Contractor adheres to the foregoing provision. Contractor shall use reasonable efforts 
+consistent with prevailing industry standards to notify County timely of any scheduled 
+material upgrades, patches, and maintenance, which shall be performed at no 
+additional cost to County. Contractor shall test and certify upgrades and patches to 
+ensure that they work properly, generally following the methodology described in 
+Exhibit G, or a substantially similar methodology.  Throughout the Term of this 
+Agreement, Contractor shall post to its Product Roadmap website, or similar website, 
+recently launched features, as well as upcoming features planned for release. Upon 
+Project implementation, Contractor shall ensure County is utilizing the latest version 
+of its Platform, at no additional cost to County, at the time of Launch and throughout 
+the Term of this Agreement. 
+7. Warranty and Disclaimer. Contractor shall use reasonable efforts consistent with prevailing 
+industry standards to maintain the Services in a manner which minimizes errors and 
+interruptions in the Services and shall perform the implementation Services in a professional 
+and workmanlike manner. Services may be temporarily unavailable for scheduled 
+maintenance or for unscheduled emergency maintenance, either by Contractor or by third-
+party providers, or because of other causes beyond Contractor’s reasonable control, but 
+Contractor shall use reasonable efforts to provide advance notice in writing or by e-mail of 
+any scheduled Service disruption. However, Contractor does not warrant that the Services 
+shall be uninterrupted or error free; nor does it make any warranty as to the results that may 
+be obtained from use of the Services. Except as expressly set forth in section 6.1, the Services 
+and implementation Services are provided “as is”.    
+ 
+8. Platform Support and Incident Management. 
+ 
+8.1. 
+Support. As part of the licensing fee, Contractor shall provide Platform maintenance 
+and Support. Contractor shall provide Support to County via electronic mail, chat, and 
+by phone during Support Hours. County may also initiate a help desk ticket during 
+Support Hours by emailing support@sparelabs.com. Contractor shall use 
+commercially reasonable efforts to respond to all helpdesk tickets within one (1) 
+business day. 
+ 
+8.2. 
+In-App Support for Web Platform and Driver App. Contractor shall provide in-App 
+support via its web platform and in the Driver App.  Users in the Spare Rider Web App 
+shall have instant access to contact Contractor’s Support team via its live chat service, 
+whereby users can initiate a conversation using the chat widget and their inquiry shall 
+be submitted to a member of Contractor’s Support team to review and respond.  If the 
+user needs to log out of the Platform, the chat session can be continued via email to 
+ensure full resolution of the issue is achieved.  Users shall have the ability to view 
+help articles directly from the chat widget. Drivers shall have the ability to contact 
+Contractor’s Support team via live chat directly in the Drivers app and receive 
+assistance for technical issues or inquiries.   
+ 
+Attachment A
+=== page 8 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+8 
+ Agreement Template Version: 04012024 
+8.3. 
+Incident Management. If any Platform service issue should arise throughout the 
+Term of this Agreement, all issues shall be marked and prioritized by Contractor as 
+follows: 
+ 
+8.3.1. 
+Fatal (complete degradation) – Thirty (30) minute response time during Support 
+Hours. All user and critical functions affected. 
+8.3.2. 
+Severe (significant degradation) – Ninety (90) minute response time during 
+Support Hours. Large percentage of users or critical functions affected. 
+ 
+8.3.3. 
+Medium (limited degradation) - Three (3) hour response time during Support 
+Hours. Number of users or non-critical functions affected. Business processes 
+can continue. 
+ 
+8.3.4. 
+Minor (small degradation) - Four (4) hour response time during Support Hours.  
+One user affected. Business processes can continue. 
+ 
+9. Service Level Terms and Downtime.  Contractor shall maintain an uptime of 99.9%, 
+measured monthly, excluding scheduled maintenance.  Contractor shall use reasonable 
+efforts consistent with prevailing industry standards to notify County timely of any Service 
+interruptions.  If County requests maintenance during these hours, any uptime or downtime 
+calculation shall exclude periods affected by such maintenance. Further, any downtime 
+resulting from outages of third-party connections or utilities or other reasons beyond 
+Contractor’s control shall also be excluded from any such calculation. Contractor's liability, in 
+connection with Service availability shall be that for each period of downtime lasting longer 
+than one hour, Contractor shall credit County 0.3% of annual Service fees for each period of 
+thirty (30) or more consecutive minutes of downtime, provided that no more than one such 
+credit shall accrue per day. Downtime shall begin to accrue as soon as County (with notice to 
+Contractor) recognizes that downtime is taking place and continues until the availability of the 
+Services is restored. In order to receive downtime credit, County must notify Contractor in 
+writing within 24 hours from the time of downtime, and failure to provide such notice shall 
+forfeit the right to receive downtime credit. Such credits may not be redeemed for cash and 
+shall not be cumulative beyond a total of credits for one (1) week of Service Fees in any one 
+(1) calendar month in any event. Contractor shall only apply a credit to the month in which the 
+incident occurred. Contractor’s blocking of data communications or other Service in 
+accordance with its policies shall not be deemed to be a failure of Contractor to provide 
+adequate service levels under this Agreement.                                                                                                 
+ 
+10. Compliance with Laws, Regulations, and Adherence to Standards.  
+ 
+10.1. 
+Compliance with Applicable Laws. Contractor and Contractor’s Platform shall, 
+throughout the term of this Agreement, comply with any and all applicable provisions 
+of local, state, or federal law regulating Microtransit and Paratransit software. At no 
+additional cost to County, Contractor shall provide to County regulatory compliance 
+assistance, which includes updates on legal requirements, regular compliance 
+reviews, and necessary adjustments to the Platform functionalities. 
+ 
+10.2. 
+NTD Requirements. Platform shall provide a reporting system that meets NTD 
+requirements, which must provide totals by mode for a user definable period of time 
+and includes, but is not limited to, the following data: unlinked Rider trips, revenue 
+miles, Platform miles, revenue hours, Platform hours, Rider miles, Rider hours, and 
+vehicles operated at maximum service. The reports shall be exportable to an 
+Attachment A

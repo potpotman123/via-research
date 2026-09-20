@@ -1,0 +1,130 @@
+# source: raw/bleecker_drive/The Metropolitan Government of Nashville and Davidson County/2025_1155_Contract.pdf
+# path: raw/bleecker_drive/The Metropolitan Government of Nashville and Davidson County/2025_1155_Contract.pdf
+# hit page: 1 of 70
+# terms: Remix Technologies
+
+=== page 1 ===
+Contract Abstract 
+Revised 11/27/2022
+(select/check 
+if applicable)
+Contract Information 
+Contract & Solicitation Title: Remix: Streets Software  
+Contract Summary: CONTRACTOR agrees to provide Remix: Streets Software using the pricing shown in  
+Exhibit A (Pricing).  
+Contract Number: 6577813   Solicitation Number: Sole Source   Requisition Number: SS2024153  
+Replaces Expiring or Expired Contract? (Enter “No” or Contract No and Expiration Date): No
+Type of Contract/PO: Multi-Year Contract  Requires Council Legislation: Yes    
+High Risk Contract (Per Finance Department Contract Risk Management Policy): No  
+Sexual Harassment Training Required (per BL2018-1281): Yes    
+Estimated Start Date: ϰͬϯ/202ϱ Estimated Expiration Date: ϰͬϮͬϮϬϮϴ  Contract Term: 36 Months
+Estimated Contract Life Value: $266,500.00   Fund:* 30003   BU:* 42201000  
+(*Depending on contract terms, actual expenses may hit across various departmental BUs and Funds at PO Levels) 
+Payment Terms: Net 30 Selection Method: Sole Source 
+Procurement Staff: Daniel Drumwright BAO Staff: Christopher Wood 
+Procuring Department: NDOT Department(s) Served: NDOT  
+Prime Contractor Information 
+Prime Contracting Firm: Remix Technologies, LLC 
+ISN#: 1021564
+Address: 114 5th Avenue, Fl 17   City: New York   State: NY  Zip: 10011  
+Prime Contractor is a Uncertified/Unapproved:  SBE 
+ SDV 
+ MBE 
+ WBE 
+ LGBTBE 
+Prime Company Contact: ůǇƐƐĂKǀĞƌŚĞƵů Email Address: ĂůǇƐƐĂ͘ŽǀĞƌŚĞƵůΛƌŝĚĞǁŝƚŚǀŝĂ͘ĐŽŵ  Phone #: 862-222-
+6438  
+Prime Contractor Signatory: Dillon Twombly  Email Address: dillon@ridewithvia.com 
+Business Participation for Entire Contract 
+Small Business and Service Disabled Veteran Business Program: N/A  
+        Amount: -                                Percent, if applicable: -  
+Equal Business Opportunity (EBO) Program: Program Not Applicable 
+MBE Amount: -                      MBE Percent, if applicable: -  
+WBE Amount: -                      WBE Percent, if applicable: -  
+Federal Disadvantaged Business Enterprise: No   
+ Amount: -                                Percent, if applicable: -  
+Note: Amounts and/or percentages are not exclusive. 
+B2GNow (Contract Compliance Monitoring): No
+Summary of Offer 
+Offeror Name 
+  MBE WBE SBE   SDV  LGBTBE  Score  Evaluated Cost 
+ Result 
+ (check as applicable) 
+  (RFP Only) 
+Remix Technologies, LLC  
+ Approved Sole Source Form
+ Select from the Following:
+ Select from the Following:
+	
+		
+
+	
+	
+=== page 2 ===
+Contract Purchase Agreement 6577813 
+ 
+Document # K5000 Rev C 
+ 
+1 
+ 
+Terms and Conditions 
+ 
+ 
+1. GOODS AND SERVICES CONTRACT 
+ 
+1.1. Heading 
+ 
+This contract is initiated by and between The Metropolitan Government of Nashville and Davidson County 
+("METRO") and Remix Technologies, LLC ("CONTRACTOR") located at 114 5th Avenue, Fl 17 New York, NY 
+10011. This Contract consists of the following documents: 
+• 
+Any properly executed contract amendment (most recent with first priority), 
+• 
+This document, including exhibits, 
+●      Exhibit A – (Pricing)  
+●      Exhibit B – (Scope of Services) 
+●      Exhibit C – (MISA Terms and Conditions) 
+• 
+The Sole Source documentation for this agreement and affidavit(s)   (all made a part of this contract by 
+reference), 
+• 
+Purchase Orders (and PO Changes), 
+• 
+CONTRACTOR's response to the solicitation, 
+In the event of conflicting provisions, all documents shall be construed in the order listed above. 
+ 
+2. THE PARTIES HEREBY AGREE TO THE FOLLOWING TERMS AND CONDITIONS: 
+ 
+2.1. Duties and Responsibilities 
+ 
+CONTRACTOR agrees to provide Remix: Streets Software as fully defined in the solicitation and as outlined in 
+Exhibit B – Scope of Services. 
+ 
+2.2. Delivery and/or Installation. 
+ 
+All deliveries (if provided by the performance of this Contract) are F.O.B. Destination, Prepaid by Supplier, Inside 
+Delivery, as defined by METRO. METRO assumes no liability for any goods delivered without a purchase order. All 
+deliveries shall be made as defined in the solicitation or purchase order and by the date specified on the purchase 
+order. Installation, if required by the solicitation and/or purchase order shall be completed by the date specified on the 
+purchase order. 
+ 
+3. CONTRACT TERM 
+ 
+3.1. Contract Term 
+ 
+The Contract Term will begin on the date (the “Effective Date”) this Contract is approved by all required parties and 
+filed in the Metropolitan Clerk's Office. This Contract Term will end (36) months from the Effective Date. In no event 
+shall the term of this Contract exceed thirty-six (36) months from the Effective Date. This Contract may be extended by 
+Contract Amendment. The option to extend may be exercised by and at the discretion of the Purchasing Agent.  
+However, in no event shall the term of this Contract exceed sixty (60) months from the Effective Date. 
+ 
+4. COMPENSATION 
+ 
+4.1. Contract Value 
+ 
+This Contract has an estimated value of $266,500.00. The pricing details are included in Exhibit A and are made a 
+part of this Contract by reference. CONTRACTOR shall be paid annually in advance, within thirty (30) days from 
+METRO's receipt of invoice from CONTRACTOR. 
+	
+		
+

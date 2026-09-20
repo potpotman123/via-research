@@ -1,0 +1,126 @@
+# source: raw/bleecker_drive/Broward/MA_Report.pdf
+# path: raw/bleecker_drive/Broward/MA_Report.pdf
+# hit page: 5678 of 6451
+# terms: Via+not to exceed, Via+not-to-exceed
+
+=== page 5677 ===
+Current Procurement Contracts Sorted by Contract ID # As of 11/24/25
+Page 5677 of 6451
+Renewals
+Line #
+Starts
+Expires
+1 
+6/15/21 
+1/30/28
+2 
+1/31/28 
+1/30/29
+=== page 5678 ===
+Current Procurement Contracts Sorted by Contract ID # As of 11/24/25
+Page 5678 of 6451
+Lead Agency Contact (Contact Unit Mgr if Incorrect)
+wcastillo@broward.org
+Contract ID #
+Document Description
+Start Date
+End Date
+Not To Exceed
+Amount Ordered
+TEC2120970P1_1
+Solicitation for Tech Services
+12/7/2021
+12/6/2025
+$5,000,000.00
+$2,353,952.15
+Vend#-AddrID-ContactID
+Legal Name
+Vendor Contact Email
+Vendor Phone #
+VC00011151
+WOOLPERT INC
+  
+Item #
+Category
+Description
+Total Line Qty
+Released
+UO
+M
+Maximum Line 
+Amount
+Unit Price
+Total Line Released 
+Amount
+Amount Paid
+TEC2120970P1_1_001
+9203320
+Consultant will be 
+required to perform 
+project work via Work 
+Authorization on an as 
+needed basis in areas 
+including but not 
+limited to Geographical 
+Information Systems, 
+Dynamic Planning and 
+Development 
+Management, Airport 
+Modeling Solutions, and
+General
+2,186,661.7300
+LPS
+$4,800,000.0000
+$1.0000
+$2,186,661.7300
+$1,774,658.4500
+TEC2120970P1_1_002
+9203320
+Reimbursable Expense:
+For reimbursement of 
+any travel costs, travel 
+related expenses, or 
+other direct nonsalary 
+expenses directly 
+attributable to this 
+Project permitted under 
+this Agreement (Section
+5.3 of this agreement)
+167,290.4200
+LPS
+$200,000.0000
+$1.0000
+$167,290.4200
+$90,169.4400
+Vendor Total
+$5,000,000.0000
+$2,353,952.1500
+$1,864,827.8900
+=== page 5679 ===
+Current Procurement Contracts Sorted by Contract ID # As of 11/24/25
+Page 5679 of 6451
+Departmental Usage
+# of PO's
+Amount Ordered
+Amount Paid
+AVIATION - PLANNING 
+14
+$2,353,952.1500
+$1,864,827.8900
+Department Totals
+14
+$2,353,952.1500
+$1,864,827.8900
+Renewals
+Line #
+Starts
+Expires
+1 
+12/7/21 
+12/6/24
+2 
+12/7/24 
+12/6/25
+3 
+12/7/25 
+12/6/26

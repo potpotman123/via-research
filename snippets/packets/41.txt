@@ -1,0 +1,311 @@
+# source_url: https://elpasotexas.legistar1.com/elpasotexas/attachments/22d6f921-c018-4572-971f-cc808b58fbe9.pdf
+# path: raw/cache/888dee0ff2d005ff4dd6939eef0f698e87168412.pdf
+# pages_total: 6; hit_pages: [1, 3, 4, 5, 6]; included: [1, 3, 4, 5, 6]
+# context: legistar client=elpasotexas; matter 25-497 (2025-04-14): The linkage to the Strategic Plan is subsection: 7.3 Enhance a regional comprehensive transportation system  Award Summary: The award of Solicitation 2025-0132R Paratransit Software to Rideco US Inc., for an initial term of three (3) years for an estimated amount of $634,161.08. The award also inclu
+
+=== page 1 of 6 ===
+CITY OF EL PASO, TEXAS
+AGENDA ITEM  
+DEPARTMENT HEAD’S SUMMARY FORM 
+DEPARTMENT: 
+Sun Metro – Mass Transit 
+Purchasing & Strategic Sourcing 
+AGENDA DATE: 
+May 13, 2025 
+PUBLIC HEARING DATE: 
+NA 
+CONTACT PERSON NAME: Anthony R. DeKeyzer, Director of Mass 
+Transit 
+PHONE NUMBER: 
+(915)212-3306 
+Claudia A. Garcia, Director 
+PHONE NUMBER 
+(915)212-0043 
+DISTRICT(S) AFFECTED: 
+All 
+STRATEGIC GOAL: No. 7 Enhance and Sustain El Paso’s Infrastructure Network 
+SUBGOAL: 
+7.3 Enhance a regional comprehensive transportation system 
+SUBJECT: 
+The award of Solicitation 2025-0132R Paratransit Software to Rideco US Inc., for an initial term of three (3) 
+years for an estimated amount of $634,161.08. The award also includes two (2) terms of two (2) years each 
+for an estimated amount of $716,510.48. The total contract time is for seven (7) years for a total estimated 
+amount of $1,350,671.56. 
+BACKGROUND / DISCUSSION: 
+This contract will allow Sun Metro - LIFT to schedule services on a timely manner,  respond dynamically to 
+scheduling changes, ensuring that passengers receive timely transportation services, even in unforeseen 
+circumstances. 
+COMMUNITY AND STAKEHOLDER OUTREACH:  
+A pre-bid/proposal meeting was held on February 5, 2025.  Five (5) suppliers were in attendance. 
+SELECTION SUMMARY: 
+Solicitation was advertised on January 28, 2025 and February 4, 2025. The solicitation was posted on City 
+website on January 28, 2025. There were twenty (23) viewers online; seven (7) proposal were received, none of 
+them being local. 
+CONTRACT VARIANCE:  
+The difference based in comparison to the previous contract is as follows: A decrease of $120,918.92   for the 
+initial term, which represents a 16.01% decrease due to a decrease in pricing. 
+PROTEST 
+A protest was recieved.
+PRIOR COUNCIL ACTION: 
+NA 
+AMOUNT AND SOURCE OF FUNDING: 
+Amount: 1,350,671.56 
+Funding Source: Sun Metro  Operating Funds    
+Account: 560 – 3200 – 60030 – 522020 – P6005 
+2025-0132R Paratransit Software 
+Revised  4/7/2025-V5 – Previous Versions Obsolete
+
+=== page 3 of 6 ===
+Project Form – V1 10/30/2023 – Prior Versions Obsolete 
+Project Form 
+Request for Proposals 
+*****************************************Posting Language Below *************************************** 
+Please place the following item on the Consent Agenda for the Mass Transit Board Meeting of 
+May 13, 2025.  
+Strategic Goal 7 - Enhance and Sustain El Paso's Infrastructure Network 
+The linkage to the Strategic Plan is subsection: 7.3 Enhance a regional comprehensive 
+transportation system 
+Award Summary: 
+The award of Solicitation 2025-0132R Paratransit Software to Rideco US Inc., for an initial 
+term of three (3) years for an estimated amount of $634,161.08. The award also includes a two 
+(2) terms of two (2) years each option for an estimated amount of $716,510.48. The total contract 
+time is for seven (7) years for a total estimated amount of $1,350,671.56.  This contract will 
+allow Sun Metro - LIFT to schedule services on a timely manner.  
+Contract Variance: 
+The difference based in comparison to the previous contract is as follows: A decrease of 
+$120,918.92  for the initial term, which represents a 16.01% decrease due to a decrease in 
+pricing. 
+Department: 
+Sun Metro – Mass Transit 
+Award to: 
+Rideco US Inc 
+City & State: 
+Los Angeles, CA 
+Item(s): 
+All 
+Initial Term: 
+3 Years 
+Option Term: 
+2 of 2 Years 
+Total Contract Time: 
+7 Years 
+Initial Term Estimated Award: 
+$634,161.08 
+Option Term Estimated Award: $716,510.48 
+Total Estimated Award: 
+$1,350,671.56 
+Account(s): 
+560 – 3200 – 60030 – 522020 – P6005 
+Funding Source(s): 
+Sun Metro Operating Funds  
+District(s): 
+All 
+This was a Request for Proposals Award – service contract 
+The Purchasing & Strategic Sourcing Department and Sun Metro – Mass Transit recommend 
+award as indicated to Rideco US Inc., the highest ranked offeror based on the evaluation factors 
+established in the evaluation criteria for this procurement.  
+It is requested that the City Manager be authorized to establish the funding sources and make 
+any necessary budget transfers and execute any and all documents necessary for execution of 
+this award. In accordance with this award, the City Manager or designee is authorized to exercise 
+future options if needed.
+
+=== page 4 of 6 ===
+MAX POINTS
+HBSS Connect Corp.
+Rideco US Inc.
+Spare Labs Inc.
+Via Transportation Inc. 
+dba Via Mobility, LLC
+Ecolane USA, Inc.
+Foxster Opco, LLC
+Foxster Opco, LLC dba 
+CTS Software
+AutoFleet, Inc.
+25
+19.90
+25.00
+23.30
+15
+13.00
+14.33
+14.67
+10
+5.06
+10.00
+6.67
+10
+5.00
+10.00
+10.00
+15
+9.67
+13.67
+14.67
+25
+17.67
+24.33
+24.67
+100.00
+70.30
+97.33
+93.97
+3
+1
+2
+Rank
+Factor D - Qualification of Staff or Project Personnel
+Factor E -  Presentation of Demo
+Factor F  - Application Functionality and Alignment with Operational Requirements
+TOTAL SCORE
+Proposals deemed  Non-responsive
+Proposals deemed  Non-responsive
+Proposals deemed  Non-responsive
+Proposals deemed  Non-responsive
+Proposals deemed  Non-responsive
+Committee Scoresheet
+Factor C -  Reference 
+CITY OF EL PASO RFP SCORESHEET  
+PROJECT:  
+2025-0132R Paratransit Software
+Evaluation of Submittal 
+Factor A - Price
+Factor B - Experience
+Proposals deemed  Non-responsive
+Proposals deemed  Non-responsive
+
+=== page 5 of 6 ===
+RFPs SOLICITED:  509    LOCAL RFPs SOLICITED:    195     RFPs RECEIVED:    7      LOCAL RFPs RECEIVED:  0      NO BIDS:    5 
+Rideco US Inc.
+Spare Labs Inc. 
+Los Angeles, CA
+Vancouver, CA
+CITY OF EL PASO
+REVISED REQUEST FOR PROPOSALS TABULATION FORM
+OFFEROR'S NAME:
+LOCATION:
+AMENDMENT(S) 
+ACKNOWLEDGED: 
+YES
+Autofleet, Inc.
+Claymont, DE 
+Solicitation #: 2025-0132R
+Department: Mass Transit (Sun Metro)
+Bid Opening: March 12, 2025
+Title: Paratransit Software
+YES
+YES
+YES
+YES
+Ecolane USA, Inc
+Foxster Opco, LLC
+Swansboro, NC
+Wayne, PA
+HBSS Connect Corp.
+Lowell, MA
+YES
+Via Transportation dba Via Mobility, LLC
+New York, NY
+No
+Approved:     _/S/__        
+Date:    __4/29/2025_____   
+2025‐0132R Paratransit Software
+
+=== page 6 of 6 ===
+No. 
+Participant Name
+City
+State
+1
+A-1 Auto Body Shop
+El Paso
+TX
+2
+All Security Equipment (Hibiscus Road Capital LLC)
+Miami Gardens
+FL
+3
+Autofleet
+Wilmington
+DE
+4
+Axkan Systems
+Plano
+TX
+5
+Barracuda Public Relations
+El Paso
+TX
+6
+Construction Reporter
+Albuquerque
+NM
+7
+CTS Software (Foxster Opco, LLC)
+Swansboro
+NC
+8
+Delegard Tool of Texas
+Houston
+TX
+9
+DYER CYCLE
+El Paso
+TX
+10
+Ecolane USA, Inc.
+Wayne
+PA
+11
+FOX CONSTRUCTOR LLC
+El Paso
+TX
+12
+Freightwell Logistics LLC
+Sunland Park
+NM
+13
+HBSS Connect Corp
+Lowell
+MA
+14
+INTEGRATED MECHANICS, LLC
+EL PASO
+TX
+15
+Panchos Home Delivery LLC
+El Paso
+TX
+16
+Pwxpress
+Jacksonville
+FL
+17
+R-Family Trucking, LLC
+EL PASO
+TX
+18
+Rideco US Inc.
+Los Angeles
+CA
+19
+Ritz Safety LLC
+Dayton
+OH
+20
+Spare Labs Inc.
+Vancouver
+BC Canada
+21
+Via Transportation Inc.
+New York City
+NY
+22
+WOFFORD TRUCK PARTS (TE EL PASO,LLC)
+EL PASO
+TX
+23
+Zeraus Iluminacion
+El Paso
+TX
+2025-0132R Paratransit Software 
+Views List

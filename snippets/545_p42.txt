@@ -1,0 +1,114 @@
+# source: raw/bleecker_drive/City of West Sacramento/2023.06.07_-_City_Council_-_Amendment_No._5_to_NoMad_Transit_LLC_Contract.pdf
+# path: raw/bleecker_drive/City of West Sacramento/2023.06.07_-_City_Council_-_Amendment_No._5_to_NoMad_Transit_LLC_Contract.pdf
+# hit page: 42 of 63
+# terms: Via Transportation, Via+vehicles
+
+=== page 41 ===
+Triennial Performance Audit of Via Rideshare - West Sacramento – FYs 2019–2021 
+ 
+ 
+Michael Baker International - 27
+ 
+  
+contract, all unspent fare revenues generated and remaining with the contractor, which would 
+have already been remitted to the City, are reinvested toward next year’s operations.
+=== page 42 ===
+Triennial Performance Audit of Via Rideshare - West Sacramento – FYs 2019–2021 
+ 
+ 
+Michael Baker International - 28
+ 
+  
+Section VI 
+ 
+Findings 
+ 
+The following summarizes the findings obtained from this triennial audit covering fiscal years 2019 
+through 2021. A set of recommendations is then provided. 
+ 
+1. Of the nine compliance requirements pertaining to West Sacramento, the City fully complied 
+with five requirements. The City was found not in compliance with regard to the submittal of 
+the annual Transit Operators’ Financial Transactions Reports to the State Controller and was 
+partially compliant with regard to reporting of performance measures (vehicle service hours 
+and miles/full-time employee equivalents). Four additional compliance requirements did not 
+apply to West Sacramento (i.e., annual CHP terminal inspections, rural/urban farebox recovery 
+ratios, and use of federal funding).  
+ 
+2. Fare revenues for transit services provided by the YCTD, to which the City contributes, are 
+collected by the District. The fare revenue ratio for the YCTD is reported in the District’s 
+financial statements. The YCTD is subject to a 15 percent system-wide ratio that the system 
+meets, and which has been formalized by SACOG. The City of West Sacramento Transportation 
+Development Act Fund - Audited Financial Statements and Compliance Reports do not provide 
+a breakdown of the rideshare service’s farebox ratio. Based on audited and internal reporting 
+data, the YCTD’s system-wide farebox recovery ratio was 22.78 percent in FY 2019; 14.54 
+percent in FY 2020; and 13.20 percent in FY 2021.3 The average system-wide farebox recovery 
+ratio was 16.84 percent.  
+ 
+3. Due to the size of the vehicles operated, the City’s rideshare program is exempt from the CHP 
+Transit Operator Compliance Program, in which the CHP conducts inspections within the 13 
+months prior to each TDA claim. Vehicle maintenance is the responsibility of Via Rideshare’s 
+driver partners as a condition in Via Transportation’s contract.  
+ 
+4. The operating budget exhibited notable fluctuations during the audit period. There was an 
+increase of 218 percent increase in FY 2020 followed by a decrease of 35.6 percent in FY 2021. 
+The increase in the FY 2020 operating budget is attributed to the pilot’s service expansion as 
+stipulated in the amended and restated contract for service dated May 1, 2019. The decrease 
+in the FY 2021 operating budget is attributed to reductions in the total number of Via 
+Rideshare service hours to meet lower demand due to the COVID-19 pandemic, resulting in 
+cost savings through the fiscal year. 
+ 
+ 
+3 Assembly Bill 90, passed into law and signed by the governor in June 2020 in response to the COVID-19 
+pandemic impacts, prohibits the imposition of penalties on a transit operator that does not maintain the 
+required ratio of fare revenues to operating cost during FY 2019–20 or FY 2020–21.
+=== page 43 ===
+Triennial Performance Audit of Via Rideshare - West Sacramento – FYs 2019–2021 
+ 
+ 
+Michael Baker International - 29
+ 
+  
+5. There were no prior audit recommendations. This report constitutes the first triennial 
+performance audit of the operator. 
+ 
+6. Operating costs increased by 156.9 percent from the first full year of operation in FY 2019 to 
+FY 2021. On an average annual basis, costs increased 75.7 percent, with the highest increase 
+of 147.7 percent occurring in FY 2020. This increase can be attributed to higher customer 
+service costs as ridership increased as well as an increase of over 10,000 service hours from FY 
+2019 to FY 2020. Additionally, COVID-19 related costs (frequent cleanings/disinfectants, PPE 
+supplies, applying and maintaining partitions, etc.) increased operating costs beginning in FY 
+2020. Operating costs only increased 3.7 percent from FY 2020 to FY 2021, while driver hours 
+remained relatively constant.  
+ 
+7. Ridership increased 20.2 percent from 92,063 trips during FY 2019 to 110,661 trips during FY 
+2021. Ridership reached 139,340 in FY 2020 before the effects of the COVID-19 pandemic 
+began impacting this indicator. On an average annual basis, ridership increased 15.4 percent 
+with an increase of 51.4 percent occurring in FY 2020 and a decrease of 20.6 percent in FY 
+2021, a reflection of the effects of the pandemic on ridership. 
+ 
+8. The provision of vehicle service hours and miles both exhibited increases from FY 2019 to FY 
+2021 as the program expanded past its pilot year. Vehicle service hours increased 31.7 percent 
+and vehicle service miles increased 20.8 percent. Both indicators saw their peak in FY 2020 
+before exhibiting decreases in FY 2021 due to the effects of the pandemic on service.  
+ 
+9. Operating cost per passenger, an indicator of cost effectiveness, increased 113.7 percent from 
+$6.81 during FY 2019 to $14.56 during FY 2021. The trend is indicative of the outpacing of 
+operating expenses compared to ridership, exacerbated by the effects of the pandemic on 
+ridership as well as the pandemic’s effect on operating costs as discussed above. 
+ 
+10. Operating cost per hour, an indicator of cost efficiency, increased 95 percent from $24.49 
+during FY 2019 to $47.75 during FY 2021. The trend in this indicator is reflective of the increase 
+in operating costs outpacing the increase in vehicle service hours, exacerbated by the effects 
+of the pandemic on service as well as the pandemic’s effect on operating costs as discussed 
+above. 
+ 
+11. Via Rideshare is a network-optimized, on-demand rideshare service operating within the city 
+limits of West Sacramento. Through the initial pilot program, Via provided an on-demand 
+rideshare service for a period of one year, with 10 Mercedes Metris vans rented at no cost to 
+the City by Nomad Transit LLC, a subsidiary of Via Transportation, Inc. Riders are able to book 
+a ride using a smart phone app and over the phone. The pilot service launched on May 14, 
+2018. 
+ 
+12. The City’s rideshare program is administered by a senior transportation planner in the 
+Community Development Department and by a team composed of a partner success manager, 
+general manager, and local field manager. On January 17, 2018, the City Council approved a

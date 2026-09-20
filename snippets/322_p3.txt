@@ -1,0 +1,123 @@
+# source: raw/bleecker_drive/Hillsborough County/Completed Contract File.pdf
+# path: raw/bleecker_drive/Hillsborough County/Completed Contract File.pdf
+# hit page: 3 of 199
+# terms: Via Mobility, Via+drivers, Via+vehicles
+
+=== page 2 ===
+[N] Unilateral Extensions
+[N] Unilateral Renewals
+[N] Additional Purchase Option(s)
+List Attachments: RFP Summary, RFP Evaluation Summary, Economic Development Compliance Memorandum, Contract Documents, Deployment Service
+Order, W-9
+=== page 3 ===
+DocuSign Envelope ID: 2EA868C0-B16C-4F54-8139-F9C5611E9A02
+SUNSHINE LINE DEPLOYMENT SERVICE ORDER
+By this service order (the "Order"), Via Mobility LLC, a Delaware company with its principal office located at 114 5th Avenue, Floor
+16 and 17, New York, New York 10011 ("Via"), and the customer identified below ("Customer") agree to collaborate towards the
+operation by Customer of the deployment (the "Deployment") in Hillsborough County, FL
+Customer Name: Hillsborough County
+Customer Notice Address: 601 E. Kennedy Blvd.,
+Tampa, FL 33602
+Customer Entity Type / State of Incorporation: Florida
+Customer Email: Segarral@HCFL.gov
+Term: The duration of the Deployment shall last until the last day of the calendar month during which a period of five years
+following Launch expires, subject to extension by mutual agreement of the parties on terms to be agreed (including any
+increase in monthly fees for additional months).
+Services: Customer will receive access to the standard Via Solution and automatic software updates, comprised of:
+(a) Fully localized proprietary routing and matching algorithms that analyze all trip requests, assign riders to the best-
+suited vehicle, and group passengers headed in the same direction into efficient shared rides powered by Via's
+patented technology;
+(b) Downloadable iOS and Android rider apps that allow customers to book rides, track vehicles in real time, pay for
+trips, and troubleshoot any issues;
+(c) Downloadable driver app that provides efficient turn-by-turn directions; the app allows drivers to start and end
+driving time, schedule breaks, and contact live support; and
+(d) Access to the Via Operations Console ("VOC"), which allows administrators to perform a variety of functions
+ncluding booking trips, checking trip details, adjusting account information, and providing customer support, an
+accessing reports, as provided for in Appendix 1;
+(e) Access to the data reporting set out in Appendix 1, made available via the VOC.
+Support Services - Installation. Via provides installation support until acceptance after the Deployment begins serving
+Riders, consisting of:
+(a) Localization for the Deployment Zone (defined below), including optimizing the algorithm, configuring back-end,
+and defining acceptable pick-up and drop off points;
+(b) Testing and quality assurance;
+(c) Helping Customer to build a launch plan and rider acquisition strategy; and
+(d) Instruction for drivers, dispatchers, and managers on Via's best practices as remote launch support
+Support Services - Ongoing. The following services are included in the fees up to the number of hours per month
+identified below:
+(a) Operational support and system adjustments: Includes algorithm adjustments and changes to virtual bus stops /
+pickup points at request of Customer: up to 10 hours per month
+(b) Expert consulting: up to 5 hours per month
+Operations: Including supply optimization analysis, payment & fraud investigation, and business
+case/unit economics analysis
+• Service expansion: Including feasibility analysis for service expansions or additional projects
+(c) Tech Support: Dedicated Via point of contact will use commercially reasonable efforts to respond within one
+business day for non-critical issues (upon receipt of a detailed description of the issue as requested by Via) and to
+ensure that assistance is provided within a reasonable time frame. Via will also provide Customer with an
+appropriate channel for alerting Via to system outages or other critical issues, with respect to which Via will
+provide emergency assistance.
+(d) Additional Services. Via can provide optional add-on services, including consulting, web-based booking portal,
+fixed route referral, live agent support, multi-modal or third party trip planner integrations, media and advertising
+services, marketing support, or access to our Remix® transit planning software for an additional fee. More details
+available upon request.
+=== page 4 ===
+DocuSign Envelope ID: 2EA868C0-B16C-4F54-8139-F9C5611E9A02
+Customer Launch and Implementation Plan
+(a) General. Customer will operate and manage the Deployment as set forth in the Terms, Customer shall cooperate
+with Via as necessary for the purpose of setting up the Deployment and its specifications, including by providing
+prompt feedback to Via's inquiries and providing local insights, in order to meet mutually agreed upon deadlines.
+(b) Launch. Within one week of signing this Order, the Parties will mutually agree on the targeted launch date of the
+Deployment ("Launch"). Launch shall be no fewer than 12 weeks following execution of this Order.
+(c) Zone: Customer and Via will agree at least three months prior to launch on the exact geographical scope for the
+Deployment zone ("Deployment Zone"). Any changes or expansions to the Deployment Zone may result in
+(d) Support Requests. At the start of the project, Via will direct Customer towards the relevant CRM tools to log
+requests. In order to trigger a Product Maintenance request, requests for product maintenance must contain
+detailed information about the nature of the request. Requests for additional features may be subject to additional
+(e) Payment Processing. If Customer would like to process digital card payments, Via will facilitate an introduction
+to its recommended payment processor. The fees set forth above do not include any owed to the third party
+payment processor.
+Customer shall pay Via the following Fees for the Term, as set out below:
+Year 1
+Fee Category
+Installation Fee
+MDC Fee
+Amount
+$35,000
+Invoicing Terms
+Payable upon signing of this
+Order
+$99,400 estimated cost for 70 Samsung Galaxy Tab Payable upon purchase of
+S7 devices
+hardware; MDC Fee to be
+treated as a pass-through +10%
+Monthly Fees
+Per-vehicle fees
+Invoiced monthly by Via
+•
+$235 per vehicle per calendar month for
+vehicles 0-40
+•
+$185 per vehicle per calendar month for
+vehicles 40+
+Total Amount (12 Month
+Term)
+Years 2-5
+Fee Category
+Amount
+Ongoing Annual MDC Fees $31,500
+Monthly Fees
+Per-vehicle fees
+$247,200 assuming 40 vehicles (excluding additional Fees for any Additional
+Services)
+Invoicing Terms
+Payable at start of each year
+$250 per vehicle per calendar month for
+Invoiced monthly by Via
+vehicles 0-40
+Total Amount (per 12
+Month Term)
+$151,500 assuming 40 vehicles (excluding additional Fees for any Additional
+Services)
+Each month, Via will calculate the fees due and provide Customer with an invoice calculating the per-vehicle fees actually
+incurred based on the actual number of active vehicles used during the previous month.
+The Customer agrees that the sample invoice set out in Appendix 2 is satisfactory to Customer, both in substance and format.
+vent the duration of the Deployment does not exactly maich calendar months, monthly fees will be prorated for the first and/or last calendar months of the

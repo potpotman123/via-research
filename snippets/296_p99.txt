@@ -4,7 +4,39 @@
 # terms: Via+fleet
 
 === page 98 ===
-
+B. Reputation of the Vendor and of the Vendor's
+Goods and Services
+1. What is the vendor's reputation in the industry?
+Via Transportation, Inc. is the world's leading provider of TransitTech solutions, including
+microtransit, ADA paratransit, senior transportation, school transportation, and
+non-emergency medical transportation (NEMT). Via was founded in 2012, and in 2013 we
+launched in New York City what was, as we understand it, the world's first marketplace
+for on-demand shared rides. Our experience as operators of a large-scale urban demand
+response transit service and as primary users of our own software, together with the data
+from the tens of millions of rides we've delivered, has been critical for developing the
+highly efficient, purpose-built algorithms and deep vertical technology stack that are the
+foundation of our modern solution.
+Today, we partner with more than 650 cities, transit agencies, and school districts
+across the globe, providing operations and software to improve efficiency, rider
+experience, and accessibility. The result is safer rides with fewer vehicle miles traveled
+and less time spent in the vehicle.
+BCG
+"Via is currently the most advanced player providing integrated
+Software and Services, both in the comprehensiveness of its
+solutions and the scale of its deployments, with more than 650
+customers in over 30 countries, making it the market leader."
+—Boston Consulting Group, "The Public Transportation Market Looks
+to Whole Network Solutions", April 8, 2025
+We are consistently recognized as an industry leader, and the services our customers
+provide in partnership with us are also consistently recognized for their excellence. Some
+of our recent awards include:
+• Via was recognized on the Fast Company "The 10 most
+innovative companies working on social good of 2023".
+FAST OMPANY
+• Via won the Inc. "Best in Business 2022"; we were recognized for
+putting purpose over profit.
+Inc.
+RFP No. 25-08 | 11
 === page 99 ===
 ●
 Via was recognized on the Inc. “17 Ventures That Embody the U.N.’s 17

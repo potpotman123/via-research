@@ -1,0 +1,139 @@
+# source: raw/bleecker_drive/Miami Dade/212269.pdf
+# path: raw/bleecker_drive/Miami Dade/212269.pdf
+# hit page: 2 of 35
+# terms: Remix Technologies, Via Transportation
+
+=== page 1 ===
+Recommendation 
+It is recommended that the Board of County Commissioners (Board) approve this request for award of 
+Designated Purchase Contract No. BW-10126, Transit Planning Data Tool Software, to Remix 
+Technologies, LLC (Remix) in the amount of $960,000 for the Department of Transportation and Public 
+Works (DTPW).  Approval of a designated purchase is requested, pursuant to Section 2-8.1(b)(3) of the 
+Miami-Dade County Code, by a two-thirds vote of the Board members present, for the purchase of transit 
+planning data tool software.  
+The contract provides for a web-based software tool to rapidly analyze and evaluate transit concepts. It 
+will be used by County Engineers and Planners to review mobility data and inventories, evaluate transit 
+planning scenarios, sketch ideas and log stakeholder feedback, integrate all required functions sought 
+by the County , and will be supported by cloud access from any work location and computer.  
+Additionally, the software has the capability for transit planning, conceptual street design, and mobility 
+management, which will, in part: 1) facilitate sketch planning, provide instant demographic impact 
+analysis, and provide instant cost estimates; 2) sketch conceptual roadway designs to be used in 
+connection with transit demonstration projects, sketch out multiple lane types including vehicle, turn 
+lanes, bike lanes, bus lanes, pedestrian infrastructure, crosswalks, and support public engagement and 
+share features for stakeholder input; and 3) generate vehicle location ground truth and metrics, view 
+dockless vehicle location, identify the most popular spots in the County for rider drop-off and deployment, 
+and display trip path visualization by segment across the County.  
+DTPW, working with the Information Technology Department (ITD), experienced access to the Remix 
+tool both through an ITD procured demo license during fiscal year 2019 and the Vision Zero Program, 
+currently under development. The Vision Zero Program set the goal of zero pedestrian and bicycle 
+deaths and implements new safety strategies using technology. Remix’s software tool provided data 
+analytical services that supported this program. 
+DTPW Engineers and Planner’s interaction with the Remix tool has been extremely positive, as it has 
+yielded higher productivity, time savings and better cooperation among divisions. Before the Remix tool 
+was available, DTPW divisions spent a significant amount of time searching data from several sources, 
+and creating maps to visualize proposed routes among other efforts.  Previous to the use of Remix’s 
+tool, the required software functionality was completed through rudimentary processes.  The use of the 
+requested planning functionality promotes cooperation through a holistic transit analysis approach which 
+incorporates conceptual street design and traffic analysis features.  
+Comprehensive market research was conducted, including an NIGP query to research other public entity 
+contracts, national search of past bids in BidSync, a Google search, and issuance of a Request for 
+Information (RFI). The RFI yielded three firms offering software tools, including Remix.  Only Remix 
+offered a tool which will support the full requirements of the County. 
+Competition for the provision of the software is not practicable at this time because market research has 
+shown that other commercial off-the-shelf software lacks the capability to integrate all required system 
+functionality into a single platform that can quickly, effectively, and seamlessly share and analyze data. 
+Date: 
+To: 
+Honorable Chairman Jose “Pepe” Diaz 
+  and Members, Board of County Commissioners 
+From: 
+Daniella Levine Cava 
+Mayor 
+Subject: 
+Recommendation for Approval to Award a Designated Purchase Contract: Transit 
+Planning Data Tool Software 
+November 2, 2021
+1
+Agenda Item No. 8(F)(8)
+=== page 2 ===
+Honorable Chairman Jose “Pepe” Diaz 
+  and Members, Board of County Commissioners 
+Page 2 
+Therefore, none of the software identified in the market is a viable solution for DTPW. Prior to the 
+expiration of the proposed contract term, the County will survey the market to identify available software 
+systems to support the County’s transit planning requirements at that time.  
+Accordingly, it is in the County’s best interest to award this designated purchase contract pursuant to 
+Section 2-8.1(b)(3) of the County Code to continue purchase of Remix’s Transit Planning Data Tool 
+Software. 
+Scope 
+The scope of this item is countywide in nature. 
+Fiscal Impact/Funding Source 
+The fiscal impact for the three-year term is $960,000. Project funding is provided by the ITD Operating 
+Budget.  
+Department 
+Allocation 
+Funding Source 
+Project Manager 
+Transportation and Public Works 
+$960,000 
+    ITD Operating 
+     Julian Guevara 
+Total: 
+$960,000 
+Track Record/Monitor 
+Vanessa Stroman of the Internal Services Department is the Procurement Contracting Manager.  Julian 
+Guevara, Municipal Manager for DTPW, is responsible for this project.  
+Delegated Authority 
+If this item is approved, the County Mayor or County Mayor’s designee will have the authority to exercise 
+all provisions of the contract, including any cancellation or extension provisions, pursuant to Section 2-
+8.1 of the County Code and Implementing Order 3-38.   
+Vendor Recommended for Award  
+Pursuant to Resolution No. R-477-18, the vendor recommended for award is non-local as there is no 
+local company that provides this transit planning software tool.  
+Vendor 
+ Principal Address 
+Local Address 
+Number of 
+Employee 
+Residents 
+Principal 
+1) Miami-Dade
+2) Percentage*
+Remix Technologies, 
+LLC [a wholly owned 
+subsidiary of Via 
+Transportation, Inc.] 
+10 Crosby Street 
+Floor 2 
+New York, NY 
+None 
+0 
+Erin Abrams 
+   0% 
+*Provided pursuant to Resolution No. R-1011-15.  Percentage of employee residents is the percentage
+of vendor’s employees who reside in Miami-Dade County as compared to the vendor’s total workforce.
+Due Diligence 
+Pursuant to Resolution No. R-187-12, due diligence was conducted in accordance with the Internal 
+Services Department’s Procurement Guidelines to determine vendor responsibility, including verifying 
+corporate status and that there are no performance and compliance issues through various vendor 
+responsibility lists.  The lists that were referenced included convicted vendors, debarred vendors, 
+delinquent contractors, suspended vendors, and federal excluded parties.  There were no adverse 
+findings relating to vendor responsibility. 
+2
+=== page 3 ===
+Honorable Chairman Jose “Pepe” Diaz 
+  and Members, Board of County Commissioners 
+Page 3 
+Applicable Ordinances and Contract Measures 
+•
+The two percent User Access Program provision applies.
+•
+The Small Business Enterprise measures do not apply.
+•
+The Local Preference does not apply.
+•
+The Living Wage does not apply, as this is not a service covered under the Living Wage.
+__________________ 
+Jimmy Morales 
+Chief Operations Officer 
+3

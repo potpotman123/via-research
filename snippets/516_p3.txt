@@ -1,0 +1,332 @@
+# source: raw/bleecker_drive/Rosemead City/Staff_Report.pdf
+# path: raw/bleecker_drive/Rosemead City/Staff_Report.pdf
+# hit page: 3 of 5
+# terms: Via+vehicles
+
+=== page 2 ===
+City Council Meeting
+May 13, 2025
+Page 2 of 5
+ride -hailing models. On March
+11, 2025, City Council approved
+a month-to- month contract
+extension with First Transit through June 30, 2025, to ensure continuity of services as staff
+explored the new service models. 
+Along with the release of the RFP and per the direction of City Council at the meeting on
+November
+12, 2024, staff developed
+and carried out a robust community
+outreach campaign to
+gather insights
+about the community' s transportation
+needs
+and better inform
+the
+vendor
+selection
+process. The
+outreach
+plan
+consisted
+of
+a multi -language ( English, Spanish, 
+Vietnamese, and Chinese) campaign to ensure that all residents were informed of the upcoming
+potential changes and had an opportunity to voice their opinion. Staff developed physical surveys
+that contained QR codes/ links to online surveys and distributed
+them to all properties through a
+citywide mailing, disseminated information to each school district and two City -owned Senior
+Housing facilities, posted flyers on City Transit buses, as well as tabling at community events
+and recreation centers. Additionally, an online webpage was launched under the Department of
+Public Works website with the intent of informing residents about the RFP process and the
+approximate timeline for staff to present City Council with a recommended vendor. At the top
+and bottom of this webpage, staff also included hyperlinks and embedded links to the digital
+version of the survey. As of May 7, 2025, the City has received a total of 229 responses and will
+continue
+to receive
+responses
+until
+further
+direction. The
+responses
+indicate
+that
+60% 
+of
+respondents are interested in a new City -subsidized transit option that incorporates on demand
+ridesharing ( Attachment J). 
+The scope of services for the RFP called for a complete turnkey management solution for micro - 
+transit and/ or ride -hailing services that addressed the mobility needs of the City' s residents. 
+These services encompass the full development, implementation, and management of the service, 
+including operations, staffing, scheduling, customer service, vehicle maintenance, and the
+deployment of supporting technology such as a mobile app for trip booking and fare payment. 
+The City initiated the RFP process on December 23, 2024, and subsequently received a total of
+six ( 6) electronic
+proposals. To accommodate
+additional
+time for potential
+applicants, two
+addendums were issued: the first on January
+13, 2025, and the second on January
+16, 2025. 
+These addendums served to extend key deadlines, shifting the original submission and response
+deadlines from January 29, 2025, to February 19, 2025, with a final submission cutoff at 4:00
+PM. 
+Upon receiving all proposals, the City proceeded with a comprehensive evaluation process. Each
+proposal was reviewed to ensure fairness and consistency. The evaluation criteria focused on
+four main components: completeness
+of the proposal, the proposers' relevant
+experience, the
+oronosed service model, and the associated costs, with a maximum possible score of 500 points. 
+Rank
+Vendor
+Score
+Rank
+Vendor
+Score
+1
+Circuit Transit Inc. (" Circuit") 
+463. 26
+4
+AV Transportation Services, LLC
+402.49
+2
+Via Transportation Inc. (" Via") 
+452. 24
+5
+HBSS Connect Corp. 
+311. 59
+3
+Transdev
+Services, Inc. 
+431. 90
+6
+GoVysh Technologies
+LLC
+244. 58
+=== page 3 ===
+City Council Meeting
+May 13, 2025
+Page 3 of 5
+Staff invited the top three ranking vendors to participate
+in an interview. These vendors
+represented the best combination of experience, proposed service model, and costs. Interviews
+were conducted virtually on March 24 & 
+26, 2025, by staff from the Administration, Public
+Works, and Parks
+and
+Recreation
+departments. 
+The interviews
+provided
+the panel
+with
+an
+opportunity to obtain more details about the implementation/ transition from the current transit
+environment
+to
+each
+proposed
+service
+model, 
+scalability, 
+access
+to
+data, and
+ridership
+accessibility. 
+Although Community Benefit was not an official evaluation criterion, City staff recognized its
+importance and incorporated it into the interview process. During that process, staff explored
+how
+each
+proposer
+could
+contribute
+to
+the
+local
+community
+beyond
+the
+core
+service
+requirements. This included
+discussions
+on providing
+advertising
+platforms
+for the City' s
+businesses, adopting
+local
+hiring
+practices
+to support
+the workforce, and committing
+to
+participate in and accommodate
+certain City events. 
+Each vendor was ranked, with one indicating the recommended vendor. The ranking chart below
+includes a summary of each proposal, only essential details are provided due to many of the
+proposals containing proprietary information or confidential
+financial data. Following
+the
+interview, staff conducted
+reference
+checks
+for Via. Responses
+were
+positive
+and
+highly
+Vv
+Vendor - 
+vStart- up
+Monthly Cost
+Total Annual
+proposed Service Model
+Costs
+Cost
+Base Term (18 mo.) 
+1, 989, 510` 
+Vehicles
+In- service: 
+109, 695
+2 Ford
+E Transit ( ADA) 
+Option Year 1 - 
+1, 355,760
+2 Volkswagen
+ID. Buzz Electric Bus
+1. 
+Via
+15, 000
+112, 980
+Hours: 
+Option Year 2 - 
+1, 369, 440
+Mon. - Fri. 5 am -8 pm
+116, 370
+Sat. - Sun. 6 am -7 pm
+Option Year 3- 
+1, 438, 380
+Holidays 8 am -4 pm
+119, 865
+Base Term ( 18 mo.) 
+1, 554, 096* 
+84, 172
+Vehicles In- service: 
+3 Ford E Transit ( ADA) 
+Option Year 1 - 
+1, 040, 364
+86' 697
+1 Volkswagen ID. Buzz Electric Bus
+2. 
+Circuit
+39,000
+Hours: 
+Option Year 2 - 
+1, 071, 576
+89, 298
+Mon. - Fri. 5 am - 8 pm
+Option Year 3- 
+1, 103, 725
+Sat. - Sun. 6 am -7 pm
+91, 977
+Base Term 08 mo.) 
+1, 569, 835` 
+87,213
+Vehicles In- service: 
+2 Ford E Transit ( ADA) 
+Option Year 1 - 
+1, 068, 228
+Not
+89,0192 Toyota Sienna
+3. Transdev
+included
+Hours: 
+OptionYear2- 
+1, 103, 329
+91, 944
+Mon. - Sun. 6 am -7 pm
+Option Year 3 - 
+1, 141, 054
+10 hours each vehicle
+95, 088
+Estimated cost. Does not account for an initial program
+start- up period or approximately
+a- iz wecns.
+=== page 4 ===
+City Council Meeting
+May 13, 2025
+Page 4 of 5
+Since Via' s founding in 2012, they have offered innovative solutions for micro -transit services, 
+proving to be a leading provider of on -demand, flexible transportation systems. In California, 
+they operate or provide software for 30 micro -transit services. In Los Angeles County, Via was
+selected
+as the operations
+partner for the Metro Micro program, a one -of -a -kind eight -zone
+micro -transit
+service
+throughout
+Los
+Angeles
+County. 
+Their
+experience, 
+coupled
+with
+successfully
+marketing micro -transit and growing ridership on behalf of their partners, will
+ensure that community members with the highest barriers to usage ( senior citizens, riders with
+disabilities, persons
+without
+smartphones, 
+and non- English
+speakers) 
+are ready
+to use these
+services when the program launches. A robust marketing and outreach strategy is included in the
+proposed cost and will help offset operations costs. To ensure program success and customer
+satisfaction, support agents are available to assist riders via phone, text, in app, and email in
+multiple
+languages. Additionally, Via' s
+Integrated
+Transit
+features will
+enable
+seamless
+connections with other mode choices such as biking, walking, and taking existing transit. 
+Based on reviewing the proposed service models, costs, interviews, reference checks, and
+responses to the survey, the interview panel unanimously selected Via for recommendation to the
+City Council. The evaluation process demonstrated their wealth of experience in micro -transit, 
+and a full understanding of the RFP in providing a responsive proposal that details a turnkey, 
+fully -electric, accessible, micro -transit service that will respond to Rosemead' s existing demand, 
+and scalability that is adaptable to future ridership patterns. 
+Before any potential changes are made to the current service, staff will work diligently with the
+selected vendor to develop and launch a marketing campaign to inform residents of the
+forthcoming changes. During this campaign period, staff will focus on current Dial -A -Ride and
+Explorer users, ensuring that these two groups are informed of the changes and seamlessly
+integrated into the new service. Activities during this period may include mailing additional
+multi -language
+material
+to households, tabling
+at community
+events
+and recreation
+centers, 
+stationing personnel at key pick- up and drop- off locations to sign users up, targeted social media
+posts, and posting information on City Transit buses. Following the implementation of micro - 
+transit services, staff will follow up with a progress report at six months to determine if any
+adjustments to service levels and/ or the contract is needed. 
+Staff is proposing the following service fares of $1. 00 per ride, discounted for seniors and
+Americans with Disabilities Act ( ADA) eligible riders at $ 0. 50 per ride. The service area for all
+riders will be within the city limits. Seniors and ADA riders will be able to travel up to 5 miles
+from the city limits and designated medical locations outside of this area. 
+STAFF RECOMMENDATION
+Staff recommends the City Council authorize the City Manager to finalize and execute a
+Professional Services Agreement with Crosby Street Transit, a wholly owned subsidiary of Via
+Transportation, 
+Inc. (" Via") for a base term of eighteen ( 18) months, from July
+1, 2025
+to
+December 31, 2026, in an amount not -to -exceed $ 1, 989, 510, with the option for up to three one- 
+year extensions, totaling $ 6, 180, 090.

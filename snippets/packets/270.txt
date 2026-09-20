@@ -1,0 +1,107 @@
+# source_url: https://legistar1.granicus.com/KeyWest/attachments/8e27b39f-c3b6-48a6-af6f-2dce1d0fe9dc.pdf
+# path: raw/cache/cc5f78034088556c0e0b37700af1dc23a5941ef2.pdf
+# pages_total: 3; hit_pages: [1, 2]; included: [1, 2]
+# context: legistar client=keywest; matter 22-2659 (2022-05-11): *Approving the attached "Key West Transit Software as a Service Deployment Service Order" for on-demand Transit Software as a Service (SaaS), in an amount not to exceed $248,880.00 as described in the attached price quote from Via Transportation, Inc. pursuant to Section 2-797(4)(b) exempt contractu
+
+=== page 1 of 3 ===
+Confidential
+Via SaaS Pricing Proposal for Key West, FL
+Installation Fee
+One-time fee payable at signing of
+contract
+Localization for new zone
+Optimize dynamic vehicle routing and real-time passenger
+aggregation algorithm; configure backend (billing, payment, and
+database); build detailed map; input traffic model; define service
+zone, including pickup and dropoff points; update monitoring
+tools
+Service design consulting
+System design and simulation services
+Co-brand rider app
+Co-branded app, "Powered by Via"
+Testing and quality assurance
+Remote and on-the-ground testing of all Via systems before
+launch
+Develop service model
+Build a launch plan and user acquisition strategy
+Train personnel and oversee
+launch
+Instruction for drivers, dispatchers, and managers in Via‘s best
+practices; onsite and remote launch support
+Total Installation Fee (List Price)
+$50,000
+Special Discount for Key West, FL
+-40%
+Total Installation Fee
+(Discounted)
+$30,000
+Note: Installation fee excludes integrations, which would be scoped and priced
+separately.
+Monthly Per Vehicle Fees (2 Vehicle Monthly
+Minimum)
+Per vehicle per month, minimum payable upfront at signing of contract
+Access to tech modules
+Maintenance and update of optimal pick-up points
+Fleet optimization
+Dynamic and predictive routing and supply rebalancing
+Virtual bus stop architecture
+Maintenance and update of optimal pick-up points
+
+=== page 2 of 3 ===
+Automatic product upgrades
+Receive regular software updates
+Cloud hosting and third-party
+tools
+Amazon Web Services, Twilio, and analytics and communications
+software tools
+Expert operations and growth
+support
+Includes offsite service optimization and data-driven marketing
+consulting
+Analytics and reporting
+Robust real-time, periodic, and custom reporting
+Year 1
+Year 2
+Monthly Fee per Vehicle -
+Vehicles 1-2
+$1,250
+$1,315
+Monthly Fee per Vehicle -
+Vehicles 3-10
+$500
+$525
+Monthly Fee per Vehicle -
+Vehicles 11-15
+$450
+$475
+Note: Should Key West, FL expand to a fleet larger than 15 vehicles, Via can
+discuss further discounts.
+Customer Support
+Fees
+Per agent hour, billed
+Year 1
+Year 2
+Cost per Agent per Hour
+$30.00
+$31.50
+Cost per Month (425
+Agent-Hours per Month)
+$12,740
+$13,377
+Marketing Support
+Fees
+Per agent hour, billed
+Year 1
+Year 2
+Cost per Agent per Hour
+$150
+$160
+Annual Cost (200 Hours)
+$30,000
+$32,000
+Per Ride Fees
+Per ride, billed monthly
+Fee per Ride
+Waived
+Illustrative Total Cost
+Vehicle counts are illustrative

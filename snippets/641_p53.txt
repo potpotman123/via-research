@@ -1,0 +1,146 @@
+# source: raw/bleecker_drive/Cupertino/22_11280_A_-_Contract_Amendment_with_Via.pdf
+# path: raw/bleecker_drive/Cupertino/22_11280_A_-_Contract_Amendment_with_Via.pdf
+# hit page: 53 of 68
+# terms: Via+not to exceed, Via+not-to-exceed, Via+per service hour
+
+=== page 52 ===
+Via Cupertino Service Area Map 
+Approximate zone size: 10.6 sq miles 
+0 
+Sunnyvale 
+,la 
+® 
+' 
+C) :: ... 
+C'1) 
+:> 
+WEST V/J 
+WfST SAN JOS 
+NOTES: 
+Additional service islands under 
+consideration not shown (to be 
+mutually agreed upon by Via and 
+the City): 
+1. Palo Alto Medical 
+Foundation - (Mtn View) 
+2. Mountain View Caltrain 
+Station 
+3. El Camino Hospital 
+(Mtn View)
+=== page 53 ===
+EXHIBIT C - FEES 
+Fees 
+The table below outlines the payment structure, in which Cupertino would be charged on a price 
+per driver hour and price per service hour basis. The total contract value shall not exceed 
+$1 ,750,000 for the 18-month contract term. 
+Fixed Upfront) Costs 
+Total Upfront Cost 
+Project Management & Other Pilot Operations' 
+Performance Monitoring and Reporting 
+Driver Pay (Incl. WAV} 
+Driver & Rider Acouisition 
+To ta/ Cost per Driver Hour 
+Customer SeNice 
+Total Cost per Customer Service Hour 
+Total Pilot Cost to City of Cupertino .. 
+Note: Pricing excludes all taxes. 
+City of Cupertino Proposed Contract Value 
+Price per 
+Price per Driver 
+Customer 
+Hour 
+Service Hour 
+· 
+/ ✓,• ///// ✓✓,-✓✓✓✓✓½ 
+$6.59 
+NIA 
+$0.76 
+NIA 
+S27.18 
+NIA 
+S1.30 
+NIA 
+$35.83o///////////};_ 
+NIA 
+$25.00 
+?01//4W/4 
+$25.00 
+Total Price 
+$122200 
+$122,200 
+$271.455 
+S31 250 
+$1,119.345 
+553.650 
+$1,475,700 
+$152,100 
+$152,100 
+$1,750,000 
+'Includes technology, IT hosting, insurance, T&E. and other miscellaneous costs. 
+•• Total Pilot Cost to City is a not-to-exceed amount and does not reflect unknown fa rebox revenue invoice credits. 
+Driver Hours Summary: 
+Total Implied Driver Hours 
+Total Implied Driver Hours (Weekly) 
+Siwjce Hours Summacy· 
+T otal I mp lied Ser-,ice Hours 
+T otal Implied Service Hours (Weekly) 
+Note: Hours are indicative and subject to change. 
+41 ,184 
+528 
+6,084 
+78 
+Cupertino will be billed for the above fees and a revenue share as described below. Driver 
+hours, service hours, and revenue share from rides served will be billed as incurred at the end 
+of each month. Cupertino shall pay the following fees to Via: 
+Installation Fee 
+Cupertino shall pay to Via a non-refundable installation fee of $122,200, 50% of which ($61 ,100) 
+will be payable upon signing of this Order, and the remaining 50% ($61 ,100) will be payable 
+upon launch of the Deployment. 
+Monthly Fees 
+Cupertino shall pay the following fees to be invoiced monthly by Via, starting upon launch of the 
+Deployment: 
+• 
+$35.83 per driver hour 
+• 
+$25.00 per service hour
+=== page 54 ===
+Revenue Share 
+Cupertino shall pay to Via $1.50 for each completed ride (the "Revenue Share"), to be invoiced 
+monthly by Via, starting upon launch of the Deployment. The City of Cupertino shall receive a 
+monthly invoice credit in an amount equal to the net farebox revenue collected, less the 
+Revenue Share retained by Via in that same previous calendar month. 
+Optional Enhancements Services and Fees 
+Upon reasonable request, Via will provide enhancements subject to the following fees: 
+Additional 
+Description 
+Rate 
+Services 
+Additional 
+Add access to powerful 
+Pricing available upon 
+Features 
+features like a web-
+request 
+based booking portal, 
+corporate account 
+management 
+dashboards, linkage to 
+fixed route bus and train 
+lines, and integration into 
+third party travel 
+planners and payment 
+apps 
+Expert 
+Additional support 
+Pricing available 
+Consulting 
+upon request 
+Services 
+Advanced 
+Create a data warehouse 
+Pricing available 
+Data Analytics 
+or additional dashboards 
+upon request 
+not covered in the 
+original agreement

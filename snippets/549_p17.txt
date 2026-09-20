@@ -1,0 +1,138 @@
+# source: raw/bleecker_drive/Hall County/Micro-Transit-Feasibility-Study.pdf
+# path: raw/bleecker_drive/Hall County/Micro-Transit-Feasibility-Study.pdf
+# hit page: 17 of 24
+# terms: Via Mobility, Via+SaaS, Via+drivers, Via+fleet, Via+vehicles
+
+=== page 16 ===
+RFP #39-021 – Microtransit Feasibility Study  
+Via Mobility, LLC 
+ 
+ 
+ 
+Page 14 
+ 
+ 
+3. Software as a Service (SaaS): In this model, the microtransit vendor provides the 
+necessary microtransit technology, including the on-demand transit operating 
+system and mobile applications, along with a full suite of tools and support services. 
+This model is for agencies who prefer to use their own drivers, vehicles and 
+dispatchers.  
+ 
+Important Note: To enable Hall County to solicit pricing proposals from providers, Via has 
+included the number of vehicle hours required for each scenario, allowing comparisons 
+across providers (based on their hourly vehicle pricing).  
+1) Turn-key (TaaS)  
+Via has provided indicative microtransit revenue hour requirements in the table below. Via 
+does not recommend launching a TaaS service for fleet sizes of less than 6 vehicles due to 
+the significant fixed costs involved in running such a service. Via recommends launching with 
+the current service hours and, as ridership grows, Hall County can evaluate whether to 
+extend the operating hours. The table below shows the impact different operating hours will 
+have on annual vehicle hours requirements. 
+ 
+Annual Vehicle Hours 
+Fleet Size  
+Monday - Friday 6am - 7pm  
+(current service hours) 
+Monday - Friday 4am - 10pm,  
+Saturday - Sunday 6am - 9pm 
+6 vehicles 
+~16,600 
+~25,000 
+8 vehicles 
+~22,200 
+~33,300 
+12 vehicles 
+~33,200 
+~50,000 
+15 vehicles 
+~41,500 
+~62,500 
+ 
+This option is recommended if Hall County believes a microtransit vendor can operate 
+at a lower hourly cost than Hall Area Transit.  
+2) Turn-key (TaaS) with Hall County fleet 
+If Hall County wishes, the microtransit vendor can operate a TaaS service using Hall Area 
+Transit vehicles, reducing the hourly vehicle cost. In this model, the vendor would provide 
+drivers, fuel, insurance, maintenance, vehicle cleaning, and anything else required to ensure 
+the vehicles are available and in working order each day.
+=== page 17 ===
+RFP #39-021 – Microtransit Feasibility Study  
+Via Mobility, LLC 
+ 
+ 
+ 
+Page 15 
+ 
+ 
+This option is recommended if Hall County has a fleet of suitable vehicles and is unable 
+to use them elsewhere in the County, or sell the vehicles for an attractive price.   
+3) Licensed Software (SaaS)  
+Hall County may prefer to provide all drivers and vehicles, in which case Via can provide a 
+Software-as-a-Service offering and ongoing Customer Success services. This includes the 
+use of the standard Via Solution, comprised of: 
+● Via’s fully localized dynamic vehicle routing and real-time passenger aggregation 
+system  
+● iOS and Android rider and driver apps  
+● Backend administration tools 
+● Ongoing technical, operational, and marketing support 
+● Analytics tools and reporting 
+ 
+This option is recommended if Hall County can operate a microtransit service for a lower 
+hourly cost than microtransit vendors, or if the County wishes to operate the service 
+for other reasons.  
+Recommendations 
+Below, Via has provided recommendations based on a combination of factors, including 
+estimated cost, ridership, and customer value proposition.  
+ 
+Scenario 1 - Upgrade Dial-A-Ride  
+ 
+NOT RECOMMENDED 
+This scenario requires 5 - 6 microtransit vehicles, in addition to those required for the 
+Gainesville Connection. Via estimates that this option will exceed the available budget.  
+ 
+Scenario 2 - Upgrade all six Gainesville Connection routes  
+NOT RECOMMENDED 
+This scenario requires 14 - 16 microtransit vehicles, in addition to those required for the Dial-
+A-Ride service. Via estimates that this option will exceed the available budget. 
+ 
+Scenario 3 - Upgrade three underperforming Gainesville Connection routes   
+NOT RECOMMENDED 
+This scenario requires 7 - 8 microtransit vehicles, in addition to those required for the Dial-
+A-Ride service and remaining three Gainesville Connection routes. Via estimates that this 
+option will exceed the available budget.
+=== page 18 ===
+RFP #39-021 – Microtransit Feasibility Study  
+Via Mobility, LLC 
+ 
+ 
+ 
+Page 16 
+ 
+ 
+Scenario 4 - Upgrade Dial-A-Ride and all Gainesville Connection routes 
+  
+SECOND CHOICE 
+This scenario requires 16 - 18 microtransit vehicles. Via estimates this service will be within 
+budget, however, we recommend scenario 5, which provides greater capacity for ridership 
+growth at a lower cost.  
+ 
+Scenario 5 - Upgrade Dial-A-Ride and 3 Gainesville Connection routes  
+RECOMMENDED CHOICE 
+This scenario requires 9 - 10 microtransit vehicles, in addition to three vehicles required for 
+the remaining three Gainesville Connection routes. Via estimates this service will be within 
+budget (cheaper than Scenario 4).   
+Additional Notes 
+Via recommends choosing Scenario 5 instead of Scenario 4 for two reasons: 
+ 
+1. Scenario 5 has the greatest ridership capacity. In Scenario 5, the high performing 
+fixed-routes will continue to move significant numbers of passengers along these 
+regularly travelled corridors, while the majority of the County’s resources can be 
+allocated to the microtransit service, providing a vastly improved rider experience for 
+the Dial-A-Ride and other customers.  
+ 
+2. Scenario 5 has a lower cost. Scenario 5 requires fewer vehicle hours, meaning it will 
+have a lower cost. In addition, Hall County does not need to run the three high 
+performing fixed-route services throughout the entire day. Instead, the agency could 
+choose to only run this service during peak hours (for example, 4-6 hours per day) 
+which could reduce operating costs further. Outside these hours, the microtransit 
+service would have the capacity to transport all remaining riders.

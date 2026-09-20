@@ -1,0 +1,73 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Metropolitan Council/0423_2025_96.pdf
+# pages_total: 3; hit_pages: [1, 2]; included: [1, 2]
+# context: Bleecker Drive folder: Metropolitan Council
+
+=== page 1 of 3 ===
+1 
+M e t r o p o l i t a n  C o u n c i l   
+Committee Report 
+Transportation Committee 
+Committee Meeting Date: April 14, 2025 
+For the Metropolitan Council: April 23, 2025
+Business Item: 2025-96 
+Transit Planning Software, Contract 24P233 
+Proposed Action 
+That the Metropolitan Council authorize the Regional Administrator to negotiate and 
+execute Contract 24P233 with Remix Technologies, LLC, for transit planning tools in the 
+amount not to exceed $1,160,897. 
+Summary of Transportation Committee Discussion/Questions 
+Metro Transit Business System Analyst Shaun Morrell presented this item. Council 
+Members asked about specific use of the software and the breadth of the market. 
+It was moved by Osman, seconded by Vento. Motion carried, consent to Council.
+
+=== page 2 of 3 ===
+1 
+M e t r o p o l i t a n  C o u n c i l   
+Business Item 
+Transportation Committee 
+Committee meeting date: April 14, 2025 
+For the Metropolitan Council: April 23, 2025 
+Business Item: 2025-96 
+Transit Planning Software, Contract 24P233 
+District(s), member(s):  
+All Districts 
+Policy/legal reference: 
+FM 14-2 Expenditures for Procurement of Goods, Services, and Real 
+Estate Policy 
+Staff prepared/presented: 
+Lesley Kandaras, General Manager, 612-349-7513  
+ 
+ 
+ 
+ 
+Adam Harrington, Director Service Development, 612-349-7797 
+ 
+ 
+ 
+ 
+Shaun Morrell, Business Systems Analyst, 612-349-7706 
+Division/department:  
+Metro Transit / Service Development 
+Proposed action 
+That the Metropolitan Council authorize the Regional Administrator to negotiate and execute 
+Contract 24P233 with Remix Technologies, LLC, for transit planning tools in the amount not to 
+exceed $1,160,897. 
+Background 
+Metro Transit Service Development and other departments use specialized software to plan 
+scenarios for fixed route transit, micro transit, and streetscape design.  
+A  Request for Proposals was issued November 8, 2024. A pre-proposal meeting was held on 
+November 20, 2024 that outlined the solicitation requirements, discussed project specifications and 
+responded to plan holder inquires. There were fifteen registered plan holders for this project, 
+twelve prime proposers, three plan rooms, and four plan holders identified as minority, woman, 
+veteran, small or disadvantaged business enterprises. The Council received three proposals on  
+December 30, 2024 to be evaluated for consideration of award. 
+In the review of the proposals, six criteria were used in descending order of importance: Quality of 
+the proposal; Qualifications/Experience of the proposer; Solution fit and technical approach; Key 
+personnel; Responsiveness; and Price. Price was approximately equal in importance to a 
+combination of all other criteria.   
+The evaluation panel reached consensus that the proposal submitted by Remix Technologies, 
+LLC, was most advantageous to the Council and recommend for award. 
+Rationale 
+The execution of a contract for professional and technical services exceeding $500,000 requires 
+Council approval.

@@ -4,7 +4,35 @@
 # terms: Via+drivers, Via+subscription, Via+vehicles
 
 === page 10 ===
-
+Appendix 2 to the Service Order
+Sample Invoice
+CONFIDENTIAL
+OVIa
+[VIA ENTITY NAME]
+Via Transportation, Inc.
+10 Crosby Street. Floor 2
+New York NY 10013 United States
+Invoice
+Date
+Invoice #
+Terms
+Due Date
+PO #
+Billing Period
+Bill To
+[Partner] [Address]
+Description
+Rate
+[Description of the Fee: Vehicle Fees, Ride Fees and/or Total Vehicle Hours]
+Tax Code Summary
+Please make checks payable to:
+P.O. Box 7410493
+Chicago, IL 60674-0493
+Wire Instructions:
+Net 15
+Quantity
+Amount
+Total
 === page 11 ===
 Appendix 3
  

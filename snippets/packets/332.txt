@@ -1,0 +1,102 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Lexington Fayette Urban County Government/0079_21_Contract_055-2021.pdf
+# pages_total: 20; hit_pages: [1, 5, 7]; included: [1, 5, 7]
+# context: Bleecker Drive folder: Lexington Fayette Urban County Government
+
+=== page 1 of 20 ===
+R-061-2021
+Contract #055-2021
+• remix
+Remix Proposal for
+Lexington, KY
+For: Scott Thompson, Lexington, KY
+By: Remix Technologies, LLC.
+Ai
+160S
+
+=== page 5 of 20 ===
+Remix Proposal fer Lexington, KY
+Prepared for Scott Thompson. By Matthew Guichard, Remix (matthew.guichard@remix.com).
+What do I get
+with a Remix
+Mobility
+License?
+A full mobility management platform for your entire city staff. It's an
+annual subscriptioi fer unlimitad asers, and includes:
+Cusiomer
+support?
+• Vehicle location ground truth and metrics: view dockless vehicle location and filter
+based on vehicle status, service provider, vehicle type, and geographic zone
+• Fleet distribution and trends via heatmap views
+• Understand the most popular spots in your city rider dropoff and deployment to
+inform parking annes
+• Set fleet cap and equity zone regulation and compliance rules to monitor over the
+course of your mobility program
+• Geofence policy zone creation: create zones to restrict or encourage
+parking/riding in specific geographic areas within your city
+• Ip pain visualzauon vy seyment across your cily dased on the average uany
+usage based on a monthly average
+• Bike network analysis: Compare trip paths compared to current bike infrastructure
+to quickly identify key corridors of risk
+• Trip origin and destination: Understand where dockless trips start and end, based
+on cuctem grogrankie areas
+• Overall program metrics: utilization, total trips per day, average distance, average
+duration
+• Docked bikeshare support and key station metrics
+• Exports to CSV for further analysis
+Our Success Team brings years of design experience and worko with you
+to develop a customized Success Plan. Each plan has three parts:
+1. Onboard (First 60 Days): Identify a first project and work on it together.
+- Workshops, Project-Assisted Training, Individual Sessions, Video Guides
+2. Plan (Months 2+): Bring your plans to life with Remix.
+- Regular Check-ins, Best Practices Blog, Remix Webinars, Remix Conference
+3. Measure Results (Months 6+): Document your return on investment (ROl).
+- Develop ROI Report, Set Yearly Goals, Manage Renewal, Plan Ahead
+Technical
+requirements?
+Remix is entirely web-based and software-as-a-service (SaaS).
+• Everything is in the cloud - no installations or downloads. Can access from
+anywhere
+• Every user gets a login + password
+• Remix works on the latest version of any browser
+• Agency-wide annual subscription -- no maintenance fees.
+
+=== page 7 of 20 ===
+Remix Services Agreement for City of
+Lexington
+This Services Agreement ("Agreement") is entered into between Remix Technologies, LLC., a Delaware corporation ("Company"), and
+[Lexington, KY] ("Customer") and will become effective when it is executed by authorized representatives of both parties (the "Effective
+Scope of Seivices & Terms
+Prepared for Scott Thompson, Lexington, KY. By Matthew Guichard, Remix
+(matthew.guichard@remix.com).
+Effective Date
+March 1st 2021
+Commitment Term
+1 Year + 1 Option Year
+Remix Mobility
+License
+Ootional Add-on:
+Remix Streets and
+Explore Data
+$10,000 USD per year
+Strategic Enterprise Platform Pricing
+$2,500 USE porysar if oncerted on si bofers 2/20/21
+Includes:
+• Access to Remix Mobility
+• Remix licenses for an unlimited number of users within Lexington, KY
+• Enhanced data visualization and analysis
+• Software as e Service (SaeS): fully hosted, cloud-based weh platform
+• Dedicated Customer Success staff; Premium Enterprise Support: response to requests in 1
+business day
+Option to add-on Remix Streets and Exolore Data platforms at anv point durina the
+first yoar of the contract for $27,000 USD for ene year.
+Implementation
+Fee
+Marketing Terms
+$2,500 USD for 1 vear
+Waived with contract execution by 2/28/21
+• Provide onboarding and training for all staff.
+• Create user accounts
+• Calibrate and upload key datasets
+Willingness to work with Remix to develop a case study, mutually agreeable press release,
+ability to use Customer as a reference.

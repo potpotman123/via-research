@@ -1,0 +1,243 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Arlington, Texas/Via_Contract_Renewal_redacted.pdf
+# pages_total: 13; hit_pages: [1, 4, 5, 6, 9]; included: [1, 4, 5, 6, 9]
+# context: Bleecker Drive folder: Arlington, Texas
+
+=== page 1 of 13 ===
+Renewal and Modification 
+to the 
+ON-DEMAND RIDERSHARE CONTRACT 
+ 
+ 
+River North Transit LLC (“Via” or “Contractor”) and City of Arlington, TX (“City” or “Customer” and, 
+together with Via, the “Parties”) have entered into that certain agreement titled On-Demand Rideshare 
+Contract, dated November 29, 2022, and modified by Amendment #1 dated May 23, 2023 (together, the 
+“Contract”). The Contract, which is set to expire December 31, 2024, provides for up to four (4) two-year 
+renewals.  The Parties desire to renew the Contract and modify it in certain respects.  Upon execution of 
+this Renewal and Modification to the On-Demand Rideshare Contract (the “Renewal”), the Parties agree 
+to renew and modify the Contract as follows: 
+ 
+1. Service Period Extension. The Parties hereby agree to renew the Contract for an additional 
+period of 24 months, starting on January 1, 2025 and ending on December 31, 2026 (inclusive), 
+unless terminated earlier in accordance with the provisions of the Contract. 
+ 
+2. Amendment. The following language is added to Section I. N. Federal Transit Administration 
+Clauses: 
+ 
+27. FTA Master Agreement. The parties hereby agree to comply with FTA Master 
+Agreement (31) Section 34. Safe Operation of Motor Vehicles. Seat Belt Use. The 
+Recipient agrees to implement Executive Order No. 13043, “Increasing Seat Belt Use in 
+the United States,” April 16, 1997, 23 U.S.C. § 402 note, (62 Fed. Reg. 19217), by: (1) 
+Adopting and promoting on-the-job seat belt use policies and programs for its 
+employees and other personnel that operate company-owned vehicles, company-rented 
+vehicles, or personally operated vehicles; and (2) Including a “Seat Belt Use” provision 
+in each third party agreement related to the Award. FTA Master Agreement (31) Section 
+34. Safe Operation of Motor Vehicles. (b) Distracted Driving, Including Text Messaging 
+While Driving. The Recipient agrees to comply with: (1) Executive Order No. 13513, 
+“Federal Leadership on Reducing Text Messaging While Driving,” October 1, 2009, 23 
+U.S.C. § 402 note, (74 Fed. Reg. 51225); (2) U.S. DOT Order 3902.10, “Text 
+Messaging While Driving,” December 30, 2009; and (3) The following U.S. DOT 
+Special Provision pertaining to Distracted Driving: (i) Safety. The Recipient agrees to 
+adopt and enforce workplace safety policies to decrease crashes caused by distracted 
+drivers, including policies to ban text messaging while using an electronic device 
+supplied by an employer, and driving a vehicle the driver owns or rents, a vehicle 
+Recipient owns, leases, or rents, or a privately-owned vehicle when on official business 
+in connection with the Award, or when performing any work for or on behalf of the 
+Award; (ii)Recipient Size. The Recipient agrees to conduct workplace safety initiatives 
+in a manner commensurate with its size, such as establishing new rules and programs to 
+prohibit text messaging while driving, re-evaluating the existing programs to prohibit 
+text messaging while driving, and providing education, awareness, and other outreach to 
+employees about the safety risks associated with texting while driving; and (iii)
+
+=== page 4 of 13 ===
+“Microtransit Services Fleet Cap”) and (ii) the number of vehicles in the Handitran 
+Transportation Service shall not exceed thirty-four (34) vehicles  (the “SaaS Services Fleet Cap”, 
+together with the Microtransit Services Fleet Cap, the “Fleet Cap”).  Contractor and City may 
+temporarily adjust the Microtransit Services Fleet Cap and/or the SaaS Services Fleet Cap upon 
+written agreement via email. City shall not pay for any costs of vehicles or services provided with 
+vehicles exceeding the Microtransit Services Fleet Cap as such cap may be amended in accordance 
+with this provision.  City shall be solely responsible for monitoring the SaaS Services Fleet Cap.  
+ 
+5.  Amendment. Exhibit A of the Contract is deleted in its entirety and replaced with the Exhibit 
+A attached to this Renewal, which is incorporated herein by reference as if written word for word. 
+ 
+6. Change Order Limitations.  The Parties hereby acknowledge and agree that if this Contract 
+was awarded through a competitive procedure as required by Section 252.021 of the Texas Local 
+Government Code, any change order or cumulative change orders shall not exceed the statutory 
+limits as described in Section 252.048 of the Texas Local Government Code. Any change order 
+submitted to or authorized by CITY exceeding the statutory limit is void. CONTRACTOR hereby 
+acknowledges and agrees that CITY shall hold no responsibility to pay for any work started or 
+completed if the work was unauthorized or the change order or invoice is in excess of statutory 
+limits.   
+ 
+7. Conflicts, Use of Terms, Governing Law. Capitalized terms used but not defined herein have 
+the meanings set forth in the Contract. Except as expressly provided herein, the terms and 
+conditions of the Contract remain unchanged. This Renewal will be governed by the same law as 
+the Contract and is effective as of January 1, 2025. 
+ 
+ 
+RIVER NORTH TRANSIT LLC 
+ 
+ 
+CITY OF ARLINGTON, TX  
+ 
+By: 
+ 
+ 
+ 
+ 
+ 
+ 
+By: 
+ 
+Name:  
+ 
+ 
+ 
+ 
+ 
+Name: 
+ 
+Title: 
+ 
+ 
+ 
+ 
+ 
+ 
+Title: 
+ 
+Date: 
+ 
+ 
+ 
+ 
+ 
+ 
+Date:
+
+=== page 5 of 13 ===
+EXHIBIT A 
+RIDESHARE SERVICES SCOPE OF SERVICES 
+ 
+1. Purpose; Scope 
+Contractor will provide rideshare services as described below (the “Service”) for the City and its residents 
+and visitors. Contractor's Services include: 
+ Access to Via's fully localized dynamic vehicle routing and real-time passenger aggregation 
+system; 
+ Establishing relationship with vehicle rental company ("Vehicle Partner") to provide access to 
+Vehicles on a rental basis to independent contractor driver partners; 
+ Accompanying technical and operational support services in order to provide a turnkey solution; 
+ A series of service development meetings to refine service scope for a supplemental microtransit 
+service that operates during peak hours to maximize efficiency across modes and improve quality 
+of service (the “Dynamic Direct Route”); 
+ Data sharing and reporting as described under Section 9 below; 
+ Access to the Via mobile application for users to book rides from a smartphone; 
+ Integration of the Arlington Student Transportation Program as described under Section 10 
+below; 
+ Integration of the Arlington RAPID service as described under Section 11 below; and 
+ Advertising services as described under Section 12 
+ 
+2. Duration 
+The Project Scope will begin on January 1, 2025, unless otherwise mutually agreed by both parties. The 
+Service shall operate through December 31, 2026, with the option to renew in accordance with the 
+Contract. 
+3. Fees 
+A. Contractor Fees 
+ 
+The City agrees to pay Contractor the amounts below, not to exceed $20,791,648.32 in the aggregate for 
+the term of this Contract. 
+ 
+The fees for rideshare services shall be on a cost per on-demand service hour basis, corresponding with 
+the tasks outlined in the Contractor's response to the RFP, as outlined below. The fees for the Dynamic 
+Direct Route portion of the Services shall be on fixed costs and a cost per on-demand service hour basis, 
+corresponding with the tasks outlined below.
+
+=== page 6 of 13 ===
+Service
+Arlington On-Demand
+(Micro TaaS)
+Cost Category
+Year 8: January 1, 2025 -
+December 31, 2025
+Year 9: January 1, 2026 -
+December 31, 2026
+Total
+$9,156,776.20
+$9,432,069.40
+Dynamic Direct Route
+Total
+$834,070.25
+$252,790.00
+RAPID
+(Autonomous Vehicle Program)
+Total
+Grand Service Total (without farebox)
+$816,713.35
+$10,807,559.80
+$0.00
+$9,684,859.40
+"On-demand service hours" or "service hour" means an hour that one driver is providing service pursuant
+to this Contract. The total number of service hours may differ from those set forth herein based on the
+mutual agreement of the parties, as long as the total cost paid by the City does not exceed the total "not to
+exceed" amount (subject to the provisions of the Contract). The Total Annual Cost shown above is based
+on the below assumptions with respect to source of funding. That amount (and the resulting number of
+service hours and operating hours required to be provided by Contractor) may change if the actual fare
+revenue differs from projections.
+Upon reasonable request, Via will provide customization and development services subject to the
+following fee:
+Service
+Customize Via's service as may
+be requested
+Description
+Fee
+B. Invoicing
+The Fees shown above will vary month-to-month and be invoiced on a cost-per-hour basis (for service
+hours actually provided), or otherwise as outlined in subsection A above.
+Contractor shall invoice the City monthly on or about the 15* of each month, starting on or about January
+15, 2025, to include fees for the previous calendar month.
+Invoices shall include:
+• Costs of services provided during previous calendar month;
+• Dates of service work;
+• Any necessary reconciliations of charges or payments from previous calendar months), if
+applicable;
+
+=== page 9 of 13 ===
+contractor drivers will be able to gain access to these vehicles after being registered onto the Via system, 
+enabling these individuals to sign up for specific daily driving sessions or longer periods of work. 
+As necessary, Contractor may also establish a means for independent contractor drivers to drive on the 
+Via platform using their own qualified vehicles, for instance, during times of high demand when the fleet 
+cannot meet total demand. The decision to begin utilizing independent contractor driver’s personal 
+vehicles must be approved by City. 
+For all drivers on the Service, Contractor shall ensure that driver registration and certification protocols 
+are compliant with relevant City and FTA guidelines (as outlined in Sections I, J and N of the Contract), 
+including drug & alcohol regulations. Contractor shall create processes designed to ensure that any 
+vehicles used in the delivery of service during the Service are kept clean and service-ready and meet the 
+City guidelines outlined in Section I of the Contract. 
+With respect to autonomous vehicles, Contractor will ensure that any operators, whether in person or 
+remote, are qualified and accredited, and comply with all relevant City and FTA guidelines, including any 
+drug & alcohol regulations. All autonomous vehicles added to the fleet must meet at least the same 
+standards as non-autonomous vehicles in the current Via fleet, to the extent applicable taking into 
+consideration the nature of such autonomous vehicles. 
+ 
+B. Wheelchair Accessible Vehicle (WAV) Fleet 
+  
+Contractor will contract with a vehicle provider that shall develop and maintain a WAV fleet plan that 
+satisfies relevant FTA ADA requirements - including the equal provision of service to potential riders of 
+all physical means. Contractor shall procure through its partnership with May Mobility at least one (1) 
+autonomous vehicle to its WAV Fleet, which will operate under the Arlington RAPID program, as 
+described in Section 11.  
+  
+To fulfill this goal, Contractor shall cause to be deployed for the Service appropriately-qualified drivers 
+operating existing City vehicles, taxi or livery vehicles, or dedicated vehicles specifically deployed for the 
+Service.  
+ 
+7. Customer and Driver Support 
+While its platform is highly automated, and requires minimal human intervention to operate, Contractor 
+shall provide high-quality customer service to both customers and driver partners during the course of the 
+Service. If an issue arises for a customer or driver before, during, or after a ride, these parties will be able 
+to reach customer service staff by in-app form submission, by submitting an email ticket, or by calling in, 
+which will be replied to promptly by such staff. 
+  
+Upon request by the City, the Contractor shall provide to the City a periodic reporting system of customer 
+service events, in order to maximize the City’s learnings about the Service.

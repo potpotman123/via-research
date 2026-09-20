@@ -1,0 +1,89 @@
+# source: raw/bleecker_drive/Fort Lauderdale/12512817  Transit Planning Platform  Remix  Fully Executed Agreement.pdf
+# path: raw/bleecker_drive/Fort Lauderdale/12512817  Transit Planning Platform  Remix  Fully Executed Agreement.pdf
+# hit page: 26 of 31
+# terms: Remix Technologies, Via Transportation, Via+SaaS, Via+fleet, Via+implementation fee
+
+=== page 25 ===
+Remix Explore for the City of Fort Lauderdale 
+ 
+What do I get with 
+Premium Remix 
+Explore? 
+ 
+A full data management platform for your entire staff. It’s amplifies your 
+[transit/streets/mobility] license with: 
+● 
+US Census data in key demographic areas, including: Population Density, Population 
+Growth, Jobs, Public Transit to Work, Minority, Poverty, Car-Free Households, Seniors, 
+Youth, Disability, Limited English, and more datasets.  
+● 
+Geographic data including Political Boundaries: Cities, Counties, Zip Codes, and 
+Census-designated places  
+● 
+Custom polygon-based shapefiles provided by your agency 
+● 
+Custom datasets provided by your agency, including:  
+● 
+Shared mobility infrastructure data, including docked Bikeshare 
+● 
+Movement data, including traffic speeds data 
+● 
+Line and point-based shapefiles, including bike infrastructure network  
+What do I get with 
+Remix Standard 
+Data? 
+ 
+A lightweight data management platform for your entire staff. It’s amplifies your 
+[transit/streets/mobility] license with: 
+● 
+US Census data in key demographic areas, including: Population Density, Population 
+Growth, Jobs, Public Transit to Work, Minority, Poverty, Car-Free Households, Seniors, 
+Youth, Disability, Limited English, and more datasets.  
+● 
+Geographic data including Political Boundaries: Cities, Counties, Zip Codes, and 
+Census-designated places  
+● 
+Custom polygon-based shapefiles provided by your agency
+=== page 26 ===
+Remix Services Agreement for City of Fort Lauderdale 
+This Services Agreement (“Agreement”) is entered into between Remix Technologies, LLC., a subsidiary of Via Transportation, Inc. ("Company"), and 
+Fort Lauderdale ("Customer") and will become effective when it is executed by authorized representatives of both parties (the “Effective Date”). 
+Scope of Services & Terms 
+Prepared for Lisa Marie Glover, City of Fort Lauderdale. By Alyssa Overheul, Remix 
+(alyssa.overheul@ridewihvia.com).  Date: July 27, 2021  
+Effective Date 
+September 15, 2021 
+Commitment Term 
+2 years with the option to renew a 3rd year at the same pricing structure 
+Remix Transit + 
+Explore Planning 
+License  
+$11,000 USD per year, based on a total fixed route fleet of ~17 
+• Access to Transit Planning platform 
+• Remix licenses for an unlimited number of users within the City of Fort Lauderdale and Sun 
+Trolley 
+• Enhanced data visualization and analysis  
+• Software as a Service (SaaS): fully hosted, cloud-based web platform 
+• Dedicated Customer Success staff; Premium Enterprise Support: response to requests in 1 
+business day 
+Remix Street Design 
++ Explore Platform 
+License 
+$28,500 USD per year (based on CITY’s population of ~184,599) 
+Includes: 
+• Access to Street Design platform 
+• Remix licenses for an unlimited number of users within the city of Fort Lauderdale and Sun 
+Trolley 
+• Enhanced data visualization and analysis  
+• Software as a Service (SaaS): fully hosted, cloud-based web platform 
+• Dedicated Customer Success staff; Premium Enterprise Support: response to requests in 1 
+business day 
+Implementation Fee 
+$2,000 USD for 1 year due on year one 
+• Provide onboarding and training for all staff. 
+• Create user accounts 
+• Calibrate and upload key datasets
+=== page 27 ===
+Marketing Terms 
+Willingness to work with Remix to develop a case study, mutually agreeable press release, ability 
+to use Customer as a reference.

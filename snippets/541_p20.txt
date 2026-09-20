@@ -1,0 +1,163 @@
+# source: raw/bleecker_drive/Pierce County/04-08-24-BOC-Packet.pdf
+# path: raw/bleecker_drive/Pierce County/04-08-24-BOC-Packet.pdf
+# hit page: 20 of 50
+# terms: Via Transportation
+
+=== page 19 ===
+Board of Commissioners 
+Fact Sheet No.:  2024-015 
+Date: April 8, 2024  
+ 
+ 
+ 
+TITLE:   Authority to Increase the Contract Spending 
+Authority with Via Transportation, Contract No. 1214, for 
+the Transit Planning Software and to Extend the Service 
+Years of the Contract   
+DIVISION:   Planning & Community Development   
+ 
+SUBMITTED BY:   Brent Campbell, IT Assistant Manager 
+ 
+ 
+RELATED ACTION: 
+N/A 
+ 
+ATTACHMENTS: 
+N/A
+ 
+ 
+ 
+RELATION TO STRATEGIC PLAN:   Internal 
+BUDGET INFORMATION 
+ 
+Is it Budgeted? ☒ Yes / ☐ No 
+Project Name or Number:  
+ 
+☒Operating Budget                               
+☐Capital Budget   
+ 
+CONTRACT SUMMARY 
+Current Contract 
+Authority 
+ 
+$ 145,796.50 
+This Increase Request 
+$ 175,835.00 
+New Contract 
+Authority   
+$ 321,631.50 
+EXPLANATION: 
+This amendment will be for up to three additional 
+years. The annual costs, inclusive of sales tax, are 
+detailed as follows: $54,725.00 for 2024, 
+$58,520.00 for 2025, and $62,590 for 2026.  
+ 
+BACKGROUND:  
+ 
+In 2018 the Chief Executing Officer authorized the sole-source selection of the Remix software (now provided by 
+Via Software). 
+ 
+The Pierce Transit Planning Department uses Remix for fixed route scenario planning and testing of potential routes.  
+It allows planning to plan a route, and then identify predictive schedule and fleet requirements. This software is 
+also used for long range planning and coordination with partner agencies. Another module that is part of this 
+agreement is the Remix on Demand Planning License.  This allows planning to predict use of potential new on-
+demand service areas as well as manage existing Runner Zones.  This contract will combine both maintenance 
+agreements together under one contract. 
+ 
+ 
+ 
+ 
+ 
+Page 17 of 48
+=== page 20 ===
+FACT SHEET 
+PAGE 2 
+ 
+ 
+ 
+STAFF RECOMMENDATION: 
+ 
+Staff recommends increasing the contract amount by $175,835.00 to extend the years of service on this contract 
+so that the agency can continue to conduct essential fixed route and on demand planning scenarios of existing and 
+potential routes.  
+ 
+ALTERNATIVES: 
+ 
+Do not authorize the contract extension and stop using Remix.  This is not recommended as it would remove access 
+to a tool that our planning department relies upon. 
+ 
+PROPOSED MOTION: 
+ 
+Move to: Authorize the Chief Executive Officer to increase to the contract spending authority by $175,835 with Via 
+Transportation, Contract No. 1214, to extend the service years of the contract for a total contract spending authority 
+of $321,631.50.   
+Page 18 of 48
+=== page 21 ===
+Board of Commissioners 
+Fact Sheet No.:  2024-016 
+Date: April 8, 2024  
+ 
+ 
+TITLE:   Authority to Increase the Contract Spending 
+Authority with Genfare, Contract No. 1036, to Extend the 
+Service Years of the Contract for Farebox System Software 
+Maintenance and Support Services 
+DIVISION:   Finance   
+ 
+SUBMITTED BY:   Brent Campbell, IT Assistant Manager 
+ 
+ 
+RELATED ACTION: 
+ 
+ 
+FS 18-062, Authority to Execute a Sole Source One-Year Farebox System Software Licensing and Support Agreement 
+with Two Optional One-Year Extensions with Genfare. 
+ 
+FS 2020-018, Authority to Execute a Sole Source, Multi-Year Licensing and Subscription Agreement with Genfare to 
+Upgrade the Software of the Farebox System. 
+ 
+ATTACHMENTS: 
+N/A
+ 
+ 
+ 
+RELATION TO STRATEGIC PLAN:   Internal 
+BUDGET INFORMATION 
+ 
+Is it Budgeted? ☒ Yes / ☐ No 
+Project Name or Number:  Genfare Contract No. 1036 for 
+Genfare Farebox System Software Maintenance and 
+Support. 
+ 
+☒Operating Budget                               
+☐Capital Budget   
+ 
+CONTRACT SUMMARY: 
+Current Contract 
+Authority 
+$ 269,084 
+This Increase Request 
+$ 438,140 
+New Contract 
+Authority  
+$ 707,224 
+ 
+EXPLANATION: 
+ 
+The annual costs, inclusive of sales tax, are detailed 
+as follows: $82,525 for 2024, $85,001 for 2025, 
+$87,551 for 2026, $90,180 for 2027, and $92,883 
+for 2028. The 2024 expense of $82,525 is nearly 
+met by the allocated budget of $82,000. For 
+subsequent years, the Information Technology 
+Department will update the budget to accommodate 
+these costs. 
+ 
+ 
+BACKGROUND:  
+ 
+The GenFare system comprises the fareboxes on the buses, the infrastructure in the new Fuel and Bus wash building 
+to update and empty the fareboxes, and the IT systems to monitor and ensure fidelity of the money as it moves 
+from the buses to the bank.  
+ 
+Page 19 of 48

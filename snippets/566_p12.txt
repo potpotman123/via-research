@@ -1,0 +1,166 @@
+# source: raw/bleecker_drive/Doral/20_3828_2019_SFMTA_Board_Report.pdf
+# path: raw/bleecker_drive/Doral/20_3828_2019_SFMTA_Board_Report.pdf
+# hit page: 12 of 62
+# terms: Via+SaaS
+
+=== page 11 ===
+SFMTA P-648 (4-18) 
+1 
+ 
+CFP 
+ 
+n:\ptc\as2019\1000426\01354057.doc 
+City and County of San Francisco 
+Municipal Transportation Agency 
+One South Van Ness Ave., 7th Floor 
+San Francisco, California 94103 
+ 
+ 
+SOFTWARE AS A SERVICE AGREEMENT 
+BETWEEN THE CITY AND COUNTY OF SAN FRANCISCO AND 
+REMIX SOFTWARE, INC. 
+ 
+Contract No. SFMTA-2018-33 
+ 
+ 
+This Agreement is made as of ____________________, in the City and County of San Francisco 
+(City), State of California, by and between Remix Software, Inc., 155 9th Street, San Francisco, 
+California 94103 (Contractor) and City, acting through its Municipal Transportation Agency 
+(SFMTA).  
+ 
+Recitals 
+ 
+A. The SFMTA competitively procured the Remix Transit Planning Platform under 
+Purchase Order No. DPMT17002811 as required by San Francisco Administrative Code Chapter 
+21.1. 
+B. The SFMTA wishes to renew the Remix Transit Planning Platform software licenses 
+and Enterprise support. 
+C. This Agreement is being entered into with Contractor and shall be treated as a sole 
+source software licensing procurement as per San Francisco Administrative Code Chapter 21.30. 
+D. There is no Local Business Entity (LBE) subcontracting participation requirement for 
+this Agreement. 
+E. Contractor represents and warrants that it is qualified to provide the Software as a 
+Service (SaaS) Application and perform the Services required by City as set forth under this 
+Agreement.  
+F. Approval for this Agreement was obtained when the Civil Service Commission 
+approved Contract number PSC 40677-18/19 on May 20, 2019. 
+Now, therefore, the parties agree as follows: 
+ 
+Article 1 
+Definitions 
+The following definitions apply to this Agreement: 
+1.1 
+“Agreement” means this contract document, including all attached appendices, 
+and all applicable City Ordinances and Mandatory City Requirements, which are specifically 
+incorporated into this Agreement by reference as provided herein.
+=== page 12 ===
+SFMTA P-648 (4-18) 
+2 
+ 
+CFP 
+ 
+n:\ptc\as2019\1000426\01354057.doc 
+1.2 
+“Authorized Users” means persons authorized by City to access the City Portal 
+and use the SaaS Application, including any City employee, contractor, or agent, or any other 
+individual or entity authorized by City. 
+1.3 
+“Back-Up Environment” means the Contractor’s back-up Data Center for the 
+SaaS Services. 
+1.4 
+“Business Hours” means 8:00am-6:00pm U.S. Pacific Time. 
+1.5 
+“CCO” means SFMTA Contract Compliance Office. 
+1.6 
+“City” or “the City” means the City and County of San Francisco, a municipal 
+corporation. 
+1.7 
+“City Confidential Information” shall have the meaning set forth in Section 
+13.2.1(a). 
+1.8 
+“City Data” means that data, as described in Article 13 of this Agreement, which 
+includes, without limitation, all data collected, used, maintained, processed, stored, or generated 
+by or on behalf of the City, including data resulting from the use of the SaaS Service.  City Data 
+includes Confidential Information. 
+1.9 
+“City Portal” means an electronic gateway to a secure entry point via 
+Contractor’s Website that allows City and its Authorized Users to log in to an area where they 
+can view and download information or request assistance regarding the SaaS Application and 
+Services. 
+1.10 
+“CMD” means the Contract Monitoring Division of the City. 
+1.11 
+“Contract Administrator” means the individual who the SFMTA assigns to 
+administer the Agreement, or his or her designated agent. 
+1.12 
+“Confidential Information” means City Confidential Information and Contractor 
+Confidential Information. 
+1.13 
+“Contractor” or “Consultant” means Remix Software, Inc., 1128 Howard 
+Street, San Francisco, California 94103. 
+1.14 
+“Contractor Confidential Information” shall have the meaning set forth in 
+Section 13.2.2.  
+1.15 
+“Contractor Project Manager” means the individual specified by Contractor 
+pursuant to Section 4.2.1 hereof, as the Project Manager authorized to administer this Agreement 
+on Contractor's behalf. 
+1.16 
+“Contractor’s Website” means the website that provides Authorized Users 
+access to the SaaS Application Services.
+=== page 13 ===
+SFMTA P-648 (4-18) 
+3 
+ 
+CFP 
+ 
+n:\ptc\as2019\1000426\01354057.doc 
+1.17 
+“Data Breach” means any access, destruction, loss, theft, use, modification or 
+disclosure of City Data by an unauthorized party or that is in violation of the Agreement terms 
+and/or applicable local, state or federal law. 
+1.18 
+“Data Center(s)” means the data center(s) located in the United States that will 
+be used to host the SaaS Application and City Data. 
+1.19 
+“Days” means calendar days. 
+1.20 
+“Deliverables” means Contractor's work product resulting from the Services that 
+are provided by Contractor to City during the course of Contractor's performance of the 
+Agreement.  
+1.21 
+“Disabling Code” means computer instructions or programs, subroutines, code, 
+instructions, data or functions (e.g., viruses, worms, date bombs or time bombs)—including, but 
+not limited to, data storage, computer libraries, programs that self-replicate without manual 
+intervention, instructions programmed to activate at a predetermined time or upon a specified 
+event, and/or programs purporting to do a meaningful function but designed for a different 
+function—which alter, destroy, inhibit, damage, interrupt, interfere with, or hinder the operation 
+of the City's access to the SaaS Services through the Contractor's Website and/or Authorized 
+User's processing environment, the system in which it resides, or any other software or data on 
+such system or any other system with which it is capable of communicating. 
+1.22 
+“Documentation” means technical publications provided by Contractor to City 
+relating to use of the SaaS Application, such as reference, administrative, maintenance, and 
+programmer manuals. 
+1.23 
+“Effective Date” means the date on which the City's Controller certifies the 
+availability of funds for this Agreement, as provided in Section 3.1. 
+1.24 
+“Internet” means that certain global network of computers and devices 
+commonly referred to as the “internet,” including, without limitation, the World Wide Web. 
+1.25 
+“Mandatory City Requirements” means those City laws set forth in the San 
+Francisco Municipal Code, including the duly authorized rules, regulations, and guidelines 
+implementing such laws, which impose specific duties and obligations upon Contractor.  
+1.26 
+“Open Source Software” means software with either freely obtainable source 
+code, a license for modification, or permission for free distribution. 
+1.27 
+“Party” and “Parties” mean the City and Contractor, either collectively or 
+individually. 
+1.28 
+“Performance Credit” means credit due to City by Contractor with regard to 
+Contractor’s service level obligations in Appendix C (Service Level Obligations). 
+1.29 
+“Personally Identifiable Information (PII)” means any information about an 
+individual, including information that can be used to distinguish or trace an individual’s identity,

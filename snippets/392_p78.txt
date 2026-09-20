@@ -1,0 +1,147 @@
+# source: raw/bleecker_drive/Los Alamos (Spare Labs)/1040_24_A_-_AGR_24-37_Spare_Labs_Inc.pdf
+# path: raw/bleecker_drive/Los Alamos (Spare Labs)/1040_24_A_-_AGR_24-37_Spare_Labs_Inc.pdf
+# hit page: 78 of 81
+# terms: Spare Labs
+
+=== page 77 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+77 
+ Agreement Template Version: 04012024 
+Engage in severe forms of trafficking in persons during the period of time that this contract is in 
+effect, Procure a commercial sex act during the period of time that this contract is in effect, or 
+Use forced labor in the performance of any activities covered by this contract. 
+14. Prohibition on Certain Telecommunications and Video Surveillance Services or 
+Equipment 
+Public Law 115-232, section 889, prohibits entering into a contract (or extending or renewing a 
+contract) to procure or obtain equipment, services, or systems that uses covered 
+telecommunications equipment or services as a substantial or essential component of any system, 
+or as critical technology as part of any system. Covered telecommunications equipment is 
+telecommunications equipment produced by Huawei Technologies Company or ZTE 
+Corporation (or any subsidiary or affiliate of such entities).  
+(i) For the purpose of public safety, security of government facilities, physical security 
+surveillance of critical infrastructure, and other national security purposes, video 
+surveillance and telecommunications equipment produced by Hytera Communications 
+Corporation, Hangzhou Hikvision Digital Technology Company, or Dahua Technology 
+Company (or any subsidiary or affiliate of such entities).  
+(ii) Telecommunications or video surveillance services provided by such entities or using 
+such equipment.  
+(iii) Telecommunications or video surveillance equipment or services produced or provided 
+by an entity that the Secretary of Defense, in consultation with the Director of the National 
+Intelligence or the Director of the Federal Bureau of Investigation, reasonably believes to 
+be an entity owned or controlled by, or otherwise connected to, the government of a 
+covered foreign country.  
+15. Governmentwide Debarment and Suspension 
+By signing and submitting its bid or proposal, the offeror certifies as follows: 
+The certification in this clause is a material representation of fact relied upon by LOS ALAMOS 
+COUNTY . If it is later determined that the bidder or offeror knowingly rendered an erroneous 
+certification, in addition to remedies available to LOS ALAMOS COUNTY , the Federal 
+Government may pursue available remedies, including but not limited to suspension and/or 
+debarment. The bidder or offeror agrees to comply with the requirements of 49 CFR 29, Subpart 
+C while this offer is valid and throughout the period of any contract that may arise from this 
+offer.  
+The bidder or offeror further agrees to include a provision requiring such compliance in its lower 
+tier covered transactions. 
+16. Notification Related to Fraud, Waste, Abuse, or Other Legal Matters 
+If a current or prospective legal matter that may affect the Federal Government emerges, the 
+CONTRACTOR must promptly notify LOS ALAMOS COUNTY so that it can notify the 
+Federal Government.  The types of legal matters that require notification include, but are not 
+limited to, a major dispute, breach, default, litigation, or naming the Federal Government as a 
+Attachment A
+=== page 78 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+78 
+ Agreement Template Version: 04012024 
+party to litigation or a legal disagreement in any forum for any reason.  Matters that may affect 
+the Federal Government include, but are not limited to, the Federal Government’s interests in the 
+Award, the accompanying Underlying Agreement, and any Amendments thereto, or the Federal 
+Government’s administration or enforcement of federal laws, regulations, and requirements. 
+The CONTRACTOR agrees to include a similar notification requirement in subcontracts 
+exceeding $25,000 financed in whole or in part with federal assistance provided by FTA and 
+must require each subcontractor to include an equivalent provision in its federally assisted 
+subcontracts exceeding $25,000. 
+17. Lobbying Restrictions 
+The CONTRACTOR agrees to: 
+a. Refrain from using Federal assistance funds to support lobbying, 
+b. Comply and assure the compliance of each SUBCONTRACTOR at any tier, with U.S. DOT 
+regulations, "New Restrictions on Lobbying," 49 C.F.R. Part 20, modified as necessary by 31 
+U.S.C. § 1352. 
+c. Comply with Federal statutory provisions to the extent applicable prohibiting the use of 
+Federal assistance funds for activities designed to influence Congress or a State legislature on 
+legislation or appropriations, except through proper, official channels. 
+ 
+18. Clean Air 
+a. The CONTRACTOR agrees to comply with all applicable standards, orders or regulations 
+issued pursuant to the Clean Air Act, as amended, 42 U.S.C. §§ 7401 through 7671q. The 
+Contractor agrees to report each violation to LOS ALAMOS COUNTY and understands and 
+agrees that LOS ALAMOS COUNTY will, in turn, report each violation as required to assure 
+notification to FTA and the appropriate EPA Regional Office. 
+b. The CONTRACTOR also agrees to include these requirements in each subcontract exceeding 
+$150,000 financed in whole or in part with Federal assistance provided by FTA. 
+19. Clean Water 
+a. The CONTRACTOR agrees to comply with all applicable standards, orders or regulations 
+issued pursuant to the Clean Water Act, as amended, 33 U.S.C. §§1251 through 1377. The 
+Contractor agrees to report each violation to LOS ALAMOS COUNTY and understands and 
+agrees that LOS ALAMOS COUNTY will, in turn, report each violation as required to assure 
+notification to FTA and the appropriate EPA Regional Office. 
+b. The CONTRACTOR also agrees to include these requirements in each subcontract exceeding 
+$150,000 financed in whole or in part with Federal assistance provided by FTA. 
+20. Breaches and Disputes 
+a. Disputes - Disputes arising in the performance of this Contract which are not resolved by 
+agreement of the parties shall be decided in writing by the authorized representative of LOS 
+ALAMOS COUNTY. This decision shall be final and conclusive unless within ten (10) days 
+Attachment A
+=== page 79 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+79 
+ Agreement Template Version: 04012024 
+from the date of receipt of its copy, the CONTRACTOR mails or otherwise furnishes a written 
+appeal to LOS ALAMOS COUNTY. In connection with any such appeal, the CONTRACTOR 
+shall be afforded an opportunity to be heard and to offer evidence in support of its position. The 
+decision of LOS ALAMOS COUNTY shall be binding upon the CONTRACTOR and the 
+CONTRACTOR shall abide be the decision. 
+b. Performance During Dispute - Unless otherwise directed by LOS ALAMOS COUNTY, 
+CONTRACTOR shall continue performance under this Contract while matters in dispute are 
+being resolved. 
+c. Claims for Damages - Should either party to the Contract suffer injury or damage to person or 
+property because of any act or omission of the party or of any of his employees, agents or others 
+for whose acts he is legally liable, a claim for damages therefore shall be made in writing to such 
+other party within a reasonable time after the first observance of such injury of damage. 
+d. Remedies - Unless this contract provides otherwise, all claims, counterclaims, disputes and 
+other matters in question between LOS ALAMOS COUNTY and the CONTRACTOR arising 
+out of or relating to this agreement or its breach will be decided by arbitration if the parties 
+mutually agree, or in a court of competent jurisdiction within the State of West Virginia or Ohio 
+as applicable. 
+e. Rights and Remedies - The duties and obligations imposed by the Contract Documents and the 
+rights and remedies available thereunder shall be in addition to and not a limitation of any duties, 
+obligations, rights and remedies otherwise imposed or available by law. No action or failure to 
+act by LOS ALAMOS COUNTY, Architect or CONTRACTOR shall constitute a waiver of any 
+right or duty afforded any of them under the Contract, nor shall any such action or failure to act 
+constitute an approval of or acquiescence in any breach thereunder, except as may be specifically 
+agreed in writing. 
+21. Recycled Products 
+To the extent applicable, the CONTRACTOR agrees to comply with U.S. EPA regulations, 
+"Comprehensive Procurement Guidelines for Products Containing Recovered Materials," 40 
+C.F.R. Part 247, implementing section 6002 of the Resource Conservation and Recovery Act, as 
+amended, 42 U.S.C. § 6962, and otherwise provide a competitive preference for products and 
+services that conserve natural resources and protect the environment and are energy efficient. 
+ 
+Certification 
+ 
+ 
+ 
+ 
+Signature of Contractor’s 
+Authorized Official 
+ 
+ 
+Name and Title of Contractor’s 
+Authorized Official  
+ 
+ 
+ 
+Date 
+ 
+Attachment A

@@ -1,0 +1,633 @@
+# source: raw/bleecker_drive/Utah Transit Authority/1230271.pdf
+# path: raw/bleecker_drive/Utah Transit Authority/1230271.pdf
+# hit page: 32 of 250
+# terms: Via Transportation
+
+=== page 31 ===
+SUMMARY OF ACCOUNTS RECEIVABLE
+EXHIBIT 1-9
+(UNAUDITED)
+As of December 31, 2024
+Classification
+Total
+Current
+31-60 Days
+61-90 Days
+90-120 Days Over 120 Days
+1
+Federal Grants Government ¹
+796,305
+$          
+796,305
+$          
+-
+                     
+-
+                  
+-
+                  
+-
+                  
+2
+Sales Tax Contributions
+92,150,086
+       
+52,412,746
+       
+39,737,340
+$      
+-
+                  
+-
+                  
+-
+                  
+3
+Warranty Recovery
+2,272,246
+         
+2,272,246
+         
+-
+                     
+-
+                  
+-
+                  
+-
+                  
+4
+Build America Bond Subsidies
+-
+                    
+-
+                    
+-
+                     
+-
+$                
+-
+$                
+-
+$                
+5
+Product Sales and Development
+1,832,132
+         
+817,213
+            
+14,677
+               
+439,773
+          
+6,236
+              
+554,233
+          
+6
+Pass Sales
+43,549
+              
+142,213
+            
+(2,635)
+                
+85
+                   
+46,420
+            
+(142,534)
+        
+7
+Property Management
+166,993
+            
+12,426
+              
+23,236
+               
+14,098
+            
+-
+                  
+117,233
+          
+8
+Vanpool/Rideshare
+188,011
+            
+127,586
+            
+17,324
+               
+8,885
+              
+8,045
+              
+26,171
+            
+9
+Salt Lake City Agreement
+523,919
+            
+523,919
+            
+-
+                     
+-
+                  
+-
+                  
+-
+                  
+10
+Planning
+-
+                    
+-
+                    
+-
+                     
+-
+                  
+-
+                  
+-
+                  
+11
+Capital Development Agreements
+20,994,434
+       
+7,190,282
+         
+6,457
+                 
+644,583
+          
+-
+                  
+13,153,111
+     
+12
+Other 
+77,291,517
+       
+110,948
+            
+1,649
+                 
+(2)
+                    
+6,250
+              
+352,800
+          
+13
+Total
+196,259,192
+$   
+64,405,885
+$     
+39,798,048
+$      
+1,107,423
+$     
+66,951
+$          
+14,061,014
+$  
+Percentage Due by Aging
+14
+Federal Grants Government ¹
+100.0%
+0.0%
+0.0%
+0.0%
+0.0%
+15
+Sales Tax Contributions
+56.9%
+43.1%
+0.0%
+0.0%
+0.0%
+16
+Warranty Recovery
+100.0%
+0.0%
+0.0%
+0.0%
+0.0%
+17
+Build America Bond Subsidies
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+18
+Product Sales and Development
+44.6%
+0.8%
+24.0%
+0.3%
+30.3%
+19
+Pass Sales
+326.6%
+-6.1%
+0.2%
+106.6%
+-327.3%
+20
+Property Management
+7.4%
+13.9%
+8.4%
+0.0%
+70.2%
+21
+Vanpool/Rideshare
+67.9%
+9.2%
+4.7%
+4.3%
+13.9%
+22
+Salt Lake City Agreement
+100.0%
+0.0%
+0.0%
+0.0%
+0.0%
+23
+Planning
+24
+Capital Development Agreements
+34.2%
+0.0%
+3.1%
+0.0%
+62.7%
+25
+Other 
+0.1%
+0.0%
+0.0%
+0.0%
+0.5%
+26
+Total
+32.8%
+20.3%
+0.6%
+0.0%
+7.2%
+¹ Federal preventive maintenance funds and federal RideShare funds
+31
+=== page 32 ===
+SUMMARY OF APPROVED DISBURSEMENTS OVER $200,000 
+EXHIBIT 1-10
+FROM DEC 1, 2024 THROUGH DEC 31, 2024
+(UNAUDITED)
+Contract # and Description
+Contract Date
+Vendor
+Check #
+Date
+Check Total
+00223632
+MANAGEMENT SERVICES CONSULTANT
+4/14/2023 AECOM Technical Services, Inc.
+902337
+12/31/2024
+(313,296.92)
+             
+00203378
+TPSS UPGRADE/REHAB
+8/23/2021 C3M Power Systems LLC
+901992
+12/4/2024
+(369,526.30)
+             
+00203378
+TPSS UPGRADE/REHAB
+8/23/2021 C3M Power Systems LLC
+901992
+12/4/2024
+(369,526.30)
+             
+00203378
+TPSS UPGRADE/REHAB
+8/23/2021 C3M Power Systems LLC
+902146
+12/19/2024
+(497,728.15)
+             
+R2024-10-03
+Pension Contribution
+10/23/2024 Cambridge Associates, LLC.
+387258
+12/12/2024
+(1,327,507.08)
+          
+R2024-10-03
+Pension Contribution
+10/23/2024 Cambridge Associates, LLC.
+387586
+12/26/2024
+(1,264,413.27)
+          
+02303802
+CNG DOOR
+1/31/2024 CRAWFORD DOOR SALES
+387357
+12/19/2024
+(220,360.00)
+             
+00017368
+SGR Network Equipment
+6/16/2024 CVE Technologies Group, Inc.
+902054
+12/11/2024
+(233,254.98)
+             
+00017275
+200 S Bus Stops
+3/6/2024 Landmark Companies Inc
+387192
+12/11/2024
+(281,163.58)
+             
+02403819
+TRAX Platform in South Jordan
+5/8/2024 PAULSEN CONSTRUCTION, INC.
+902150
+12/19/2024
+(529,722.00)
+             
+00243813
+TRAX Platform in South Jordan
+5/8/2024 PAULSEN CONSTRUCTION, INC.
+902150
+12/19/2024
+(351,964.00)
+             
+00243813
+TRAX Platform in South Jordan
+5/8/2024 PAULSEN CONSTRUCTION, INC.
+902339
+12/31/2024
+(442,514.00)
+             
+00213430
+AD AGENCY
+6/24/2021 R&R PARTNERS , INC.
+902143
+12/19/2024
+(689,680.00)
+             
+00223660
+TRAINING
+7/17/2023 Relco Locomotives Inc
+902147
+12/19/2024
+(850,000.00)
+             
+02203566
+MKV20-System
+6/3/2020 SCHEIDT & BACHMANN USA, INC.
+901990
+12/4/2024
+(242,447.90)
+             
+02203566
+MKV20-System
+6/3/2020 SCHEIDT & BACHMANN USA, INC.
+902247
+12/24/2024
+(211,164.36)
+             
+02403832
+SOFTWARE SERVICE
+2/14/2024 SHI INTERNATIONAL CORP.
+902148
+12/19/2024
+(930,451.54)
+             
+02403832
+SOFTWARE SERVICE
+2/14/2024 SHI INTERNATIONAL CORP.
+902249
+12/24/2024
+(212,235.92)
+             
+00233786
+ON-CALL MAINTENANCE
+6/9/2021 Stacy and Witbeck, Inc.
+902056
+12/11/2024
+(361,715.00)
+             
+01136796
+ON-CALL MAINTENANCE
+6/9/2021 Stacy and Witbeck, Inc.
+902340
+12/31/2024
+(457,522.76)
+             
+00203349
+ON-CALL MAINTENANCE
+6/9/2021 Stacy and Witbeck, Inc.
+902340
+12/31/2024
+(1,667,631.00)
+          
+00203349
+ON-CALL MAINTENANCE
+6/9/2021 Stacy and Witbeck, Inc.
+902340
+12/31/2024
+(403,955.50)
+             
+02403847
+APC
+11/20/2024 URBAN TRANSPORTATION ASSOC. IN
+387583
+12/24/2024
+(300,000.00)
+             
+20038281
+Study
+9/6/2024 Utah Dept of Transportation (U
+387151
+12/4/2024
+(500,000.00)
+             
+HB-322
+Rail Car acquisition
+5/1/2022 Utah Dept of Transportation (U
+902151
+12/19/2024
+(5,000,000.00)
+          
+R2024-10-03
+INCOME TAX
+10/23/2024 UTAH ST TAX (WITHHOLDING ONLY)
+387292
+12/12/2024
+(355,212.98)
+             
+R2024-10-03
+INCOME TAX
+10/23/2024 UTAH ST TAX (WITHHOLDING ONLY)
+387622
+12/26/2024
+(336,567.60)
+             
+02033993
+ON DEMAND MOBILITY
+9/7/2021 VIA TRANSPORTATION INC
+902149
+12/19/2024
+(557,380.06)
+             
+02033993
+ON DEMAND MOBILITY
+9/7/2021 VIA TRANSPORTATION INC
+902149
+12/19/2024
+(256,717.86)
+             
+00203399
+ON DEMAND MOBILITY
+9/7/2021 VIA TRANSPORTATION INC
+902248
+12/24/2024
+(222,200.96)
+             
+02003255
+COMMSYSTEM
+11/14/2023 Woojin Is America Inc
+901991
+12/4/2024
+(253,026.10)
+             
+38
+43
+44
+40
+39
+42
+29
+33
+40
+32
+45
+36
+39
+30
+27
+29
+39
+34
+34
+99
+26
+36
+34
+34
+0
+20
+40
+60
+80
+100
+120
+Jan
+2023
+Feb
+2023
+Mar
+2023
+Apr
+2023
+May
+2023
+Jun
+2023
+Jul
+2023
+Aug
+2023
+Sep
+2023
+Oct
+2023
+Nov
+2023
+Dec
+2023
+Jan
+2024
+Feb
+2024
+Mar
+2024
+Apr
+2024
+May
+2024
+Jun
+2024
+Jul
+2024
+Aug
+2024
+Sep
+2024
+Oct
+2024
+Nov
+2024
+Dec
+2024
+Average Days to Pay
+32
+=== page 33 ===
+Utah Transit Authority
+MEETING MEMO
+669 West 200 South
+Salt Lake City, UT 84101
+Board of Trustees
+Date: 2/12/2025
+TO:
+Board of Trustees
+THROUGH:
+Jay Fox, Executive Director
+FROM:
+Viola Miller, Chief Financial Officer
+PRESENTER(S):
+Brian Reeves, Associate Chief Financial Officer
+TITLE:
+Investment Report - Fourth Quarter 2024
+AGENDA ITEM TYPE:
+Report
+RECOMMENDATION:
+Informational report for discussion
+BACKGROUND:
+The Board of Trustees Policy No. 2.1, Financial Management, authorizes the Treasurer to manage the
+investment of all non-retirement Authority funds in compliance with applicable laws and requires the Chief
+Financial Officer to prepare and present to the Board a summary of investments, investment activity, and
+investment performance compared to benchmarks as soon as practical after the end of each calendar quarter.
+The investment report has been prepared in accordance with the Financial Management Policy and is being
+presented to the Board.
+DISCUSSION:
+As of December 31, 2024, the benchmark return (greater of the average return of three-month U.S. Treasury
+bills or the average return of Federal Funds rate) was 4.65% for quarter.  Investment returns in the State of
+Utah’s Public Treasurer’s Investment Fund (PTIF) 4.88%, and Zions Corporate Trust 4.88% were above the
+benchmark.  Chandler Asset Management 4.31% and the overnight account at Zions Bank 4.17% did not
+exceed the benchmark return.
+The blended portfolio return rate for the quarter was 4.52%, which did not exceed the benchmark rate due to
+Page 1 of 2
+33

@@ -4,7 +4,40 @@
 # terms: Via+drivers, Via+turnkey, Via+vehicles
 
 === page 45 ===
-
+Extensive Experience Transporting Passengers from Vulnerable Populations
+We have a decade of experience transporting passengers from vulnerable populations
+and we currently operate a number of large-scale ADA-paratransit services in the US. We
+understand the operational challenges at stake in transporting vulnerable populations,
+including special education students: delivering high on-time performance, ensuring
+compliance on routing and pickups, maintaining clean and reliable vehicles, and sourcing
+and training empathetic drivers. For the New York City Department of Education, we
+power a student transportation solution for both general and special education
+populations and our system is designed to adapt to the diverse routing, trip, and vehicle
+needs of different student populations.
+Department of
+Education
+New York City's Department of Education was able to consolidate
+more than a dozen independent tools into a single fully integrated
+software system to intelligently power their 10,000+ vehicle fleet.
+Fleet
+We deliver service with non-smoking sedans and minivans equipped with GPS tracking at
+no additional cost. These vehicles are clearly marked with approved signage (see picture
+to the right) to ensure that caregivers, students, and administrators know that they are
+approved service vehicles. Wheelchair-accessible vehicles (WAVs) are also available for
+passengers who require them. Via
+has established rigorous processes
+for ensuring vehicle cleanliness
+and passenger safety including
+thorough driver training, strict
+vehicle requirements, and a
+comprehensive vehicle inspection.
+Innovative Student Transit Technology
+The Via Student Transportation platform includes next-generation software that can help
+educational entities manage their complex transportation needs. Via will configure
+caregiver and driver applications, the Via Operations Center for service management, and
+a robust analytics suite for monitoring service performance — all at no additional cost to
+purchasing members.
+RFP No. 25-08 | 8
 === page 46 ===
 Peace of Mind for Caregivers and Guardians 
 We can offer vehicle tracking through a smartphone application that will let caregivers 

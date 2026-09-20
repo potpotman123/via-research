@@ -1,0 +1,34 @@
+# source: raw/bleecker_drive/Suffolk County/Via - Transit On-Demand.pdf
+# path: raw/bleecker_drive/Suffolk County/Via - Transit On-Demand.pdf
+# hit page: 2 of 9
+# terms: Via+drivers, Via+vehicles
+
+=== page 1 ===
+Transit On-Demand
+VIa
+=== page 2 ===
+The most respected name
+in microtransit
+Imagine operating a dynamic bus system that provides on-demand rides up to three times 
+more cost-effectively than conventional demand-response services. With Via, your transit 
+agency can solve the first and last mile challenge, replace under-performing fixed-route 
+service, and upgrade legacy paratransit and dial-a-ride offerings -- all using your vehicles and 
+drivers. 
+Via has provided more than twenty million rides to over a million customers. Our proven 
+technology and operational expertise can propel your agency to the forefront of microtransit 
+innovation while mitigating your risks.
+THE PREMIUM 
+MICROTRANSIT SOLUTION
+Beautiful rider and driver apps
+Powerful rider aggregation algorithm
+Predictive and dynamic vehicle routing
+Automated monitoring tools
+Payment support for the unbanked and phone-based 
+booking to ensure equity 
+Seamless integration with third-party payment and  
+trip planning systems
+Continuous optimization -- A proven model for  
+partner success
+=== page 3 ===
+Solving the first and  
+last mile challenge

@@ -1,0 +1,56 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Metro Micro (LA)/Attachment D - DEOD Summary.pdf
+# pages_total: 3; hit_pages: [1]; included: [1]
+# context: Bleecker Drive folder: Metro Micro (LA)
+
+=== page 1 of 3 ===
+No. 1.0.10 
+Revised 01-29-15 
+DEOD SUMMARY 
+METRO MICRO CONTRACTED SERVICES / OP122943001 & OP122943002 
+A. Small Business Participation – North Region
+The Diversity and Economic Opportunity Department (DEOD) established a 20%
+Disadvantaged Business Enterprise (DBE) goal for the North region on this Indefinite
+Delivery / Indefinite Quantity (IDIQ) solicitation.  Nomad Transit, LLC (Nomad) made
+a 0.73% DBE commitment.  In accordance with the DBE Program Regulation, 49
+Code of Federal (CFR) Part 26.53, to be considered responsive, Proposers must
+document enough DBE participation to meet the goal and if the commitment is less
+than the stated goal, submit evidence of adequate good faith efforts (GFE) to meet
+the goal.
+DEOD evaluated Nomad’s GFE documentation based upon the GFE standards and
+determined that actions undertaken by Nomad were not sufficient to demonstrate
+adequate GFE to meet the DBE goal. In line with 49 CFR Part 26, Proposers that do
+not pass GFE are afforded the opportunity for due process.  A Reconsideration
+Hearing was held with Metro’s independent Reconsideration Official (RO) who
+resides within Metro’s Ethics Department. The RO determined that Nomad
+demonstrated GFE and was deemed to have passed GFE for the North region.
+Small Business 
+Goal 
+20% DBE 
+Small Business 
+Commitment 
+0.73% 
+DBE Subcontractors 
+Ethnicity 
+% Committed 
+1. Islas Tires, Inc. 
+Hispanic American 
+0.60% 
+2. Modern Times, Inc. 
+Hispanic American 
+0.13% 
+Total Commitment 
+0.73% 
+B. Small Business Participation – South Region
+The Diversity and Economic Opportunity Department (DEOD) established a 20%
+Disadvantaged Business Enterprise (DBE) goal for the South region on this
+Indefinite Delivery / Indefinite Quantity (IDIQ) solicitation.  Nomad Transit, LLC
+(Nomad) made a 0.77% DBE commitment.
+DEOD evaluated Nomad’s GFE documentation based upon the GFE standards and
+determined that actions undertaken by Nomad were not sufficient to demonstrate
+adequate GFE to meet the DBE goal. In line with 49 CFR Part 26, Proposers that do
+not pass GFE are afforded the opportunity for due process.  A Reconsideration
+Hearing was held with Metro’s independent Reconsideration Official (RO) who
+resides within Metro’s Ethics Department.  The RO determined that Nomad
+demonstrated GFE and was deemed to have passed GFE for the South region.
+ATTACHMENT D

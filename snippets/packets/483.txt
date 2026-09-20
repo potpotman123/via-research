@@ -1,0 +1,64 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/North Dakota/Via+Contract+Amendment+1+-+signed.pdf
+# pages_total: 2; hit_pages: [1]; included: [1]
+# context: Bleecker Drive folder: North Dakota
+
+=== page 1 of 2 ===
+Page 1 of 1 
+ 
+CONTRACT AMENDMENT 
+Paratransit and/or Fixed-Transit Scheduling and Dispatch Software # 283 
+ 
+AMENDMENT NUMBER: 1 
+ 
+This amendment is made to Paratransit and/or Fixed-Transit Scheduling and Dispatch Software # 283 
+(Contract) between the State of North Dakota, acting through its Office of Management and Budget 
+(STATE), and Via Mobility LLC (CONTRACTOR). 
+ 
+The parties agree to the following terms and conditions and expressly agree that if any of the following 
+terms and conditions conflict with any of the terms and conditions of the Contract, then, notwithstanding 
+any term in the Contract, the following terms and conditions govern and control the rights and 
+obligations of the parties.   
+ 
+The parties agree to amend the Contract as follows:  
+ 
+Renewal  
+ 
+Contract Section 7, Term of Contract. The Contract commenced on its effective date and ends on July 
+31, 2025 with up to four (4) options to renew the contract for a period of 12 months each. 
+ 
+The parties have agreed to renew the Contract for an additional 12 months; therefore, the Contract is 
+amended to change the expiration date to July 31st, 2026. The Contract has 3 renewals remaining. 
+The Contract can be extended for an additional 12 months. 
+ 
+The parties agree that the terms and conditions of the Contract and this Amendment govern and control 
+the rights and obligations of the parties.   
+ 
+All other terms of the Contract remain in effect. This Contract Amendment is not effective until fully 
+executed by all parties. 
+ 
+ 
+EXECUTION 
+ 
+CONTRACTOR 
+STATE OF NORTH DAKOTA 
+Via Mobility LLC 
+Acting through its  
+Office of Management and Budget  
+BY: 
+BY: 
+Printed Name: 
+Printed Name: 
+Title: 
+Title: 
+Date: 
+Date: 
+ 
+ 
+Mike Vaccarino (Jul 24, 2025 18:20:59 EDT)
+Mike Vaccarino
+Chief Revenue Officer
+07/24/2025
+State IT Procurement Officer
+Sowmya Karumanchi
+07/25/2025

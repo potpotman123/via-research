@@ -1,0 +1,86 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/City of Sioux Falls/2023-annual-report.pdf
+# pages_total: 14; hit_pages: [2, 5]; included: [2, 5]
+# context: Bleecker Drive folder: City of Sioux Falls
+
+=== page 2 of 14 ===
+2023 Public Transit Advisory Board Annual Report 
+ 
+ 
+Service Reduction and Changes: 
+Service reductions due to driver shortage has been SAM’s reality, along with the rest of the nation.  
+SAM did experience a greater number of applicants in 2023, bringing the system closer to full driver 
+capacity.   
+The 41st Street and I-29 Interchange construction project will impact routes 10 and 11 for 
+approximately two years.  Work was done to mitigate the impact for those traveling to Roosevelt 
+High School. 
+Management Agreement RFP: 
+After considerable review and collaboration with several city departments, an RFP for the 
+management services for Sioux Area Metro was released in July 2023.  J. Tschetter and J. 
+Johannsen, PTAB members, served on the RFP selection process. 
+First Transit (now TransDev) has provided management services for over 30 years.  The direction 
+the RFP was focusing on was for a ‘turnkey’ operation, with a focus on technology and data-driven 
+decision making.   
+There were two proposals submitted under this RFP, TransDev and Via Transportation.  In-person 
+interviews took place with the selection team and supporting city team members.  There was an 
+opportunity for a joint venture, if either or both entities were interested, such as one company 
+contracting with the Fixed Route system, the other with Paratransit and Microtransit services. 
+The contract was awarded to Via Transportation as a turnkey operation in September 2023, for a 
+management change on 1/1/2024.   Via Transportation choose to retain the entire system services 
+under their management.  Contract negotiations were based on service hours per system (Fixed 
+Route, Paratransit, and Microtransit), with KPI’s to be determined. 
+Annual Meeting – May 2023 
+The 2022 Annual Report was provided to PTAB recapping the previous transit year.   
+Election of PTAB Officers for 2023-2024:   
+• 
+Chair  
+Erik Nelson 
+• 
+V. Chair 
+Bailey Abbott 
+• 
+2023 Expiring PTAB Board Positions held by Abbott (first term), Abbott agreed to remain for 
+a second term per board offer. 
+A history of Transit was presented by Sam Trebilcock. 
+Annual Audit: 
+The annual audit was completed by Eide Bailly for SAM.  This is included as part of the city-wide 
+audit.  No major violations were found.
+
+=== page 5 of 14 ===
+2023 Public Transit Advisory Board Annual Report 
+ 
+SAM Reimagined 
+The Sioux Falls transit system has operated under the management of First 
+Transit/TransDev for approximately 30 years with the management contract due for renewal 
+on 1/1/2024.  This business model includes First Transit as the management company for 
+the deployment of the transit system, with the General Manager being an employee of First 
+Transit, and the balance of the operations team as subsidiary corporation, Su Tran.  Day-to-
+day operations, safety, security, and federal guidelines are their responsibility.   
+Under this model, the City of Sioux Falls (COSF) Planning and Development team has 
+played a very direct and involved role in budget planning, route planning, statistical 
+analysis, system improvements and opportunities, including introducing microtransit to 
+Sioux Falls.  Limited staff time, financial constraints, and understanding there was 
+community demand for an improved system prompted the city of Sioux Falls to use this 
+contract renewal opportunity to “Reimagine Transit”.   
+Through the RFP process, two proposals were submitted: First Transit/TransDev and Via 
+Transportation.  The RFP asked the proposers to think outside of the box, with a focus on 
+improved technology, opportunity, and efficiencies. 
+This is an exciting journey to revamp COSF’s transit system with SAM Reimagined. Via 
+Transportation ‘s turnkey proposal, focusing on microtransit integration and leveraging 
+technology, presents a promising shift towards more efficient and accessible public 
+transportation. 
+Retaining the existing SAM team demonstrates a commitment to continuity while 
+embracing change.  The addition of ADA vans for Phase 1 of Microtransit service shows a 
+dedication to inclusivity and accessibility, crucial aspects of any modern transit system. 
+The Fixed Route Redesign, with its emphasis on more direct routes, increases frequency, 
+and the integration of GIS technology through the SAM app, is a significant step towards 
+improving the rider’s experience.  Renaming routes with a color theme and updating 
+signage/maps will enhance clarity and ease of use for passengers.  This process has 
+followed the required public engagement, implementation of feedback and will be fully 
+deployed by fall of 2024. 
+Looking ahead to the Fall 2024 Plan, the full implementation of the Fixed Route Redesign 
+and the integration of Microtransit across the city will further expand transit accessibility 
+and convenience for residents.  Diversifying the bus fleet to accommodate these changes 
+reflects a forward-thinking approach to meeting evolving transportation needs. 
+Overall, SAM Reimagined holds great promise for enhancing public transportation in Sioux 
+Falls, fostering community connectivity, and contributing to the city’s overall quality of life.

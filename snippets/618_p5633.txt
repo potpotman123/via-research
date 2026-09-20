@@ -1,0 +1,228 @@
+# source: raw/bleecker_drive/Broward/MA_Report.pdf
+# path: raw/bleecker_drive/Broward/MA_Report.pdf
+# hit page: 5633 of 6451
+# terms: Via+not to exceed, Via+not-to-exceed
+
+=== page 5632 ===
+Current Procurement Contracts Sorted by Contract ID # As of 11/24/25
+Page 5632 of 6451
+Lead Agency Contact (Contact Unit Mgr if Incorrect)
+movidal@broward.org
+Contract ID #
+Document Description
+Start Date
+End Date
+Not To Exceed
+Amount Ordered
+TEC2114786P1_1
+Investigative Management Sys
+10/24/2018
+8/31/2026
+$642,647.24
+$235,875.24
+Vend#-AddrID-ContactID
+Legal Name
+Vendor Contact Email
+Vendor Phone #
+0000004865
+WINGSWEPT, LLC
+strickland@wingswept.com
+ 919/600-5102 
+Item #
+Category
+Description
+Total Line Qty
+Released
+UO
+M
+Maximum Line 
+Amount
+Unit Price
+Total Line Released 
+Amount
+Amount Paid
+CMTS Online Intake 
+Services.  Renewal 
+Term: 9/1/24 - 8/31/25 
+@ $21,020.76
+TEC2114786P1_1_012
+9204500
+PSHRS - WingSwept 
+Annual Support and 
+Maintenance; and 
+CMTS Online Intake 
+Services.  Renewal 
+Term: 9/1/25 - 8/31/26 
+@ $22,071.86.
+22,071.8600
+LPS
+$26,000.0000
+$1.0000
+$22,071.8600
+$22,071.8600
+TEC2114786P1_1_013
+9204500
+PSHRS - WingSwept 
+Annual Support and 
+Maintenance; and 
+CMTS Online Intake 
+Services.  Renewal 
+Term: 9/1/26 - 8/31/27 
+@ $23,175.37.
+0.0000
+LPS
+$26,000.0000
+$1.0000
+$0.0000
+$0.0000
+TEC2114786P1_1_014
+9204500
+PSHRS - WingSwept 
+Annual Support and 
+Maintenance; and 
+CMTS Online Intake 
+Services.  Renewal 
+Term: 9/1/27 - 8/31/28 
+@ $24,334.15.
+0.0000
+LPS
+$26,000.0000
+$1.0000
+$0.0000
+$0.0000
+TEC2114786P1_1_015
+9204500
+PSHRS - WingSwept 
+Annual Support and 
+Maintenance; and 
+0.0000
+LPS
+$26,000.0000
+$1.0000
+$0.0000
+$0.0000
+=== page 5633 ===
+Current Procurement Contracts Sorted by Contract ID # As of 11/24/25
+Page 5633 of 6451
+Lead Agency Contact (Contact Unit Mgr if Incorrect)
+movidal@broward.org
+Contract ID #
+Document Description
+Start Date
+End Date
+Not To Exceed
+Amount Ordered
+TEC2114786P1_1
+Investigative Management Sys
+10/24/2018
+8/31/2026
+$642,647.24
+$235,875.24
+Vend#-AddrID-ContactID
+Legal Name
+Vendor Contact Email
+Vendor Phone #
+0000004865
+WINGSWEPT, LLC
+strickland@wingswept.com
+ 919/600-5102 
+Item #
+Category
+Description
+Total Line Qty
+Released
+UO
+M
+Maximum Line 
+Amount
+Unit Price
+Total Line Released 
+Amount
+Amount Paid
+CMTS Online Intake 
+Services.  Renewal 
+Term: 9/1/28 - 8/31/29 
+@ $25,550.87.
+ 
+Optional Services
+0.0000
+0
+$65,000.0000
+$0.0000
+$0.0000
+$0.0000
+ 
+Optional Services 
+PSHR
+0.0000
+0
+$35,000.0000
+$0.0000
+$0.0000
+$0.0000
+ 
+Optional Services for 
+Other Agencies via 
+Work Authorizaions per
+Second Amendment 
+(Duration of 
+Agreement)
+0.0000
+0
+$250,000.0000
+$0.0000
+$0.0000
+$0.0000
+Vendor Total
+$780,647.2400
+$235,875.2400
+$235,875.2400
+Departmental Usage
+# of PO's
+Amount Ordered
+Amount Paid
+OFFCE INSPCTR GNRL 
+11
+$149,453.4800
+$149,453.4800
+OFFCE INTGOV AFFRS PROF 
+STNDRD 
+5
+$86,421.7600
+$86,421.7600
+Department Totals
+16
+$235,875.2400
+$235,875.2400
+Renewals
+Line #
+Starts
+Expires
+1 
+10/24/18 
+8/31/22
+=== page 5634 ===
+Current Procurement Contracts Sorted by Contract ID # As of 11/24/25
+Page 5634 of 6451
+Renewals
+2 
+9/1/22 
+8/31/23
+3 
+9/1/23 
+8/31/24
+4 
+9/1/24 
+8/31/25
+5 
+9/1/25 
+8/31/26
+6 
+9/1/26 
+8/31/27
+7 
+9/1/27 
+8/31/28
+8 
+9/1/28 
+8/31/29

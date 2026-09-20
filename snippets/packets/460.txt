@@ -1,0 +1,99 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Metro Micro (LA)/Attachment B - DEOD Summary.pdf
+# pages_total: 1; hit_pages: [1]; included: [1]
+# context: Bleecker Drive folder: Metro Micro (LA)
+
+=== page 1 of 1 ===
+No. 1.0.10 
+Revised 01-29-15 
+ 
+DEOD SUMMARY 
+ 
+MICROTRANSIT PILOT PROJECT/PS46292001, PS46292002, PS46292003 
+ 
+A. Small Business Participation  
+ 
+The Diversity and Economic Opportunity Department (DEOD) established a 12% 
+Small Business Enterprise (SBE) and 3% Disabled Veteran Business Enterprise 
+(DVBE) goal for this solicitation.  All proposed awardees exceeded the goal as listed 
+in the following table: 
+ 
+Prime: Rideco (PS46292001) 
+ 
+ 
+Name of Subcontractors 
+% SBE Commitment 
+% DVBE Commitment 
+1. 
+Civic Projects Incorporated (SBE) 
+  9.40% 
+ 
+2. 
+Arellano Associates (SBE) 
+19.19% 
+ 
+3. 
+DVE Global Marketing, Inc. (DVBE) 
+ 
+3.64% 
+ 
+Total Commitment 
+28.59% 
+              3.64% 
+ 
+Prime: NoMad Transit LLC (PS46292002) 
+ 
+ 
+Name of Subcontractors 
+% SBE Commitment 
+% DVBE Commitment 
+1. 
+Pulsar Advertising (SBE) 
+13.16% 
+ 
+2. 
+Flagship Marketing (DVBE) 
+ 
+5.45% 
+ 
+Total Commitment 
+13.16% 
+              5.45% 
+ 
+Prime: Transdev Services Inc. (PS46292003) 
+ 
+ 
+Name of Subcontractors 
+% SBE Commitment 
+% DVBE Commitment 
+1. 
+Arellano Associates (SBE) 
+13.05% 
+ 
+2. 
+Wilson, Sparling & Associates (SBE) 
+  4.43% 
+ 
+3. 
+Virtek Company (DVBE) 
+ 
+             5.71% 
+ 
+Total Commitment 
+17.48% 
+             5.71% 
+ 
+B. Living Wage and Service Contract Worker Retention Policy Applicability 
+ 
+The Living Wage and Service Contract Worker Retention Policy (LW/SCWRP) is not 
+applicable to this Contract. 
+ 
+C. Prevailing Wage Applicability 
+ 
+Prevailing Wage is not applicable to this Contract. 
+ 
+D. Project Labor Agreement/Construction Careers Policy 
+ 
+Project Labor Agreement/Construction Careers Policy is not applicable to this 
+Contract. 
+ATTACHMENT B

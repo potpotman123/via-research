@@ -1,0 +1,436 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Utah Transit Authority/Utah Transit Authority.pdf
+# pages_total: 469; hit_pages: [3, 29, 359, 360, 361, 362, 363, 364, 365, 368, 370, 371, 372]; included: [29, 359, 360, 361, 371, 372]
+# context: Bleecker Drive folder: Utah Transit Authority
+
+=== page 29 of 469 ===
+SUMMARY OF APPROVED DISBURSEMENTS OVER $200,000 
+EXHIBIT 1-10
+FROM Oct 1, 2024 THROUGH Oct 31, 2024
+(UNAUDITED)
+Contract # and Description
+Contract Date
+Vendor
+Check #
+Date
+Check Total
+02003267
+OGX Bus order NTP 2
+4/29/2021 GILLIG CORPORATION
+901267
+10/2/2024
+(1,765,332.00)
+          
+02303738
+SOFTWARE SERVICE
+12/22/2023 TRAPEZE SOFTWARE GROUP, INC.
+901272
+10/2/2024
+(447,207.00)
+             
+02203566
+MKV20-System
+6/3/2020 SCHEIDT & BACHMANN USA, INC.
+901273
+10/2/2024
+(344,119.70)
+             
+02403819
+TRAX Platform in South Jordan
+5/8/2024 PAULSEN CONSTRUCTION, INC.
+901275
+10/2/2024
+(890,412.10)
+             
+00203399
+ON DEMAND MOBILITY
+9/7/2021 VIA TRANSPORTATION INC
+901276
+10/2/2024
+(212,215.22)
+             
+02033993
+ON DEMAND MOBILITY
+9/7/2021 VIA TRANSPORTATION INC
+901276
+10/2/2024
+(532,647.51)
+             
+00017232
+LIABILITY INSURANCE POLICIES
+7/6/2022 Alliant Insurance Services, IN
+901278
+10/2/2024
+(374,186.77)
+             
+00017232
+LIABILITY INSURANCE POLICIES
+7/6/2022 Alliant Insurance Services, IN
+901278
+10/2/2024
+(335,065.97)
+             
+00017232
+LIABILITY INSURANCE POLICIES
+7/6/2022 Alliant Insurance Services, IN
+901278
+10/2/2024
+(451,203.00)
+             
+00017232
+LIABILITY INSURANCE POLICIES
+7/6/2022 Alliant Insurance Services, IN
+901278
+10/2/2024
+(405,751.05)
+             
+R2024-10-03
+Pension Contribution
+10/23/2024 Cambridge Associates, LLC.
+385803
+10/3/2024
+(1,231,494.77)
+          
+R2024-10-03
+Pension Contribution
+10/23/2024 UTAH ST TAX (WITHHOLDING ONLY)
+385831
+10/3/2024
+(333,700.05)
+             
+00017162
+FLEET Vehicles
+11/30/2023 TONY DIVINO TOYOTA
+901363
+10/9/2024
+(242,838.00)
+             
+02003243
+PARA SERVICE NORTH
+6/3/2020 MV PUBLIC  TRANSPORTATION
+901366
+10/9/2024
+(289,178.92)
+             
+02403819
+TRAX Platform in South Jordan
+5/8/2024 PAULSEN CONSTRUCTION, INC.
+901367
+10/9/2024
+(635,291.00)
+             
+00233797
+Construction Oper. Restrooms
+4/25/2024 Calvin L Wadsworth Constr. Com
+901369
+10/9/2024
+(877,106.03)
+             
+00017248
+FLEET Vehicles
+11/30/2023 TONY DIVINO TOYOTA
+901447
+10/16/2024
+(223,860.72)
+             
+00243813
+TRAX Platform in South Jordan
+5/8/2024 PAULSEN CONSTRUCTION, INC.
+901450
+10/16/2024
+(467,716.00)
+             
+00213531
+Insurance
+4/26/2023 SELECT HEALTH
+901454
+10/16/2024
+(939,654.30)
+             
+R2024-10-03
+UTILITIES
+10/23/2024 ROCKY MOUNTAIN POWER
+386019
+10/16/2024
+(213,167.52)
+             
+R2024-02-02
+Pension Contribution
+2/14/2024 Cambridge Associates, LLC.
+386108
+10/17/2024
+(1,231,075.71)
+          
+R2024-10-03
+Income Taxes
+10/23/2024 UTAH ST TAX (WITHHOLDING ONLY)
+386137
+10/17/2024
+(333,593.25)
+             
+02003243
+PARA SERVICE NORTH
+6/3/2020 MV PUBLIC  TRANSPORTATION
+901535
+10/23/2024
+(264,936.41)
+             
+R2024-10-03
+UTILITIES
+10/23/2024 ROCKY MOUNTAIN POWER
+386193
+10/23/2024
+(724,352.74)
+             
+00203378
+TPSS UPGRADE/REHAB
+8/23/2021 C3M Power Systems LLC
+901626
+10/30/2024
+(1,170,376.53)
+          
+00203378
+TPSS UPGRADE/REHAB
+8/23/2021 C3M Power Systems LLC
+901626
+10/30/2024
+(420,620.77)
+             
+01135719
+ON-CALL MAINTENANCE
+6/9/2021 Stacy and Witbeck, Inc.
+901627
+10/30/2024
+(353,051.00)
+             
+00233786
+ON-CALL MAINTENANCE
+6/9/2021 Stacy and Witbeck, Inc.
+901627
+10/30/2024
+(808,927.00)
+             
+00233786
+ON-CALL MAINTENANCE
+6/9/2021 Stacy and Witbeck, Inc.
+901627
+10/30/2024
+(434,794.17)
+             
+00233786
+ON-CALL MAINTENANCE
+6/9/2021 Stacy and Witbeck, Inc.
+901627
+10/30/2024
+(1,188,375.00)
+          
+00233786
+ON-CALL MAINTENANCE
+6/9/2021 Stacy and Witbeck, Inc.
+901627
+10/30/2024
+(217,138.86)
+             
+00233786
+ON-CALL MAINTENANCE
+6/9/2021 Stacy and Witbeck, Inc.
+901627
+10/30/2024
+(307,783.00)
+             
+00233786
+ON-CALL MAINTENANCE
+6/9/2021 Stacy and Witbeck, Inc.
+901627
+10/30/2024
+(469,495.35)
+             
+R2024-10-03
+Pension Contribution
+10/23/2024 Cambridge Associates, LLC.
+386431
+10/31/2024
+(1,237,319.79)
+          
+R2024-10-03
+Income Taxes
+10/23/2024 UTAH ST TAX (WITHHOLDING ONLY)
+386460
+10/31/2024
+(326,772.82)
+             
+29
+
+=== page 359 of 469 ===
+Utah Transit Authority
+MEETING MEMO
+669 West 200 South
+Salt Lake City, UT 84101
+Board of Trustees
+Date: 12/18/2024
+TO:
+Board of Trustees
+THROUGH:
+Jay Fox, Executive Director
+FROM:
+Nichol Bourdeaux, Chief Planning and Engagement Officer
+PRESENTER(S):
+Hal Johnson, IMS Director
+Shaina Quinn, IMS Program Manager
+TITLE:
+Change Order: On Demand Technologies Master Service Agreement Cost Estimate Increase and Service
+Order No. 8 - Adding West Provo Service Area (River North Transit, LLC / Via)
+AGENDA ITEM TYPE:
+Procurement Contract/Change Order
+RECOMMENDATION:
+The board is requested to take the following two actions:  First, approve an increase in the total estimated
+Master Service Agreement (contract #20-03399) value to $65,647,075. Second, approve the 8th Service Order
+and authorize the Executive Director to execute the agreement and associated disbursements with Via for the
+new UTA On-Demand West Provo microtransit zone, with a total service order value of $2,898,286.
+BACKGROUND:
+Microtransit, branded as UTA On Demand, has emerged as an effective coverage solution that complements
+fixed route bus and train service. UTA has contracted with River North Transit, LLC (Via) through a five-year
+Master Services Agreement (MSA) to expand microtransit services and programs (UTA Contract #20-03399).
+This contract was originally approved by UTA’s board on August 25, 2021. The original Master Service
+Agreement (MSA) was approved as a zero-dollar contract, but with a board-approved estimated maximum
+MSA value  of $32,761,486.  A series of service orders have been issued on the MSA over time as follows:
+1. Add SLC Westside zone
+2. Renew Southern Salt Lake County zone
+3. Add South Davis County zone
+4. Renew Software as a Service for Tooele County zone
+Page 1 of 3
+359
+
+=== page 360 of 469 ===
+5. Renew Southern Salt Lake County and South Davis County zones
+6. Model microtransit simulation zones for a planning study
+7. One-time vehicle enhancements including Utah license plates and video cameras
+The board-approved estimated maximum contract value has increased as needed as service order not-to-exceed (NTE)
+values increased beyond the original approved estimate.  Most recently, the estimated MSA maximum contract value
+was approved on April 17, 2024 for $54,000,000.
+The proposed 8th service order would add a new microtransit zone per UTA’s Five-Year Service Plan (Zone 581).
+DISCUSSION:
+This 8th service order would provide UTA On Demand service in West Provo for 20 months, from its scheduled
+launch on April 13, 2025 (April Change Day) until December 31, 2026, to align with the Via Master Service
+Agreement (MSA) timeline.
+Microtransit service complements fixed-route transit by offering additional mobility options and bridging
+transit gaps within communities. The UTA On Demand app prioritizes bus and train trips when they are the
+faster and more convenient option. Notably, the West Provo microtransit zone will be the first Via-operated
+area with 100% wheelchair-accessible vehicles, ensuring equal wait times and service availability for all riders.
+Innovative Mobility Solutions will submit annual service orders per the Five-Year Service Plan for additional
+hours and vehicles as needed.
+ There are two Contract Summaries below:
+The first is for the estimated maximum MSA value increase through the end of 2026 which covers additional
+service hours, proposed system enhancements, and the addition of four new service areas, including the
+West Provo area reflected in Service Order No. 8. All future service orders associated with the proposed
+estimate  increase are subject to budget availability.
+The second is for Service Order No. 8 which adds service for the West Provo area.
+CONTRACT SUMMARY:
+Contractor Name:
+River North Transit, LLC (Via)
+Contract Number:
+20-03399, Master Service Agreement estimated value
+increase
+Base Contract Effective Dates:
+September 4, 2021 - December 31, 2026
+Extended Contract Dates:
+N/A
+Existing Contract Value:
+$54,000,000 (approved MSA estimated value)
+Amendment Amount:
+$11,647,075 (including Service Order 8)
+New/Total Contract Value:
+$65,647,075 (new approved MSA estimated value)
+Procurement Method:
+N/A
+Budget Authority:
+Approved 2025 budget
+Page 2 of 3
+360
+
+=== page 361 of 469 ===
+CONTRACT SUMMARY:
+Contractor Name:
+River North Transit, LLC (Via)
+Contract Number:
+20-03399-8, Service Order 8
+Base Contract Effective Dates:
+April 13, 2025 - December 31, 2026
+Extended Contract Dates:
+N/A
+Existing Contract Value:
+$52,705,019 (total NTE for all service orders before service
+order 8)
+Amendment Amount:
+$2,898,286 (service order 8)
+New/Total Contract Value:
+$55,603,305 (new total NTE value for all service orders)
+Procurement Method:
+N/A
+Budget Authority:
+Approved 2025 budget $1,190,924 for West Provo
+ALTERNATIVES:
+If UTA were to determine not to support microtransit service in the future, UTA will develop a transition plan
+and updates to the Five-Year Service Plan to support any associated changes.
+FISCAL IMPACT:
+For the West Provo microtransit zone, the approved 2025 UTA operating budget allocates $1,190,924, with the
+draft financial plan for 2026 projecting an additional $1,707,362. This results in a combined total of $2,898,286
+over both fiscal years. All service expenses will be funded through the Innovative Mobility Solutions operating
+expense line item for contracted services in the annual Planning & Engagement budget (6550.050353). Service
+orders and task order amendments will be issued as needed for any modifications to the current agreement.
+2025 Approved Operating Budget: $1,190,924
+2026 Financial Plan: $1,707,362
+Expected Total West Provo spend: $2,898,286
+ATTACHMENTS:
+·
+20-03399-8: New UTA On Demand, West Provo Service Area (Service Order No. 8)
+Page 3 of 3
+361
+
+=== page 371 of 469 ===
+Docusign Envelope ID: 670A3F1E-632B-4725-85A8-4B343BEA1FEB
+Appendix C:
+Service Fees
+The table below outlines the payment structure, in which UTA would be charged a price per driver
+hour. Any new regulatory fees imposed by a governmental entity related to the service will be
+charged as a pass-through cost contingent on UTA advance agreement provided such agreement
+will not be unreasonably withheld. UTA will have the option of decreasing other services or
+expenses in order to off-set these additional fees. The Deployment shall include a fleet of vehicles
+as described in Appendix B, subject to extension by mutual agreement of the parties on terms to
+be agreed (including any change in fees). The total contract value shall not exceed that listed in
+this Appendix C, "Not-to-Exceed Fees," of $2,898,286 for the 20-month duration of this Service
+Order (through December 31, 2026). The parties agree that the budget outlined in Service Order 8
+for the Deployment in West Provo and the budget outlined in Service Order 5 for the Deployment
+in South Salt Lake and South Davis Counties can be shared, such that excess budget in either
+service order can be deployed towards the other. The Parties further agree that shifting budget from
+one service area or order to another may require a service order modification or change order if
+the approved Not-To-Exceed amount for a service order is affected.
+Via will separately invoice UTA for marketing expenses incurred and as authorized by UTA under
+Section 8 of the Service Order. Via will charge its standard labor rate of $150.00 per hour for
+4
+371
+
+=== page 372 of 469 ===
+Docusign Envelope ID: 670A3F1E-632B-4725-85A8-4B343BEA1FEB
+internal marketing labor cost. All other marketing expenses will be passed through at cost. The
+total combined marketing expenses incurred by Via and UTA shall not exceed $100,000. This
+amount is not included in the pricing table shown above.
+The values in the table above are Not-to-Exceed (NTE) amounts and are subject to downward
+adjustment based on actual revenue hours achieved.
+UTA will be billed for the above fees as described below. Driver hours will be billed as incurred
+at the end of each month. UTA shall pay the following fees to Via:
+Ongoing Invoice Fees
+UTA shall pay the following fees to be invoiced monthly by Via on or around the 15th of each
+month:
+These fees are exclusive of fuel. Via will provide fuel though and charge this to UTA as a
+passthrough cost.
+The above per vehicle hour amounts include and account for the Vehicle Partner's fixed costs to
+meet the vehicle requirements set forth herein. Such cost equals a rate of $6 per vehicle hour. For
+the avoidance of doubt, fuel, maintenance, and other variable costs related to vehicle upkeep are
+not included in the fixed vehicle costs as outlined above. The Vehicle Partner will be primarily
+responsible for the provision of vehicles on a rental basis to Driver Partners.
+Should changes in applicable federal, state, local law result in a significant change in Via' s
+costs, either an increase or decrease, Via or UTA may opt to renegotiate the ongoing on-
+demand service hour fees or level of service obtained.
+5
+372

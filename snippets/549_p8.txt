@@ -1,0 +1,162 @@
+# source: raw/bleecker_drive/Hall County/Micro-Transit-Feasibility-Study.pdf
+# path: raw/bleecker_drive/Hall County/Micro-Transit-Feasibility-Study.pdf
+# hit page: 8 of 24
+# terms: Via Mobility
+
+=== page 7 ===
+RFP #39-021 – Microtransit Feasibility Study  
+Via Mobility, LLC 
+ 
+ 
+ 
+Page 5 
+ 
+ 
+3) Simulation Overview 
+Via's simulation engine is used by Via’s operations team to shape at-scale services in 
+international markets. The tool was developed by Via’s world-class algorithm experts, many 
+of whom have years of experience in algorithm development and hold PhDs in physics and 
+mathematics. 
+ 
+The following components make up the simulation process: 
+1. Set service zone, which defines the boundaries of the microtransit service zone. The 
+origins and destinations of all trips are limited to this zone. 
+2. Generate underlying road map by pulling data within the service zone boundaries 
+from OpenStreetMap. Data includes all roads categorized by type, turn restrictions, 
+and street walkability and drivability information.  
+3. Determine traffic speeds by querying Google’s Maps APIs for average traffic speeds, 
+specific to the time range of the simulation. This ensures that ETAs and trip times of 
+the simulated service reflect real-world traffic data at the time of day for which 
+service is being modeled. 
+4. Set “terminals,” the designated waiting areas for vehicles that do not have active 
+ride assignments. Terminals are safe parking areas throughout the service zone. 
+When empty, vehicles will be routed to the terminal where the system has predicted 
+demand. This ensures that each vehicle is used efficiently, and riders will benefit from 
+the shortest possible ETAs. 
+5. Generate “virtual bus stops,” safe places for pickups and drop-offs. By default, Via 
+generates virtual bus stops throughout a service zone at intersections, at points 
+where vehicles can safely park. Typically, there are hundreds or thousands of virtual 
+bus stops in a zone. When setting up the zone, virtual bus stop generation considers 
+unique features of the zone, such as the pedestrian walking map, no parking/standing 
+areas, and bus stops.  
+6. Set simulation parameters, which are configured to serve our partners’ service 
+quality and rider aggregation targets. The configurations used for Hall County are 
+outlined in the table below. These are only a few of the many algorithm parameters 
+configurable for live services.  
+ 
+Parameter  
+Notes 
+Hall County Configuration 
+Vehicle capacity - 
+Number of seats in 
+the vehicle available 
+to riders (excludes 
+the driver). 
+ 
+In Via’s experience, the ideal 
+vehicle size balances the benefits 
+of smaller vehicles (greater 
+comfort, greater navigability 
+through smaller roads) and the 
+benefits of larger vehicles (chiefly, 
+greater carrying capacity). 
+Via simulated vehicles with 
+6 seats. Using higher 
+capacity vehicles will not 
+reduce the number of 
+vehicles or vehicle hours 
+required.
+=== page 8 ===
+RFP #39-021 – Microtransit Feasibility Study  
+Via Mobility, LLC 
+ 
+ 
+ 
+Page 6 
+ 
+ 
+Maximum wait time 
+- The maximum time 
+(in minutes) between 
+ride request and 
+pickup. 
+Riders will only be able to book a 
+ride if a vehicle can pick them up in 
+less than the maximum wait time. 
+When a rider requests a ride, the 
+system calculates the time it will 
+take the best-suited vehicle to 
+reach the requested pickup 
+location, and displays this 
+‘proposal’ to the rider. In Via’s 
+experience, user acceptance of 
+proposals is highly correlated with 
+proposed wait time. Users are 
+more likely to reject a ride proposal 
+when wait times are high.  If a 
+vehicle is unable to reach a rider 
+within the maximum wait time, the 
+rider is shown a preconfigured 
+message such as “We can’t find a 
+seat for you right now, please try 
+again in a few minutes”. Average 
+wait time is always significantly 
+less than this maximum. 
+Via used a maximum wait 
+time of 35-40 minutes. This 
+value was chosen to ensure 
+a consistently high quality 
+of service for users who are 
+offered rides while still 
+ensuring riders further out 
+in the County can be 
+reached.  
+Maximum walk - 
+The maximum 
+distance a customer 
+is asked to walk to 
+meet their vehicle or 
+get to their final 
+destination once 
+dropped off. 
+ 
+Average walking distance tends to 
+be significantly less than the 
+maximum value. 
+Via used a maximum walk 
+distance of 400m (~4min). 
+However, with adequate 
+vehicle supply, average 
+walking distance is well 
+below this maximum 
+walking distance. In 
+Gainesville, users might see 
+longer walking distances 
+when demand spikes or 
+when requesting a ride 
+from an area far from a 
+road, such as a park or 
+property with a long, 
+private roadway.
+=== page 9 ===
+RFP #39-021 – Microtransit Feasibility Study  
+Via Mobility, LLC 
+ 
+ 
+ 
+Page 7 
+ 
+ 
+Hall County Simulation Results 
+Via simulated the following 5 scenarios: 
+Scenario 1) Upgrade the Dial-A-Ride service 
+This would be a County-wide service, replacing the existing Dial-A-Ride service, which 
+delivers ~40 rides per day across a 400 sq. mile zone, shown below. Approximately half of 
+Dial-A-Ride trips begin and end within the core microtransit zone, and would be served ‘on-
+demand’, meaning a rider can request an immediate pickup. Via recommends that the rides 
+outside of this core zone, which currently make up about 20 rides per day, be accessed 
+through  pre-scheduling, meaning they are requested in advance. Users will be asked to 
+indicate their pickup window (within a configurable range), allowing Via’s technology to 
+better aggregate these longer trips.  
+Microtransit vehicles required: 5-6 vehicles 
+Expected daily ridership: 40-70 rides / day

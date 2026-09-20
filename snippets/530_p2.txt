@@ -1,0 +1,137 @@
+# source: raw/bleecker_drive/Spartanburg/ProposalNo2425-04-22-01_Addendum_2_MicroTransit.pdf
+# path: raw/bleecker_drive/Spartanburg/ProposalNo2425-04-22-01_Addendum_2_MicroTransit.pdf
+# hit page: 2 of 29
+# terms: Via+vehicles
+
+=== page 1 ===
+Addendum 2 
+Request for Proposals to 
+Provide Pilot Microtransit 
+Service Program 
+City of Spartanburg 
+P.O. Box 1749 
+187 W. Broad Street 
+Spartanburg, SC. 29306 
+Email: cwright@cityofspartanburg.org 
+ 
+March 25, 2025 
+NOTICE IS HEREBY GIVEN: The City of Spartanburg has moved the due date to May 6, 
+2025. Please review the questions and answers below. 
+ 
+1. Will the addendum include a Price Sheet? Phase 1 Development and Phase 2 Operations with a flat 
+rate for the platform and variable rate per revenue vehicle service hour? No  
+ 
+2. Please provide a map of the service area for the microtransit service. See Map Attachment 
+ 
+ 
+3. On the service area map or as a separate map, please indicate where the bus stops and bus routes are 
+for the City of Spartanburg’s current bus transit operation.  See Map Attachment 
+ 
+4. Will there be any service zones within the city, or is the entire city effectively a single service zone? 
+There is only primary zone but two specific locations outside the current zone which we will allow 
+bus riders to travel. The Wal-Mart located at 203 Cedar Spring Rd – Spartanburg & Food Lion 
+Grocery Store 95 Garner Rd Spartanburg.  
+ 
+5. Will customers be allowed to take trips outside of the city limits, even a short distance, or will trips 
+only be allowed strictly within the city limits? Primary within the zone with some minor exceptions 
+ 
+6. What will be the hours of service initially? How many days per week will the service operate and 
+how many hours per day (including differences between weekdays and weekends)? The Service 
+will be available Monday – Friday 6:00am to 6:00pm Saturday 10 - 6 
+ 
+ 
+7. What will be the duration of the pilot program? One year 
+ 
+8. What is the target launch date for the new service? July 1st, 2025 
+ 
+ 
+9. Does the City expect to have all 3 vehicles in service during all service hours, or a lesser number 
+during certain hours of the day and/or days of the week? These vehicles are available at all times. 
+Two vehicles will be operational with one vehicle serving as a spare.
+=== page 2 ===
+10. Please provide the specifications for the 3 city-owned vehicles: See Attachment with full 
+description of newly purchased vehicles brought under a State Grant from SCDOT. 
+a. Make, model, year Ford Transit Van 2024 see attached 
+b. Passenger capacity  7 + One in front 
+c. Wheelchair capacity 2 
+d. Current condition and mileage Bus# 1501 New 162 miles, Bus#  1502 New 146 miles, Bus# 1503 
+New 165 miles.  
+e. Existing technology/equipment installed in vehicle, specifically:  
+• Do the vehicles currently have any mounting brackets or devices that would allow a tablet computer 
+to be installed in them without additional hardware being procured and installed to make possible the 
+use of cradles for the tablet computers? No mounting brackets, all technology related items will have 
+to be installed by contractor. 
+• Do the vehicles have any digital communications capabilities installed in them?  No  
+ 
+11. Are there any specific technology requirements for the microtransit technology platform relative to 
+the following: 
+a. Integration with existing city systems No 
+b. Data reporting formats and frequency We do want the technology that will allow us to see real 
+time information about the location and usage of the vehicles 
+c. Cybersecurity requirements. We would expect vendor to use industry best practices 
+d. Data retention policies. Follow the guidelines of reporting for federal grants 
+ 
+12. What are the City’s expectations for the customer interface of the technology platform relative to 
+the following: 
+ 
+a. Language support requirements: Primarily English, but should have the ability to translate into 
+Spanish. 
+b. ADA compliance specifications (screen reading) Yes 
+c. The RFP states that the vendor will provide options for those without smart phones to book rides via 
+phone calls. Does the City have internal capabilities, such as with an information phone number for 
+its bus transit service, for City staff to handle such customer phone calls and enter trip orders into the 
+microtransit service booking system? No the City does not have the capability. The Contractor will 
+need to handle phone calls regarding the trips. 
+d. Or will the contractor need to arrange for a third party to handle call center agent assisted trip 
+booking and to include the costs, including initial training costs, of this external capability in its 
+proposal?  Yes this should be included in the response from bidders.  
+ 
+13. Does the City have any specific service level requirements for the new service at this point in time, 
+such as target response times, maximum passenger wait times, or similar? Or will those be 
+developed in consultation with the technology provider and service operator during the detailed 
+planning phase for the new service? We will work with operator to develop the best practices for 
+the micro transit industry
+=== page 3 ===
+14. What are the key performance indicators that the City will use to assess the pilot project, or will 
+those be developed in consultation with the technology provider and service operator during the 
+detailed planning phase for the new service? Developed with technology provider. 
+ 
+ 
+15. Are there any specific staffing requirements such as: 
+a. Driver qualifications beyond standard licensing – We would prefer they have clean driving 
+record and pass a background check with a pre-employment drug screen and on-going random 
+drug screening.   
+b. Customer service representative staffing – We want someone who will be responsive and 
+friendly 
+c. Local presence requirements: General Manager/Director  
+16. What is the current bus transit fare and what will be the fare for the new microtransit service? 
+Current transit fare rates (attached) Micro Transit pricing is $2.00 per ride.   
+ 
+17. If a trip uses both the fixed route bus service and microtransit, what would be the appropriate fare 
+for such transfer trips?   No transfers to fixed route. 
+18. If a microtransit customer is intending to transfer to or from the fixed route bus service, would this 
+be treated the same as a transfer between bus lines currently, with some sort of transfer fare 
+payment medium (such as transfer slip that indicates that the passenger has already paid one fare 
+and that they should only pay the amount of the transfer fare) that the customer shows to the driver, 
+or does the City have another approach in mind to handling microtransit to regular bus service 
+transfers? This is a separate system so there will be no transfer fees or discounts. One transaction is 
+for microtransit and another for a bus ride.  
+ 
+19. Does the City require a cashless fare system for the microtransit service?Yes If cash fares will be 
+accepted, will there be fareboxes installed in the vehicles? If not, how does the City expect the 
+contractor to collect cash fares and account for them in its reporting to the City?  Cashless fares 
+ 
+ 
+20. A digital fare collection system will be an additional implementation cost for the project. The 
+question of whether to allow cash fares in addition to digital payments is a policy question that can 
+only be addressed by the City. It will also have potential implications for a future digital fare 
+collection system for the fixed route bus service. Would the City please provide some guidance to 
+the proposers relative to the factors that should be considered for the fare collection system for this 
+microtransit service, given that it is a pilot project? The City requires a cashless system for micro-
+transit.  
+ 
+21. Vehicle operations and overall service management are the responsibility of the organization that is 
+awarded the contract from the City. Who is responsible for insuring the vehicles, both for physical 
+damage and for liability coverage for passengers and drivers? Contractor.  If the contractor is 
+responsible, what are the City’s requirements for coverage limits for both physical and personal 
+liability coverage? The RFP does not explicitly address the question of insurance coverage in

@@ -1,0 +1,61 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Jefferson Transit/2025-15_Demand Responsive Transportation Clarification Addendum 1.pdf
+# pages_total: 4; hit_pages: [1]; included: [1]
+# context: Bleecker Drive folder: Jefferson Transit
+
+=== page 1 of 4 ===
+RFP No. 2025-15 – Demand Responsive Transportation Software, Appendix E: Requests for Clarification 
+Page 35 of 40 
+APPENDIX D: REQUESTS FOR CLARIFICATION 
+Demand Responsive Transportation Software 
+RFP No. 2025-15
+RETURN BY: 
+EMAIL jbrooke@jeffersontransit.com no later than 3:00 p.m. on October 31, 2025. 
+Use this form to request changes to contract documents or to clarify the meaning of items in the scope 
+of work. 
+Company Name: 
+Email  
+PHONE # 
+Section # 
+Document Reference 
+Scope of Work - Page #  
+Section #   
+General Provisions/Instructions to Proposers - Page #  
+Contract Documents – Page #  
+Section # 
+Proposal Form - Page #  
+Section #   
+Other –  
+Submitted By: 
+ Signature 
+ Date 
+JTA Response 
+Written Response to questions attached; emailed to 
+, 
+on  
+ 
+ 
+        (date). 
+Proposer’s Request Approved: 
+Denied: 
+Question answered: 
+JTA Comments: 
+Via Mobility, LLC
+procurement@ridewithvia.com
+(888) 501-7511, ext. 4
+Proposer’s Question or Request: (attach additional sheets if necessary) 
+Would Jefferson Transit Authority please confirm whether it wants the costs of the following  
+features and functionalities included in vendors' core pricing proposal: 
+a. Eligibility management fees
+b. Multi- and / or intermodal service fees
+c. AI IVR voice feature fees
+d. Ticketing fees
+e. TNC trip brokering fees
+f. Mapping fees
+g. Google speeds / Real-time speeds fees
+h. SMS / Messaging fees
+39-40
+Appendix H: Proposal Pricing Form
+Docusign Envelope ID: F9EA7F8B-5457-4BFE-9CB2-F42D46422902
+10/23/2025
+Proponents are required to include all costs for features and functionalities proposed in the solution for JTA

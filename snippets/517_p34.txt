@@ -1,0 +1,57 @@
+# source: raw/bleecker_drive/North Carolina/AII_On_Demand_Microtransit_Webinar.pdf
+# path: raw/bleecker_drive/North Carolina/AII_On_Demand_Microtransit_Webinar.pdf
+# hit page: 34 of 79
+# terms: Via+per vehicle hour
+
+=== page 33 ===
+Via. Proprietary & Confidential
+33
+96,182
+Rides Taken
+3.5
+Avg. riders per vehicle hour
+2,394
+Unique Active Riders
+RIDE has grown significantly since launch in Year One
+Peak was 2,577 
+trips in a week 
+compared to an 
+average of 
+1,450/week on 
+fixed-route.
+18.5 min
+Average Wait Time
+=== page 34 ===
+Via. Proprietary &Conﬁdential
+2
+173,188
+RidesTaken
+3.9
+Avg. riders per vehicle hour
+4,764
+Unique Active Riders
+RIDE performance in Year Two – Another Year of Significant growth
+Peak was 4,215 trips in 
+a week compared to a 
+peak of 2,577 trips in a 
+week in year one.
+18.3 min
+Average WaitTime
+=== page 35 ===
+Via. Proprietary & Confidential
+35
+346,881
+Rides Taken
+97%
+Of Demand Met
+8,192
+Unique Riders
+RIDE overall performance since launch 
+October 2022 
+highest ridership 
+to date
+3.8
+Average Utilization
+Avg. Utilization of 
+4.2 in November
+*Data from 9/1/2020 - 10/4/2022

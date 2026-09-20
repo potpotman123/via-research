@@ -1,0 +1,355 @@
+# source_url: (local file from Bleecker sample)
+# path: raw/bleecker_drive/Metropolitan Council/Microtransit-Solutions _Peer-Case-Studies-Report.pdf
+# pages_total: 68; hit_pages: [10, 11, 16, 19, 21, 23, 25, 26, 29, 44, 50, 51, 59, 65]; included: [10, 11, 16, 21, 26, 29, 50]
+# context: Bleecker Drive folder: Metropolitan Council
+
+=== page 10 of 68 ===
+CASE STUDIES 
+ 
+October 24, 2024 ■ PEER MICROTRANSIT CASE STUDIES REPORT 
+9 
+◼ Microtransit fare structure: 
+ Regular fare: $3.00 
+ 
+◼ Fixed-route fare structure*: 
+ Regular fare: $2.50 
+ 65+: $1.25 
+ People with disabilities: $1.25 
+ People with Medicare: $1.25 
+*Only considers local fixed-route service 
+◼ Transfer policy: Yes, free with transit card 
+◼ Payment options: Cash, mobile application, transit card, credit card  
+◼ Connections (transit and points of interest): 
+ Ride Gwinnett, local fixed-route operated by Ride Gwinnett—connects to local commercial 
+districts, supermarkets, and heavy rail stations. 
+ Xpress, regional commuter bus service operated by Atlanta-Region Transit Link Authority (The 
+ATL) —connects to Midtown Atlanta  
+Service Model 
+Hybrid 
+◼ Technology provider: RideCo 
+◼ Vehicle provider: Transdev 
+◼ Driver provider: Transdev 
+Scheduling 
+◼ Booking method: Mobile application and call center 
+◼ Advance scheduling: up to 1 day in advance 
+◼ Target wait time: 10 minutes 
+Fleet 
+◼ Fleet size: 4 total 
+◼ Vehicle types: 12-passenger vehicles (shuttles/vans)  
+◼ ADA accommodations: ADA-compliant, able to load mobility-aid devices  
+IMPLEMENTATION METHOD 
+Funding Sources 
+◼ Lawrenceville and Snellville: Total amount not available  
+ Ride Gwinnett operating funds 
+ The ATL: $1,600,000, 2024 
+◼ Proposed Southwest Gwinnett Microtransit: $1,300,000, 2024 
+ Gateway 85 Community Improvement District: $572,000, 2024 
+ City of Norcross: $572,000, 2024 
+ Ride Gwinnett operating funds: $156,000, in 2024 
+◼ Future zones: 1% sales tax for transit investment to be voted on in fall 2024 
+Marketing and Education 
+Led by: Ride Gwinnett 
+◼ Local newspapers (North Gwinnett Voice, Gwinnett Daily Post, WSB-TV) 
+◼ Vehicle (Ride Gwinnett-wrapped) 
+◼ Social media (YouTube Videos, LinkedIn posts, Instagram posts) 
+ 
+Source: Ride Gwinnett
+
+=== page 11 of 68 ===
+CASE STUDIES 
+ 
+October 24, 2024 ■ PEER MICROTRANSIT CASE STUDIES REPORT 
+10 
+CPACS RIDE 
+Center for Pan Asian Community Services (CPACS) 
+Service Objective – Expand transit connections and mobility options. Investigate ridership potential in 
+new areas  
+AGENCY SERVICE AREA 
+◼ Size: 698 square miles 
+◼ Area type:  Suburban, metropolitan 
+◼ Population: 1,738,173 people 
+◼ Population density: 2,489 people per square mile 
+MICROTRANSIT SERVICE 
+CHARACTERISTICS 
+General Information 
+◼ Status: Not operational (pilot complete)  
+◼ Service type: Curb-to-curb, door-to-door (only 
+available for customers with mobility challenges) 
+◼ Number of zones: 1 
+◼ Size: 698 square miles 
+◼ Dates in service: November 2021 – July 2022 
+ Phase 1: November 2021 – December 2021 
+ Phase 2: March 2022 – July 2022 
+◼ Service hours: 9:00 am to 4:00 pm from Monday to 
+Friday. Weekend available on request. 
+◼ Microtransit fare structure: 
+ 65+: Free 
+ People with disabilities: Free 
+ Not over 65 or disabled: $2:00 (Must be 
+with someone of the targeted group) 
+◼ Fixed-route fare structure*: 
+ Regular fare: $2.50 
+ 65+: $1.25 
+ People with disabilities: $1.25 
+ People with Medicare: $1.25 
+*Only considers Ride Gwinnett local fixed-route service 
+◼ Transfer policy: No, not applicable (no fare) 
+◼ Payment options: Cash (non-eligible rider) 
+◼ Connections (transit and points of interest): 
+ Ride Gwinnett, local fixed-route operated by Ride Gwinnett—connects to local commercial 
+districts, supermarkets 
+ Xpress, regional commuter bus service operated by Atlanta-Region Transit Link Authority—
+connects to Midtown Atlanta  
+ MARTA, the regional metro system with bus, streetcar, and rail service operated by Metropolitan 
+Atlanta Rapid Transit Authority—connects to Downtown Atlanta and Hartsfield-Jackson Atlanta 
+International Airport 
+Service Model 
+Software 
+ 
+◼ Technology provider: Spare Labs 
+◼ Vehicle provider: CPACS 
+◼ Driver provider: CPACS, Spare Labs subcontracted to Lyft for additional drivers/vehicles 
+Source: Defining Metro Atlanta - Issuu
+
+=== page 16 of 68 ===
+CASE STUDIES 
+ 
+October 24, 2024 ■ PEER MICROTRANSIT CASE STUDIES REPORT 
+15 
+◼ Microtransit fare structure: 
+ Regular fare: Free 
+◼ Fixed-route fare structure*: 
+ Regular fare: $2.70 (day pass) 
+ 65+: $1.35 (Senior Special Discount Card) 
+ <19: $0.81 (Youth Special Discount Card) 
+ People with disabilities: $1.35 (Individuals with 
+Disabilities Special Discount Card) 
+ People with low income: $1.35 
+*Only considers Denver RTD local fixed-route service 
+◼ Transfer policy: No, not applicable (no fare) 
+◼ Payment options: Not applicable (no 
+fare) 
+◼ Connections (transit and points of 
+interest): 
+ Denver-RTD, the regional transit 
+agency of the Denver metropolitan 
+region with bus and rail service—
+Connects to Downtown Denver and 
+larger transit stations like Union 
+Station through local bus stops and 
+rail stations 
+Service Model 
+ Turnkey 
+◼ Technology provider: Northeast 
+Transportation Connections, 
+subcontracted to Downtowner 
+◼ Vehicle provider: Northeast 
+Transportation Connections, 
+subcontracted to Downtowner  
+◼ Driver provider: Northeast Transportation Connections, subcontracted to Downtowner 
+Scheduling 
+◼ Booking method: Mobile application and call center 
+◼ Advance scheduling: None 
+◼ Target wait time: 30 minutes 
+Fleet 
+◼ Fleet size: 7 
+ Montbello/Gateway: 4  
+ Globeville and Elyria-Swansea: 3 
+◼ Vehicle types: Two vans, three hybrid minivans, and two electric sedans 
+◼ ADA accommodations: Vans are wheelchair accessible 
+ Montbello/Gateway: 1 
+ Globeville and Elyria-Swansea: 1 
+Source: City and County of Denver
+
+=== page 21 of 68 ===
+CASE STUDIES 
+ 
+October 24, 2024 ■ PEER MICROTRANSIT CASE STUDIES REPORT 
+20 
+◼ Payment options: Cash, mobile application, transit card 
+◼ Connections (transit and points of interest):  
+ Metro Transit, the public transit operator in the Minneapolis-metro area that provides bus, light 
+rail, and commuter rail service—connects to Downtown Minneapolis and other transit stations 
+through Metro Transit C Line and/or D Line  
+Service Model 
+Hybrid 
+◼ Technology provider: Via Transportation 
+◼ Vehicle provider: Transit Team 
+◼ Driver provider: Transit Team 
+Scheduling 
+◼ Booking method: Mobile application and call center 
+◼ Advance scheduling: None 
+◼ Target wait time: 20 minutes 
+Fleet 
+◼ Fleet size: 5 
+◼ Vehicle types: Minibuses 
+◼ ADA accommodations: ADA accessible and include wheelchair lifts, bike racks, priority seating 
+areas, and welcome service animals 
+IMPLEMENTATION METHOD 
+Partnerships 
+◼ Ford Mobility partnered with Metro Transit to initiate a 
+pilot study for microtransit (later backed out but was 
+the starting point for the initiative) 
+Funding Sources 
+◼ $1,500,000 from Metro Transit’s operating budget for 
+pilot, 2022 
+◼ Metro Transit’s Operating Budget, 2023 - Present 
+Marketing and Education 
+Led by: Metro Transit  
+◼ Vehicle (Metro Micro-wrapped) 
+◼ News articles (MassTransitMag, Star Tribune, MPR News) 
+◼ Public announcements within buses 
+◼ Tabling events 
+Local Transit Agencies Mimic Uber and Lyft, and 
+Gain Ridership - Streets.mn
+
+=== page 26 of 68 ===
+CASE STUDIES 
+ 
+October 24, 2024 ■ PEER MICROTRANSIT CASE STUDIES REPORT 
+25 
+SOUTHWEST PRIME 
+SouthWest Transit 
+Service Objective – Expand transit connections and mobility options. Investigate ridership potential in 
+new areas.  
+AGENCY SERVICE AREA 
+◼ Size: 81 square miles 
+◼ Area type: Suburban, metropolitan, small town 
+◼ Population: 118,588 people 
+◼ Population density: 1,464 people per square 
+mile 
+MICROTRANSIT SERVICE 
+CHARACTERISTICS 
+General Information 
+◼ Status: Operational 
+◼ Service type: Curb-to-curb, Curb-to-hub 
+◼ Number of zones: 1 
+◼ Size: Not available 
+◼ Dates in service: July 2015 – Present 
+◼ Service hours: 5:30 am to 7:00 pm from Monday to Friday, 6:00 am to 5:30 pm on Saturdays 
+◼ Microtransit fare structure: 
+ Regular fare: $5.00 
+ 65+: $5:00 (Mondays 9:00 am to 3:00 pm are 
+$2.50) 
+ 6-12: $5.00 
+ <5: Free 
+ People with low income: $2.50 (TAP card) 
+ People who are disabled veterans: Free 
+ Other: SW Prime Edge, SW Prime Essential, 
+SW Prime MSP Airport Service, and SW 
+Prime MD (separate microtransit fare 
+structure due to select location) 
+◼ Fixed-route fare structure*: 
+ Regular Fare: $2.50 
+ Rush Hour Fare: $3.25 
+ 65+: $1.00 (rush hour: $3.25) 
+ 6-12: $1.00 (rush hour: $3.25) 
+ <5: Free 
+ People with disabilities: $1.00 
+ People who are disabled veterans: Free 
+*Only considers local fixed-route service 
+◼ Transfer policy: Yes, free for transit card users 
+◼ Payment options: Cash, credit card, transit card, mobile application 
+◼ Connections (transit and points of interest):  
+ SouthWest Transit fixed-route service— connects to Downtown Minneapolis though bus stops 
+and light rail transit stations in the Eden Prairie area  
+ Connects directly to local community assets like the Mall of America, Minneapolis Saint Paul 
+(MSP) International Airport, grocery stores, and medical operators (these are under the special 
+SW Prime programs) 
+Service Model 
+Hybrid 
+◼ Technology provider: Spare Labs 
+◼ Vehicle provider: Transdev, May Mobility, Lyft (depends on specific SW Prime service) 
+◼ Driver provider: Transdev, May Mobility, Lyft (depends on specific SW Prime service) 
+Source: SouthWest Transit
+
+=== page 29 of 68 ===
+CASE STUDIES 
+ 
+October 24, 2024 ■ PEER MICROTRANSIT CASE STUDIES REPORT 
+28 
+◼ Microtransit fare structure: 
+ Regular fare: $2.50 ($2.00 if paying 
+with transit card) 
+ 
+◼ Fixed-route fare structure*: 
+ Regular fare: $2.00 
+ 65+: Free (with valid Senior Fare Card) 
+ <12: Free (with fare-paying adult) 
+ People with disabilities: $1.00 (with Reduced Fare 
+Card) 
+ Other: K-12 Student Pass, University Pass, Partner 
+Employers/Agency – varies by participating 
+organization 
+*Only considers local fixed-route service 
+◼ Transfer policy: No 
+◼ Payment options: Cash, credit card, mobile application, transit card 
+◼ Connections (transit and points of interest):  
+ SEPTA bus, light rail, and commuter rail service—connects to Philadelphia Center City and 
+indirectly to other states since the goal will be to integrate the regional rail, metro, and bus 
+network 
+Service Model 
+Software  
+◼ Technology provider: RideCo 
+◼ Vehicle provider: SEPTA (in-house) 
+◼ Driver provider: SEPTA (in-house) 
+Scheduling 
+◼ Booking method: Mobile application and call center 
+◼ Advance scheduling: To be determined 
+◼ Target wait time: 30 minutes 
+Fleet 
+◼ Fleet size: 48 (tentative) 
+◼ Vehicle types: Small buses, shuttles, vans 
+◼ ADA accommodations: To be determined 
+IMPLEMENTATION METHOD 
+Funding Sources 
+◼  $106,000,000 from SEPTA’s annual operating budget, 2023 (for paratransit and microtransit) 
+Marketing and Education 
+Led by: SEPTA 
+◼ News articles (Philly Voice, MassTransitMag, PR Newswire, Inquirer) 
+◼ Additional strategies to be determined
+
+=== page 50 of 68 ===
+TAKEAWAYS 
+ 
+October 24, 2024 ■ PEER MICROTRANSIT CASE STUDIES REPORT 
+49 
+Procurement Methods 
+INTRODUCTION 
+During the planning phase for microtransit programs, agencies may have varying procurement 
+processes depending on their service model. A hybrid service model requires sourcing different 
+contractors to provide technology versus vehicles and operators. The software only model requires an 
+agency to contract out its technology provider and use in-house drivers and vehicles. The turnkey 
+service model requires the agency to contract out the entire service to one provider for technology, 
+vehicles, and operators. Each service method has different procurement processes and potential 
+advantages for an agency. The following section highlights three unique case studies from the 
+research and their procurement methods. 
+CASE STUDIES 
+Metro Transit Micro 
+ 
+Overview 
+Metro Transit Micro began its service following the implementation of microtransit by 
+other jurisdictions in the region, and interest from elected officials. Metro Transit used 
+lessons from these other agencies as the framework for its service, though its 
+comparatively larger size led to a longer implementation timeframe. The agency 
+primarily runs microtransit service as a feeder to the high frequency transit network. 
+Metro Transit operates with separate providers for technology and operations. This hybrid model was 
+selected because the leadership of the Metropolitan Council, the regional policy-making body of the 
+Minneapolis-St. Paul metropolitan area, desired unionized operators. This approach allowed for more 
+direct control of who the operators are, preferring directly employed workers over subcontracted 
+workers. Additionally, there were concerns about the ability of a turnkey provider to supply enough 
+operators. The approach also allowed for more bids from local contractors, creating stronger 
+community connections and a greater ability to hire local operators. 
+Metro Transit released two separate RFPs in the procurement process: one for the technology and the 
+second for vehicles and operators. For its vehicle and operator provider, it selected the region's 
+paratransit provider for its Metro Mobility service, Transit Team—a Minnesota-based company. For its 
+technology provider, Metro Transit chose Via Transportation, a software provider company for 
+microtransit and paratransit services. In the future, Metro Transit will focus on data standardization in 
+technology provider RFPs, especially since the agency works closely with the other microtransit 
+providers in the Minneapolis region. This includes having providers utilize GTFS-Flex and having 
+standards for data reporting. 
+ 
+Metro Transit chose to operate its microtransit service with a hybrid service model using separate 
+providers for operators and technology rather than turnkey because of the agency’s preference to 
+have local, unionized operators. As a result, it was able to have more direct control over who its 
+operators are.

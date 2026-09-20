@@ -1,0 +1,202 @@
+# source: raw/bleecker_drive/Milwaukee/24-919 REPORT.pdf
+# path: raw/bleecker_drive/Milwaukee/24-919 REPORT.pdf
+# hit page: 2 of 5
+# terms: Via+drivers, Via+per service hour, Via+vehicles
+
+=== page 1 ===
+24-919 
+COUNTY OF MILWAUKEE 
+Inter-office Communication 
+ 
+ 
+Date:  
+November 13, 2024 
+ 
+To: 
+Marcelia Nicholson, Chairwoman, Milwaukee County Board of Supervisors  
+ 
+From: 
+Donna Brown-Martin, Director, Department of Transportation;  
+Denise Wandke, President and Managing Director, Milwaukee County 
+Transit System 
+ 
+Subject: 
+From the Director, Department of Transportation and the President and 
+Managing Director, Milwaukee County Transit System, providing an 
+Information Report regarding the Transit Plus Program including the Same 
+Day Pilot. 
+ 
+File Type: 
+Informational Report 
+ 
+ 
+REQUEST 
+This report provides an overview of MCTS’s paratransit program and provides an 
+update on service performance. 
+ 
+BACKGROUND 
+The Milwaukee County Transit System (MCTS) paratransit program, known as Transit 
+Plus, provides transportation for persons with disabilities whose disability prevents them 
+from using the fixed route bus system. The primary responsibility of the Transit Plus 
+office is to administer the federally required ADA paratransit program. In addition, 
+Transit Plus also administers the Same Day Pilot program and the MCTS Mobility 
+Management program. 
+ 
+BUDGET OVERVIEW 
+The 2024 budget for paratransit van service and Mobility Management is $18,913,348.  
+$2,697,916 is covered by passenger fares and the balance of expenses are covered by 
+Federal, State and local resources as shown in the table below. 
+Program 
+Amount 
+Federal Urbanized Area Formula Funds (Section 5307) 
+$          3,300,000  
+Federal Enhanced Mobility of Senior and Individuals with 
+Disabilities Program (Section 5310) 
+$             241,108  
+Wisconsin Urban Mass Transit Operating Assistance – 
+Paratransit Supplemental Aid (Section 85.205) 
+$          1,639,346  
+Wisconsin Specialized Transportation Assistance (Section 
+85.21) 
+$          1,636,458  
+Wisconsin Urban Mass Transit Operating Assistance 
+(Section 85.20) 
+$          5,909,800  
+Milwaukee County Tax Levy 
+$          3,488,720  
+Total 
+$        16,215,432
+=== page 2 ===
+Van Service 
+Accessible van service is required by the Americans with Disability Act (ADA). Its 
+purpose is to provide accessible service to persons with disabilities that mirrors the 
+service provided by fixed route buses. This program serves Milwaukee County residents 
+and visitors who are prevented from using fixed route buses some or all of the time due 
+to a disability. Client eligibility is determined via doctor’s certification and an in-person 
+functional assessment conducted by Transit Plus staff. 
+ 
+Per ADA regulations, service must be provided by accessible vehicles within a ¾ mile 
+zone around all fixed routes operated by MCTS. Currently, Milwaukee County provides 
+border to border service within the County plus the required ¾ mile buffer around fixed 
+routes that extend into other counties. This is a shared ride service available with a 
+reservation made one to 7 days in advance of a ride. Clients can travel anywhere in the 
+county-wide service area for any purpose. Service is provided from first exterior door to 
+first exterior door during the same hours and days as fixed route bus operation. 
+ 
+ADA van service drivers participate in random drug/alcohol testing required by the 
+Federal Transit Administration (FTA) and provide door to door assistance to clients. The 
+fare is capped by the FTA at no more than double the fixed route bus fare. The current 
+fare is $4 per one-way trip for private pay riders or $35.00 per one-way trip for those 
+enrolled in Medicaid funded long term care programs. 
+ 
+Van service is provided through a contract with First Group (a wholly owned subsidiary 
+of Transdev North America). MCTS pays a negotiated rate per service hour provided.  
+The current van service contract began in October 2023 and ends in October 2030. 
+Under this contract, the vendor is responsible for all aspects of service provision 
+including maintaining appropriate insurance; hiring, training and managing staff; drug 
+testing, scheduling, dispatching and providing rides; accident/incident investigation; 
+vehicle acquisition; and equipment maintenance.   
+ 
+The contract includes performance standards in the areas of on-time performance, ride 
+duration, service availability, appointment drop-offs, compliance with federal 
+requirements and service productivity. Incentives and penalties are applied as 
+warranted.   
+ 
+Key Performance Indicator (KPI) data since contract start: 
+ 
+Activity 
+Standard 
+Nov- Dec 2023 
+January- August 2024 
+ 
+Van Trips 
+N/A 
+55,180 
+239,671 
+On- time 
+performance (OTP) 
+-Pick up within 30-
+minute pick up 
+window 
+93% 
+82.6% 
+92.9%
+=== page 3 ===
+Missed trips- van 
+arrives outside of 
+pick-up window and 
+client does not 
+travel 
+Less than 0.1% 
+of scheduled 
+trips 
+1.55% 
+0.4% 
+On-time 
+appointment drop 
+off 
+99% of trips with 
+appointment 
+times 
+89.3% 
+90.5% 
+Ride duration 
+comparable to fixed 
+route bus 
+90% 
+87.5%* 
+85.8% 
+Telephone calls 
+answered in less 
+than 2 minutes 
+95% 
+31.6% 
+91.5% 
+Passengers per 
+service hour 
+1.70 
+1.48 
+1.53 
+*Random sampling.  Full survey of all trips began in January 2024. 
+ 
+Customer complaints are processed jointly through both Transit Plus and the provider.  
+Once a complaint is received, it is entered into a database and investigated.  
+Resolutions are communicated to the appropriate parties, as needed, and documented 
+in the complaint database. 
+ 
+Key Paratransit Service Statistics 
+There are approximately 5,800 active Transit Plus clients. Transit Plus is available to 
+eligible individuals during the same hours as fixed route bus service. Annually, Transit 
+Plus program participants take over 350,000 paratransit van rides. 
+ 
+Paratransit Program 
+2022 
+2023 
+2024* 
+Paratransit Van Rides 
+331,263 
+350,779 
+239,671 
+Avg. Cost/Trip 
+$45.55 
+$47.91 
+$52.86 
+Expense 
+$15,088,516 
+$16,804,671 
+$12,668,277 
+*Through August 
+ 
+Mobility Management 
+In addition to the van transportation service listed above, MCTS has secured an FTA 
+Section 5310 Grant for 2023-2024 to fund Mobility Management activities that support 
+use of the transit system by older adults and persons with disabilities. These funds have 
+also been requested for the 2025-2026 grant cycle.  The activities supported by this 
+grant include individual and group travel training; community outreach and education; 
+mobility device training; bus operator ADA sensitivity and passenger assistance training.   
+ 
+Transit Plus Same Day Pilot 
+In September 2023, Transit Plus ended a long-standing taxi program that served 
+ambulatory Transit Plus riders due to the lack of wheelchair accessible vehicles (WAVs) 
+and required random drug and alcohol testing for the drivers.  Knowing that this 
+program was ending, the Milwaukee County Board of Supervisors set aside contingency

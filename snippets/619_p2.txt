@@ -1,0 +1,234 @@
+# source: raw/bleecker_drive/City of Cottonwood Arizona/DM0179_Cooperative_Purchase_Agreement_fully_executed.pdf
+# path: raw/bleecker_drive/City of Cottonwood Arizona/DM0179_Cooperative_Purchase_Agreement_fully_executed.pdf
+# hit page: 2 of 25
+# terms: Via Mobility
+
+=== page 1 ===
+1
+COOPERATIVE PURCHASE AGREEMENT  
+THIS AGREEMENT (the “Agreement”) is made and entered into effective as of March 4, 2025 (the 
+“Effective Date”), by and between the City of Cottonwood, Arizona, an Arizona municipal corporation (“City”), 
+and Via Mobility LLC, a Delaware limited liability company and wholly owned subsidiary of Via Transportation, 
+Inc. (the “Vendor”). The City and the Vendor are the only parties to this Agreement; they are sometimes referred 
+to in this Agreement collectively as the “Parties” and each individually as a “Party.” 
+RECITALS: 
+The Parties wish to enter into an Agreement for implementation of Swiftly, a real time passenger 
+prediction software program, pursuant to the terms and conditions of that outside Contract #791202309001B 
+between 791 Purchasing Cooperative and the Vendor for Mobility Software and Solutions, and all subsequent 
+revision thereof (the “Original Contract”).  Such action is authorized under A.R.S. §41-2632 and the terms of the 
+Original Contract.  All capitalized terms used without definition in this Agreement shall have the definitions 
+ascribed to them in the Original Contract.  
+AGREEMENTS: 
+NOW, THEREFORE, for and in consideration of the foregoing Recitals and other good and valuable 
+consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties hereby agree to the terms 
+of the Original Contract as follows: 
+1. 
+Reaffirmation of Original Contract.  The Original Contract shall remain in full force and effect, and all 
+terms and conditions of the Original Contract are hereby incorporated by reference into this Agreement, creating 
+an agreement identical in terms between the City and the Vendor.  In the event of any conflict between this 
+Agreement, the Original Contract, and the attached Service Order, the documents shall govern in that order.  In 
+the Original Contract, the terms “791Coop,” “791 Purchasing Cooperative,” and “Cooperative Agency” shall be 
+deemed to be and refer to the City of Cottonwood, and the terms “Vendor” or “Via” shall be deemed to be and 
+refer to the Vendor for the purposes of this Agreement.  The amount paid under this Agreement shall calculated 
+in accordance with the rates set forth in the Original Contract and the attached Service Order, and shall not exceed 
+eighty-seven thousand dollars ($87,000.00). 
+2. 
+Counterparts.  This Agreement may be executed in one or more counterparts, each of which shall be 
+deemed an original, but all of which together shall constitute one and the same instrument, binding on all of the 
+Parties.  The Parties agree that this Agreement may be transmitted between them via facsimile.  The Parties intend 
+that the faxed signatures constitute original signatures and that a faxed agreement containing the signatures 
+(original or faxed) of all the Parties is binding upon the Parties. 
+3. 
+Compliance with Federal and State Laws.   
+3.1 
+The Vendor understands and acknowledges the applicability to it of the American with Disabilities Act, 
+the Immigration Reform and Control Act of 1986 and the Drug Free Workplace Act of 1989.  The Vendor 
+understands and acknowledges that it must also comply with A.R.S. § 34-301, “Employment of Aliens on Public 
+Works Prohibited”, and A.R.S. § 34-302, as amended, “Residence Requirements for Employees.”   
+3.2 
+Pursuant to the provisions of A.R.S. §41-4401, the Vendor warrants to the City that the Vendor and all its 
+subcontractors are in compliance with all Federal Immigration laws and regulations that relate to their employees 
+and with the E-Verify Program under A.R.S. §23-214(A).     
+A breach of this warranty by the Vendor or any of its subcontractors will be deemed a material breach of this 
+Contract and may subject the Vendor or subcontractor to penalties up to and including termination of this Contract 
+or any subcontract.   
+Docusign Envelope ID: C429F67A-FCDE-4439-AAC1-E86EBC70B3B5
+=== page 2 ===
+2
+The City retains the legal right to inspect the papers of any employee of the Vendor or any subcontractor who 
+works on this Contract to ensure that the Vendor or any subcontractor is complying with the warranty given 
+above.   
+The City may conduct random verification of the employment records of the Vendor and any of its subcontractors 
+to ensure compliance with this warranty.   
+The City will not consider the Vendor or any of its subcontractors in material breach of this Contract if the Vendor 
+and its subcontractors establish that they have complied with the employment verification provisions prescribed 
+by 8 USCA §1324(a) and (b) of the Federal Immigration and Nationality Act and the E-Verify requirements 
+prescribed by A.R.S. §23-214(A). The “E-Verify Program” means the employment verification pilot program as 
+jointly administered by the United States Department of Homeland Security and the Social Security 
+Administration or any of its successor programs. 
+ 
+The provisions of this Article must be included in any contract the Vendor enters into with any and all of its 
+subcontractors who provide services under this Contract or any subcontract.  “Services” are defined as furnishing 
+labor, time or effort in the State of Arizona by a contractor of subcontractor.  Services include construction or 
+maintenance of any structure, building or transportation facility or improvement to real property. 
+3.3 
+This Agreement is subject to cancellation for conflicts of interest pursuant to A.R.S. § 38-511. 
+4. 
+The City may terminate this Agreement at any time for its convenience by written notice to Via Mobility 
+LLC specifying the termination date. In the event of termination which is not the fault, in whole or in part, of Via 
+Mobility LLC City shall pay to Vendor only such compensation, including reimbursable expenses, due for Work 
+properly performed on the Project prior to the termination date.  Upon any termination of the Agreement, no 
+further payments shall be due from City to Via Mobility LLC unless and until Via Mobility LLC has delivered to 
+City any and all documentation required to be maintained by Via Mobility LLC or provided by Via Mobility LLC 
+to City. 
+ 
+5. 
+All warranties, representations and indemnifications by Via Mobility LLC shall survive the completion or 
+termination of this Agreement. 
+ 
+6. 
+The Vendor shall provide the Services or Equipment described in attached Service Order, pursuant to the 
+terms of Contract #791202309001B. Unless expressly excluded, in writing, in the Agreement, the Services shall 
+include any and all services reasonably contemplated, normally included, and necessary to complete the Services 
+set forth in the Scope of Services described in solicitation #791_2023_09_001 and Vendor’s response thereto in 
+a good and workmanlike manner with due diligence and, at a minimum, in conformance with generally accepted 
+industry standards and the standard of care for like professionals in the same geographic area. 
+ 
+7. 
+No Boycott of Israel. To the extent applicable under A.R.S. § 35-393 through § 35-393.03, the Vendor 
+hereby certifies that it is not currently engaged in, and agrees for the duration of this Agreement to not engage in, 
+a “boycott” of goods or services from Israel, as that term is defined in A.R.S. § 35-393.12. 
+ 
+8.  
+Forced Labor of Ethnic Uyghurs. To the extent applicable under A.R.S. §35-394, Vendor warrants and 
+certifies that it does not currently, and agrees that it will not, for the duration of this Agreement, use the forced 
+labor, any goods or services produced by the forced labor, or any contractors, subcontractors, or suppliers that 
+use the forced labor or any goods or services produced by the forced labor of ethnic Uyghurs in the People’s 
+Republic of China. 
+ 
+THE REST OF THIS PAGE INTENTIONALLY LEFT BLANK 
+Docusign Envelope ID: C429F67A-FCDE-4439-AAC1-E86EBC70B3B5
+=== page 3 ===
+3
+IN WITNESS WHEREOF, the Parties have executed this Agreement effective as of the Effective Date set forth 
+above. 
+ 
+ 
+ 
+ 
+ 
+ 
+City of Cottonwood, an Arizona municipal corporation 
+ 
+Date: ____________ 
+ 
+By:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tom Whitmer, Acting City Manager 
+ 
+ 
+ 
+ 
+Attest: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tami Mayes, City Clerk 
+ 
+ 
+ 
+ 
+ 
+Approved as to form: 
+ 
+ 
+ 
+By:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+John A. Gaylord, City Attorney 
+ 
+ 
+ 
+ 
+Via Mobility LLC, a Delaware limited liability company 
+ 
+ 
+ 
+Date: ____________  
+ 
+ 
+By:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Its:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Docusign Envelope ID: C429F67A-FCDE-4439-AAC1-E86EBC70B3B5
+3/10/2025
+dillon@ridewithvia.com
+Vice President
+3/10/2025

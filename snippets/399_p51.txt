@@ -1,0 +1,386 @@
+# source: raw/bleecker_drive/Mountain Line/Mountain-Line-On-Demand-Feasibility-Study_Final.pdf
+# path: raw/bleecker_drive/Mountain Line/Mountain-Line-On-Demand-Feasibility-Study_Final.pdf
+# hit page: 51 of 56
+# terms: Via+SaaS, Via+drivers, Via+fleet, Via+vehicles
+
+=== page 50 ===
+43  
+ 
+MOUNTAIN LINE ON-DEMAND FEASIBILITY STUDY 
+APPENDIX E: PROGRAM DESIGN SPREADSHEET 
+S:\Planning\On-Demand Project\Alt Analysis\Program Design.xlsx
+=== page 51 ===
+44  
+ 
+MOUNTAIN LINE ON-DEMAND FEASIBILITY STUDY 
+APPENDIX F: PEER CITY RESEARCH SPREADSHEET 
+S:\Planning\On-Demand Project\Peer research\Peer Cities.Programs.Companies.xlsx 
+ 
+City of Phoenix
+San Joaquin Regional Transit 
+District
+Capital Metro
+Pinellas Suncoast Transit 
+Authority (PSTA)
+Norwalk Transit District
+Phoenix, AZ
+Stockton, CA
+Austin, TX
+Pinellas County, FL
+Norwalk and southwest CT
+Name of service
+RTD Van Go!
+Pick up by Cap Metro
+Direct Connect
+Wheels2U
+Type of On-Demand service
+Partnership with Lyft
+Turn key style, Mobility-on-
+demand rideshare program with 
+Ecolane
+SaaS, on-demand Microtransit utilizing 
+paratransit vehicles
+Partnership with Uber, united 
+taxi, and wheelchair transport. 
+Saas, on-demand microtransit 
+utilizing paratransit vehicles
+Description
+First/last mile solution. Take a Lyft 
+to the nearest bus stop. New users 
+use code PHXRIDES for $5 off each 
+of their first 5 rides to transit 
+stops. Existing users, use TRANSIT 
+PHX for 20% off. 6 month pilot in 
+north and south Phoenix
+On-demand ride-share service to 
+help residents travel more easily 
+within the Northern San Joaquin 
+County.  1 year ago has 
+partnership with Uber for rides, 
+pay 50% of ride up to $5. Had a 6 
+month pilot with TransLoc and 
+now with Ecolane
+Capital Metro launched a flexible, on-
+demand service that utilizes their 
+dispatchers, paratransit vehicles, and 
+operators. Opened system to 
+paratransit and regular clients. 
+Geofenced area with low density but 
+growing area not ready for bus yet. 
+Take an uber or taxi to 24 
+locations to help with first or last 
+mile. Partnership with Uber, 
+united taxi, and wheelchair 
+transport. Receives $5 discount 
+towards the trip. 
+Started early September. On-demand 
+ride-share service allowing residents 
+to request rides and be picked up in 
+minibus vehicles and bring you to 
+your destination. Regular fixed route 
+ends at 7pm, leaving only 2 shuttle 
+routes till midnight. This 
+complements late night service. 
+Goals of program
+First/last mile
+San Joaquin has low density 
+areas, wanted to provide some 
+level of service to those areas
+Provide some level of service to an 
+area with very little service
+Connect people with the core 
+route network
+Provide public transit during late 
+night hours. 
+Audience served
+General public
+General public
+General public
+General public
+General public, pick up/drop in 2 
+square mile 
+Days and hours
+24/7
+7 days a week, 8am - 5pm
+7am - 7pm M-F, 10am - 5pm Sat
+6:00am - 11:00pm, 7 days a week
+Th-Sat 5pm - 12am, Sun 12pm - 9pm
+Geofencing
+Yes, north and south phoenix
+Yes, specific area, planning to 
+expand after pilot 
+Yes, low density area that is growing 
+but does not warrant fixed route
+24 direct connect stops
+Yes, specific area with train station, 
+entertainment, restaurants, TOD 
+housing, large residential area
+Transportation gap addressed
+Spatial, first/last mile
+Spatial
+Spatial
+Spatial, first/last mile
+Temporal
+Operation model
+Partnership
+Software as a Service
+Software as a Service
+Partnership
+Software as a Service
+Pilot (how long)
+Yes, 1 year. Start October 2017
+Yes,  1 year with Uber, 6 months 
+with TransLoc
+Yes, one year. Ended service June 2, 
+2018
+Yes, started Feb 2016
+Yes, 6 months
+Partnership with private 
+company
+Lyft
+Ecolane
+Via
+Uber, American taxi, wheelchair 
+transport
+TransLoc
+Costs
+Swap, City gave marketing space at 
+bus shelters and Lyft gave 
+discounts to riders. No City money 
+was directly used
+$1 million for a year
+$10,000 per license per year. $100,000 
+setting up software. About $200,000 a 
+year total. 
+Budget - FY17 $100,000, FY19 - 
+156,000
+$25,000
+Funding mechanisms
+None
+Bought vehicles with 5310 and 
+5311. Wanted to use 5311 for 
+operating, but reporting was too 
+complicated. Now uses LTF (local 
+transit funds) not part of FTA
+Pilot - Innovative Mobility fund. 
+Continued service - local sales tax, fare 
+recovery, and investments. No federal 
+funds will be used
+General funds, all local
+Partnership between City of Norwalk, 
+CT, and Norwalk Transit. Some 
+funding from cut routes, City funds
+Fare
+New Lyft users - $5 for 4 rides. 
+Existing riders - 20% off of ride
+$5 one way trip, free transfers to 
+buses
+Free
+Pays $5 towards trip
+Free during pilot. City of Norwalk is 
+paying up to 25,000 trips
+ADA/FTA compliance
+Used promo code and no FTA 
+funds being used
+All vehicles ADA
+Yes, paratransit vehicles, Cap Metro 
+drivers
+Uses local funds, has multiple 
+providers
+All vehicles are ADA
+Fleet
+Private vehicles
+8 ADA vehicles in pilot phase, 
+expand to 14 vehicles in January 
+2019 to be county wide 
+7 Paratransit vehicles, 4 vehicles at 
+most
+Uber and taxi fleet. Partnered 
+with Wheelchair transport
+2 Paratransit vehicles
+=== page 52 ===
+45  
+ 
+MOUNTAIN LINE ON-DEMAND FEASIBILITY STUDY 
+ 
+ 
+ 
+ 
+City of Phoenix
+San Joaquin Regional Transit 
+District
+Capital Metro
+Pinellas Suncoast Transit 
+Authority (PSTA)
+Norwalk Transit District
+Phoenix, AZ
+Stockton, CA
+Austin, TX
+Pinellas County, FL
+Norwalk and southwest CT
+Name of service
+RTD Van Go!
+Pick up by Cap Metro
+Direct Connect
+Wheels2U
+App and calling option
+Limited ADA availability
+Both options
+Both options
+Both options, 90% use Uber 
+through app
+App based, has a calling feature but 
+app is advertised. 
+Successes
+Helped provide some data for OnD 
+and travel patterns. Had some 
+utilization of existing Lyft users, 
+very few new users
+Both Ecolane and TransLoc have 
+great customer service and 
+helped with launch. Starting to 
+focus on marketing, ridership 
+when from 4 passengers per day 
+to 10 in 2 weeks. 
+More than 20,000 trips in one year
+After removing boundaries, 
+ridership tripled from April to 
+August. In September it grew but 
+is leveling out
+Up to 100 riders during the weekend. 
+Will expand zone to include large 
+residential area
+Lessons learned
+Spell out what you want from TNC 
+and set expectations early on. Ex. 
+Data sharing and what type of 
+data.
+Marketing - important to use 
+traditional methods and social 
+media. Outreach events to teach 
+people how to use the app. 
+Important to educate customers on 
+how to use the app. Keep checking the 
+routing and make sure it is efficient. 
+Cap Metro would inform Via, they 
+would rework the algorithm. A pilot is 
+great testing ground. 
+First PSTA used zones, but this 
+hindered travel. Switched to use 
+Direct Connect stops, allowing 
+more freedom in travel
+Need a robust advertisement 
+program. Wish we would have more 
+resources for advertisement 
+Challenges
+Can not tell if user is using transit 
+or just Lyft trip. City and Valley 
+Metro does not have fare and 
+tracking capabilities for fare 
+integration. 
+Majority of people using service is 
+elderly or people with 
+disabilities, 90% use call in 
+option. Marketing has been a 
+challenge since the agency mostly 
+uses social media. Going to start 
+to use more traditional methods 
+like flyers and outreach events. 
+TransLoc is not as robust as 
+Ecolane. Has capability to do 
+whole county. TransLoc is better 
+for a small area
+Nothing extreme. Had to train 50+ 
+community about the app. 
+Zones made travel difficult 
+because you couldn't cross zones. 
+Might have to backtrack your 
+travel to get to the closest DC stop
+So far, everything is running smoothly
+Additional staffing
+None
+Part of contract, uses National 
+Trust (owns Ecolane) for 
+maintenance, dispatch, drivers, 
+etc. RTD provides vehicles and 
+facilities'
+Hire 2 temporary dispatch to answer 
+calls. 51% of people called during the 
+beginning of pilot, went down to 40%. 
+None
+No additional staffing. Some drivers 
+moved from part time to full time. 
+Had to have supervisors stay 1 extra 
+hour
+Technical challenges
+Lyft did not geofence in the 
+beginning, difficult to figure out if 
+trip was FLM solution. 
+90% use call in option, however 
+app works very well. Due to 
+marketing. TransLoc is better for 
+small areas, does not work well 
+for large, complex areas. 
+Have to keep working with Via to 
+tweak algorithm to keep maximizing 
+ridership. 
+Switched to start using a 
+promocode, some people had to 
+be trained on how to use promo 
+code. $5 starts when an origin or 
+destination is within 800ft of a DC 
+stop. Some people had a 
+destination not within the 800 ft, 
+so no price reduction. Nothing 
+wrong with app, just need to 
+communicate better and train 
+people
+None, very easy to train drivers and 
+use app. Trained drivers in 15 mins
+Future of the program
+Data is helpful to decide if they 
+want to do a microtransit or 
+readjust fixed-route program
+Expand to county wide
+Program ended June 2018, not because 
+the program did  not work, there was a 
+trial period with Via for one-year free 
+service. Currently has an RFP out to 
+continue service
+Recently changed the fare 
+structure to pay first $5. Before 
+was 50% of the ride, up to $3. 
+Expanded DC stops to 24. 
+After pilot going to move towards a 
+first/last mile scenario. Use 
+microtransit to feed into core routes. 
+Funding will become more difficult, 
+and competitive, so we will have to 
+scale back on low performing routes. 
+Ridership
+All zones - 5,557 a year. 15 per day. No data received
+20,000 one year ~55 per day. ~4.5 
+Passenger per hour
+September 2018 - 3,975. 
+September 2017 - 948. ~132 per 
+day
+100 per weekend. ~50 per day. ~ 7 
+passengers per hour. September to 
+February = 3,216
+Other performance measures
+Average distance - 7.27 mi, 
+duration 14 mins, average fare 
+$11.13 (1.79 discount)
+No data received
+Towards the end of the pilot, 70% of 
+paratransit clients used this service. 
+40% were shared rides. Via made cost 
+per passenger lower since average 
+person per hour 3.65. Average $51 per 
+trip
+Track average distance traveled 
+(keep it low), average response 
+time (keep it low), total unique 
+riders (keep it low)
+Collecting revenue per service hour: 
+2. Average wait time is 2-3 mins.
