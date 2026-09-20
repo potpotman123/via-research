@@ -22,10 +22,13 @@ tier1b_haiku_27,haiku,done
 tier1b_haiku_28,haiku,done
 gap_p12_00,sonnet,done
 skip_audit_00,sonnet,done
-skip_audit_01,sonnet,running
+skip_audit_01,sonnet,done
 tier2_sonnet_06,sonnet,running
 tier2_sonnet_07,sonnet,running
 redo_downtowner_omnia,sonnet,done
 gap_p12_01,sonnet,running
 tier2_sonnet_08,sonnet,running
 tier2_sonnet_09,sonnet,running
+tier2b_sonnet_29,sonnet,running
+tier2b_sonnet_30,sonnet,running
+tier2b_sonnet_31,sonnet,running
