@@ -8,3 +8,6 @@ raw/*.html
 text/*.db
 .DS_Store
 __pycache__/
+raw/warn/
+raw/via_news/
+text/_ocr_tmp.png
