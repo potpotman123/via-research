@@ -51,9 +51,20 @@ generic Via marketing deck, an unrelated "Downtowner" saloon), write NO row and 
 - notes: the signing legal entity (River North Transit LLC, NoMad Transit LLC, Via Mobility LLC, Remix Technologies LLC...),
   the exact pricing-table lines you relied on (quote them), page numbers, and anything that made classification hard.
 
+## Downtowner and cooperative contracts (read carefully)
+- Downtowner LLCs ARE Via companies. Via acquired Downtowner on 2025-12-12; its 10-K lists Downtowner Transportation LLC, Downtowner App LLC
+  and town LLCs (Aspen Downtowner Group, Basalt, Carbondale, CB/Crested Butte, Glenwood, Leadville, Steamboat, Montbello/Denver Connector,
+  Park City, Empire Pass, Kimball Circulator, Moab, Jackson WY, Big Sky MT, Idaho Falls, Twin Falls, Tahoe, South Lake, Truckee, Palisades,
+  Savannah, NC, Aero). A contract with any of them gets a row (scope is usually Turnkey: Downtowner supplies drivers and vehicles). If the
+  action is dated before 2025-12-12 write "Downtowner, pre-acquisition" at the start of notes so it can be excluded from organic analysis.
+- Cooperative purchasing contracts and their price schedules (OMNIA Partners / Region 4 ESC contract R250802 or 2199, the "791" Purchasing
+  Cooperative, TIPS) ARE contract actions: agency = the cooperative's lead agency, contract_action = award, and the price schedule lines
+  (software fee per vehicle per month, driver-hour rates, implementation fees) go in the fee columns and notes. Via's RFP response that
+  became the awarded cooperative contract counts; a losing proposal does not.
+
 ## Traps
 - "Via Mobility Services" (Boulder/Denver, CO) is an unrelated nonprofit. "VIA Metropolitan Transit" is San Antonio's transit agency.
-  "Downtowner Saloon" is a bar. Write no row for these; say so in your return message.
+  "Downtowner Saloon" / "Historic Downtowner" (Fort Lauderdale) is a bar; Albuquerque "Downtowner" items are real estate. Write no row for these.
 - A Spare Labs or RideCo award at an agency is a `competitor-award` row (scope_type = Software-only for the competitor's product;
   note that it displaces Via if the document says so).
 - Ceilings are not spend. Put NTE amounts in total_value_usd and say "NTE" in pricing_basis notes.
