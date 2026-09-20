@@ -55,9 +55,43 @@ if kd:
     L += ["", "Dollar-weighted shares among rows with a value and a known scope (annualized; NTE ceilings treated as annual where the "
           "document gave only a ceiling and a term, so this overstates spend): " +
           ", ".join(f"{k} {v / tk:.0%}" for k, v in sorted(kd.items(), key=lambda x: -x[1])), ""]
-L += ["Caveats: annualized = annual_value_usd where stated, else total_value_usd / term_years; many software rows carry no dollar value "
-      "(fees under council approval thresholds), so the dollar view is dominated by the large turnkey contracts that do get board approval. "
-      "The count view is closer to Via's customer-count framing.", ""]
+L += ["Caveats: the table above sums every action, so an agency with eight renewals counts eight times. It shows where the documented "
+      "dollars sit, not a run-rate. Many software rows carry no dollar value (fees under council approval thresholds).", ""]
+
+# 1b. run-rate view: one value per agency = latest dated action with an annualizable value (excl. terminations)
+latest = {}
+for r in organic:
+    if r["contract_action"] in ("termination", "non-renewal", "budget-exclusion"):
+        continue
+    a = annual(r)
+    if not a:
+        continue
+    k = r["agency"].lower()
+    d = r["award_or_approval_date"] or r["term_start"] or ""
+    if k not in latest or d > latest[k][0]:
+        latest[k] = (d, a, r)
+L += ["## 1b. Run-rate view: latest priced action per agency (excl. terminations)", "",
+      "| Scope | Agencies | Annualized $mm | Share of $ | Median $mm |", "|---|---|---|---|---|"]
+rr = defaultdict(list)
+for d, a, r in latest.values():
+    rr[r["scope_type"]].append(a)
+tot_rr = sum(sum(v) for v in rr.values())
+for s in ("Turnkey", "Hybrid", "Software-only", "Unknown"):
+    v = sorted(rr.get(s, []))
+    if v:
+        L.append(f"| {s} | {len(v)} | {sum(v) / 1e6:,.1f} | {sum(v) / tot_rr:.0%} | {v[len(v) // 2] / 1e6:,.2f} |")
+L.append(f"| **Total** | **{sum(len(v) for v in rr.values())}** | **{tot_rr / 1e6:,.1f}** | | |")
+kn = {s: sum(v) for s, v in rr.items() if s != "Unknown"}
+if kn:
+    L.append("")
+    L.append("Excluding Unknown: " + ", ".join(f"{s} {v / sum(kn.values()):.0%}" for s, v in sorted(kn.items(), key=lambda x: -x[1])))
+L += ["", "Method: annual_value_usd if stated, else total_value_usd / term_years_incl_options; rows lacking both are excluded, so this "
+      "understates the software tail (small subscriptions often lack a stated term). Ceilings (NTE) are treated as the annual figure when "
+      "the document states them per year, which overstates actual spend.", ""]
+L += ["Top 15 agencies by run-rate:", "", "| Agency | State | Scope | Latest action date | Annualized $mm | Basis |", "|---|---|---|---|---|---|"]
+for d, a, r in sorted(latest.values(), key=lambda x: -x[1])[:15]:
+    L.append(f"| {r['agency'][:40]} | {r['state']} | {r['scope_type']} | {d} | {a / 1e6:,.1f} | {r['pricing_basis'][:22]} |")
+L.append("")
 
 # 2. post-Bleecker
 post = [r for r in via if r["signed_after_2025_12_16"] in ("1", "TRUE", "true")]

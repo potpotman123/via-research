@@ -14,7 +14,41 @@ Generated from out/via_contract_census.csv: 405 rows = 315 Via contract actions 
 
 Dollar-weighted shares among rows with a value and a known scope (annualized; NTE ceilings treated as annual where the document gave only a ceiling and a term, so this overstates spend): Turnkey 85%, Software-only 8%, Hybrid 7%
 
-Caveats: annualized = annual_value_usd where stated, else total_value_usd / term_years; many software rows carry no dollar value (fees under council approval thresholds), so the dollar view is dominated by the large turnkey contracts that do get board approval. The count view is closer to Via's customer-count framing.
+Caveats: the table above sums every action, so an agency with eight renewals counts eight times. It shows where the documented dollars sit, not a run-rate. Many software rows carry no dollar value (fees under council approval thresholds).
+
+## 1b. Run-rate view: latest priced action per agency (excl. terminations)
+
+| Scope | Agencies | Annualized $mm | Share of $ | Median $mm |
+|---|---|---|---|---|
+| Turnkey | 37 | 120.8 | 67% | 2.00 |
+| Hybrid | 2 | 23.7 | 13% | 15.88 |
+| Software-only | 37 | 22.9 | 13% | 0.07 |
+| Unknown | 8 | 13.9 | 8% | 1.66 |
+| **Total** | **84** | **181.3** | | |
+
+Excluding Unknown: Turnkey 72%, Hybrid 14%, Software-only 14%
+
+Method: annual_value_usd if stated, else total_value_usd / term_years_incl_options; rows lacking both are excluded, so this understates the software tail (small subscriptions often lack a stated term). Ceilings (NTE) are treated as the annual figure when the document states them per year, which overstates actual spend.
+
+Top 15 agencies by run-rate:
+
+| Agency | State | Scope | Latest action date | Annualized $mm | Basis |
+|---|---|---|---|---|---|
+| Los Angeles County Metropolitan Transpor | CA | Software-only | 2023-02-15 | 16.6 | fixed fee |
+| Trinity Metro (Fort Worth Transportation | TX | Hybrid | 2024-02-20 | 15.9 | not stated |
+| City of Mobile | AL | Turnkey | 2025-09-16 | 12.1 | fixed fee |
+| Denton County Transportation Authority ( | TX | Turnkey |  | 11.3 | per service hour |
+| City of Arlington | TX | Turnkey | 2025-01-01 | 10.4 | per on-demand service  |
+| City of Plano | TX | Turnkey | 2026-02-23 | 8.0 | not stated |
+| Miami-Dade County | FL | Turnkey | 2023-09-01 | 7.9 | per service hour |
+| Suburban Mobility Authority for Regional | MI | Turnkey | 2024-01-25 | 7.8 | not stated |
+| Rochester Public Transit | MN | Hybrid | 2026-07-06 | 7.8 | not stated |
+| City of Jersey City | NJ | Turnkey |  | 7.7 | not stated |
+| Bi-State Development Agency (Metro Trans | MO | Unknown | 2025-04-18 | 6.3 | not stated |
+| City of Cupertino | CA | Turnkey | 2023-03-07 | 4.2 | not stated |
+| Ben Franklin Transit | WA | Turnkey | 2024-11-14 | 4.1 | per vehicle hour |
+| City of Grand Prairie | TX | Turnkey | 2026-07-21 | 3.5 | not stated |
+| City of West Sacramento | CA | Turnkey | 2023-06-07 | 3.3 | per vehicle hour |
 
 ## 2. Actions dated after 2025-12-16 (Bleecker report date)
 
