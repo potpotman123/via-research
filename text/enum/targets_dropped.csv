@@ -1,0 +1,99 @@
+name,reason
+Abu Dhabi Link,Non-US (United Arab Emirates); appstore country=UAE.
+Ajman VOD,Non-US (United Arab Emirates).
+BC Transit – OnDemand,"Non-US (British Columbia, Canada)."
+Boka resa,"Non-US (Sweden, SL Stockholm)."
+Busplus GPM,"Non-US (France, Guingamp-Paimpol Mobilite)."
+Clicbus Atac,"Non-US (Italy, Rome/ATAC)."
+Connect2 North Lincs,"Non-US (United Kingdom, North Lincolnshire)."
+Dubai Bus on Demand,"Non-US (United Arab Emirates, Dubai RTA)."
+Easy TAD,Non-US (France).
+Electromin Mobility,"Non-US (Saudi Arabia, Madinah)."
+FRGflex,"Non-US (Germany, Landkreis Freyung-Grafenau)."
+GO! On Demand,"Non-US (Italy, Sagrado/Turriaco)."
+HelloBus by Via,"Non-US (Italy, Tremosine/Limone sul Garda)."
+Mooj! TAD,"Non-US (France, Mauges Communaute)."
+My Bus – Servizio a chiamata,"Non-US (Italy, Alte Marche/Fano/Pesaro/Urbino)."
+My Turn Rides,"Non-US (appstore country=United Arab Emirates); family-ride branding, no US agency identified."
+QuiBUS Veneto,"Non-US (Italy, Busitalia Veneto)."
+RUSE MOONSET,"Non-US (EU ""Life Moonset"" project shuttle; no country/agency given, but description and naming pattern are European)."
+tl TAD,Non-US (Switzerland/France border - Renens/Ecublens/Chavannes-pres-Renens).
+SYPN OnDemand,"Non-US: mismarked country=US by the Haiku pass. Description explicitly names ""South Yorkshire People's Network"" and bundleId ""symca"" = South Yorkshire Mayoral Combined Authority (Sheffield region, England)."
+ASF FLEX,"Likely non-US; description style/wording matches the French ""TAD"" (transport a la demande) template used by several confirmed-France apps in this dataset (Easy TAD, tl TAD, Mooj! TAD); no US city/state identified."
+Downtowner,"Via's own multi-city Downtowner umbrella app (Savannah/Aspen/Carbondale); individual agency-specific Downtowner-licensed rider apps are captured separately (e.g., FirstTracks, GIFT On-Demand, TART Connect, Yellow Zone, etc.)."
+Via Driver,"Via's own driver-side (partner) app, not a public-sector customer."
+Shuttle - powered by Via,Via's own generic campus-shuttle demo app; description names no specific US public agency.
+Via2G,Via's own generic ride-sharing app; description names no specific public agency.
+May Mobility,"Private autonomous-vehicle operator (partners with Via/government clients but is itself a private company, not a public-sector customer)."
+Rekab Solutions Company,Private/unclear commercial entity; no US public agency identified.
+Slidr Rides,Private/unclear commercial entity; no location or agency identified.
+RVM Rides,"Private retirement-community (Rogue Valley Manor) transportation service, not a public-sector customer."
+Shuttle Connection,"Private corporate employee shuttle (bundleId ""LinkedInRider"" - a LinkedIn office commuter shuttle), not a public-sector customer."
+Ride the GOAT,"Private hotel-district shuttle (Ontario/Rancho Cucamonga, CA) funded for hotel guests, not a public-sector customer."
+RideLink by HHO,"Apparent nonprofit/community organization (""Helping Hands,"" bundleId ""helpinghands""); no city/state given and not confirmed as a government agency."
+NTS (Horizons),"Unidentifiable - ""Neighborhood Transportation Service""/""Horizons"" with no city or state anchor in the available description; cannot confirm which government entity, if any, operates it."
+avgr (case-study slug),"Unidentified; via_news crawl returned only a generic placeholder page, no distinguishing content found."
+bluevia (case-study slug),"Unidentified; possibly unrelated to transit (a historical Telefonica/AT&T developer platform called ""BlueVia"" shares the name); via_news crawl returned only a generic placeholder."
+cool (case-study slug),Unidentified; via_news crawl returned only a generic placeholder page.
+newmo (case-study slug),"Not a distinct case study - via_news crawl returned content identical to ""mountain-line-wv"" (a crawler/caching artifact), so it adds no independent information."
+nrt-on-demand (case-study slug),Unidentified; via_news crawl returned only a generic placeholder page.
+my-rides (case-study slug),Unidentified; via_news crawl returned only a generic placeholder page.
+ride (case-study slug),Unidentified - slug too generic to resolve to a specific agency; via_news crawl returned only a generic placeholder page.
+auckland-transport (case-study),Non-US (New Zealand).
+berlkonig (case-study),"Non-US (Berlin, Germany - BVG BerlKonig)."
+cooee-busways (case-study),Non-US (Australia).
+edmonton (case-study),"Non-US (Alberta, Canada)."
+fflecsi (case-study),"Non-US (Wales, UK - Traws Cymru fflecsi)."
+flanders (case-study),Non-US (Belgium).
+fortaleza-brazil-english (case-study),Non-US (Brazil).
+fortaleza-brazil-espanol (case-study),Non-US (Brazil).
+fortaleza-caso-de-estudo (case-study),Non-US (Brazil).
+goiania-brazil (case-study),Non-US (Brazil).
+go2-sevenoaks (case-study),"Non-US (Sevenoaks, Kent, UK)."
+keoride-australia (case-study),Non-US (Australia).
+ma-course-sncf (case-study),"Non-US (France, SNCF)."
+melton-australia (case-study),Non-US (Australia).
+mk-connect (case-study),"Non-US (Milton Keynes, UK)."
+quimper (case-study),"Non-US (France, Quimper/Brittany)."
+sault-ste-marie-on-demand (case-study),"Non-US (Ontario, Canada)."
+ssb-flex-2-0 (case-study),Non-US (Norway).
+stadtwerke-trier (case-study),"Non-US (Germany, Trier)."
+tec-a-la-demande (case-study),Non-US (France).
+tees-flex (case-study),"Non-US (Teesside, UK)."
+myridenb (case-study),"Non-US (New Brunswick, Canada - ""NB"" suffix)."
+basf-standort-shuttle (case-study),"Non-US (Germany, BASF corporate site shuttle) and private/corporate, not a public-sector customer."
+global-tech-corporate-shuttle (case-study),"Private corporate employee shuttle, not a public-sector customer (and location unconfirmed)."
+0.0 OMNIA Cooperative Agreement (bleecker_drive folder),"Cooperative purchasing vehicle, not an operating public-sector customer (per task framing, same as the ""1.0 791"" and ""2.0 TIPS"" folders)."
+1.0 791 Cooperative Agreement (bleecker_drive folder),"Cooperative purchasing vehicle; its one identifiable sub-folder customer, College Station ISD, is captured separately (T039)."
+2.0 TIPS Cooperative Agreement (bleecker_drive folder),"Cooperative purchasing vehicle, not an operating public-sector customer."
+League of Oregon Cities (bleecker_drive folder),"A municipal association / cooperative-purchasing-adjacent organization, not itself a transit-operating public-sector customer."
+"Adams County, CO (adcogov)","False positive: ""Via Mobility Services"" is a Boulder, CO nonprofit vehicle-lease provider unrelated to Via Transportation, Inc."
+"Town of Erie, CO","False positive: all ""Via Mobility"" legistar hits (2017 and 2026) are the Boulder, CO nonprofit ""Via Mobility Services,"" not Via Transportation, Inc. The Bleecker sample folder for Erie also turns out to reference this same nonprofit (""VIA_2015_Annual_Report"") rather than Via Transportation, Inc."
+City of Albuquerque (cabq),"False positive: legistar ""Downtowner"" hits are real-estate redevelopment items (""Downtowner Redevelopment Tax Abatement,"" Downtown 2025 Metropolitan Redevelopment Plan), unrelated to Via's Downtowner shuttle subsidiary."
+"City of Fort Lauderdale - ""Downtowner"" legistar hits","False positive (subsumed into the real Fort Lauderdale account, T085, via its Remix contract): the ""Downtowner"" legistar hits are actually ""Downtowner Saloon, LLC"" and ""Historic Downtowner Saloon, LLC"" bar/event permits, unrelated to Via."
+"VIA Metropolitan Transit, San Antonio (sanantonio)","False positive: ""VIA Transit""/""Via"" legistar hits are San Antonio's own transit agency (which is itself named ""VIA""), not Via Transportation, Inc. (RideCo appears elsewhere as a genuine competitor data point for San Antonio, not captured as a target here since it is not a Via account.)"
+"King County, WA - ""Via Transit"" legistar hit","False positive text match: the cited item is about ""efforts to prevent trafficking via transit"" (the English word ""via""), not Via Transportation, Inc. King County remains a target (T175) via its separate, real Metro Flex/King County Metro Transit evidence."
+"City of Somerville, MA","No confirmed Via vendor: the ""Via Transit"" hit (2014) is a false-positive text match (""trips via transit""); subsequent ""microtransit"" hits (2022-2025) are generic council requests for feasibility studies with no vendor named."
+"Harris County, TX","False positive text match: the ""Via Transportation"" legistar hit is really ""via Transportation Development Credits"" (the English word ""via""), not the company. No other source ties Harris County to Via."
+"City of Winston-Salem, NC","No confirmed Via vendor: legistar hits are a generic Winston-Salem Transit Authority (WSTA) microtransit overview and a fare-policy amendment, with no vendor named; not corroborated elsewhere."
+"Capital Area Metropolitan Planning Organization, NC (campo)","Generic NCDOT microtransit feasibility-grant application with no vendor named; retained only as context inside the North Carolina DOT row (T042), not as its own target."
+"City of Fayetteville, AR/NC","No confirmed Via vendor: generic ""Administrative Report - Microtransit Pilot Service"" with no vendor named."
+"City of Orange, CA","Vendor is Anaheim Transportation Network (ATN), not Via - explicitly named in the legistar item (MOU with ATN for microtransit services)."
+"Culver City, CA","No confirmed Via vendor: 2018 pilot vendor was ""moovel North America"" (a different company); later items are generic grant/consent items with no vendor named."
+"City of Long Beach, CA","No confirmed Via vendor: single 2020 generic item reallocating a bus-pass program toward ""a microtransit pilot program,"" no vendor named."
+"City of McKinney, TX","Vendor is Spare Labs (competitor), not Via - all three legistar hits are Spare Labs transit-study/evaluation engagements."
+"City of Huntington Beach, CA","Vendor is Circuit Transit, Inc. (competitor), not Via - explicitly named in the legistar item."
+"City of Huntsville, AL","Vendor is RideCo US, Inc. (competitor), not Via."
+"City of San Marcos, TX","Vendor is ""Electric Cab North America"" (a different company), not Via - explicitly named across all legistar hits for this client."
+"Town of Vienna, VA","No confirmed Via vendor: single 2019 ""Microtransit Concept"" discussion item with no vendor named."
+"Redmond, WA","No confirmed Via vendor: WSDOT Regional Mobility Grant ""Microtransit Shuttle Consultant Agreement"" - a consultant engagement, no operating vendor named."
+"Westchester County, NY (westchestercountyny - magazine-article hit)","Not a contract: the 2018 hit is a council member citing a ""Governing"" magazine article about microtransit generally, not a Via-specific action."
+"City of San Jose, CA","No confirmed Via vendor: single 2026-04-07 ""East San Jose Microtransit Pilot"" item with no vendor named; not corroborated elsewhere."
+"Hudson County, NJ (Rapid Bus Study)","Thin/tangential: gnews 2026-04-10 item is about a fixed-route ""Rapid Bus Study,"" not a confirmed Via microtransit contract; the search query matched on generic terms, not a named Via entity."
+"Cheyenne, WY","Vendor context is Spare Labs (competitor query match), not Via; no Via-specific evidence found."
+"Los Alamos County, NM (Spare Labs)","Bleecker sample contract explicitly with Spare Labs, Inc. (competitor) for microtransit/paratransit software - a competitor-award data point, not a Via customer. Folder is literally labeled ""(Spare Labs)."""
+San Francisco Bay Area Rapid Transit District (BART) (Spare Labs),"Bleecker sample + legistar ""bart""/""actransit"" hits show BART's East Bay Paratransit Consortium (with AC Transit) awarded software to Spare Labs, Inc., not Via - a competitor-award data point, not a Via customer. Folder is literally labeled ""(Spare Labs)."""
+Lake County (bleecker_drive folder),"The one readable document in this folder is a Port Consolidated, Inc. fuel-services (gasoline/diesel) contract for ""The School Board of Lake County, Florida,"" unrelated to Via; the second file in the folder had no extractable text. Likely a mis-collected sample. (A genuinely Via-connected ""Lake County, Colorado"" - Leadville - is captured separately at T162 via the appstore app and a SAFER LLC match, with no relation to this folder.)"
+"University Park, TX","Considered adopting a Via/microtransit alternative to DART membership alongside Addison, Plano, and Highland Park during 2026, but voted to remain a DART member (""DART secures victory in Addison, University Park while Highland Park votes out,"" 2026-05-03) - no Via contract resulted."
+"City of Irving, TX","Considered leaving DART for a Via-style alternative but ""joined Plano in calling off DART exit votes"" (2026-02-27) - stayed with DART, no Via contract."
+"City of Farmers Branch, TX","Considered leaving DART for a Via-style alternative but ""joined Plano in calling off DART exit votes"" (2026-02-27) - stayed with DART, no Via contract."
