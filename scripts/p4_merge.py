@@ -125,8 +125,20 @@ for r in rows:
         r["contract_action"] = "competitor-award"
 
 seen, deduped, conflicts = {}, [], {}
+
+
+def value_bucket(r):
+    """Distinguish same-day actions with materially different totals (e.g., LA Metro North vs South awards)."""
+    t = num(r["total_value_usd"])
+    return int(round(t / 1e5)) if t else ""
+
+
 for r in rows:
     k = (agency_key(r["agency"]), r["contract_action"].lower(), r["award_or_approval_date"])
+    if k in seen and seen[k]["total_value_usd"] and r["total_value_usd"]:
+        t_old, t_new = num(seen[k]["total_value_usd"]), num(r["total_value_usd"])
+        if t_old and t_new and abs(t_old - t_new) > 0.05 * max(t_old, t_new):
+            k = k + (value_bucket(r),)  # distinct action on the same day
     if k in seen:
         old = seen[k]
         if r["scope_type"] != old["scope_type"] and "Unknown" not in (r["scope_type"], old["scope_type"]):

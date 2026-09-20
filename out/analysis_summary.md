@@ -1,16 +1,16 @@
 # VIA contract census: analysis summary
 
-Generated from out/via_contract_census.csv: 386 rows = 296 Via contract actions (6 Downtowner pre-acquisition) + 28 competitor awards + 62 app-only observations.
+Generated from out/via_contract_census.csv: 400 rows = 308 Via contract actions (6 Downtowner pre-acquisition) + 30 competitor awards + 62 app-only observations.
 
 ## 1. Scope mix (Via contract actions, excl. Downtowner pre-acquisition)
 
 | Scope | Actions (count) | Distinct agencies | Rows with $ | Annualized $mm (rows with $) |
 |---|---|---|---|---|
-| Turnkey | 127 | 59 | 73 | 301.1 |
+| Turnkey | 136 | 60 | 80 | 330.5 |
 | Hybrid | 9 | 8 | 2 | 23.7 |
-| Software-only | 99 | 61 | 50 | 6.9 |
+| Software-only | 102 | 61 | 52 | 7.2 |
 | Unknown | 55 | 47 | 10 | 16.6 |
-| **Total** | **290** | **146** | | **348.3** |
+| **Total** | **302** | **146** | | **378.0** |
 
 Dollar-weighted shares among rows with a value and a known scope (annualized; NTE ceilings treated as annual where the document gave only a ceiling and a term, so this overstates spend): Turnkey 91%, Hybrid 7%, Software-only 2%
 
@@ -88,6 +88,7 @@ Post-report mix by count: {'Turnkey': 11, 'Unknown': 4, 'Hybrid': 1, 'Software-o
 | 2021-08-17 | Capital Metropolitan Transportation Auth | TX | competitor-award | Software-only | 4201206 | Competitor award (Spare Labs Inc.) for a Demand Response Transit System solution; matter AI-2021-179 (2021-08-17), base period of twenty-two (22) mont |
 | 2023-02-15 | Los Angeles County Metropolitan Transpor | CA | competitor-award | Software-only | 8292453 | [relabeled competitor-award from extension] Modification No. 10 to Contract PS46292001 with RideCo, Inc. (same underlying MicroTransit Pilot Project P |
 | 2023-07-17 | Los Angeles County Metropolitan Transpor | CA | competitor-award | Software-only | 57346758 | RideCo, Inc. (competitor) contract PS46292001 at LA Metro, MicroTransit Pilot Project. This action = Contract Modification No. 11 extending contract 1 |
+| 2023-07-17 | Los Angeles County Metropolitan Transpor | CA | competitor-award | Software-only | 14120992 | [relabeled competitor-award from amendment] Competitor contract (RideCo, Inc.), Contract No. PS46292001. Quote (p.2): 'AUTHORIZE the Chief Executive O |
 | 2024-03-27 | Los Alamos County | NM | competitor-award | Software-only | 2806814.96 | COMPETITOR AWARD (Spare Labs Inc., not Via). Los Alamos County, NM; Legistar matter AGR1040-24 (2024-03-27): "Approval of Services Agreement No. AGR 2 |
 | 2024-03-28 | City of Huntsville | AL | competitor-award | Software-only | 106000 | Competitor award: RideCo US Inc. for paratransit dispatching software. City cost: $21,200; Total: $106,000; Grant: $84,800. |
 | 2024-04-24 | Alameda-Contra Costa Transit District (A | CA | competitor-award | Software-only |  | Spare Labs Inc. (competitor). 7-year term: up to 2-year implementation period + 5-year operational period. SaaS with turnkey implementation and suppor |
@@ -107,6 +108,7 @@ Post-report mix by count: {'Turnkey': 11, 'Unknown': 4, 'Hybrid': 1, 'Software-o
 | 2025-08-06 | Baldwin County Commission | AL | termination | Software-only |  | Signing entities Baldwin County Commission and Via Mobility, LLC (Delaware LLC). Quote: "The Parties are bound by that certain Contract for Profession |
 | 2025-11-13 | Los Angeles County Metropolitan Transpor | CA | competitor-award | Software-only | 447400.01 | [relabeled competitor-award from amendment] Spare Labs, Inc. Competitor award. Modification No. 2 to Contract PS124278(2)000 for Metro Micro enhanceme |
 | 2025-11-13 | Ben Franklin Transit | WA | competitor-award | Software-only | 2358300 | Competitor-award: Resolution 42-2025 authorizes BFT to award On-Demand Paratransit Route Scheduling & Management Software & Hardware Solution (Contrac |
+| 2025-11-13 | Los Angeles County Metropolitan Transpor | CA | competitor-award | Software-only | 386150 | Contracting entity Spare Labs, Inc. (Via competitor) for LA Metro's "Metro Micro" on-demand shuttle brand. Quote: "AUTHORIZE the Chief Executive Offic |
 |  | Sacramento Regional Transit District (Sa | CA | termination | Turnkey |  | SmaRT Ride, Via-operated on-demand microtransit launched Jan 2020 (Via press release: "the largest on-demand microtransit system in America with 42 ve |
 |  | City of Jersey City | NJ | budget-exclusion | Turnkey |  | PROPOSED, NOT YET ACTED ON as of the source articles (post-2025-12-16 budget-crisis development; exact council-vote date left blank/unknown since no v |
 |  | Hillsborough County | FL | termination | Software-only | 860825 | RFP-23-24177 Paratransit Scheduling Software System, Revised Notice of Intent to Award, posted July 25, 2024. Original contract had been awarded to Vi |
@@ -123,6 +125,7 @@ Post-report mix by count: {'Turnkey': 11, 'Unknown': 4, 'Hybrid': 1, 'Software-o
 | 52.23 | City of West Sacramento | CA | 2023-06-07 | per vehicle hour | Turnkey |
 | 53.89 | Ben Franklin Transit | WA | 2024-11-14 | per vehicle hour | Turnkey |
 | 55.23 | Utah Transit Authority | UT | 2023-10-11 | per revenue hour | Turnkey |
+| 55.23 | Utah Transit Authority | UT |  | per vehicle hour | Turnkey |
 | 55.97 | Utah Transit Authority | UT | 2022-07-13 | per driver hour | Turnkey |
 | 57.50 | Miami-Dade County | FL |  | per service hour | Turnkey |
 | 57.50 | Ben Franklin Transit | WA | 2024-01-11 | per vehicle hour | Turnkey |
@@ -131,6 +134,7 @@ Post-report mix by count: {'Turnkey': 11, 'Unknown': 4, 'Hybrid': 1, 'Software-o
 | 62.65 | Utah Transit Authority | UT |  | per service hour (bill | Turnkey |
 | 62.65 | Utah Transit Authority | UT | 2022-11-29 | per vehicle hour | Turnkey |
 | 68.33 | Utah Transit Authority | UT | 2024-03-01 | per vehicle hour | Turnkey |
+| 68.33 | Utah Transit Authority | UT |  | per driver hour | Turnkey |
 | 70.00 | City of Wilmington | NC |  | per vehicle hour | Turnkey |
 | 70.19 | Douglas County | CO | 2025-03-25 | per vehicle hour | Turnkey |
 | 93.87 | City of Cupertino | CA | 2023-02-08 | per vehicle hour | Turnkey |
@@ -139,7 +143,7 @@ Post-report mix by count: {'Turnkey': 11, 'Unknown': 4, 'Hybrid': 1, 'Software-o
 | 99.70 | City of Norman | OK |  | per vehicle hour | Turnkey |
 | 147.32 | Summit County | UT | 2021-04-13 | per revenue hour | Hybrid |
 
-n=20, min 35.83, median 62.65, max 147.32. OMNIA R250802 list: microtransit turnkey $50.47-$80.75/vehicle hour, paratransit $60.56-$100.94, fixed route $90.85-$141.32 (net).
+n=22, min 35.83, median 62.65, max 147.32. OMNIA R250802 list: microtransit turnkey $50.47-$80.75/vehicle hour, paratransit $60.56-$100.94, fixed route $90.85-$141.32 (net).
 
 ## 5. Stated software fees and implementation fees
 
@@ -168,6 +172,7 @@ n=20, min 35.83, median 62.65, max 147.32. OMNIA R250802 list: microtransit turn
 | City of Key West | FL | 2023-10-20 | 270000 | 5 years |  |  | Software-only |
 | City of Lexington | KY | 2021-03-01 | 10000 | per year | 2500 | 25 | Software-only |
 | City of Philadelphia | PA |  | 43260 | per year |  |  | Software-only |
+| City of Philadelphia | PA |  | 84000 | not stated |  |  | Software-only |
 | City of Philadelphia | PA |  | 34000 | annual |  |  | Software-only |
 | District Department of Transportation (D | DC |  | 109500 | per year |  |  | Software-only |
 | Hillsborough County | FL | 2023-12-20 | 235 | per vehicle per month (Y | 35000 |  | Software-only |
