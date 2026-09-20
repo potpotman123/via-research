@@ -1,18 +1,18 @@
 # VIA contract census: analysis summary
 
-Generated from out/via_contract_census.csv: 400 rows = 308 Via contract actions (6 Downtowner pre-acquisition) + 30 competitor awards + 62 app-only observations.
+Generated from out/via_contract_census.csv: 390 rows = 298 Via contract actions (6 Downtowner pre-acquisition) + 30 competitor awards + 62 app-only observations.
 
 ## 1. Scope mix (Via contract actions, excl. Downtowner pre-acquisition)
 
 | Scope | Actions (count) | Distinct agencies | Rows with $ | Annualized $mm (rows with $) |
 |---|---|---|---|---|
-| Turnkey | 136 | 60 | 80 | 330.5 |
+| Turnkey | 128 | 60 | 73 | 283.7 |
 | Hybrid | 9 | 8 | 2 | 23.7 |
-| Software-only | 102 | 61 | 52 | 7.2 |
-| Unknown | 55 | 47 | 10 | 16.6 |
-| **Total** | **302** | **146** | | **378.0** |
+| Software-only | 101 | 61 | 52 | 7.2 |
+| Unknown | 54 | 46 | 10 | 16.6 |
+| **Total** | **292** | **146** | | **331.2** |
 
-Dollar-weighted shares among rows with a value and a known scope (annualized; NTE ceilings treated as annual where the document gave only a ceiling and a term, so this overstates spend): Turnkey 91%, Hybrid 7%, Software-only 2%
+Dollar-weighted shares among rows with a value and a known scope (annualized; NTE ceilings treated as annual where the document gave only a ceiling and a term, so this overstates spend): Turnkey 90%, Hybrid 8%, Software-only 2%
 
 Caveats: the table above sums every action, so an agency with eight renewals counts eight times. It shows where the documented dollars sit, not a run-rate. Many software rows carry no dollar value (fees under council approval thresholds).
 
@@ -35,10 +35,10 @@ Top 15 agencies by run-rate:
 | Agency | State | Scope | Latest action date | Annualized $mm | Basis |
 |---|---|---|---|---|---|
 | Trinity Metro (Fort Worth Transportation | TX | Hybrid | 2024-02-20 | 15.9 | not stated |
-| Los Angeles County Metropolitan Transpor | CA | Turnkey | 2024-12-16 | 15.3 | not stated |
+| Los Angeles County Metropolitan Transpor | CA | Turnkey | 2024-10-03 | 15.3 | not stated |
 | City of Mobile | AL | Turnkey | 2025-09-16 | 12.1 | fixed fee |
 | Denton County Transportation Authority ( | TX | Turnkey |  | 11.3 | per service hour |
-| City of Arlington | TX | Turnkey | 2025-01-01 | 10.4 | per on-demand service  |
+| City of Arlington | TX | Turnkey | 2024-12-17 | 10.4 | per on-demand service  |
 | City of Plano | TX | Turnkey | 2026-02-23 | 8.0 | not stated |
 | Miami-Dade County | FL | Turnkey | 2023-09-01 | 7.9 | per service hour |
 | Suburban Mobility Authority for Regional | MI | Turnkey | 2024-01-25 | 7.8 | not stated |
@@ -125,16 +125,13 @@ Post-report mix by count: {'Turnkey': 11, 'Unknown': 4, 'Hybrid': 1, 'Software-o
 | 52.23 | City of West Sacramento | CA | 2023-06-07 | per vehicle hour | Turnkey |
 | 53.89 | Ben Franklin Transit | WA | 2024-11-14 | per vehicle hour | Turnkey |
 | 55.23 | Utah Transit Authority | UT | 2023-10-11 | per revenue hour | Turnkey |
-| 55.23 | Utah Transit Authority | UT |  | per vehicle hour | Turnkey |
 | 55.97 | Utah Transit Authority | UT | 2022-07-13 | per driver hour | Turnkey |
 | 57.50 | Miami-Dade County | FL |  | per service hour | Turnkey |
 | 57.50 | Ben Franklin Transit | WA | 2024-01-11 | per vehicle hour | Turnkey |
 | 58.83 | Utah Transit Authority | UT | 2021-09-16 | per driver hour | Turnkey |
 | 61.10 | Town of Addison | TX | 2026-03-24 | per vehicle hour | Turnkey |
-| 62.65 | Utah Transit Authority | UT |  | per service hour (bill | Turnkey |
 | 62.65 | Utah Transit Authority | UT | 2022-11-29 | per vehicle hour | Turnkey |
 | 68.33 | Utah Transit Authority | UT | 2024-03-01 | per vehicle hour | Turnkey |
-| 68.33 | Utah Transit Authority | UT |  | per driver hour | Turnkey |
 | 70.00 | City of Wilmington | NC |  | per vehicle hour | Turnkey |
 | 70.19 | Douglas County | CO | 2025-03-25 | per vehicle hour | Turnkey |
 | 93.87 | City of Cupertino | CA | 2023-02-08 | per vehicle hour | Turnkey |
@@ -143,7 +140,7 @@ Post-report mix by count: {'Turnkey': 11, 'Unknown': 4, 'Hybrid': 1, 'Software-o
 | 99.70 | City of Norman | OK |  | per vehicle hour | Turnkey |
 | 147.32 | Summit County | UT | 2021-04-13 | per revenue hour | Hybrid |
 
-n=22, min 35.83, median 62.65, max 147.32. OMNIA R250802 list: microtransit turnkey $50.47-$80.75/vehicle hour, paratransit $60.56-$100.94, fixed route $90.85-$141.32 (net).
+n=19, min 35.83, median 61.10, max 147.32. OMNIA R250802 list: microtransit turnkey $50.47-$80.75/vehicle hour, paratransit $60.56-$100.94, fixed route $90.85-$141.32 (net).
 
 ## 5. Stated software fees and implementation fees
 
@@ -188,7 +185,6 @@ n=22, min 35.83, median 62.65, max 147.32. OMNIA R250802 list: microtransit turn
 | Town of Morrisville | NC |  | 142280 | NTE (term unspecified) |  |  | Software-only |
 | Utah Transit Authority | UT | 2021-09-16 | 8781 | per month |  |  | Turnkey |
 | Utah Transit Authority | UT | 2022-07-13 | 8308 | per month |  |  | Turnkey |
-| Utah Transit Authority | UT |  | 15244 | per month |  |  | Turnkey |
 | Utah Transit Authority | UT | 2022-11-29 | 15244 | per month (fixed technol | 51800 |  | Turnkey |
 | Wake County | NC |  | 42493 | NTE (term unspecified);  |  |  | Unknown |
 | Whatcom Transportation Authority | WA |  | 22200 | per year | 5000 |  | Software-only |

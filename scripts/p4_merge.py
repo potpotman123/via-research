@@ -152,6 +152,24 @@ for r in rows:
         continue
     seen[k] = r
     deduped.append(r)
+# fold undated rows into a dated row of the same agency/action/total (same document seen twice, one copy without a date)
+dated = {}
+for r in deduped:
+    if r["award_or_approval_date"] and r["total_value_usd"]:
+        dated[(agency_key(r["agency"]), r["contract_action"].lower(), value_bucket(r))] = r
+before = len(deduped)
+kept = []
+for r in deduped:
+    if not r["award_or_approval_date"] and r["total_value_usd"]:
+        twin = dated.get((agency_key(r["agency"]), r["contract_action"].lower(), value_bucket(r)))
+        if twin is not None and twin is not r:
+            if not twin["source_url_2"] and r["source_url_1"] != twin["source_url_1"]:
+                twin["source_url_2"] = r["source_url_1"]
+            continue
+    kept.append(r)
+deduped = kept
+log(f"undated twins folded into dated rows: {before - len(deduped)}")
+
 for r in deduped:
     k = (agency_key(r["agency"]), r["contract_action"].lower(), r["award_or_approval_date"])
     if k in conflicts:
