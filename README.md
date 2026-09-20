@@ -171,3 +171,16 @@ King County Metro Flex, Pierce Transit Runner, Ben Franklin Transit, Tahoe/Truck
 - Legistar `substringof('Via',...)` over-matches; use entity names or 'Via Transportation' / 'microtransit'.
 - Bash scripts print one-line summaries; results go to disk. Every model token spent on printed output is wasted.
 - Paywall/gating expected: HigherGov, Springfield News-Sun, possibly the Drive folder. Leave blanks, never guess.
+
+## Results (2026-09-20)
+
+Deliverables are in `out/`: `findings.md` (memo), `claims_verification.md` (23 claims), `post_bleecker_analysis.md`, `via_contract_census.csv` /
+`.xlsx`, `analysis_summary.md` (regenerate with `scripts/p5_analysis.py`). Census: 327 Via contract actions, 169 agencies, 38 states; 152 Turnkey /
+9 Hybrid / 113 Software-only / 53 Unknown; run-rate dollars 78% Turnkey, 14% Hybrid, 2% Software-only, 7% Unknown. Post-report (after 2025-12-16):
+20 actions, 12 Turnkey, 1 Hybrid, 2 Software-only, 5 Unknown.
+
+Pipeline is rerunnable: `p1_*` enumerators -> `p2_fetch/extract/ocr/snippets/packets` -> `p3_batches` + agent shards in `shards/` ->
+`p4_merge` (validation, aliases, corrections in `shards/_corrections.csv`, exclusions) -> `p5_analysis` -> `p6_export`.
+Batch ledger: `shards/batches/STATUS.csv`. Tier-3 adjudications are logged with reasons in `shards/_corrections.csv`.
+Known gaps: 62 app-only agencies without documents (`shards/apponly_observed.csv`), GDELT unusable (rate-limited), WARN covered 30 states with no Via hits,
+NTD RY2025 (LA Metro operations) not yet published, Spare's LA Metro price and Springfield's fee exhibit not located.

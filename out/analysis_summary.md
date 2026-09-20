@@ -1,18 +1,18 @@
 # VIA contract census: analysis summary
 
-Generated from out/via_contract_census.csv: 404 rows = 314 Via contract actions (7 Downtowner pre-acquisition) + 28 competitor awards + 62 app-only observations.
+Generated from out/via_contract_census.csv: 417 rows = 327 Via contract actions (7 Downtowner pre-acquisition) + 28 competitor awards + 62 app-only observations.
 
 ## 1. Scope mix (Via contract actions, excl. Downtowner pre-acquisition)
 
 | Scope | Actions (count) | Distinct agencies | Rows with $ | Annualized $mm (rows with $) |
 |---|---|---|---|---|
-| Turnkey | 139 | 66 | 75 | 269.5 |
+| Turnkey | 145 | 67 | 79 | 304.1 |
 | Hybrid | 9 | 8 | 2 | 23.7 |
-| Software-only | 110 | 68 | 53 | 7.4 |
-| Unknown | 49 | 44 | 8 | 12.4 |
-| **Total** | **307** | **159** | | **312.9** |
+| Software-only | 113 | 70 | 54 | 7.4 |
+| Unknown | 53 | 47 | 8 | 12.4 |
+| **Total** | **320** | **164** | | **347.7** |
 
-Dollar-weighted shares among rows with a value and a known scope (annualized; NTE ceilings treated as annual where the document gave only a ceiling and a term, so this overstates spend): Turnkey 90%, Hybrid 8%, Software-only 2%
+Dollar-weighted shares among rows with a value and a known scope (annualized; NTE ceilings treated as annual where the document gave only a ceiling and a term, so this overstates spend): Turnkey 91%, Hybrid 7%, Software-only 2%
 
 Caveats: the table above sums every action, so an agency with eight renewals counts eight times. It shows where the documented dollars sit, not a run-rate. Many software rows carry no dollar value (fees under council approval thresholds).
 
@@ -20,13 +20,13 @@ Caveats: the table above sums every action, so an agency with eight renewals cou
 
 | Scope | Agencies | Annualized $mm | Share of $ | Median $mm |
 |---|---|---|---|---|
-| Turnkey | 37 | 134.0 | 78% | 2.12 |
+| Turnkey | 38 | 135.7 | 78% | 2.12 |
 | Hybrid | 2 | 23.7 | 14% | 15.88 |
-| Software-only | 33 | 2.9 | 2% | 0.05 |
+| Software-only | 34 | 2.9 | 2% | 0.05 |
 | Unknown | 7 | 11.7 | 7% | 0.88 |
-| **Total** | **79** | **172.3** | | |
+| **Total** | **81** | **173.9** | | |
 
-Excluding Unknown: Turnkey 83%, Hybrid 15%, Software-only 2%
+Excluding Unknown: Turnkey 84%, Hybrid 15%, Software-only 2%
 
 Method: annual_value_usd if stated, else total_value_usd / term_years_incl_options; rows lacking both are excluded, so this understates the software tail (small subscriptions often lack a stated term). Ceilings (NTE) are treated as the annual figure when the document states them per year, which overstates actual spend.
 
@@ -37,7 +37,7 @@ Top 15 agencies by run-rate:
 | Trinity Metro (Fort Worth Transportation | TX | Hybrid | 2024-02-20 | 15.9 | not stated |
 | Los Angeles County Metropolitan Transpor | CA | Turnkey | 2024-10-03 | 15.3 | not stated |
 | City of Mobile | AL | Turnkey | 2025-09-16 | 12.1 | not stated |
-| Denton County Transportation Authority ( | TX | Turnkey |  | 11.3 | per service hour |
+| Denton County Transportation Authority ( | TX | Turnkey | 2025-09-24 | 11.9 | not stated |
 | City of Arlington | TX | Turnkey | 2024-12-17 | 10.4 | per on-demand service  |
 | City of Plano | TX | Turnkey | 2026-02-23 | 8.0 | not stated |
 | Miami-Dade County | FL | Turnkey | 2023-09-01 | 7.9 | per service hour |
@@ -71,9 +71,11 @@ Top 15 agencies by run-rate:
 | 2026-07-06 | Rochester Public Transit | MN | award | Hybrid | 77800000 |  |  | not stated | news | medium | Rochester City Council unanimously approved (Monday, 2026-07-06, per Post Bulletin datePublished) a five-year contract with Via Transit Twin |
 | 2026-07-21 | City of Grand Prairie | TX | award | Turnkey | 17500000 |  |  | not stated | news | low | Citizen Portal article (meta-dated 'Grand Prairie City Council - July 21, 2026') describes a 'RiverNorth Transit LLC cooperative purchasing  |
 | 2026-08-04 | Grand County | UT | award | Turnkey | 2640841 |  |  | not stated | news | medium | 'Via would provide drivers and oversee daily operations, including maintenance, technology, customer service, reporting, using up to 12 whee |
+| 2026-08-26 | Cobb County (CobbLinc) | GA | amendment | Turnkey |  |  |  | not stated | news | medium | Board of Commissioners voted 3-2 on 2026-08-26 (Commissioners Gambrill and Birrell opposed) approving Title VI equity analyses for a CobbLin |
 | 2026-08-27 | Suburban Mobility Authority for Regional | MI | other | Software-only |  |  |  | not stated | news | medium | Via press release 2026-08-27: 'Via and SMART Expand On-Demand Microtransit Into Northern Macomb County... New partnership with Richmond Leno |
+|  | Montgomery County (MCDOT) | MD | budget-exclusion | Unknown |  |  |  | not stated | news | medium | MCDOT press release (dated 2026-05-29 per search-engine metadata) announces the Rockville and Glenmont/Wheaton Ride On Flex zones will be di |
 
-Post-report mix by count: {'Turnkey': 11, 'Software-only': 2, 'Unknown': 4, 'Hybrid': 1}. Annualized $ by scope: {'Turnkey': 21.2, 'Software-only': 0.0, 'Unknown': 0.0, 'Hybrid': 7.8} ($mm)
+Post-report mix by count: {'Turnkey': 12, 'Software-only': 2, 'Unknown': 5, 'Hybrid': 1}. Annualized $ by scope: {'Turnkey': 21.2, 'Software-only': 0.0, 'Unknown': 0.0, 'Hybrid': 7.8} ($mm)
 
 ## 3. Losses, terminations, budget exclusions and competitor awards
 
@@ -112,6 +114,7 @@ Post-report mix by count: {'Turnkey': 11, 'Software-only': 2, 'Unknown': 4, 'Hyb
 | 2025-11-26 | Milwaukee County Transit System (MCTS) | WI | budget-exclusion | Turnkey |  | Tier-3 manual row. MCTS/DOT Action Item Report 25-792 (11/26/2025): MCTS projects a ~$14M 2026 deficit; base 2026 plan proposed cuts; using the $4,785 |
 |  | Sacramento Regional Transit District (Sa | CA | termination | Turnkey |  | SmaRT Ride, Via-operated on-demand microtransit launched Jan 2020 (Via press release: "the largest on-demand microtransit system in America with 42 ve |
 |  | City of Jersey City | NJ | budget-exclusion | Turnkey |  | PROPOSED, NOT YET ACTED ON as of the source articles (post-2025-12-16 budget-crisis development; exact council-vote date left blank/unknown since no v |
+|  | Montgomery County (MCDOT) | MD | budget-exclusion | Unknown |  | MCDOT press release (dated 2026-05-29 per search-engine metadata) announces the Rockville and Glenmont/Wheaton Ride On Flex zones will be discontinued |
 |  | Hillsborough County | FL | termination | Software-only | 860825 | RFP-23-24177 Paratransit Scheduling Software System, Revised Notice of Intent to Award, posted July 25, 2024. Original contract had been awarded to Vi |
 |  | Baldwin County Commission | AL | competitor-award | Software-only |  | Competitor award: Baldwin County Commission Contract for Professional Services with Spare Labs, Inc. (Suite 810, 815 W Hastings St, Vancouver BC), for |
 |  | AC Transit and BART (East Bay Paratransi | CA | competitor-award | Software-only | 5246000 | Competitor-award: Spare Labs Inc. awarded Contract No. 6M4830 for East Bay Paratransit Consortium (EBPC) scheduling software, replacing the incumbent  |
@@ -123,6 +126,8 @@ Post-report mix by count: {'Turnkey': 11, 'Software-only': 2, 'Unknown': 4, 'Hyb
 |---|---|---|---|---|---|
 | 35.83 | City of Cupertino | CA | 2022-07-19 | per vehicle hour | Turnkey |
 | 35.83 | City of Cupertino | CA | 2019-08-06 | per service hour | Turnkey |
+| 42.11 | Denton County Transportation Authority ( | TX | 2023-09-28 | per vehicle hour | Turnkey |
+| 42.95 | Denton County Transportation Authority ( | TX | 2024-09-26 | per vehicle hour | Turnkey |
 | 52.23 | City of West Sacramento | CA | 2023-06-07 | per vehicle hour | Turnkey |
 | 53.89 | Ben Franklin Transit | WA | 2024-11-14 | per vehicle hour | Turnkey |
 | 55.23 | Utah Transit Authority | UT | 2023-10-11 | per revenue hour | Turnkey |
@@ -142,7 +147,7 @@ Post-report mix by count: {'Turnkey': 11, 'Software-only': 2, 'Unknown': 4, 'Hyb
 | 99.70 | City of Norman | OK |  | per vehicle hour | Turnkey |
 | 147.32 | Summit County | UT | 2021-04-13 | per revenue hour | Hybrid |
 
-n=20, min 35.83, median 62.65, max 147.32. OMNIA R250802 list: microtransit turnkey $50.47-$80.75/vehicle hour, paratransit $60.56-$100.94, fixed route $90.85-$141.32 (net).
+n=22, min 35.83, median 61.10, max 147.32. OMNIA R250802 list: microtransit turnkey $50.47-$80.75/vehicle hour, paratransit $60.56-$100.94, fixed route $90.85-$141.32 (net).
 
 ## 5. Stated software fees and implementation fees
 
