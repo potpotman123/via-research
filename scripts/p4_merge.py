@@ -93,6 +93,17 @@ for c in CORR:
             n_corr += 1
 log(f"tier-3 corrections applied: {n_corr}")
 
+# recompute the post-report flag deterministically from dates (agents set it inconsistently)
+n_flag = 0
+for r in deduped:
+    d = r["award_or_approval_date"] or r["term_start"]
+    if re.match(r"^\d{4}-\d{2}(-\d{2})?", d or ""):
+        new = "1" if d[:10] > "2025-12-16" else "0"
+        if r["signed_after_2025_12_16"] != new:
+            n_flag += 1
+        r["signed_after_2025_12_16"] = new
+log(f"post-report flags recomputed from dates: {n_flag} changed")
+
 with open(OUT / "via_contract_census.csv", "w", newline="", encoding="utf-8") as f:
     w = csv.DictWriter(f, fieldnames=HEADER, extrasaction="ignore")
     w.writeheader()
