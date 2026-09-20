@@ -19,13 +19,38 @@ SCOPES = {"Turnkey", "Software-only", "Hybrid", "Unknown"}
 
 
 def num(v):
-    v = (v or "").strip().replace("$", "").replace(",", "")
-    if not v:
+    """Parse a money/number cell. Accepts $ and commas, 'M'/'million' and 'K' suffixes, ranges take the first value.
+    Returns None for blank or unparsable text."""
+    s = (v or "").strip().replace("$", "").replace(",", "")
+    if not s:
         return None
-    try:
-        return float(re.sub(r"[^\d.\-]", "", v))
-    except ValueError:
+    m = re.search(r"(\d+(?:\.\d+)?)\s*(million|mm|m|k|thousand)?\b", s, re.I)
+    if not m:
         return None
+    x = float(m.group(1))
+    suf = (m.group(2) or "").lower()
+    if suf in ("million", "mm", "m"):
+        x *= 1e6
+    elif suf in ("k", "thousand"):
+        x *= 1e3
+    return x
+
+
+def normalize_numeric(r):
+    """Rewrite numeric cells to plain digits; return list of cells that could not be parsed."""
+    bad = []
+    for c in NUMERIC:
+        raw = r.get(c, "")
+        if not raw.strip():
+            continue
+        x = num(raw)
+        if x is None:
+            bad.append(c)
+            continue
+        if re.search(r"[A-Za-z]", raw):
+            r["notes"] = (r["notes"] + f" [numeric normalized: {c} {raw!r} -> {x:g}]").strip()
+        r[c] = f"{x:g}" if x != int(x) else str(int(x))
+    return bad
 
 
 EXCL = []
@@ -52,6 +77,9 @@ for p in sorted(SHARDS.glob("*.csv")):
                 reasons.append("no agency")
             if r["scope_type"] not in SCOPES:
                 reasons.append(f"bad scope_type {r['scope_type']!r}")
+            bad_cells = normalize_numeric(r)
+            if bad_cells:
+                reasons.append("unparsable numeric: " + ",".join(bad_cells))
             has_num = any(num(r[c]) is not None for c in NUMERIC)
             if has_num and not (r["source_url_1"].startswith("http") or r["source_url_1"].startswith("bleecker-drive:")):
                 reasons.append("number without source_url_1")
