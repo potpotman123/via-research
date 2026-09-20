@@ -34,8 +34,11 @@ tier2b_sonnet_30,sonnet,done
 tier2b_sonnet_31,sonnet,done
 tier2_sonnet_10,sonnet,running
 tier2_sonnet_11,sonnet,running
-tier2_sonnet_12,sonnet,running
-tier2_sonnet_13,sonnet,running
+tier2_sonnet_12,sonnet,done
+tier2_sonnet_13,sonnet,done
 gap_p12_02,sonnet,running
-tier2b_sonnet_32,sonnet,running
-tier2b_sonnet_33,sonnet,running
+tier2b_sonnet_32,sonnet,done
+tier2b_sonnet_33,sonnet,done
+tier2_sonnet_14,sonnet,running
+tier2_sonnet_15,sonnet,running
+p3leads_00,haiku,running
