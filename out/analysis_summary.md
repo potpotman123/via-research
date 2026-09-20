@@ -1,18 +1,18 @@
 # VIA contract census: analysis summary
 
-Generated from out/via_contract_census.csv: 395 rows = 306 Via contract actions (5 Downtowner pre-acquisition) + 27 competitor awards + 62 app-only observations.
+Generated from out/via_contract_census.csv: 405 rows = 315 Via contract actions (6 Downtowner pre-acquisition) + 28 competitor awards + 62 app-only observations.
 
 ## 1. Scope mix (Via contract actions, excl. Downtowner pre-acquisition)
 
 | Scope | Actions (count) | Distinct agencies | Rows with $ | Annualized $mm (rows with $) |
 |---|---|---|---|---|
-| Turnkey | 119 | 65 | 66 | 206.0 |
-| Hybrid | 11 | 10 | 3 | 23.7 |
-| Software-only | 104 | 68 | 54 | 29.9 |
-| Unknown | 67 | 51 | 17 | 50.3 |
-| **Total** | **301** | **163** | | **309.9** |
+| Turnkey | 129 | 65 | 74 | 302.4 |
+| Hybrid | 10 | 9 | 2 | 23.7 |
+| Software-only | 108 | 71 | 55 | 29.9 |
+| Unknown | 62 | 52 | 11 | 19.1 |
+| **Total** | **309** | **169** | | **375.1** |
 
-Dollar-weighted shares among rows with a value and a known scope (annualized; NTE ceilings treated as annual where the document gave only a ceiling and a term, so this overstates spend): Turnkey 79%, Software-only 12%, Hybrid 9%
+Dollar-weighted shares among rows with a value and a known scope (annualized; NTE ceilings treated as annual where the document gave only a ceiling and a term, so this overstates spend): Turnkey 85%, Software-only 8%, Hybrid 7%
 
 Caveats: annualized = annual_value_usd where stated, else total_value_usd / term_years; many software rows carry no dollar value (fees under council approval thresholds), so the dollar view is dominated by the large turnkey contracts that do get board approval. The count view is closer to Via's customer-count framing.
 
@@ -46,19 +46,20 @@ Post-report mix by count: {'Turnkey': 11, 'Unknown': 5, 'Hybrid': 1, 'Software-o
 | Date | Agency | State | Action | Scope | $ | Notes |
 |---|---|---|---|---|---|---|
 | 2018-03-15 | Los Angeles County Metropolitan Transpor | CA | competitor-award | Software-only |  | Same matter 2018-0117 (2018-03-15), DEOD Summary Attachment B: RideCo, Inc. awarded parallel firm-fixed-price contract PS46292001 with 28.59% SBE / 3. |
-| 2018-04-26 | Los Angeles County Metropolitan Transpor | CA | competitor-award | Software-only | 219650 | Same board item as NoMad Transit LLC row above (Item 38, 2018-0117, 04/26/2018): 'A. Contract No. PS46292001 to RideCo in the amount of $219,650.26 fo |
-| 2019-11-25 | Los Angeles County Metropolitan Transpor | CA | competitor-award | Software-only | 2.88747e+07 | Competitor-award: LA Metro Modification No. 5 to Contract PS46292001 with RideCo, Inc. for MicroTransit Pilot Project Part B (Implementation), displac |
-| 2020-02-20 | Los Angeles County Metropolitan Transpor | CA | competitor-award | Hybrid | 2.88747e+07 | Competitor-award, not a Via contract. Signing/contracting entity: RideCo., Inc. ('private partner and technology firm'). Item: 'EXECUTE Modification N |
+| 2018-04-26 | Los Angeles County Metropolitan Transpor | CA | competitor-award | Software-only | 219650.26 | Same board item as NoMad Transit LLC row above (Item 38, 2018-0117, 04/26/2018): 'A. Contract No. PS46292001 to RideCo in the amount of $219,650.26 fo |
+| 2019-11-25 | Los Angeles County Metropolitan Transpor | CA | competitor-award | Software-only | 28874747.5 | Competitor-award: LA Metro Modification No. 5 to Contract PS46292001 with RideCo, Inc. for MicroTransit Pilot Project Part B (Implementation), displac |
+| 2020-02-20 | Los Angeles County Metropolitan Transpor | CA | competitor-award | Hybrid | 28874747.5 | Competitor-award, not a Via contract. Signing/contracting entity: RideCo., Inc. ('private partner and technology firm'). Item: 'EXECUTE Modification N |
 | 2020-05-28 | Transportation Authority of Marin (TAM)  | CA | competitor-award | Hybrid |  | Competitor-award: Uber Technologies, Inc. (score 84) selected as top-ranked firm over Via Mobility, LLC (score 75, tied with Spare Labs, Inc. and Ride |
 | 2020-06-30 | Denton County Transportation Authority | TX | competitor-award | Software-only |  | Competitor: Spare Labs, Inc. (Spare Platform), not Via. Quote (p.418): "Task Order #1 Lewisville Lakeway Zone and Denton Evening Zone was issued to Sp |
 | 2020-11-17 | Los Angeles County Metropolitan Transpor | CA | competitor-award | Software-only | 5970870 | Competitor award, not a Via contract -- recorded per brief instruction that a RideCo award at an agency is a competitor-award row. Signing/contracting |
 | 2021-08-17 | Capital Metropolitan Transportation Auth | TX | competitor-award | Software-only | 4201206 | Competitor award (Spare Labs Inc.) for a Demand Response Transit System solution; matter AI-2021-179 (2021-08-17), base period of twenty-two (22) mont |
+| 2023-02-15 | Los Angeles County Metropolitan Transpor | CA | competitor-award | Software-only | 8292453 | Competitor contract -- RideCo, Inc. (not Via). Matter 2023-0118 (Legistar matter title, packet header): 'AUTHORIZE: A. the Chief Executive Officer to  |
 | 2023-07-17 | Los Angeles County Metropolitan Transpor | CA | competitor-award | Software-only | 57346758 | RideCo, Inc. (competitor) contract PS46292001 at LA Metro, MicroTransit Pilot Project. This action = Contract Modification No. 11 extending contract 1 |
-| 2024-03-27 | Los Alamos County | NM | competitor-award | Software-only | 2.80681e+06 | COMPETITOR AWARD (Spare Labs Inc., not Via). Los Alamos County, NM; Legistar matter AGR1040-24 (2024-03-27): "Approval of Services Agreement No. AGR 2 |
+| 2024-03-27 | Los Alamos County | NM | competitor-award | Software-only | 2806814.96 | COMPETITOR AWARD (Spare Labs Inc., not Via). Los Alamos County, NM; Legistar matter AGR1040-24 (2024-03-27): "Approval of Services Agreement No. AGR 2 |
 | 2024-03-28 | City of Huntsville | AL | competitor-award | Software-only | 106000 | Competitor award: RideCo US Inc. for paratransit dispatching software. City cost: $21,200; Total: $106,000; Grant: $84,800. |
 | 2024-04-24 | Alameda-Contra Costa Transit District (A | CA | competitor-award | Software-only |  | Spare Labs Inc. (competitor). 7-year term: up to 2-year implementation period + 5-year operational period. SaaS with turnkey implementation and suppor |
 | 2024-04-24 | AC Transit and BART (East Bay Paratransi | CA | competitor-award | Software-only | 4566000 | Competitor-award: AC Transit Board (staff report meeting 4/24/2024) considers authorizing a joint contract with BART, with Spare Labs Inc. for Softwar |
-| 2024-07-25 | Hillsborough County | FL | competitor-award | Software-only | 1.02788e+06 | Revised Notice of Intent to Award, RFP-23-24177, Paratransit Scheduling Software System, posted July 25, 2024 -- County terminates Via Transportation, |
+| 2024-07-25 | Hillsborough County | FL | competitor-award | Software-only | 1027877.16 | Revised Notice of Intent to Award, RFP-23-24177, Paratransit Scheduling Software System, posted July 25, 2024 -- County terminates Via Transportation, |
 | 2024-08-07 | Hillsborough County | FL | termination | Software-only |  | Via Transportation, Inc., d/b/a Via Mobility, LLC - Hillsborough County (Sunshine Line paratransit) scheduling software contract terminated for cause. |
 | 2024-09-23 | Metropolitan Council | MN | competitor-award | Software-only | 852100 | Competitor award (Spare Labs, Inc.), no Via entity involved. Quote (p.3): '5. 2024-216 SW: Microtransit Software, Contract 24P015. It was moved by Car |
 | 2024-09-25 | Metropolitan Council | MN | competitor-award | Software-only | 852100 | Contracting entity Spare Labs, Inc. (Via competitor). Quote: "That the Metropolitan Council authorize the Regional Administrator to negotiate and exec |
@@ -68,8 +69,8 @@ Post-report mix by count: {'Turnkey': 11, 'Unknown': 5, 'Hybrid': 1, 'Software-o
 | 2025-01-31 | Baldwin County Commission | AL | competitor-award | Software-only |  | Spare Labs, Inc. (competitor). Microtransit Software contract. Year 1: Base $19,200 + $2,800/vehicle (1-30) + $3,300/vehicle (30+) + $12,000 service/m |
 | 2025-03-05 | Baldwin County Commission | AL | competitor-award | Software-only |  | Competitor-award: Spare Labs, Inc. awarded micro-transit software contract for BRATS (Baldwin Rural Area Transportation System), Baldwin County, AL, r |
 | 2025-03-16 | Los Angeles County Metropolitan Transpor | CA | competitor-award | Software-only |  | RFP Award Listing for 'MICRO-TRANSIT SOFTWARE FOR PUBLIC TRANSPORTATION,' Vendor: Spare Labs, Inc. Pricing table (Years 1/2/3): Base Operating Cost $1 |
-| 2025-04-14 | City of El Paso | TX | competitor-award | Software-only | 634161 | Competitor-award: RideCo US Inc. at City of El Paso, TX. Included page itself is a Campaign Contribution Disclosure Form naming 'RideCo' (contributor: |
-| 2025-05-13 | Sun Metro (City of El Paso) | TX | competitor-award | Software-only | 1.35067e+06 | Competitor-award: Solicitation 2025-0132R Paratransit Software awarded to Rideco US Inc. (Los Angeles, CA), displacing Via Transportation Inc. dba Via |
+| 2025-04-14 | City of El Paso | TX | competitor-award | Software-only | 634161.08 | Competitor-award: RideCo US Inc. at City of El Paso, TX. Included page itself is a Campaign Contribution Disclosure Form naming 'RideCo' (contributor: |
+| 2025-05-13 | Sun Metro (City of El Paso) | TX | competitor-award | Software-only | 1350671.56 | Competitor-award: Solicitation 2025-0132R Paratransit Software awarded to Rideco US Inc. (Los Angeles, CA), displacing Via Transportation Inc. dba Via |
 | 2025-08-06 | Baldwin County Commission | AL | termination | Software-only |  | Signing entities Baldwin County Commission and Via Mobility, LLC (Delaware LLC). Quote: "The Parties are bound by that certain Contract for Profession |
 | 2025-11-13 | Ben Franklin Transit | WA | competitor-award | Software-only | 2358300 | Competitor-award: Resolution 42-2025 authorizes BFT to award On-Demand Paratransit Route Scheduling & Management Software & Hardware Solution (Contrac |
 | 2025-11-13 | Los Angeles County Metropolitan Transpor | CA | competitor-award | Software-only | 386150 | Contracting entity Spare Labs, Inc. (Via competitor) for LA Metro's "Metro Micro" on-demand shuttle brand. Quote: "AUTHORIZE the Chief Executive Offic |
@@ -133,16 +134,16 @@ n=20, min 35.83, median 62.65, max 147.32. OMNIA R250802 list: microtransit turn
 | City of Key West | FL | 2023-10-20 | 270000 | 5 years |  |  | Software-only |
 | City of Lexington | KY | 2021-03-01 | 10000 | per year | 2500 | 25 | Software-only |
 | City of Philadelphia | PA |  | 43260 | per year |  |  | Software-only |
-| City of Philadelphia | PA |  | 84000 | not stated |  |  | Software-only |
+| City of Philadelphia | PA |  | 34000 | annual |  |  | Software-only |
 | District Department of Transportation (D | DC |  | 109500 | per year |  |  | Software-only |
 | Fresno | CA | 2024-08-06 | 197000 | fixed contract amount |  |  | Software-only |
 | Hillsborough County | FL | 2023-12-20 | 235 | per vehicle per month (Y | 35000 |  | Software-only |
 | Lake Havasu City | AZ | 2023-09-19 | 3000 | per vehicle per month (f | 35000 |  | Software-only |
 | LakeXpress (Lake County Board of County  | FL |  | 31000 | per year, based on total | 2000 | 6.45 | Software-only |
 | Lee County (LeeTran) | FL |  | 200 | per vehicle per month | 14000 | 11.8 | Software-only |
-| Los Angeles County Metropolitan Transpor | CA | 2025-11-13 | 447400 | total contract value wit |  |  | Software-only |
+| Los Angeles County Metropolitan Transpor | CA | 2025-11-13 | 447400.01 | total contract value wit |  |  | Software-only |
 | MET Transit |  | 2023-04-10 | 41166 | per year average |  |  | Software-only |
-| North County Transit District | CA |  | 362643 | not stated |  |  | Software-only |
+| North County Transit District | CA |  | 362643.01 | not stated |  |  | Software-only |
 | Orange County | NC |  | 34000 | NTE/fixed (term unspecif |  |  | Software-only |
 | Regional Transportation Commission of So | NV | 2025-05-22 | 77250 | annual subscription (Saa |  |  | Software-only |
 | Tahoe Truckee Area Regional Transportati | CA | 2023-11-28 | 400000 | pilot program funding |  |  | Turnkey |
@@ -154,7 +155,7 @@ n=20, min 35.83, median 62.65, max 147.32. OMNIA R250802 list: microtransit turn
 | Utah Transit Authority (UTA) | UT | 2022-11-29 | 15244 | per month (fixed technol | 51800 |  | Turnkey |
 | Wake County | NC |  | 42493 | NTE (term unspecified);  |  |  | Unknown |
 | Whatcom Transportation Authority | WA |  | 22200 | per year | 5000 |  | Software-only |
-| Whatcom Transportation Authority | WA |  | 25361.3 | per year |  |  | Software-only |
+| Whatcom Transportation Authority | WA |  | 25361.28 | per year |  |  | Software-only |
 | Whatcom Transportation Authority | WA | 2023-05-01 | 4400 | 8 months (prorated from  |  |  | Software-only |
 | YVEDDI | NC |  | 7695 | NTE/fixed (term unspecif |  |  | Software-only |
 
@@ -165,6 +166,7 @@ OMNIA list: microtransit software installation $27,758.50 (<=20 vehicles) / $37,
 
 - 2025-08-05 City of Salisbury (NC): award, Turnkey, total 2895000, annual 
 -  City of Moab (UT): award, Turnkey, total , annual 
+- 2024-10-29 City and County of Denver (CO): award, Turnkey, total 5991681, annual 
 - 2023-08-24 Washoe County (NV): extension, Turnkey, total , annual 400000
 - 2016-06-21 City of Manhattan Beach (CA): award, Turnkey, total , annual 
 - 2017-07-18 City of Manhattan Beach (CA): extension, Turnkey, total , annual 
@@ -173,20 +175,14 @@ OMNIA list: microtransit software installation $27,758.50 (<=20 vehicles) / $37,
 
 | Annualized $mm | Agency | Date | Action | Total | Notes |
 |---|---|---|---|---|---|
-| 10.8 | City of Arlington | 2020-10-13 | renewal | 10817468 | Entity: Via Transportation, Inc. Quote (p.1): "On October 13, 2020, City Council approved Resolution No. 20-280, executi |
-| 10.2 | City of Arlington | 2021-11-30 | renewal | 10186523 | Entity: Via Transportation, Inc. (not a MWBE firm). Quote (p.1): "Approve a resolution authorizing the City Manager or h |
 | 6.3 | Bi-State Development Agency (Metro Trans | 2025-04-18 | extension | 6344000 | Resolution #1421, Bi-State Development Agency Board of Commissioners, April 18, 2025. Quote: "authorizes the President a |
-| 4.6 | City of Arlington | 2019-12-03 | renewal | 4552510 | Entity: Via Transportation, Inc. Quote (p.1): "On December 3, 2019, City Council approved Resolution No. 19-325, executi |
-| 3.0 | City of Arlington | 2022-11-29 | renewal | 30200000 | News article: Arlington City Council voted to continue citywide Via on-demand rideshare service through Dec. 2024 with f |
-| 2.6 | City of Arlington | 2018-12-04 | renewal | 2617375 | Entity: Via Transportation, Inc. Quote (p.1): "On December 4, 2018, City Council approved Resolution No. 18-313, executi |
 | 2.5 | Los Angeles County Metropolitan Transpor | 2018-05-31 | award | 2506410 | Signing entity: NoMad Transit LLC (Via company). Matter header: 'AUTHORIZE the Chief Executive Officer to execute a twel |
 | 2.4 | City of Norwalk | 2025-10-07 | pilot | 2440370 | Signing entity: Nomad Transit LLC, a wholly owned subsidiary of Via Transportation, Inc. Quote (p.4): 'RESOLUTION NO. 25 |
 | 2.2 | Lorain County | 2025-07-01 | extension | 2200000 | Lorain County Board agenda item #26 (07/01/25). Signing entity: River North Transit, LLC, 'a wholly owned subsidiary of  |
 | 2.0 | Trinity Metro (Fort Worth Transportation | 2018-12-17 | pilot | 10000000 | Background recital in packet 387 (Trinity Metro BA2024-12): 'On December 17, 2018, the Trinity Metro Board of Directors  |
-| 2.0 | City and County of Denver | 2024-10-29 | award | 5991681 | Resolution CR24-1443 (matter 24-1443) approving contract between City & County of Denver and Montbello Downtowner, LLC ' |
+| 1.7 | City of Chandler | 2025-05-01 | renewal | 3315000 | River North Transit, LLC (Via) -- signing entity per news article. Quote: 'The renewed agreement with River North Transi |
 | 0.9 | City of New Haven | 2023-04-06 | pilot | 3500000 | Board of Alders resolution LM-2023-0251 (matter dated 2023-04-06), 'AUTHORIZING THE MAYOR TO APPLY FOR AND ACCEPT GRANT  |
-| 0.7 | Los Angeles County Metropolitan Transpor | 2018-04-26 | award | 348685 | LA Metro Regular Board Meeting Minutes, April 26, 2018, Item 38 (2018-0117), 'MICROTRANSIT PILOT PROJECT (MTP)': 'AUTHOR |
+| 0.7 | Los Angeles County Metropolitan Transpor | 2018-04-26 | award | 348684.69 | LA Metro Regular Board Meeting Minutes, April 26, 2018, Item 38 (2018-0117), 'MICROTRANSIT PILOT PROJECT (MTP)': 'AUTHOR |
+| 0.3 | County of Passaic, Board of County Commi | 2024-10-22 | award | 1599543.01 | Signing entity: River North Transit, LLC (Via). Resolution authorizing contract award to River North Transit, LLC for th |
 | 0.1 | Capital Metropolitan Transportation Auth | 2023-10-26 | award | 362520 | Signing entity: Via Mobility, LLC (Exhibit B parent-company disclosure, p.6, names parent as Via Transportation, Inc., 1 |
 | 0.0 | Region 4 Education Service Center | 2026-04-10 | award | 100000 | Cooperative purchasing action per brief (agency recorded as the cooperative's lead agency, Region 4 Education Service Ce |
-| 0.0 | City of Arlington | 2024-12-17 | renewal | 2.07916e+07 | Entity: River North Transit, LLC (not a MWBE firm; self-performs 99.86% = $20,762,626.14; subcontractor Holt Communicati |
-| 0.0 | County of Passaic, Board of County Commi | 2024-10-22 | award | 1.59954e+06 | Signing entity: River North Transit, LLC (Via). Resolution authorizing contract award to River North Transit, LLC for th |

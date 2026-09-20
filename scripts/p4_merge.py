@@ -49,7 +49,7 @@ def normalize_numeric(r):
             continue
         if re.search(r"[A-Za-z]", raw):
             r["notes"] = (r["notes"] + f" [numeric normalized: {c} {raw!r} -> {x:g}]").strip()
-        r[c] = f"{x:g}" if x != int(x) else str(int(x))
+        r[c] = str(int(x)) if x == int(x) else f"{x:.2f}".rstrip("0").rstrip(".")
     return bad
 
 
