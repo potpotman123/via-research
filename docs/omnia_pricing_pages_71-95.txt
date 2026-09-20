@@ -1,0 +1,2251 @@
+Pricing Catalog 
+    RFP No. 25-08  |  36 
+
+RFP 25-08   |  37
+Region 4 ESC – OMNIA
+Request for Proposals | Solicitation No. 25-08
+Via Transportation, Inc. | Pricing Catalogue
+Line #
+Vendor Part #
+Product & Equipment 
+/Manufacturer
+Description
+% Discount
+List Price (Before 
+Discount)
+Net Price to Region 4 ESC
+1
+Micro-T1-Inst
+Via Transportation, Inc.
+Microtransit software installation fee <= 20 vehicles
+2%
+$28,325.00
+$27,758.50
+2
+Micro-T2-Inst
+Via Transportation, Inc.
+Microtransit software installation fee - >20 vehicles
+2%
+$38,625.00
+$37,852.50
+3
+Para-T1-Inst
+Via Transportation, Inc.
+Paratransit / NEMT software installation fee <= 20 vehicles
+2%
+$38,625.00
+$37,852.50
+4
+Para-T2-Inst
+Via Transportation, Inc.
+Paratransit / NEMT software installation fee - >20 vehicles
+2%
+$48,925.00
+$47,946.50
+5
+Micro-PVPM-1
+Via Transportation, Inc.
+Via Microtransit software fee per vehicle per month - Vehicle 1
+2%
+$1,545.00
+$1,514.10
+6
+Micro-PVPM-2
+Via Transportation, Inc.
+Via Microtransit software fee per vehicle per month - Vehicle 2
+2%
+$515.00
+$504.70
+7
+Micro-PVPM-3
+Via Transportation, Inc.
+Via Microtransit software fee per vehicle per month - Vehicle 3
+2%
+$257.50
+$252.35
+8
+Micro-PVPM-4
+Via Transportation, Inc.
+Via Microtransit software fee per vehicle per month - Vehicle 4
+2%
+$154.50
+$151.41
+9
+Micro-PVPM-5
+Via Transportation, Inc.
+Via Microtransit software fee per vehicle per month - Vehicle 5
+2%
+$103.00
+$100.94
+10
+Micro-PVPM-6-10
+Via Transportation, Inc.
+Via Microtransit software fee per vehicle per month - Vehicles 6-10
+2%
+$360.50
+$353.29
+14
+Micro-PVPM-11-20
+Via Transportation, Inc.
+Via Microtransit software fee per vehicle per month - Vehicles 11-20
+2%
+$334.75
+$328.06
+15
+Micro-PVPM-21+
+Via Transportation, Inc.
+Via Microtransit software fee per vehicle per month - Vehicles 21+
+2%
+$309.00
+$302.82
+16
+Para-PVPM-1
+Via Transportation, Inc.
+Via Paratransit / NEMT software fee per vehicle per month - Vehicle 1
+2%
+$1,339.00
+$1,312.22
+17
+Para-PVPM-2
+Via Transportation, Inc.
+Via Paratransit / NEMT software fee per vehicle per month - Vehicle 2
+2%
+$283.25
+$277.59
+18
+Para-PVPM-3
+Via Transportation, Inc.
+Via Paratransit / NEMT software fee per vehicle per month - Vehicle 3
+2%
+$206.00
+$201.88
+19
+Para-PVPM-4
+Via Transportation, Inc.
+Via Paratransit / NEMT software fee per vehicle per month - Vehicle 4
+2%
+$128.75
+$126.18
+20
+Para-PVPM-5
+Via Transportation, Inc.
+Via Paratransit / NEMT software fee per vehicle per month - Vehicle 5
+2%
+$103.00
+$100.94
+21
+Para-PVPM-6-10
+Via Transportation, Inc.
+Via Paratransit / NEMT software fee per vehicle per month - Vehicles 6-10
+2%
+$309.00
+$302.82
+22
+Para-PVPM-11-20
+Via Transportation, Inc.
+Via Paratransit / NEMT software fee per vehicle per month - Vehicles 11-
+20
+2%
+$283.25
+$277.59
+23
+Para-PVPM-21+
+Via Transportation, Inc.
+Via Paratransit / NEMT software fee per vehicle per month - Vehicles 21+
+2%
+$257.50
+$252.35
+24
+Micro-Turnkey-Ops-Hr
+Via Transportation, Inc.
+Via turnkey operations - recurring all-inclusive fee per vehicle hour (varies 
+based on location, service hours, vehicle type, and other requirements, to 
+be scoped and priced for each individual service)
+2%
+$51.50-$82.40
+$50.47-$80.75
+25
+Turnkey-Ops-Wrap
+Via Transportation, Inc.
+Via turnkey operations - upfront fee per vehicle wrap (must be procured 
+alongside #24)
+2%
+$3,000.00
+$2,940.00
+26
+Turnkey-Ops-Rear-WAV
+Via Transportation, Inc.
+Via turnkey operations - upfront fee per rear-entry WAV retrofit (ICE 
+vehicles, must be procured alongside #24)
+2%
+$22,000.00
+$21,560.00
+27
+Turnkey-Ops-Side-WAV
+Via Transportation, Inc.
+Via turnkey operations - upfront fee per side-entry WAV retrofit (ICE 
+vehicles, must be procured alongside #24)
+2%
+$25,750.00
+$25,235.00
+28
+Consulting-Hr
+Via Transportation, Inc.
+Hourly rate for consulting services
+2%
+$257.50
+$252.35
+29
+Technology-Hr
+Via Transportation, Inc.
+Hourly rate for development work or other technology customization
+2%
+$206.00
+$201.88
+30
+School-Turnkey-Ops-Hr
+Via Transportation, Inc.
+Via TaaS for Schools operations - recurring all-inclusive fee per vehicle 
+hour (varies based on location, service hours, and other requirements, to 
+be scoped and priced for each individual service). Assumes driver-owned 
+vehicles.
+2%
+$61.80-$82.40
+$60.56-$80.75
+31
+Para-Turnkey-Ops-Hr
+Via Transportation, Inc.
+Paratransit operations - recurring all-inclusive fee per vehicle hour (varies 
+based on services provided, location and other factors, to be scoped and 
+priced for each individual service)
+2%
+$61.80-$103.00
+$60.56-$100.94
+32
+FR-Turnkey-Ops-Hr
+Via Transportation, Inc.
+Fixed Route operations - recurring all-inclusive fee per vehicle hour (varies 
+based on services provided, location and other factors, to be scoped and 
+priced for each individual service)
+2%
+$92.70-$144.20
+$90.85-$141.32
+33
+Transit-Mgmt
+Via Transportation, Inc.
+End-to-end management of full transit service - recurring annual fee 
+(varies based on scope of services provided, to be scoped and priced for 
+each individual service)
+2%
+$206,000.00-$515,000.00
+$201,880.00-$504,700.00
+34
+1Y-T1-RSched-RR
+Remix Technologies LLC
+Remix Scheduling - 1Y Contract - Fee per Bus per Year: 0-50 Buses, Subject 
+Always to a $28,930 Annual Minimum
+2%
+$920.00
+$901.60
+35
+1Y-T2-RSched-RR
+Remix Technologies LLC
+Remix Scheduling - 1Y Contract - Fee per Bus per Year: 51-100 Buses, 
+Subject Always to a $28,930 Annual Minimum
+2%
+$725.00
+$710.50
+36
+1Y-T3-RSched-RR
+Remix Technologies LLC
+Remix Scheduling - 1Y Contract - Fee per Bus per Year: 101-500 Buses, 
+Subject Always to a $28,930 Annual Minimum
+2%
+$640.00
+$627.20
+37
+1Y-T4-RSched-RR
+Remix Technologies LLC
+Remix Scheduling - 1Y Contract - Fee per Bus per Year: 501+ Buses, 
+Subject Always to a $28,930 Annual Minimum
+2%
+$490.00
+$480.20
+38
+3Y-T1-RSched-RR
+Remix Technologies LLC
+Remix Scheduling - 3Y Contract - Fee per Bus per Year: 0-50 Buses, Subject 
+Always to a $28,100 Annual Minimum
+2%
+$892.00
+$874.16
+39
+3Y-T2-RSched-RR
+Remix Technologies LLC
+Remix Scheduling - 3Y Contract - Fee per Bus per Year: 51-100 Buses, 
+Subject Always to a $28,100 Annual Minimum
+2%
+$703.00
+$688.94
+40
+3Y-T3-RSched-RR
+Remix Technologies LLC
+Remix Scheduling - 3Y Contract - Fee per Bus per Year: 101-500 Buses, 
+Subject Always to a $28,100 Annual Minimum
+2%
+$621.00
+$608.58
+41
+3Y-T4-RSched-RR
+Remix Technologies LLC
+Remix Scheduling - 3Y Contract - Fee per Bus per Year: 501+ Buses, 
+Subject Always to a $28,100 Annual Minimum
+2%
+$475.00
+$465.50
+42
+5Y-T1-RSched-RR
+Remix Technologies LLC
+Remix Scheduling - 5Y Contract - Fee per Bus per Year: 0-50 Buses, Subject 
+Always to a $27,300 Annual Minimum
+2%
+$865.00
+$847.70
+43
+5Y-T2-RSched-RR
+Remix Technologies LLC
+Remix Scheduling - 5Y Contract - Fee per Bus per Year: 51-100 Buses, 
+Subject Always to a $27,300 Annual Minimum
+2%
+$682.00
+$668.36
+44
+5Y-T3-RSched-RR
+Remix Technologies LLC
+Remix Scheduling - 5Y Contract - Fee per Bus per Year: 101-500 Buses, 
+Subject Always to a $27,300 Annual Minimum
+2%
+$602.00
+$589.96
+45
+5Y-T4-RSched-RR
+Remix Technologies LLC
+Remix Scheduling - 5Y Contract - Fee per Bus per Year: 501+ Buses, 
+Subject Always to a $27,300 Annual Minimum
+2%
+$461.00
+$451.78
+46
+Base-RT-RR
+Remix Technologies LLC
+Remix Planning - Base Fee
+2%
+$18,690.00
+$18,316.20
+47
+1Y-T1-RT-RR
+Remix Technologies LLC
+Remix Planning - 1Y Contract - Fee per Bus per Year for Fleets >19 Buses: 
+0-50 Buses, Subject Always to a $18,690 Annual Minimum
+2%
+$293.00
+$287.14
+48
+1Y-T2-RT-RR
+Remix Technologies LLC
+Remix Planning - 1Y Contract - Fee per Bus per Year for Fleets >19 Buses: 
+51-100 Buses, Subject Always to a $18,690 Annual Minimum
+2%
+$285.00
+$279.30
+49
+1Y-T3-RT-RR
+Remix Technologies LLC
+Remix Planning - 1Y Contract - Fee per Bus per Year for Fleets >19 Buses: 
+101-500 Buses, Subject Always to a $18,690 Annual Minimum
+2%
+$280.00
+$274.40
+50
+1Y-T4-RT-RR
+Remix Technologies LLC
+Remix Planning - 1Y Contract - Fee per Bus per Year for Fleets >19 Buses: 
+501+ Buses, Subject Always to a $18,690 Annual Minimum
+2%
+$275.00
+$269.50
+51
+3Y-T1-RT-RR
+Remix Technologies LLC
+Remix Planning - 3Y Contract - Fee per Bus per Year for Fleets >19 Buses: 
+0-50 Buses, Subject Always to a $18,690 Annual Minimum
+2%
+$283.00
+$277.34
+52
+3Y-T2-RT-RR
+Remix Technologies LLC
+Remix Planning - 3Y Contract - Fee per Bus per Year for Fleets >19 Buses: 
+51-100 Buses, Subject Always to a $18,690 Annual Minimum
+2%
+$278.00
+$272.44
+
+53
+3Y-T3-RT-RR
+Remix Technologies LLC
+Remix Planning - 3Y Contract - Fee per Bus per Year for Fleets >19 Buses: 
+101-500 Buses, Subject Always to a $18,690 Annual Minimum
+2%
+$273.00
+$267.54
+54
+3Y-T4-RT-RR
+Remix Technologies LLC
+Remix Planning - 3Y Contract - Fee per Bus per Year for Fleets >19 Buses: 
+501+ Buses, Subject Always to a $18,690 Annual Minimum
+2%
+$267.00
+$261.66
+55
+5Y-T1-RT-RR
+Remix Technologies LLC
+Remix Planning - 5Y Contract - Fee per Bus per Year for Fleets >19 Buses: 
+0-50 Buses, Subject Always to a $18,690 Annual Minimum
+2%
+$276.00
+$270.48
+56
+5Y-T2-RT-RR
+Remix Technologies LLC
+Remix Planning - 5Y Contract - Fee per Bus per Year for Fleets >19 Buses: 
+51-100 Buses, Subject Always to a $18,690 Annual Minimum
+2%
+$271.00
+$265.58
+57
+5Y-T3-RT-RR
+Remix Technologies LLC
+Remix Planning - 5Y Contract - Fee per Bus per Year for Fleets >19 Buses: 
+101-500 Buses, Subject Always to a $18,690 Annual Minimum
+2%
+$264.00
+$258.72
+58
+5Y-T4-RT-RR
+Remix Technologies LLC
+Remix Planning - 5Y Contract - Fee per Bus per Year for Fleets >19 Buses: 
+501+ Buses, Subject Always to a $18,690 Annual Minimum
+2%
+$259.00
+$253.82
+59
+Base-ROdP-RR
+Remix Technologies LLC
+Remix On-Demand Planning (Requires Planning Contract) - Base Fee
+2%
+$5,500.00
+$5,390.00
+60
+1Y-T1-ROdP-RR
+Remix Technologies LLC
+Remix On-Demand Planning (Requires Planning Contract) - 1Y Contract - 
+Fee per Bus per Year for Fleets >19 Buses: 0-50 Buses, Subject Always to a 
+$5,500 Annual Minimum
+2%
+$103.00
+$100.94
+61
+1Y-T2-ROdP-RR
+Remix Technologies LLC
+Remix On-Demand Planning (Requires Planning Contract) - 1Y Contract - 
+Fee per Bus per Year for Fleets >19 Buses: 51-100 Buses, Subject Always 
+to a $5,500 Annual Minimum
+2%
+$101.00
+$98.98
+62
+1Y-T3-ROdP-RR
+Remix Technologies LLC
+Remix On-Demand Planning (Requires Planning Contract) - 1Y Contract - 
+Fee per Bus per Year for Fleets >19 Buses: 101-500 Buses, Subject Always 
+to a $5,500 Annual Minimum
+2%
+$98.00
+$96.04
+63
+1Y-T4-ROdP-RR
+Remix Technologies LLC
+Remix On-Demand Planning (Requires Planning Contract) - 1Y Contract - 
+Fee per Bus per Year for Fleets >19 Buses: 501+ Buses, Subject Always to 
+a $5,500 Annual Minimum
+2%
+$95.00
+$93.10
+64
+3Y-T1-ROdP-RR
+Remix Technologies LLC
+Remix On-Demand Planning (Requires Planning Contract) - 3Y Contract - 
+Fee per Bus per Year for Fleets >19 Buses: 0-50 Buses, Subject Always to a 
+$5,500 Annual Minimum
+2%
+$100.00
+$98.00
+65
+3Y-T2-ROdP-RR
+Remix Technologies LLC
+Remix On-Demand Planning (Requires Planning Contract) - 3Y Contract - 
+Fee per Bus per Year for Fleets >19 Buses: 51-100 Buses, Subject Always 
+to a $5,500 Annual Minimum
+2%
+$98.00
+$96.04
+66
+3Y-T3-ROdP-RR
+Remix Technologies LLC
+Remix On-Demand Planning (Requires Planning Contract) - 3Y Contract - 
+Fee per Bus per Year for Fleets >19 Buses: 101-500 Buses, Subject Always 
+to a $5,500 Annual Minimum
+2%
+$95.00
+$93.10
+67
+3Y-T4-ROdP-RR
+Remix Technologies LLC
+Remix On-Demand Planning (Requires Planning Contract) - 3Y Contract - 
+Fee per Bus per Year for Fleets >19 Buses: 501+ Buses, Subject Always to 
+a $5,500 Annual Minimum
+2%
+$93.00
+$91.14
+68
+5Y-T1-ROdP-RR
+Remix Technologies LLC
+Remix On-Demand Planning (Requires Planning Contract) - 5Y Contract - 
+Fee per Bus per Year for Fleets >19 Buses: 0-50 Buses, Subject Always to a 
+$5,500 Annual Minimum
+2%
+$96.00
+$94.08
+69
+5Y-T2-ROdP-RR
+Remix Technologies LLC
+Remix On-Demand Planning (Requires Planning Contract) - 5Y Contract - 
+Fee per Bus per Year for Fleets >19 Buses: 51-100 Buses, Subject Always 
+to a $5,500 Annual Minimum
+2%
+$94.00
+$92.12
+70
+5Y-T3-ROdP-RR
+Remix Technologies LLC
+Remix On-Demand Planning (Requires Planning Contract) - 5Y Contract - 
+Fee per Bus per Year for Fleets >19 Buses: 101-500 Buses, Subject Always 
+to a $5,500 Annual Minimum
+2%
+$93.00
+$91.14
+71
+5Y-T4-ROdP-RR
+Remix Technologies LLC
+Remix On-Demand Planning (Requires Planning Contract) - 5Y Contract - 
+Fee per Bus per Year for Fleets >19 Buses: 501+ Buses, Subject Always to 
+a $5,500 Annual Minimum
+2%
+$91.00
+$89.18
+72
+1Y-T1-RSt-RR
+Remix Technologies LLC
+Remix Streets - 1Y Contract - Fee per Person per Year: Population 0,
+-50,000, Subject Always to a $18,000 Annual Minimum
+2%
+$0.13
+$0.13
+73
+1Y-T2-RSt-RR
+Remix Technologies LLC
+Remix Streets - 1Y Contract - Fee per Person per Year: Population 50,001-
+100,000, Subject Always to a $18,000 Annual Minimum
+2%
+$0.13
+$0.13
+74
+1Y-T3-RSt-RR
+Remix Technologies LLC
+Remix Streets - 1Y Contract - Fee per Person per Year: Population 
+100,001-250,000, Subject Always to a $18,000 Annual Minimum
+2%
+$0.13
+$0.13
+75
+1Y-T4-RSt-RR
+Remix Technologies LLC
+Remix Streets - 1Y Contract - Fee per Person per Year: Population 
+250,001-500,000, Subject Always to a $18,000 Annual Minimum
+2%
+$0.13
+$0.13
+76
+1Y-T5-RSt-RR
+Remix Technologies LLC
+Remix Streets - 1Y Contract - Fee per Person per Year: Population 
+500,001-1,000,000, Subject Always to a $18,000 Annual Minimum
+2%
+$0.11
+$0.10
+77
+1Y-T6-RSt-RR
+Remix Technologies LLC
+Remix Streets - 1Y Contract - Fee per Person per Year: Population 
+1,000,001+, Subject Always to a $18,000 Annual Minimum
+2%
+$0.02
+$0.02
+78
+3Y-T1-RSt-RR
+Remix Technologies LLC
+Remix Streets - 3Y Contract - Fee per Person per Year: Population 0,
+-50,000, Subject Always to a $18,000 Annual Minimum
+2%
+$0.13
+$0.12
+79
+3Y-T2-RSt-RR
+Remix Technologies LLC
+Remix Streets - 3Y Contract - Fee per Person per Year: Population 50,001-
+100,000, Subject Always to a $18,000 Annual Minimum
+2%
+$0.13
+$0.12
+80
+3Y-T3-RSt-RR
+Remix Technologies LLC
+Remix Streets - 3Y Contract - Fee per Person per Year: Population 
+100,001-250,000, Subject Always to a $18,000 Annual Minimum
+2%
+$0.13
+$0.12
+81
+3Y-T4-RSt-RR
+Remix Technologies LLC
+Remix Streets - 3Y Contract - Fee per Person per Year: Population 
+250,001-500,000, Subject Always to a $18,000 Annual Minimum
+2%
+$0.13
+$0.12
+82
+3Y-T5-RSt-RR
+Remix Technologies LLC
+Remix Streets - 3Y Contract - Fee per Person per Year: Population 
+500,001-1,000,000, Subject Always to a $18,000 Annual Minimum
+2%
+$0.102
+$0.10
+83
+3Y-T6-RSt-RR
+Remix Technologies LLC
+Remix Streets - 3Y Contract - Fee per Person per Year: Population 
+1,000,001+, Subject Always to a $18,000 Annual Minimum
+2%
+$0.023
+$0.02
+84
+5Y-T1-RSt-RR
+Remix Technologies LLC
+Remix Streets - 5Y Contract - Fee per Person per Year: Population 0,
+-50,000, Subject Always to a $18,000 Annual Minimum
+2%
+$0.122
+$0.12
+85
+5Y-T2-RSt-RR
+Remix Technologies LLC
+Remix Streets - 5Y Contract - Fee per Person per Year: Population 50,001-
+100,000, Subject Always to a $18,000 Annual Minimum
+2%
+$0.122
+$0.12
+86
+5Y-T3-RSt-RR
+Remix Technologies LLC
+Remix Streets - 5Y Contract - Fee per Person per Year: Population 
+100,001-250,000, Subject Always to a $18,000 Annual Minimum
+2%
+$0.122
+$0.12
+87
+5Y-T4-RSt-RR
+Remix Technologies LLC
+Remix Streets - 5Y Contract - Fee per Person per Year: Population 
+250,001-500,000, Subject Always to a $18,000 Annual Minimum
+2%
+$0.122
+$0.12
+88
+5Y-T5-RSt-RR
+Remix Technologies LLC
+Remix Streets - 5Y Contract - Fee per Person per Year: Population 
+500,001-1,000,000, Subject Always to a $18,000 Annual Minimum
+2%
+$0.099
+$0.10
+89
+5Y-T6-RSt-RR
+Remix Technologies LLC
+Remix Streets - 5Y Contract - Fee per Person per Year: Population 
+1,000,001+, Subject Always to a $18,000 Annual Minimum
+2%
+$0.022
+$0.02
+90
+1Y-T1-Inst1-OT
+Remix Technologies LLC
+First Remix Product - 1Y Contract - Installation Fee: 0-50 Buses or 
+Population 0 - 50,000
+2%
+$5,800.000
+$5,684.00
+91
+1Y-T2-Inst1-OT
+Remix Technologies LLC
+First Remix Product - 1Y Contract - Installation Fee: 51-100 Buses or 
+Population 50,001 - 100,000
+2%
+$8,900.000
+$8,722.00
+92
+1Y-T3-Inst1-OT
+Remix Technologies LLC
+First Remix Product - 1Y Contract - Installation Fee: 101-500 Buses or 
+Population 100,001 - 250,000
+2%
+$11,700.000
+$11,466.00
+93
+1Y-T4-Inst1-OT
+Remix Technologies LLC
+First Remix Product - 1Y Contract - Installation Fee: 501+ Buses or 
+Population 250,001+
+2%
+$14,600.000
+$14,308.00
+RFP 25-08   |  38
+
+94
+3Y-T1-Inst1-OT
+Remix Technologies LLC
+First Remix Product - 3Y Contract - Installation Fee: 0-50 Buses or 
+Population 0 - 50,000
+2%
+$5,600.000
+$5,488.00
+95
+3Y-T2-Inst1-OT
+Remix Technologies LLC
+First Remix Product - 3Y Contract - Installation Fee: 51-100 Buses or 
+Population 50,001 - 100,000
+2%
+$8,500.000
+$8,330.00
+96
+3Y-T3-Inst1-OT
+Remix Technologies LLC
+First Remix Product - 3Y Contract - Installation Fee: 101-500 Buses or 
+Population 100,001 - 250,000
+2%
+$11,400.000
+$11,172.00
+97
+3Y-T4-Inst1-OT
+Remix Technologies LLC
+First Remix Product - 3Y Contract - Installation Fee: 501+ Buses or 
+Population 250,001+
+2%
+$14,300.000
+$14,014.00
+98
+5Y-T1-Inst1-OT
+Remix Technologies LLC
+First Remix Product - 5Y Contract - Installation Fee: 0-50 Buses or 
+Population 0 - 50,000
+2%
+$5,500.000
+$5,390.00
+99
+5Y-T2-Inst1-OT
+Remix Technologies LLC
+First Remix Product - 5Y Contract - Installation Fee: 51-100 Buses or 
+Population 50,001 - 100,000
+2%
+$8,300.000
+$8,134.00
+100
+5Y-T3-Inst1-OT
+Remix Technologies LLC
+First Remix Product - 5Y Contract - Installation Fee: 101-500 Buses or 
+Population 100,001 - 250,000
+2%
+$11,000.00
+$10,780.00
+101
+5Y-T4-Inst1-OT
+Remix Technologies LLC
+First Remix Product - 5Y Contract - Installation Fee: 501+ Buses or 
+Population 250,001+
+2%
+$13,900.00
+$13,622.00
+102
+1Y-T1-RTNO-RR
+Remix Technologies LLC
+Remix Planning for Org Not Operating Buses - 1Y Contract - Fee per Bus 
+per Year: 0-50 Buses, Subject Always to a $18,690 Annual Minimum
+2%
+$204.00
+$199.92
+103
+1Y-T2-RTNO-RR
+Remix Technologies LLC
+Remix Planning for Org Not Operating Buses - 1Y Contract - Fee per Bus 
+per Year: 51-100 Buses, Subject Always to a $18,690 Annual Minimum
+2%
+$201.00
+$196.98
+104
+1Y-T3-RTNO-RR
+Remix Technologies LLC
+Remix Planning for Org Not Operating Buses - 1Y Contract - Fee per Bus 
+per Year: 101-500 Buses, Subject Always to a $18,690 Annual Minimum
+2%
+$196.00
+$192.08
+105
+1Y-T4-RTNO-RR
+Remix Technologies LLC
+Remix Planning for Org Not Operating Buses - 1Y Contract - Fee per Bus 
+per Year: 501+ Buses, Subject Always to a $18,690 Annual Minimum
+2%
+$192.00
+$188.16
+106
+3Y-T1-RTNO-RR
+Remix Technologies LLC
+Remix Planning for Org Not Operating Buses - 3Y Contract - Fee per Bus 
+per Year: 0-50 Buses, Subject Always to a $18,690 Annual Minimum
+2%
+$200.00
+$196.00
+107
+3Y-T2-RTNO-RR
+Remix Technologies LLC
+Remix Planning for Org Not Operating Buses - 3Y Contract - Fee per Bus 
+per Year: 51-100 Buses, Subject Always to a $18,690 Annual Minimum
+2%
+$195.00
+$191.10
+108
+3Y-T3-RTNO-RR
+Remix Technologies LLC
+Remix Planning for Org Not Operating Buses - 3Y Contract - Fee per Bus 
+per Year: 101-500 Buses, Subject Always to a $18,690 Annual Minimum
+2%
+$191.00
+$187.18
+109
+3Y-T4-RTNO-RR
+Remix Technologies LLC
+Remix Planning for Org Not Operating Buses - 3Y Contract - Fee per Bus 
+per Year: 501+ Buses, Subject Always to a $18,690 Annual Minimum
+2%
+$186.00
+$182.28
+110
+5Y-T1-RTNO-RR
+Remix Technologies LLC
+Remix Planning for Org Not Operating Buses - 5Y Contract - Fee per Bus 
+per Year: 0-50 Buses, Subject Always to a $18,690 Annual Minimum
+2%
+$194.00
+$190.12
+111
+5Y-T2-RTNO-RR
+Remix Technologies LLC
+Remix Planning for Org Not Operating Buses - 5Y Contract - Fee per Bus 
+per Year: 51-100 Buses, Subject Always to a $18,690 Annual Minimum
+2%
+$188.00
+$184.24
+112
+5Y-T3-RTNO-RR
+Remix Technologies LLC
+Remix Planning for Org Not Operating Buses - 5Y Contract - Fee per Bus 
+per Year: 101-500 Buses, Subject Always to a $18,690 Annual Minimum
+2%
+$185.00
+$181.30
+113
+5Y-T4-RTNO-RR
+Remix Technologies LLC
+Remix Planning for Org Not Operating Buses - 5Y Contract - Fee per Bus 
+per Year: 501+ Buses, Subject Always to a $18,690 Annual Minimum
+2%
+$180.00
+$176.40
+114
+1Y-T1-ROdPNO-RR
+Remix Technologies LLC
+Remix On-Demand Planning (Requires Planning Contract) for Org Not 
+Operating Buses- 1Y Contract - Fee per Bus per Year: 0-50 Buses, Subject 
+Always to a $5,500 Annual Minimum
+2%
+$71.00
+$69.58
+115
+1Y-T2-ROdPNO-RR
+Remix Technologies LLC
+Remix On-Demand Planning (Requires Planning Contract) for Org Not 
+Operating Buses- 1Y Contract - Fee per Bus per Year: 51-100 Buses, 
+Subject Always to a $5,500 Annual Minimum
+2%
+$70.00
+$68.60
+116
+1Y-T3-ROdPNO-RR
+Remix Technologies LLC
+Remix On-Demand Planning (Requires Planning Contract) for Org Not 
+Operating Buses- 1Y Contract - Fee per Bus per Year: 101-500 Buses, 
+Subject Always to a $5,500 Annual Minimum
+2%
+$68.00
+$66.64
+117
+1Y-T4-ROdPNO-RR
+Remix Technologies LLC
+Remix On-Demand Planning (Requires Planning Contract) for Org Not 
+Operating Buses- 1Y Contract - Fee per Bus per Year: 501+ Buses, Subject 
+Always to a $5,500 Annual Minimum
+2%
+$66.00
+$64.68
+118
+3Y-T1-ROdPNO-RR
+Remix Technologies LLC
+Remix On-Demand Planning (Requires Planning Contract) for Org Not 
+Operating Buses- 3Y Contract - Fee per Bus per Year: 0-50 Buses, Subject 
+Always to a $5,500 Annual Minimum
+2%
+$69.00
+$67.62
+119
+3Y-T2-ROdPNO-RR
+Remix Technologies LLC
+Remix On-Demand Planning (Requires Planning Contract) for Org Not 
+Operating Buses- 3Y Contract - Fee per Bus per Year: 51-100 Buses, 
+Subject Always to a $5,500 Annual Minimum
+2%
+$68.00
+$66.64
+120
+3Y-T3-ROdPNO-RR
+Remix Technologies LLC
+Remix On-Demand Planning (Requires Planning Contract) for Org Not 
+Operating Buses- 3Y Contract - Fee per Bus per Year: 101-500 Buses, 
+Subject Always to a $5,500 Annual Minimum
+2%
+$66.00
+$64.68
+121
+3Y-T4-ROdPNO-RR
+Remix Technologies LLC
+Remix On-Demand Planning (Requires Planning Contract) for Org Not 
+Operating Buses- 3Y Contract - Fee per Bus per Year: 501+ Buses, Subject 
+Always to a $5,500 Annual Minimum
+2%
+$65.00
+$63.70
+122
+5Y-T1-ROdPNO-RR
+Remix Technologies LLC
+Remix On-Demand Planning (Requires Planning Contract) for Org Not 
+Operating Buses- 5Y Contract - Fee per Bus per Year: 0-50 Buses, Subject 
+Always to a $5,500 Annual Minimum
+2%
+$67.00
+$65.66
+123
+5Y-T2-ROdPNO-RR
+Remix Technologies LLC
+Remix On-Demand Planning (Requires Planning Contract) for Org Not 
+Operating Buses- 5Y Contract - Fee per Bus per Year: 51-100 Buses, 
+Subject Always to a $5,500 Annual Minimum
+2%
+$66.00
+$64.68
+124
+5Y-T3-ROdPNO-RR
+Remix Technologies LLC
+Remix On-Demand Planning (Requires Planning Contract) for Org Not 
+Operating Buses- 5Y Contract - Fee per Bus per Year: 101-500 Buses, 
+Subject Always to a $5,500 Annual Minimum
+2%
+$65.00
+$63.70
+125
+5Y-T4-ROdPNO-RR
+Remix Technologies LLC
+Remix On-Demand Planning (Requires Planning Contract) for Org Not 
+Operating Buses- 5Y Contract - Fee per Bus per Year: 501+ Buses, Subject 
+Always to a $5,500 Annual Minimum
+2%
+$64.00
+$62.72
+126
+1Y-T1-RSchNO-RR
+Remix Technologies LLC
+Remix Scheduling for Org Not Operating Buses - 1Y Contract - Fee per Bus 
+per Year: 0-50 Buses, Subject Always to a $28,930 Annual Minimum
+2%
+$736.00
+$721.28
+127
+1Y-T2-RSchNO-RR
+Remix Technologies LLC
+Remix Scheduling for Org Not Operating Buses - 1Y Contract - Fee per Bus 
+per Year: 51-100 Buses, Subject Always to a $28,930 Annual Minimum
+2%
+$728.00
+$713.44
+128
+1Y-T3-RSchNO-RR
+Remix Technologies LLC
+Remix Scheduling for Org Not Operating Buses - 1Y Contract - Fee per Bus 
+per Year: 101-500 Buses, Subject Always to a $28,930 Annual Minimum
+2%
+$720.00
+$705.60
+129
+1Y-T4-RSchNO-RR
+Remix Technologies LLC
+Remix Scheduling for Org Not Operating Buses - 1Y Contract - Fee per Bus 
+per Year: 501+ Buses, Subject Always to a $28,930 Annual Minimum
+2%
+$713.00
+$698.74
+130
+3Y-T1-RSchNO-RR
+Remix Technologies LLC
+Remix Scheduling for Org Not Operating Buses - 3Y Contract - Fee per Bus 
+per Year: 0-50 Buses, Subject Always to a $28,100 Annual Minimum
+2%
+$715.00
+$700.70
+131
+3Y-T2-RSchNO-RR
+Remix Technologies LLC
+Remix Scheduling for Org Not Operating Buses - 3Y Contract - Fee per Bus 
+per Year: 51-100 Buses, Subject Always to a $28,100 Annual Minimum
+2%
+$708.00
+$693.84
+132
+3Y-T3-RSchNO-RR
+Remix Technologies LLC
+Remix Scheduling for Org Not Operating Buses - 3Y Contract - Fee per Bus 
+per Year: 101-500 Buses, Subject Always to a $28,100 Annual Minimum
+2%
+$698.00
+$684.04
+133
+3Y-T4-RSchNO-RR
+Remix Technologies LLC
+Remix Scheduling for Org Not Operating Buses - 3Y Contract - Fee per Bus 
+per Year: 501+ Buses, Subject Always to a $28,100 Annual Minimum
+2%
+$691.00
+$677.18
+134
+5Y-T1-RSchNO-RR
+Remix Technologies LLC
+Remix Scheduling for Org Not Operating Buses - 5Y Contract - Fee per Bus 
+per Year: 0-50 Buses, Subject Always to a $27,300 Annual Minimum
+2%
+$694.00
+$680.12
+RFP 25-08   |  39
+
+135
+5Y-T2-RSchNO-RR
+Remix Technologies LLC
+Remix Scheduling for Org Not Operating Buses - 5Y Contract - Fee per Bus 
+per Year: 51-100 Buses, Subject Always to a $27,300 Annual Minimum
+2%
+$686.00
+$672.28
+136
+5Y-T3-RSchNO-RR
+Remix Technologies LLC
+Remix Scheduling for Org Not Operating Buses - 5Y Contract - Fee per Bus 
+per Year: 101-500 Buses, Subject Always to a $27,300 Annual Minimum
+2%
+$677.00
+$663.46
+137
+5Y-T4-RSchNO-RR
+Remix Technologies LLC
+Remix Scheduling for Org Not Operating Buses - 5Y Contract - Fee per Bus 
+per Year: 501+ Buses, Subject Always to a $27,300 Annual Minimum
+2%
+$670.00
+$656.60
+138
+1Y-T1-RStTA-RR
+Remix Technologies LLC
+Remix Streets for Transit Agencies - 1Y Contract - Fee per Person per Year: 
+Population 0-50,000, Subject Always to a $18,000 Annual Minimum
+2%
+$0.09
+$0.09
+139
+1Y-T2-RStTA-RR
+Remix Technologies LLC
+Remix Streets for Transit Agencies - 1Y Contract - Fee per Person per Year: 
+Population 50,001-100,000, Subject Always to a $18,000 Annual 
+Minimum
+2%
+$0.09
+$0.09
+140
+1Y-T3-RStTA-RR
+Remix Technologies LLC
+Remix Streets for Transit Agencies - 1Y Contract - Fee per Person per Year: 
+Population 100,001-250,000, Subject Always to a $18,000 Annual 
+Minimum
+2%
+$0.09
+$0.09
+141
+1Y-T4-RStTA-RR
+Remix Technologies LLC
+Remix Streets for Transit Agencies - 1Y Contract - Fee per Person per Year: 
+Population 250,001-500,000, Subject Always to a $18,000 Annual 
+Minimum
+2%
+$0.09
+$0.09
+142
+1Y-T5-RStTA-RR
+Remix Technologies LLC
+Remix Streets for Transit Agencies - 1Y Contract - Fee per Person per Year: 
+Population 500,001-1,000,000, Subject Always to a $18,000 Annual 
+Minimum
+2%
+$0.07
+$0.07
+143
+1Y-T6-RStTA-RR
+Remix Technologies LLC
+Remix Streets for Transit Agencies - 1Y Contract - Fee per Person per Year: 
+Population 1,000,001+, Subject Always to a $18,000 Annual Minimum
+2%
+$0.02
+$0.02
+144
+3Y-T1-RStTA-RR
+Remix Technologies LLC
+Remix Streets for Transit Agencies - 3Y Contract - Fee per Person per Year: 
+Population 0-50,000, Subject Always to a $18,000 Annual Minimum
+2%
+$0.09
+$0.09
+145
+3Y-T2-RStTA-RR
+Remix Technologies LLC
+Remix Streets for Transit Agencies - 3Y Contract - Fee per Person per Year: 
+Population 50,001-100,000, Subject Always to a $18,000 Annual 
+Minimum
+2%
+$0.09
+$0.09
+146
+3Y-T3-RStTA-RR
+Remix Technologies LLC
+Remix Streets for Transit Agencies - 3Y Contract - Fee per Person per Year: 
+Population 100,001-250,000, Subject Always to a $18,000 Annual 
+Minimum
+2%
+$0.09
+$0.09
+147
+3Y-T4-RStTA-RR
+Remix Technologies LLC
+Remix Streets for Transit Agencies - 3Y Contract - Fee per Person per Year: 
+Population 250,001-500,000, Subject Always to a $18,000 Annual 
+Minimum
+2%
+$0.09
+$0.09
+148
+3Y-T5-RStTA-RR
+Remix Technologies LLC
+Remix Streets for Transit Agencies - 3Y Contract - Fee per Person per Year: 
+Population 500,001-1,000,000, Subject Always to a $18,000 Annual 
+Minimum
+2%
+$0.072
+$0.07
+149
+3Y-T6-RStTA-RR
+Remix Technologies LLC
+Remix Streets for Transit Agencies - 3Y Contract - Fee per Person per Year: 
+Population 1,000,001+, Subject Always to a $18,000 Annual Minimum
+2%
+$0.021
+$0.02
+150
+5Y-T1-RStTA-RR
+Remix Technologies LLC
+Remix Streets for Transit Agencies - 5Y Contract - Fee per Person per Year: 
+Population 0-50,000, Subject Always to a $18,000 Annual Minimum
+2%
+$0.082
+$0.08
+151
+5Y-T2-RStTA-RR
+Remix Technologies LLC
+Remix Streets for Transit Agencies - 5Y Contract - Fee per Person per Year: 
+Population 50,001-100,000, Subject Always to a $18,000 Annual 
+Minimum
+2%
+$0.082
+$0.08
+152
+5Y-T3-RStTA-RR
+Remix Technologies LLC
+Remix Streets for Transit Agencies - 5Y Contract - Fee per Person per Year: 
+Population 100,001-250,000, Subject Always to a $18,000 Annual 
+Minimum
+2%
+$0.082
+$0.08
+153
+5Y-T4-RStTA-RR
+Remix Technologies LLC
+Remix Streets for Transit Agencies - 5Y Contract - Fee per Person per Year: 
+Population 250,001-500,000, Subject Always to a $18,000 Annual 
+Minimum
+2%
+$0.082
+$0.08
+154
+5Y-T5-RStTA-RR
+Remix Technologies LLC
+Remix Streets for Transit Agencies - 5Y Contract - Fee per Person per Year: 
+Population 500,001-1,000,000, Subject Always to a $18,000 Annual 
+Minimum
+2%
+$0.072
+$0.07
+155
+5Y-T6-RStTA-RR
+Remix Technologies LLC
+Remix Streets for Transit Agencies - 5Y Contract - Fee per Person per Year: 
+Population 1,000,001+, Subject Always to a $18,000 Annual Minimum
+2%
+$0.021
+$0.02
+156
+T1-RCS-HR
+Remix Technologies LLC
+Fee per Hour for Consulting Services
+2%
+$271.000
+$265.58
+157
+1Y-T1-ROps-RR
+Remix Technologies LLC
+Remix Operations Module - 1Y Contract - Fee per Bus per Year: 0-50 
+Buses (Requires Remix Planning + Scheduling License)
+2%
+$315.000
+$308.70
+158
+1Y-T2-ROps-RR
+Remix Technologies LLC
+Remix Operations Module - 1Y Contract - Fee per Bus per Year: 51-100 
+Buses (Requires Remix Planning + Scheduling License)
+2%
+$312.000
+$305.76
+159
+1Y-T3-ROps-RR
+Remix Technologies LLC
+Remix Operations Module - 1Y Contract - Fee per Bus per Year: 101-500 
+Buses (Requires Remix Planning + Scheduling License)
+2%
+$309.000
+$302.82
+160
+1Y-T4-ROps-RR
+Remix Technologies LLC
+Remix Operations Module - 1Y Contract - Fee per Bus per Year: 500+ 
+Buses (Requires Remix Planning + Scheduling License)
+2%
+$305.000
+$298.90
+161
+3Y-T1-ROps-RR
+Remix Technologies LLC
+Remix Operations Module - 3Y Contract - Fee per Bus per Year: 0-50 
+Buses (Requires Remix Planning + Scheduling License)
+2%
+$307.000
+$300.86
+162
+3Y-T2-ROps-RR
+Remix Technologies LLC
+Remix Operations Module - 3Y Contract - Fee per Bus per Year: 51-100 
+Buses (Requires Remix Planning + Scheduling License)
+2%
+$303.000
+$296.94
+163
+3Y-T3-ROps-RR
+Remix Technologies LLC
+Remix Operations Module - 3Y Contract - Fee per Bus per Year: 101-500 
+Buses (Requires Remix Planning + Scheduling License)
+2%
+$300.000
+$294.00
+164
+3Y-T4-ROps-RR
+Remix Technologies LLC
+Remix Operations Module - 3Y Contract - Fee per Bus per Year: 500+ 
+Buses (Requires Remix Planning + Scheduling License)
+2%
+$297.000
+$291.06
+165
+5Y-T1-ROps-RR
+Remix Technologies LLC
+Remix Operations Module - 5Y Contract - Fee per Bus per Year: 0-50 
+Buses (Requires Remix Planning + Scheduling License)
+2%
+$298.000
+$292.04
+166
+5Y-T2-ROps-RR
+Remix Technologies LLC
+Remix Operations Module - 5Y Contract - Fee per Bus per Year: 51-100 
+2%
+$294.000
+$288.12
+167
+5Y-T3-ROps-RR
+Remix Technologies LLC
+Remix Operations Module - 5Y Contract - Fee per Bus per Year: 101-500 
+2%
+$290.000
+$284.20
+168
+5Y-T4-ROps-RR
+Remix Technologies LLC
+Remix Operations Module - 5Y Contract - Fee per Bus per Year: 500+ 
+2%
+$286.000
+$280.28
+RFP 25-08   |  40
+
+RFP 25-08 
+Proprietary and Confidential Information 
+Via Transportation, Inc.’s (“Via”) response and all supporting documentation, including 
+associated exhibits and appendices, contain confidential information exempt from 
+disclosure under Tex. Gov’t Code § 552. The confidential materials include, but are not 
+limited to, information relating to back-end application processes, proprietary algorithms, 
+unique business methodologies, third party references, and sensitive information on key 
+performance indicators. This information is exempt from disclosure under several 
+provisions of Tex. Gov’t Code § 552, including but not limited to Tex. Gov't Code § 552.110 
+(as trade secrets and confidential commercial and financial information) and Tex. Gov't 
+Code § 552.1101 (as proprietary information submitted by a potential vendor or contractor 
+in response to a bid, proposal, or qualification that would reveal an individual approach to 
+work, organizational structure, staffing, internal operations, processes, or pricing 
+methodology, and would give advantage to a competitor if released). Accordingly, we 
+request that your office maintain the confidentiality of Via’s response and provide Via with 
+timely notice of any third party’s request for these materials prior to production by 
+contacting compliance@ridewithvia.com. 
+ 
+Please see the table on the following pages for the specific information we declare to be a 
+trade secret or proprietary and exempt from disclosure under the Public Information Act. 
+ 
+ 
+Proprietary, Confidential, and Trade Secret Information​
+       RFP No. 25-08  |  1 
+ 
+
+ 
+Page/Section 
+Trade 
+Secrets 
+Tex. Gov’t 
+Code § 
+552.110(b) 
+Commercial 
+or Financial 
+Information 
+Tex. Gov’t 
+Code § 
+552.110(c) 
+Proprietary 
+information 
+that would 
+reveal an 
+individual 
+approach to 
+work, 
+organizational 
+structure, 
+staffing, 
+internal 
+operations, 
+processes, or 
+pricing 
+methodology 
+Tex. Gov’t 
+Code § 
+552.1101 
+Confidential 
+Personnel 
+Information 
+Tex. Gov’t 
+Code § 
+552.102(a) 
+Reason for Redaction 
+ 
+Attributes 
+Questions 18 - 
+23: References 
+X 
+ 
+X 
+X 
+This contains confidential 
+information about Via’s other 
+partners and details 
+regarding the Via services 
+they purchase. This list of 
+references and the way in 
+which each uses Via’s 
+services is maintained 
+confidentially by Via and 
+constitutes proprietary trade 
+secret information. 
+ 
+This also contains 
+personally identifying 
+information of individuals, 
+the disclosure of which 
+would constitute an 
+inappropriate invasion of 
+personal privacy. 
+Proprietary, Confidential, and Trade Secret Information​
+       RFP No. 25-08  |  2 
+ 
+
+Question 48: 
+Past litigation, 
+bankruptcy, 
+reorganization, 
+state 
+investigations 
+ 
+X 
+X 
+ 
+This contains confidential 
+sensitive information 
+regarding Via's eligibility 
+status and related 
+disclosures. Via takes efforts 
+to limit the sharing of this 
+company information, and 
+such information constitutes 
+confidential commercial 
+information that would reveal 
+sensitive details to 
+competitors if disclosed. 
+Question 76: Top 
+10 Public 
+Agency 
+Customers 
+X 
+X 
+X 
+X 
+This contains confidential 
+information about Via’s other 
+partners and details 
+regarding the Via services 
+they purchase. This list of 
+references and the way in 
+which each uses Via’s 
+services is maintained 
+confidentially by Via and 
+constitutes proprietary trade 
+secret information. 
+ 
+This also contains 
+personally identifying 
+information of individuals, 
+the disclosure of which 
+would constitute an 
+inappropriate invasion of 
+personal privacy. 
+"Products and Pricing" Attachment 
+Product Catalog; 
+"Microtransit, 
+Paratransit, and 
+Non-Emergency 
+Medical 
+Transportation 
+Software" 
+Section; "Via 
+Operations 
+Center (VOC)" 
+Subsection 
+(Page 12, line 10 
+X 
+ 
+ 
+ 
+This contains images and 
+information relating to Via’s 
+proprietary console; detailed 
+descriptions of the scope of 
+its software capabilities; and 
+descriptions of back-end 
+application and software 
+processes. This information 
+is maintained confidentially 
+by Via and constitutes 
+proprietary trade secret 
+information. 
+Proprietary, Confidential, and Trade Secret Information​
+       RFP No. 25-08  |  3 
+ 
+
+- Page 17) 
+Product Catalog, 
+"Transit Planning 
+Software", 
+"Fixed-Route 
+Transportation 
+Scheduling 
+Software", 
+"On-Demand 
+Transportation 
+Planning 
+Software", 
+"Street Design 
+Software" 
+Sections (Page 
+20, line 23 - 
+Page 30, line 5) 
+X 
+ 
+ 
+ 
+This contains images and 
+information relating to Via’s 
+proprietary console; detailed 
+descriptions of the scope of 
+its software capabilities; and 
+descriptions of back-end 
+application and software 
+processes. This information 
+is maintained confidentially 
+by Via and constitutes 
+proprietary trade secret 
+information. 
+Product Catalog, 
+"Mobility-as-a-​
+Service 
+(Citymapper for 
+Cities)” Section, 
+"Unparalleled 
+data insights 
+from a unified 
+suite of tools" 
+Subsection 
+(Page 31, line 31 
+- Page 32, line 
+17) 
+X 
+ 
+ 
+ 
+This contains images and 
+information relating to Via’s 
+proprietary console; detailed 
+descriptions of the scope of 
+its software capabilities; and 
+descriptions of back-end 
+application and software 
+processes. This information 
+is maintained confidentially 
+by Via and constitutes 
+proprietary trade secret 
+information. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Proprietary, Confidential, and Trade Secret Information​
+       RFP No. 25-08  |  4 
+ 
+
+"Other Attachments": Proposal 
+Section B.3, 
+Customer 
+References 
+(Page 13) 
+X 
+ 
+X 
+X 
+This contains confidential 
+information about Via’s other 
+partners and details 
+regarding the Via services 
+they purchase. This list of 
+references and the way in 
+which each uses Via’s 
+services is maintained 
+confidentially by Via and 
+constitutes proprietary trade 
+secret information. 
+ 
+This also contains 
+personally identifying 
+information of individuals, 
+the disclosure of which 
+would constitute an 
+inappropriate invasion of 
+personal privacy. 
+Section C.5, 
+Service Levels 
+(Page 19, line 26 
+- Page 20, line 
+16) 
+X 
+ 
+X 
+ 
+This contains details 
+regarding Via’s processes 
+for responding to issues. 
+This information is 
+maintained confidentially by 
+Via and constitutes 
+proprietary trade secret and 
+confidential commercial 
+information 
+Section C.9.ii, 
+Data Protection 
+(Page 27, line 13 
+- Page 28, line 
+12) 
+ 
+ 
+ 
+ 
+This contains details 
+regarding Via’s backend 
+information security 
+processes and protocols. It 
+is maintained confidentially 
+by Via and constitutes trade 
+secret and confidential 
+commercial information. 
+Section C.10.i, 
+Features and 
+Capabilities of 
+User Interface 
+(Page 34, line 9 - 
+Page 36, line 11) 
+X 
+ 
+X 
+ 
+This contains 
+comprehensive 
+characterizations of product 
+features, including details 
+about service capabilities 
+and backend features. This 
+information is maintained 
+confidentially by Via and 
+constitutes proprietary trade 
+Proprietary, Confidential, and Trade Secret Information​
+       RFP No. 25-08  |  5 
+ 
+
+secret information. 
+Section C.10.ii, 
+Booking Options 
+(Page 36, line 31 
+- Page 38, line 
+13) 
+X 
+ 
+ 
+ 
+This contains images and 
+information relating to Via’s 
+proprietary console; detailed 
+descriptions of the scope of 
+its software capabilities; and 
+descriptions of back-end 
+application and software 
+processes. This information 
+is maintained confidentially 
+by Via and constitutes 
+proprietary trade secret 
+information. 
+Section 
+D.2.3.1.B, 
+Number and 
+Location of 
+Salespersons, 
+(Page 43, lines 
+18 - 20) 
+X 
+ 
+X 
+ 
+This contains information 
+about Via’s team 
+composition. This 
+information reveals Via’s 
+confidential business 
+methods, is maintained 
+confidentially by Via, and 
+constitutes proprietary trade 
+secret information. 
+Section 
+D.2.3.1.B, 
+Annual Sales, 
+(Page 43, line 31 
+- Page 44, line 3)  
+X 
+ 
+ 
+This contains information 
+about Via's sales volume, 
+which constitutes 
+commercial or financial 
+information. 
+Section G.1, 
+Long-Term Cost 
+Impact (Page 52, 
+line 4 - 15) 
+ 
+X 
+ 
+ 
+This contains information 
+about Via's sales volume, 
+which constitutes 
+commercial or financial 
+information. 
+​
+Appendix: Dun & 
+Bradstreet 
+Report (Page 57 
+- 69) 
+ 
+X 
+ 
+ 
+This contains information 
+about Via's financial status, 
+which constitutes 
+commercial or financial 
+information. 
+"Other Attachments": Litigation Disclosures 
+Pages 1- 2 
+ 
+X 
+X 
+ 
+This contains confidential 
+sensitive information 
+regarding Via's eligibility 
+status and related 
+disclosures. Via takes efforts 
+Proprietary, Confidential, and Trade Secret Information​
+       RFP No. 25-08  |  6 
+ 
+
+to limit the sharing of this 
+company information, and 
+such information constitutes 
+confidential commercial 
+information that would reveal 
+sensitive details to 
+competitors if disclosed. 
+ 
+ 
+ 
+ 
+Proprietary, Confidential, and Trade Secret Information​
+       RFP No. 25-08  |  7 
+ 
+
+Intellectual Property 
+The Via Transportation, Inc. products are protected by one or more of the following U.S., 
+European or International Patents: 
+ 
+US: 9,816,824 ; 9,562,785 ; 10,197,411 ; 10,677,604 ; 10,168,168 ; 10,168,167 ; 10,458,803 ; 
+10,677,602 ; 11,107,352 ; and other patents pending. 
+ 
+Europe:  EP3355028; NL3355028; FR3355028; GB3355028 ; DE3355028 ; and other 
+patents pending. 
+ 
+ 
+Proprietary, Confidential, and Trade Secret Information​
+       RFP No. 25-08  |  8 
+ 
+
+Controlling
+Name of Interested Party
+4
+Nature of interest
+City, State, Country (place of business)
+Intermediary
+(check applicable)
+CERTIFICATE OF INTERESTED PARTIES
+1295
+FORM
+1 of 2
+1
+OFFICE USE ONLY
+2
+04/23/2025
+Complete Nos. 1 - 4 and 6 if there are interested parties.
+Complete Nos. 1, 2, 3, 5, and 6 if there are no interested parties.
+Name of business entity filing form, and the city, state and country of the business entity's place
+of business.
+Via Transportation, Inc.
+New York, NY United States
+Name of governmental entity or state agency that is a party to the contract for which the form is
+being filed.
+Provide the identification number used by the governmental entity or state agency to track or identify the contract, and provide a
+description of the services, goods, or other property to be provided under the contract.
+3
+Region 4 Education Service Center
+Cooperative purchasing agreement for rideshare, meals, and logistics solutions
+25-08
+2025-1300008
+Date Filed:
+Date Acknowledged:
+Certificate Number:
+CERTIFICATION OF FILING
+Exor N.V.
+X
+Amsterdam North Holland
+Peres, Chemi
+X
+Tel Aviv Gush Dan Israel
+Shoval, Oren
+X
+Tel Aviv Gush Dan Israel
+Nix, Billy
+X
+Washington, DC United States
+Ohana, Noam
+X
+New York, NY United States
+Rivkin, Charles
+X
+Washington, DC United States
+Ramot, Daniel
+X
+New York, NY United States
+COO, -
+X
+New York, NY United States
+CEO, -
+X
+New York, NY United States
+CFO, -
+X
+New York, NY United States
+CRO, -
+X
+New York, NY United States
+Smith, Sarah
+X
+New York, NY United States
+Dinur, Arnon
+X
+Tel Aviv Gush Dan Israel
+Version V4.1.0.e02d6221
+www.ethics.state.tx.us
+Forms provided by Texas Ethics Commission
+Docusign Envelope ID: EA5617B1-0E40-48B3-9E43-3F511D5FDE54
+
+Controlling
+Name of Interested Party
+4
+Nature of interest
+City, State, Country (place of business)
+Intermediary
+(check applicable)
+CERTIFICATE OF INTERESTED PARTIES
+1295
+FORM
+2 of 2
+1
+OFFICE USE ONLY
+2
+04/23/2025
+Complete Nos. 1 - 4 and 6 if there are interested parties.
+Complete Nos. 1, 2, 3, 5, and 6 if there are no interested parties.
+Name of business entity filing form, and the city, state and country of the business entity's place
+of business.
+Via Transportation, Inc.
+New York, NY United States
+Name of governmental entity or state agency that is a party to the contract for which the form is
+being filed.
+Provide the identification number used by the governmental entity or state agency to track or identify the contract, and provide a
+description of the services, goods, or other property to be provided under the contract.
+3
+Region 4 Education Service Center
+Cooperative purchasing agreement for rideshare, meals, and logistics solutions
+25-08
+2025-1300008
+Date Filed:
+Date Acknowledged:
+Certificate Number:
+CERTIFICATION OF FILING
+6
+Signature of authorized agent of contracting business entity
+My name is _______________________________________________________________,
+UNSWORN DECLARATION
+Check only if there is NO Interested Party.
+5
+My address is _______________________________________________, _______________________,
+and my date of birth is _______________________.
+Executed in ________________________________________County,
+I declare under penalty of perjury that the foregoing is true and correct.
+(street)
+(state)
+(zip code)
+(country)
+(year)
+(month)
+ _______, ______________, _________.
+State of ________________, on the _____day of ___________, 20_____.
+(city)
+(Declarant)
+Version V4.1.0.e02d6221
+www.ethics.state.tx.us
+Forms provided by Texas Ethics Commission
+Clara Fain
+10/02/1985
+New York
+NY
+10075
+USA
+151 East 80th street, Apt 10A
+New York
+New York
+24th
+April
+25
+Docusign Envelope ID: EA5617B1-0E40-48B3-9E43-3F511D5FDE54
+
+On-Demand Transportation 
+Rideshare), Meals, and 
+Logistics Solutions
+PROPOSAL
+Region 4 Education Service Center
+Request for Proposal | No. 2508
+April 24, 2025
+Submitted by Via Transportation, Inc.
+
+Via Transportation, Inc. 
+114 5th Avenue, 17th Floor 
+New York, NY 10011 
+Subject: Request for Proposal No. 25-08 for On-Demand Transportation (Rideshare), 
+Meals, and Logistics Solutions 
+To: Region 4 Education Service Center (ESC) 
+Attn: Region 4 ESC Purchasing 
+Dear Region 4 ESC Purchasing, 
+We are excited to propose adding Via’s innovative catalog of transportation products, 
+technology, and associated services to the solutions available to the purchasing members 
+of OMNIA Partners, as well as to other public agencies through Region 4. Many of our 
+customers are active OMNIA members, and we are committed to deepening our support 
+for their needs while expanding our reach to other members and public agencies, as well 
+as bringing new members to OMNIA as purchasers. 
+Our offerings encompass a diverse array of solutions from a single provider, including 
+turnkey integrated software and operations; comprehensive technology-enabled 
+management for student transit; microtransit, paratransit, senior transportation, and 
+non-emergency medical transportation (NEMT) software; transit network planning 
+software and services; and rider-facing tools for full network journey planning. These 
+solutions allow our partners to seamlessly connect with existing transportation networks 
+to improve mobility and provide communities with better access to education, jobs, 
+healthcare, and essential services. 
+Our proposal for Region 4 ESC is centered on: 
+Global experience providing on-demand transportation services 
+Since Via launched what we believe to be the world’s first on-demand, shared 
+transportation service in New York City in 2013, we have developed a suite of 
+sophisticated operational models and software products to deliver over 165 million rides 
+across the services we power. Today, we directly operate more than 100 transit services 
+around the world, with over 1,350 vehicles on the roads every day, and provide software 
+solutions for more than 650 partners globally. We have significant experience working 
+with partners of all sizes and complexity: the world’s largest and most innovative 
+    RFP No. 25-08  |  2 
+
+agencies, as well as small communities and school districts, trust Via to power, operate, 
+and optimize their transit networks as a result of our extensive operational experience, 
+technical capabilities, and passion for collaboration and innovation. These partnerships 
+have given us a deep understanding of the day-to-day realities that public entities and 
+nonprofits, including school districts, cities, counties, and regional agencies, face in 
+delivering public transportation, and have directly informed our operational models and 
+software development. By partnering with Via, OMNIA Participating Public Agencies, and 
+other public agencies that contract through Region 4, will benefit from our specific 
+expertise in tailoring our services according to the unique needs of our customers and 
+their communities. 
+Purchasing cooperative-centric sales strategy and highly trained sales force 
+Cooperative purchasing has become an integral part of our sales strategy at Via, enabling 
+us to provide OMNIA members with efficient and cost-effective procurement solutions 
+tailored to their specific transportation needs. We are proud to be included in the catalogs 
+of established cooperatives such as the 791 Cooperative Purchasing Agreement, League 
+of Oregon Cities, National Association of State Procurement Officials (NASPO), NEORide, 
+and San Diego Association of Governments (SANDAG), among others. Through these 
+partnerships, we have successfully executed deals generating annual revenue between 
+$5 million and $10 million, showcasing the effectiveness of cooperative purchasing in 
+delivering accessible and efficient transit solutions across various states. 
+To support our cooperative purchasing initiatives, our sales team is trained to actively 
+explore cooperative options for every opportunity, emphasizing collaboration in delivering 
+optimal solutions. We maintain comprehensive internal resources that guide our team on 
+cooperative utilization, updated quarterly to incorporate the latest insights and best 
+    RFP No. 25-08  |  3 
+
+practices. This approach ensures that both seasoned and new team members are 
+well-equipped to leverage cooperatives effectively, maximizing value for our partners. 
+Sample of a Via's sales 
+template slide highlighting 
+how agencies can 
+leverage cooperative 
+purchasing to optimize 
+procurement and access 
+comprehensive 
+transportation solutions. 
+Moreover, we create internal case studies highlighting successful cooperative 
+engagements, regularly sharing these insights with our commercial team. This fosters a 
+culture of continuous learning and improvement, keeping us agile and informed in our 
+cooperative strategies. At Via, we treat cooperatives as true partners in our mission. Our 
+dedicated points of contact engage in collaborative brainstorming sessions with various 
+cooperatives to identify innovative ways to enhance our partnerships and better serve our 
+customers. 
+Impact-oriented company and mission-driven products 
+Public transportation serves as crucial infrastructure that underlies our collective health, 
+education, and prosperity. Ready access to transportation drives outcomes of many 
+important social indicators: better access to hospitals and medical facilities increases 
+care and improves patient outcomes; improved pupil transportation maximizes school 
+attendance and alertness in class; and greater transportation coverage increases 
+economic opportunity and yields higher rates of employment. 
+Delivering meaningful social and environmental impact is core to our TransitTech solution. 
+Our transit planning and service performance analytics allow partners to analyze the 
+impact of their transportation projects across demographic data such as race, poverty, 
+housing, and education. Our user applications are designed with accessibility at the 
+forefront and can accommodate a wide range of user needs. 
+    RFP No. 25-08  |  4 
+
+‭We are committed to providing purchasing members with superior mobility services,‬
+‭technology, and solutions that significantly improve the lives of their community‬
+‭members. We look forward to the opportunity to collaborate with OMNIA members and‬
+‭other public agencies to continue building modern, reliable, and high-quality transit‬
+‭networks that meet the evolving needs of communities across the nation.‬
+‭Thank you for considering Via as a strategic addition to your cooperative purchasing‬
+‭portfolio.‬
+‭Sincerely,‬
+‭_________________________‬
+‭Authorized Corporate‬
+‭Officer:‬
+‭Authorized Contacts:‬
+‭Clara Fain‬
+‭Chief Finance Officer‬
+‭Via Transportation, Inc.‬
+‭114 5th Avenue,‬
+‭17th Floor‬
+‭New York, NY 10011‬
+‭Courtney Halgren‬
+‭Procurement Lead‬
+‭Via Transportation, Inc.‬
+‭(888) 501-7511, ext. 4
+‭114 5th Avenue, 17th Floor
+‭New York, NY 10011
+‭courtney.halgren@ridewithvia.com
+‭Greg Centini‬
+‭Partnerships Lead‬
+‭Via Transportation, Inc.‬
+‭(888) 501-7511, ext. 4
+‭114 5th Avenue, 17th Floor
+‭New York, NY 10011
+‭greg.centini@ridewithvia.com‬
+‭RFP No. 25-08‬ ‭|‬ ‭5‬
+‭Ten years ago, Via began its partnership with Miami-Dade‬
+‭County by supplying Remix Planning software to the‬
+‭Transportation Planning Department. Since then, the‬
+‭partnership has evolved significantly. Via now powers 13‬
+‭microtransit zones across the County, including Autonomous‬
+‭Vehicle zones. Furthermore, Via provides a multi-modal rider‬
+‭application that seamlessly integrates the County's fixed‬
+‭routes, city trolleys, and on-demand services, enhancing‬
+‭overall mobility for residents.‬
+‭This collaboration has led to impressive outcomes: passenger‬
+‭wait times have decreased by 5x, walking distances to transit‬
+‭are now 3x shorter, and nearly half of all riders use Via’s‬
+‭services to seamlessly connect to other transit options.‬
+Docusign Envelope ID: EA5617B1-0E40-48B3-9E43-3F511D5FDE54
+
+Table of Contents 
+A. Purchase Price
+7 
+B. Reputation of the Vendor and of the Vendor’s Goods and Services
+11 
+C. Quality of the Vendor’s Goods and Services
+17 
+D. Extent to Which the Goods and Services Meet Region 4’s Needs
+43 
+E. Vendor’s Past Relationship with Region 4
+50 
+F. Compliance with Historically Underutilized Business (HUB) Laws and Rules
+51 
+G. Total Long-Term Cost to Region 4
+52 
+H. Principal Business Location/Employee Count
+53 
+I. Any Other Relevant Factor
+54 
+Appendix: Dun & Bradstreet Report
+57 
+    RFP No. 25-08  |  6 
+
+A. Purchase Price
+1. How does the vendor price their products, services,
+and/or solutions?
+i. Is pricing based on a discount from a manufacturer’s price list, catalog, fixed
+price, or dynamic pricing? List which pricing mechanisms are being utilized as
+part of the Offeror’s response.
+Via’s pricing is derived from our not-to-exceed pricing catalog. We believe that the
+discounts applied to our list price will provide members with a unique opportunity to
+procure Via’s state-of-the-art operational capabilities and technology at below-market
+prices. Each catalog line item can be purchased from Via individually unless otherwise
+indicated.
+Pricing is typically usage based, subject to a minimum. The unit prices are fixed for the 
+contract term (sometimes subject to annual inflation escalators). Via will work together 
+with each purchasing member to determine pricing on a case-by-case basis. When 
+turnkey operations are being purchased, price can vary depending on service specifics 
+such as location, hours of operation, vehicle type, etc.  
+ii. Include price and product, service, and/or solutions lists with the following
+information, if applicable: manufacturer or other part number, product/service
+description, manufacturers suggested or other list price, and net price.
+Our pricing catalog with part numbers, descriptions, and prices can be found in the
+“Products and Pricing” attachment in Ion Wave.
+iii. For dynamic pricing option, include the products, services, and/or solutions
+being offered under dynamic pricing and a sample of the pricing, charges, and
+any fees.
+Via’s unit prices are fixed for the contract term. We therefore have not provided dynamic
+pricing.
+iv. Include any value added products, services, and/or solutions including any
+rebate and/or incentive programs.
+Via’s submitted pricing catalog includes tiers and ranges that reflect volume-based
+discounts. In addition, participating agencies will receive the following benefits:
+    RFP No. 25-08  |  7 
+
+(1) Special access to Via’s transit consulting team, Via Strategies. As a part of every
+project that participating agencies conduct with Via, Via will conduct a free transit
+network analysis to be presented prior to contract award.
+(2) If applicable, participating agencies will get access to Remix On-Demand Planning for
+free for 6-months, assuming they have not already purchased the software previously.
+2. Does the vendor offer a percentage discount for different
+categories of products/services?
+We are happy to offer a 2% discount for every item in our catalog to Participating Public 
+Agencies. 
+3. Are shipping charges, freight charges, return fees, or
+restocking fees applicable?
+Shipping charges, freight charges, return fees, and restocking fees are not applicable to 
+Via’s solutions. 
+4. How does the vendor ensure contract pricing?
+i. How can customers verify that they are getting the agreed-upon contract
+prices?
+All Via solutions are sold directly through Via or a wholly-owned subsidiary; we do not sell
+through third parties (i.e. resellers, distributors). The prices listed will be available
+immediately to purchasing members should Via be awarded a contract as the result of the
+On-Demand Transportation RFP.
+All invoices automatically go through an approval workflow within our invoicing system 
+before they are sent to customers. Approvers will review the pricing within the contracts 
+to verify consistency with the agreed-upon contract prices before approving in the 
+system and submitting for payment. 
+ii. Describe your pricing for each service and how it will be auditable by
+Participating Public Agencies.
+We have significant experience working with public agencies, as more than 90% of our
+revenue currently comes from public sector customers. We take a transparent approach
+to ensure that our customers have confidence that our pricing is fair and reasonable. For
+    RFP No. 25-08  |  8 
+
+participating agencies procuring software, the prices are clearly laid out in our catalog. 
+For participating agencies procuring turnkey operations services, we will work to prepare 
+a bespoke pricing proposal, within the not-to-exceed bounds of the rates listed in the 
+pricing catalog. We provide a breakdown of these fees in a few key categories, and after 
+the service is launched, we provide regular reporting to ensure maximum visibility for our 
+customers.  
+5. Are there additional discounts or rebates for larger orders
+or other factors?
+Our pricing catalog includes tiered pricing with volume-based discounts for Via software 
+and Remix products. For Participating Public Agencies purchasing turnkey operations, we 
+create a bespoke pricing proposal based on the service specifics such as operating 
+hours, location, vehicle type, driver requirements, etc., and our quote will typically be 
+more favorable for larger-scale purchases. 
+6. What are the available ordering methods?
+Via operates without distributors, dealers, or resellers. We rely on our highly specialized 
+sales team in North America, led by Mike Vaccarino, Chief Revenue Officer. Mike brings 
+extensive experience in launching new products and fostering partnerships with 
+government and municipal clients.  
+Mike and his team will be the primary contacts for all Region 4 and OMNIA participating 
+entities, guiding them through every step of our tailored ordering process. They are 
+backed by a dedicated launch team of service design and implementation specialists. 
+This team manages critical aspects of the service launch, including driver recruitment, 
+testing, dry runs, service configuration, localization, and ensuring a seamless transition 
+for all partners. 
+7. What is the invoicing process?
+Via’s Finance team will align on invoicing cadence and format with each participating 
+agency. Typically, Via bills our customers with Net 30 payment terms. The minimum fees, 
+which are agreed upon on a case-by-case basis, are paid annually upfront. Any usage 
+beyond the minimum is billed monthly in arrears. As part of our invoicing package, we 
+provide details about usage during the prior month (e.g., active vehicles or vehicle hours). 
+    RFP No. 25-08  |  9 
+
+Payment via Wire or ACH is preferred, but payment by check is also permitted. At this 
+time, payment by credit card or procurement card (P-card) is not accepted. 
+8. How will price updates be handled?
+We suggest periodic (annual) price adjustment, and we reserve the right to adjust prices 
+on an annual basis based upon the US BLS Consumer Price Index (we expect our price 
+adjustments to generally align with CPI). We are also often working to expand our product 
+offerings, so we may wish to add new SKUs from time to time so that our latest offerings 
+are available to participating agencies. 
+    RFP No. 25-08  |  10 
