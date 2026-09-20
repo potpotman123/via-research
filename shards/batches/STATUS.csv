@@ -26,7 +26,7 @@ skip_audit_01,sonnet,done
 tier2_sonnet_06,sonnet,done
 tier2_sonnet_07,sonnet,done
 redo_downtowner_omnia,sonnet,done
-gap_p12_01,sonnet,running
+gap_p12_01,sonnet,done
 tier2_sonnet_08,sonnet,done
 tier2_sonnet_09,sonnet,done
 tier2b_sonnet_29,sonnet,running
@@ -36,3 +36,4 @@ tier2_sonnet_10,sonnet,running
 tier2_sonnet_11,sonnet,running
 tier2_sonnet_12,sonnet,running
 tier2_sonnet_13,sonnet,running
+gap_p12_02,sonnet,running
