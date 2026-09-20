@@ -8,3 +8,6 @@
 "Remix Technologies": status None 
 "Downtowner" shuttle: 0
 "Spare Labs" transit: 0
+"RideCo" transit: 0
+ridewithvia: status None 
+wrote 75 rows -> text/enum/gdelt_articles.csv
