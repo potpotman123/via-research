@@ -13,6 +13,11 @@ tier2_sonnet_02,sonnet,running
 tier2_sonnet_03,sonnet,running
 tier2_sonnet_04,sonnet,running
 tier2_sonnet_05,sonnet,running
-tier1b_haiku_23,haiku,running
-tier1b_haiku_24,haiku,running
-tier1b_haiku_25,haiku,running
+tier1b_haiku_23,haiku,done
+tier1b_haiku_24,haiku,done
+tier1b_haiku_25,haiku,done
+targets_consolidation,sonnet,done
+tier1b_haiku_26,haiku,running
+tier1b_haiku_27,haiku,running
+tier1b_haiku_28,haiku,running
+gap_p12_00,sonnet,running
