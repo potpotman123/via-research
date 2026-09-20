@@ -110,17 +110,21 @@ with open(OUT / "qa_flags.csv", "w", newline="", encoding="utf-8") as f:
     w.writerows(flagged)
 log(f"qa flags: {len(flagged)} rows -> out/qa_flags.csv")
 
-# mix summary: count-weighted and dollar-weighted (annual where present, else total/term)
-cnt = Counter(r["scope_type"] for r in deduped)
+# mix summary over Via's own contract actions only (exclude competitor awards and app-only observations)
+via_rows = [r for r in deduped if r["contract_action"] not in ("competitor-award", "deployment-observed")]
+log(f"rows: {len(deduped)} total = {len(via_rows)} Via actions + "
+    f"{sum(1 for r in deduped if r['contract_action'] == 'competitor-award')} competitor awards + "
+    f"{sum(1 for r in deduped if r['contract_action'] == 'deployment-observed')} app-only observations")
+cnt = Counter(r["scope_type"] for r in via_rows)
 dollars = defaultdict(float)
-for r in deduped:
+for r in via_rows:
     a = num(r["annual_value_usd"])
     if a is None:
         t, y = num(r["total_value_usd"]), num(r["term_years_incl_options"])
         a = t / y if (t and y) else None
     if a:
         dollars[r["scope_type"]] += a
-post = [r for r in deduped if r["signed_after_2025_12_16"] in ("1", "TRUE", "true")]
+post = [r for r in via_rows if r["signed_after_2025_12_16"] in ("1", "TRUE", "true")]
 log(f"count-weighted: {dict(cnt)}")
 log(f"annualized $ by scope: { {k: round(v / 1e6, 1) for k, v in dollars.items()} } ($mm, rows with values only)")
 log(f"post-2025-12-16 rows: {len(post)} -> {dict(Counter(r['scope_type'] for r in post))}")
