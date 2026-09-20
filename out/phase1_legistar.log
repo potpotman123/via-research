@@ -1,0 +1,7 @@
+CC-MAIN-2026-39: 6 index pages
+CC-MAIN-2026-34: 10 index pages
+common crawl hosts: 312
+candidate clients: 539
+clients with open API: 306
+wrote 306 rows -> text/enum/legistar_clients.csv
+swept 1/306 clients, hits so far 0

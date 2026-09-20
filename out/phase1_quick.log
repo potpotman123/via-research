@@ -1,0 +1,28 @@
+##### p1_edgar
+River North Transit: 4 hits
+NoMad Transit: 5 hits
+Crosby Street Transit: 4 hits
+Via Mobility: 40 hits
+Via Transportation: 100 hits
+Via Transit: 20 hits
+Remix Technologies: 4 hits
+Downtowner: 100 hits
+Flatiron Transit: 4 hits
+Greenpoint Transit: 4 hits
+Port City Transit: 2 hits
+Tidewater Transit: 4 hits
+Sioux Falls Transit: 4 hits
+Citymapper: 58 hits
+Spare Labs: 8 hits
+RideCo: 16 hits
+wrote 377 rows -> text/enum/edgar_fts.csv
+VIA CIK 0001603015 (Via Transportation, Inc.)
+wrote 79 rows -> text/enum/via_filings.csv
+Form 4s since 2026-03-01: 6; total filings listed: 79
+##### p1_gdelt
+"River North Transit": status None 
+"NoMad Transit": status None 
+"Crosby Street Transit": status None 
+"Via Transportation" microtransit: 8
+"Via Transportation" contract: status None 
+"Via Transportation" paratransit: 0

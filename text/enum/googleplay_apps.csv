@@ -1,0 +1,101 @@
+package,title
+com.ridewithvia.addisonorbit,Addison Orbit
+ridewithvia.arlingtontexas,Arlington Transportation
+ridewithvia.batamiami,BATA Link
+com.ridewithvia.sfn.bayviewsfmta,Bayview Shuttle
+ridewithvia.bft.benfranklintransit,BFT CONNECT
+com.downtownerapp.bigsky,Big Sky Connect
+sarasota.florida,Breeze OnDemand
+com.ridewithvia.cityofbrunswick,Brunswick Breeze
+com.ridewithvia.cyu.catamicrotransit,CATA Rydz
+chandler.arizona,Chandler Flex
+ridewithvia.cab.cobblincparatrsansit,CobbLinc
+com.ridewithvia.tor.torrancetransit,Connect Torrance
+ridewithvia.connecttransitillinois,Connect Transit App
+des.moines,DART On Demand
+com.ridewithvia.dashtamparider,DASH Tampa Microtransit
+dcta.rider,DCTA GoZone On-Demand
+ridewithvia.drn.durangomicro,DuranGO!
+com.ridewithvia.ecurider,ECU Ride
+ridewithvia.columbia.university,Evening Shuttle
+com.ridewithvia.fieldtripsrider,Field Trips - Powered by Via
+gbm.paratransit,GBM Transit
+com.downtownerapp.idahofalls,GIFT On-Demand
+com.ridewithvia.glv.gltcflex,GLTC Flex
+com.ridewithvia.gac.gowakeforest,Go WakeForest
+com.ridewithvia.war.cityofwestcovina,GO West Covina
+ridewithvia.ger.gastoniatransit,GoGastonia
+com.ridewithvia.gomarti,goMARTI
+hrt.microtransit,Hampton Roads Transit OnDemand
+com.ridewithvia.gry.graysharbor,HarborFLEX
+harvard.eveningvan,Harvard Van
+com.ridewithvia.hpr.howardcountyrider,HoCo RapidRide
+com.ridewithvia.ioniadialaride,I-DART
+com.ridewithvia.calexico,IVT Ride Now
+com.downtownerapp.southtahoe,Lake Link
+com.ridewithvia.lct.luzernecountytransportation,LCTA CONNECTS
+com.ridewithvia.leetran,LeeTran Passport
+com.ridewithvia.ban.locallink,Local Link Greater Manchester
+com.ridewithvia.pwd.petalumatransit,LumaGo
+ridewithvia.mts.maricopamet,Maricopa Express Transit
+ridewithvia.bjctajeffersoncounty,Max On-Demand
+ridewithvia.metroflexseattle,Metro Flex
+ridewithvia.cgu.kalamazoo,Metro Link - Kalamazoo
+miami.ondemand,MetroConnect Miami-Dade
+ridewithvia.maf.metsevansville,METS Micro
+ridewithvia.catv.catcharlottesvilee,MicroCAT Powered by Via
+com.ridewithvia.srt.newbedfordrider,MicroConnector
+ridewithvia.madla.middlesexcounty,Middlesex County RIDE
+com.downtownerapp.moab,Moab Area Transit
+com.ridewithvia.yab.yubasuttertransit,MOD Ride Yuba-Sutter
+ridewithvia.boriniccpmbpassy,Montenbus
+ridewithvia.cityofnorman,Norman On Demand
+com.ridewithvia.norwalktransitca,Norwalk Community Link
+ridewithvia.RMVOnDemand,OnDemand@RMV
+com.ridewithvia.pav.passaiccountymoverider,Passaic County MOVE
+com.ridewithvia.slf.santaclaravta,Peery Park Rides
+ridewithvia.okc.pelivantransit,Pelivan Transit
+ridewithvia.pelivanpicktransportation,PICK Transportation OK
+com.ridewithvia.planoondemand,Plano Rides by Via
+com.ridewithvia.pdu.putnamcountyrider,Putnam On-Demand
+ridewithvia.matamemphis,Ready! and MATAPlus
+moree.ondemand,RF On-Demand
+com.ridewithvia.jaunt,Ride Jaunt
+com.ridewithvia.lan.cityoglongmot,RIDE Longmont
+com.ridewithvia.oswegocountyrider,Ride Oswego County
+com.ridewithvia.gocal,Ride the GOAT
+com.ridewithvia.riotransit,Ride the Rio
+ridewithvia.tcrtf.tcrtavisalia,RIDE Tulare County
+com.downtownerapp.twinfalls,RIDE Twin Falls Transit
+com.ridewithvia.wil.viaridewilson,RIDE Wilson
+com.ridewithvia.rosemeadgorider,Rosemead Go
+com.ridewithvia.swz.sacrtflex,SacRT Flex
+com.ridewithvia.salisburyconnect,Salisbury Connect
+com.ridewithvia.sjk.suffolkbuscorpparatransit,SCAT Paratransit
+stclair.rider,SCCTD Flyer
+ridewithvia.mob.mogocfsamobile,Second Line Transit
+com.ridewithvia.spartanburg,SpartaGo Rides
+com.ridewithvia.stf.cityofstamford,StamFORWARD
+ridewithvia.strathconacountytransit,Strathcona County Transit
+com.ridewithvia.sag.sugarlandondemand,Sugar Land On-Demand
+com.ridewithvia.sih.sunriderider,SunRide - powered by SunLine
+com.downtownerapp.tart,TART Connect
+com.ridewithvia.ccn.kenoratransit,The Wave - Kenora
+zipzone.trinity,Trinity Metro On-Demand
+tyler.texas,Tyler Transit
+ridewithvia.uota.arlingtonunilatenight,UTA Mav Mover
+com.ridewithvia.northerncalifornia,Via Assist NorCal
+com.ridewithvia.southerncalifornia,Via Assist SoCal
+via.driver,Via Driver
+com.ridewithvia.jar.jersy,Via Jersey City
+com.ridewithvia.lou.saintlouis,Via Metro STL
+com.ridewithvia.vmy.vianewarkrider,Via Newark
+com.ridewtivhia.nah.nhvrider,Via NHV
+com.ridewithvia.cyw.cityheightssandag,Via San Diego
+com.ridewithvia.vas.viawestsacramento,Via West Sac
+vrt.ondemand,VRT Booking
+norwalk.wheels2u,Wheels2U
+ridewithvia.wan.winchesterwinready,WinReady On Demand
+ridewithvia.prescottvalley,YAV Connect
+com.downtownerapp.steamboat,Yellow Zone
+com.ridewithvia.zap.zipshuttle,Zip Shuttle

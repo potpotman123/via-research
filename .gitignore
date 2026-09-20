@@ -1,4 +1,10 @@
-raw/*.pdf
+.venv/
+raw/cache/
+raw/bleecker_drive/
+raw/wayback_appstore/
+raw/safer/
+raw/ntd/
 raw/*.html
 text/*.db
 .DS_Store
+__pycache__/

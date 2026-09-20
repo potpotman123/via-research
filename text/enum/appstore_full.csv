@@ -1,0 +1,228 @@
+trackId,name,bundleId,releaseDate,lastUpdate,source
+1505305887,Abu Dhabi Link,com.ridewithvia.AbuDhabiRider,2020-04-03T07:00:00Z,2026-09-15T23:22:06Z,lookup
+6761677809,Addison Orbit,com.ridewithvia.addisonorbit,2026-04-16T07:00:00Z,2026-08-19T22:53:39Z,lookup
+1538316788,Ajman VOD,com.ridewithvia.AjmanRider,2020-12-01T08:00:00Z,2026-09-16T19:34:21Z,lookup
+6449251104,Arlington Transportation,com.ridewithvia.ArlingtonTexasRider,2023-08-13T07:00:00Z,2026-08-19T21:09:13Z,lookup
+6743074155,ASF FLEX,com.ridewithvia.ASL.AsfFlex,2025-07-27T07:00:00Z,2026-09-15T17:54:02Z,lookup
+6752255108,ASOSU SafeRide - by Via,com.ridewithvia.asosusaferide,2025-09-18T07:00:00Z,2026-08-25T05:52:49Z,lookup
+1668653989,AVTA On-Request,com.ridewithvia.AntelopeValleyLancasterRider,2023-03-28T07:00:00Z,2026-09-18T18:25:52Z,lookup
+6446231565,BATA Link,com.ridewithvia.BATAMiamiRider,2023-06-21T07:00:00Z,2026-09-18T14:56:03Z,lookup
+1568992827,Bay Transit Express,com.ridewithvia.DRPTBayTransitRider,2021-06-23T07:00:00Z,2026-09-18T18:56:08Z,lookup
+6695742343,Bayview Shuttle,com.ridewithvia.SFN.BayViewSfmtaRider,2024-11-06T08:00:00Z,2026-09-18T20:27:32Z,lookup
+6476562233,BC Transit – OnDemand,ridewithvia.BCT.BCTransitRider,2024-04-17T07:00:00Z,2026-09-18T20:33:03Z,lookup
+1665442404,BCRTA BGo - powered by Via,com.ridewithvia.NEORideBCRTAMicroRider,2023-02-18T08:00:00Z,2026-09-19T18:43:15Z,lookup
+6476562226,BFT CONNECT,ridewithvia.BFT.BenFranklinTransitRider,2024-03-18T07:00:00Z,2026-09-07T21:30:24Z,lookup
+1660003561,Big Sky Connect,com.downtownerapp.license.bigsky.rider,2022-12-16T08:00:00Z,2026-09-16T21:25:16Z,lookup
+6794794206,Boka resa,com.ridewithvia.slbokaresa,2026-08-13T07:00:00Z,2026-08-13T19:31:20Z,html
+6753837883,"BOLT - Brighton, CO Rideshare",com.ridewithvia.brightonbolt,2025-11-04T08:00:00Z,2026-09-18T18:48:44Z,lookup
+1561612976,Breeze OnDemand,com.ridewithvia.SarasotaRider,2021-05-25T07:00:00Z,2026-09-07T21:30:11Z,lookup
+6749571875,Brunswick Breeze,com.ridewithvia.cityofbrunswick,2025-09-09T07:00:00Z,2026-09-19T15:20:27Z,lookup
+6793062122,Busplus GPM,com.ridewithvia.busplus,2026-08-31T07:00:00Z,2026-08-31T17:10:02Z,html
+6443645091,Calexico On Demand,com.ridewithvia.ImperialValleyRider,2023-01-03T08:00:00Z,2026-09-18T18:32:43Z,lookup
+6446815482,Camden Loop,com.ridewithvia.camdencommunityRider,2023-06-12T07:00:00Z,2026-09-08T00:27:12Z,lookup
+1619335156,CARTA GO,com.ridewithvia.CARTATennesseeRider,2022-08-16T07:00:00Z,2026-09-18T18:26:23Z,lookup
+1538999262,CARTSNow,com.ridewithvia.CartsBastropRider,2020-12-08T08:00:00Z,2026-09-18T14:55:25Z,lookup
+6566182242,CATA Rydz,com.ridewithvia.CYU.CataMicrotransitRider,2024-10-31T07:00:00Z,2026-08-17T00:03:23Z,lookup
+6471081774,CATAGO!,ridewithvia.CWM.CATAGORider,2023-12-06T08:00:00Z,2026-09-18T18:23:13Z,lookup
+6476830547,Cecil Transit,ridewithvia.CAC.CecilTransitRider,2024-02-26T08:00:00Z,2026-09-19T15:13:18Z,lookup
+6475648381,CENTRO MOVE,ridewithvia.CDB.CentroMoveRider,2024-02-26T08:00:00Z,2026-08-20T06:49:58Z,lookup
+1619334891,Chandler Flex,com.ridewithvia.ChandlerRider,2022-07-05T07:00:00Z,2026-09-18T20:31:47Z,lookup
+1669005894,Cherriots LIFT,com.ridewithvia.CherriotsSalemRider,2023-04-16T07:00:00Z,2026-09-16T15:47:18Z,lookup
+6451354449,Citilink Access,com.ridewithvia.CitilinkFortWayneParaRider,2023-08-25T07:00:00Z,2026-08-20T06:49:58Z,lookup
+6761678180,Clicbus Atac,com.ridewithvia.clicbusatac,2026-04-29T07:00:00Z,2026-09-16T15:40:51Z,html
+6479964309,CobbLinc,ridewithvia.CAB.CobbLincParatransitRider,2024-10-18T07:00:00Z,2026-09-19T15:38:59Z,lookup
+6736586520,Connect Torrance,com.ridewithvia.TOR.TorranceTransitRider,2024-12-02T08:00:00Z,2026-09-19T15:03:09Z,lookup
+6449251005,Connect Transit App,com.ridewithvia.ConnectTransitIllinoisRider,2023-07-12T07:00:00Z,2026-09-18T18:31:15Z,lookup
+6760968528,Connect2 North Lincs,com.ridewithvia.northlincolnshire,2026-04-23T07:00:00Z,2026-09-15T23:23:14Z,html
+1467744411,COTA Plus,com.ridewithvia.CotaRider,2019-07-11T07:00:00Z,2026-09-18T18:25:50Z,lookup
+1585615969,DART On Demand,com.ridewithvia.DesMoines,2021-11-04T07:00:00Z,2026-09-19T18:42:56Z,lookup
+6745491487,DASH Tampa Microtransit,com.ridewithvia.DashTampaRider,2025-05-22T07:00:00Z,2026-09-19T15:01:09Z,lookup
+1574156936,DCTA GoZone On-Demand,com.ridewithvia.DCTARider,2021-08-24T07:00:00Z,2026-09-18T15:03:36Z,lookup
+6450645536,Delaware County Transit,com.ridewithvia.NEORideDelawareDCTRider,2023-08-30T07:00:00Z,2026-09-18T18:33:20Z,lookup
+1588116896,Denver Connector,com.downtownerapp.license.montbello.rider,2021-10-07T07:00:00Z,2026-09-18T18:17:40Z,lookup
+786617715,Downtowner,net.msimobile.downtowner,2014-04-16T19:53:53Z,2025-07-11T19:13:54Z,lookup
+1489325367,Dubai Bus on Demand,com.ridewithvia.DubaiRTARider,2020-01-24T08:00:00Z,2026-09-16T15:44:47Z,lookup
+6464473978,DuranGO!,ridewithvia.DRN.DurangoMicroRider,2023-10-12T07:00:00Z,2026-08-20T15:57:22Z,lookup
+6443717041,EagleExpress - Marquette,com.ridewithvia.MarquetteRider,2023-01-03T08:00:00Z,2026-09-18T15:07:56Z,lookup
+6759960491,Easy TAD,com.ridewithvia.easymobilitytad,2026-04-07T07:00:00Z,2026-09-18T14:56:31Z,html
+6748881607,ECU Ride,com.ridewithvia.ecurider,2025-08-18T07:00:00Z,2026-09-18T18:23:41Z,lookup
+6788288823,Electromin Mobility,com.ridewithvia.electrominmobility,2026-07-19T07:00:00Z,2026-08-20T06:49:58Z,html
+6444086056,Evening Shuttle,com.ridewithvia.ColumbiaUNIRider,2023-06-19T07:00:00Z,2026-09-03T16:04:59Z,lookup
+6745303188,Field Trips - Powered by Via,com.ridewithvia.FieldTripsRider,2025-07-08T07:00:00Z,2026-09-19T02:46:05Z,lookup
+6472332482,FirstTracks,com.downtownerapp.license.crestedbutte.rider,2023-11-16T08:00:00Z,2026-09-15T23:23:53Z,lookup
+6547855751,FlexRide by TheRide,com.ridewithvia.ANA.AnnArborAaataRider,2024-08-19T07:00:00Z,2026-09-19T14:52:39Z,lookup
+1601365422,FlexRide Milwaukee,com.ridewithvia.MilwaukeeRider,2022-01-27T08:00:00Z,2026-09-08T00:24:54Z,lookup
+6760655803,FRGflex,com.ridewithvia.frgflex,2026-04-06T07:00:00Z,2026-09-17T09:15:43Z,html
+6759556263,FSU Safe Ride,com.ridewithvia.fsusaferide,2026-03-22T07:00:00Z,2026-08-20T15:43:07Z,lookup
+1499260583,GBM Transit,com.ridewithvia.GBMParatransit,2020-08-12T07:00:00Z,2026-09-01T18:48:05Z,lookup
+1540576294,GET-A-LIFT,com.ridewithvia.GetMicrotransitRider,2020-12-18T08:00:00Z,2026-09-19T21:49:18Z,lookup
+1624254093,GIFT On-Demand,com.downtownerapp.license.idahofalls.rider,2022-05-15T07:00:00Z,2026-08-23T07:03:28Z,lookup
+1635036850,Glendale Onboard,com.ridewithvia.GlendaleArizonaRider,2022-11-29T08:00:00Z,2026-08-19T21:08:48Z,lookup
+6504912648,GLTC Flex,com.ridewithvia.GLV.GltcFlexRider,2024-07-25T07:00:00Z,2026-09-19T21:51:09Z,lookup
+6590620137,Go WakeForest,com.ridewithvia.GAC.GoWakeForestRider,2024-09-25T07:00:00Z,2026-09-07T21:28:24Z,lookup
+6670436405,GO West Covina,com.ridewithvia.WAR.CityOfWestCovinaRider,2024-11-06T08:00:00Z,2026-08-20T06:49:58Z,lookup
+6766860429,GO! On Demand,com.ridewithvia.aptgorizia,2026-05-20T07:00:00Z,2026-09-17T08:46:02Z,html
+1567038697,Go2 by MATS,com.ridewithvia.MuskegonRider,2021-06-18T07:00:00Z,2026-09-19T21:49:55Z,lookup
+6480199522,GoGastonia,com.ridewithvia.GER.GastoniaTransitRider,2024-06-24T07:00:00Z,2026-09-08T00:35:55Z,lookup
+6747374980,goMARTI,com.ridewithvia.gomarti,2025-07-08T07:00:00Z,2026-08-20T06:49:58Z,lookup
+1545140409,Groove On-Demand,com.ridewithvia.MemphisRider,2021-02-01T08:00:00Z,2026-09-19T02:47:03Z,lookup
+6450746190,GRTC On the Go,com.ridewithvia.GreaterRichmondRider,2023-08-03T07:00:00Z,2026-09-16T15:40:33Z,lookup
+1618660542,Hampton Roads Transit OnDemand,com.ridewithvia.HRTmicrotransitRider,2022-06-30T07:00:00Z,2026-09-07T21:30:40Z,lookup
+1419081124,Harvard Van,com.ridewithvia.HarvardRider,2018-08-20T07:07:33Z,2026-09-18T18:17:19Z,lookup
+6781655021,HelloBus by Via,com.ridewithvia.tplbrescia,2026-06-27T07:00:00Z,2026-09-15T18:01:41Z,html
+6444086200,Henry Connect,com.ridewithvia.HenryCountyGeorgia,2023-08-30T07:00:00Z,2026-08-20T06:49:58Z,lookup
+1561613201,High Valley Transit,com.ridewithvia.SummitRider,2021-05-12T07:00:00Z,2026-09-08T00:20:32Z,lookup
+6766809631,Highland Park On-Demand,com.ridewithvia.highlandparktx,2026-05-11T07:00:00Z,2026-08-20T15:58:12Z,lookup
+1632186376,HIRTA On-Demand,com.ridewithvia.HIRTAIowaRider,2022-09-06T07:00:00Z,2026-08-20T06:49:58Z,lookup
+6742513037,HoCo RapidRide,com.ridewithvia.HPR.HowardCountyRider,2025-03-10T07:00:00Z,2026-09-18T18:19:59Z,lookup
+6756509905,HOWL-A-RIDE,com.ridewithvia.stonybrook,2026-01-12T08:00:00Z,2026-08-25T05:52:46Z,lookup
+1493275511,HRT Paratransit,com.ridewithvia.HRTRider,2020-06-03T07:00:00Z,2026-09-07T18:16:27Z,lookup
+6748579806,IVT Ride Now,com.ridewithvia.calexico,2025-08-27T07:00:00Z,2026-09-18T18:20:12Z,lookup
+1639776448,Key West Rides,com.ridewithvia.KeywestRider,2022-11-23T08:00:00Z,2026-08-20T06:49:58Z,lookup
+6446626684,KRTplus,com.ridewithvia.NEORideKRTRider,2023-06-19T07:00:00Z,2026-09-19T18:44:03Z,lookup
+6766851924,Lake County Transit,com.ridewithvia.leadville,2026-05-13T07:00:00Z,2026-08-20T06:49:58Z,html
+1633817341,Lake Link,com.downtownerapp.license.southtahoe.rider,2022-07-10T07:00:00Z,2026-08-30T21:48:50Z,lookup
+6468646523,Lakeshore Go,ridewithvia.HAR.HarborTransitRider,2023-11-26T08:00:00Z,2026-08-17T00:02:46Z,lookup
+1487357866,LAnow,com.ridewithvia.LANowRider,2021-09-01T07:00:00Z,2026-09-18T18:29:46Z,lookup
+6499310151,LC Transit,com.ridewithvia.LAR.LorainTrans,2024-07-09T07:00:00Z,2026-09-07T21:43:20Z,lookup
+6673897684,LCTA CONNECTS,com.ridewithvia.LCT.LuzerneCountyTransportationRider,2024-11-04T08:00:00Z,2026-08-20T06:49:58Z,lookup
+6477921406,LHC DIRECT,ridewithvia.LYG.LakeHavasuRider,2024-04-18T07:00:00Z,2026-08-20T06:49:58Z,lookup
+1449555550,Link On Demand,com.ridewithvia.LoneTreeRider,2019-02-01T06:30:57Z,2026-09-08T00:16:37Z,lookup
+1552855770,LTD Connector,com.ridewithvia.CottageRider,2021-03-09T08:00:00Z,2026-09-19T02:57:46Z,lookup
+6504522697,LumaGo,com.ridewithvia.PWD.PetalumaTransitRider,2024-09-11T07:00:00Z,2026-08-30T21:47:09Z,lookup
+1619334624,LYNX by CATS,com.ridewithvia.CATSBakerRider,2022-06-01T07:00:00Z,2026-09-18T15:00:07Z,lookup
+6497334328,Maricopa Express Transit,com.ridewithvia.MTS.MaricopaMetMtsRider,2024-05-21T07:00:00Z,2026-09-19T15:20:03Z,lookup
+6444485932,Max On-Demand,com.ridewithvia.BJCTAJeffersonCountyRider,2023-03-02T08:00:00Z,2026-09-08T00:35:47Z,lookup
+1635037304,May Mobility,com.ridewithvia.MayMobilityGrandRapidsAV,2022-09-21T07:00:00Z,2026-09-15T23:22:50Z,lookup
+1568993381,MET Go!,com.ridewithvia.DRPTMeocRider,2021-06-22T07:00:00Z,2026-08-17T00:02:54Z,lookup
+6780165997,MET On-Demand,com.ridewithvia.pagosasprings,2026-07-13T07:00:00Z,2026-09-15T17:54:30Z,html
+6795473125,Metro Connect Greater Portland,com.ridewithvia.gpmetro,2026-08-17T07:00:00Z,2026-08-17T08:08:22Z,lookup
+6449737830,METRO Connect – Rock Region,com.ridewithvia.NeorideLittleRockRider,2023-10-05T07:00:00Z,2026-09-19T21:48:20Z,lookup
+6444106298,Metro Flex,com.ridewithvia.MetroFlexSeattleRider,2023-02-27T08:00:00Z,2026-09-08T00:19:30Z,lookup
+6477740184,Metro Link - Kalamazoo,ridewithvia.CGU.KalamazooRider,2024-04-01T07:00:00Z,2026-08-20T15:58:06Z,lookup
+1531078058,MetroConnect Miami-Dade,com.ridewithvia.MiamiRider,2020-10-22T07:00:00Z,2026-09-07T13:32:32Z,lookup
+6446626757,MetroNow! On Demand,com.ridewithvia.NEORideSORTARider,2023-05-16T07:00:00Z,2026-09-18T18:20:14Z,lookup
+6468472307,METS Micro,ridewithvia.MAF.METSEvansvilleRider,2023-11-20T08:00:00Z,2026-09-19T02:45:54Z,lookup
+6760700455,MICRO Arlington Microtransit,com.ridewithvia.artondemand,2026-04-12T07:00:00Z,2026-08-20T06:49:58Z,lookup
+6747032915,Micro Flex // Omaha,com.ridewithvia.MetroOmaha,2025-08-10T07:00:00Z,2026-08-20T16:04:04Z,lookup
+6462826294,MicroCAT Powered by Via,ridewithvia.CATV.CATCharlottesvilleRider,2023-10-23T07:00:00Z,2026-08-20T06:49:58Z,lookup
+6502573432,MicroLink,com.ridewithvia.GAR.GoraleighRider,2024-06-24T07:00:00Z,2026-08-20T06:49:58Z,lookup
+6760118633,MicroLink powered by NJT,com.ridewithvia.microlink,2026-03-24T07:00:00Z,2026-08-20T06:49:58Z,lookup
+6471368206,Middlesex County RIDE,ridewithvia.MAL.MiddlesexCountyRider,2024-02-20T08:00:00Z,2026-09-19T15:48:54Z,lookup
+6446064543,Moab Area Transit,com.downtownerapp.license.moab.rider,2023-03-07T08:00:00Z,2026-08-25T03:12:19Z,lookup
+6459413121,MobiliD,com.ridewithvia.DartmouthCollegeRider,2023-09-11T07:00:00Z,2026-08-20T06:49:58Z,lookup
+6764561891,Mooj! TAD,com.ridewithvia.maugestad,2026-05-13T07:00:00Z,2026-09-16T15:44:29Z,html
+1570400684,Morrisville Smart Shuttle,com.ridewithvia.MorrisvilleRider,2021-09-22T07:00:00Z,2026-09-19T21:48:08Z,lookup
+1572470194,Mountain Climber by Via,com.ridewithvia.FlatheadRider,2021-07-21T07:00:00Z,2026-09-18T18:19:00Z,lookup
+6741552928,MPK Transit Express,com.ridewithvia.MHA.MontereyParkRider,2025-03-06T08:00:00Z,2026-08-20T06:49:59Z,lookup
+6781205315,MTA SmartMove,com.ridewithvia.mtaflint,2026-06-30T07:00:00Z,2026-09-15T23:41:23Z,lookup
+1642464951,MTD Connect - Powered by Via,com.ridewithvia.ChampaignUrbanaMicrotransit,2022-11-30T08:00:00Z,2026-09-19T21:48:56Z,lookup
+6757860657,My Bus – Servizio a chiamata,com.ridewithvia.mybus,2026-03-26T07:00:00Z,2026-09-16T15:41:28Z,html
+6768946208,My Turn Rides,com.ridewithvia.myturnrides,2026-05-25T07:00:00Z,2026-08-20T15:57:48Z,html
+1542933178,MyRide by TVT,com.ridewithvia.GMTRider,2020-12-23T08:00:00Z,2026-08-17T00:03:02Z,lookup
+6450779646,Norman On Demand,com.ridewithvia.CityofNorman,2023-08-14T07:00:00Z,2026-08-20T15:51:25Z,lookup
+6755534122,Norwalk Community Link,com.ridewithvia.norwalktransitca,2026-01-05T08:00:00Z,2026-08-20T15:53:50Z,lookup
+1542955907,NTS (Horizons),com.ridewithvia.HorizonsRider,2021-01-14T08:00:00Z,2026-09-19T15:00:59Z,lookup
+1542932747,NU Transit,com.ridewithvia.NorthwesternUniRider,2021-01-15T08:00:00Z,2026-09-03T16:07:14Z,lookup
+1506742236,NYC School Bus,com.ridewithvia.SchoolBusNY,2022-06-14T07:00:00Z,2026-08-02T06:29:22Z,lookup
+6444086022,NYU Safe Ride,com.ridewithvia.NewYorkUNIRider,2023-01-16T08:00:00Z,2026-09-18T18:30:50Z,lookup
+6804379917,Okaloosa County Transit,com.ridewithvia.okaloosacounty,2026-09-01T07:00:00Z,2026-09-01T18:12:39Z,html
+1602331368,ORT On Demand,com.ridewithvia.OzarkSpringdaleRider,2022-02-15T08:00:00Z,2026-09-19T15:23:51Z,lookup
+1581317510,Palm Tran Go Glades,com.ridewithvia.PalmTramRider,2022-02-02T08:00:00Z,2026-08-20T06:49:58Z,lookup
+1663667568,Palo Alto Link,com.ridewithvia.PaloAltoRider,2023-03-02T08:00:00Z,2026-09-18T14:55:14Z,lookup
+6743545238,Passaic County MOVE,com.ridewithvia.PAV.PassaicCountyMOVERider,2025-05-12T07:00:00Z,2026-09-07T21:52:39Z,lookup
+6738775804,Peery Park Rides,com.ridewithvia.SLF.santaclaravta,2025-01-29T08:00:00Z,2026-09-19T02:48:29Z,lookup
+6463791125,Pelivan Transit,ridewithvia.Okc.pelivantransitRider,2023-12-04T08:00:00Z,2026-09-19T02:52:40Z,lookup
+6450504517,PICK Transportation OK,com.ridewithvia.PelivanpicktransportationRider,2023-07-11T07:00:00Z,2026-09-18T18:33:27Z,lookup
+1462279244,Pickup by Capital Metro,com.ridewithvia.CartsPickupRider,2019-05-31T20:38:12Z,2026-09-19T21:50:08Z,lookup
+6464473474,Pierce Transit On-Demand,ridewithvia.PAR.PierceTransitRider,2023-11-07T08:00:00Z,2026-09-18T18:26:14Z,lookup
+6761750329,Plano Rides by Via,com.ridewithvia.planoondemand,2026-04-28T07:00:00Z,2026-08-20T15:58:50Z,lookup
+6451354346,PonyPlus by MCTA,com.ridewithvia.PoconoPonyRider,2023-08-25T07:00:00Z,2026-08-20T06:49:58Z,lookup
+6740588321,Putnam On-Demand,com.ridewithvia.PDU.PutnamCountyRider,2025-02-25T08:00:00Z,2026-08-20T15:56:47Z,lookup
+6760695781,QuiBUS Veneto,com.ridewithvia.quibusveneto,2026-04-19T07:00:00Z,2026-09-16T15:41:29Z,html
+6496689325,RABA & ShastaConnect,com.ridewithvia.RBA.ReddingAreaBusRbaRider,2024-05-20T07:00:00Z,2026-08-30T21:47:28Z,lookup
+6749235344,RC Link,com.ridewithvia.rclink,2025-08-14T07:00:00Z,2026-08-20T15:49:49Z,lookup
+6449251092,Ready! and MATAPlus,com.ridewithvia.MATAMpmphisRider,2023-08-03T07:00:00Z,2026-09-19T02:57:20Z,lookup
+1485389979,Rekab Solutions Company,com.ridewithvia.MaaComRider,2019-11-21T08:00:00Z,2026-09-15T21:12:46Z,lookup
+1576344220,Richmond Moves,com.ridewithvia.RichmondCARider,2022-04-13T07:00:00Z,2026-09-08T00:16:59Z,lookup
+6760002950,Ride Jaunt,com.ridewithvia.jaunt,2026-03-30T07:00:00Z,2026-08-20T06:49:58Z,html
+6736586322,RIDE Longmont,com.ridewithvia.LAN.CityOfLongmontRider,2024-12-02T08:00:00Z,2026-09-18T18:19:38Z,lookup
+1462279473,Ride On Flex,com.ridewithvia.RideOnFlexRider,2019-06-16T11:13:52Z,2026-08-30T21:49:09Z,lookup
+6745899020,Ride Oswego County,com.ridewithvia.OswegoCountyRider,2025-09-08T07:00:00Z,2026-08-20T06:49:58Z,lookup
+6767634271,Ride PATS,com.downtownerapp.license.pats.rider,2026-05-14T07:00:00Z,2026-05-15T20:32:41Z,html
+6745184259,RIDE RF,com.downtownerapp.license.riderf.rider,2025-04-30T07:00:00Z,2025-11-29T20:23:37Z,lookup
+1552855723,Ride SMART Flex,com.ridewithvia.SmartDetroitRider,2021-03-08T08:00:00Z,2026-09-07T21:32:51Z,lookup
+6756356862,Ride the GOAT,com.ridewithvia.gocal,2026-01-06T08:00:00Z,2026-08-20T06:49:58Z,lookup
+1621287822,Ride the Line - Missoula,com.ridewithvia.MountainLineParatransitRider,2022-07-05T07:00:00Z,2026-08-20T06:49:58Z,lookup
+6753644670,Ride the Rio,com.ridewithvia.riotransit,2025-11-05T08:00:00Z,2026-08-20T15:51:04Z,lookup
+6471396357,RIDE Tulare County,ridewithvia.TCR.TCRTAVisaliaRider,2023-12-12T08:00:00Z,2026-08-20T06:49:58Z,lookup
+6450712883,RIDE Twin Falls Transit,com.downtownerapp.license.twinfalls.rider,2023-06-28T07:00:00Z,2026-08-16T05:45:37Z,lookup
+6741474181,RIDE Wilson,com.ridewithvia.WIL.ViaRIDEWilson,2025-04-02T07:00:00Z,2026-09-08T00:21:46Z,lookup
+6760401969,RideLink by HHO,com.ridewithvia.helpinghands,2026-04-29T07:00:00Z,2026-09-19T21:51:07Z,html
+6504522568,RideSmart by Via,com.ridewithvia.UCA.UniversityOfChicagoRider,2024-08-21T07:00:00Z,2026-09-03T15:57:32Z,lookup
+6800195538,Rochester Public Transit ZIPS,com.ridewithvia.rochestermn,2026-09-02T07:00:00Z,2026-09-03T05:21:00Z,html
+6746981888,Rosemead Go,com.ridewithvia.RosemeadGoRider,2025-06-24T07:00:00Z,2026-08-20T16:34:18Z,lookup
+1635036904,RTS On Demand - Powered by Via,com.ridewithvia.RGRTARochesterNYRider,2022-09-12T07:00:00Z,2026-09-18T14:54:27Z,lookup
+6783910850,RUSE MOONSET,com.ridewithvia.rusemoonset,2026-08-11T07:00:00Z,2026-08-11T07:47:38Z,html
+6762183876,RVM Rides,com.ridewithvia.pacificretirement,2026-04-28T07:00:00Z,2026-09-18T18:26:59Z,html
+6451102678,RVT GO,com.ridewithvia.EstuaryTransitRider,2023-08-24T07:00:00Z,2026-08-30T21:56:10Z,lookup
+6738142148,SacRT Flex,com.ridewithvia.SWZ.sacrtflex,2024-12-05T08:00:00Z,2026-08-20T06:49:58Z,lookup
+1540576019,Salem Skipper,com.ridewithvia.SalemRider,2020-12-10T08:00:00Z,2026-09-07T21:26:22Z,lookup
+6470201999,SAM Transit,ridewithvia.SXF.CityofSiouxFallsRider,2024-01-01T08:00:00Z,2026-09-07T21:36:58Z,lookup
+6670251360,SCAT Paratransit,com.ridewithvia.SJK.SuffolkBusCorpParatransitRider,2025-04-14T07:00:00Z,2026-09-18T18:21:30Z,lookup
+1529876077,SCCTD Flyer,com.ridewithvia.StClairRider,2020-10-13T07:00:00Z,2026-09-19T21:51:14Z,lookup
+6477740215,Second Line Transit,ridewithvia.MOB.MogoCFSAMobileRider,2024-03-05T08:00:00Z,2026-09-15T07:26:58Z,lookup
+6748314199,Shift On Demand,com.ridewithvia.aacid,2025-08-02T07:00:00Z,2026-08-30T21:51:11Z,lookup
+1409632394,Shuttle - powered by Via,com.viavan.ShuttleVVRider,2018-09-25T17:44:50Z,2026-08-25T05:52:11Z,lookup
+1570127166,Shuttle Connection,com.ridewithvia.LinkedInRider,2022-02-22T08:00:00Z,2026-09-03T15:59:26Z,lookup
+6445977946,Silicon Valley Hopper,com.ridewithvia.CupertinoCityRider,2023-04-29T07:00:00Z,2026-09-18T18:30:35Z,lookup
+6770458752,Slidr Rides,com.ridewithvia.slidr,2026-05-28T07:00:00Z,2026-09-19T21:46:57Z,lookup
+6761678238,South County Connector,com.ridewithvia.greatbarrington,2026-04-29T07:00:00Z,2026-08-19T18:25:35Z,html
+6749237562,SpartaGo Rides,com.ridewithvia.spartago,2025-09-10T07:00:00Z,2026-08-20T15:54:16Z,lookup
+6736586472,StamFORWARD,com.ridewithvia.STF.CityOfStamfordRider,2024-11-12T08:00:00Z,2026-08-20T15:53:14Z,lookup
+1594026146,START On-demand,com.downtownerapp.license.jackson.rider,2021-11-18T08:00:00Z,2024-12-17T21:52:37Z,lookup
+1576344300,Stevens Shuttle,com.ridewithvia.StevensNJRider,2022-01-03T08:00:00Z,2026-09-19T21:50:50Z,lookup
+1564740337,Suffolk Transit On-Demand,com.ridewithvia.SuffolkRider,2021-06-08T07:00:00Z,2026-09-08T00:40:14Z,lookup
+6741566105,Sugar Land On-Demand,com.ridewithvia.SAG.SugarLandOnDemand,2025-03-05T08:00:00Z,2026-08-20T06:49:58Z,lookup
+6787633950,Sunnyvale Beam,com.ridewithvia.sunnyvale,2026-08-12T07:00:00Z,2026-08-20T06:49:58Z,lookup
+6742354786,SunRide - powered by SunLine,com.ridewithvia.SIH.SunRideRider,2025-03-07T08:00:00Z,2026-08-20T06:49:58Z,lookup
+6779184740,SYPN OnDemand,com.ridewithvia.symca,2026-07-25T07:00:00Z,2026-08-20T15:57:28Z,html
+6541757165,TANK On-Demand,com.ridewithvia.TAN.TankCovingtonRider,2024-08-07T07:00:00Z,2026-08-20T15:54:16Z,lookup
+1566632029,TART Connect,com.downtownerapp.license.tart.rider,2021-06-01T07:00:00Z,2026-08-30T21:47:44Z,lookup
+6444486340,TARTA Flex,com.ridewithvia.NeorideTARTA,2023-01-19T08:00:00Z,2026-09-19T21:49:53Z,lookup
+6451102194,Terp Ride,com.ridewithvia.CollegeParkMaryland,2023-08-23T07:00:00Z,2026-09-18T18:48:37Z,lookup
+1582998622,the Buc,com.ridewithvia.BuckheadRider,2022-04-11T07:00:00Z,2026-09-18T18:25:51Z,lookup
+6468646303,The Micro Bus - Merced County,ridewithvia.MYX.MercedCountyRider,2023-11-29T08:00:00Z,2026-09-18T18:34:30Z,lookup
+6745841964,tl TAD,com.ridewithvia.TlTadRider,2026-08-10T07:00:00Z,2026-08-20T16:16:47Z,html
+6504186982,transPORT (Porterville City),com.ridewithvia.TCR.CityOfPortervilleRider,2024-06-30T07:00:00Z,2026-09-19T14:52:34Z,lookup
+1513798851,Tri MyRide,com.ridewithvia.TriMyrideRider,2020-06-07T07:00:00Z,2026-09-18T20:30:48Z,lookup
+1469882901,Trinity Metro On-Demand,com.ridewithvia.ZipZoneRider,2019-07-18T07:00:00Z,2026-09-16T15:40:45Z,lookup
+1561613187,Tyler Transit,com.ridewithvia.TylerTexasRider,2021-08-08T07:00:00Z,2026-08-20T06:49:58Z,lookup
+6462826317,UTA Mav Mover,ridewithvia.UOTA.ArlingtonUniLateNightRider,2023-09-19T07:00:00Z,2026-09-19T16:44:21Z,lookup
+1574141449,UTA On Demand,com.ridewithvia.SaultLakeRider,2021-08-01T07:00:00Z,2026-09-08T00:22:31Z,lookup
+1632186367,UWYO SafeRide,com.ridewithvia.WyomingUniRider,2022-08-21T07:00:00Z,2026-09-19T18:42:49Z,lookup
+6799603756,UW–Madison Accessible Shuttle,com.ridewithvia.uwmadison,2026-08-30T07:00:00Z,2026-08-30T10:19:00Z,html
+1550118086,Valdosta On-Demand,com.ridewithvia.ValdostaRider,2021-04-21T07:00:00Z,2026-09-08T00:18:41Z,lookup
+1121194508,Via Driver,com.ridewithvia.viapartners,2016-07-20T10:44:30Z,2026-08-30T04:16:35Z,lookup
+1608157898,Via Grand Prairie,com.ridewithvia.GrandPrairieRider,2022-04-04T07:00:00Z,2026-08-20T06:49:58Z,lookup
+6741709541,Via Jersey City,com.ridewithvia.JAR.Jersy.rider,2025-02-16T08:00:00Z,2026-09-07T21:31:09Z,lookup
+6736943110,Via Metro STL,com.ridewithvia.LOU.SaintLouisRider,2024-10-29T07:00:00Z,2026-09-07T18:19:37Z,lookup
+6742881448,Via Newark,com.ridewithvia.VMY.ViaNewarkRider,2025-05-13T07:00:00Z,2026-08-20T06:49:58Z,lookup
+6742031316,Via NHV,com.ridewithvia.NAH.NHVRider,2025-03-03T08:00:00Z,2026-08-17T00:02:58Z,lookup
+6738142169,Via San Diego,com.ridewithvia.CYW.cityheightsSANDAG,2025-01-27T08:00:00Z,2026-08-30T21:51:20Z,lookup
+6627339224,Via West Sac,com.ridewithvia.VAS.ViaWestSacramentoRider,2024-08-22T07:00:00Z,2026-09-19T18:42:43Z,lookup
+1481445615,Via2G,com.ridewithvia.Via2gRider,2019-10-23T07:00:00Z,2026-09-03T16:01:53Z,lookup
+6743803202,Visalia Connect,com.ridewithvia.VAX.VisaliaRider,2025-05-27T07:00:00Z,2026-08-20T15:57:21Z,lookup
+6469643468,VoRide by Votran,ridewithvia.VER.VotranMODRider,2023-11-28T08:00:00Z,2026-09-08T00:17:12Z,lookup
+1529088797,VRT Booking,com.ridewithvia.VRTRider,2020-09-30T07:00:00Z,2026-09-18T18:23:09Z,lookup
+6476148968,Wave Rider - Blue Water,ridewithvia.BLA.BlueWaterRider,2026-07-24T07:00:00Z,2026-09-18T19:12:32Z,html
+1529797309,WeGo Powered by Via,com.ridewithvia.Hallcountyrider,2020-11-02T08:00:00Z,2026-09-18T18:16:48Z,lookup
+6786703044,West Palm Move,com.ridewithvia.westpalmbeach,2026-09-14T07:00:00Z,2026-09-15T08:17:50Z,lookup
+6462826400,WexExpress,ridewithvia.WEXC.WexExpressCadillacRider,2024-02-04T08:00:00Z,2026-09-19T21:46:46Z,lookup
+1474542802,Wheels2U,com.ridewithvia.Wheels2URider,2019-08-28T07:00:00Z,2026-09-18T18:59:04Z,lookup
+6476149219,WinReady On Demand,ridewithvia.WAN.WinchesterWinReadyRider,2024-03-18T07:00:00Z,2026-09-19T21:50:34Z,lookup
+6450645571,WRTA On Demand,com.ridewithvia.NEORideWRTARider,2023-08-07T07:00:00Z,2026-08-20T06:49:58Z,lookup
+6741481386,WRTA Rider,com.ridewithvia.VYS.WRTARider,2025-02-14T08:00:00Z,2026-08-20T06:49:58Z,lookup
+6449489937,YAV Connect,com.ridewithvia.PrescottValleyArizonaRider,2023-07-14T07:00:00Z,2026-09-16T14:54:41Z,lookup
+1594027445,Yellow Zone,com.downtownerapp.license.steamboat.rider,2021-11-30T08:00:00Z,2026-09-08T00:25:40Z,lookup
+6737225174,Zip Shuttle,com.ridewithvia.ZAP.zipshuttleRider,2024-12-12T08:00:00Z,2026-09-07T18:15:49Z,lookup
