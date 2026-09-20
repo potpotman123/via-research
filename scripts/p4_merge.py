@@ -46,7 +46,7 @@ for p in sorted(SHARDS.glob("*.csv")):
             if r["scope_type"] not in SCOPES:
                 reasons.append(f"bad scope_type {r['scope_type']!r}")
             has_num = any(num(r[c]) is not None for c in NUMERIC)
-            if has_num and not r["source_url_1"].startswith("http"):
+            if has_num and not (r["source_url_1"].startswith("http") or r["source_url_1"].startswith("bleecker-drive:")):
                 reasons.append("number without source_url_1")
             if r["signed_after_2025_12_16"] not in ("", "0", "1", "TRUE", "FALSE", "true", "false"):
                 reasons.append("bad signed_after flag")
@@ -74,6 +74,29 @@ with open(OUT / "rejects.csv", "w", newline="", encoding="utf-8") as f:
     w.writeheader()
     w.writerows(rejects)
 log(f"accepted {len(deduped)} (from {len(rows)}, {len(rows) - len(deduped)} dupes), rejected {len(rejects)}")
+
+# QA flags for Tier-3 review (do not reject; list in out/qa_flags.csv)
+flagged = []
+for r in deduped:
+    fl = []
+    t, a, y = num(r["total_value_usd"]), num(r["annual_value_usd"]), num(r["term_years_incl_options"])
+    if t and a and y and abs(t - a * y) <= 0.01 * t:
+        fl.append("total looks derived (= annual x years)")
+    if t and re.search(r"/\s*(year|yr)|per year|annually", r["notes"], re.I) and not a:
+        fl.append("notes mention per-year amount but annual_value blank; total may be derived")
+    if t and t >= 50_000_000:
+        fl.append("total >= $50mm: verify against source")
+    if not r["award_or_approval_date"]:
+        fl.append("no date")
+    if r["scope_type"] == "Turnkey" and r["pricing_basis"] in ("", "not stated") and r["drivers_supplied_by"] in ("", "not stated"):
+        fl.append("Turnkey without pricing basis or driver source stated")
+    if fl:
+        flagged.append(dict(r, _flags="; ".join(fl)))
+with open(OUT / "qa_flags.csv", "w", newline="", encoding="utf-8") as f:
+    w = csv.DictWriter(f, fieldnames=HEADER + ["_shard", "_flags"], extrasaction="ignore")
+    w.writeheader()
+    w.writerows(flagged)
+log(f"qa flags: {len(flagged)} rows -> out/qa_flags.csv")
 
 # mix summary: count-weighted and dollar-weighted (annual where present, else total/term)
 cnt = Counter(r["scope_type"] for r in deduped)
