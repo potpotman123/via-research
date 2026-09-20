@@ -124,6 +124,19 @@ for r in rows:
         r["notes"] = f"[relabeled competitor-award from {r['contract_action']}] " + r["notes"]
         r["contract_action"] = "competitor-award"
 
+# Tier-3 corrections (shards/_corrections.csv): agency_contains, contract_action, award_or_approval_date, field, new_value, reason
+CORR = list(csv.DictReader(open(SHARDS / "_corrections.csv"))) if (SHARDS / "_corrections.csv").exists() else []
+n_corr = 0
+for c in CORR:
+    for r in rows:
+        if (c["agency_contains"].lower() in r["agency"].lower() and (not c["contract_action"] or r["contract_action"] == c["contract_action"])
+                and (not c["award_or_approval_date"] or r["award_or_approval_date"] == c["award_or_approval_date"])):
+            old = r.get(c["field"], "")
+            r[c["field"]] = c["new_value"]
+            r["notes"] = (r["notes"] + f" [T3 correction: {c['field']} {old!r} -> {c['new_value']!r}: {c['reason']}]").strip()
+            n_corr += 1
+log(f"tier-3 corrections applied: {n_corr}")
+
 seen, deduped, conflicts = {}, [], {}
 
 
@@ -175,18 +188,6 @@ for r in deduped:
     if k in conflicts:
         r["_scope_conflict"] = "/".join(sorted(conflicts[k]))
 
-# Tier-3 corrections (shards/_corrections.csv): agency_contains, contract_action, award_or_approval_date, field, new_value, reason
-CORR = list(csv.DictReader(open(SHARDS / "_corrections.csv"))) if (SHARDS / "_corrections.csv").exists() else []
-n_corr = 0
-for c in CORR:
-    for r in deduped:
-        if (c["agency_contains"].lower() in r["agency"].lower() and (not c["contract_action"] or r["contract_action"] == c["contract_action"])
-                and (not c["award_or_approval_date"] or r["award_or_approval_date"] == c["award_or_approval_date"])):
-            old = r.get(c["field"], "")
-            r[c["field"]] = c["new_value"]
-            r["notes"] = (r["notes"] + f" [T3 correction: {c['field']} {old!r} -> {c['new_value']!r}: {c['reason']}]").strip()
-            n_corr += 1
-log(f"tier-3 corrections applied: {n_corr}")
 
 # recompute the post-report flag deterministically from dates (agents set it inconsistently)
 n_flag = 0

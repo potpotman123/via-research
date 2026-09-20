@@ -1,16 +1,16 @@
 # VIA contract census: analysis summary
 
-Generated from out/via_contract_census.csv: 390 rows = 298 Via contract actions (6 Downtowner pre-acquisition) + 30 competitor awards + 62 app-only observations.
+Generated from out/via_contract_census.csv: 404 rows = 312 Via contract actions (7 Downtowner pre-acquisition) + 30 competitor awards + 62 app-only observations.
 
 ## 1. Scope mix (Via contract actions, excl. Downtowner pre-acquisition)
 
 | Scope | Actions (count) | Distinct agencies | Rows with $ | Annualized $mm (rows with $) |
 |---|---|---|---|---|
-| Turnkey | 128 | 60 | 73 | 283.7 |
+| Turnkey | 136 | 65 | 74 | 268.7 |
 | Hybrid | 9 | 8 | 2 | 23.7 |
-| Software-only | 101 | 61 | 52 | 7.2 |
-| Unknown | 54 | 46 | 10 | 16.6 |
-| **Total** | **292** | **146** | | **331.2** |
+| Software-only | 110 | 68 | 53 | 7.4 |
+| Unknown | 50 | 44 | 8 | 12.4 |
+| **Total** | **305** | **158** | | **312.2** |
 
 Dollar-weighted shares among rows with a value and a known scope (annualized; NTE ceilings treated as annual where the document gave only a ceiling and a term, so this overstates spend): Turnkey 90%, Hybrid 8%, Software-only 2%
 
@@ -20,11 +20,11 @@ Caveats: the table above sums every action, so an agency with eight renewals cou
 
 | Scope | Agencies | Annualized $mm | Share of $ | Median $mm |
 |---|---|---|---|---|
-| Turnkey | 35 | 130.9 | 76% | 2.12 |
+| Turnkey | 37 | 134.0 | 78% | 2.12 |
 | Hybrid | 2 | 23.7 | 14% | 15.88 |
-| Software-only | 32 | 2.7 | 2% | 0.05 |
-| Unknown | 8 | 13.9 | 8% | 1.66 |
-| **Total** | **77** | **171.2** | | |
+| Software-only | 33 | 2.9 | 2% | 0.05 |
+| Unknown | 7 | 11.7 | 7% | 0.88 |
+| **Total** | **79** | **172.3** | | |
 
 Excluding Unknown: Turnkey 83%, Hybrid 15%, Software-only 2%
 
@@ -36,7 +36,7 @@ Top 15 agencies by run-rate:
 |---|---|---|---|---|---|
 | Trinity Metro (Fort Worth Transportation | TX | Hybrid | 2024-02-20 | 15.9 | not stated |
 | Los Angeles County Metropolitan Transpor | CA | Turnkey | 2024-10-03 | 15.3 | not stated |
-| City of Mobile | AL | Turnkey | 2025-09-16 | 12.1 | fixed fee |
+| City of Mobile | AL | Turnkey | 2025-09-16 | 12.1 | not stated |
 | Denton County Transportation Authority ( | TX | Turnkey |  | 11.3 | per service hour |
 | City of Arlington | TX | Turnkey | 2024-12-17 | 10.4 | per on-demand service  |
 | City of Plano | TX | Turnkey | 2026-02-23 | 8.0 | not stated |
@@ -60,7 +60,8 @@ Top 15 agencies by run-rate:
 | 2026-02-24 | Douglas County | CO | renewal | Turnkey | 4404615 |  |  | per vehicle hour | staff-re | medium | Signing entity: River North Transit LLC, a subsidiary of Via Transportation Inc. Quote: '2026 Public Contract for Services with River North  |
 | 2026-03-16 | Utah Transit Authority | UT | award | Turnkey | 3463509 |  |  | per driver hour | contract | medium | Signing entities: River North Transit, LLC ('Via') and Utah Transit Authority. Service Order No. 9 under On-Demand Technologies MSA (UTA Con |
 | 2026-03-24 | Town of Addison | TX | award | Turnkey | 935495 | 1609530 | 61.1 | per vehicle hour | contract | high | Signing entity: Tidewater Transit, LLC ('Contractor'), a Via affiliate (confirmed Via entity per FY2025 10-K Exhibit 21.1: Hampton Roads/Tri |
-| 2026-04-06 | New Jersey Transit Corporation | NJ | pilot | Turnkey |  |  |  | not stated | news | medium | BERGEN COUNTY ZONE of the MicroLink pilot (Knickerbocker Road corridor: Bergenfield, Tenafly, Englewood, Teaneck). ROI-NJ (2026-04-03), quot |
+| 2026-04-06 | New Jersey Transit Corporation MicroLink | NJ | pilot | Turnkey |  |  |  | not stated | news | medium | BERGEN COUNTY ZONE of the MicroLink pilot (Knickerbocker Road corridor: Bergenfield, Tenafly, Englewood, Teaneck). ROI-NJ (2026-04-03), quot |
+| 2026-04-06 | New Jersey Transit Corporation MicroLink | NJ | pilot | Software-only |  |  |  | annual subscriptio | news | medium | MONMOUTH COUNTY ZONE of the same MicroLink pilot (Covered Bridge/Yorktown areas of Manalapan; Stonehurst/Raintree areas of Freehold Township |
 | 2026-04-10 | Region 4 Education Service Center (OMNIA | TX | award | Unknown | 100000 |  |  | not stated | staff-re | medium | Cooperative purchasing action per brief (agency recorded as the cooperative's lead agency, Region 4 Education Service Center, a Texas local  |
 | 2026-04-21 | City of Grand Prairie | TX | amendment | Turnkey | 1577025 |  |  | not stated | amendmen | high | Amendment extends the Dec-2021 Services Price Agreement (see prior row) for 'an additional four and a half month term' through 2026-09-30, t |
 | 2026-04-21 | Town of Highland Park | TX | award | Unknown | 1550000 |  |  | not stated | news | low | People Newspapers: Town Council vote reported 2026-04-21 approving 'a $1.55 million amendment to the FY26 budget to fund the transportation  |
@@ -72,7 +73,7 @@ Top 15 agencies by run-rate:
 | 2026-08-04 | Grand County | UT | award | Turnkey | 2640841 |  |  | not stated | news | medium | 'Via would provide drivers and oversee daily operations, including maintenance, technology, customer service, reporting, using up to 12 whee |
 | 2026-08-27 | Suburban Mobility Authority for Regional | MI | other | Software-only |  |  |  | not stated | news | medium | Via press release 2026-08-27: 'Via and SMART Expand On-Demand Microtransit Into Northern Macomb County... New partnership with Richmond Leno |
 
-Post-report mix by count: {'Turnkey': 11, 'Unknown': 4, 'Hybrid': 1, 'Software-only': 1}. Annualized $ by scope: {'Turnkey': 21.2, 'Unknown': 0.0, 'Hybrid': 7.8, 'Software-only': 0.0} ($mm)
+Post-report mix by count: {'Turnkey': 11, 'Software-only': 2, 'Unknown': 4, 'Hybrid': 1}. Annualized $ by scope: {'Turnkey': 21.2, 'Software-only': 0.0, 'Unknown': 0.0, 'Hybrid': 7.8} ($mm)
 
 ## 3. Losses, terminations, budget exclusions and competitor awards
 
@@ -180,6 +181,7 @@ n=19, min 35.83, median 61.10, max 147.32. OMNIA R250802 list: microtransit turn
 | North County Transit District | CA |  | 362643.01 | not stated |  |  | Software-only |
 | Orange County | NC |  | 34000 | NTE/fixed (term unspecif |  |  | Software-only |
 | Regional Transportation Commission of So | NV | 2025-05-22 | 77250 | annual subscription (Saa |  |  | Software-only |
+| San Francisco Municipal Transportation A | CA | 2019-08-20 | 138200 | per year |  |  | Software-only |
 | Tahoe Truckee Area Regional Transportati | CA | 2023-11-28 | 400000 | pilot program funding |  |  | Turnkey |
 | Toledo Area Regional Transit Authority | OH | 2024-02-15 | 135000 | 3 years |  |  | Software-only |
 | Town of Morrisville | NC |  | 142280 | NTE (term unspecified) |  |  | Software-only |
@@ -199,6 +201,7 @@ OMNIA list: microtransit software installation $27,758.50 (<=20 vehicles) / $37,
 
 - 2025-08-05 City of Salisbury (NC): award, Turnkey, total 2895000, annual 
 -  City of Moab (UT): award, Turnkey, total , annual 
+- 2024-07-16 Lake County (CO): award, Turnkey, total 1380748, annual 
 - 2024-10-29 City and County of Denver (CO): award, Turnkey, total 5991681, annual 
 - 2023-08-24 Washoe County (NV): extension, Turnkey, total , annual 400000
 - 2016-06-21 City of Manhattan Beach (CA): award, Turnkey, total , annual 
@@ -210,8 +213,6 @@ OMNIA list: microtransit software installation $27,758.50 (<=20 vehicles) / $37,
 |---|---|---|---|---|---|
 | 6.3 | Bi-State Development Agency (Metro Trans | 2025-04-18 | extension | 6344000 | Resolution #1421, Bi-State Development Agency Board of Commissioners, April 18, 2025. Quote: "authorizes the President a |
 | 2.4 | City of Norwalk | 2025-10-07 | pilot | 2440370 | Signing entity: Nomad Transit LLC, a wholly owned subsidiary of Via Transportation, Inc. Quote (p.4): 'RESOLUTION NO. 25 |
-| 2.2 | Lorain County | 2025-07-01 | extension | 2200000 | Lorain County Board agenda item #26 (07/01/25). Signing entity: River North Transit, LLC, 'a wholly owned subsidiary of  |
-| 2.0 | Trinity Metro (Fort Worth Transportation | 2018-12-17 | pilot | 10000000 | Background recital in packet 387 (Trinity Metro BA2024-12): 'On December 17, 2018, the Trinity Metro Board of Directors  |
 | 1.7 | City of Chandler | 2025-05-01 | renewal | 3315000 | River North Transit, LLC (Via) -- signing entity per news article. Quote: 'The renewed agreement with River North Transi |
 | 0.9 | City of New Haven | 2023-04-06 | pilot | 3500000 | Board of Alders resolution LM-2023-0251 (matter dated 2023-04-06), 'AUTHORIZING THE MAYOR TO APPLY FOR AND ACCEPT GRANT  |
 | 0.7 | Los Angeles County Metropolitan Transpor | 2018-04-26 | award | 348684.69 | LA Metro Regular Board Meeting Minutes, April 26, 2018, Item 38 (2018-0117), 'MICROTRANSIT PILOT PROJECT (MTP)': 'AUTHOR |
