@@ -1,6 +1,6 @@
 # VIA contract census: analysis summary
 
-Generated from out/via_contract_census.csv: 405 rows = 313 Via contract actions (7 Downtowner pre-acquisition) + 30 competitor awards + 62 app-only observations.
+Generated from out/via_contract_census.csv: 403 rows = 313 Via contract actions (7 Downtowner pre-acquisition) + 28 competitor awards + 62 app-only observations.
 
 ## 1. Scope mix (Via contract actions, excl. Downtowner pre-acquisition)
 
@@ -92,7 +92,6 @@ Post-report mix by count: {'Turnkey': 11, 'Software-only': 2, 'Unknown': 4, 'Hyb
 | 2023-07-17 | Los Angeles County Metropolitan Transpor | CA | competitor-award | Software-only | 14120992 | [relabeled competitor-award from amendment] Competitor contract (RideCo, Inc.), Contract No. PS46292001. Quote (p.2): 'AUTHORIZE the Chief Executive O |
 | 2024-03-27 | Los Alamos County | NM | competitor-award | Software-only | 2806814.96 | COMPETITOR AWARD (Spare Labs Inc., not Via). Los Alamos County, NM; Legistar matter AGR1040-24 (2024-03-27): "Approval of Services Agreement No. AGR 2 |
 | 2024-03-28 | City of Huntsville | AL | competitor-award | Software-only | 106000 | Competitor award: RideCo US Inc. for paratransit dispatching software. City cost: $21,200; Total: $106,000; Grant: $84,800. |
-| 2024-04-24 | Alameda-Contra Costa Transit District (A | CA | competitor-award | Software-only |  | Spare Labs Inc. (competitor). 7-year term: up to 2-year implementation period + 5-year operational period. SaaS with turnkey implementation and suppor |
 | 2024-04-24 | AC Transit and BART (East Bay Paratransi | CA | competitor-award | Software-only | 4566000 | Competitor-award: AC Transit Board (staff report meeting 4/24/2024) considers authorizing a joint contract with BART, with Spare Labs Inc. for Softwar |
 | 2024-07-25 | Hillsborough County | FL | competitor-award | Software-only | 1027877.16 | Revised Notice of Intent to Award, RFP-23-24177, Paratransit Scheduling Software System, posted July 25, 2024 -- County terminates Via Transportation, |
 | 2024-08-07 | Hillsborough County | FL | termination | Software-only |  | Via Transportation, Inc., d/b/a Via Mobility, LLC - Hillsborough County (Sunshine Line paratransit) scheduling software contract terminated for cause. |
@@ -100,7 +99,6 @@ Post-report mix by count: {'Turnkey': 11, 'Software-only': 2, 'Unknown': 4, 'Hyb
 | 2024-09-25 | Metropolitan Council (Metro Transit) | MN | competitor-award | Software-only | 852100 | Contracting entity Spare Labs, Inc. (Via competitor). Quote: "That the Metropolitan Council authorize the Regional Administrator to negotiate and exec |
 | 2024-11-07 | Stark Area Regional Transit Authority (S | OH | termination | Unknown |  | Same SARTA Connect project sheet (p.25). Quote: 'Effective November 7, 2024, Via was officially notified of SARTA's desire to end the SARTA Connect se |
 | 2024-12-11 | Stark Area Regional Transit Authority (S | OH | termination | Turnkey |  | Tier-3 manual row from SARTA Board Meeting 12/11/2024 packet p53 (corpus doc 512): resolution to 'End The SARTA Connect Pilot Effective December 28, 2 |
-| 2024-12-16 | City of Santa Rosa | CA | competitor-award | Software-only |  | Competitor award: Remix Technologies LLC (Delaware LLC). Professional Services Agreement F002920 for transit scheduling and planning software, integra |
 | 2025-01-01 | Baldwin County Commission | AL | termination | Software-only |  | Via Mobility LLC; mutual termination agreement; original contract approved June 16, 2020 |
 | 2025-01-31 | Baldwin County Commission | AL | competitor-award | Software-only |  | Spare Labs, Inc. (competitor). Microtransit Software contract. Year 1: Base $19,200 + $2,800/vehicle (1-30) + $3,300/vehicle (30+) + $12,000 service/m |
 | 2025-03-05 | Baldwin County Commission | AL | competitor-award | Software-only |  | Competitor-award: Spare Labs, Inc. awarded micro-transit software contract for BRATS (Baldwin Rural Area Transportation System), Baldwin County, AL, r |
@@ -115,7 +113,7 @@ Post-report mix by count: {'Turnkey': 11, 'Software-only': 2, 'Unknown': 4, 'Hyb
 |  | City of Jersey City | NJ | budget-exclusion | Turnkey |  | PROPOSED, NOT YET ACTED ON as of the source articles (post-2025-12-16 budget-crisis development; exact council-vote date left blank/unknown since no v |
 |  | Hillsborough County | FL | termination | Software-only | 860825 | RFP-23-24177 Paratransit Scheduling Software System, Revised Notice of Intent to Award, posted July 25, 2024. Original contract had been awarded to Vi |
 |  | Baldwin County Commission | AL | competitor-award | Software-only |  | Competitor award: Baldwin County Commission Contract for Professional Services with Spare Labs, Inc. (Suite 810, 815 W Hastings St, Vancouver BC), for |
-|  | San Francisco Bay Area Rapid Transit Dis | CA | competitor-award | Software-only | 5246000 | Competitor-award: Spare Labs Inc. awarded Contract No. 6M4830 for East Bay Paratransit Consortium (EBPC) scheduling software, replacing the incumbent  |
+|  | AC Transit and BART (East Bay Paratransi | CA | competitor-award | Software-only | 5246000 | Competitor-award: Spare Labs Inc. awarded Contract No. 6M4830 for East Bay Paratransit Consortium (EBPC) scheduling software, replacing the incumbent  |
 |  | Los Angeles County Metropolitan Transpor | CA | competitor-award | Software-only |  | Same DEOD Summary as the NoMad Transit LLC (Via) row (packet 460): Rideco is Prime for PS46292001 with SBE/DVBE subcontractors Civic Projects Incorpor |
 
 ## 4. Stated per-hour rates (turnkey / operations)

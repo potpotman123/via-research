@@ -104,6 +104,9 @@ ALIASES = {
     "maryland transit administration": "Maryland Transit Administration", "stark area regional transit authority": "Stark Area Regional Transit Authority (SARTA)",
     "state of north dakota": "State of North Dakota", "city of fargo": "City of Fargo (Metropolitan Area Transit)",
     "sacramento regional transit district": "Sacramento Regional Transit District (SacRT)",
+    "alameda contra costa transit district": "AC Transit and BART (East Bay Paratransit Consortium)",
+    "ac transit and bart": "AC Transit and BART (East Bay Paratransit Consortium)",
+    "san francisco bay area rapid transit district": "AC Transit and BART (East Bay Paratransit Consortium)",
 }
 
 
@@ -119,7 +122,7 @@ for r in rows:
         r["agency"] = ALIASES[k]
     # deterministic relabel: rows whose notes identify a competitor's contract are competitor awards
     if r["contract_action"] != "competitor-award" and re.search(r"\bcompetitor\b|RideCo, Inc\.|Spare Labs, Inc\.", r["notes"]) \
-            and not re.search(r"NoMad|Nomad|River North|Via Mobility, LLC|Crosby|Tidewater|Port City", r["notes"][:400]) \
+            and not re.search(r"NoMad|Nomad|River North|Via Mobility, LLC|Crosby|Tidewater|Port City|Remix", r["notes"][:400]) \
             and re.search(r"RideCo|Spare", r["notes"][:300]):
         r["notes"] = f"[relabeled competitor-award from {r['contract_action']}] " + r["notes"]
         r["contract_action"] = "competitor-award"
