@@ -1,0 +1,58 @@
+# source: raw/bleecker_drive/Arlington, Texas/Via_Contract_FINAL_Redacted.pdf
+# path: raw/bleecker_drive/Arlington, Texas/Via_Contract_FINAL_Redacted.pdf
+# hit page: 63 of 68
+# terms: Via+fleet, Via+vehicles
+
+=== page 62 ===
+
+=== page 63 ===
+Contractor will subcontract autonomous vehicles and autonomous vehicle operations to a 
+subcontractor, May Mobility. To the extent any third party liability arises from May Mobility’s 
+negligence, gross negligence, or willful misconduct, Contractor shall not be liable to City except 
+to the extent such liability was caused by Contractor’s own gross negligence or willful 
+misconduct.  Any and all subcontractors shall be subject to all insurance and indemnification 
+requirements included in this Contract, as modified, and Contractor shall include such insurance 
+and indemnification requirements, specifically indemnifying City, in any subcontracts. 
+ 
+For the avoidance of doubt, funding for the steps described herein with respect to the Arlington 
+RAPID project will be limited to the $4,020,224 dedicated for the Contract term. Contractor 
+shall provide the following tasks and services during the Contract term: 
+ 
+● Continuation of RAPID Service: Total $100,000.00 
+o Task a: Service Integration. Via will continue to integrate the RAPID deployment 
+within the broader rideshare service and provide a coordinated service for ride 
+booking, payment, and vehicle routing. ($33,333) 
+o Task b: Autonomous Vehicle Operations. May Mobility will provide a fleet of 
+autonomous vehicles and all maintenance and operational needs for this fleet. 
+($66,667) 
+● Launch of RAPID Service with NCTCOG funding when available and accepted by City 
+Council: Total $3,920,224 in NCTCOG funding and Total $496,686 in-kind 
+contributions 
+o Tasks to include Project Management; Service Operations; and Data Collection, 
+Evaluation, and Reporting.  
+ 
+12.  Advertising 
+ 
+During the Contract term of the Service, Contractor can collect revenue by entering into 
+advertising partnerships. Contractor will be solely responsible for coordinating the 
+implementation of various advertising solutions which may be effected through third party 
+service providers and include, but shall not be limited to, selling advertising space on the 
+vehicles. In the event any services are effected through third party service providers, Contractor 
+shall provide notice thereof to City.        
+      
+Nonetheless, in implementing advertising for the Service, Contractor shall comply with the 
+Arlington On-Demand Rideshare Service Advertising Guidelines approved by Arlington City 
+Council on October 13, 2020, as may be amended from time to time, which are incorporated 
+herein as Exhibit D by reference as though written word for word. In the event City receives an 
+appeal of Contractor’s decision not to run an advertisement, the City shall provide prior written 
+notice (e-mail acceptable) to Contractor of the appeal and of its ultimate decision.  Contractor 
+shall notify the City of the reason for the denial.   
+      
+Contractor will be responsible for all costs associated with the advertising program, including but 
+not limited to installation, maintenance, repairs, customer service. All advertising revenue 
+collected by Contractor will be credited to the City on the monthly statements. Contractor shall 
+provide monthly reports to the City in respect of this program which reporting shall provide an
+=== page 64 ===
+overview of the program’s development and relevant metrics including revenue generated for 
+such month and a running balance of revenue invested in the Service. From time to time such 
+reports may include suggestions for optimizing the program.

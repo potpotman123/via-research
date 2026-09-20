@@ -1,0 +1,110 @@
+# source: raw/bleecker_drive/Lee County/RFP250034SML Via Mobility Executed.pdf
+# path: raw/bleecker_drive/Lee County/RFP250034SML Via Mobility Executed.pdf
+# hit page: 28 of 171
+# terms: Via+vehicles
+
+=== page 27 ===
+Solicitation No. RFP250034SML 
+Page 27 of 36 
+EXHIBIT B 
+FEE SCHEDULE 
+Set Up Fee and Minimum Annual Fees:  
+The County agrees to pay Vendor a minimum annual Vehicle Management Fee of $96,000 (“Minimum 
+Annual Fee”), calculated based on a minimum of 40 active vehicles per calendar month. The initial 
+Paratransit Services - Set Up Fee (“Setup Fee”) installment and the first Minimum Annual Fee are payable 
+upon software launch. In subsequent years, the Set Up Fee installment and Minimum Annual Fee shall be 
+payable annually on the anniversary of the launch date, subject to earlier payment of the Set Up Fee 
+installments in the event of non-renewal per Ex. A section 17. 
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7
+=== page 28 ===
+Solicitation No. RFP250034SML 
+Page 28 of 36 
+Incremental Monthly Fee: 
+In the event that more than 40 vehicles are used during a given calendar month, Vendor will calculate 
+Incremental Monthly Fees at the per vehicle rate above and provide the County with an invoice based on the 
+actual number of active vehicles used during the previous month. The County shall be responsible for paying 
+the Incremental Monthly Fee within 45 days of the date of such invoice in accordance with the terms of the 
+Agreement.  
+Vendor shall calculate the Fees due. For the avoidance of doubt, (i) the number of vehicles per month for purposes of the above fees 
+shall be the maximum number of distinct vehicles input by County that use the Via Solution on any given day over the course of the 
+applicable calendar month and (ii) in the event the duration of the deployment does not exactly match calendar months, monthly fees 
+will be prorated for the first and/or last calendar months of the deployment, as applicable, so that County will only be charged for the 
+portion of such months during which the Via Solution was available to be used for the deployment. 
+County shall reimburse all travel expenses of Vendor personnel for purposes of the deployment. Installation-related services 
+described above will initially be performed remotely, and if Vendor deems it necessary, in person by Vendor personnel for a limited 
+period around launch.  Thereafter, services will continue to be performed remotely as applicable, provided that Vendor personnel 
+can be sent to County’s location for additional trips upon reasonable request.  
+Twilio. Price includes our generic package for Twilio cost for 4 SMS notifications and 1.25 minutes of Twilio voice time per ride, at a 
+maximum of $0.06 per ride on average for all rides completed within each calendar month. Any costs associated with Twilio in 
+excess of $0.06 per ride will be billed to the County as at cost plus 10% on a monthly basis. 
+The fees set forth above do not include any owed to the third-party payment processor. Vendor will facilitate an introduction to its 
+recommended payment processor and County is responsible for entering an agreement with such payment processor in order to be 
+able to process credit card payments. 
+Launch Delay. If the mutually agreed launch date is delayed for more than a calendar month by the County 
+for any reason, the County shall be responsible for paying the Vendor a $2,000 monthly technology fee for 
+the cost of maintaining the technology infrastructure for County’s deployment during the period of delay (the 
+“Technology Fee”).  The Technology Fee shall be payable monthly at the beginning of the month in which it 
+is incurred. In the event that the duration of the delay does not exactly match calendar months, the 
+Technology Fee will be prorated for the relevant month in which launch occurred. 
+Declared Emergency. If, during a given calendar month, Lee County experiences a Declared Emergency 
+resulting in the number of vehicles falling materially below the 40-vehicle minimum for an extended period, 
+Vendor and the County may negotiate an appropriate credit to be applied to a subsequent invoice. A 
+“Declared Emergency” occurs in the event a natural disaster results in the Governor of Florida or the 
+President of the United States declaring a state of emergency covering Lee County.
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7
+=== page 29 ===
+Solicitation No. RFP250034SML 
+Page 29 of 36 
+Lee County 
+-- • 
+.f,.t!u,,,,t fl,,.i/a 
+Procurement Management Department 
+2115 Second Street, 1'' Floor 
+Fort Myers, FL 33901 
+Main Line: (239) 533-8881 
+Fax Line: (239) 485-8383 
+www.leegov.com/procurement 
+Posted Date: February 27, 2025 
+Solicitation No.: RFP250034SML 
+Solicitation Name: LeeTran Paratransit Software Management System 
+Subject: Addendum Number 1 
+The following represents clarification, additions, deletions, and/or modifications to the above referenced bid. This 
+addendum shall hereafter be regarded as part of the solicitation. Items not referenced herein remain unchanged, including 
+the response date. Words, phrases or sentences with a strikethrough represent deletions to the original solicitation. 
+Underlined words and bolded, phrases or sentences represent additions to the original solicitation. 
+1. 
+OPEN DATE/ BID DUE DATE EXTENSION NOTICE: 
+FROM: 
+TO: 
+MARCH 13, 2025 at 2: 30 PM 
+MARCH 20, 2025 at 2: 30 PM 
+Bidders must ensure they continue to monitor the Lee County Procurement website for any follow-up information 
+regarding this solicitation. 
+2. 
+MODIFICATIONS: 
+SUBMITTAL REQUIREMENTS & EVALUATION CRITERIA 
+Submittal package may not exceed~ 30 pages printed single-sided; page restriction excludes required forms 
+found herein and dividers. 
+3. 
+QUESTIONS/ANSWERS: 
+Would Lee County be open to extending the RFP submission deadline by one to two 
+1. 
+weeks? Since this is a physical submission, the time between the close of the question 
+period and the required shipping time does not allow sufficient opportunity to 
+incorporate the County's responses into our proposal. 
+Answer 
+Please see above in number 1. Open Date/ Bid Due Date Extension Notice. Noted 
+above as an extension of the due date. 
+Would Lee County consider extending the page limit from 15 pages to at least 40 pages? 
+2. 
+This extension would allow us to submit a more complete and detailed description of 
+our solution. 
+Answer 
+Please see above in number 2. Modifications. LeeTran requests the quote to be 
+precise, pertinent, and accurate to the scope of work presented. 
+3. 
+What are the Count 's desired ro ·ect start date and service launch dates? 
+Answer 
+roximatel Summer 2025. 
+Page 1 of 4 
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7

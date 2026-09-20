@@ -1,0 +1,36 @@
+# source: raw/bleecker_drive/0.0 OMNIA Cooperative Agreement/R250802_Via_Transportation_MAD_Redacted_081825_01.pdf
+# path: raw/bleecker_drive/0.0 OMNIA Cooperative Agreement/R250802_Via_Transportation_MAD_Redacted_081825_01.pdf
+# hit page: 68 of 191
+# terms: Citymapper
+
+=== page 67 ===
+
+=== page 68 ===
+The most accurate trip plans, delivered in an intuitive app that customers love 
+Citymapper integrates real-time trip planning and nearby transport options into a single, 
+user-friendly interface. Riders can compare transit options, 
+including microtransit, shared mobility, and active travel, with live 
+departure times, fare details, and filtering options for 
+accessibility needs. Our intermodal routing combines transit with 
+bike, ride-hail, and more, providing step-by-step itineraries with 
+precise travel times, entry and exit guidance, and live bus 
+locations. 
+Our platform’s high data accuracy, powered by 40+ custom tools 
+and a team of expert analysts, ensures that users aren’t waiting 
+on "phantom" buses or relying on outdated info. Custom 
+algorithms make arrival predictions 15% more accurate than 
+industry norms, while natural language parsing of disruption 
+alerts keeps users informed and rerouted around delays. With 
+over 150 mobility partners integrated—spanning bikes, cabs, 
+scooters, and carshare—Citymapper delivers hyper-accurate, 
+up-to-date trip plans that inspire user confidence. 
+By leveraging machine learning, Citymapper ranks routes based 
+on observed preferences, allowing for localized route 
+recommendations tailored to OMNIA members’ riders. A dynamic 
+map view also shows nearby bus stops, rail stations, and bike 
+rentals, providing real-time departures and vehicle availability. 
+Citymapper empowers OMNIA members to offer trusted, engaging, and accurate MaaS 
+experiences, setting a new standard in public transit accessibility and satisfaction. 
+Proprietary, Confidential, and Trade Secret Information​
+    RFP No. 25-08  |  31
+=== page 69 ===

@@ -1,0 +1,182 @@
+# source: raw/bleecker_drive/1.0 791 Cooperative Agreement/RFP_791_2023_09_002_Mobility_As_A_Service.pdf
+# path: raw/bleecker_drive/1.0 791 Cooperative Agreement/RFP_791_2023_09_002_Mobility_As_A_Service.pdf
+# hit page: 11 of 97
+# terms: Via+fleet, Via+turnkey, Via+vehicles
+
+=== page 10 ===
+791 PURCHASING COOPERATIVE  
+ 
+ 
+Lead Agency: Central Texas Council of Governments 
+RFP #791_2023_09_002 Mobility As A Service and Solutions 
+ 
+Page 10 of 44 
+REQUIREMENTS OF AWARDED VENDORS: 
+ 
+• 
+Scope: The scope of this RFP is to award a contract to a qualifying vendor-defined as a manufacturer, 
+provider, or dealer/distributor, established as a Proposer, and deemed responsive and responsible through 
+our open and competitive proposal process. Vendors will be awarded contracts based on the proposal and 
+responders demonstrated ability to meet the expectations of the RFP and demonstrate the overall highest 
+valued solutions that meet and/or exceed the current and future needs and requirements of 791COOP and 
+its participating agencies nationally within the scope of Mobility As A Service and Solutions. 
+791 COOP may select a wide range of firms or contractor teams for partnerships that will assist agencies 
+improve personal mobility options, explore opportunities to optimize transportation network efficiency, 
+defining a role for alternative and emerging mobility services in transit operations, and prepare for future 
+transportation service technologies. 791Coop reserves the right to award single or multiple contracts from 
+this RFP. 
+ 791COOP believes the future of transit will require a network of multiple service solutions. This solicitation 
+is for all companies that provide mobility services, products, and capital vehicle leasing programs, including 
+but not limited to, long-term car leasing, Taxis, Transportation Network Companies (TNCs), Microtransit 
+companies, bikeshare and carshare companies, and any other service or product that can address some or 
+multiple types of subcategories identified below. 
+ 
+This solicitation should be read to include, but not limited to 
+6.  
+SCOPE OF SERVICES SUBCATEGORIES  
+6.1 SUBCATEGORY 1 – VEHICLE CAPITAL LEASE SERVICE/AGREEMENTS 
+ 
+This service category addresses the need for Capital/Vehicle Lease Companies to provide 791 COOP 
+with a IDIQ number and type of vehicles for future Microtransit Service in both the Urban and Rural Divisions.  
+791 COOP anticipates many of these vehicles to be leased over the duration of the contract to match service 
+demand.  Proposers must provide details of their proposed business model, including, but not limited to: 
+• 
+Leasing program; 
+• 
+Cost model for the agency; 
+• 
+Vehicles types available; 
+•  
+Time requirements of lease (duration of lease); 
+• 
+Annual and monthly maintenance program; 
+• 
+How operations and maintenance of vehicles are defined in program; 
+• 
+Options for partnering on fuel if applicable; 
+• 
+Provide 791 COOP with types of vehicles for future Micro transit service. 
+• 
+Vehicles must be able to transport between six and twelve passengers. 
+2. 
+A portion of the fleet will be required to be ADA-compliant, including wheelchair configuration with 
+an accommodating ramp or lift. 
+• 
+Vendor will provide pricing for an indefinite quantity for each vehicle type and proposed lease terms 
+and condition as well as options for early termination of the contract.
+=== page 11 ===
+791 PURCHASING COOPERATIVE  
+ 
+ 
+Lead Agency: Central Texas Council of Governments 
+RFP #791_2023_09_002 Mobility As A Service and Solutions 
+ 
+Page 11 of 44 
+ 
+ 
+ 
+6.2 SUBCATEGORY 2 - MOBILITY AS A SERVICE RESPONSE AREAS  
+The following section outlines potential service providers, technology sectors, and additional Mobility-as-a-
+Service product categories that 791 COOP will consider for selection under this solicitation. Firms and 
+Contractor Teams that do not clearly fit into one area of desired service are still encouraged to apply so that 
+791 COOP can review all innovative project proposals.  
+In the interest of Americans with Disabilities Act (ADA) accessibility and unbanked customers, 791 COOP 
+would also like to receive potential solutions to address these populations as part of the submission.  
+ 
+6.3 SUBCATEGORY 3 - DEMAND-RESPONSE RIDESHARE SERVICE  
+This service category includes scheduled or real-time, dynamic mobility services primarily booked and 
+scheduled through an online platform accessible via mobile devices or online.   
+Responses in this project category can include (but are not be limited to):  
+• 
+‘Self-dispatch’ solutions that provide a customer a direct portal (such as a phone app) to personally 
+book a transportation provider for curb-to-curb, on-demand transportation, with actual transportation 
+provided through 791 COOP’s fleet or a TNCs that provides vehicles and operating personnel.    
+• 
+TNCs that provide vehicles and operating personnel that can deliver demand-response 
+transportation services through requests from online portals set up by 791 COOP. The agency is seeking 
+solutions that already demonstrate integration with other dispatch and booking solutions.  
+• 
+Other mobility service models that fit the requirements of this category, which combine some or all 
+the elements above. These include ‘turnkey’ solutions provided through a single contract that can provide 
+real-time, dynamic service, software applications, service operators, customer service, vehicle storage, 
+maintenance, service marketing, and data reporting.  
+ 
+  
+ 
+6.4 SUBCATEGORY 4 - SELF-OPERATED SHARED MOBILITY SERVICES  
+ 
+This service category includes leasable modes of transportation, both motorized and nonmotorized, 
+that can be used to supplement existing transit options.  
+ 
+Responses in this project category may include, but are not limited to:  
+• 
+Bikeshare companies  
+• 
+Carshare companies  
+• 
+Scooter rental  
+• 
+Other motorized or non-motorized vehicle rentals  
+• 
+Any combination of the above services  
+  
+6.5 SUBCATEGORY 5 - PLATFORM-AS-A-SERVICE  
+This service category includes software, apps, and technology solutions that allow for the use of personal
+=== page 12 ===
+791 PURCHASING COOPERATIVE  
+ 
+ 
+Lead Agency: Central Texas Council of Governments 
+RFP #791_2023_09_002 Mobility As A Service and Solutions 
+ 
+Page 12 of 44 
+devices and/or smartphones as a portal for multimodal service options. Responses in this category do not 
+necessarily have to provide the transportation service, but they do need to address how their technologies 
+will interface with on-demand mobility providers, both public and private, and provide a seamless and 
+convenient customer experience.  
+  
+Responses in this project category may include:  
+• 
+On-Demand Transportation Software – Technology that can assist in the operations of on-demand 
+transportation service. Software can be utilized by either passengers or fleet vehicle operators to perform 
+on-demand service along customized parameters.  
+• 
+Multimodal Mobility Management Platforms – Software and apps that allow a customer to book 
+transportation services across several modes through both public and private providers.   
+• 
+Centralized Fare Payment Systems – Platforms must address the ability to integrate with fare 
+collection systems and allow different types of fare structures and appropriate tracking of those structures.  
+• 
+Fixed-Route Integration – The platform must demonstrate capabilities to integrate vehicle location 
+and transfer capabilities between Microtransit and Fixed-Route. 
+Firms or contractor teams must outline how their services integrate with mobile apps and fare payment 
+systems. Flexibility and willingness to create Application Programming Interfaces (APIs) and cross-platform 
+solutions will still be viewed favorably in the proposal. The selected platform provider shall provide 
+technology and/or integrate with current onboard technologies to effectively provide a seamless experience 
+for customers and staff. 
+The following table captures the various requirements that must currently exist within the software platform 
+selected as 791 COOP’s Brokerage Clearing House “Engine.” The selected platform shall contain, and/or have 
+the ability to perform, all of the following Software Platform Features in an Intermodal Transportation System 
+as described below. The selected platform shall assign and broker trips to various Service Providers and 
+comingle various transportation services offered. It shall further separate and track costs by funding source 
+from different fare media and pull all data necessary to fulfill applicable Federal Reporting Requirements 
+such as (but not limited to) FTA’s National Transit Database (NTD) and the Texas Department of 
+Transportation’s (TxDOT’s) Public Transportation Division’s PTN-128 requirements. 
+ 
+1. 
+The system shall allow for all demand response services (Microtransit, ADA/paratransit, NEMT, dial-
+a-ride, etc.) to be centralized in a single platform for scaling across a city or region all within the same window. 
+2. 
+The services shall be able to have different business rules for different types of functions 
+(Microtransit, ADA/paratransit, Non-Emergency Medical Transportation, Fixed-Route, etc.) while sharing the 
+same fleet. The software must be able to differentiate between these service types for both operational and 
+reporting purposes. 
+3. 
+The ability to have multiple zones within a service, and each zone should be able to have a specific 
+configuration. For example, it shall be possible to have customizable stops and locations including door-to-
+door, curb-to-curb, origin-to-destination, and/or customer redirect to designated stop location. 
+4. 
+Map data, such as addresses, should be automatically updated with the option of manual 
+intervention. 
+5. 
+Zones should have time restrictions attached to certain configurations, so it should be possible to

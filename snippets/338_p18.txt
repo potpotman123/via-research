@@ -1,0 +1,66 @@
+# source: raw/bleecker_drive/Key West/22_2659_Agreement.pdf
+# path: raw/bleecker_drive/Key West/22_2659_Agreement.pdf
+# hit page: 18 of 19
+# terms: Via Transportation
+
+=== page 17 ===
+Exhibit A  
+Sample Invoice
+=== page 18 ===
+CONFIDENTIAL 
+ 
+ 
+ 
+[VIA ENTITY NAME] 
+Via Transportation, Inc. 10 
+Crosby Street, Floor 2 
+New York NY 10013 United 
+States 
+ 
+ 
+Bill To 
+[Partner] 
+[Address] 
+ 
+ 
+Invoice 
+ 
+Date 
+ 
+Invoice # 
+ 
+ 
+Terms 
+Net 15 
+Due Date 
+ 
+PO # 
+Billing Period
+=== page 19 ===
+Description 
+Rate 
+Quantity 
+Amount 
+Total Vehicles 
+ 
+ 
+ 
+ 
+ 
+Total 
+ 
+ 
+Please make checks payable to: 
+[__] 
+P.O. Box 7410493 Chicago, IL 
+60674-0493 
+ 
+ 
+ 
+Wire Instructions: 
+Bank of America, N.A. 
+222 Broadway, New York, NY 10038 
+Wire Routing # - 026009593 
+ACH Routing # - 021000322 Account # 
+- 483065995955 
+Swift Code - BOFAUS3N

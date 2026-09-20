@@ -1,0 +1,108 @@
+# source: https://legistar1.granicus.com/McKinney/attachments/abb0b9be-9c15-4174-9e04-7b9d82941c25.pdf
+# path: raw/cache/5e92fe54da67feb112756b4c03bca94101b9439a.pdf
+# hit page: 6 of 50
+# terms: Spare Labs
+
+=== page 5 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+behaviour from drivers and riders. However, the target demographic for this service 
+(seniors and those with special mobility needs), combined with high temperatures in 
+Texas, may mean most – if not all – riders require a door-to-door service. Spare 
+Platform does allow for rider segmentation, whereby certain riders are given access 
+to a door-to-door service, while others are on a stop-to-stop service. 
+ 
+●
+Extending the service hours​ from 6am–6pm to 6am–12am would offer coverage 
+for trips typically undertaken for night-shift work and late night 
+entertainment/recreation, thus increasing ridership as well as spreading demand 
+more evenly throughout the day. Whilst this increased ridership would come at an 
+elevated cost (both in terms of annual costs but also costs per trip), it would 
+advance CCT’s mission of providing more equitable transit across the county. 
+ 
+●
+Right-sizing ​CCT’s microtransit service (i.e. purchasing and/or using vehicles that 
+are appropriately sized for servicing the actual demand) could help to cut costs, 
+because smaller vehicles cost less to purchase, run, and maintain than the shuttle 
+vans CCT currently owns and operates. 
+ 
+●
+CCT could save on operating costs in the long-term by investing in​ two additional 
+dedicated vehicles​ to serve the majority of expected demand. This is because a 
+dedicated fleet with an hourly unit cost will be cheaper to serve longer trips than 
+using non-dedicated taxis. Using a right-sized dedicated fleet could result in savings 
+of $7 per trip and annual savings of $140,000, assuming a medium-demand, 
+low-cost scenario.  
+ 
+Steps to success 
+ 
+Building on the findings of this report, and applying Spare’s proven success in other urban 
+areas similar to Collin County, we outline how CCT is currently at a so-called ‘Phase 0’ of its 
+transit evolution: a generally unpooled, single-operator model that is expensive and highly 
+inefficient. To propel CCT towards more innovative models, Spare has designed a 
+multi-phase framework that will future-proof CCT’s operations for decades to come. 
+ 
+The framework guides CCT towards a fully flexible, regional transit system that commingles 
+multiple services to ensure an unparalleled public transit experience. The different phases 
+are summarized in the diagram below, and are revisited in more detail later in this report. 
+ 
+The clear steps to success for CCT in this framework include: 
+ 
+●
+In the first instance, a ​pooled microtransit system​ will deliver modest cost savings. 
+Perhaps the most important benefit it will bring is a ​wealth of data​ that can be 
+used to better understand the demand for transit and optimize the system further. 
+ 
+4
+=== page 6 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+●
+In subsequent phases, adding ​multiple operators ​to the service will help to create 
+operational efficiencies and introduce time- and location-specific rules such as 
+dynamic pricing. A ​mixed supply model​, which involves brokering trips to multiple 
+operators rather than just assigning trips to a single operator, could be rapidly 
+scaled up across the zone using the unique Spare Fleets feature.  
+ 
+●
+Eventually, it could be possible to introduce ​commingling​ to Collin County, which 
+involves providing different service types (e.g. microtransit, paratransit, NEMT, 
+school runs) with the same fleet of vehicles, allowing each service to maintain its 
+distinctive nature while sharing vehicle resources. This fully flexible system allows 
+different service configurations, rules and rider groupings to be respected, and 
+provides the same quality of service expected by each rider. Commingling will 
+deliver an amazing rider experience and unparalleled savings for CCT.  
+ 
+ 
+Figure 1. Spare’s framework for propelling CCT into the future. 
+ 
+ 
+ 
+ 
+5
+=== page 7 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+Overview and context 
+ 
+The City of McKinney, the McKinney Urban Transit District (MUTD) and the Denton County 
+Transportation Authority (DCTA) provide Collin County Transit (CCT), a ​subsidized taxi 
+voucher program​. Participating cities include Celina, Lowry Crossing, McKinney, Melissa, 
+Princeton and Prosper (Figure 2). CCT is seeking to maintain the same coverage, whilst 
+improving efficiencies and reducing costs by running the system on a sophisticated trip 
+matching and dispatching on-demand platform. 
+ 
+In the proposed system, trips would be permitted to start and end anywhere in the six 
+participant cities for a set fare ($3 for trips starting and ending within the six cities, and $5 
+for trips ending in the wider county). No trips would be permitted to start from outside the 
+MUTD cities. A special provision would allow trips to start or end at the Parker Road Light 
+Rail Station in the City of Plano, to improve connection with the Dallas-Fort Worth region via 
+the Dallas Area Rapid Transit (DART) system. 
+ 
+The target demographic for this system is senior citizens and those with mobility issues, 
+although the system will remain open to anybody. This report touches on the benefits of 
+opening up the service to a wider demographic through extended service hours.  
+ 
+ 
+Figure 2. Primary zone for McKinney Urban Transportation District (MUTD) participating cities and Parker 
+Road LRT Station (including a connection corridor), where on-demand trips can start or end. The wider 
+Collin County area, where trips can end but not originate, is also shown.  
+ 
+6

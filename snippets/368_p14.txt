@@ -1,0 +1,75 @@
+# source: raw/bleecker_drive/Bay Transit/REDACTED-Via-Mobility-LLC-Response_RFP-2024-01-Transit-Scheduling-Software.pdf
+# path: raw/bleecker_drive/Bay Transit/REDACTED-Via-Mobility-LLC-Response_RFP-2024-01-Transit-Scheduling-Software.pdf
+# hit page: 14 of 60
+# terms: Via+drivers
+
+=== page 13 ===
+3. References
+Below, we have included 3 references where we currently provide transit scheduling
+software, followed by descriptions of the services provided.
+Proprietary, Confidential, and Trade Secret Information
+RFP #2024-01 Transit Scheduling Software | 11
+=== page 14 ===
+4. Scope of Work
+We are excited to leverage our best-in-class software solution and the expert support of
+the Via team to help Bay Transit transition their demand response services from
+Routematch to the Via platform. Unifying demand response and on-demand services onto
+the Via platform will enhance both the user experience and efficiency of the services in
+the short term, while also offering long-term sustainability and scalability as needs evolve.
+We will leverage a dedicated project team to ensure that Bay Transit receives prompt
+support and excellent guidance in developing their services. In particular, our platform
+and project team will accomplish the RFP’s stated needs and goals, including:
+Scalable: Meeting Bay Transit’s evolving service needs by providing a
+software platform with scalable infrastructure, capabilities, and features.
+Flexible: Matching the nuanced local needs of Bay Transit riders, drivers,
+and staff by offering flexible platform configurations.
+Easy to Use: Improving Bay Transit’s rider, driver, and provider experience
+through a user-friendly, integrated, and automated software suite.
+Interoperable: Accommodating Bay Transit’s existing and future technology,
+hardware, and software systems through compatible integration capabilities.
+Secure: Protecting data, systems, and users from unauthorized access,
+malicious attacks, and vulnerabilities through robust security standards.
+Safe: Prioritizing user safety through a combination of features relating to
+data security, incident response, and safe transportation operations.
+Reliable and Available: Ensuring the delivery of consistent performance
+through constant system monitoring and prompt incident response.
+We will work closely with Bay Transit to meet and exceed the requirements defined in
+Section 2.3 of the RFP. Below, we have outlined our approach for each group of
+specifications, and welcome further discussion on how we can best support Bay Transit.
+RFP #2024-01 Transit Scheduling Software | 12
+=== page 15 ===
+‭4.1 Service Types‬
+‭4.1.1 Demand Response and On-Demand (Microtransit) Service‬
+‭As Bay Transit’s existing on-demand software provider for Bay Transit Express, Via offers‬
+‭the unique capability to‬‭seamlessly integrate on-demand‬‭and demand response‬
+‭services‬‭, such as the New Freedom Mobility Management‬‭program, onto one platform.‬
+‭This offers riders across demographics and regions a seamless journey planning and ride‬
+‭booking experience, while allowing dispatchers and administrators to manage separate‬
+‭services within one interface.‬
+‭4.1.2 Deviated Fixed-Route Service and Seasonal Trolley Service‬
+‭While Via specializes in on-demand and demand response transportation solutions, we‬
+‭have experience working with a range of fixed-route software providers, including Swiftly,‬
+‭GMV Syncromatics, and Equans. Our software platform can integrate seamlessly with that‬
+‭of any fixed-route provider that Bay Transit chooses to partner with and can enable‬
+‭intuitive app-based journey planning across deviated fixed routes, seasonal trolleys,‬
+‭demand response, and on-demand modes.‬
+‭4.2 Software Specifications‬
+‭4.2.1 Customer Interface‬
+‭Via will expand our existing customer interface‬
+‭for Bay Transit Express to deliver an exceptional‬
+‭user experience for the region’s demand‬
+‭response riders. Bay Transit will continue to‬
+‭benefit from our white-labeled Rider App, which‬
+‭will be both iOS and Android compatible, and a‬
+‭web application with the same booking flow and‬
+‭user functionality as the Rider App. Our‬
+‭applications will allow the service’s riders to book‬
+‭and pay for rides, on demand or in advance, with‬
+‭only a few taps. Riders will be able to see their‬
+‭pick-up and drop-off locations, and track their‬
+‭vehicles in real-time before and throughout the‬
+‭duration of their trips. Quality rider applications‬
+‭can enhance the rider experience — providing a convenient all-in-one location for‬
+‭booking, tracking, and canceling rides, payment/refunds, making complaints, and‬
+‭contacting support in real-time for questions, additional assistance, or general support.‬
+‭RFP #2024-01 Transit Scheduling Software‬ ‭|‬ ‭13‬

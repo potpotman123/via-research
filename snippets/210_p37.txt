@@ -1,0 +1,106 @@
+# source: https://legistar1.granicus.com/McKinney/attachments/abb0b9be-9c15-4174-9e04-7b9d82941c25.pdf
+# path: raw/cache/5e92fe54da67feb112756b4c03bca94101b9439a.pdf
+# hit page: 37 of 50
+# terms: Spare Labs
+
+=== page 36 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+Right-sizing transit vehicles (i.e. purchasing and/or using vehicles that are appropriately 
+sized for servicing the actual demand) can substantially lower transit agency costs, because 
+smaller vehicles cost less to purchase, run, and maintain than traditionally sized buses. 
+Smaller vehicles also tend to have lower licensing requirements than commercial transit 
+vehicles, meaning that the labor pool from which CCT could recruit drivers will be larger 
+and cheaper.  
+ 
+Since CCT currently makes use of taxis from Irving Holdings, many of the vehicles are 
+presumably smaller and therefore right-sized for this particular zone. However, CCT could 
+save on costs if they invested in new dedicated shuttle vehicles that were fit for purpose.  
+ 
+ 
+Figure 17. Maximum simulated vehicle occupancy in all simulations 
+ 
+The financial model underpinning the figures in this report assumes that CCT makes full 
+use of its three dedicated vehicles, with one vehicle being mainly reserved for the use of 
+low-mobility riders, while being used for general microtransit during idle periods. Any 
+additional vehicles are assumed to be supplied as non-dedicated taxis by an operator such 
+as Irving Holdings.  
+ 
+However, the annual and per-trip costs would ultimately decrease if CCT were to run the 
+entire service solely using dedicated vehicles. This is because running a dedicated vehicle at 
+a cost of $50 per hour is cheaper than employing a taxi to serve long (10–15 mile) trips at 
+$2.40 per mile. CCT’s recently approved $3 flat fare is expected to incentivize riders to take 
+slightly longer trips than before (when a variable fare had been in place), and the inclusion 
+of Parker Road LRT station in the zone will increase average trip distances. Therefore, a 
+dedicated fleet with a unit cost per hour is likely to pay off in the long run for CCT. The table 
+below shows that using a dedicated fleet to meet the majority of demand could result in 
+savings of $7 per trip and $140,000 annually under a medium-demand, low-cost scenario. 
+ 
+ 
+35
+=== page 37 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+ 
+2 dedicated vehicles + 
+2 non-dedicated vehicles 
+(Medium demand, 4 duties) 
+4 dedicated vehicles + 
+occasional non-dedicated trips 
+(Medium demand, 4 duties) 
+Cost per trip 
+$43 
+$36 
+Annual cost 
+$830,000 
+$690,000 
+ 
+CCT could therefore consider purchasing one or two additional vehicles to meet the 
+capacity needed to cover a medium demand scenario, and only use non-dedicated taxis to 
+cover any additional demand at peak times. This is easily achieved through the innovative 
+Spare Fleets trip brokering feature. 
+ 
+CCT’s new vehicles would not have to be large shuttle vans; instead, they could purchase 
+smaller 5-person vehicles that are cheaper to maintain, insure, fuel and staff. Replacing one 
+of CCT’s three existing cutaway vehicles with another smaller vehicle that is more fit for 
+purpose would also deliver additional savings over the lifetime of the service. 
+ 
+In any case, the potential savings of using smaller vehicles should be weighed against 
+regulations and passenger preferences for accessible, comfortable, and safe vehicles. Many 
+of CCT’s riders on this service may have medical and/or ambulatory issues. In Spare’s 
+experience, riders can be apprehensive about climbing into a small vehicle with strangers, 
+especially seniors and those with ambulatory difficulties, although most riders soon 
+become accustomed.  
+ 
+An advantage of Spare Platform is that it can restrict which vehicle types are assigned to 
+certain riders depending on need or preference. Riders who have issues with smaller 
+vehicles could therefore be seamlessly matched with more adequately sized vehicles for 
+their needs, with zero or minimal coordination from CCT’s operations team. 
+ 
+ 
+ 
+36
+=== page 38 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+The steps to success for CCT 
+ 
+By launching microtransit across Collin County, CCT is in a position to launch itself into the 
+future. CCT is currently in what we call, ‘Phase 0’: a generally unpooled service with plenty 
+of dead-heading, that is costly to run due to its built-in inefficiencies (Figure 18). As a 
+private enterprise, the aim of Irving Holdings is understandably to maximize profit, so there 
+are few incentives to drastically cut costs on CCT’s behalf. Moving away from this model is 
+key if CCT is seeking to deliver better value for money. We discuss the benefits that each 
+subsequent phase could bring to CCT. 
+ 
+ 
+Figure 18. Spare’s framework for propelling CCT into the future. 
+ 
+Phase 1: The power of pooling and data  
+ 
+Simply put, the first phase of CCT’s journey will be about pooling. A microtransit platform 
+such as Spare’s will propel CCT away from the one-trip-one-taxi system that is currently in 
+place. Our results show pooling rates of 48–64% are achievable under the low-cost option, 
+which could translate into similar reductions in operational costs.  
+ 
+As our simulations show, the pooling ratio is affected by the number of vehicles placed on 
+the road: generally, the fewer the vehicles, the higher the pooling ratio, although this 
+comes at the expense of rider convenience. Spare Platform allows CCT to tweak other 
+37

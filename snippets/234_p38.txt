@@ -1,0 +1,212 @@
+# source: https://legistar.granicus.com/LosAlamos/attachments/d4ed28e3-5da0-403c-aaa8-20fd558046f1.pdf
+# path: raw/cache/9e8dcba51a86916c33f88b1baedeefebe738b9ef.pdf
+# hit page: 38 of 81
+# terms: Spare Labs
+
+=== page 37 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+37 
+ Agreement Template Version: 04012024 
+Exhibit B 
+Platform and Software Functional Specifications 
+AGR23-47 
+ 
+Contractor guarantees that the Platform and Software shall substantially conform to the functional 
+specifications set forth in Exhibit B, or their functional equivalent, for the Term of this Agreement.  Contractor 
+may, throughout the Term of this Agreement, modify the way in which the functionality is delivered to 
+County, provided the stated functionality, or its functional equivalent, is maintained and County is notified 
+in writing of any modifications that may impact how the County uses or administers the Platform and 
+Software.  
+ 
+01 
+General Features and Functionality 
+1 
+A user-friendly microtransit SaaS for both external and internal customers, including passengers, third 
+party passenger advocates, County dispatchers/customer service representatives, supervisors, 
+executives, and information technology support.  
+2 
+A SaaS that provides easy access to informative data sets through a robust reporting module. 
+3 
+A customer mobile application that facilitates on demand trip booking management and vehicle 
+tracking.   
+4 
+A proposal that provides considerations for passengers who do not have smart devices.   
+5 
+A user friendly and intuitive vehicle operator mobile application specification.  
+6 
+The software must be internet browser/cloudbased SaaS with a minimum of 12 user accounts and 
+compatible with widely available browsers, such as Google Chrome and/or Mozilla Firefox.  
+7 
+The software shall have functions for the comingling of multiple on demand service modes and 
+passenger categories, including microtransit, ADA paratransit, and dial-a-ride.  
+8 
+The software shall offer scalability of service, with the ability to modify existing zones and create new 
+zones within and outside of the County service area. These functions must be available to the agency 
+within the software.  
+9 
+The products shall include a dispatching function and mobile applications for vehicle operators and 
+customers.  
+10 
+The software shall provide service performance reporting, such as ridership, schedule adherence, 
+and other standard reports. Performance dashboards shall be easily accessible for all key 
+performance indicators. The reports shall be exportable to an editable file format such as a comma 
+separated value tables or Microsoft Excel. 
+11 
+The reporting system must allow user friendly ad-hoc reporting and query generation without the 
+need for a programming specialist.  
+12 
+All system and ad-hoc reports shall have the ability to differentiate all service characteristics and 
+performance by on-demand and ADA paratransit data, as well as by service zone 
+13 
+The branding and design elements of the platform shall be customizable to allow the County to 
+incorporate unique branding characteristics into the customer facing applications and websites.  
+14 
+The software shall allow County staff to modify or limit maximum vehicle passenger loads, and to 
+define wheelchair and flex seating (where seats may be folded to allow for additional wheelchair tie-
+down locations) configurations. 
+15 
+Contractor should provide processes that assure that upon system failure that system databases are 
+restored to their pre-failure status and that data integrity is maintained.  Recovery from failure must be 
+provided such that operation may be continued immediately following system restoration. 
+Attachment A
+=== page 38 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+38 
+ Agreement Template Version: 04012024 
+16 
+ Contractor should ensure that custom configuration, should there be any, is addressed during 
+system upgrades to ensure that no County-specific changes are lost. 
+17 
+Contractor should ensure that system upgrades are thoroughly tested prior to releasing them to the 
+County. 
+18 
+Software provides an activity history audit tool to show a history of user access and activity for County 
+staff users and other registered users. 
+19 
+Software should meet applicable Americans with Disabilities Act ("ADA") requirements for all 
+applications and websites. 
+20 
+Software provides granular permissions and access control for different levels of Dispatcher, 
+Supervisor, and and other Transit staff.   
+21 
+Software provides an online form or built-in messaging system through which Clients and Transit staff 
+can have two-way secure communication and share forms and documents. 
+22 
+Software shall have the ability for both public and staff users to enable multi-factor authentication 
+methods. 
+23 
+Software shall have a password recovery option. 
+02 
+Customer Management 
+1 
+The software shall allow manual entry of information into customer profiles and creation of customer 
+profiles by agency staff. When entering data, the system shall alert the user if there is an existing 
+customer account entry under the same name or address.  
+2 
+The software shall allow entry of relevant customer health information, including (but not limited to) 
+the use of disability aid tools such as mobility devices, service animals, personal care assistants, 
+and/or oxygen tanks. The software shall allow entry of the name, address, phone number, and other 
+contact information of caregivers for paratransit customers, when applicable. All personal passenger 
+information shall be reasonably secured via password protection or user account credentials on the 
+administrative back end of the software.  
+3 
+The software shall allow the County to create and modify accounts on behalf of customers. 
+4 
+The software shall allow entry of all paratransit passenger eligibility criteria, including but not limited to 
+the certification date and expiration date (as applicable) defining when the client is authorized to 
+begin receiving paratransit service.  
+5 
+The software shall allow entry of dispatcher notes and comments for each passenger and their 
+unique circumstances, such as additional time needed for loading and unloading.  
+6 
+The software shall track and automate paratransit customer eligibility status. The software shall alert 
+passengers and County staff as the expiration date approaches.  
+7 
+The software shall allow for the County to define eligibility types, including conditional eligibility. 
+Conditional eligibilities must be agency-definable. 
+8 
+The software shall alert the person scheduling a trip of any conditional eligibilities, and allow the rider 
+or County staff to acknowledge the trip meets the conditional eligibility before proceeding with 
+scheduling the trip. 
+9 
+The software will generate paratransit eligibility correspondence by sending emails and/or generating 
+letters or other appropriate communication functions regarding customer assessments, appeals, 
+eligibility suspension, eligibility denial, eligibility approval, and eligibility status.   
+10 
+The software shall permit the County to suspend passengers from using microtransit and/or 
+paratransit services for a definable period of time. 
+11 
+The software shall allow dispatchers to log no-shows and late cancellations. These logs should be 
+accessible by County staff under the client's profile, or reports should be available that indicate total 
+no-shows and late cancellations per client for a user-definable period. 
+Attachment A
+=== page 39 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+39 
+ Agreement Template Version: 04012024 
+03 
+Trip Booking and Scheduling 
+1 
+The software shall support booking both subscription/recurring and pre-scheduled demand response 
+trips. 
+2 
+The software shall allow for paratransit trips to be booked up to 14 days in advance, and for other on-
+demand services to be booked only for same-day requests. 
+3 
+The software shall store at least the 10 most recently used address entries for each client to allow 
+dispatchers and passengers to quickly complete trip bookings.  
+4 
+The software shall allow trips to be booked by desired arrival or departure times. This feature shall be 
+available to both customers and dispatchers.    
+5 
+The software shall allow the County to define and modify a daily schedule of routes that are 
+automatically populated without further staff intervention. 
+6 
+The software shall allow customers to book reservations free of agency intervention. Customers shall 
+have the option of completing reservations through a mobile application, interactive voice response 
+(IVR) system, or online portal.   
+7 
+Software shall have the ability to indicate special requests (bike, stroller, etc.) 
+8 
+Paratransit customers shall be protected from denials and have safeguards in place for guaranteeing 
+a return trip. When there are no available trips that meet ADA rules, and the requested trip is for a 
+paratransit eligible passenger scheduling at least a day in advance, the system shall provide a 
+mechanism to alert the dispatcher so that a new route may be created to accommodate the request. 
+Alternatively, the system may automatically create an additional route to accommodate the request. 
+Should the request originate from the passenger by mobile application, IVR, or online portal, the 
+passenger should be notified in some manner to call Dispatch to complete their request if an 
+additional route is not automatically created by the system. 
+9 
+The software shall be capable of continuous routing and itinerary optimization to improve operational 
+efficiency.   
+10 
+The software shall allow dispatchers to manually submit, modify, and cancel reservations as needed.   
+11 
+The software must automatically process and schedule on-demand reservations within 15 seconds of 
+request submission.   
+12 
+The software shall allow dispatchers to select from multiple boarding and alighting options, including 
+to/from curb, to/from door, to/from virtual bus stop, and any combination of the aforementioned.   
+13 
+The software shall enable third party customer advocates, such as family members, social workers, 
+or personal care assistants, to make trip reservations for the passenger.  
+04 
+Dispatching Interface 
+1 
+The software shall have a map-based user interface (using either Google Maps or Bing Maps) and 
+shall display real-time vehicle location, vehicle speed, vehicle bearing, vehicle passenger load, 
+schedule adherence, driver status, and vehicle status.   
+2 
+The software shall allow for communication between the dispatcher and vehicle operator through the 
+mobile data unit. The software shall allow the dispatcher to send custom messages to vehicle 
+operators. The County must be able to populate and edit a list of predetermined or “canned” question 
+and response options for both dispatchers and vehicle operators.   
+3 
+The software shall include a searchable historical event log database. The database should include 
+(but not be limited to) vehicle location, vehicle speed, passenger load, operator name, service/route 
+name, and vehicle number. The database shall be exportable to an interactive format such as comma 
+separated value tables or Microsoft Excel.   
+Attachment A

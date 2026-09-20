@@ -1,0 +1,87 @@
+# source: https://douglascounty.legistar1.com/douglascounty/attachments/7d1639c5-b1f9-4a3c-9b9b-c2d61dd2163b.pdf
+# path: raw/cache/dd6e35929957181160b4b428bc15bf85e4e457ec.pdf
+# hit page: 10 of 25
+# terms: River North Transit, Via Transportation, Via+drivers, Via+fleet, Via+vehicles
+
+=== page 9 ===
+9 
+ 
+delay resulting from any force majeure, or this Contract may be terminated if such delay makes 
+performance of the Contract impossible or impracticable. Force majeure shall mean causes beyond 
+the reasonable control of a Party such as, but not limited to, weather conditions, acts of God, 
+strikes, work stoppages, unavailability of or delay in receiving labor or materials, faults by 
+contractors, subcontractors, utility companies or third parties, fire or other casualty or actions of 
+government authorities. 
+ 
+(Remainder of Page Intentionally Blank) 
+2026 PCS for Regional Rideshare Consulting 
+BCC Business Meeting - 5/26/2026 
+Page 9 of 25
+=== page 10 ===
+10 
+ 
+Exhibit A 
+SCOPE OF SERVICES 
+River North Transit, LLC (the “Contractor”) a wholly owned subsidiary of Via Transportation, 
+Inc. (“Via”) and Douglas County (the “County”) have agreed to initiate the preparation phase for 
+the County’s demand response transit service in Castle Rock, CO and select portions of 
+unincorporated Douglas County (“The Southern Zone”).  
+In accordance with the Contract, the Contractor shall provide services on behalf of the County to 
+prepare for the delivery of the microtransit project, with technology and technology-enabled 
+integration services (the “Project”). The Contractor will provide fleet managers, vehicle suppliers, 
+driver partners, background check providers, customer service support agencies, a payment 
+processor, and insurance brokers and underwriters. The Scope of Services is strictly limited to 
+consulting, technology configuration, and operational setup. This Contract does not include the 
+actual day-to-day operation of the transit service, the driving of vehicles, or active passenger 
+transportation. 
+ 
+The Contractor’s Services shall include: 
+● Localization of a proprietary cloud-based dynamic vehicle routing and real-time 
+passenger aggregation system; 
+● Provisioning the Via mobile rider application (available for iOS and Android) for 
+individuals using the County’s service (“Riders”) to reserve and pay for rides through a 
+smartphone; 
+● Provisioning the infrastructure through a dedicated phone line for Riders who do not 
+have access to a smartphone; 
+● Provisioning the Via mobile driver application for drivers to route and service rides 
+through a smartphone or tablet; 
+● Establishing relationships with a vehicle rental company (“Vehicle Partner”) for 
+access to rental vehicles and independent contractor driver partners (“Driver 
+Partners”) for transportation services;  
+● Accompanying technical and operational support service; 
+● Marketing and outreach initiatives as described herein; and 
+● Data sharing and reporting as described herein. 
+ 
+Upon service completion or termination of the Project, the Contractor will have 90 calendar days, 
+or an earlier date as agreed upon by the parties, to submit to the County all final performance 
+reports, a certification of expenses incurred that implement the Contract, and the necessary audit 
+reports of the Contract.  
+ 
+Service Parameters 
+2026 PCS for Regional Rideshare Consulting 
+BCC Business Meeting - 5/26/2026 
+Page 10 of 25
+=== page 11 ===
+11 
+ 
+The Contractor shall prepare access to a platform service (the “Platform”) through which Riders 
+will be able to reserve and pay for rides on a shared and on-demand basis and dedicated vehicles 
+will be offered by the Vehicle Provider to Driver Partners on a rental basis.  
+ 
+Geographic Coverage Zone 
+● Southern Zone: Approximately 52 square miles covering the incorporated borders for the 
+Town of Castle Rock, the current Central Zone for Link on Demand in the City of Lone 
+Tree, and the Castle Pines Park-n-Ride located off Castle Pines Parkway.  
+● Service Days/Hours: Monday - Thursday (7AM - 7PM), Friday (7AM - 10PM), and 
+Saturday (10AM – 10PM). 
+  
+● App: The Contractor shall provide a fully tested smartphone app interface to allow passengers to 
+reserve and schedule microtransit trips. The app will be fully integrated with the existing Link on 
+Demand app.  Beta versions are not allowed and the fully tested smartphone app interface must be 
+publicly available to both iPhone and Android users, meeting ADA accessibility requirements. 
+The App shall allow passengers to: 
+o See the microtransit service zone and available vehicles on a map interface. 
+o Rate drivers and service quality. 
+2026 PCS for Regional Rideshare Consulting 
+BCC Business Meeting - 5/26/2026 
+Page 11 of 25

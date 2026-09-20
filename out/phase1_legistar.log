@@ -5,3 +5,12 @@ candidate clients: 539
 clients with open API: 306
 wrote 306 rows -> text/enum/legistar_clients.csv
 swept 1/306 clients, hits so far 0
+swept 51/306 clients, hits so far 25
+swept 101/306 clients, hits so far 43
+swept 151/306 clients, hits so far 75
+swept 201/306 clients, hits so far 133
+swept 251/306 clients, hits so far 196
+swept 301/306 clients, hits so far 227
+wrote 229 rows -> text/enum/legistar_hits.csv
+fetching attachments for 93 entity matters
+wrote 297 rows -> text/enum/legistar_attachments.csv

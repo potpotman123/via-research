@@ -1,0 +1,180 @@
+# source: https://rideuta.legistar1.com/rideuta/attachments/87d00177-6e8c-484d-a64d-5aea968ce6b0.pdf
+# path: raw/cache/9297b630c24b643d11122c6286ddd3a3a16b1d2e.pdf
+# hit page: 10 of 13
+# terms: Via+per hour
+
+=== page 9 ===
+Service Order No. 1 UTA Contract No. 20-03399BM 
+(Confidential) ∙ Page 9 of 13 
+ 
+Exhibit A 
+UTA On Demand by Via – Salt Lake City 
+Deployment Service Area 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DocuSign Envelope ID: 804E0FF8-6929-4168-9728-F38F78F591C9
+=== page 10 ===
+Service Order No. 1 UTA Contract No. 20-03399BM 
+(Confidential) ∙ Page 10 of 13 
+ 
+Exhibit B 
+UTA On Demand by Via – Salt Lake City 
+Deployment Data 
+ 
+STANDARD REPORTING SET 
+Data Point 
+Level of Detail 
+rider ID 
+per request 
+ride ID 
+per request 
+request date + time 
+per request and truncated to minute 
+request origin lat/long 
+per request and truncated to 3rd decimal 
+request destination lat/long 
+per request and truncated to 3rd decimal 
+pickup date + time 
+per request and truncated to minute 
+dropoff date + time 
+per request and truncated to minute 
+wheelchair accessible vehicle (WAV) 
+per request 
+number of riders per request 
+per request 
+ride distance (miles) 
+per request 
+ride duration (minutes) 
+per request 
+ride rating 
+per request 
+fare paid 
+per request 
+ride status (completed, no-showed, cancelled, 
+not accepted, seat unavailable, out of zone, or 
+out of hours) 
+per request 
+completed rides 
+hourly, daily, weekly, monthly and avg. per hour (absolute # and % of all 
+requests) 
+no-showed rides 
+hourly, daily, weekly, monthly and avg. per hour (absolute # and % of all 
+requests) 
+cancelled rides 
+hourly, daily, weekly, monthly and avg. per hour (absolute # and % of all 
+requests) 
+non-accepted rides 
+hourly, daily, weekly, monthly and avg. per hour (absolute # and % of all 
+requests) 
+non-accepted rides with ETA<5min 
+daily, weekly, monthly and avg. per hour (absolute # and % of all requests) 
+non-accepted rides with ETA between 5 and 
+10min 
+daily, weekly, monthly and avg. per hour (absolute # and % of all requests) 
+non-accepted rides with ETA>10min 
+daily, weekly, monthly and avg. per hour (absolute # and % of all requests) 
+seat unavailable requests 
+hourly, daily, weekly, monthly and avg. per hour (absolute # and % of all 
+requests) 
+out of zone requests 
+hourly, daily, weekly, monthly and avg. per hour (absolute # and % of all 
+requests) 
+out of hours requests 
+hourly, daily, weekly, monthly and avg. per hour (absolute # and % of all 
+requests) 
+sessionized requests 
+daily, weekly, monthly and avg. per hour 
+utilization 
+hourly, daily, weekly and monthly 
+ETA (waiting time) (minutes) 
+per request, daily, weekly, monthly and avg. per hour 
+ETA error (lateness) (minutes) 
+daily, weekly and monthly 
+avg. walking distance to pickup (meters) 
+daily, weekly and monthly 
+supply hours 
+daily, weekly, monthly and avg. per hour 
+unique riders 
+daily, weekly and monthly 
+new unique riders (for the period selected) 
+daily, weekly and monthly 
+rider signups 
+daily, weekly, monthly and aggregated by date range selected 
+riders with no requests made 
+daily, weekly, monthly and aggregated by date range selected (absolute # and % 
+of all rider signups) 
+DocuSign Envelope ID: 804E0FF8-6929-4168-9728-F38F78F591C9
+=== page 11 ===
+Service Order No. 1 UTA Contract No. 20-03399BM 
+(Confidential) ∙ Page 11 of 13 
+ 
+riders with no ride taken 
+daily, weekly, monthly and aggregated by date range selected (absolute # and % 
+of all rider signups) 
+riders with 1 and 2 rides taken 
+daily, weekly, monthly and aggregated by date range selected (absolute # and % 
+of all rider signups) 
+riders with 3 to 5 rides taken 
+daily, weekly, monthly and aggregated by date range selected (absolute # and % 
+of all rider signups) 
+riders with 6 to 10 rides taken 
+daily, weekly, monthly and aggregated by date range selected (absolute # and % 
+of all rider signups) 
+riders with 10+ rides taken 
+daily, weekly, monthly and aggregated by date range selected (absolute # and % 
+of all rider signups) 
+riders with at least one ride taken 
+daily, weekly, monthly and aggregated by date range selected (absolute # and % 
+of all rider signups) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DocuSign Envelope ID: 804E0FF8-6929-4168-9728-F38F78F591C9

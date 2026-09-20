@@ -1,0 +1,229 @@
+# source: raw/bleecker_drive/Lee County/RFP250034SML Via Mobility Executed.pdf
+# path: raw/bleecker_drive/Lee County/RFP250034SML Via Mobility Executed.pdf
+# hit page: 158 of 171
+# terms: Via+SaaS
+
+=== page 157 ===
+Yes
+The Via Platform is accessible by an 
+unlimited number of users and 
+employs role-based security 
+protocols, limiting access based on 
+the principle of least privilege and 
+ensuring that users are granted access 
+only to the information and system 
+components necessary for their 
+specific roles. The Via System 
+supports concurrent logins with no 
+degradation of performance. Below, 
+we have provided a list of sample 
+roles and permissions:  
+• LeeTran Administrator: Can access 
+and edit all LeeTran system 
+configurations and service data. Can 
+add/remove users to the LeeTran 
+Agency Account.
+• Dispatcher/Scheduler: Can create 
+and edit driver shifts, assign them to 
+vendors, drivers, assign any 
+restrictive logic (i.e. break logic, geo-
+restrictions, client subgroups able to 
+receive trips with, etc), and manually 
+override trip assignments in the 
+system.
+• Viewer: Can visualize select
+Yes
+The Via System allows for backup 
+and protection for a minimum of 
+five years.
+Yes
+Our software is fully compatible 
+with LeeTran’s Samsung TabA 
+tablets. As new features, upgrades, 
+and versions become available, we 
+update our software at no 
+additional cost, which means that 
+LeeTran will always be utilizing 
+the latest approved and beta-tested 
+software.
+Yes
+Our software is able to integrate 
+with existing systems, including 
+LeeTran’s Samsung TabA tablets 
+and any Android mobile device 
+with an operating system of at least 
+Android 5.0.
+Yes
+Via's technology is built for 
+integrations. We can integrate with 
+third party APIs by either utilizing 
+available documentation or having 
+direct interaction with the third 
+party for solution co-definition. 
+We can accommodate any 
+standard industry practice (e.g. 
+REST API, Webhooks, etc) and 
+data formats (e.g. JSON, XML, 
+CSV, etc).
+Does your system unlimited account privileges (drivers 
+dispatcher/scheduler, viewer, administrator, etc.) and a minimum 
+of twenty-five staff access? Does the system support concurrent 
+logins with no degradation of performance?
+Does your system allow for backup and protection for a 
+minimum of five years? 
+Is your software the most current version and compatible with the 
+specified hardware? Will you be able to ensue that LeeTran is 
+utilizing the latest approved and beta-tested software ?
+Does the produce/software have the ability to integrate with 
+existing systems to include LeeTran Android tablets?
+Is you firm flexible and willing to create APIs (Application 
+Programming Interface) and cross-platform solutions?
+6
+EXHIBIT E - PROJECT FUNDING PACKAGE
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7
+=== page 158 ===
+Yes
+Via’s Service KPI dashboards 
+allow our partners to review run 
+productivity and trip-level data for 
+each ride, including client and 
+driver data as well as granular data 
+about specific journeys. LeeTran 
+can organize and visualize the 
+thousands of data points our 
+system collects every minute to 
+track essential indicators like 
+productivity, ridership, on-time 
+performance, and beyond. These 
+service insights can be utilized for 
+National Transit Database 
+reporting purposes, and will also 
+allow LeeTran to make data-driven 
+adjustments to service parameters.
+Yes
+Every LeeTran paratransit client 
+will have a Rider Profile in the 
+VOC, which stores LeeTran's 
+requested data elements such as 
+gender, address, municipality, 
+county, contact details, third 
+party/emergency contacts, 
+disability status, mobility aides 
+used, required accommodations, 
+caregiver, language spoken by 
+client, dispatcher notes/comments, 
+third-party contract payee options, 
+and other demographic 
+information.
+Yes
+As a part of our data migration 
+process, we will meticulously 
+import all LeeTran client data from 
+Routematch by TripSpark onto the 
+Via Platform. As a part of our 
+import process, Via’s Data Science 
+team will work with LeeTran to 
+evaluate the County’s current 
+database and develop all necessary 
+data conversion protocols.
+Yes
+LeeTran Customer Service Agents 
+can access and edit information in 
+the customer database, manually 
+enter customer information, create 
+new customer accounts, or add 
+relevant comments to Rider 
+Profiles at any time. 
+Does your Paratransit Data Interface/API include run 
+productivity and trip data? Is it used in a Platform as a Service 
+(PaaS) for analytics and reporting related to program specific 
+ridership, on-time performance and various service data required 
+for National Transit Database reporting?
+Is your client database capable of providing a full range of data 
+elements for each client in the system? If so, provide the data 
+elements captured in the system. Please see the list of 
+requirements in 6.1 of the Scope of Work. 
+Does your system have the ability to import LeeTran client data 
+from our current scheduling software, Routematch by TripSpark 
+to the new SaaS platform?
+Does your system have the functionality to allow LeeTran 
+Customer Service Agents access to client records and the ability 
+to edit this information?
+7
+EXHIBIT E - PROJECT FUNDING PACKAGE
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7
+=== page 159 ===
+Yes
+Customer Service Agents can 
+manually create a client's profile and 
+manage customer account / trip 
+booking information while speaking 
+with the customer via telephone, or 
+clients themselves can submit an 
+application and their profile will be 
+automatically created on their behalf. 
+Every client will have a Rider Profile 
+in the VOC, which will enable 
+Customer Service Agents to manage 
+all elements of the customer lifecycle. 
+Rider Profiles include:
+• The client's eligibility status 
+• Trip history & future reserved trips 
+• Accessibility and eligibility details 
+such as mobility equipment 
+specifications/space requirements, 
+personal care attendants, and service 
+animals
+• Payment and contact information
+Yes
+Authorized staff can make real-
+time edits to information in the 
+customer database, manually enter 
+customer information, create new 
+customer accounts, or add relevant 
+comments to Rider Profiles at any 
+time. The Rider Profile also tracks 
+rider suspension status, which 
+authorized staff can edit at any 
+time.
+Yes
+Rider Profiles record and display 
+specific clients' trip history details. 
+Yes
+Rider Profiles capture trip 
+cancellations and no-shows 
+specific to individual customers.
+Yes
+The Via System enable users to 
+seamlessly enter pickup and drop-
+off locations in fields that are 
+unique and separate from the 
+client's indicated home address.
+Yes
+The Via system facilitates 
+communication between dispatch 
+and reservations with scheduling 
+functions including a ride manifest 
+that updates in real-time as new 
+rides are booked, automated 
+notifications, and “one click” task 
+acknowledgements. 
+Does your system have the capability of registering new clients, 
+capturing information regarding addresses, disability type, space 
+requirement, load/unload time, fares, payment options, eligibility 
+conditions, and funding sources while a Customer Service Agent 
+is speaking with a new customer via telephone?
+Does your system allow real-time editing of all fields in 
+customers records and also allow suspensions (temporary) of 
+service?
+Does your system have the capability of recording and displaying 
+trip history details specific to each client?
+Does your system have the ability to capture trip cancellations 
+and no-shows specific to individual customers?
+Does your system have the ability to calculate origin and 
+designation within a unique field separate from home address?
+Does your system have the ability to facilitate communication 
+between dispatch and reservations with scheduling functions?
+8
+EXHIBIT E - PROJECT FUNDING PACKAGE
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7

@@ -1,0 +1,188 @@
+# source: raw/bleecker_drive/0.0 OMNIA Cooperative Agreement/25-08_Via_Transportation_Response_Combined_2025_05_01_Redacted__1___1_.pdf
+# path: raw/bleecker_drive/0.0 OMNIA Cooperative Agreement/25-08_Via_Transportation_Response_Combined_2025_05_01_Redacted__1___1_.pdf
+# hit page: 12 of 191
+# terms: Citymapper, Crosby Street Transit, Flatiron Transit, Greenpoint Transit, NoMad Transit, Remix Technologies, River North Transit, Sioux Falls Transit, Tidewater Transit, Via Mobility, Via Transportation, Via+fleet
+
+=== page 11 ===
+3
+6
+Describe Offeror's customer service/problem resolution process. Include hours of operation, number
+of services, etc.
+Delivering an exceptional customer experience is core to Via’s success. We uphold the highest standards of
+service and integrate customer feedback across our operations. Each customer is assigned a dedicated Partner
+Success Manager (PSM), who acts as the main point of contact, supporting daily operations, driving service
+improvements, and coordinating with Via’s specialist teams as needed. PSMs are regionally assigned to ensure
+familiarity with local needs, and reachable by email and phone during business hours. Customers also receive
+regular updates, feature announcements, and invitations to regional and national events. Additionally, Via
+provides 24/7 technical support through an online platform, with on-call support engineers addressing and
+escalating issues per a set alert protocol. Incidents are resolved based on severity, and customers receive
+ongoing updates throughout the resolution process.
+3
+7
+Describe Offeror's invoicing process. Include payment terms and acceptable methods of payments.
+Offerors shall describe any associated fees pertaining to credit cards/p-cards.
+Via’s Finance team will align on invoicing cadence and format with each participating agency. Typically, Via bills our
+customers with Net 30 payment terms. The minimum fees, which are agreed upon on a case-by-case basis, are
+paid annually upfront. Any usage beyond the minimum is billed monthly in arrears. As part of our invoicing
+package, we provide details about usage during the prior month (e.g., active vehicles or vehicle hours). Payment
+via Wire or ACH is preferred, but payment by check is also permitted. At this time, payment by credit card or
+procurement card (P-card) is not accepted.
+3
+8
+Describe Offeror's contract implementation/customer transition plan.
+Via's implementation process across our product suite includes several stages that are designed to ensure both a
+successful launch and overall alignment with our customers’ long-term goals: (1) Service Planning and Design, (2)
+Testing and Training, (3) Launch & Ongoing Support. Most of our contract implementations require 8 to 12 weeks
+following contract execution, providing ample time to complete the transition to the Via Platform while allowing for
+thorough staff training and system optimization. The timeline is also flexible, enabling us to add more training
+sessions, run additional simulations, or expedite implementation based on the customer’s specific needs.
+3
+9
+Describe the financial condition of Offeror.
+Via is a leading provider of TransitTech solutions and one of the fastest growing private companies. With more
+than $300M in annual revenue, Via is backed by top investors such as Blackrock, Janus Henderson, and EXOR,
+and was most recently valued at $3.5B in March 2023. Today, Via operates like a public company, with outstanding
+governance, an annual audit conducted by Deloitte, and an audit committee chaired by Sarah Smith (member of
+the Board of Trustees of the Financial Accounting Foundation (FASB) and former Chief Accounting Officer of
+Goldman Sachs).
+4
+0
+Provide a website link in order to review website ease of use, availability, and capabilities related to
+ordering, returns and reporting. Describe the website’s capabilities and functionality.
+Via’s website is ridewithvia.com. Our sales process is highly specialized and varies according to our customer’s
+specific needs; we therefore do not offer ordering capabilities through our website. Instead, our website serves to
+educate potential customers about the ways in which our solutions can enrich their transportation networks and to
+facilitate an introductory conversation. As described previously, returns are not applicable to our service-based
+offering. Reporting is conducted through the administrator platforms associated with each of our offerings.
+4
+1
+Describe the Offeror’s safety record.
+With more than 5.8 million miles driven every month, Via’s drivers and vehicles are the cornerstone of our safety
+program. We take extensive precautions to ensure the safety of drivers and passengers, achieving safety
+outcomes that typically exceed regulatory targets. Our track record with safe transit operations meets the
+benchmarks set by the FTA for public transit: across all of our associated entities in 2024, Via achieved an FTA
+qualifying accident rate of 0.19 accidents per 100,000 miles.
+Vendor: Via Transportation Inc.
+25-08
+Page 8 of 32 pages
+=== page 12 ===
+4
+2
+Provide a brief history of the Offeror, including year it was established and corporate office location.
+Via Transportation, Inc. was founded in 2012, and in 2013 we launched in New York City what was, as we
+understand it, the world’s first marketplace for on-demand shared rides. Our experience as operators of a large-
+scale urban demand response transit service and as primary users of our own software, together with the data
+from tens of millions of rides, has been critical for developing the highly efficient, purpose-built algorithms and
+deep vertical technology stack that are the foundation of our modern platform. Today, we employ a global team of
+over 1,600 across headquarters in New York and offices in San Francisco as well as Amsterdam, Berlin, Bulgaria,
+Japan, Jerusalem, London, Paris, and Tel Aviv. We pride ourselves on our culture which values exceptionalism,
+collaboration, optimism, diversity, and a commitment to our mission.
+4
+3
+Describe Offeror's reputation in the marketplace.
+Via is the world’s leading provider of TransitTech solutions, including microtransit, ADA paratransit, senior
+transportation, school transportation, and Non-Emergency Medical Transportation (NEMT), and the largest
+provider of Transit Tech solutions in the United States. We partner with more than 650 cities, transit agencies, and
+school districts across the globe, providing software and operations to improve efficiency, rider experience, and
+accessibility. We supply technology to and operate more than 10x the number of microtransit deployments than
+our closest competitor.
+4
+4
+Describe Offeror's reputation of products and services in the marketplace.
+Via’s products are recognized as the market leading solutions for transit technology and operations, used by cities
+and transit agencies worldwide to modernize their legacy systems into smart, efficient, data-driven networks. Our
+solutions are known for delivering industry-leading cost-efficiency, reliability, and service quality. Via’s platform
+powers a wide array of transportation modes—including microtransit, ADA-paratransit, student and senior
+transport, NEMT, AV and EV fleet management, and school bus routing—along with fixed-route and on-demand
+planning tools. Our reputation is built on proven performance: our proprietary algorithms and AI-driven routing
+reduce travel times, vehicle miles, and costs while increasing utilization and rider satisfaction. With a track record
+of innovation and measurable impact, Via’s software and services are consistently recognized as best-in-class
+across the global mobility landscape.
+4
+5
+Describe if distributors/dealers/resellers/subsidiaries/partners ("affiliates") will be used to fulfill the
+contract. Submit a list of those affiliates authorized to sell under the proposed contract.
+Where and how does Offeror propose to maintain an authorized affiliate list so it may be accessed by Participating
+Agencies? How often does the supplier propose to update the affiliate list? Confirm the Offeror reviews the financial
+health, debarment status and overall general capacity of authorized affiliates. Offerors who us authorized affiliates
+are responsible for ensuring authorized affiliates are performing in accordance with the contract.
+This bid to contract with Region 4 is submitted by Via Transportation, Inc. on behalf of its wholly-owned
+subsidiaries, listed below: ​ ​ Via Mobility, LLC​ Flatiron Transit, LLC​ Nomad Transit, LLC​ Greenpoint Transit, LLC​
+River North Transit, LLC​ Tidewater Transit, LLC​ Sioux Falls Transit LLC​ Crosby Street Transit LLC​ Remix
+Technologies LLC​ Citymapper Ltd.​ ​ These subsidiaries correspond to specific services/products and/or
+jurisdictions. Participating Agencies will enter into a direct agreement with the appropriate entity based on the
+services, region, and licenses required. Via’s sales team will determine the appropriate entity at the time of
+contracting, and therefore Participating Agencies do not need access to the list.
+4
+6
+Describe the experience and qualifications of key employees.
+Our partnership with Region 4 and OMNIA will be overseen by the following key employees: Greg Centini,
+Partnerships Lead, Head of Cooperative Purchasing Programs and Via Student Transit (12+ years of experience);
+Mike Vaccarino, Chief Revenue Officer (12+ years of experience); Rachel Birnbaum, Vice President, Expansion
+(12+ years of experience); Reeya Shah; Vice President, Transportation-as-a-Service; 11+ years of experience
+This core team will be supported by Via’s global team, which includes over 1,500 full-time salespeople, customer
+success managers, service operations managers, transit planners, marketing and community engagement
+experts, software engineers, quality assurance specialists, product managers, and more.
+4
+7
+Describe Offeror's experience working with the government sector.
+Over 90% of Via’s revenue comes from government contracts.
+Vendor: Via Transportation Inc.
+25-08
+Page 9 of 32 pages
+=== page 13 ===
+4
+8
+Describe past litigation, bankruptcy, reorganization, state investigations of entity or current officers
+and directors.
+4
+9
+Provide Offeror's expertise in working with public sector and understanding of the unique technical
+regulatory requirements.
+Via has extensive experience working with the public sector: business-to-government (B2G) accounts, including
+municipalities, transit agencies, and school districts, generate nearly all of our revenue. As a result, we have a
+deep understanding of and are committed to complying with key FTA regulations, including: DBE goals established
+by the FTA and individual agencies, Title VI, ADA, Equal Employment Opportunity, Buy America, Drug & Alcohol
+testing requirements (including compliance with FTA and DOT testing procedures), and all applicable local, state,
+and federal laws and regulations.
+5
+0
+Indicate if Offeror is licensed to do business in all 50 states.
+ Yes 
+ No 
+5
+1
+Value Add - Provide any additional information related to products and services Offeror proposes to
+enhance and add value to the Contract.
+Please see our full product catalog in the “Products and Pricing” attachment for a complete list of products and
+services Via can provide.
+5
+2
+Include a per diem rate.
+N/A
+5
+3
+For Non-Normal Working Hours, indicate if there is a minimum charge of hours and what the number of
+hours is.
+N/A
+5
+4
+Is pricing available for all products and services?
+Pricing is available for all products and services. We have provided a full product and price catalog as an
+attachment under “Products and Pricing” in Ion Wave.
+5
+5
+Describe any shipping charges (where applicable).
+Shipping charges are not applicable to Via’s Transportation-as-a-Service and Software-as-a-Service solutions.
+5
+6
+Provide pricing for warranties on all products and services.
+N/A
+5
+7
+Describe any return or restocking fees.
+Return or restocking fees are not applicable to Via’s Transportation-as-a-Service and Software-as-a-Service
+solutions.
+Vendor: Via Transportation Inc.
+25-08
+Page 10 of 32 pages

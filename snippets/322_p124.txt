@@ -1,0 +1,80 @@
+# source: raw/bleecker_drive/Hillsborough County/Completed Contract File.pdf
+# path: raw/bleecker_drive/Hillsborough County/Completed Contract File.pdf
+# hit page: 124 of 199
+# terms: Via+fleet
+
+=== page 123 ===
+3.3 Dispatching and Operations Management
+The Via Operations Center ՄVOCՅ is the central application designed to manage every aspect of an
+operator's daily workflow. The console features a set of sophisticated automations designed to
+minimize the amount of manual intervention necessary by dispatchers, while still preserving the
+flexibility they need to do their job. The VOC provides customers with best-in-class solutions for:
+3.3.1 Trip Scheduling and Real-time Performance Management
+The Via Hub and Ride Plan provides Hillsborough County staff a map-based interface to monitor
+and control their deployment in real-time. This interface displays real-time vehicle location, vehicle
+load, schedule adherence, driver status, and vehicle status. Notifications alert dispatchers to
+pending issues giving them the option to let the software automatically resolve the issue or to
+manually intervene.
+Our software leverages real-time speed and location data to continuously optimize for on-time
+performance. If the software recognizes that a vehicle is running late to a pickup, and there is
+another vehicle available to reach the pickup quicker, it will automatically reassign the trip and
+notify the riders and drivers.
+If the dispatcher wants to make a manual intervention, the tool provides a simple interface to
+communicate with riders and vehicle operators, access more information about a rider or trip, and
+adjust trip parameters as necessary. As an alternative to preset response options between the
+dispatcher and vehicle operator, the VOC also offers flexible and custom communication features
+that enables all necessary conversation while ensuring the safety of the vehicle’s operator while in
+motion.
+Proprietary, Confidential, and Trade Secret Information
+RFP‐23‐24177 | 20
+=== page 124 ===
+3.3.2. Profile & Eligibility Management
+Our extensive suite of rider, driver, and fleet management features allows administrators to
+manage the workflow of their operations including rider management (such as manual account
+creation when necessary), driver management, shift scheduling, and vehicle tracking. Dispatchers
+can also monitor shift status, visualize shifts across dates and times, and add or edit shifts.
+Client Profile Management: The VOC clearly displays rider/client profiles (called “Rider Profiles” in
+the Via System), each including the rider’s status (active, inactive, suspended), trip history, future
+reserved trips, accessibility and eligibility details, mobility equipment specifications, payment and
+contact information, and other relevant profile data. We can also configure custom fields based on
+the County’s needs, including Social Security Number, client ID, bus swipe card number, and other
+information not already included in the Rider Profile. Rider Profiles also allow administrators to see
+which programs a rider is eligible for and track rider-specific accommodations or “driver notes.”
+Authorized staff can edit information in the customer database or add relevant comments to Rider
+Profiles at any time.
+Eligibility Management: Via’s eligibility management module is designed to help partners increase
+application certification speed and volume, reduce review costs, and provide a user-friendly and
+transparent application experience for riders. Via’s platform provides staff with a workflow to
+review applications, track their status, and move applicants to the next step in the review process.
+Through these eligibility capabilities, riders can only request rides for which they are eligible. In
+addition, we are deeply committed to having the most advanced eligibility product for our
+customers and have plans to continue to invest in enhancing our product and adding new features
+in the coming months. We also incorporate feedback from our customers through our partner
+success program.
+Proprietary, Confidential, and Trade Secret Information
+RFP‐23‐24177 | 21
+=== page 125 ===
+Example Rider Profile in the VOC
+3.3.3 Service Log Management
+To enable audits and reviews of dispatching within the VOC, our system logs key actions in a
+searchable database. County administrators will also have access to service replay controls
+through our map-based ride history visualization feature, which shows sequences for a given trip
+(as shown below).
+3.3.4 Data and Reporting
+Our world-class in-house Data Science Team has developed sophisticated tools to optimize the
+performance of our deployments and to help inform our partners’ future transportation decisions.
+Our data is easily exported and can be used to fulfill National Transit database ՄNTDՅ, Federal
+Transit Administration ՄFTAՅ, and Florida Department of Transportation ՄFDOTՅ reporting
+requirements as needed, as well as track rides and revenue based on funding source. We will
+leverage our direct experience powering transit services in the state of Florida to ensure that the
+County can comply with reporting requirements from the State, FTA, and local governing board or
+municipality.
+Reporting is accessed through two interfaces: Service KPI Dashboards and Data Generator
+Reports. In addition to our standard reporting features, we also offer data access using our Direct
+Data Access ՄDDAՅ solution, which provides a machine-to-machine connection to data tables.
+Service KPI Dashboards
+These dashboards function as the central view for service analysis and management. Through this
+interface, partners can organize and visualize the thousands of data points our system collects
+every minute based on their unique needs and concerns, and leverage our filtering and grouping
+Proprietary, Confidential, and Trade Secret Information
+RFP‐23‐24177 | 22

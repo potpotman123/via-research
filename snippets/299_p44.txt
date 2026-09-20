@@ -1,0 +1,110 @@
+# source: raw/bleecker_drive/0.0 OMNIA Cooperative Agreement/25-08_Via_Transportation_Response_Combined_2025_05_01_Redacted__1___1_.pdf
+# path: raw/bleecker_drive/0.0 OMNIA Cooperative Agreement/25-08_Via_Transportation_Response_Combined_2025_05_01_Redacted__1___1_.pdf
+# hit page: 44 of 191
+# terms: Via+drivers, Via+turnkey, Via+vehicles
+
+=== page 43 ===
+Extensive Experience Transporting Passengers from Vulnerable Populations 
+We have a decade of experience transporting passengers from vulnerable populations 
+and we currently operate a number of large-scale ADA-paratransit services in the US. We 
+understand the operational challenges at stake in transporting vulnerable populations, 
+including special education students: delivering high on-time performance, ensuring 
+compliance on routing and pickups, maintaining clean and reliable vehicles, and sourcing 
+and training empathetic drivers. For the New York City Department of Education, we 
+power a student transportation solution for both general and special education 
+populations and our system is designed to adapt to the diverse routing, trip, and vehicle 
+needs of different student populations. 
+Fleet 
+We deliver service with non-smoking sedans and minivans equipped with GPS tracking at 
+no additional cost. These vehicles are clearly marked with approved signage (see picture 
+to the right) to ensure that caregivers, students, and administrators know that they are 
+approved service vehicles. Wheelchair-accessible vehicles (WAVs) are also available for 
+passengers who require them. Via 
+has established rigorous processes 
+for ensuring vehicle cleanliness 
+and passenger safety including 
+thorough driver training, strict 
+vehicle requirements, and a 
+comprehensive vehicle inspection.  
+Innovative Student Transit Technology 
+The Via Student Transportation platform includes next-generation software that can help 
+educational entities manage their complex transportation needs. Via will configure 
+caregiver and driver applications, the Via Operations Center for service management, and 
+a robust analytics suite for monitoring service performance — all at no additional cost to 
+purchasing members. 
+    RFP No. 25-08  |  8 
+New York City’s Department of Education was able to consolidate 
+more than a dozen independent tools into a single fully integrated 
+software system to intelligently power their 10,000+ vehicle fleet.
+=== page 44 ===
+Peace of Mind for Caregivers and Guardians 
+We can offer vehicle tracking through a smartphone application that will let caregivers 
+and guardians confirm that the student’s ride is on its way, that the student has been 
+picked up and dropped off on time, and that they 
+have been transported via an efficient route. 
+Operational Transparency 
+Through the Via Operations Center (VOC), our 
+dispatchers can track drivers’ progress and 
+intervene when needed. Member staff will also 
+have access to the VOC, and will have full 
+visibility into bookings and student trip progress 
+in real-time. Through the mobile Driver App, installed on an in-vehicle device, drivers can 
+receive the latest routing instructions and alerts, and contact dispatch as required. The 
+system can also facilitate direct communication between caregivers and drivers to reduce 
+calls to the department or the schools requesting updates on routes.  
+Comprehensive Transit Network Management 
+Via is the trusted operations manager and provider to customers across the globe and has 
+deep experience in launching and growing multimodal transit networks. We can act as a 
+single vendor to oversee the management of the participating member’s transit system 
+and will optimize performance across our own best-in-class operations and our highly 
+vetted network of third party subcontractors. 
+Via can provide fully turnkey transit management services across fixed routes, 
+paratransit, and microtransit: we will manage every aspect of service design, operations, 
+and long-term planning for participating members, and will do so with efficiency and 
+transparency. Our Managed Services model includes the following components, as 
+needed by each individual member:​
+Service Design 
+Via’s in-house consulting and service design experts can assess a Member’s existing 
+transit network and make forward-looking, holistic recommendations that deliver excellent 
+rider experience and cost efficiency. For example, we can determine the optimal mix of 
+fixed route and microtransit options for a given use case and geography, or design a 
+service that commingles microtransit and paratransit assets (drivers, vehicles, 
+cross-dispatched rides) to reduce cost. 
+    RFP No. 25-08  |  9
+=== page 45 ===
+Operations Management 
+Via’s Operations team can oversee all or a portion of 
+operational aspects of fixed routes, paratransit, and 
+microtransit depending on the needs of participating 
+members. This includes driver recruitment and 
+training, fleet acquisition and maintenance, and 
+facility procurement and maintenance. A dedicated 
+local team will be on the ground to manage 
+day-to-day operations. 
+Software Infrastructure 
+With Via’s turnkey solutio, technology and 
+operations will work in tandem to maximize efficiency for participating members. Our 
+software design is informed by our experience as operators, and our operations are 
+designed around our software. Via will configure our software suite according to the 
+participating member’s unique parameters and deliver the following tools: 
+●
+A fully-accessible, white labeled Rider App that will create a seamless booking
+experience across fixed-route, microtransit, and/or paratransit services.
+●
+The Via Operations Center (VOC), which allows the local operations team to
+manage the service highly efficiently and in real-time.
+●
+An easy-to-use Driver App that ensures drivers have all the information they need
+to deliver a safe and outstanding customer experience.
+Integrated Transit 
+Via’s software also supports seamless integration across the entire public transit network. 
+Via’s Integrated Transit features offer riders choices between available transit modes and 
+can, based on the participating member’s preference, strategically direct passengers to 
+the most efficient and cost-effective mode of travel for the journey. 
+Marketing and Community Engagement 
+Via’s in-house Marketing team can work with participating members to design bespoke 
+and multi-channel brand and marketing programs to generate excitement and awareness 
+for the member’s services. Via has extensive expertise on how to drive rider engagement, 
+design and launch customer surveys, manage public relations, and develop creative 
+assets unique to our partner’s preferred branding. A dedicated Community Engagement 
+    RFP No. 25-08  |  10

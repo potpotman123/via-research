@@ -1,0 +1,116 @@
+# source: https://legistar1.granicus.com/McKinney/attachments/abb0b9be-9c15-4174-9e04-7b9d82941c25.pdf
+# path: raw/cache/5e92fe54da67feb112756b4c03bca94101b9439a.pdf
+# hit page: 44 of 50
+# terms: Spare Labs
+
+=== page 43 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+Appendices 
+ 
+Appendix 1: Census data acquisition 
+Census data were downloaded from the US Census Bureau’s 2016 American Community 
+Survey, via SafeGraph (​https://www.safegraph.com/open-census-data​). Jobs data were 
+downloaded from the US Longitudinal Employer-Household Dynamics Origin-Destination 
+Employment Statistics (LODES) survey for 2017 (​https://lehd.ces.census.gov/data/​). 
+ 
+All data were downloaded at the Census Block Group (CBG) level, the ​smallest standard 
+geographic unit available to join both datasets. The respective tabular sources and 
+calculations are summarised in Table A1. 
+ 
+Table A1. Summary of demographic variables, their respective census tables, and calculations. 
+ 
+Variable 
+Source (ASC / LODES) 
+Calculation 
+Total population 
+Table B02001e1 
+- 
+Median household income 
+Table B19013e1 
+- 
+Poverty level 
+Tables B17021e2, B17021e1 
+[Individuals below poverty 
+level] / [Total individuals 
+assessed for poverty] 
+Non-white population 
+Tables B02001e1, B02001e2 
+[Total population] - [White only 
+population] 
+Zero vehicle ownership 
+Tables B25044e10,  B25044e3, 
+B25044e1 
+([No. of occupied renter units 
+with zero vehicles] + [No. of 
+occupied owner units with 
+zero vehicles]) / [Total 
+occupied units] 
+High-school education or less 
+Tables B15003e10 to 
+B15003e18, B15003e1 
+[educational attainment until 
+end of high school for people 
+aged 25, including GED] / 
+[Total population aged 25+] 
+Total number of jobs  
+Michigan Workplace Area 
+Characteristics (WAC) Table 
+MI_WAC_S000_JT_2017 
+- 
+ 
+ 
+ 
+ 
+42
+=== page 44 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+Appendix 2: Spatial distribution of demand metrics 
+ 
+ 
+Figure A1. Spatial distribution of expected demand for homes/visits, jobs, recreation and healthcare for all 
+of Collin County. 
+ 
+ 
+Appendix 3: Methodology for price elasticity calculations 
+ 
+To calculate the cost of running the service under a new pricing structure, we account for 
+two main factors in our financial model: 
+ 
+1. The predicted underlying growth/decline in ridership based on historical data, 
+regardless of whether pricing changed; 
+2. The expected growth/decline in specific types of rides in response to the change in 
+pricing.  
+ 
+The distribution of trips by price (which is correlated with distance) is shown in Figure A2. 
+ 
+43
+=== page 45 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+ 
+Figure A2. Distribution of historical trips by price paid by the rider (CCT pays the remaining 75%).  
+ 
+Only 55 trips were taken outside the MUTD zone (‘private pay’ trips), and most of them 
+were undertaken by only a few individuals. The exceptionally small proportion of 
+non-MUTD trips prevented us from reliably accounting for these in our model, so we only 
+model MUTD trips.  
+ 
+A major point of consideration in any ridership forecasting model is the differentiation of 
+trends for different trip lengths. Changes in demand will reflect the difference between the 
+new flat fare and the current price of a trip. For instance, if a trip’s price were to decrease 
+under the new pricing regime, the propensity of riders to take such a trip would differ to a 
+situation where a trip’s price would increase (this is explored in more detail in the following 
+sections).  
+ 
+To account for this, we divided trips into different price bands. In both scenarios, one price 
+band encompasses all trips that would cost ​more ​in the new regime (i.e. all trips <$2 in 
+scenario 1, and all trips <$3 in scenario 2). Of the remaining trips that would cost less in the 
+new regime, we defined a ‘low gains’ category (trips costing more than $2 but less than $4 
+in scenario 1, and trips costing more than $3 but less than $5 in scenario 2), a ‘medium 
+gains’ category (trips costing more than $4 but less than $9 in scenario 1, and trips costing 
+more than $5 but less than $9 in scenario 2), and finally a ‘big gains’ category (trips costing 
+more than $9 in both scenarios). These bands were defined according to the distribution of 
+trips displayed in Figure A2.  
+ 
+As shown in Table A2, almost 75% of all trips taken with CCT are short trips costing less 
+than $5. Under Scenario 1, a quarter of historical trips would end up paying more than they 
+44

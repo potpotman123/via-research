@@ -1,0 +1,204 @@
+# source: raw/bleecker_drive/0.0 OMNIA Cooperative Agreement/25-08_Via_Transportation_Response_Combined_2025_05_01_Redacted__1___1_.pdf
+# path: raw/bleecker_drive/0.0 OMNIA Cooperative Agreement/25-08_Via_Transportation_Response_Combined_2025_05_01_Redacted__1___1_.pdf
+# hit page: 33 of 191
+# terms: Via Transportation
+
+=== page 32 ===
+1
+1
+5
+FEDERAL RULE (K) - PROHIBITION ON CERTAIN TELECOM AND SURVEILLANCE SERVICE AND
+EQUIPMENT
+(K) Region 4 ESC, as a non-federal entity, is prohibited from obligating or expending Federal financial assistance,
+to include loan or grant funds, to: (1) procure or obtain,
+(2) extend or renew a contract to procure or obtain, or
+(3) enter into a contract (or extend or renew a contract) to procure or obtain, equipment, services, or systems that
+uses covered telecommunications equipment or services as a substantial or essential component of any system, or
+as a critical technology as part of any system. Covered telecommunications equipment is telecommunications
+equipment produced Huawei Technologies Company or ZTE Corporation (or any subsidiary or affiliate of such
+entities) and physical security surveillance of critical infrastructure and other national security purposes, and video
+surveillance and telecommunications equipment produced by Hytera Communications Corporation, Hangzhou
+Hikvision Digital Technology Company, or Dahua Technology Company (or any subsidiary or affiliate of such
+entities) for the purpose of public safety, security of government facilities, physical security surveillance of critical
+infrastructure, and other national security purposes detailed in 2 CFR § 200.216.
+ 
+The Respondent certifies that it will not purchase equipment, services, or systems that use covered
+telecommunications, as defined herein, as a substantial or essential component of any system, or as critical
+technology as part of any system.
+ I certify compliance with this attribute.
+1
+1
+6
+FEDERAL RULE (L) - BUY AMERICAN PROVISIONS
+(L) As appropriate and to the extent consistent with law, REGION 4 ESC has a preference for the purchase,
+acquisition, or use of goods, products, or materials produced in the United States, including but not limited to iron,
+aluminum, steel, cement, and other manufactured products, when spending federal funds. Vendor agrees that the
+requirements of this section will be included in all subawards including all contracts and purchase orders for work or
+products under this award, to the greatest extent practicable under a Federal award. Purchases that are made with
+non-federal funds or grants are excluded from the Buy American Act.
+ 
+Vendor certifies that it is in compliance with all applicable provisions of the Buy American Act. Purchases made in
+accordance with the Buy American Act must still follow the applicable procurement rules calling for free and open
+competition.
+ 
+ 
+“Produced in the United States” means, for iron and steel products, that all manufacturing processes, from the initial melting stage through the application
+of coatings, occurred in the United States. “Manufactured products” means items and construction materials composed in whole or in part of non-ferrous
+metals such as aluminum; plastics and polymer-based products such as polyvinyl chloride pipe; aggregates such as concrete; glass, including optical fiber;
+and lumber.
+ I certify compliance with this attribute.
+1
+1
+7
+FEDERAL RULE - REQUIRED AFFIRMATIVE STEPES FOR SMALL, MINORITY, AND WOMEN-OWNED
+FIRMS FOR CONTRACTS PAID FOR WITH FEDERAL FUNDS
+ When federal funds are expended by REGION 4 ESC, Vendor is required to take all affirmative steps set forth in 2
+CFR 200.321 to solicit and reach out to small, minority and women owned firms for any subcontracting opportunities
+on the project, including:
+1) Placing qualified small and minority businesses and women's business enterprises on solicitation lists;
+2) Assuring that small and minority businesses, and women's business enterprises are solicited whenever
+they are potential sources;
+3) Dividing total requirements, when economically feasible, into smaller tasks or quantities to permit maximum
+participation by small and minority businesses, and women's business enterprises;
+4) Establishing delivery schedules, where the requirement permits, which encourage participation by small
+and minority businesses, and women's business enterprises; and
+5) Using the services and assistance, as appropriate, of such organizations as the Small Business
+Administration and the Minority Business Development Agency of the Department of Commerce.
+ I certify compliance with this attribute.
+Vendor: Via Transportation Inc.
+25-08
+Page 29 of 32 pages
+=== page 33 ===
+1
+1
+8
+FEDERAL RULE - FEDERAL RECORD RETENTION
+When federal funds are expended by REGION 4 ESC for any contract resulting from this procurement process, the
+vendor certifies that it will comply with the record retention requirements detailed in 2 CFR §200.334. The vendor
+further certifies that vendor will retain all records as required by 2 CFR §200.334 for a period of five (5) years after
+grantees or subgrantees submit final expenditure reports or quarterly or annual financial reports, as applicable, and
+all other pending matters are closed.
+ 
+Vendor agrees that REGION 4 ESC, Inspector General, Department of Homeland Security, FEMA, the Comptroller
+General of the United States, or any of their duly authorized representatives shall have access to any books,
+documents, papers and records of Vendor, and its successors, transferees, assignees, and subcontractors that are
+directly pertinent to the Contract for the purpose of making audits, examinations, excerpts, and transcriptions. The
+right also includes timely and reasonable access to Vendor’s personnel for the purpose of interview and discussion
+relating to such documents. Vendor agrees to permit any of the foregoing parties to reproduce by any means
+whatsoever or to copy excerpts and transcriptions as reasonably needed. Vendor agrees to provide the FEMA
+Administrator or his authorized representative access to construction or other work sites pertaining to the work
+being completed under the Contract.
+ I certify compliance with this attribute.
+1
+1
+9
+FEDERAL RULE - PROFIT NEGOTIATION
+For purchases using Federal funds in excess of $250,000, REGION 4 ESC may be required to negotiate profit as a
+separate element of the price. (See 2 CFR 200.324(b)).
+ 
+When required by REGION 4 ESC, Vendor agrees to provide information relating to profitability of the given
+transaction and itemize the profit margin as a separate element of the price.
+ I certify compliance with this attribute.
+1
+2
+0
+FEDERAL RULE - SOLID WASTE DISPOSAL ACT
+A non-Federal entity that is a state agency or agency of a political subdivision of a state and its contractors must
+comply with section 6002 of the Sold Waste Disposal Act, as amended by the Resource Conservation and Recovery
+Act. The requirements of Section 6002 include procuring only items designated in guidelines of the Environmental
+Protection Agency (EPA) at 40 CFR Part 247 that contain the highest percentage of recovered materials
+practicable, consistent with maintaining a satisfactory level of competition, where the purchase price of the item
+exceeds $10,000 or the value of the quantity acquired during the preceding fiscal year exceed $10,000; procuring
+sold waste management services in a manner that maximizes energy and resource recovery; and establishing an
+affirmative procurement program for procurement of recovered materials identified in the EPA guidelines. (78 FR
+78608, Dec. 26, 2013, as amended at 79 FR 75885, Dec. 19, 2014.)
+ 
+Pursuant to this federal rule, when federal funds are expended by REGION 4 ESC, the vendor certifies that during
+the term of all contracts resulting from this procurement process, the vendor agrees to comply with all applicable
+requirements as referenced in this paragraph.
+ I certify compliance with this attribute.
+1
+2
+1
+APPLICABLITY TO SUBCONTRACTORS
+Vendor agrees that all contracts it awards pursuant to this procurement action shall be bound by the terms and
+conditions of this procurement action.
+ I certify compliance with this attribute.
+1
+2
+2
+COMPLIANCE WITH THE ENERGY POLICY AND CONSERVATION ACT
+When REGION 4 ESC expends federal funds for any contract resulting from this procurement process, Vendor
+certifies that it will comply with the mandatory standards and policies relating to energy efficiency which are
+contained in the state energy conservation plan issued in compliance with the Energy Policy and Conservation Act
+(42 U.S.C. 6321 et seq.; 49 C.F.R. Part 18).
+ 
+ I certify compliance with this attribute.
+Vendor: Via Transportation Inc.
+25-08
+Page 30 of 32 pages
+=== page 34 ===
+1
+2
+3
+INDEMNIFICATION
+Acts or Omissions
+Vendor shall indemnify and hold harmless Region 4, AND/OR THEIR OFFICERS, AGENTS, EMPLOYEES,
+REPRESENTATIVES, CONTRACTORS, ASSIGNEES, AND/OR DESIGNEES FROM ANY AND ALL LIABILITY,
+ACTIONS, CLAIMS, DEMANDS, OR SUITS, AND ALL RELATED COSTS, ATTORNEY FEES, AND EXPENSES arising
+out of, or resulting from any acts or omissions of the Vendor or its agents, employees, subcontractors, Order
+Fulfillers, or suppliers of subcontractors in the execution or performance of the Contract and any Purchase Orders
+issued under the Contract.
+Infringements
+a) Vendor shall indemnify and hold harmless Region 4 and Customers, AND/OR THEIR EMPLOYEES, AGENTS,
+REPRESENTATIVES, CONTRACTORS, ASSIGNEES, AND/OR DESIGNEES from any and all third party claims
+involving infringement of United States patents, copyrights, trade and service marks, and any other intellectual or
+intangible property rights in connection with the PERFORMANCES OR ACTIONS OF VENDOR PURSUANT TO THIS
+CONTRACT. VENDOR AND THE CUSTOMER AGREE TO FURNISH TIMELY WRITTEN NOTICE TO EACH OTHER
+OF ANY SUCH CLAIM. VENDOR SHALL BE LIABLE TO PAY ALL COSTS OF DEFENSE INCLUDING ATTORNEYS’
+FEES.
+b) Vendor shall have no liability under this section if the alleged infringement is caused in whole or in part by: (i) use
+of the product or service for a purpose or in a manner for which the product or service was not designed, (ii) any
+modification made to the product without Vendor’s written approval, (iii) any modifications made to the product by
+the Vendor pursuant to Customer’s specific instructions, (iv) any intellectual property right owned by or licensed to
+Customer, or (v) any use of the product or service by Customer that is not in conformity with the terms of any
+applicable license agreement.
+c) If Vendor becomes aware of an actual or potential claim, or Customer provides Vendor with notice of an actual or
+potential claim, Vendor may (or in the case of an injunction against Customer, shall), at Vendor’s sole option and
+expense; (i) procure for the Customer the right to continue to use the affected portion of the product or service, or
+(ii) modify or replace the affected portion of the product or service with functionally equivalent or superior product or
+service so that Customer’s use is non-infringing.
+Taxes/Workers’ Compensation/Unemployment Insurance – Including Indemnity
+a) VENDOR AGREES AND ACKNOWLEDGES THAT DURING THE EXISTENCE OF THIS CONTRACT, VENDOR
+SHALL BE ENTIRELY RESPONSIBLE FOR THE LIABILITY AND PAYMENT OF VENDOR’S AND VENDOR’S
+EMPLOYEES’ TAXES OF WHATEVER KIND, ARISING OUT OF THE PERFORMANCES IN THIS CONTRACT.
+VENDOR AGREES TO COMPLY WITH ALL STATE AND FEDERAL LAWS APPLICABLE TO ANY SUCH PERSONS,
+INCLUDING LAWS REGARDING WAGES, TAXES, INSURANCE, AND WORKERS’ COMPENSATION. THE
+CUSTOMER AND/OR REGION 4 SHALL NOT BE LIABLE TO THE VENDOR, ITS EMPLOYEES, AGENTS, OR
+OTHERS FOR THE PAYMENT OF TAXES OR THE PROVISION OF UNEMPLOYMENT INSURANCE AND/OR
+WORKERS’ COMPENSATION OR ANY BENEFIT AVAILABLE TO A STATE EMPLOYEE OR EMPLOYEE OF
+ANOTHER GOVERNMENTAL ENTITY CUSTOMER.
+b) VENDOR AGREES TO INDEMNIFY AND HOLD HARMLESS CUSTOMERS, REGION 4 AND/OR THEIR
+EMPLOYEES, AGENTS, REPRESENTATIVES, CONTRACTORS, AND/OR ASSIGNEES FROM ANY AND ALL
+LIABILITY, ACTIONS, CLAIMS, DEMANDS, OR SUITS, AND ALL RELATED COSTS, ATTORNEYS’ FEES, AND
+EXPENSES, RELATING TO TAX LIABILITY, UNEMPLOYMENT INSURANCE AND/OR WORKERS’ COMPENSATION IN
+ITS PERFORMANCE UNDER THIS CONTRACT, VENDOR SHALL BE LIABLE TO PAY ALL COSTS OF DEFENSE
+INCLUDING ATTORNEYS’ FEES.
+ I certify compliance with this attribute.
+1
+2
+4
+EXCESS OBLIGATIONS PROHIBITED
+Proposer understands that all obligations of Region 4 ESC under the contract are subject to the availability of state
+funds. If such funds are not appropriated or become unavailable, the contract may be terminated by Region 4 ESC.
+ I certify compliance with this attribute.
+1
+2
+5
+SUSPENSION AND DEBARMENT
+Respondent certifies that neither it nor its principals are debarred, suspended, proposed for debarment, declared
+ineligible, or otherwise excluded from participation in the contract by any state or federal agency.
+ I certify compliance with this attribute.
+Vendor: Via Transportation Inc.
+25-08
+Page 31 of 32 pages

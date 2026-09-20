@@ -1,0 +1,140 @@
+# source: raw/bleecker_drive/Ben Franklin Transit/Board-Packet-2025-11-13-Version-4.pdf
+# path: raw/bleecker_drive/Ben Franklin Transit/Board-Packet-2025-11-13-Version-4.pdf
+# hit page: 120 of 153
+# terms: Via+fleet, Via+vehicles
+
+=== page 119 ===
+Memorandum 
+Date: November 13, 2025 
+To: 
+Thomas Drozt, Chief Executive Officer 
+From: Kevin Sliger, Chief Planning and Development Officer 
+Re: 
+2025 Review and 2026 Annual Service Plan Update 
+Background 
+The 2026 Annual Service Plan (ASP) consists of service change recommendations that will continue to 
+prioritize equity and emphasize efficiency by making changes to the fixed route network with the goal of 
+providing faster, more frequent, and more reliable service. BFT staff plan to release the ASP for public 
+comment on November 16th and bring details to the Board at the December Board meeting. The finalized 
+plan for approval will be presented at the January 2026 Board meeting.  
+2025 Fixed Route Service Change Review 
+In 2025, Ben Franklin Transit (BFT) implemented a series of service adjustments designed to improve 
+efficiency and better align transit resources with community needs. These changes focused on reducing 
+service in areas with consistently low ridership while enhancing direct, high-frequency connections during 
+peak travel hours to better serve commuters. However, several planned service expansions and route 
+improvements were delayed due to ongoing operator shortages, which limited BFT’s ability to fully 
+implement the new network as originally scheduled. Here are the detailed changes: 
+New Routes: 
+•
+Route 2X: New express route between 22nd Ave Transit Center (Pasco) and Knight Street Transit
+Center (Richland) operates on weekdays during peak hours only.
+•
+Route 240X: New express service between Dayton Transfer Point (Kennewick) and Knight Street
+Transit Center (Richland); runs Monday–Saturday.
+•
+Route 68: New route covering Pasco portions of eliminated Route 268; interlined with Route 67.
+•
+Route 27X: New express route from Queensgate Transit Center (South Richland) to North
+Richland employment and education centers; peak weekday service only. This is the only planned
+service that has not been implemented to date. Planned to start in mid-December.
+Route Modifications: 
+•
+Route 41: Reduced unproductive segments; some portions moved to Route 47.
+•
+Route 47: Expanded to include parts of former Route 41.
+•
+Route 65: Adjusted to better serve Pasco High School on 14th Ave.
+•
+Route 67: Extended to Burns Road and interlined with new Route 68.
+•
+Route 10/20: Interlined to improve frequency on Route 10.
+•
+Route 225: Realigned to serve Sageview High School and nearby neighborhoods in Pasco.
+•
+Route 268: Eliminated; service replaced by METRO 2x and Route 68.
+•
+Schedule adjustments: Reduced Saturday evening service on low-ridership routes; added Route
+40 service after 8 PM on Saturdays.
+=== page 120 ===
+2026 Fixed Route Service Change Overview 
+In 2026, BFT will focus on refining the service adjustments introduced in 2025 while addressing areas of 
+high demand, improving accessibility, and ensuring the system operates efficiently and sustainably. The 
+plan emphasizes better alignment between service levels, ridership patterns, and community priorities. Key 
+priorities for 2026 include: 
+Monitoring 2025 Service Changes: Evaluate the performance and productivity of routes implemented or 
+modified in 2025 to ensure they meet operational and ridership goals. 
+Overload/Tripper Service: Reassess supplemental “tripper” trips to better align with school schedules 
+and peak-period demand. BFT anticipates removing the 123s AM tripper due to low utilization, while the 
+PM trip will be further evaluated for potential adjustment. 
+Addressing Overcrowding: Add resources to routes with heavy ridership, particularly Route 3 along 
+Court Street during the weekday PM peak. 
+Event Service Expansion: Provide special service to Tri-Cities Fan Zone events during the 2026 World 
+Cup, with costs offset by WSDOT-provided grant funds for FIFA-related transit support. BFT will also 
+explore the feasibility of a pilot service to the Flea Market in Fall 2026 to improve access to community 
+events. 
+Columbia Basin Veterans Service: Explore the feasibility of providing direct fixed-route service to the 
+Columbia Basin Veterans Center. While this location is already a CONNECT point of interest, BFT staff 
+are considering adding a local Pasco route serving the western extent of A Street and the Veterans Center. 
+Pasco Aquatics Center Service: Plan service, either a direct shuttle or adjustment of existing routes, to 
+serve the new Pasco Aquatics Center opening in summer 2026. 
+ADA Dial-A-Ride Enhancements: Focus on implementing same-day ride options for ADA-eligible 
+passengers to improve flexibility and accessibility. 
+Rideshare Program: Continue to grow the Rideshare program through WSDOT-funded subsidy 
+programs for State employees and integrate new vehicles into the fleet to support expansion and 
+reliability. 
+CONNECT Service Review: Reassess BFT’s agreement with Via Inc. and conduct a comprehensive 
+study to improve efficiency and reduce redundancies between CONNECT and the fixed-route system. 
+Through these initiatives, BFT aims to enhance reliability, expand mobility options, and strengthen its 
+commitment to providing efficient, accessible, and community-focused transportation throughout the Tri-
+Cities. 
+ Labor & Vehicle Resources 
+Implementation of the 2026 ASP is expected to result in a minimal increase in resources, and the proposed 
+headcount of 173 Operators will suffice to meet the service needs. Increase in DAR Driver headcount will 
+be needed to address observed increases in demand and the advent of same-day trips which will be made 
+possible through the new DAR dispatch software BFT plans to procure.
+=== page 121 ===
+Budget Impact – Revenue Hours 
+Changes outlined in the upcoming 2026 ASP are expected to have a minimal impact on service. The draft 
+document will detail the expected change in revenue hours.  
+Looking Ahead to the 2027 Annual Service Plan 
+While BFT originally planned to propose additional service changes in 2026, the Agency will instead 
+focus on planning and preparing for a more significant service expansion in 2027. This approach will 
+allow time to address operator availability, complete necessary planning studies, and ensure community 
+needs are met effectively. 
+Planned service concepts for 2027 include: 
+•
+Extending fixed-route service to the rapidly growing West Clearwater area in Kennewick.
+•
+Adding new service in West Richland to meet increasing residential and commercial development
+demand.
+•
+Introducing commuter service to the King City area of Pasco to improve regional access.
+•
+Providing a local, fixed route circulator in Prosser
+•
+Potential expansion to the Badger Mountain South area, Horn Rapids/Logston Industrial Park,
+and Burbank (located outside of BFT’s service area).
+•
+Increasing the weekday and Sunday morning service span to offer earlier travel options.
+•
+Expanding Sunday service routes, one of the top requests identified through customer feedback.
+These planned improvements for 2027 will continue BFT’s commitment to expanding access, improving 
+convenience, and supporting the growing mobility needs of the Tri-Cities region. 
+Release for Public Comment - Timeline: 
+2026 Annual Service Plan will be released on November 16, 2025, and will be open for public comment 
+until the public hearing during the January 8, 2026, Board meeting. Multiple opportunities will be made 
+available for the community to provide feedback both in person and online.  
+The complete Draft 2026 ASP will be available on the BFT website at: https://www.bft.org/about/annual-
+service-plan/ once released on November 16, 2025. 
+Funding 
+Budgeted:   
+Pending 
+Budget Source:  
+Operating Budget  
+Funding Source: 
+FTA, State, and Local 
+Recommendation 
+No recommendations. This memo is informational in nature. 
+Forward as presented: 
+____________________________________________ 
+Thomas Drozt, Chief Executive Officer

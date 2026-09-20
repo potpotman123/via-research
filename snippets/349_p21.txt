@@ -1,0 +1,125 @@
+# source: raw/bleecker_drive/Ben Franklin Transit/Rider Information and Trip Planning RFP/Rider_Information_&_Trip_Planning_Platform_Solution_(Addendum_#1_Revision).pdf
+# path: raw/bleecker_drive/Ben Franklin Transit/Rider Information and Trip Planning RFP/Rider_Information_&_Trip_Planning_Platform_Solution_(Addendum_#1_Revision).pdf
+# hit page: 21 of 39
+# terms: Via+vehicles
+
+=== page 20 ===
+Request for Proposal #25-21 
+Title: Rider Information & Trip Planning Platform Solution 
+20 
+ 
+1. Contractor agrees that no person or selling agency except bona fide employees or 
+designated agents or representatives of Contractor have been employed or trained to solicit 
+or secure this contract with a Contract or understanding that a commission, percentage, 
+brokerage, or contingent fee would be paid; and 
+2. That no gratuities, in the form of entertainment, gifts or otherwise, were offered or given by 
+Contractor or any of its agents, employees or representatives to any official, member or 
+employee of BFT or other government agency with a view toward securing this contract or 
+securing favorable treatment with respect to the awarding or amending, or the making of 
+any determination with respect to the performance of this Contract. 
+7.6. Notice of Impaired Performance 
+A. Whenever an actual or potential event such as a labor dispute, act of God, change in 
+Contractor’s business or any other event is impairing the performance of the Contract, the 
+relevant party will immediately give notice thereof including all relevant information with 
+respect thereto. 
+B. If Contractor's performance of any obligation to BFT is delayed or made impossible or 
+commercially impracticable due to any cause beyond Contractor's reasonable control (including, 
+without limitation, acts of God, labor disputes, compliance with government regulations, 
+equipment failure, shortages in transportation, inability to obtain labor or raw materials, or 
+delays in the performance of Contractor's suppliers or subcontractors), Contractor will have 
+such additional time within which to furnish the services under this Contract as may be 
+reasonably necessary under the circumstances. 
+7.7. Independent Contractor 
+A. The parties intend that an independent relationship will be created by this Contract. BFT is 
+interested primarily in the results to be achieved; the implementation of services will lie solely 
+with Contractor. No agent, employee, servant or representative of Contractor shall be deemed 
+to be an employee, agent, servant or representative of BFT for any purpose, and the employees 
+of Contractor are not entitled to any of the benefits BFT provides to its employees. Contractor 
+will be solely and entirely responsible for its acts and for the acts of its agents, servants, Sub-
+Contractors or representatives during the performance of this Contract. 
+B. In the performance of the services herein contemplated, Contractor is an independent 
+Contractor with the authority to control and direct the performance of the details of the work. 
+However, the results of the work contemplated herein must meet the approval of BFT and shall 
+be subject to BFT’S general rights of inspection and review to secure the satisfactory completion 
+thereof.
+=== page 21 ===
+Request for Proposal #25-21 
+Title: Rider Information & Trip Planning Platform Solution 
+21 
+ 
+7.8. Access to Records and Audits (Local, State and Federal Funded 
+Procurements) 
+Local and State Funded Access to Records and Audits: 
+The Contractor agrees to permit any of the foregoing parties to reproduce by any means whatsoever or 
+to copy excerpts and transcriptions as reasonably needed. 
+Contractor shall maintain books, accounts, records, documents, and other evidence pertaining to the 
+costs and expenses allowable under this Contract in accordance with Generally Accepted Accounting 
+Practices. 
+Also, all such books of accounts and records required to be maintained by this Contractor shall be 
+subject to inspection and audit by representatives of BFT and of the Washington State Auditor at all 
+times and Contractor shall afford the proper facilities for such inspection and audit. Such books of 
+account and records may be copied by BFT where necessary to conduct or document an audit. 
+7.9. Federal/State and Local Taxes 
+BFT is not exempt from Washington State Sales Tax. The Contractor shall include in cost proposal form 
+and be responsible to pay all taxes associated with the project, including but not limited to: 
+State Utility Tax 
+State Sales and Use Tax on vehicles and other equipment 
+State B & O Tax 
+7.10. Legal Remedies 
+This Contract shall be construed in accordance with the laws of the State of Washington, and in any 
+disputes arising under the terms of, or in connection with this Contract, both parties agree that venue 
+shall be in the courts of Benton County in the State of Washington. 
+7.11. Assignment and/or Subcontracting 
+BFT and Contractor, each for themselves, binds themselves, themselves principals, successors, assigns 
+and legal representatives of such party in respect of all covenants of this Contract. This Contract and all 
+obligations arising thereunder shall not be sold, assigned or transferred by either party without the 
+previous consent in writing of the other party to this Contract. 
+The performance of all activities contemplated by this Contract shall be accomplished personally by 
+Contractor, identified in the submittal. Contractor must advise BFT of the necessity for a subcontract, 
+such as a special testing that the Contractor is not able to perform, via email to the designated BFT 
+contact. 
+Subcontractor means any individual, firm, partnership, corporation, joint venture, or other entity, other 
+than the Contractor providing the proposal. 
+Subcontract mean any agreement, including purchase orders (other than on involving an 
+employer/employee relationship), entered in to between the Contractor and a Subcontractor calling for
+=== page 22 ===
+Request for Proposal #25-21 
+Title: Rider Information & Trip Planning Platform Solution 
+22 
+ 
+services, labor, equipment, and/or material required for the performance of the work required by the 
+RFP document, including any modifications thereto. 
+7.12. Severability 
+Should any part, term or provision of this Contract be decided by the courts to be illegal or in conflict 
+with any applicable statute or regulation, the validity of the remaining portions shall not be affected 
+thereby. 
+7.13. Interest of Members of or Delegates to Congress 
+In accordance with Title 41, USC 22 for Public Contracts, No Member of Congress shall be admitted to 
+any share or part of any Contract or Agreement made, entered into, or accepted by or on behalf of the 
+United States, or to any benefit to arise thereupon. The provisions of this section shall not apply to any 
+Contracts or Agreements heretofore or hereafter entered into under the Agricultural Adjustment Act, 
+the Federal Farm Loan Act, the Emergency Farm Mortgage Act of 1933, the Federal Farm Mortgage 
+Corporation Act, the Farm Credit Act of 1933, and the Home Owners' Loan Act of 1933, and shall not 
+apply to Contracts or Agreements of a kind which the Secretary of Agriculture may enter into with 
+farmers: Provided, That such exemption shall be made a matter of public record. 
+7.14. Suspension of Work 
+BFT may order the Contractor in writing to suspend, delay, or interrupt all or any part of the Contract for 
+such period of time as it may determine to be appropriate for the convenience of BFT. 
+If the performance of all or any part of the Contract is for an unreasonable period of time suspended, 
+delayed, or interrupted by an act of BFT in the administration of this Contract, or by BFT’s failure to act 
+within the time specified in the Contract, an adjustment will be made for any necessary increases in the 
+cost or time of performance of the Contract (excluding profit) and the Contract modified in writing 
+accordingly. However, no adjustment shall be made under this clause for any suspension, delay or 
+interruption to the extent: 
+A. That performance would have been so suspended, delayed or interrupted by another cause, 
+including the fault or negligence of the Contractor; or 
+B. For which an equitable adjustment is provided for or excluded under any other provision of the 
+Contract. 
+No claim under this Section shall be allowed: 
+A. For any cost incurred more than twenty (20) calendar days before the Contractor's notification 
+to BFT, in writing, of the particular act or failure to act upon which the claim is based; or 
+B. Unless the claim, in an amount stated, is asserted in writing as soon as practicable after the 
+termination of such suspension, delay, or interruption, but not later than the date of final 
+payment under the Contract. 
+7.15. Termination of Contract 
+Termination for Convenience or Default

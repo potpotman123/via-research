@@ -1,0 +1,219 @@
+# source: https://baldwincountyal.legistar1.com/baldwincountyal/attachments/c546bf76-e248-4290-b9ab-90205959df7f.pdf
+# path: raw/cache/1fd3b22af3bb5741e9f713620d3a88d681264209.pdf
+# hit page: 19 of 41
+# terms: Via+drivers, Via+fleet
+
+=== page 18 ===
+DocuSign Envelope ID: 46D7BA63-91 78-46AF-89F7-BA6A63C7B28B 
+EXHIBIT A 
+TO PROFESSIONAL SERVICES CONTRACT 
+BALDWIN COUNTY DEPLOYMENT SERVICE ORDER 
+1. Purpose; Scope 
+By this service order (the "Order"), Via Mobility 
+LLC, a Delaware limited liability company with 
+its principal office located at 160 Varick Street, Floor 4, New York, New York 10013 ("Via"), and 
+Baldwin County ("Customer") agree to collaborate towards the operation by Customer of a 
+deployment of an on-demand shared ride service (the "Deployment") in a geographic area in 
+Baldwin County, Alabama. 
+The Deployment will be based on Customer's successful grant application to the Federal Transit 
+Administration's (FTA) Integrated Mobility Innovation (IMI) Program. For purposes of the 
+Deployment, Via will provide (in accordance with and subject to the Terms): 
+(a) 
+The use of the standard Via Solution, which is comprised of the following: 
+Technology 
+Description 
+Rider Application 
+Downloadable co-branded rider iOS and Android apps which 
+allow riders to book on-demand and pre-scheduled shared 
+rides, with distinct service parameters depending on trip origin 
+or destination. The app will be co-branded as "Powered by Via" 
+in a prominently displayed banner headlined by the Customer 
+name/logo. 
+Driver Application 
+Downloadable driver iOS and Android application that directs 
+the driver turn by turn. 
+Backend 
+Cloud-accessed dispatch, monitoring and customer service 
+Administration 
+tools that allow Customer to run the on-demand and 
+Tools 
+prescheduled shared ride service. 
+Analytics 
+Tools As described in the Data Sharing Appendix 1; 
+and Reporting 
+Ongoing 
+As described in 1.(b), Support Services; 
+Technical, 
+Operational 
+and 
+Marketing Support 
+(b) 
+The following Support Services: 
+i. 
+Installation Services until up to four weeks after launch of the Deployment: 
+I lnsta_Halion 
+Services 
+I 
+Description• 
+Confidential • Page 1 of 9
+=== page 19 ===
+DocuSign Envelope ID: 46D7BA63-9178-46AF-89F7-BA6A63C78288 
+Localization 
+for Build detailed map, input traffic model, define service zone, 
+new city 
+including pickup and drop-off points; update rider and/driver 
+apps; localize dynamic vehicle routing and real-time passenger 
+aggregation algorithm; configure backend (billing, payment, 
+and database); 
+Testing 
+and Remote and on-the-ground testing of all Via systems before 
+quality assurance 
+launch 
+Assist 
+development 
+launch model 
+with Assist Customer to build a launch plan and customer 
+of acquisition strategy 
+Train 
+local Provide instruction for drivers, dispatchers, and managers on 
+personnel 
+and Via's best practices; onsite and remote launch support (travel 
+oversee launch 
+costs excluded) 
+Additional 
+configuration 
+As included in Customer's IMI grant application, Via will provide 
+additional configuration support to ensure a successful 
+deployment. This includes: 
+• 
+Establishment of distinct service zones in major 
+population centers within Customer's deployment zone, 
+enabling three distinct trip types: 
+o 
+lntrazone: Trips entirely within one of the high-
+density zones 
+o 
+lnterzone: Trips to and from any of the high-
+density zones 
+o 
+Outer-zone: Trips starting/ending in one of the 
+high-density zones to an area outside of the 
+zone, but within Baldwin County 
+• 
+Algorithm configuration to establish separate service 
+parameters 
+• 
+Vehicle tag configuration to support distinct trip logic 
+* Customer shall reimburse all travel expenses of Via personnel for purposes of the Deployment. 
+Installation-related services described above will initially be performed remotely, and pending safe 
+travel conditions, in person by Via personnel for a limited period around the time of launch. 
+Thereafter, services will continue to be performed remotely as applicable, provided that Via 
+personnel can be sent to Customer's location for additional trips upon reasonable request. 
+Due to the outbreak of COVI D-19 in the United States as of the time of this contract, any on the 
+ground support will be contingent on safe travel to and from Customer service area. 
+ii. 
+Ongoing Services following the fourth week after launch of the Deployment, which 
+are included in the Fees up to the amounts set forth below: 
+Ongoing 
+Description 
+Amount 
+Services 
+Operational 
+• Virtual bus stop architecture and map Up 
+to 
+10 
+Support 
+and 
+maintenance: 
+quality 
+assurance 
+and hours/month 
+System 
+update of optimal pickup points 
+Adjustments 
+• Fleet optimization and essential service 
+adjustments: adjustments to dynamic and 
+Confidential • Page 2 of 9
+=== page 20 ===
+DocuSign Envelope ID: 46D7BA63-9178-46AF-89F7-BA6A63C7B28B 
+predictive routing algorithm 
+Expert Consulting 
+• 
+Marketing and growth: Including help Up 
+to 
+5 
+Services 
+setting up complex promotions, review and hours/month 
+assistance for third-party marketing tools 
+Ridership 
+Operations 
+Consulting 
+Data Sharing 
+Automatic product 
+upgrades 
+included in Via's marketing tech stack, as 
+applicable 
+• 
+Operations: Including supply optimization 
+analysis, payment & fraud investigation, 
+and business case/unit economics analysis 
+• 
+Service expansion: Including feasibility 
+analysis for expansions in service or 
+additional on-demand projects 
+Analysis of ridership trends across different zones 
+and during different timeframes. 
+Analysis of riders sensitivity to wait times, walking 
+distances, and price. 
+Assistance developing pricing schemes, referral 
+promotions, pass offers to incentivize ridership 
+Optimization of algorithmic parameters to better 
+match supply to demand by geography and time of 
+day 
+As set forth in Appendix 1 
+Via will continuously improve the software 
+platform for this service based on data analytics 
+and lessons learned across all of Via's global 
+deployments. 
+Via will regularly upgrade systems to improve 
+the product in response to service performance 
+metrics and user feedback across all Via 
+deployments. 
+Via's 
+technology 
+team 
+continuously 
+updates 
+and 
+maintains the 
+software; Customer will not need to install 
+updates or pay additional fees for system 
+maintenance. 
+Up 
+to 
+10 
+hours in the 
+Initial 
+Term, 
+conditional on 
+a signature of 
+this document 
+by June 301h, 
+2020 
+No maximum 
+No maximum 
+Cloud hosting and Amazon Web Services, Twilio, analytics and No maximum 
+third-party tools 
+communications software tools (excluding third 
+party payment processor) 
+Tech Support and 
+Maintenance** 
+Dedicated customer success Via point of No maximum 
+contact will use commercially reasonable 
+efforts to respond within one business day for 
+non-critical issues (upon receipt of a detailed 
+description of the issue as requested by Via) 
+and to ensure that assistance is provided within 
+a reasonable time frame. Via will also provide 
+Customer with an appropriate channel for 
+Confidential · Page 3 of 9

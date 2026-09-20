@@ -1,0 +1,135 @@
+# source: https://rideuta.legistar1.com/rideuta/attachments/edb9daeb-5cdc-41ab-b54c-e5ff7564b539.pdf
+# path: raw/cache/3d685d24d6a156c21e339f492dd0ce646970225b.pdf
+# hit page: 2 of 14
+# terms: Via+drivers, Via+per vehicle hour, Via+vehicles
+
+=== page 1 ===
+1 
+ 
+SERVICE ORDER NO. 5 UNDER THE  
+ON-DEMAND TECHNOLOGIES AND INNOVATIVE MOBILITY SERVICES  
+MASTER SERVICES AGREEMENT 
+UTA Contract No. 20-03399-5 
+ 
+ 
+SERVICE ORDER NO. 5  
+UTA ON DEMAND - SOUTHERN DAVIS COUNTY &  
+SOUTHERN SALT LAKE COUNTY SERVICE AREA 
+ 
+ 
+1. Purpose 
+ 
+On September 1, 2021, each of River North Transit, LLC (“Via”) and the Utah Transit Authority 
+(“UTA” or “Customer”), hereinafter collectively referred to as the “Parties,” entered into an 
+agreement entitled On-Demand Technologies and Innovative Mobility Services (the “MSA”). On 
+December 15, 2021, the Parties entered into Service Order No. 2 (as amended up to the date hereof, 
+the “Service Order No. 2”), under the MSA to collaborate on the UTA On Demand Deployment  
+in southern Salt Lake County, Utah (the “Salt Lake County Deployment”). On July 13, 2022 the 
+Parties also entered into Service Order No. 3 (as amended up to the date hereof, the “Service 
+Order No. 3”), under the MSA to collaborate on UTA’s -demand response transit service in South 
+Davis County, Utah (the “South Davis County Deployment” and, together with the Salt Lake 
+County Deployment, the “Deployment”). Through this Service Order No. 5 (the “Service 
+Order”), with an Effective Date of January 1, 2024, the Parties have agreed to further extend the 
+duration of the Deployment and otherwise amend and restate Service Order No. 2 and Service 
+Order No. 3 as set out herein. For greater certainty, this Service Order supersedes and replaces the 
+Service Order No. 2 and the Service Order No. 3, and Service Order No. 2 and Service Order No. 
+3 shall have no further legal force or effect. 
+ 
+Via will provide UTA with technology and technology-enabled integration services (the 
+“Services”), acting as a broker coordinating the services of third party service providers to 
+effectuate the Deployment. Via will contract with third party service providers to effectuate such 
+integration, including with fleet managers, vehicle suppliers, driver partners, background check 
+providers, customer service support agencies, a payment processor and insurance brokers and 
+underwriters. Via’s Services will include: 
+  
+● A Transportation as a Service (TaaS) solution as defined within the MSA; 
+● Localization of a proprietary cloud-based dynamic vehicle routing and real-time passenger 
+aggregation system;    
+● Access to the Via mobile rider application (iOS and Android) for individuals using UTA’s 
+service (“Riders”) to book and pay for rides through a smartphone; 
+DocuSign Envelope ID: 002455B7-6E53-483F-866B-FB9C401AC130
+=== page 2 ===
+2 
+ 
+● Access to booking via a dedicated phone line for Riders who do not have access to a 
+smartphone; 
+● Access to the Via mobile driver application for drivers to route and service rides through a 
+smartphone or tablet; 
+● Establish relationship with vehicle rental company (“Vehicle Partner”) to provide access 
+to vehicles on a rental basis to independent contractor driver partners (“Driver Partners”) 
+who shall provide transportation services;  
+● Accompanying technical and operational support service; 
+● Marketing and outreach initiatives as described herein. 
+● Data sharing and reporting as described herein. 
+ 
+Conflicts between this Service Order and any other terms and conditions or written agreements 
+between the Parties, including the MSA, shall be resolved in favor of this Service Order. 
+2. Duration & Launch Date 
+  
+The duration of the Deployment shall last for a period of 36 (thirty-six) months, until December 
+31, 2026, inclusive, following the Effective Date (the “Initial Term”), subject to year-by-year 
+extensions based on mutual agreement of the Parties.   
+  
+3. Fees 
+  
+Any new regulatory fees imposed by a governmental entity related to the Services will be 
+charged as a pass-through cost contingent on UTA’s advance agreement which will not be 
+unreasonably withheld or delayed. UTA will have the option of decreasing other Services or 
+expenses in order to off-set these additional fees. 
+ 
+4. Service Parameters 
+  
+Pursuant to the MSA and in accordance with Appendix A and B, Via will provide access to a 
+platform service (the “Platform”) through which Riders will be able to book and pay for rides on 
+a shared and on-demand basis and dedicated vehicles will be offered by the Vehicle Partner to 
+Driver Partners on a rental basis. The Parties may add additional service zones through future 
+amendments to Appendix A, B and/or C of this Service Order. Customer may expect  per vehicle 
+hour pricing for additional service zones to align with the pricing laid out in Appendix C, provided 
+that the service details in the additional service zones are not significantly different from existing 
+service zones, such as vehicle type, geography, and driver requirements. Additional service zones 
+will also require implementation fees. 
+ 
+DocuSign Envelope ID: 002455B7-6E53-483F-866B-FB9C401AC130
+=== page 3 ===
+3 
+ 
+Rider Fares: Rider fares and rider fare discounts will be set by UTA. During the duration of the 
+Deployment, discounted and promotional rider fares may be implemented upon mutual agreement 
+between the Parties. 
+ 
+Fare Revenue: UTA shall maintain its partner Braintree (or follow-on commercial vendor) 
+account throughout the Deployment and shall collect and own all revenue from service fares 
+(“farebox revenue”), net of Braintree service fees, in the account.  
+ 
+Payments: Via will ensure acceptance of Rider payment through the Rider app via credit cards, 
+Apple Pay, Google Pay, pre-paid debit cards, FAREPAY cards, and all electronic pass cards 
+accepted by UTA. Riders may also book trips using a “paper ticket” payment method and will be 
+permitted to ride if the Driver Partner serving that Rider’s trip deems the paper ticket valid. Via 
+will also provide a concierge booking service for Riders without smartphones. The concierge 
+service will include a customer payment option which meets Payment Card Industry Data Security 
+Standards (PCI DSS). 
+ 
+Via will ensure the execution of any necessary registrations and licensing to perform the Services, 
+with UTA’s cooperation and assistance.   
+ 
+Parking: UTA shall identify and make available a UTA facility, depot, or parking lot 
+(“Depot/Lot”) with ample overnight parking for the Vehicle Fleet. The Depot/Lot must be in a 
+safe and lighted area inside the boundaries of the service zone and may be owned by UTA or by a 
+UTA partner. Such parking shall not interfere with, nor disrupt, UTA or UTA partner operations. 
+Routine Vehicle Fleet cleaning may be performed at the Depot/Lot and no vehicle maintenance 
+will be performed at the Depot/Lot that would otherwise require mechanic services. In the event 
+the Depot/Lot has secured access, Vehicle Partners and Driver Partners will comply with UTA or 
+UTA partner standard operating procedures when accessing and using the Depot/Lot.  
+ 
+Additional Waiver of Claims and Indemnification Regarding Stored Vehicles 
+ 
+In addition to the agreements and obligations undertaken in Section 19 of the MSA, Via agrees to 
+waive any claims against UTA or a UTA partner as applicable, its employees, agents, and assigns, 
+and to also obtain waivers from its independent contractor Driver Partners for any claims against 
+UTA or a UTA partner as applicable, its employees, agents, and assigns, for damage to vehicles 
+stored in Depot/Lot, provided that the requirements in Section “Parking” above are met by UTA 
+or a UTA partner as applicable. 
+ 
+5. Project Team & Governance 
+  
+DocuSign Envelope ID: 002455B7-6E53-483F-866B-FB9C401AC130

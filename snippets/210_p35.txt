@@ -1,0 +1,103 @@
+# source: https://legistar1.granicus.com/McKinney/attachments/abb0b9be-9c15-4174-9e04-7b9d82941c25.pdf
+# path: raw/cache/5e92fe54da67feb112756b4c03bca94101b9439a.pdf
+# hit page: 35 of 50
+# terms: Spare Labs
+
+=== page 34 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+In a stop-to-stop service, having a set of specific stops speeds up rider identification and 
+boarding times because both driver and rider are more familiar with exactly where they 
+should meet. This familiarity creates consistency, avoids confusion, and reduces the 
+chances of a passenger no-show or long idling times for vehicles. 
+ 
+Another benefit of a stop-to-stop service is the use of designated stop signs as marketing 
+tools for the service itself. Spare’s implementation plan includes providing expertise in 
+marketing strategy and marketing assets (such as graphics, content, etc.). Spare would also 
+be able to help CCT to create custom sign graphics, although permission for installation 
+would have to be sought from relevant authorities by CCT. 
+ 
+ 
+Figure 15. Comparison of metrics between door-to-door and stop-to-stop services for the ‘great service’ 
+option, averaged across all demand scenarios. 
+ 
+Factors to consider when designing a stop-based microtransit system include: 
+ 
+●
+Stop spacing and walking distances: ​Gains in waiting times come at the expense 
+of requiring riders to walk – in our simulations, average walking times were 11 
+minutes. Maximum walking distances can be tweaked by increasing the density of 
+stops, which in turn reduces efficiency gains. Spare would provide expertise in 
+designing stop configurations during an implementation.  
+●
+Vehicle parking and accessibility:​ Stops must be chosen in places where vehicles 
+can park safely and conveniently. Riders must be able to get in and out of vehicles 
+quickly and easily, unimpeded by obstacles or traffic. Sufficient sidewalk space is 
+required for riders to wait for their vehicle to arrive. 
+33
+=== page 35 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+●
+Side of road:​ Stops must be placed on roadsides that are most optimal for onward 
+travel and which maximize the potential of pooling as many passengers as possible. 
+This is especially important to consider for passengers with ambulatory issues. 
+●
+Points of interest and land use:​ Stops must be placed as close as possible to POIs 
+and take into account restrictions linked to certain forms of land use.  
+ 
+Stop-based services are simple for administrators to design, manage, and run using the 
+sophisticated Spare Launch Admin Panel. There is also a very low barrier to entry for riders 
+to navigate a stop-based system in the Spare Rider app. Clear written and schematic 
+instructions guide riders to walk a few blocks to meet their driver (Figure 16). User reviews 
+and feedback on the Spare Rider app are constantly monitored to improve the product. 
+The response from riders in stop-based Spare-run services has been consistently excellent.  
+ 
+Manageable walking distances for most mobile individuals is often a beneficial tradeoff for 
+lower average wait times. CCT could consider implementing a tailored system, whereby 
+certain riders with mobility issues have access to a fully door-to-door service, while most 
+other riders access a stop-to-stop service. The flexible nature of Spare Platform makes this 
+complex task easy to design and operate. 
+ 
+Figure 16. Example layout of stops in the Admin Panel of Spare Launch, and instructions in the Spare Rider 
+app for reaching a ‘virtual stop’. 
+ 
+The importance of right-sizing CCT’s vehicle fleet  
+ 
+In all the simulations undertaken by Spare, vehicle occupancy never exceeded 4 
+passengers (Figure 17): in other words, the maximum vehicle size required to service the 
+zone would be a 4-passenger vehicle.  
+ 
+34
+=== page 36 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+Right-sizing transit vehicles (i.e. purchasing and/or using vehicles that are appropriately 
+sized for servicing the actual demand) can substantially lower transit agency costs, because 
+smaller vehicles cost less to purchase, run, and maintain than traditionally sized buses. 
+Smaller vehicles also tend to have lower licensing requirements than commercial transit 
+vehicles, meaning that the labor pool from which CCT could recruit drivers will be larger 
+and cheaper.  
+ 
+Since CCT currently makes use of taxis from Irving Holdings, many of the vehicles are 
+presumably smaller and therefore right-sized for this particular zone. However, CCT could 
+save on costs if they invested in new dedicated shuttle vehicles that were fit for purpose.  
+ 
+ 
+Figure 17. Maximum simulated vehicle occupancy in all simulations 
+ 
+The financial model underpinning the figures in this report assumes that CCT makes full 
+use of its three dedicated vehicles, with one vehicle being mainly reserved for the use of 
+low-mobility riders, while being used for general microtransit during idle periods. Any 
+additional vehicles are assumed to be supplied as non-dedicated taxis by an operator such 
+as Irving Holdings.  
+ 
+However, the annual and per-trip costs would ultimately decrease if CCT were to run the 
+entire service solely using dedicated vehicles. This is because running a dedicated vehicle at 
+a cost of $50 per hour is cheaper than employing a taxi to serve long (10–15 mile) trips at 
+$2.40 per mile. CCT’s recently approved $3 flat fare is expected to incentivize riders to take 
+slightly longer trips than before (when a variable fare had been in place), and the inclusion 
+of Parker Road LRT station in the zone will increase average trip distances. Therefore, a 
+dedicated fleet with a unit cost per hour is likely to pay off in the long run for CCT. The table 
+below shows that using a dedicated fleet to meet the majority of demand could result in 
+savings of $7 per trip and $140,000 annually under a medium-demand, low-cost scenario. 
+ 
+ 
+35

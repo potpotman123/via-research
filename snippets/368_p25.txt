@@ -1,0 +1,110 @@
+# source: raw/bleecker_drive/Bay Transit/REDACTED-Via-Mobility-LLC-Response_RFP-2024-01-Transit-Scheduling-Software.pdf
+# path: raw/bleecker_drive/Bay Transit/REDACTED-Via-Mobility-LLC-Response_RFP-2024-01-Transit-Scheduling-Software.pdf
+# hit page: 25 of 60
+# terms: Via+drivers, Via+fleet, Via+vehicles
+
+=== page 24 ===
+Software shall allow messaging between drivers and dispatchers.
+Communication tools shall also be available in the interface to allow drivers the ability to communicate
+with dispatchers and passengers in real-time; this includes two-way messaging capabilities to request
+assistance or communicate with passengers regarding trip details.
+Performance tracking such as trip completion rate and vehicle maintenance reminders and notifications
+for scheduled inspections and preventative maintenance and repairs are desirable for the software.
+4.2.3 Driver Interface
+Our Driver-facing application has
+been developed to make drivers'
+jobs safer and easier. The app
+provides a single interface where a
+driver can access the information
+they need before, during, and after
+their shifts. This includes
+turn-by-turn navigation, a ride
+manifest that updates in real-time
+as new rides are booked,
+automated notifications, and “one
+click” task acknowledgements. Real-time location data from the rider and driver apps
+feeds back into our algorithms, allowing for dynamic optimization of routing and trip
+assignments. Via’s Driver App is able to send ridership information to operators, including,
+but not limited to, customer name, pick-up and drop-off address, individual trip notes, and
+estimated trip time. Through the Driver App, drivers are able to communicate with both
+riders and dispatchers, mark trips as completed, or mark riders as no-shows. Via’s Driver
+App also features an emergency alert (“Silent Alarm”), which will automatically alert
+dispatchers if drivers are in need of assistance.
+The Driver App ingests information from Via’s system, which will dynamically adjust pickup
+/ dropoff times, reschedule, or add trips based on operating delays, including road
+closures and traffic speeds. If an incident impacts trip times, the resulting delays on
+arrivals or trip times are automatically updated. If an accident occurs which results in a
+vehicle being taken out of service, staff can remove that vehicle from service, re-book
+trips on other vehicles, and the system will update schedules based on new bookings.
+RFP #2024-01 Transit Scheduling Software | 22
+=== page 25 ===
+Bay Transit Requirement
+Via
+Scheduling
+Operators/drivers shall see their assigned demand response and/or ondemand rides scheduled and
+dispatched.
+Software shall provide key information such as trip assignments and route information.
+Software shall allow drivers to report no-shows and adjust drop-off locations for returning trips.
+Real-Time Information
+Software shall provide real-time navigation to and from rider location (based on browser IP/mobile app
+geolocation) and from rider location to final destination for demand response and/or on-demand rides.
+Operators/drivers shall see their specific GPS location of riders (as long as riders allow sharing this
+information) to facilitate pick-ups.
+X 1
+Drivers should also receive real time updates on passenger pick-ups, drop offs, and any other changes
+to their trip itineraries.
+Software shall automatically send alerts/notifications in real-time on remaining waiting time once driver
+arrives at pick-up location.
+Software shall allow driver to record no shows and total waiting time in case of receiving any rider
+complaints.
+Software shall provide driver information on rider’s’ payment in real time, allowing to driver to verify if
+rider pays for the trip before riding.
+Software shall provide drivers the ability to monitor their own location as well as the locations of other
+vehicles in the fleet to help coordinate with other drivers and adapt their routes based on traffic
+conditions.
+2
+Real time information shall provide dynamic routing updates based on real time traffic information.
+Drivers should receive turn by turn navigation instructions to optimize their routes and minimize travel
+time.
+Daily Management
+Software shall allow drivers to notify dispatchers and operations on any modifications while vehicles
+are in service.
+Proprietary, Confidential, and Trade Secret Information
+RFP #2024-01 Transit Scheduling Software | 23
+=== page 26 ===
+Software shall allow drivers the ability to identify the rider as the account holder and person who
+booked the trip.
+Software shall provide drivers the ability to confirm that the rider has been picked up.
+Software shall offer drivers the ability to provide and receive canned messages from dispatchers.
+X 3
+Software shall provide drivers the ability to report issues with the ride or client to dispatchers.
+Software shall verify whether the driver could successfully login to the system using drivers’
+tablets/smart phones.
+Software shall provide the drivers the ability to mark trips as completed, update passenger status, and
+report any issues or delays.
+1.
+For privacy reasons, drivers are not shown the rider's specific GPS location. Drivers will be
+able to see the designated pickup location assigned during ride booking. If a rider is not
+present at the designated pickup location, Drivers can also call riders to coordinate the
+pickup if necessary.
+2.
+Via’s algorithms make routing decisions based on historic and real-time traffic speeds and
+demand data. The algorithms will dynamically update routes in response to real-time
+changing traffic or fleet conditions, and communicate these changes directly within the
+driver app. This deprecates the need for drivers to manually coordinate routing decisions,
+or track where other vehicles are.
+3.
+Via’s Driver App offers one-click task acknowledgements, such as "I'm Here" when they’ve
+arrived at a pickup location, allowing them to efficiently communicate updates to riders,
+dispatchers, and the broader platform.
+4.2.4 Administrative Interface
+The Via Operations Center, or the VOC, is the central application designed for
+administrators and dispatchers to manage every aspect of the service in real time. For full
+details regarding service management, see section 4.2.2 Dispatcher Interface. For details
+regarding data and reporting, see section 4.4 Data Requirements.
+Fleet and Driver Management
+Our extensive suite of fleet and driver management features allows customers to manage
+the workflow of their operations including live vehicle tracking, driver management, and
+shift scheduling. Dispatchers can also monitor shift status, visualize shifts across dates
+and times, and add or edit shifts. For example, Bay Transit will be able to manage driver
+RFP #2024-01 Transit Scheduling Software | 24

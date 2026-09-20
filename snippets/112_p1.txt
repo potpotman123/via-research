@@ -1,0 +1,101 @@
+# source: https://actransit.legistar1.com/actransit/attachments/f76d1e17-5a46-46d9-b5cb-0789d072b1af.pdf
+# path: raw/cache/56a3edfd81a527c6cd658e3025b17ba837790afc.pdf
+# hit page: 1 of 4
+# terms: Spare Labs
+
+=== page 1 ===
+ALAMEDA-CONTRA COSTA TRANSIT DISTRICT
+STAFF REPORT
+MEETING DATE: 4/24/2024
+Staff Report No. 24-241
+TO:
+AC Transit Board of Directors
+FROM:
+   Michael A. Hursh, General Manager/Chief Executive Officer
+SUBJECT:
+Contract Award: Paratransit System Software
+ACTION ITEM
+AGENDA PLANNING REQUEST:
+☐
+RECOMMENDED ACTION(S):
+Consider authorizing the General Manager to execute a contract, jointly with the Bay Area Rapid Transit
+District (BART),
+with Spare Labs Inc. (Spare) for Software-As-A-Service (SaaS), including turnkey
+implementation and support services, for the East Bay Paratransit Consortium (EBPC) for a seven-year term,
+inclusive of up to a two-year implementation period and a five-year operational period.
+Staff Contact:
+Ramakrishna Pochiraju, Executive Director of Planning & Engineering
+Ahsan Baig, Chief Information Officer
+STRATEGIC IMPORTANCE:
+Goal - Convenient and Reliable Service
+Initiative - Service Quality
+The new software platform will provide innovative features for East Bay Paratransit (EBP), such as dynamic
+vehicle optimization/routing to improve efficiency and reduce costs; expanded customer support and self-
+service functions such as trip booking and cancellation; improved efficiencies in the call center features and
+functions, and the ability to integrate micro-transit options as well as EBP’s contactless paratransit fare
+payment application.
+BUDGETARY/FISCAL IMPACT:
+The base contract cost is $4,074,000, including $1,520,000 for implementation during the first two years and
+$2,554,000 for operations and maintenance (O&M) over the remaining five years of the contract.
+The
+contract also includes an option to use Spare’s text-messaging (SMS) and interactive voice response (IVR)
+systems for an additional $492,000, which would bring the contract amount to $4,566,000.
+AC Transit is responsible for 69 percent of the total contract cost which is $3,150,540.
+The implementation costs and first four years of O&M costs, which are similar to the programmed capital
+ALAMEDA-CONTRA COSTA TRANSIT DISTRICT
+Printed on 4/18/2024
+Page 1 of 4
+powered by Legistar™
+=== page 2 ===
+MEETING DATE: 4/24/2024
+Staff Report No. 24-241
+expense of purchasing software, will be paid of out the capital budget. The remainder of the contract cost will
+be included in future operating budgets as a cost for Purchased Transportation.
+CONTRACT AWARD SUMMARY:
+BART took the lead on this procurement on behalf of the EBPC. The BART Board of Directors awarded the
+contract during its regularly scheduled meeting on April 11, 2024.
+Vendor Outreach Summary:
+No. DBE/SBEs:
+See below
+No. Registered Vendors:
+N/A
+Contract Summary:
+# Proposals/Bids Received:
+4
+Award Type:
+Best Value
+Independent Cost Estimate Range:
+$6,400,000
+Recommended for Award:
+Spare Labs, Inc.
+Small Business Type:
+Not Applicable*
+DBE/SBE Utilization %:**
+See Below
+* Neither SBE, nor DBE
+** The District sets Small Business Enterprise (SBE) goals on contracting opportunities. The Federal Transit Administration (FTA) may
+authorize a Disadvantaged Business Enterprise (DBE) goal; however, SBE goals may result in DBE awards and utilization.
+Levine Act Disclosure
+California Government Code § 84308, commonly referred to as the “Levine Act,” precludes an Officer of a local
+government agency from participating in the award of a contract if he or she receives any political
+contributions totaling more than $250 in the 12 months preceding the pendency of the contract award, and for
+three months following the final decision, from the person or company awarded the contract. This prohibition
+applies to contributions to the Officer, or received by the Officer on behalf of any other Officer, or on behalf of
+any candidate for office or on behalf of any committee. The Levine Act also requires disclosure of such
+contributions by a party to be awarded a specified contract. Disclosure is not required for contracts that are
+competitively bid.
+Pursuant to BART’s Non-Federal Small Business Program, the Office of Civil Rights set a 5% Small Business
+Prime Preference for this Agreement for Small Businesses certified by the California Department of General
+Services (DGS). It was determined that there were no certified Small Businesses certified by the DGS among
+the responsive Proposers and, therefore, the Small Business Prime Preference is not applicable.
+Pursuant to BART’s Non-Discrimination Program for Subcontracting, the Availability Percentages for this
+agreement are 8.4% for Minority Business Enterprises and 5.7% for Women Business Enterprises. Spare Labs
+Inc. will not be subcontracting any portion of the work and therefore, the provisions of BART’s Non-
+Discrimination Program for Subcontracting do not apply.
+BACKGROUND/RATIONALE:
+East Bay Paratransit Consortium (EBPC) is a partnership between the San Francisco Bay Area Rapid Transit
+District (BART) and AC Transit to provide federally-mandated paratransit services as required under the
+ALAMEDA-CONTRA COSTA TRANSIT DISTRICT
+Printed on 4/18/2024
+Page 2 of 4
+powered by Legistar™

@@ -1,0 +1,253 @@
+# source: raw/bleecker_drive/Arlington, Virginia/arlington-transit-fy25-34-tsp-final.pdf
+# path: raw/bleecker_drive/Arlington, Virginia/arlington-transit-fy25-34-tsp-final.pdf
+# hit page: 91 of 333
+# terms: Via Transit
+
+=== page 90 ===
+Evaluation of Transit Market Demand and Underserved Areas
+Arlington Transit Strategic Plan | Chapter 2 - System Performance and Operations Analysis
+72
+Specific Destination Gaps Analysis
+One important way to gauge the existing service gaps in the bus network is to review specific County-wide 
+destinations and determine if those locations are being served well by the current ART and Metrobus transit 
+options. This assessment reviewed the current level of transit trips (total transit trips and ART trips, respectively) 
+for a full day of service for transit centers, active and emerging activity centers, secondary and post-secondary 
+schools, and community centers. The results for each location were then compared to the average trips of that 
+destination type (i.e., transit centers, activity centers, schools, and community centers). If a destination has more 
+trips than the average, it received an “above” classification; likewise, if a destination has fewer trips than the 
+average of that destination type, it received a “below” classification. 
+Transit Centers
+The review of the existing transit centers includes all 11 WMATA Metrorail stations that offer transit connections 
+within the County, along with the Shirlington Transit Center and the intersection of Dinwiddie Street and Columbia 
+Pike. These transit centers also include parking minimum reductions to better support the use of transit. The 11 
+Metrorail stations are served by several different ART and Metrobus routes:
+
+Arlington Cemetery Metrorail Station
+o
+ART Routes: none
+o
+WMATA Routes: none
+
+Ballston – MU Metrorail Station
+o
+ART Routes: 41, 42, 51, 52, 53, 62, 72, 75
+o
+WMATA Routes: 1A, 1B, 2A, 10B, 22A, 23A, 23B, 23T, 25B, 38B
+
+Clarendon Metrorail Station
+o
+ART Routes: 41, 42, 62, 77
+o
+WMATA Routes: 38B
+
+Courthouse Metrorail Station
+o
+ART Routes: 41, 43, 45, 61. 62. 77 
+o
+WMATA Routes: 4B, 38B
+
+Crystal City Metrorail Station
+o
+ART Routes: 43
+o
+WMATA Routes: 23A, 23B, Metroway
+
+East Falls Church Metrorail Station
+o
+ART Routes: 52, 53, 55
+o
+WMATA Routes: 2A, 3F, 3Y, 26A, 28A
+
+Pentagon Metrorail Station & Transit Center
+o
+ART Routes: 42, 87, 87X
+o
+WMATA Routes: 7A, 7M, 8W, 10A, 16A, 16C, 16E, 17B, 17G, 17K, 17M, 18G, 18J, 18P, 21C, 22A, 
+22F, 28F, 29G
+
+Pentagon City Metrorail Station
+o
+ART Routes: 42, 84, 87, 87A, 87P
+o
+WMATA Routes: 7A, 10A, 16E, 16M (formerly the 16G and 16H), 22A, Metroway
+
+Ronald Reagan Washington National Airport
+o
+ART Routes: none
+o
+WMATA Routes: 10N
+
+Rosslyn Metrorail Station
+o
+ART Routes: 43, 45, 55, 61
+o
+WMATA Routes: 4A, 4B, 5A, 15K, 38B
+
+Virginia Square – GMU Metrorail Station
+o
+ART Routes: 41, 42, 75
+o
+WMATA Routes: 38B
+The transit routes that serve the intersection of Dinwiddie Street at Columbia Pike include ART 75, and 
+Metrobus 16A, 16C, 16E, and 16M (formerly the 16G and 16H). The Shirlington Transit Center is served by 
+ART 72, 75, 77, 87, and 87X, DASH 36A and 36B, and Metrobus 7A, 10B, 22A, 23A, 23B, and 23T.
+=== page 91 ===
+Evaluation of Transit Market Demand and Underserved Areas
+Arlington Transit Strategic Plan | Chapter 2 - System Performance and Operations Analysis
+73
+Table 15 details the existing transit trips to each transit center, showing how many trips are serving each location 
+for all bus services, including ART, and ART independently of the other services.
+Locations such as the Ballston – MU Metrorail Station and the Shirlington Transit Center received “above” 
+average assessments for all bus trips and ART trips only, suggesting that these locations receive adequate bus 
+coverage. 
+Conversely, locations such as East Falls Church Metrorail Station and the Crystal City Metrorail station have 
+“below” average assessments for all bus trips and when only considering ART services, which strongly suggests 
+that additional solutions should be considered for these locations.
+There are several locations where overall bus service is “above” average, yet ART service is “below” average. 
+This suggests that bus service to destinations that are farther away (often provided by Metrobus) are decent; 
+however, bus service to more local destinations should be reviewed in order to ensure all connections can be 
+made. This condition exists at the Pentagon City Metrorail Station and the Pentagon Metrorail Station & Transit 
+Center.
+Additionally, there are also several locations where ART service is at “above” average levels, yet the overall bus 
+services are considered “below” average. This situation suggests that coverage oriented towards more local 
+areas is provided at a sufficient level, yet there may be opportunities to provide better connections to jobs in other 
+neighboring areas or for neighboring residents who may be traveling into Arlington via transit. This is occurring at 
+the Clarendon Metrorail Station and the Virginia – GMU Metrorail Station.
+Arlington has implemented parking ratio requirements at transit centers in exchange for elements such as transit 
+infrastructure which can benefit all riders at the station. It is worth noting that both the Arlington Cemetery 
+Metrorail Station and the Ronald Reagan Washington National Airport do not currently have any bus services that 
+operate to either location. Both are served by Metrorail and strengthening connections to existing services should 
+continue to be prioritized. Furthermore, the proposed CC2DCA connector will provide a direct ADA- accessible 
+pathway between ART service on Crystal Drive, the Crystal City Metro, a relocated Crystal City VRE station and 
+National Airport.
+=== page 92 ===
+Evaluation of Transit Market Demand and Underserved Areas
+Arlington Transit Strategic Plan | Chapter 2 - System Performance and Operations Analysis
+74
+TABLE 15 | TRANSIT TRIPS PER DAY TO TRANSIT CENTERS
+Activity 
+Centers
+The review of the existing activity centers included 15 locations across Arlington County that represent areas 
+where travel and transit activity are the highest. These locations often have either higher densities of residential 
+areas or jobs, or often times both. Each area is presented in terms of the ART services that operate through the 
+area, as well as the bus routes operated by WMATA.
+
+Baileys Crossroads-Western Gateway
+o
+ART Routes: 41, 45,72, 75
+o
+WMATA Routes: 16A, 16C, 16E, 16M (formerly 16H), 16Y, 22A, 25B
+
+Ballston
+o
+ART Routes: 51, 52, 53, 62, 72, 75
+o
+WMATA Routes: 1A, 1B, 2A, 10A, 10B, 22A, 23A, 23B, 23T, 25B, 38B
+o
+Omniride: 622, D-200
+
+City of Falls Church
+o
+ART Routes: 52, 53, 55
+o
+WMATA Routes: 2A. 3F, 3Y, 26A, 28A
+
+Clarendon
+o
+ART Routes: 41, 42, 45, 55, 62, 75, 77
+o
+WMATA Routes: 3Y, 4B, 16Y, 38B
+
+Columbia Pike Town Center
+o
+ART Routes: 41, 42, 45, 74, 77, 84, 87
+o
+WMATA Routes: 10A, 10B, 16A, 16C, 16E, 16H, 16Y, 22A, 23A, 23B, 23T
+
+Columbia Pike Village Center
+o
+ART Routes: 41, 45, 72, 74, 75, 77, 84
+o
+WMATA Routes: 10B, 16A, 16C, 16E, 16H, 16Y, 22A, 23A, 23B, 23T
+
+Courthouse
+Transit Centers
+Total Bus 
+Trips
+Relation to 
+Average
+ART 
+Trips
+Relation to 
+Average
+Ballston - MU Metrorail Station
+2,270
+Above
+647
+Above
+Pentagon City Metrorail Station
+1,826
+Above
+344
+Below
+Dinwiddie Street at Columbia Pike
+1,560
+Above
+659
+Above
+Pentagon Metrorail Station & Transit Center
+1,526
+Above
+168
+Below
+Shirlington Transit Center
+1,441
+Above
+452
+Above
+Courthouse Metrorail Station
+1,384
+Above
+932
+Above
+Rosslyn Metrorail Station
+1,273
+Above
+708
+Above
+East Falls Church Metrorail Station
+1,142
+Below
+423
+Below
+Crystal City Metrorail Station
+1,088
+Below
+144
+Below
+Clarendon Metrorail Station
+1,045
+Below
+741
+Above
+Virginia Square - GMU Metrorail Station
+949
+Below
+645
+Above
+Arlington Cemetery Metrorail Station
+0
+Below
+0
+Below
+Ronald Reagan Washington National Airport
+0
+Below
+0
+Below
+Total Trips
+15,504
+5,863
+Average Trip per Transit Center
+1,193
+451

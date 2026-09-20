@@ -1,0 +1,123 @@
+# source: raw/bleecker_drive/Lee County/RFP250034SML Via Mobility Executed.pdf
+# path: raw/bleecker_drive/Lee County/RFP250034SML Via Mobility Executed.pdf
+# hit page: 123 of 171
+# terms: Via Mobility, Via Transportation
+
+=== page 122 ===
+APPENDIX TO CERTIFICATE
+No. I26772
+Via Transportation Inc.
+114 5th Avenue, Floors 16 & 17, New York, NY 10011, U.S.A
+Via Transportation Inc.
+114 5th Avenue, Floors 16 & 17, New York, NY 10011, U.S.A
+Via Mobility LLC 
+114 5th Avenue, Floors 16 & 17, New York, NY 10011, U.S.A
+Nomad Transit LLC
+114 5th Avenue, Floors 16 & 17, New York, NY 10011, U.S.A
+River North Transit LLC            
+          
+114 5th Avenue, Floors 16 & 17, New York, NY 10011, U.S.A
+Remix Technologies LLC 
+144A Menachem Begin Rd. Tel Aviv, Israel
+Via Transportation Israel Ltd 
+144A Menachem Begin Rd. Tel Aviv, Israel
+Via Mobility Israel Ltd
+Keizersgracht 467-2A, 1017 DK Amsterdam, the Netherlands
+Via Technologies Europe BV      
+    
+Rosa-Luxemburg-Str. 14, 10178 Berlin
+Via Mobility DE GmbH              
+        
+Rosa-Luxemburg-Str.14, 10178 Berlin
+Via Betriebsgesellschaft mbH 
+138 Fetter Lane, London, EC4A 1BT, United Kingdom
+Via Transportation UK Limited.
+138 Fetter Lane, London, EC4A 1BT, United Kingdom
+City Mapper Limited
+Valid until:
+04 Mar 2026
+03 Mar 2025
+Issue Date
+Nir Halpern, CEO
+IQC - Institute of Quality & Control
+9 Shamira Imber Gadish st. Kiryat Ono, Israel
+Tel: 03-9313555
+E-Mail: info@iqc.co.il, www.iqc.co.il
+Institute of Quality & Control
+EXHIBIT E - PROJECT FUNDING PACKAGE
+IQC· 
+Institute of 
+Quality & Control 
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7
+=== page 123 ===
+Proprietary and Confidential 
+Information 
+Via Mobility LLC’s (“Via”) response and all supporting documentation, including 
+associated exhibits and appendices, contain confidential information exempt from 
+disclosure under Florida Statutes, Title X, Chapter 119 (the “Florida Public Records Law”). 
+The confidential materials include, but are not limited to, information relating to the pricing 
+of Via's services, back-end application processes, proprietary algorithms, unique 
+business methodologies, entity officer and member details, market positioning, third party 
+reference letters, compliance efforts, and sensitive information on key performance 
+indicators. This information is exempt from disclosure under several provisions, including 
+but not limited to, Florida Statutes § 815.045 (as the public and private harm in disclosing 
+trade secrets significantly outweighs any public benefit derived from disclosure and the 
+public’s ability to scrutinize and monitor agency action is not diminished by nondisclosure 
+of trade secrets). Accordingly, we request that your office maintain the confidentiality of 
+Via’s response and provide Via with timely notice of any third party’s request for these 
+materials prior to production by contacting compliance@ridewithvia.com. 
+Intellectual Property 
+The Via Transportation, Inc. products are protected by one or more of the following U.S., 
+European or International Patents: 
+US: 9,816,824 ; 9,562,785 ; 10,197,411 ; 10,677,604 ; 10,168,168 ; 10,168,167 ; 10,458,803 ; 
+10,677,602 ; 11,107,352 ; and other patents pending. 
+Europe:  EP3355028; NL3355028; FR3355028; GB3355028 ; DE3355028 ; and other 
+patents pending. 
+    LeeTran Paratransit Software Management System  
+EXHIBIT E - PROJECT FUNDING PACKAGE
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7
+=== page 124 ===
+VER 06-12-24 
+ 
+65 RFP250034SML – LeeTran Paratransit Software Management 
+ 
+Sealed Proposal Label 
+ 
+Cut along the outer border and affix this label to 
+your sealed solicitation envelope to identify it as 
+a “Sealed Submission/Proposal”. 
+ 
+ 
+PROPOSAL DOCUMENTS • DO NOT OPEN 
+SOLICITATION NO.: 
+RFP250034SML 
+  SOLICITATION TITLE: 
+LeeTran Paratransit Software Management 
+  DATE DUE: 
+Thursday, March 13, 2025 
+  TIME DUE: 
+Prior to: 2:30 PM  
+  SUBMITTED BY: 
+ 
+ 
+(Name of Company) 
+ 
+ 
+  e-mail address                                                                                                                   Telephone 
+DELIVER TO: 
+Lee County Procurement Management 
+2115 Second Street, 1st Floor 
+Fort Myers FL  33901 
+Note:  proposals received after the time and date above will not be accepted. 
+ 
+*Notice:  the Date Due/Submission Deadline Date/Opening Date as stated on this label and other forms contained herein may 
+have been updated via issuance of Addenda against this project.  It is the sole responsibility of the Contractor/Vendor to monitor 
+the County project webpage for any updates to the Date Due/Submission Deadline Date/Opening Date via Addenda.  This label 
+nor other original forms may not be updated.  Contractor/Vendor may strike through and update Date Due/Submission Deadline 
+Date/Opening Date at their discretion to match any updates to this date that have been published via Addenda. 
+Submission received after the time and date of the Date Due/Submission Deadline Date/Opening Date will not be accepted at 
+the sole discretion of the County. 
+ 
+PLEASE PRINT CLEARLY 
+EXHIBIT E - PROJECT FUNDING PACKAGE
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7

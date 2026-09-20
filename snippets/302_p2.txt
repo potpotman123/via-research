@@ -1,0 +1,88 @@
+# source: raw/bleecker_drive/Baldwin/24_1142_Via_Mobility_LLC_-_Fourth_Extension_20240917.pdf
+# path: raw/bleecker_drive/Baldwin/24_1142_Via_Mobility_LLC_-_Fourth_Extension_20240917.pdf
+# hit page: 2 of 2
+# terms: Via Mobility
+
+=== page 1 ===
+Extension and Amendment of the Contract for Professional Services 
+ 
+1. Purpose; Scope 
+ 
+Each of Via Mobility, LLC a Delaware company with its principal office located at 114 5th Avenue, Floor 
+16 and 17, New York, New York 10011 (“Via”), and Baldwin County Commission (“Customer”), and, 
+hereinafter  the “Parties”  entered into an agreement titled Contract for Professional Services (the 
+"Contract") and into a service order titled Baldwin County Deployment Service Order each dated June 18, 
+2020  and modified by the Extension and Amendment Agreement dated September 21, 2021, and modified 
+by the Extension and Amendment Agreement dated September 20, 2022, and modified by the Extension 
+and Amendment Agreement dated September 19, 2023 (together, the “Agreement”). By this Extension and 
+Amendment Agreement ( “Extension”), the parties agree towards continued collaboration of operation of 
+the services provided under the Agreement. 
+ 
+Amendment 
+ 
+2. Duration  
+ 
+This Extension shall extend the period of performance of the Agreement by a period of twelve months, 
+from October 1, 2024 until September 30, 2025 (inclusive) (the "Additional Term"). The Effective Date 
+of this Extension shall be October 1, 2024. 
+ 
+3. Product Enhancements 
+ 
+Via commits to make all commercially reasonable efforts to deliver the following capabilities within its 
+software platform within the first 6 months of the Additional Term. Via agrees to communicate with 
+Customer on an ongoing basis regarding the timeline for these capabilities, and to collaborate with 
+Customer regarding the prioritization of these capabilities as relevant.  
+ 
+• 
+Correct scheduling error in  rider app for BayLinc specialty tag. Rider should be restricted to 
+scheduling trips from Baldwin County to Mobile to 3 set departure locations and 3 specific 
+departure times. Since mid-June passengers are able to schedule a trip from Baldwin County to 
+Mobile from any location at any time. 
+• 
+Correct issue of randomly not presenting completed trips for payment processing.  These are not 
+FAILED payments. When a payment fails, it appears on the Braintree system and in the Pricing 
+and Payment Report as a failed payment. The payments that are not processed at all do not appear 
+in the Pricing and Payment Report , in Braintree, or on the Rider Management Page.  The rides 
+appear on the Ride Plan and Ride Request Report as completed. This issue was reported with the 
+rollout of Via 2.0 on 6/1/2023. 
+ 
+If the above capabilities are not delivered by April 1, 2025, Customer may terminate  the Agreement in 
+accordance with Clause 19 and Exhibit B of the Contract. 
+ 
+4. Remix Pilot.
+=== page 2 ===
+Baldwin County Commission may activate a 6-month pilot of Remix On-Demand Planning at no additional 
+cost during the Additional Term. Use of the Remix Solution  is subject to the Remix service terms 
+at https://www.remix.com/service-terms. 
+ 
+5. Conflicts of Terms.  
+ 
+Unless otherwise stated, all terms and conditions contained in the Original Order are also applicable to this 
+Extension. If a term contained in this Extension is in conflict with the terms of the Original Order, the 
+specific term in this Extension shall take precedence. Any term or condition in the Original Order, including 
+all Appendices not affected by this Extension, shall remain in full force and effect.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IN WITNESS WHEREOF, the Parties hereto have caused this Extension and any accompanying Exhibits 
+to be executed in duplicate as of the Effective Date.  
+ 
+ 
+ 
+ 
+VIA: VIA MOBILITY, LLC 
+ 
+CUSTOMER: Baldwin County Commission 
+AUTHORIZED SIGNATURE 
+AUTHORIZED SIGNATURE 
+PRINTED NAME 
+PRINTED NAME 
+TITLE 
+TITLE 
+DATE SIGNED 
+DATE SIGNED

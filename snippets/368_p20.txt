@@ -1,0 +1,109 @@
+# source: raw/bleecker_drive/Bay Transit/REDACTED-Via-Mobility-LLC-Response_RFP-2024-01-Transit-Scheduling-Software.pdf
+# path: raw/bleecker_drive/Bay Transit/REDACTED-Via-Mobility-LLC-Response_RFP-2024-01-Transit-Scheduling-Software.pdf
+# hit page: 20 of 60
+# terms: Via+drivers
+
+=== page 19 ===
+Software shall provide name-entry ability for riders to include any Personal Care Attendants (PCAs) or
+other companions that will ride the service with the rider.
+Software shall confirm that the booking was successfully entered into the system.
+In case a call taker is scheduling the trip(s) for the rider, the software shall provide the call taker the
+ability to complete all functionalities detailed above.
+Real-Time Information: Demand Response and/or On-Demand Service
+The software shall provide real time demand response and/or on-demand ride scheduling dispatched
+information to customers. This would include scheduled date/time, pick-up location,
+scheduled/anticipated pick-up time, actual pick-up time, origin and destination locations, route
+distance, fare payment information (if applicable), drop-off location, drop-off date/time, and real-time
+updates for each ride.
+Software shall provide such information via both customer facing app and web-based portal for riders
+without smartphones.
+Software shall provide real-time navigation from rider location (based on browser IP/mobile app
+geolocation) to pick-up location for rides.
+Software shall have the ability to provide riders with alerts/notifications in real-time, and these shall be
+accessible to non-English speakers (prioritizing Spanish speakers).
+Software shall provide alerts/notifications in real-time on waiting time and no shows tracking for riders,
+as these can result in penalties and fees.
+Software shall consider peak periods and available traffic information when reporting real-time route
+information, such as estimated time of arrival (ETA).
+Fare Payment
+The software shall allow demand response and/or on-demand riders to pay electronically in advance for
+any scheduled trips and/or subscriptions.
+Software shall allow a cash payment option for riders without credit card or other online payment
+methods.
+Software shall indicate to the rider any applicable fare(s) to be paid by their Care Agency and/or any
+companions.
+Title VI Requirements
+Software’s customer facing interface for all service types shall be accessible to non-English speakers.
+RFP #2024-01 Transit Scheduling Software | 17
+=== page 20 ===
+Software shall allow capability for all customer app/web portal information to be translated to Spanish.
+Software shall allow automated booking option for Spanish speakers in case Bay Transit cannot provide
+riders with Spanish speakers call takers.
+Software shall have the ability to provide riders with real-time alerts/notifications accessible to Spanish
+speakers.
+ADA Compliance
+Software’s customer app/web-based portal shall make all information accessible to visually impaired
+riders.
+1.
+Via’s ride booking window can be configured to allow demand response riders to schedule
+trips up to a single predefined number of days in advance of the requested trip date. Via's
+system does not allow for different booking windows for recurring versus one-time trips.
+4.2.2 Dispatcher Interface
+The Via Operations Center, or the VOC, is the central application designed for
+administrators and dispatchers to manage every aspect of the service in real time. The
+console features a set of sophisticated automations designed to minimize the amount of
+manual intervention necessary by dispatchers, while still preserving the flexibility they
+need to do their job. The VOC also provides streamlined reporting to help drive
+continuous service optimization and cost efficiency. The VOC is cloud-hosted, accessible
+on any browser and device from anywhere in the world, and allows multiple users to
+access it at once. For more details regarding administrative features in the VOC, see
+section 4.2.4 Administrator Interface.
+Real-time Performance Management
+The Via Hub and Ride Plan allow
+dispatchers to monitor and control service
+in real-time. Notifications alert dispatchers
+to pending issues giving them the option
+to let the software automatically resolve or
+to manually intervene. If dispatchers want
+to make a manual intervention, the tool
+provides a simple interface to
+communicate with riders and drivers,
+access more information about a rider or trip, and add, edit, or cancel trips as necessary.
+RFP #2024-01 Transit Scheduling Software | 18
+=== page 21 ===
+Our software uses up-to-date mapping technology and leverages real-time speed and
+location data to continuously optimize for on-time performance. Via’s mapping interfaces
+are updated every quarter, and road closures are updated live. Bay Transit can also
+update any closures manually in the VOC. If Bay Transit knows of any significant changes,
+Via can push a map update. If the software recognizes that a vehicle is running late to a
+pickup, and there is another vehicle available to reach the pickup quicker, it will
+automatically reassign the trip and notify the riders and drivers. The VOC also allows for
+specific parameter configurations, such as maximum wait times, to ensure high qualities
+of service that are in line with Bay Transit’s vision.
+Ride Booking
+The Via Operations Center has a
+streamlined dispatcher interface
+when manual ride booking is
+required. Designed to support riders
+who do not have smartphones or
+access to a web browser, or who
+simply prefer to book over the phone,
+the Booking Module enables
+dispatchers to seamlessly enter a
+rider’s requested pickup and drop-off locations, and record any relevant notes for the
+driver. Once all trip information is entered, dispatchers receive a set of trip proposals,
+which they can discuss with the rider before confirming the booking, and if required the
+dispatcher can automatically book a return trip.
+Rider Profile Management
+Our rider management features
+allow users to manage every
+aspect of a rider’s account
+details, from initial account
+creation to reviewing a
+passenger’s ride history. The
+VOC clearly displays all the
+necessary elements of a rider’s
+profile, including the rider’s
+status (active, inactive, suspended), trip history, future reserved trips, ADA accessibility
+and eligibility details, mobility equipment specifications, payment and contact information,
+RFP #2024-01 Transit Scheduling Software | 19

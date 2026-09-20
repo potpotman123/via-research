@@ -1,0 +1,96 @@
+# source: https://rideuta.legistar1.com/rideuta/attachments/87d00177-6e8c-484d-a64d-5aea968ce6b0.pdf
+# path: raw/cache/9297b630c24b643d11122c6286ddd3a3a16b1d2e.pdf
+# hit page: 1 of 13
+# terms: River North Transit, Via+drivers, Via+fleet, Via+vehicles
+
+=== page 1 ===
+Service Order No. 1 UTA Contract No. 20-03399BM 
+(Confidential) ∙ Page 1 of 13 
+ 
+ 
+SERVICE ORDER NO. 1 UNDER THE  
+ON-DEMAND TECHNOLOGIES AND INNOVATIVE MOBILITY SERVICES  
+MASTER SERVICES AGREEMENT 
+UTA Contract No. 20-03399-1 
+ 
+ 
+SERVICE ORDER NO. 1  
+UTA ON DEMAND - SALT LAKE CITY DEPLOYMENT 
+ROSE PARK, POPLAR GROVE, GLENDALE SERVICE AREA 
+DATE: SEPTEMBER 30, 2021 
+ 
+ 
+1. Purpose 
+ 
+On September 1, 2021, each of River North Transit, LLC (“Via”) and the Utah Transit Authority 
+(“UTA” or “Customer”), hereinafter collectively referred to as the “Parties,” entered into an 
+agreement entitled On-Demand Technologies and Innovative Mobility Services (the “MSA”). By 
+this Service Order No. 1 under the MSA, the parties agree to collaborate towards the initiation of 
+UTA’s demand response transit service (hereinafter the “Deployment”) in Salt Lake City for one 
+year (12 months), subject to extension by mutual agreement of the Parties. 
+ 
+Via will provide UTA with technology and technology-enabled integration services (the 
+“Services”), acting as a broker coordinating the services of third-party service providers to 
+effectuate the Deployment. Via will contract with third party service providers to effectuate such 
+integration, including with fleet managers, vehicle suppliers, driver partners, background check 
+providers, customer service support agencies, a payment processor and insurance brokers and 
+underwriters. Via’s Services will include: 
+  
+● A Transportation as a Service (TaaS) solution as defined within the MSA; 
+● Localization of a proprietary cloud-based dynamic vehicle routing and real-time passenger 
+aggregation system;  
+● Access to the Via mobile rider application (iOS and Android) for individuals using UTA’s 
+service (“Riders”) to book and pay for rides through a smartphone; 
+● Access to booking via a dedicated phone line for Riders who do not have access to a 
+smartphone; 
+● Access to the Via mobile driver application for drivers to route and service rides through a 
+smartphone or tablet; 
+● Establish relationship with vehicle rental company (“Vehicle Partner”) to provide access 
+to vehicles on a rental basis to independent contractor driver partners (“Driver Partners”) 
+who shall provide transportation services;  
+● Accompanying technical and operational support service; 
+● Marketing and outreach initiatives as described herein. 
+● Data sharing and reporting as described herein. 
+ 
+Conflicts between this Service Order and any other terms and conditions or written agreements 
+between the Parties, including the MSA, shall be resolved in favor of this Service Order. 
+DocuSign Envelope ID: 804E0FF8-6929-4168-9728-F38F78F591C9
+=== page 2 ===
+Service Order No. 1 UTA Contract No. 20-03399BM 
+(Confidential) ∙ Page 2 of 13 
+ 
+2. Duration & Launch Date 
+  
+The duration of the Deployment shall last for a period of 12 (twelve) months following the launch 
+date (the “Initial Term”), subject to year-by-year extensions based on mutual agreement of the 
+Parties.   
+  
+UTA will provide to Via written notice to proceed at least eight (8) weeks prior to service launch.  
+For the avoidance of doubt, notice to proceed can only be written by UTA once the contract and 
+appendices (including the Service Order) are final and signed, and any necessary local and 
+regulatory approvals have been received or registrations completed. Upon receipt of such written 
+notice to proceed, Via will commence local preparation for launch (“Launch Preparation 
+Period”). Service operation will begin on a mutually agreeable date, no earlier than November 1, 
+2021, unless Via and UTA define an alternative mutually agreeable date in writing (“Launch 
+Date”). 
+ 
+3. Fees 
+  
+The table below outlines the payment structure, in which UTA would be charged a price per driver 
+hour and a fixed monthly price for Technology and IT Operations. Any new regulatory fees 
+imposed by a governmental entity related to the service will be charged as a pass-through cost 
+contingent on UTA advance agreement provided such agreement will not be unreasonably 
+withheld. UTA will have the option of decreasing other services or expenses in order to off-set 
+these additional fees.  The Deployment shall include a fleet of vehicles as described in Section 4, 
+Service Parameters, subject to extension by mutual agreement of the parties on terms to be agreed 
+(including any change in fees). The total contract value shall not exceed $1,740,000. for the Initial 
+Term. 
+ 
+ 
+Via will separately invoice UTA for marketing expenses incurred and as authorized by UTA under 
+Section 8 of this Service Order. Via will charge its standard labor rate of $150.00 per hour for 
+internal marketing labor cost. All other marketing expenses will be passed through at cost. The 
+total combined marketing expenses incurred by Via and UTA shall not exceed $100,000. This 
+amount is not included in the pricing table shown above. 
+ 
+DocuSign Envelope ID: 804E0FF8-6929-4168-9728-F38F78F591C9

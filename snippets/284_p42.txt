@@ -1,0 +1,135 @@
+# source: raw/bleecker_drive/Arlington, Texas/FTA-Report-No-0244.pdf
+# path: raw/bleecker_drive/Arlington, Texas/FTA-Report-No-0244.pdf
+# hit page: 42 of 74
+# terms: Via+vehicles
+
+=== page 41 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+32
+SECTION  | 3 
+services that were discussed include wait times when booking a ride, walk 
+distances to pick-up locations, and the inability to serve a large geographic area. 
+The benefits of the service discussed by the group include increasing options 
+for mobility, environmental benefits of shared and hybrid electric vehicles, and 
+greater flexibility compared to fixed-route services. Awareness of the service 
+was mentioned as a barrier to using the service, suggesting that marketing 
+campaigns must be robust with new transportation services. Additionally, price, 
+geographic coverage, and convenience were mentioned as key factors for riders 
+when they make decisions about which transportation modes to use.
+Software Updates 
+Several software updates were released by May Mobility to the RAPID vehicle 
+fleet during the demonstration. Software updates included both proactive 
+elements developed by the May Mobility team, such as new vehicle health 
+monitors and new dash displays, as well as elements developed in response 
+to data collected during service, such as updates to maps due to changes in 
+the operating environment or to improve the ride feel for passengers. These 
+updates led to noticeable improvements in automated performance in the 
+Arlington service area. The following list provides a summary of the key software 
+updates made and their impacts:
+•	 May 2021: software update related to traffic light detection, allowing the 
+vehicles to better read traffic lights, and decreasing times when AVOs 
+needed to intervene manually to navigate intersections with traffic lights
+•	 July 2021: software update related to the tracking of other vehicles on 
+multilane roads to improve prediction of the future paths of other vehicles
+•	 August 2021: software update related to adjusting deceleration zone for Avs 
+following other vehicles, for improved safety and performance
+•	 December 2021: software update related to vehicle movement in lanes and 
+around curves, as well as improved prediction of other objects around the 
+vehicles
+•	 March 2022: software update related to allowing vehicles to stay in full 
+automated mode at passenger stops
+Operational Changes 
+There were several operating changes made to the RAPID service during the 
+demonstration, based largely on rider feedback. When the service launched 
+in March 2021, the project team instituted several COVID-19 health and safety 
+measures, including partitions between the AVO and rider spaces, UV-C light 
+disinfection between each ride, and single-ride bookings only. In July 2021, 
+due to improved health conditions, the project team decided to remove the 
+partitions, discontinue UV-C light disinfection between each ride (although this 
+disinfection was still done several times throughout the day), and allow shared-
+=== page 42 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+33
+SECTION  | 3 
+ride bookings. These changes allowed better air flow in the vehicles without 
+the partitions, shorter ETAs without the UV-C light disinfection time, and higher 
+ridership through shared rides. Riders appreciated these changes, and no 
+negative impacts were identified. Masks were required on board for all AVOs and 
+riders for the entire demonstration, in keeping with FTA regulations.
+RAPID service operating hours were also adjusted during the demonstration. At 
+launch, operating hours were Monday to Friday from 7 a.m. to 7 p.m. However, 
+based on rider demand patterns and rider feedback that showed interest in 
+the service later in the day, the operating hours were adjusted in early January 
+2022 to run Monday to Friday from 8 a.m. to 8 p.m. This operational change 
+was communicated to riders before it went into effect, and ridership remained 
+strong after the change.
+Communication and Education 
+After the large-scale marketing and outreach campaign at the launch of the 
+RAPID service, the project team remained committed to ongoing and targeting 
+communication, marketing, and education during the entire demonstration. 
+The City of Arlington maintained a website with detailed service and project 
+information throughout the demonstration, along with targeted news stories 
+and social media posts at several times. Likewise, the UTA Parking and 
+Transportation Department maintained information about RAPID on its website 
+and continued to advertise the service across multiple platforms on campus. 
+Via provided operational announcements and reminders to riders using email 
+and in-app notifications. Throughout the demonstration, the May Mobility team 
+shared news stories and social media posts highlighting the service. 
+Research Activities 
+The UTA research team, supported by the entire project team, continued robust 
+research activities during the demonstration and in the period shortly after the 
+demonstration. The two surveys described above, one shorter survey focused 
+on rider experience and one longer survey focused on attitudes toward AV 
+service more broadly, were active for the entire demonstration. The UTA team 
+set up an online dashboard where the project team could access raw survey 
+results and prepared a summary report of survey responses each month for the 
+project team. The UTA team analyzed ridership data each month, including data 
+about date and time of rides, ride distance and duration, ride cost, rider type 
+(UTA student status), and average wait times. A summary of key trends in the 
+data was provided by the research team each month. 
+After the conclusion of the RAPID demonstration, as discussed above, the UTA 
+team conducted several interviews with RAPID riders to elicit more detailed 
+observations and experiences with the service. Additionally, a final focus group 
+was conducted with representatives from the UTA community and the public
+=== page 43 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+34
+SECTION  | 3 
+to discuss the impacts of the service. All findings from research activities were 
+shared with the project team, as well as more broadly through academic journal 
+articles and conference presentations to support knowledge transfer activities, 
+discussed in greater detail in the next chapter of this report. 
+Evolution of Key Challenges
+There were several key challenges that the RAPID project team addressed and 
+overcame to successfully launch and deploy RAPID. These challenges fall into 
+the following categories: 
+•	 COVID-19 impacts
+•	 Rider experience
+•	 WAV utilization
+•	 Integration between provider platforms
+COVID-19 Impacts
+The COVID-19 pandemic affected many aspects of the RAPID project, from 
+supply chain constraints on vehicle availability to UTA’s schedule and 
+uncertainty about ridership demand. Overall, while there were delays with 
+vehicles and other hardware components, as well as challenges from travel 
+limitations, the project team was able to adapt and stay on schedule for launch 
+in March 2021. At the time of launch, many of UTA’s classes were operating 
+online, rather than in-person, and many offices in the RAPID service area were 
+conducting remote work or work-from-home protocols. These conditions led 
+to uncertainty about rider demand for the RAPID service, coupled with national 
+trends showing declined ridership on all forms of public transit. As expected, 
+ridership was low on RAPID for the weeks immediately following launch, 
+but starting in summer 2021, ridership climbed steadily, and strong demand 
+remained for the service through the conclusion of the demonstration in March 
+2022. The project team also implemented several COVID-19-related health and 
+safety measures, along with complying with all FTA health measures, which 
+were included in marketing and messages to riders. It is believed that these 
+efforts helped to make riders feel more comfortable riding the service. 
+Rider Experience
+With respect to the rider experience (aside from concerns about COVID-19), 
+there were two key complaints shared by riders in conversations with AVOs 
+and in feedback surveys – excessive heat and noise generated by the computer 
+system in the trunk space of the AVs. Both issues were addressed through 
+engineering teams at May Mobility and at UTA to decrease heat and noise, 
+thereby improving rider comfort. Otherwise, the rider experience, as measured 
+by responses to in-app prompts and to surveys was quite positive.

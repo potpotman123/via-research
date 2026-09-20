@@ -1,0 +1,46 @@
+# source: https://legistar.granicus.com/ManhattanBeach/attachments/3edaaa5a-19df-43ad-ae35-a1ffafe7e358.pdf
+# path: raw/cache/46a5ce799d461d4a3864050942d4fb0a0e14c3f2.pdf
+# hit page: 11 of 13
+# terms: Downtowner
+
+=== page 10 ===
+Why Chevy Bolt?
+Additional Vehicles
+More efﬁcient The Chevy Bolt gets 238 miles per 
+charge. This battery technology will allow us to operate 
+our entire ﬂeet continuously throughout the day. Fleet 
+size can be reduced by 50%.
+Lower cost The total cost of putting a vehicle on the road is $26,000 less per year when using Bolt vs 
+GEM.
+Increased experience Cold or hot, rain or shine, the Bolt provides additional comfort to riders and our 
+driver team. Advanced vehicle features give us the opportunity to further customize the ride experience. 
+Favorite music, temperature settings and more, all adjustable in your rider app proﬁle settings.
+Higher ridership + lower wait times The Bolt’s battery range means no charging or switching vehicles 
+throughout the day. Real world testing in current operations has shown Bolt vehicles are capable of 
+completing up to 25% more rides per hour than GEM vehicles.
+=== page 11 ===
+Hourly Paid Drivers
+Truly free rides Providing drivers with an hourly wage makes the service completely free to the user. 
+This allows us to help decrease the cost of living for Manhattan Beach residents and increase economic 
+growth.
+More consistent experience Having the ability to schedule employees allows us to better match 
+demand with supply. We can ensure lower wait times by keeping our capacity under 100%.
+Higher ridership A more consistent experience leads to higher service utilization and a lower cost per 
+passenger overall. We’ve experienced our highest service utilization in Tampa, FL (paid drivers) leading to 
+the lowest cost per passenger ﬁgures of any Downtowner service area.
+Quality control We think of our driver team members as Manhattan Beach city ambassadors. Providing 
+an hourly wage helps ensure we have the highest level personnel behind the wheel.
+Why paid drivers?
+=== page 12 ===
+1 and 2 passenger rides
+70%
+Combo Rides
+Combo rides Grouping nearby rides heading in the same direction can vastly improve resource 
+efﬁciency, as well as lower wait times for riders. By simulating past ridership data with new algorithms, 
+we’re ﬁnding even smarter ways to move our riders. With a high percentage of 1 and 2 passenger rides, 
+there are plenty of opportunities for combo rides. Our system will automatically group nearby riders 
+heading in the same direction. Combo rides will launch later this year.
+Top pick/drop-off zone
+of rides begin or end downtown
+Frequent passenger count
+81%

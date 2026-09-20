@@ -1,0 +1,162 @@
+# source: https://metro.legistar1.com/metro/attachments/2a26b9e1-5552-40f1-ba31-1bb1d4b0d856.pdf
+# path: raw/cache/648a54d5af0d65c097712e126e9f7988ab10dd87.pdf
+# hit page: 5 of 7
+# terms: NoMad Transit, RideCo, Via Transportation, Via+fleet
+
+=== page 4 ===
+No. 1.0.10 
+Revised 10/11/16 
+ 
+launching a successful on-demand, technology-based transit operation. Also 
+highlighted were staffing plans, work plans, key performance metrics including 
+utilization and anticipated pilot project opportunities and constraints.  
+ 
+ 
+Qualifications Summary of Firms Interviewed:  
+ 
+RIDECO 
+ 
+RideCo, Inc. is a full-service, on-demand mobility firm with a breadth of experience 
+developing, maintaining and managing the underlying software technology platforms 
+to conduct MicroTransit operations. RideCo has worked closely with public and private 
+sector partners on the integration of MicroTransit into service offerings in the United 
+States and globally. RideCo is headquartered in Waterloo/Ontario, Canada.  
+ 
+RideCo’s Part B Technical Proposal and oral presentation demonstrated thorough 
+expertise in emerging on-demand technologies, strong analysis of zones, and 
+experience with launching on-demand services with partners to support fixed-route 
+network integration.  Project personnel demonstrated a deep understanding of Metro’s 
+potential for market positioning of MicroTransit in the evolving field of transportation 
+technology. NextGen transit competitiveness research was clearly and explicitly 
+utilized to support the planning work conducted by RideCo.  
+ 
+The Technical Proposal and oral presentation demonstrated RideCo’s experience in 
+all required tasks for Part A including pre-launch planning, deployment planning and 
+service design that would most effectively assist the agency in achieving the 
+aspirational goals and performance outcomes reflected in Vision 2028, Metro’s 
+Strategic Plan.  
+ 
+RideCo’s detailed analysis and modeling supports operational feasibility of this new 
+service offering. Additionally, the showcase of RideCo’s technical skill combined with 
+their understanding of the Statement of Work reinforces the team’s ability to perform 
+in-line with Metro’s performance standards and, at peak performance, to exceed 
+operational and financial targets for this service. The utilization and ridership modeled 
+will allow for the agency to set attainable cost recovery goals and expectations. 
+ 
+RideCo effectively proposed to partner with Metro to build a service which supports 
+the backbone of public transit (the Agency’s bus and rail network). The Part B 
+Technical Proposal was comprehensive, thorough in approach, and aligned with 
+Metro’s goals and needs of customers both current and future. RideCo illustrated a 
+detailed strategy to achieve the performance standards and utilization required to 
+achieve project success as outlined in the Statement of Work. The maintenance plan 
+offered extensive consideration of safety for both Metro operators and customers. Of 
+equal importance, the Technical Proposal included detailed attention and approach to 
+meet and exceed the unique needs of customers with varying levels of mobility.
+=== page 5 ===
+No. 1.0.10 
+Revised 10/11/16 
+ 
+Most notably unique to RideCo’s expertise as witnessed in their oral presentation is 
+their advanced ability to leverage data and analytics to model and implement 
+operations which can bolster the core product of their respective client.  
+ 
+RideCo’s team for Part B consists of the industry’s top performers in the field of 
+MicroTransit including specialists in software development, modeling and analytics, 
+vehicle procurement and on-demand marketing and high-touch customer acquisition 
+and outreach techniques.  
+ 
+ 
+NOMAD TRANSIT LLC (Via) 
+ 
+NoMad Transit LLC (“Via”), is a wholly-owned subsidiary of Via Transportation, Inc.  
+headquartered in New York City. Via is registered in California as a Transportation 
+Network Company and is focused on providing on-demand technology and subsidized 
+support services to the public sector. The firm directly manages private operations in 
+numerous cities in the United States.   
+ 
+The firm’s Technical Proposal offered a software technology platform which distinctly 
+featured improved user experience attributes combined with neatly managed look and 
+user design. The suite of technology tools emphasized ease of use and tied into the 
+proposed market positioning of MicroTransit. Overall, the Technical Proposal offered 
+generally sound analysis with a comprehensive approach to data collection.  
+ 
+The Technical Proposal and oral presentation however, reflected limited 
+understanding of Metro’s expectations for a new mode of transportation within Metro’s 
+family of services. Metrics for success, including utilization, were not aligned with 
+agency performance goals and yet to be realized improvements per NextGen bus 
+restructure. The firm’s Maintenance plan was generally limited in approach and 
+oversight for hybrid P3 operation. Market positioning relied too heavily on positioning 
+transit service as a private ride and leveraging company’s brand rather than focusing 
+on the conversion of core transit customers to Metro on-demand riders. The Technical 
+Proposal did not identify and communicate how Metro could best leverage Metro’s 
+resources and assets for a Metro operation. The proposed team consisted of a 
+number of specialists including communications experts.   
+ 
+ 
+TRANSDEV 
+ 
+Transdev, formerly Veolia Transdev, is a French-based international transport 
+operator, with operations in 19 countries. Transdev also has a Maryland-based 
+corporation.  
+ 
+Transdev’s Technical Proposal and oral presentation displayed expertise in a broad 
+range of disciplines, including a strong working knowledge of bus rapid transit, 
+shuttles, fleet maintenance and multimodal services.  The firm’s Technical Proposal 
+and presentation demonstrated an experienced project team in the fields of 
+transportation technology, operations and service planning.
+=== page 6 ===
+No. 1.0.10 
+Revised 10/11/16 
+ 
+ 
+However, plans and responses to clarifications during oral presentation affirmed a 
+number of critical missing details pertaining to vision and execution of the operation. 
+Transdev did not submit incentives or deductions worksheets and, as such, failed to 
+identify or project Key Performance Metrics that are critical to evaluate pilot project 
+success. Performance measurement was inadequate and, as such, the approach 
+failed to execute on the aspirational goals as identified and reflected in Vision 2028.  
+ 
+On October 4, 2019, the PET completed its evaluation of the above-mentioned 
+proposals after oral interviews and presentations were held.  As a result of 
+evaluations, Transdev was determined to be outside the competitive range and was 
+no longer considered for further evaluation. 
+ 
+Upon further development of the NextGen bus restructure and labor rules pertaining 
+to this operation, staff became aware of new requirements for launching and operating 
+MicroTransit. As such, Metro determined that a revised Statement of Work for Part B 
+was required to incorporate clarifications, identify new requirements, and changes to 
+hardware. Most notably, the side letter for the new operators (drivers) and the 
+expectation for Reporting Locations with facilities, office space and parking for Metro 
+employees. Metro also learned that a larger vehicle fleet was required to support 
+integration of MicroTransit within the system-wide build out of the NextGen bus 
+system.  
+ 
+Given these new requirements, Amendment No. 5 was issued on December 16, 2019 
+with a revised Statement of Work to the two (2) firms deemed within the competitive 
+range after Interviews and Oral Presentations.  These firms are listed in alphabetical 
+order: 
+ 
+• NoMad, LLC (Via) 
+• RideCo, Inc. 
+Both firms were required to submit a revised Technical Proposal and updated Price 
+Proposal based upon a revised Statement of Work for Part B. 
+  
+The PET reconvened to evaluate each firms’ revised Technical Proposals based upon 
+new requirements presented in the revised Statement of Work.   On December 31, 
+2019, the PET completed its independent evaluation of the technical proposals. As a 
+result, the firms earned the following final scores with RideCo, Inc. ranked as the 
+highest firm to perform Part B, project implementation. 
+ 
+ 
+1 
+Firm 
+Average 
+Score 
+Factor 
+Weight 
+Weighted 
+Average 
+Score 
+Rank 
+2 
+RideCo

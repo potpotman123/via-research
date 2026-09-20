@@ -1,0 +1,231 @@
+# source: raw/bleecker_drive/Lake Havasu/Via SaaS Service Order Final.pdf
+# path: raw/bleecker_drive/Lake Havasu/Via SaaS Service Order Final.pdf
+# hit page: 4 of 8
+# terms: Via+fleet
+
+=== page 3 ===
+Launch Delay. If the Launch is delayed or more than a calendar month by Customer for any reason, Customer shall be 
+responsible for paying Via for a $2,000 monthly technology fee for the cost of maintaining the technology infrastructure for 
+Customer’s deployment during the period of delay (the “Technology Fee”).  The Technology Fee shall be payable monthly 
+at the beginning of the month in which it is incurred. In the event that the duration of the delay does not exactly match calendar 
+months, the Technology Fee will be prorated for the relevant month in which Launch occurred. 
+Branding. The Deployment will be branded as Lake Havasu City Direct powered by Via. The “powered by Via” banner 
+must be used only in the exact format provided by Via, and will be prominent on all assets promoting the Deployment, 
+including (but not limited to) printed collateral, digital materials, websites, and any vehicle wraps. The “powered by Via” 
+banner will have equal prominence on all marketing materials to any additional partner logos or trademarks. Via may 
+provide pre-approved brand assets and guidelines that must be complied with in all marketing communications distributed 
+by the Customer. 
+Forced Labor of Ethnic Uyghurs Certification. Via certifies that it does not currently, and agrees for the duration of the 
+Order that it will not, use: (1) the forced labor of ethnic Uyghurs in the People’s Republic of China; (2) any goods or 
+services produced by the forced labor of ethnic Uyghurs in the People’s Republic of China; or (3) any contractors, 
+subcontractors, or suppliers that use the forced labor or any goods or services produced by the forced labor of ethnic 
+Uyghurs in the People’s Republic of China.  If Via becomes aware it is not in compliance with this certification, it shall 
+notify the Customer within five business days after becoming aware.  This Order will terminate upon failure to remedy the 
+noncompliance within 180 days of the notification. (A.R.S. § 35-394) 
+Conflict of Interest. This Order may be cancelled in accordance with Arizona Revised Statutes Section §38-511. 
+Boycott of Israel. If applicable, Via certifies that it is not currently engaged in, and agrees for the duration of this Order that 
+it will not engage in, a boycott of goods and services from Israel, as defined in A.R.S. §35-393. 
+Termination for Convenience. After the first thirty six (36) months, the City may terminate the Order without penalty or 
+recourse upon 60 days’ notice to Via. 
+ 
+This Order shall be governed by the terms and conditions set forth at https://ridewithvia.com/platform-terms-of-service/ (the 
+“Terms”), subject to the following modifications:  
+1. Section 9b shall be removed 
+2. The first sentence of Section 14 shall be revised as follows:  
+The laws of the State of Arizona will govern this Agreement without regard to the principles of conflicts of laws. 
+Except for either party’s right, in connection with any matter involving any Agreement, to seek equitable or 
+declaratory relief in any court of competent jurisdiction, all disputes not resolved informally by the parties shall be 
+submitted for arbitration before a panel of three (3) arbitrators selected one each by the parties and one by the 
+American Arbitration Association (the “AAA”), at least one of whom shall be an expert in the field of cloud-
+deployed software solutions. The arbitration shall be conducted in accordance with the provisions contained herein 
+and in accordance with the Commercial Arbitration Rules of the AAA in effect at the time of the arbitration. A 
+written notice of intent to arbitrate shall be provided by one party to the other party within a reasonable time after 
+the dispute has arisen, and in no event shall such notice be provided after the date when institution of legal or 
+equitable proceedings based on such dispute would be barred by the applicable statute of limitations.  All arbitration 
+shall be administered by the AAA and shall take place in the state of Arizona unless otherwise agreed to by the 
+parties. All aspects of the arbitration including the result shall be treated as confidential and shall not be disclosed. 
+The award of the arbitrators shall be binding and judgment upon the award rendered by the arbitrators may be 
+entered in any court having jurisdiction; provided, however, that the arbitrators shall not have the power to award: 
+(a) punitive damages; or (b) damages in excess of the limitations set forth in Section 10 hereof. 
+ 
+Capitalized terms used herein and not otherwise defined shall have the meaning in the Terms. By signing below, the parties 
+agree to the Terms. 
+ 
+ 
+VIA MOBILITY LLC 
+ 
+ 
+ 
+ 
+LAKE HAVASU CITY 
+ 
+By: 
+ 
+ 
+ 
+ 
+ 
+ 
+By: 
+ 
+Name:  
+ 
+ 
+ 
+ 
+ 
+ 
+Name: 
+ 
+Title:  
+ 
+ 
+ 
+ 
+ 
+ 
+Title: 
+ 
+Date: 
+ 
+ 
+ 
+ 
+ 
+ 
+Date:
+=== page 4 ===
+Appendix 1 to Service Order 
+ 
+VOC use and Data Sharing 
+ 
+Authorized Users  
+The below exhibit sets forth the members of the Customer’s “Core Team” of personnel who are designated authorized users of the VOC 
+including access to the data detailed below (the “Core Team”). Access to the VOC is conditional upon Customer notifying Via with 
+reasonable advance notice of the name, title, email address and any other details Via may reasonably require of the members of the 
+Customer Core Team.  The Core Team may be updated during the Term subject to Via’s consent. 
+ 
+Exhibit 1. 
+Core Team 
+Title 
+Name 
+Operations and Transit Supervisor 
+Toni Flood 
+Fleet Manager 
+Dave DeLong 
+ 
+ 
+Customer Core Team will be granted suitable permissions to allow them to manage and authorize access of additional Customer 
+personnel as secondary users (“Secondary Users”) to the VOC. All Core Team and Secondary Users will be subject to Customer’s 
+confidentiality and non-disclosure obligations, as described in the Terms. For the avoidance of any doubt, Customer’s Core Team 
+responsibility includes granting permissions to Secondary Users only to the extent such permission is needed for the Customer’s 
+operation of the Deployment and in compliance with applicable privacy legislation, and removing any Secondary User access once it is 
+no longer needed.  Via retains the right to deny or revoke any Core Team or Secondary User access if Via suspects that such access may 
+be causing or have caused a breach of the Terms, or any user guidance Via issues from time to time. 
+ 
+Authorized Operators 
+ 
+Customer may not provide access to the Via Solution to any third party except with Via’s prior written consent. In the event that 
+Customer wishes to engage a third-party operator (“Operator”) to operate the Deployment, Customer shall provide Via a copy of an 
+Operator Acknowledgement Form in the form required by Via, duly executed by such Operator, as a prerequisite for Via’s allowing the 
+Operator access to the Via Solution. For the avoidance of doubt, no Operator will be allowed access to the Via Solution without having 
+signed the Operator Acknowledgement Form. Customer Core Team will be responsible for grant of VOC permissions to the Operator’s 
+team, which will be considered Secondary Users for all purposes. As between Customer and Via, Customer shall remain responsible for 
+acts and omissions of any Operator as it relates to Operator's access to the Via Solution.   
+ 
+Data Sharing Plan 
+ 
+As part of the Deployment, and as detailed below, Via will make access to data available to members of the Customer’s Core Team, 
+and any above-authorized Customer’s Secondary User(s) and/or Operator(s), for the purpose of research and program evaluation for the 
+duration of the Term. The data will be accessible in the VOC, and may not be shared through any other method unless otherwise 
+authorized in writing by Via. Any and all data made available under this Order are trade secrets of Via, and subject to the confidentiality 
+and other protective provisions set forth in the Terms at all times. Customer may not share any such data with anyone not authorized in 
+accordance with this Appendix 1. 
+ 
+To protect Via’s Intellectual Property Rights and the privacy of riders, Via will provide the following data tables and dashboards in the 
+form of aggregated reports and data tables to Customer through VOC: 
+● 
+Service KPI Dashboards: Visualized dashboards and graphs of Key Performance Indicators. These dashboards provide a high 
+level view of the overall service performance across a number of metrics and periods of time. Dashboards are available for 
+download as .jpeg files or in raw form as excel spreadsheets.  
+● 
+Data Generator: Set of tables with granular raw data about the service that are available for download as excel or csv 
+spreadsheets.
+=== page 5 ===
+The reports will be refreshed daily.  The reports are aggregated and any information about individual riders is de-identified. [Additional 
+off-the-shelf reporting may be made available to Customer upon request at Via’s discretion. Custom reports will need to be scoped and 
+may come at additional cost.] 
+ 
+ 
+ 
+SERVICE KPI DASHBOARD 
+Dashboard 
+Report Metrics 
+Service Operations 
+Metrics & Graphs 
+ 
+● Total ride requests 
+● Requests during service hours 
+● Met Demand 
+● Met Demand Rate 
+● Completed rides 
+● Completed Rides Rate 
+● Detailed Ride Requests Status 
+● Active Riders 
+● Driver Hours 
+● Utilization 
+Rider Experience 
+Metrics & Graphs 
+ 
+ 
+● Average Ride Duration 
+● Average Ride Rating 
+● Average Pickup Walking Distance (corner-to-corner services only) 
+● Aggregation Rate 
+● Average ETA 
+● Dropoff Time Requested vs. Scheduled* 
+● Dropoff Time Scheduled vs. Actual* 
+● Pickup Time Requested vs. Scheduled* 
+● Pickup Time Scheduled vs. Actual* 
+*Pre-booked rides only 
+Rider Growth  
+Metrics & Graphs 
+ 
+● 
+Accounts Created 
+● 
+Active Riders 
+● 
+Total Riders Who Requested a Ride 
+● 
+Total Riders Who Completed a Ride 
+● 
+Completed Rides Per Rider 
+Ride Rating  
+Metrics and Graphs 
+● 
+Avg. Ride Rating  
+● 
+Total Bookings with Ratings 
+● 
+Percent Bookings with Ratings 
+● 
+Total Five Star Ratings 
+● 
+Percent Five Star Ratings 
+● 
+Label per Rating 
+● 
+Rating Distribution 
+Advanced 
+Prebooking Metrics 
+& Graphs 
+(prebooking only) 
+● 
+Request Source 
+● 
+Recurring Type 
+● 
+Hours Booked in Advance  
+● 
+Hours Canceled in Advance

@@ -1,0 +1,153 @@
+# source: https://legistar1.granicus.com/KeyWest/attachments/b855d53f-6249-4c45-ab08-b082763aef90.pdf
+# path: raw/cache/c7ba3671696f87279f045d46b5a3f1a31477ca4a.pdf
+# hit page: 4 of 19
+# terms: Via Mobility, Via+drivers, Via+subscription, Via+vehicles
+
+=== page 3 ===
+the form attached hereto as Exhibit A. The Customer hereby agrees that the sample invoice set forth on Exhibit A is 
+satisfactory to Customer, both in substance and format.      
+For the avoidance of doubt, (i) the number of vehicles per month for purposes of the above fees shall be the maximum 
+number of distinct vehicles input by Customer that use the Via Solution on any given day over the course of the applicable 
+calendar month and (ii) in the event the duration of the Deployment does not exactly match calendar months, monthly fees 
+will be pro-rated for the first and/or last calendar months of the Deployment, as applicable, so that Customer will only be 
+charged for the portion of such months during which the Via Solution was available to be used for the Deployment. 
+Customer shall reimburse all travel expenses of Via personnel for purposes of the Deployment. Installation-related services 
+described above will initially be performed remotely, and if Via deems it necessary, in person by Via personnel for a limited 
+period around launch.  Thereafter, services will continue to be performed remotely as applicable, provided that Via 
+personnel can be sent to Customer’s location for additional trips upon reasonable request.  
+Launch Delay. If the Launch Date is delayed for more than a month by Customer for any reason, Customer shall be 
+responsible for paying Via for a $500 monthly technology fee for the cost of maintaining the technology infrastructure for 
+Customer’s deployment during the period of delay (the “Technology Fee”).  The Technology Fee shall be payable monthly 
+at the beginning of the month in which it is incurred. If the Launch Date is delayed for more than a month by Via without 
+cause, Customer shall have the right to terminate this Contract, effective immediately upon written notice.  
+Branding. The Deployment branding, which will include the phrasing “powered by Via”, will be as agreed upon between 
+the parties and may be used       for the life of the D     eployment. The “powered by Via” banner must be used only in the 
+exact format provided by Via, and will be prominent on all assets promoting the Deployment, including (but not limited to) 
+printed collateral, digital materials, websites, and any vehicle wraps. The “powered by Via” banner will have equal 
+prominence on all marketing materials to any additional partner logos or trademarks. Via may provide pre-approved brand 
+assets and guidelines that must be complied with in all marketing communications distributed by the Customer. 
+ 
+Customer Support. The scope of this service is for rider booking support only. Customer will use its existing interactive voice response 
+system to direct rider bookings calls to Via’s customer support center during service hours of 6:00 am-8:00 pm, 7 days a week. Via and 
+Customer will work together to determine a rider support workflow that the Customer will support for inquiries that fall outside of the 
+scope for rider booking.
+=== page 4 ===
+Via Solution Terms of Service 
+ 
+This Via Solution Terms of Service (the “Agreement”) is entered into between Via Mobility LLC or the applicable affiliate of Via 
+identified in a Service Order entered into by the parties (“Via”) and the entity or person placing an order ( “Customer”) for accessing 
+Via’s proprietary technology platform and certain related systems and methods used to establish, monitor, operate and/or manage on-
+demand transit networks (the “Via Solution”) and accompanying technical and operational support services and regular updates 
+(together with access to the Via Solution, the “Services”). 
+ 
+The “Effective Date” of this Agreement is the date which is the earlier of (a) Customer’s initial access to the Services or (b)the effective 
+date of any Order. 
+ 
+1. Agreement 
+This Agreement consists of the terms and conditions set forth below and any Via ordering documents, purchase orders, order descriptions 
+or other order confirmations (“Orders”) If you are accessing or using the Services on behalf of your company, you represent that you 
+are authorized to accept this agreement on behalf of your company and all references to “Customer” reference your company. 
+ 
+2. Definitions 
+a. “Applicable Law” means (i) any statute, statutory instrument or any other legislative instrument having the force of law; and (ii) any 
+applicable judgment of a relevant court of law which is a binding precedent, in each case in force at any time during the Term. 
+ 
+b. “Affiliate” means, with respect to any specified entity, any entity that directly or indirectly, through one or more intermediaries, 
+controls, is controlled by, or is under common control with, the entity specified. 
+ 
+c. “Confidential Information” means information, data or materials in either tangible or intangible form that are trade secrets of, or 
+proprietary and confidential to the Disclosing Party or its clients or business partners, including as may be so designated by statute, 
+regulation or common law including by the form of the Uniform Trade Secrets Act and privacy laws adopted under applicable law, or 
+which are marked as “Confidential” or which, by their nature and the context of their disclosure, should reasonably be known to be 
+confidential. 
+ 
+d. “Customer Data” means all data that is input by or on behalf of Customer and/or Client into the Via Solutions. Portions of the 
+Customer Data may include personally identifiable information. For avoidance doubt, Customer Data excludes the Via Solution itself 
+and Via’s related intellectual property rights and Confidential Information and all derivative works and improvements to each of them. 
+Customer Data also excludes de-identified, anonymized and/or aggregated data generated from the use of the Via Solution or created 
+by Via. 
+ 
+e. “Transportation Laws” means any applicable law to which operators and owners of vehicles, employer of vehicle operators, and 
+transportation service providers are required to adhere. 
+ 
+3. The Via Solution 
+ 
+a. Description. The Via Solution is comprised of the driver and rider software applications (each, an “Application”) and certain system 
+management tools and may also include certain additional software, data, data feeds, or other content owned by and licensed from third 
+parties (the “Third Party Content”).  While all the Applications are cloud-based, certain of them are deployed via download to handheld 
+mobile devices used by Riders or drivers, while others are installed on devices field-deployed by Customer to personnel and vehicles 
+(all three types of such devices collectively, the “Devices”). 
+ 
+b. Use Rights.  Subject to the terms and conditions herein, Via will provide the Services, as defined herein. The Services will include 
+all related services, functions or responsibilities not specifically described in this Agreement, but that are required or reasonably 
+necessary for the proper performance of the Via Solution in connection with the transportation services Customer provides (the 
+“Customer Transportation Service”), for the benefit of prospective and actual clients (collectively, “Clients”), using vehicles, 
+equipment and services (including telecommunications and/or dispatch equipment and services), personnel, routes and other 
+infrastructure it owns or otherwise controls (the “Customer Infrastructure”). Via will grant Customer subscription, access, and use 
+rights (“Use Rights”) for the specific Applications and deployment types identified in each applicable Order. The Order will further 
+contain terms specifying whether Customer may co-brand the manner in which the Application is displayed on Devices. 
+ 
+c. Third Party Content.  Certain Third Party Content may already be integrated with the Applications and delivered as part of the 
+overall Via Solution.  Where this is the case, Via has been authorized to resell, distribute, or otherwise provide its customers with such 
+integrated Third Party Content.  If additional Third Party Content is optionally available for the Via Solution, such as certain information
+=== page 5 ===
+technology solutions or management tools and software, Via will identify it for Customer and Customer will be responsible for obtaining 
+and paying for Customer’s own rights from the applicable third party licensor.   
+ 
+d. Suspension Rights. Via may suspend Customer’s or any end user’s right to access or use the Via Solution if: (i) Via determines, in 
+its reasonable discretion, that an end user of the Customer Transportation Service: (x) poses a systemic security risk to or may materially 
+harm the Via Solution, Services, or any third party; or (y) may materially adversely impact the services, systems, or content of any other 
+Via customer; (ii) Via’s rights with respect to any Third Party Content necessary for the operation of the Service are terminated or 
+suspended for any reason; or (iii) Via is otherwise required by applicable law or regulation to do so.  In the event of a suspension, Via 
+will, where not prohibited by Applicable Law and reasonable under the circumstances, provide Customer with prior written notice of 
+the reason for any such suspension of the Services and an opportunity to take steps to avoid any such suspension. Via will only suspend 
+access to the minimum necessary portion of the affected Services for as long as reasonably necessary to address the issues giving rise 
+to the suspension. If Via’s rights to any Third Party Content necessary for the operation of the Service are suspended or terminated under 
+Section 3(d)(ii), then Via will use commercially reasonable efforts to replace such Third Party Content with reasonably equivalent 
+content in order to restore the Service as quickly as possible. Should the suspension last longer than thirty (30) days, Customer shall 
+have the right to terminate this contract, effective immediately upon written notice.  
+ 
+4. Intellectual Property Rights 
+ 
+a. The Via Solution. As between Customer and Via hereunder, all intellectual property rights of any type in and to the Via Solution and 
+all of their derivative works and improvements are owned by, and are proprietary to Via.  Except for the Use Rights granted herein (a) 
+no right, title or interest in or to the Via Solution or any portion thereof is or shall be granted or transferred to Customer under this 
+Agreement, whether by license or otherwise; and (b) Customer acknowledges and agrees that it shall have no right to use, reproduce, 
+distribute, sublicense, modify or otherwise provide to third parties, the Via Solution, in whole or in part, except as explicitly granted 
+herein.  The Customer shall not directly or indirectly disassemble, decrypt, scan, decompile or otherwise reverse engineer in any manner 
+any components or elements of the Via Solution or assist a third-party to do so. In the event that Via provides Customer with any hard-
+copy or electronic copies of materials containing Via’s Confidential Information, including information pertaining to the Via Solution 
+and its operation, and Customer retains copies of such materials in accordance with its general procurement rules following the 
+termination of this Agreement, Customer acknowledges that all intellectual property rights relating to the Via Solution and all of their 
+derivative works and improvements remain the sole property of Via. Notwithstanding anything in this agreement, Via      acknowledges 
+that this Agreement is subject to public records laws, including all exemptions. 
+ 
+b. Customer Data.  As between Customer and Via, all intellectual property rights in and to Customer Data are co-owned by Customer 
+and Via. For the avoidance of doubt, Via may, and is hereby granted the right to, access, modify, and use the Customer Data, including 
+for purposes of performing Via’s obligations under this Agreement and/or to improve its product and services offerings, including the 
+Services. To the extent Customer Data includes Client information which is or may be deemed to be personally identifiable information 
+or otherwise subject to special privacy or security protection at law or by regulation, as between Customer and Via hereunder, Customer 
+is solely responsible for obtaining Clients’ consent to the collection and use of such information, including its onward transfer, in the 
+manner required for Via and its agents to perform hereunder. Customer shall be solely responsible for displaying a privacy policy to 
+Clients and ensuring it contains terms that are both compliant with applicable law, and sufficient to permit Via and its agents to lawfully 
+perform hereunder. Customer may not use Customer Data or any other data generated from the Service to reverse engineer the Via 
+Solution or Via’s algorithms or share such data with Via’s competitors, in violation of its confidentiality obligations under Section 7. 
+ 
+c. Rights to Marks.   As between the parties hereunder, each party is and shall continue to be the exclusive owner of all intellectual 
+property rights in and to their respective any word, name, symbol, logo, font, or device or any combination thereof, used to identify and 
+distinguish goods or services from such party’s source, including trademarks (both registered and unregistered), domain names and trade 
+dress (collectively, “Marks”) To the extent the parties have agreed that one party requires the use of the other party’s Marks in connection 
+with performance under an Order, including for the development of a co-branded version of an Application interface, such Order shall 
+be deemed to contain a reasonable grant of license to such party’s Marks sufficient to allow full performance under such Order.  In 
+addition, Via shall have the right to use Customer’s Marks in accordance with Section 15 with prior written approval from the Customer’s 
+City Manager. In the event that Customer uses Via’s Marks in a way that causes material reputational harm to Via’s brand, Via reserves 
+the right to withdraw Customer’s use of the Via Marks from the Customer Transportation Service. In the event that Via uses Customer’s 
+Marks in a way that causes material reputational harm to Customer, Customer reserves the right to withdraw Via’s use of the Customer’s 
+Marks. 
+ 
+d. Independent Activities.  The Customer acknowledges that Via is in the business of performing services similar to the Services for 
+third parties and operating an on-demand transit service as its core business and that, subject to its confidentiality obligations hereunder, 
+nothing herein prevents Via from continuing to engage in the performance of such services and related independent activities.   
+ 
+e. Further Assurances.   To the extent any intellectual property rights in or to the Via Solution vest in Customer, Customer hereby 
+assigns to Via all such intellectual property rights and shall, at Via’s cost and expense, execute, acknowledge and deliver to Via such

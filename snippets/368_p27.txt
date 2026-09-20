@@ -1,0 +1,100 @@
+# source: raw/bleecker_drive/Bay Transit/REDACTED-Via-Mobility-LLC-Response_RFP-2024-01-Transit-Scheduling-Software.pdf
+# path: raw/bleecker_drive/Bay Transit/REDACTED-Via-Mobility-LLC-Response_RFP-2024-01-Transit-Scheduling-Software.pdf
+# hit page: 27 of 60
+# terms: Via+drivers, Via+vehicles
+
+=== page 26 ===
+Software shall allow drivers the ability to identify the rider as the account holder and person who
+booked the trip.
+Software shall provide drivers the ability to confirm that the rider has been picked up.
+Software shall offer drivers the ability to provide and receive canned messages from dispatchers.
+X 3
+Software shall provide drivers the ability to report issues with the ride or client to dispatchers.
+Software shall verify whether the driver could successfully login to the system using drivers’
+tablets/smart phones.
+Software shall provide the drivers the ability to mark trips as completed, update passenger status, and
+report any issues or delays.
+1.
+For privacy reasons, drivers are not shown the rider's specific GPS location. Drivers will be
+able to see the designated pickup location assigned during ride booking. If a rider is not
+present at the designated pickup location, Drivers can also call riders to coordinate the
+pickup if necessary.
+2.
+Via’s algorithms make routing decisions based on historic and real-time traffic speeds and
+demand data. The algorithms will dynamically update routes in response to real-time
+changing traffic or fleet conditions, and communicate these changes directly within the
+driver app. This deprecates the need for drivers to manually coordinate routing decisions,
+or track where other vehicles are.
+3.
+Via’s Driver App offers one-click task acknowledgements, such as "I'm Here" when they’ve
+arrived at a pickup location, allowing them to efficiently communicate updates to riders,
+dispatchers, and the broader platform.
+4.2.4 Administrative Interface
+The Via Operations Center, or the VOC, is the central application designed for
+administrators and dispatchers to manage every aspect of the service in real time. For full
+details regarding service management, see section 4.2.2 Dispatcher Interface. For details
+regarding data and reporting, see section 4.4 Data Requirements.
+Fleet and Driver Management
+Our extensive suite of fleet and driver management features allows customers to manage
+the workflow of their operations including live vehicle tracking, driver management, and
+shift scheduling. Dispatchers can also monitor shift status, visualize shifts across dates
+and times, and add or edit shifts. For example, Bay Transit will be able to manage driver
+RFP #2024-01 Transit Scheduling Software | 24
+=== page 27 ===
+breaks or monitor if a driver’s vehicle is out of service. If desired, Bay Transit can
+configure specific parameters for driver breaks through the VOC.
+Service Log Management
+The VOC enables audits and reviews of past dispatching through our map-based ride
+history visualization feature. Our system logs key actions in a searchable database, where
+Bay Transit administrators will have access to service replay controls, which visualize
+sequences for a given trip (as shown below).
+Platform Functionality in Rural Service Zones
+Via’s platform is designed to contend with limited or lost cellular service, a situation that
+may be more likely to occur in rural areas. In the event of lost connectivity, the Driver App
+will continue to operate using cached data, and administrators and dispatchers will be
+able to identify when vehicles have lost connectivity. Drivers will no longer receive new
+bookings, but will continue to be presented with turn-by-turn navigation and directions to
+their current pickup and drop-off tasks. When connectivity is regained, the Driver App will
+immediately sync up with the rest of the system and be updated with any relevant ride or
+route changes. In the meantime, our “Offline Mode” eliminates any negative impact of
+limited connectivity on riders, drivers, and dispatchers.
+Bay Transit Requirement
+Via
+Vehicle Locations (AVL)
+Software shall allow AVL information tracking in real-time information for customer, dispatcher, and
+driver interface for all service types.
+RFP #2024-01 Transit Scheduling Software | 25
+=== page 28 ===
+Software shall be able to provide live vehicle tacking for Bay Transit’s entire service area including
+known cellular dead-zones with no cellular coverage.
+Vendor should provide approach on how software will control AVL data transfer in such zones and how
+will this be recorded as historical data that will later be used for reporting.
+Software must provide a map display for all interfaces that provides an indication if the last reported
+location is older than the reporting interval.
+Time interval at which location reports are received shall be configurable by Bay Transit.
+Software shall provide real-time, up-to-date interactive map of every vehicle in the system and current
+location.
+Software shall allow CAD/AVL data to be cloud based.
+Software shall ensure an auto refresh rate for every 5-10 seconds for vehicle GPS locations.
+Software shall provide GPS playback for all dispatchers’ interfaces and allow Bay Transit to access play
+back data by route and stops, when applicable.
+Software shall provide a Rider Complaints Module with enough information for Bay Transit to review and
+conduct investigations.
+Vendor shall communicate with Bay Transit on any software updates at least 30 days in advance.
+Vendor shall describe how software updates will be performed as to not interfere with service
+operations.
+Software shall provide Bay Transit with an electronic rider manifest and a print version in case electronic
+manifest is unavailable.
+Software shall provide a data portal having the ability to:
+1.
+Create customized and ad-hoc reports by selected periods (annually, monthly, weekly, daily,
+hourly), route, vehicle, driver, rider, and trips.
+2.
+Retrieve data for any period.
+3.
+Provide playback information for every route, vehicle, and driver ID (CAD/AVL data).
+4.
+Provide a summary dashboard with year-to-date (YTD) totals for main metrics.
+5.
+Provide a dashboard with ability to support trip supervision in real-time.
+RFP #2024-01 Transit Scheduling Software | 26

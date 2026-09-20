@@ -1,0 +1,129 @@
+# source: https://legistar.granicus.com/cupertino/attachments/f6ce921e-aa2c-46af-a606-0ae2aa508523.pdf
+# path: raw/cache/eae97441ebeee4c9493954b3104080b669ba6ff5.pdf
+# hit page: 9 of 26
+# terms: NoMad Transit
+
+=== page 8 ===
+the Parties, and supersedes any other agreement(s) and understanding(s), either oral or written, 
+between the Parties. Any modification of this Agreement will be effective only if in writing and 
+signed by each Party's authorized representative. No verbal agreement or implied covenant will 
+be valid to amend or abridge this Agreement. If there is any inconsistency between any term, 
+clause, or provision of the main Agreement and any term, clause, or provision of the attachments 
+or exhibits thereto, the terms of the main Agreement shall prevail and be controlling. 
+22. 
+INSERTED PROVISIONS 
+Each provision and clause required by law for this Agreement is deemed to be included and will 
+be inferred herein. Either party may request an amendment to cure mistaken insertions or 
+omissions of required provisions. The Parties will collaborate to implement this Section, as 
+appropriate. 
+23. 
+HEADINGS 
+The headings in this Agreement are for convenience only, are not a part of the Agreement and in 
+no way affect, limit, or amplify the terms or provisions of this Agreement. 
+24. 
+SEVERABILITY IP ARTIAL INVALIDITY 
+If any term or provision of this Agreement, or their application to a particular situation, is found 
+by the court to be void, invalid, illegal, or unenforceable, such term or provision shall remain in 
+force and effect to the extent allowed by such ruling. All other terms and provisions of this 
+Agreement or their application to specific situations shall remain in full force and effect. The 
+Parties agree to work in good faith to amend this Agreement to carry out its intent. 
+25. 
+SURVIVAL 
+All provisions which by their nature must continue after the Agreement expires or is terminated, 
+including the Indemnification, Ownership of Materials/Work Product, Records, Governing Law, 
+and Attorney Fees, shall survive the Agreement and remain in full force and effect. 
+26. 
+NOTICES 
+All notices, requests and approvals must be sent in writing to the persons below, which will be 
+considered effective on the date of personal delivery or the date confirmed by a reputable overnight 
+delivery service, on the fifth calendar day after deposit in the United States Mail, postage prepaid, 
+registered or certified, or the next business day following electronic submission: 
+To City of Cupertino 
+Office of the City Manager 
+10300 Torre Avenue 
+Cupertino, CA 95014 
+Attention: Chris Corrao 
+Email: ChrisC@Cupertino.org 
+To Contractor: 
+Nomad Transit, LLC 
+10 Crosby Street, Floor 2 
+New York, NY 10013 
+Attention: Legal Department 
+Email: legal-nyc@ridewithvia.com 
+Page 8 of9 
+Professional/Consulting Contracts - Nomad Transit, LLC
+=== page 9 ===
+27. 
+EXECUTION 
+The person executing this Agreement on behalf of Contractor represents and warrants that 
+Contractor has full right, power, and authority to enter into and carry out all actions contemplated 
+by this Agreement and that he or she is authorized to execute this Agreement, which constitutes a 
+legally binding obligation of Contractor. This Agreement may be executed in counterparts, each 
+one of which is deemed an original and all of which, taken together, constitute a single binding 
+instrument. 
+IN WITNESS WHEREOF, the parties have caused the Agreement to be executed. 
+CITY OF CUPERTINO 
+A Municipal Corporation 
+By _________ _ 
+Name ---------
+Title ----------
+Date _________ _ 
+APPROVED AS TO FORM: 
+CHRISTOPHER D. JENSEN 
+Cupertino City Attorney 
+ATTEST: 
+KIRSTEN SQUARCIA 
+City Clerk 
+DATE: --------
+CONTRACTOR 
+cwi- A &W,1,n.4, 
+By __________ _ 
+Name Erin Abrams 
+Title Manager 
+---- ------
+Date _F_e _b _2 _7 ,_2_0_2_3_ 
+Page 9 of9 
+Professional/Consulting Contracts - Nomad Transit, LLC
+=== page 10 ===
+Exhibit A 
+SCOPE OF WORK 
+City of Cupertino and City of Santa Clara On-Demand Shuttle Program 
+NoMad Transit LLC ("Consultant") shall work with the City of Cupertino ("the City") in the implementation 
+of this Scope of Work. The City is responsible for engaging with the City of Santa Clara and working 
+together with the City of Santa Clara to provide the necessary inputs and signoff on this Scope of Work. 
+The Consultant will leverage proprietary technology to assist in the design, deployment, operations, 
+maintenance, marketing and evaluation of an on-demand transit service in Cupertino, CA and Santa Clara, 
+CA. The service will be flexible, dynamically adapting to and responding to demand in real-time, using 
+optimized routes to maximize the number of passengers per-vehicle and per-trip. Regular performance 
+monitoring and data reporting will be used to assess operations and allow for mutually agreed upon 
+adjustments to the service at any time during the Program to increase awareness, ridership, and/or 
+accommodate new or shifting demand. 
+Duration: The anticipated launch of the Program is Spring 2023, with the actual launch date contingent 
+upon the timing of the Cupertino City Council authorization of the agreement for services. After a launch 
+date has been mutually agreed upon by the Consultant and the City, dates referenced in this scope of work, 
+including data sharing, launch timing, etc., will be based upon the set "Launch Date." 
+Geographic Coverage: The geographic area includes all areas within the City of Cupertino, parts of Santa 
+Clara, including areas shown in Exhibit C outside of the Cupertino boundary, including the Sunnyvale 
+Caltrain station, Mountain View Caltrain station, El Camino Hospital and other areas mutually agreed upon 
+by the Consultant and the City. 
+Task 1. Project Management & Administration 
+Task 1.1 Detailed Work Plan & Schedule 
+The Consultant will develop and maintain a detailed work plan and schedule for submission to the City 
+Project Manager no later than 15 business days after the Notice to Proceed, which will seek to refine and 
+keep up-to-date the following: 
+Key Consultant and Subcontract staff assignments, by task/subtask 
+Identify and maintain schedule of start and stop dates for each task/subtask Identify key milestones 
+and define expected deliverables/results 
+Deliverables 
+Detailed Work Plan & Schedule Documents 
+Updates to Documents 
+Task 1.2 Regular Staff Briefings 
+The Consultant Project Manager shall conduct and schedule regular staff briefings ("briefings"), by phone or 
+in person, to report on Program service performance, completed tasks, deliverables, and significant issues 
+encountered and resolved during the period since the previous briefing, with an explanation and revised 
+schedule for any unmet tasks and/or deliverables. The briefing shall also provide an overview of activities 
+and expected deliverables for the upcoming I -month period. Briefings will occur no less than weekly for the 
+duration of the (four) weeks leading up to, and for 4 weeks following, the Launch Date, unless otherwise 
+agreed upon by the City Project Manager. For the remainder of the term of the Contract, Consultant shall 
+provide bi-weekly briefings to the City Project Manager, unless otherwise agreed upon by the City Project 
+Manager.

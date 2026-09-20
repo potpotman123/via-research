@@ -1,0 +1,109 @@
+# source: raw/bleecker_drive/Ben Franklin Transit/Rider Information and Trip Planning RFP/Rider_Information_&_Trip_Planning_Platform_Solution_(Addendum_#1_Revision).pdf
+# path: raw/bleecker_drive/Ben Franklin Transit/Rider Information and Trip Planning RFP/Rider_Information_&_Trip_Planning_Platform_Solution_(Addendum_#1_Revision).pdf
+# hit page: 3 of 39
+# terms: Via+vehicles
+
+=== page 2 ===
+Ben Franklin Transit 
+REQUEST FOR PROPOSAL 
+Rider Information & Trip Planning Platform Solution 
+I. 
+Introduction .......................................................................................... 
+II. 
+Proposal Information ............................................................................ 
+III. 
+Scope of Work ...................................................................................... 
+IV. 
+Proposal Requirements ......................................................................... 
+V. 
+Proposal Evaluation .............................................................................. 
+VI. 
+Evaluation Phases ................................................................................. 
+VII. 
+Terms and Conditions ........................................................................... 
+VIII. 
+Vendor Questionnaire........................................................................... 
+IX. 
+Pricing Proposal ....................................................................................
+=== page 3 ===
+Request for Proposal #25-21 
+Title: Rider Information & Trip Planning Platform Solution 
+3 
+ 
+1. 
+Introduction 
+Ben Franklin Transit, (hereinafter referred to as BFT), a municipal corporation of the State of 
+Washington, located at 1000 Columbia Park Trail, Richland, WA 99352, is soliciting proposals from 
+qualified firms to provide the following services and requests listed below. 
+BFT is soliciting sealed electronic proposals in response to Request for Proposal (RFP) 25-21 Rider 
+Information & Trip Planning Platform Solution. Interested Contractors shall create a Free account with 
+OpenGov Procurement by signing up at: procurement.opengov.com . Once you have completed account 
+registration, browse back to: https://procurement.opengov.com/portal/bft and click on "Submit 
+Response", then follow the instructions to submit the electronic proposal by the proposal due date. 
+Proposals are due on Tuesday, December 9, 2025 no later than 2:00 pm Pacific Daylight Time (PDT). If a 
+Contractor would like to submit a proposal via sealed hard copy, please send your request to the 
+Procurement Manager and a pdf version of the RFP will be emailed to you in order to then submit your 
+sealed proposal via mail or in person. It is the Contractors responsibility to make aware to the 
+Procurement Manager that they prefer these notifications via email. 
+1.1. Summary 
+The selected vendor will provide a digital platform to improve the public transit rider experience by 
+delivering real-time service information, trip planning, and two-way communication. The platform must 
+offer mobile (iOS and Android) and web access, integrate with existing transit data systems, support 
+agency planning needs, and provide tools for managing live service updates, including detours. Future 
+integration with mobile ticketing is expected. 
+1.2. Background 
+BFT provides public transportation services in a 625 square mile area located in Benton County and 
+Franklin County since 1981. This area includes the cities of Kennewick, Pasco, Richland, West Richland, 
+Benton City, Prosser, and Finley, serving a population of approximately 285,000 residents. BFT sees 
+roughly 12,000 fixed route boardings a day, and BFT's current trip planning solution has +5,000 active 
+users. 
+Current Service Profile 
+BFT operates three modes of service: 
+A. Fixed Route Service: Approximately 160 bus operators, 70 low-floor buses, ~55 Vehicles 
+Operated in Maximum Service (VOMS), and an average of 12,000 unlinked passenger trips per 
+day. Service span is currently 6 AM – 10 PM weekdays, 7 AM to 10 PM Saturdays, and 8 AM to 6 
+PM on Sundays. 
+B. ADA Paratransit Service: Dial-A-Ride service for individuals unable to utilize regular fixed-route 
+bus services due to a disability or condition. 95 lift-equipped cutaway vehicles with an average 
+of 54 live daily routes and 1000 daily passenger trips.
+=== page 4 ===
+Request for Proposal #25-21 
+Title: Rider Information & Trip Planning Platform Solution 
+4 
+ 
+C. General Demand Service: On-demand service in certain areas, including Benton City, Prosser, 
+and surrounding rural communities. 
+BFT partners with a third-party contractor, ARC, for additional paratransit rides consisting of a fleet of 14 
+cutaway vehicles and an average of 11 live daily routes sharing CAD/AVL capabilities with BFT. 
+1.3. Contact Information 
+Lisa Mann 
+Procurement Manager 
+1000 Columbia Park Trl 
+Richland, WA, WA99352 
+Email: lmann@bft.org 
+Phone: (509) 735-2302 
+Lisa Mann 
+Procurement Manager 
+1000 Columbia Park Trl 
+Richland, WA 99352-4851 
+Email: lmann@bft.org 
+Phone: (509) 735-2302 
+Department: 
+Planning 
+Department Head: 
+Kevin Sliger 
+Chief Planning & Service Development Officer 
+1.4. Timeline 
+BFT reserves the right to modify the Procurement Schedule through written addenda. 
+Release Project Date 
+November 10, 2025 
+Pre-Proposal Meeting (Non-Mandatory) 
+November 18, 2025, 11:00am 
+https://teams.microsoft.com  
+Meeting ID: 268 440 807 751 3 
+Passcode: H2Rv9LK9 
+Question Submission Deadline 
+December 2, 2025, 5:00pm 
+Proposal Submission Deadline (No Later 
+Than) 
+December 9, 2025, 2:00pm

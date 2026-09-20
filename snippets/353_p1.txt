@@ -1,0 +1,118 @@
+# source: raw/bleecker_drive/2.0 TIPS Cooperative Agreement/240101_CONTRACT_Technology_Via_Transportation.pdf
+# path: raw/bleecker_drive/2.0 TIPS Cooperative Agreement/240101_CONTRACT_Technology_Via_Transportation.pdf
+# hit page: 1 of 42
+# terms: River North Transit
+
+=== page 1 ===
+TIPS Vendor Agreement
+Page 1 
+TIPS VENDOR AGREEMENT
+TIPS RFP 240101 Technology Solutions, Products, and Services
+The following Vendor Agreement (“Agreement”) creates a legal agreement between The Interlocal Purchasing System (“TIPS”), a 
+government purchasing cooperative and Department of Texas Region 8 Education Service Center and (INSERT ENTITY NAME):
+__________________________________________________________________________________________________ 
+(ENTER ENTITY NAME]
+its owners, agents, subsidiaries, and affiliates (together, “Vendor”) (individually, “Party”, and collectively the “Parties”) and this 
+agreement shall exclusively govern the contractual relationship (“Agreement”) between the Parties.
+TIPS, a governmental entity and a national purchasing cooperative seeks to provide a valuable and necessary solution to public entities 
+and qualifying non-profits by performing the public procurement solicitation process and awarding compliant contracts to qualified 
+vendors.  Then, where the law of a customer’s jurisdiction allows, instead of public entities and qualifying non-profits expending time, 
+money, and resources on the extensive public procurement process, the use of TIPS allows public entities to quickly select and purchase
+their preferred products or services from qualified, competitively evaluated vendors through cooperative purchasing.
+1.
+Purpose.  The purpose of this Agreement is to identify the terms and conditions of the relationship between TIPS and Vendor.  Public
+entities and qualifying non-profits that properly join or utilize TIPS (“TIPS Members”) may elect to “piggyback” off of TIPS’ 
+procurements and agreements where the laws of their jurisdiction allow.  TIPS Members are not contractual parties to this Agreement 
+although terms and conditions of this Agreement may ensure benefits to TIPS Members.
+2.
+Authority.  The Parties agree that the signatories below are individual authorized to enter into this Agreement on behalf of their entity
+and that they are acting under due and proper authority under applicable law.
+3.
+Definitions.
+a.
+TIPS Pricing: The specific pricing, discounts, and other pricing terms and incentives which Vendor submitted and 
+TIPS approved for each respective TIPS Contract awarded to Vendor and all permissible, subsequent pricing updates 
+submitted by Vendor and accepted by TIPS, if any.
+b.
+Authorized Reseller: A reseller or dealer authorized and added by a Vendor through their online TIPS Vendor Portal 
+to make TIPS sales according to the terms and conditions herein.
+4.
+Entire Agreement.  This Agreement resulted from TIPS posting a “TIPS Solicitation” (RFP, RCSP, RFQ, or other) and Vendor 
+submitting a proposal in response to that posted TIPS Solicitation for evaluation and award.  The Parties agree that this Agreement 
+consists of the provisions set forth herein and: (1) The TIPS solicitation document resulting in this Agreement; (2) Any addenda or 
+clarifications issued in relation to the TIPS solicitation; (3) All solicitation information provided to Vendor by TIPS through the TIPS 
+eBid System; (3) Vendor’s entire proposal response to the TIPS solicitation including all accepted required attachments, acknowledged 
+notices and certifications, accepted negotiated terms, pricing, accepted responses to questions, and accepted written clarifications of 
+Vendor’s proposal, and; any properly included attachments to this Agreement.  All documentation and information listed is hereby 
+incorporated by reference as if set forth herein verbatim.  In the event of conflict between the terms herein and one of the incorporated 
+documents the terms and conditions herein shall control.
+5.
+Vendor’s Specific Warranties, Terms, and License Agreements.  Because TIPS serves public entities and non-profits throughout 
+the nation all of which are subject to specific laws and policies of their jurisdiction, as a matter of standard practice, TIPS does not 
+typically accept a Vendor’s specific “Sale Terms” (warranties, license agreements, master agreements, terms and conditions, etc.) on 
+behalf of all TIPS Members.  TIPS may permit Vendor to attach those to this Agreement to display to interested customers what terms 
+may apply to their Supplemental Agreement with Vendor (if submitted by Vendor for that purpose).  However, unless this term of the 
+Agreement is negotiated and modified to state otherwise, those specific Sale Terms are not accepted by TIPS on behalf of all TIPS 
+Members and each Member may choose whether to accept, negotiate, or reject those specific Sale Terms, which must be reflected in a 
+separate agreement between Vendor and the Member in order to be effective. 
+River North Transit LLC
+=== page 2 ===
+TIPS Vendor Agreement
+Page 2 
+6.
+Vendor Identity and Contact Information.  It is Vendor’s sole responsibility to ensure that all identifying vendor information (name, 
+EIN, d/b/a’s, etc.) and contact information is updated and current at all times within the TIPS eBid System and the TIPS Vendor Portal.  
+It is Vendor’s sole responsibility to confirm that all e-correspondence issued from tips-usa.com, ionwave.net, and tipsconstruction.com 
+to Vendor’s contacts are received and are not blocked by firewall or other technology security. Failure to permit receipt of 
+correspondence from these domains and failure to keep vendor identity and contact information current at all times during the life of 
+the contract may cause loss of TIPS Sales, accumulating TIPS fees, missed rebid opportunities, lapse of TIPS Contract(s), and 
+unnecessary collection or legal actions against Vendor.  It is no defense to any of the foregoing or any breach of this Agreement that 
+Vendor was not receiving TIPS’ electronic communications issued by TIPS to Vendor’s listed contacts.
+7.
+Initiation of TIPS Sales.  When a public entity initiates a purchase with Vendor, if the Member inquires verbally or in writing whether 
+Vendor holds a TIPS Contract, it is the duty of the Vendor to verify whether the Member is seeking a TIPS purchase.  Once verified, 
+Vendor must include the TIPS Contract Number on all purchase communications and sales documents exchanged with the TIPS 
+Member.  
+8.
+TIPS Sales and Supplemental Agreements.  The terms of the specific TIPS order, including but not limited to: shipping, freight, 
+insurance, delivery, fees, bonding, cost, delivery expectations and location, returns, refunds, terms, conditions, cancellations, order 
+assistance, etc., shall be controlled by the purchase agreement (Purchase Order, Contract, Invoice, etc.) (hereinafter “Supplemental 
+Agreement”) entered into between the TIPS Member Customer and Vendor only.  TIPS is not a party to any Supplemental Agreement.  
+All Supplemental Agreements shall include Vendor’s Name, as known to TIPS, and TIPS Contract Name and Number.  Vendor accepts 
+and understands that TIPS is not a legal party to TIPS Sales and Vendor is solely responsible for identifying fraud, mistakes, 
+unacceptable terms, or misrepresentations for the specific order prior to accepting. Vendor agrees that any order issued from a customer 
+to Vendor, even when processed through TIPS, constitutes a legal contract between the customer and Vendor only. When Vendor
+accepts or fulfills an order, even when processed through TIPS, Vendor is representing that Vendor has carefully reviewed the order 
+for legality, authenticity, and accuracy and TIPS shall not be liable or responsible for the same.  In the event of a conflict between the 
+terms of this TIPS Vendor Agreement and those contained in any Supplemental Agreement, the provisions set forth herein shall control 
+unless otherwise agreed to and authorized by the Parties in writing within the Supplemental Agreement. 
+9.
+Right of Refusal.  Vendor has the right not to sell to a TIPS Member under the awarded agreement at Vendor’s discretion unless 
+otherwise required by law.
+10. Reporting TIPS Sales.  Vendor must report all TIPS Sales to TIPS.  If a TIPS sale is initiated by Vendor receiving a TIPS Member’s 
+purchase order from TIPS directly, Vendor may consider that specific TIPS Sale reported.  Otherwise, with the exception of TIPS 
+Automated Vendors, who have signed an exclusive agreement with TIPS regarding reporting, all TIPS Sales must be reported to TIPS 
+by either: (1) Emailing the purchase order or similar purchase document (with Vendor’s Name, as known to TIPS, and the TIPS 
+Contract Name and Number included) to TIPS at tipspo@tips-usa.com with “Confirmation Only” in the subject line of the email within 
+three business days of Vendor’s acceptance of the order, or; (2) Within 3 business days of the order being accepted by Vendor, Vendor 
+must login to the TIPS Vendor Portal and successfully self-report all necessary sale information within the Vendor Portal and confirm 
+that it shows up accurately on your current Vendor Portal statement.  No other method of reporting is acceptable unless agreed to by 
+the Parties in writing.  Failure to report all sales pursuant to this provision may result in immediate cancellation of Vendor’s TIPS 
+Contract(s) for cause at TIPS’ sole discretion.  Please refer to the TIPS Accounting FAQ’s for more information about reporting sales 
+and if you have further questions, contact the Accounting Team at accounting@tips-usa.com. 
+11. TIPS Administration Fees.  The collection of administrative fees by TIPS, a government entity, for performance of these procurement 
+services is required pursuant to Texas Government Code Section 791.011 et. seq.  The administration fee (“TIPS Administration Fee”) 
+is the amount legally owed by Vendor to TIPS for TIPS Sales made by Vendor.  The TIPS Administration Fee amount is typically a 
+set percentage of the amount paid by the TIPS Member for each TIPS Sale, less shipping cost, bond cost, and taxes if applicable and 
+identifiable, which is legally due to TIPS, but the exact TIPS Administration Fee for this Contract is published in the corresponding 
+solicitation and is incorporated herein by reference.  TIPS Administration Fees are due to TIPS immediately upon Vendor’s receipt of 
+payment, including partial payment, for a TIPS Sale.  The TIPS Administration Fee is assessed on the amount paid by the TIPS Member, 
+not on the Vendor’s cost or on the amount for which the Vendor sold the item to a dealer or Authorized Reseller.  Upon receipt of 
+payment for a TIPS Sale, including partial payment (which renders TIPS Administration Fees immediately due), Vendor shall issue to 
+TIPS the corresponding TIPS Administration Fee payment as soon as possible but not later than thirty-one calendar days following 
+Vendor’s receipt of payment.  Vendor shall pay TIPS via check unless otherwise agreed to by the Parties in writing.  Vendor shall 
+include clear documentation with the issued payment dictating to which sale(s) the amount should be applied.  Vendor may create a 
+payment report within their TIPS Vendor Portal which is the preferred documentation dictating to which TIPS Sale(s) the amount 
+should be applied.  Failure to pay all TIPS Administration Fees pursuant to this provision may result in immediate cancellation of 
+Vendor’s TIPS Contract(s) for cause at TIPS’ sole discretion as well as the initiation of collection and legal actions by TIPS against 
+Vendor to the extent permitted by law.  Any overpayment of participation fees to TIPS by Vendor will be refunded to the Vendor

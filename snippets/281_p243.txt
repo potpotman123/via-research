@@ -1,0 +1,104 @@
+# source: raw/bleecker_drive/Arlington, Virginia/arlington-transit-fy25-34-tsp-final.pdf
+# path: raw/bleecker_drive/Arlington, Virginia/arlington-transit-fy25-34-tsp-final.pdf
+# hit page: 243 of 333
+# terms: Via+vehicles
+
+=== page 242 ===
+Appendix A
+Arlington Transit Strategic Plan | Appendix A - Agency Profile and System Overview
+3
+The Transit Accessibility Subcommittee reviews accessibility issues in Arlington, including access to transit 
+vehicles, stops and stations and the specialized transit services provided by Metrorail, Metrobus, ART, STAR and 
+MetroAccess. Members are:
+
+Alexis Mavroidis (Chair)
+
+Herschel Kanter
+
+Laura MacNeil
+The TAC usually meets every two months for 90 minutes via Microsoft Teams or by phone. The subcommittee 
+usually meets every two months.
+A.3 Organizational Structure
+Arlington County’s Department of Environmental Services (DES) is responsible, through its Transit Bureau, for 
+providing public transportation that encompasses a network of transit services and facilities. Arlington Transit 
+(ART) is one element of the program that also includes Metrorail, Metrobus, MetroAccess, STAR, Commuter 
+Services, and Virginia Railway Express.
+FIGURE 2 | ORGANIZATION CHART FOR ARLINGTON COUNTY DEPARTMENT OF ENVIRONMENTAL SERVICES, 
+TRANSIT BUREAU
+=== page 243 ===
+Appendix A
+Arlington Transit Strategic Plan | Appendix A - Agency Profile and System Overview
+4
+Greg Emanuel is Director of the Arlington County Department of Environmental Services, and he establishes 
+policy and directive guidance for the management of the department. T Hui Wang, Deputy Director of the Division 
+of Transportation and Development Services (DOT) also holds the title of Director of Transportation. The Director 
+of Transportation oversees five bureaus: Transportation Engineering & Operations, Transit, Development 
+Services, Transportation Planning, and Commuter Services. The Director of Transportation has Transportation 
+Program Support staff that deals with Operational Program Financial Management as well as Capital Program 
+Financial Management and Compliance. Staff in the Transportation Program Support section include a 
+Management & Budget Specialist, who supervises the Capital Budget Analysts. There is a Transportation Grants 
+Manager plus a Contract Administrator, who supervises a Contract Specialist.
+Lynn Rivers, Transportation Chief, has responsibility of day-to-day activities of the Transit Bureau. The bureau 
+provides Fixed Route and Paratransit service in Arlington and a Capital Program responsible for design and 
+construction of transit infrastructure. Staff leading the Transit Bureau are Pierre Holloman, Assistant Chief, Robin 
+McElhenny, Capital Program Manager and Transit Services Manager Clinton Edwards.
+The Transit Services Manager Clinton Edwards is responsible for local transit services including ART fixed route 
+and STAR para-transit services, which are provided through public-private partnerships. The Transit Services and 
+Operations team is responsible for leading the procurement process and overseeing the provision of contracted 
+services, including service planning and evaluation; development of ART timetables; procurement of ART buses 
+and support technology and equipment; and, in conjunction with the Commuter Services Bureau and other DOT 
+staff, marketing of services and community engagement. Mr. Edwards’ team oversees the work of several 
+contractors and also deals with other County departments:
+
+Since December 2019, First Transit operates, maintains, supervises and dispatches ART buses. This contract 
+is structured to separate variable costs from fixed costs to minimize risk to both the County and Contractor 
+and enable the Contractor to provide high-quality service on a continuing basis. The current contract is set to 
+expire in December 2024 with an option to extend. (First Transit was purchased by Transdev in late 2022. 
+Contract references will still use First Transit.)
+
+ART Transit Technology capabilities are provided via contracts either directly through the County or through 
+First Transit.
+
+ART marketing capabilities are enhanced with personal service and company contracts overseen by the 
+Commuter Services Bureau for marketing and webmaster services.
+
+First Transit is responsible for the STAR Call Center, which oversees paratransit street operations as well as 
+books and schedules STAR rides and provides summary statistics each month.
+
+Diamond Transportation operates 14 vehicles dedicated to STAR services and, through the same contract, 
+another 13 vehicles dedicated to transporting Arlington County Department of Human Services’ Intellectual 
+and Developmental Disabilities Services (IDDS) Division clients to/from day support and employment 
+programs.
+
+Red Top Cab provides taxi dispatch services for STAR, for IDDS clients, as well as the senior center 
+programs operated by the Arlington County Department of Parks & Recreation.
+A.4 Services Provided and Areas Served  
+The Arlington County Department of Environmental Services' Transit Bureau oversees transit operations and 
+provides public transportation services to accommodate the needs of Arlington residents, workers, and visitors. 
+The ART bus service is operated through a competitively procured contract with a private sector company 
+(currently First Transit). Funding for ART bus service is derived from County general funds, fares, state transit aid, 
+and developer contributions. 
+The integrated network of mobility services, designed as an alternative to driving, include Arlington Transit, 
+Specialized Transit for Arlington Residents, Metrorail, Metrobus, MetroAccess, Commuter Services, Virginia 
+Railway Express, Bicycling, Walking, Super Senior Taxi (SST) and Taxi. Below are brief descriptions of each 
+service.
+=== page 244 ===
+Appendix A
+Arlington Transit Strategic Plan | Appendix A - Agency Profile and System Overview
+5
+Arlington Transit
+ART is Arlington County’s local bus service, which complements the line service provided by WMATA’s Metrobus, 
+offering fixed route transit with cross-County routes and neighborhood connections to Metrorail stations. ART 
+provides service to numerous urban villages in Arlington, including Rosslyn, Ballston, Pentagon City, and Crystal 
+City. ART also serves several high-level security agencies and facilities like the Pentagon, Transportation Security 
+Administration (TSA), US Marshals Service, US State Department, Federal Deposit Insurance Corporation 
+(FDIC), and Defense Advanced Research Projects Agency (DARPA). 
+ART currently (July 2023) operates 16 routes (Figure 3), five of which operate during weekday peak periods only; 
+11 operate all‐day on weekdays; seven offer service on Saturdays; and six operate on Sunday. Weekday service 
+operates between 5 AM and 1:45 AM; Saturday service is offered between 5:50 AM and 2 AM; and Sunday 
+service operates between 6:20 AM and 12:50 AM. Weekday peak-period service operates with frequencies 
+ranging between 10 and 30 minutes; weekday midday service headways range between 15 and 70 minutes; and 
+weekend service operates within a range of between 20-to-65-minute frequencies. Chapter 1: Service and 
+System Evaluation contains a detailed description of each ART fixed route including span of service hours and 
+frequency of service by time period.
+FIGURE 3 | ARLINGTON REGIONAL TRANSIT SYSTEM

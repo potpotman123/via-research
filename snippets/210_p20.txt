@@ -1,0 +1,90 @@
+# source: https://legistar1.granicus.com/McKinney/attachments/abb0b9be-9c15-4174-9e04-7b9d82941c25.pdf
+# path: raw/cache/5e92fe54da67feb112756b4c03bca94101b9439a.pdf
+# hit page: 20 of 50
+# terms: Spare Labs
+
+=== page 19 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+ 
+Figure 11. Parameters that were varied for each batch of Spare Realize simulations. 
+ 
+A few key parameters were kept stable throughout all simulations: the base boarding time 
+(the amount of time the system adds to its estimates for each pickup/dropoff stop) was set 
+at 60 seconds, the per-passenger boarding time (the additional amount of time, per 
+passenger, the system adds to its estimates for each pickup/dropoff stop) to 15 seconds, 
+and the pickup flexibility (the time a rider can be made to wait for a pickup from their initial 
+estimate) was set at 10 minutes. These are standard parameter settings in Spare’s services.  
+ 
+In all simulations, the impact of traffic congestion on travel times was integrated by pulling 
+from the Google Traffic API. 
+ 
+Operational model 
+ 
+We ran simulations assuming two operational models, on CCT’s request: 
+ 
+1. Door-to-door model, where riders get pickup and dropped off as close to possible to 
+their chosen location (for both normal and extended service hours); 
+2. Stop-to-stop model, where riders get picked up and dropped off at optimally 
+selected ‘virtual stops’ (for normal service hours only). 
+ 
+Stop-to-stop operations usually require riders to walk some distance, but the advantage is 
+that it generally reduces waiting and travel times, increases system efficiency, and reduces 
+costs.  
+ 
+62% of all respondents to CCT’s transit survey stated that the walking distance from a 
+transit stop to a destination was one of the most important components of public 
+transportation. Since the on-demand service is designed to cater primarily to senior 
+citizens and those with mobility issues, and daytime temperatures can be very high in 
+Collin County, a stop-to-stop model would always have to be paired with a door-to-door 
+model for those who need it most.  
+ 
+To simulate a stop-to-stop model across the microtransit zone, we designated stops based 
+on the highest weightings in each of the home-based, work-based, recreation-based and 
+healthcare-based demand maps. The resulting collection of points were mapped and 
+18
+=== page 20 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+visually inspected to remove any duplicates, and low-density areas were supplemented 
+with an appropriate number of additional points (Figure 12).  
+ 
+ 
+Figure 12. Locations of ‘virtual stops’ used in the stop-to-stop model. 
+ 
+In total, we designed 196 ‘virtual stops’ around the proposed zone, equating to 
+approximately 0.9 stops per square mile. In all urban areas, there was a stop at least every 
+~500 yards. This is a widely-used standard for fixed-route transit. 
+ 
+Example of model input 
+ 
+Once the demand models were run and the correct service configuration was set up in 
+Spare Realize, it was left to randomly select the relevant number of trips for each of the 54 
+individual simulations. An example of the randomly selected pickup and dropoff points in a 
+single simulation are shown in Figure 13.  
+ 
+19
+=== page 21 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+ 
+Figure 13. Heatmaps of pickups and dropoffs, and origin-destination arcs, showing trips simulated in a 
+medium-demand scenario.  
+ 
+Limitations of Spare Realize simulations 
+ 
+By its very nature, simulating a human system relies on the concepts of ​probability​ (i.e. 
+likelihood to occur) rather than ​determinism​ (i.e. predictions of certainty). The randomness 
+and unpredictability in human behaviour, traffic and urban dynamics means that the 
+findings presented in this report should be interpreted as probability-based statements.  
+ 
+Spare Realize does not simulate human behaviour ​per se​, so no-shows or cancellations are 
+not taken into account. Drivers are assumed to behave precisely as stipulated in the model 
+parameters (i.e. they wait as long as they are permitted for a rider, they take no breaks, 
+adhere to traffic rules, and so on). 
+ 
+The starting locations of duty vehicles were assumed to be the centre of the zone’s road 
+network, which was in downtown McKinney. In practice, vehicle depots may not be located 
+in central areas, so vehicles may incur additional hours and costs in travelling to the zone 
+for the start of shifts. 
+ 
+ 
+ 
+20

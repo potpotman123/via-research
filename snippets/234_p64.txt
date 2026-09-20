@@ -1,0 +1,219 @@
+# source: https://legistar.granicus.com/LosAlamos/attachments/d4ed28e3-5da0-403c-aaa8-20fd558046f1.pdf
+# path: raw/cache/9e8dcba51a86916c33f88b1baedeefebe738b9ef.pdf
+# hit page: 64 of 81
+# terms: Spare Labs
+
+=== page 63 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+63 
+ Agreement Template Version: 04012024 
+• 
+Spare System Administrator Guide: Comprehensive information on the Spare Platform and the 
+Spare Driver App, including step-by-step walkthroughs, pictures, videos, and other useful 
+information. 
+• 
+Spare Dispatcher/Scheduler Guide: Information on the Spare Platform and the actions that you 
+may be required to take, including step-by-step walkthroughs, pictures, and other useful 
+information. 
+• 
+Spare Customer Service Representative Guide: This guide includes information on everything 
+from logging into the Spare Platform to navigating the live map, booking trips, rematching requests, 
+using interactive voice response, adding rider favorite locations and group memberships, and more. 
+• 
+Spare Rider App Guide: Complete with demonstrative screen shots, this guide walks you through 
+setting locations, rider options, adding riders, using accessibility features, choosing payment 
+method, previewing your trip, and notifications. 
+• 
+Spare Driver Guide: Here drivers will find instructions on downloading the Spare Driver app, 
+accessing your account, setting up your profile, settings overview, starting and completing a duty, 
+as well as trip cancellation, adding a walk-on rider, and ending your duty. 
+• 
+Spare Data Analyst Guide: Learn how to use Spare Analyze - Spare’s analytics module - to track 
+system performance and gain insights into day-to-day operations. Understand what each metric is, 
+how it's calculated, and how it can be used. Walk though Spare’s standard reports and learn how 
+to create custom ones. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Attachment A
+=== page 64 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+64 
+ Agreement Template Version: 04012024 
+Exhibit I 
+Data Migration Plan Approach to Data Conversion and Migration 
+AGR24-37 
+ 
+This Exhibit I is included herein for reference and reflects Contractor’s proposed Data Migration Approach 
+to Data Conversion and Migration, as provided in Contractor’s Response.  Contractor may modify its 
+approach to data conversion and migration, provided data migration Services are planned and performed 
+in a substantially similar manner, acceptable to the County Project Manager, to ensure data migration from 
+the County’s current system(s) to the Platform is seamless and successful.   
+ 
+Step 
+Approach to Data Conversion / Migration 
+Step 1: Data 
+Migration Plan & 
+Stakeholder 
+Engagement 
+First, we need to create a robust data migration plan, identify the key 
+stakeholders and their responsibilities, and: 
+● 
+Define the scope, objectives, and timeline of the migration project. 
+● 
+Identify the stakeholders and form a project team. 
+● 
+Schedule regular project team touchpoints. 
+● 
+Assess the volume and type of data to be migrated. 
+● 
+Choose appropriate migration tools based on the data type 
+and source/target systems. 
+● 
+Ensure adequate hardware and software resources are available. 
+● 
+Ensure the migration plan complies with relevant legal and regulatory 
+requirements, especially concerning data privacy (like GDPR, HIPAA, 
+etc.). 
+● 
+Implement measures to protect sensitive and personal data 
+during migration. 
+● 
+Develop a communication plan to keep stakeholders informed throughout 
+the migration process. 
+Step 2: Export, 
+Review, & 
+Analysis 
+Review the data that lives in the existing software solutions to understand what 
+data exists and needs to be exported. Next, identify the export options - field 
+formats, file formats etc. - and decide on an export approach. Then, export the 
+data from the previous system(s) and begin analysis. 
+● 
+Analyze the data structure in the source system. 
+● 
+Identify any data dependencies and relationships. 
+● 
+Create data specification sheet: 
+○ 
+What columns/data do we want to keep? (e.g passenger name, 
+saved addresses, contact numbers, eligibility type and 
+details, equipment needs, ADA eligibility dates) 
+○ 
+What columns/data do we want to consolidate and/or add? 
+○ 
+Identify stale profiles (e.g. inactive profiles) 
+○ 
+Identify duplicate profiles 
+○ 
+Identify missing data that needs to be actioned 
+Attachment A
+=== page 65 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+65 
+ Agreement Template Version: 04012024 
+Step 
+Approach to Data Conversion / Migration 
+Step 3: Data 
+Consolidation 
+and Cleanse 
+● 
+Consolidate, remove, and adjust the data where needed 
+● 
+Look to convert data formats, where necessary. E.g. date formats into 
+one that’s aligned with Spare Platform. 
+● 
+Further clean data in additional ways in close collaboration. 
+Step 4: Field 
+Mapping & 
+Creation 
+● 
+Map how data will be transferred 
+● 
+Creation of custom fields in Spare that can match existing fields such 
+as phone number, emergency contact etc. 
+● 
+Discuss adding additional fields not previously available in your 
+previous system that you wish to include. 
+● 
+Discuss the custom fields Spare has available within our platform. 
+Step 5: Data 
+Mapping and 
+Import 
+Preparation 
+● 
+Convert data to match Spare import parameters. 
+● 
+Align column header with custom fields to prepare finalized sheet for 
+import into Spare Platform. 
+● 
+Complete final review and data validation. 
+Step 6: Import 
+Testing 
+Complete test import with a small subset of the data and validate manually 
+against the old system. 
+● 
+Conduct a test migration with a subset of data. 
+● 
+Validate the accuracy and integrity of migrated data. 
+● 
+Adjust the migration strategy based on test results. 
+Step 7: Import 
+Complete full data import into Spare. 
+● 
+Proceed with the full-scale migration based on the finalized strategy. 
+● 
+Monitor the migration process for any issues or errors. 
+Step 8: Data 
+Validation & 
+Quality 
+Assurance 
+Validation of data imported into Spare. 
+● 
+Perform extensive checks to ensure all data is accurately migrated. 
+● 
+Validate the data with end-users to ensure it meets 
+business requirements. 
+● 
+Implement a process for ongoing data quality assurance 
+both during and after the migration to ensure the data 
+continues to be accurate, consistent, and usable in the 
+new system. 
+Attachment A

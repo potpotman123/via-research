@@ -1,0 +1,299 @@
+# source: raw/bleecker_drive/Arlington, Virginia/arlington-transit-fy25-34-tsp-final.pdf
+# path: raw/bleecker_drive/Arlington, Virginia/arlington-transit-fy25-34-tsp-final.pdf
+# hit page: 164 of 333
+# terms: Via+per revenue hour
+
+=== page 163 ===
+Planned Service Improvements
+Arlington Transit Strategic Plan | Chapter 3 - Planned Improvements and Modifications
+37
+Route 53
+FIGURE 11 | ROUTE 53 (PROPOSED)
+Background
+The existing Route 53 has the third lowest ridership and is the third least productive route in the ART system. 
+Route 53 is a STN route connecting the Ballston-MU and East Falls Church Metrorail Stations with Westover and 
+other neighborhoods in North Arlington. It currently operates as an STN route with weekday peak period-only 
+service between 6 AM to 9:14 AM, and from 2:35 PM to 7:39 PM. Buses operate every 25 minutes during these 
+times. The route generally operates through non-minority and higher income neighborhoods and serves the 
+following areas:
+
+Metrorail
+o
+Ballston-MU
+o
+East Falls Church
+
+Neighborhood Centers
+o
+Ballston
+o
+City of Falls Church
+
+Virginia Square
+
+Schools
+o
+Information Sciences Institute
+o
+Marymount University - Ballston Center
+o
+Washington-Liberty High School
+o
+Virginia Tech Research Center - Arlington
+
+Community Centers
+o
+Gulf Branch Nature Center
+The two busiest stops on the route are East Falls Church Metrorail Station, with 174 average weekday boardings 
+in 2021, and Williamsburg Boulevard at N Glebe Road, with 13 average weekday boardings. Over the past five 
+years, Route 53 ridership peaked in July 2019 at 260 average weekday boardings, service suspended from April 
+2020 to August 2021. Ridership was at its lowest at 26 boardings in January 2022, 10%
+=== page 164 ===
+Planned Service Improvements
+Arlington Transit Strategic Plan | Chapter 3 - Planned Improvements and Modifications
+38
+of the 2019 high. This illustrates how telework resulting from the COVID-19 pandemic has had a huge impact on 
+transit usage along certain routes.
+Service Recommendations
+1.
+Discontinue Service between East Falls Church and N Glebe Road on N Sycamore Street and 
+Williamsburg Boulevard in conjunction with the implementation of an On-Demand Service Zone.
+2.
+Shift Western/Northern Terminus from East Falls Church to N Glebe Road and Military Road 
+(Madison Community Center), which is shared with an extended Route 72.
+3.
+Shift Southern/Eastern Terminus from Ballston to Rosslyn (service to Ballston eliminated), via 
+northern portion of discontinued Route 61 loop.
+4.
+Extend service coverage by absorbing Route 61 alignment and service hours (inherits better of two 
+service levels).
+5.
+Increase Span of Service to maintain STN guidelines, by adding midday service with the same 25-
+minute frequency from peak period to match the STN 30-minute guideline.
+Expected Outcomes
+The proposed Route 53 would absorb portions of Route 61, which is recommended for elimination. The proposed 
+new alignment would create a direct connection between Rosslyn and Arlington’s northern tier. Because of the 
+realignment, ART service will be discontinued to Discovery Elementary School and Williamsburg Middle School.
+The recommendations would increase ART’s level of service provided to equity-focus populations and high-transit 
+propensity neighborhoods as defined in Tech Memo #4 Gaps and Needs. This would extend route coverage and 
+reach nearby neighborhoods, improving network connectivity. The recommendations aim to provide improved 
+levels of service for existing Route 51 and Route 61 passengers by reducing the need for transfer, which may 
+potentially reduce overall travel times. 
+The proposed changes will increase the share of the minority population within a quarter mile of the route from 
+27% to 31% and low-income population from 7% to 10%, a 4% and 3% increase respectively. 
+This service increase will also allow the route to meet and exceed the STN service guidelines, with the inclusion 
+of midday and extended evening service. This extended span is expected to improve ridership productivity 
+metrics and support riders who depend on this route daily. 
+The proposed changes will keep an average headway of 25 minutes and result in an increase of about 21 Vehicle 
+Revenue Hours during each weekday, with an annual increase of approximately 5,330 Vehicle Revenue Hours, 
+an increase of about 97%.
+TABLE 38 | ROUTE 53 EXISTING PERFORMANCE METRICS
+Target 
+(STN)
+Weekday 
+ART Rank
+Weekday
+Saturday
+Sunday
+Average Daily Ridership
+-
+13th 
+ 33 
+-
+-
+Farebox Recovery
+20%
+14th (Tied)
+2%
+-
+-
+Passengers Per One Way Trip
+-
+12th 
+2.1
+-
+-
+Passengers Per Revenue Hour
+15
+15th 
+ 1.8 
+-
+-
+Passengers Per Revenue Mile
+-
+14th (Tied)
+0.1
+-
+-
+On-Time Performance
+95%
+8th 
+86.0%
+-
+-
+=== page 165 ===
+Planned Service Improvements
+Arlington Transit Strategic Plan | Chapter 3 - Planned Improvements and Modifications
+39
+TABLE 39 | ROUTE 53 EXISTING AND PROPOSED OPERATING STATISTICS
+Performance Evaluation Metrics
+Current
+Proposed
+Difference
+Target / 
+Average
+From
+Westover
+Rosslyn
+To
+East Falls Church
+Madison 
+Community 
+Center
+Start Time
+6:00 AM/2:35 PM
+6:00 AM
+-
+Weekday
+End Time
+9:14 AM/7:39 PM
+10:00 PM
++2:21
+Start Time
+-
+-
+-
+Saturday
+End Time
+-
+-
+-
+Start Time
+-
+-
+-
+Service 
+Times
+Sunday
+End Time
+-
+-
+-
+Weekday
+8:18
+16:00
++7:42
+Saturday
+-
+-
+-
+Span
+(Hours / 
+Minutes)
+Sunday
+-
+-
+-
+>=18:00
+Weekday
+Early
+-
+-
+-
+AM Peak
+25
+25
+0
+Midday
+0
+25
++25
+PM Peak
+25
+25
+0
+Evening
+0
+25
++25
+Late
+-
+-
+-
+Saturday
+Core *
+-
+-
+-
+Non-Core *
+-
+-
+-
+Sunday
+Core *
+-
+-
+-
+Frequency 
+(Minutes)
+Non-Core *
+-
+-
+-
+<=30
+Weekday
+ 22 
+ 42 
+ +20 
+n/a
+Saturday
+ -   
+ -   
+ -   
+n/a
+Sunday
+ -   
+ -   
+ -   
+n/a
+Vehicle 
+Revenue 
+Hours
+Annual
+ 5,483
+ 10,812 
+ +5,329 
+n/a
+Minority
+27%
+31%
++4%
+39%
+Low income
+7%
+10%
++3%
+14%
+Equity Share
+Limited English Proficiency
+3%
+3%
+0%
+5%
+Peak Vehicles
+3
+4
++1
+n/a
+Annual Operating Cost
+$0.64 M
+$1.26 M
++$0.62 M
+n/a
+Estimated Ridership Impact (FY21 base)
+64
+395
++331
+n/a
+* Core hours vary by weekend day, but represent the busiest hours of the day, while non-core hours are those 
+outside of dominant travel times.

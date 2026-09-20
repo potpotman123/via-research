@@ -1,0 +1,131 @@
+# source: https://legistar1.granicus.com/McKinney/attachments/abb0b9be-9c15-4174-9e04-7b9d82941c25.pdf
+# path: raw/cache/5e92fe54da67feb112756b4c03bca94101b9439a.pdf
+# hit page: 3 of 50
+# terms: Spare Labs
+
+=== page 2 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+ 
+ 
+ 
+Spare Realize is a fundamentally new way of planning and optimizing transportation 
+networks. At its core, it is a transportation network simulation tool that can be used to run 
+quick and informative transit simulations during the planning and operational stages of a 
+transportation service. 
+ 
+This document, prepared by Spare Labs (henceforth referred to as Spare) for Collin County 
+Transit (henceforth referred to as CCT, provides results and insights from simulations of 
+the potential performance of an on-demand microtransit service across Collin County.  
+ 
+Spare is dedicated to helping CCT identify suitable operational models for this large zone, 
+and to advising on the likely performance of the service. Ultimately Spare seeks to help CCT 
+achieve its objectives to continue to be an innovative provider of transit in Texas. 
+ 
+ 
+ 
+ 
+This document and the information contained in it is confidential information of Spare Labs Inc., and shall not be used, 
+published, disclosed or disseminated outside of Spare Labs in whole or in part without Spare Labs’ consent. This document 
+contains trade secrets of Spare Labs. Reverse engineering of any of the information in this document is prohibited. The 
+copyright notice does not imply publication of this document.​ ​© Spare Labs Inc. 2020 All Rights Reserved 
+ 
+1
+=== page 3 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+Table of contents 
+Executive summary
+3 
+Overview and context
+6 
+Project objectives
+7 
+Methodology
+8 
+Data sources
+8 
+Stage 1: Estimating volume of demand
+9 
+Stage 2: Estimating distribution of demand
+1​1 
+Stage 3: Simulation setup in Spare Realize
+1​7 
+Stage 4: Analysis of results
+2​1 
+Results: Door-to-door service (normal hours: 6am–6pm)
+2​3 
+Results: Door-to-door service (extended hours: 6am–12am)
+2​4 
+Results: Stop-to-stop service (normal hours: 6am–6pm)
+2​5 
+Comparative analysis
+26 
+Summary of simulations
+29 
+Recommendations
+30 
+Summary of recommendations
+30 
+Cost tradeoffs when investing in greater service
+31 
+Door-to-door vs. Stop-to-stop
+32 
+The importance of right-sizing CCT’s vehicle fleet
+34 
+The steps to success for CCT
+3​7 
+Meeting CCT’s objectives
+41 
+Appendices
+42 
+ 
+ 
+2
+=== page 4 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+Executive summary 
+ 
+CCT currently runs an on-demand taxi service across Collin County, with their operating 
+partner Irving Holdings. With the aim of improving efficiency and cutting costs without 
+impacting rider experience, CCT approached Spare to explore the possibility of introducing 
+microtransit to the county. 
+ 
+Spare used its Realize simulation platform to simulate the expected performance of a fully 
+on-demand microtransit service. Spare ran 54 individual simulations, covering various 
+parameter combinations with different demand scenarios, duty levels and operational 
+models.  
+ 
+This report outlines the simulation methodology and findings, before making best practice 
+recommendations for setting up and operating microtransit in the study zone and the 
+entire region. It also presents the cutting-edge technology that Spare can provide to 
+partner with CCT in the implementation and operational phases of its microtransit plans.  
+ 
+Main findings 
+ 
+●
+There is ​high potential for an excellent microtransit service ​in the study zone. 
+Low average waiting times and high efficiency are achievable with relatively few 
+vehicles, at a low-cost option that varies from $520,000 to $870,000 per year 
+depending on actual demand. 
+ 
+●
+The ​pooling​ rate (i.e. the proportion of trips that are shared between multiple 
+riders) is expected to be 48–64% using a door-to-door model. This implies that 
+vehicle hours could be reduced significantly compared to the current 
+business-as-usual model where no pooling exists, which would translate into 
+equivalent cost savings for CCT. Adopting a ‘great service’ model (by increasing the 
+number of driver shifts) would improve the rider experience, but costs could almost 
+double. 
+ 
+●
+As CCT begins its microtransit journey, it will have to consider several ​tradeoffs 
+between investing in great service or opting for a lower-cost option. A low-cost 
+solution could be as low as $520,000 per annum (p.a.), while a great-service solution 
+could be as high as $1.6 million p.a. A door-to-door service would offer the best 
+increase in performance per additional spend, but if costs need to be minimised, a 
+stop-to-stop service offers the best value for money. 
+ 
+●
+A ​stop-to-stop ​operational model would deliver the best value for money in Collin 
+County​. ​Stop-to-stop services tend to have better pooling and shorter wait times 
+than door-to-door services, and the familiarity of stops breeds more efficient 
+3

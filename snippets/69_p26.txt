@@ -1,0 +1,155 @@
+# source: https://douglascounty.legistar1.com/douglascounty/attachments/b385dd50-f08d-4727-94a5-dbdf6589f64e.pdf
+# path: raw/cache/5519ad3006aac361693ed262424c38b0419f453b.pdf
+# hit page: 26 of 27
+# terms: Via+per hour
+
+=== page 25 ===
+the CONSULTANT or CONTRACTOR to provide insurance policies within ten (10) working 
+days of receipt of the written request will constitute a material breach of contract upon which 
+Douglas County may immediately terminate this contract.  
+ 
+The completed certificates of insurance with additional insured endorsements and waivers of 
+subrogation and any notices, within 20 days of cancellation or termination will be sent via mail 
+or e-mail to:  
+Douglas County Government 
+Attn: Risk Management 
+100 Third Street 
+Castle Rock, Colorado 80104 
+risk@douglas.co.us 
+ 
+Subcontractors. Consultant shall require and verify that all subcontractors maintain insurance 
+meeting all the requirements stated herein, and CONSULTANT or CONTRACTOR shall ensure 
+Douglas County is an additional insured on insurance required from subcontractors. Any 
+subcontractors will not be required to maintain professional liability insurance if their scope of 
+work does not include any: (a) engineering or design; (b) construction inspection; or (c) survey 
+work.  
+ 
+Failure to Procure or Maintain Insurance. The CONTRACTOR will not be relieved of any 
+liability, claims, demands, or other obligations assumed by its failure to procure or maintain 
+insurance, or its failure to procure or maintain insurance in sufficient amounts, durations, or 
+types. Failure on the part of the CONTRACTOR to procure or maintain policies providing the 
+required coverage, conditions and minimum limits will constitute a material breach of contract 
+upon which Douglas County may immediately terminate this contract.  
+ 
+Governmental Immunity. The parties hereto understand and agree that Douglas County is 
+relying on, and does not waive or intend to waive by any provision of this Agreement, the 
+monetary limitations or any other rights, immunities, and protections provided by the Colorado 
+Governmental Immunity Act, C.R.S. §§ 24-10-101 et seq. as from time to time amended, or 
+otherwise available to Douglas County, its officers, or its employees  
+ 
+Special Risks or Circumstances.  
+Douglas County reserves the right to modify these requirements, including limits, based on the 
+nature of the risk, prior experience, insurer, coverage, or other special circumstances.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Approval of PCS for Highlands Ranch Link 
+Board of County Commissioners Business Meeting 3/25/2025 
+Page 25 of 27
+=== page 26 ===
+EXHIBIT D 
+Data Sharing & Project Data 
+ 
+Authorized Users 
+The table below sets forth the members of the County’s “Core Team” who are designated 
+authorized users of the Via Solution and the Project Data. Any usage beyond the members of the 
+Core Team would be in violation of the confidentiality provisions in the Contract. 
+ 
+Core Team 
+• 
+Community Services Coordinator Ryan Arthur 
+• 
+Community Services Supervisor Allison Cutting 
+• 
+Assistant Director of Community Services Rand Clark 
+  
+Data Sharing Plan 
+The Contractor shall provide data to the County for performance tracking and program 
+evaluation. The data shall be available in the Via Operations Center and only available to 
+members of the Core Team identified by the County to require access. Underlying data may not 
+be shared through any other method than the Via Operations Center access. The data is 
+considered trade secret by Via and is subject to the confidentiality and other protective 
+provisions set forth in the Contract. 
+The Consultant shall share data with the County’s Core Team including, but not limited to: 
+• 
+How new passengers learned about the service, made available through ad-hoc rider 
+surveys. 
+• 
+Passenger counts (per day, per hour, per month, per vehicle).  
+• Vehicle miles traveled, average trip length, on-time performance, and out of zone requests.  
+• Unique new passenger numbers and statistics on rider retention over time. 
+• Cancellation rates and how they may relate to other factors such as wait time (accounting 
+for weather). 
+• 
+Trip fulfillment response time (time from when a passenger makes a trip request to when 
+they are picked up), trip origin and destination pairs. 
+• Service utilization (passengers per hour) by time of day and day of week. 
+• Average distance required to walk from desired pick-up/drop-off locations to actual pick-
+up/drop-off locations. 
+• Customer satisfaction and feedback for improvements. 
+To protect Via’s intellectual property and the privacy of the Riders, the Contractor will provide 
+the following data tables and dashboards in the form of aggregated Via Operations Center reports 
+that shall be provided for the County’s access. These reports will be refreshed daily. The reports 
+are aggregated, de-identified, and do not include any personal information of the Riders. 
+ 
+ 
+Approval of PCS for Highlands Ranch Link 
+Board of County Commissioners Business Meeting 3/25/2025 
+Page 26 of 27
+=== page 27 ===
+Section A: STANDARD REPORTING SET 
+Dashboard 
+Data / Graphs provided 
+Top Level Service Operations 
+Metrics 
+Key service metrics filterable 
+by time period 
+Total ride requests: total number of attempts by riders to reserve a ride (or 
+delivery) from an origin to a destination. 
+Requests during service hours: “Total ride requests” made during service 
+hours. 
+Met Demand: total number of Ride Requests that received a ride proposal. 
+Met Demand Rate: ‘Met Demand’ out of ‘Total ride requests,’ as a 
+percentage. 
+Completed rides: total number of riders (including additional passengers) 
+successfully transported. 
+Completed Rides Rate: ‘Completed Rides’ out of ‘Total ride requests,’ as a 
+percentage. 
+Utilization: average number of passengers transported per vehicle per hour. 
+Service Operations Metrics 
+Graphs  
+Graphs/visualization of key 
+metrics by day, week, month, 
+or specific days of the week 
+Met Demand: total number of Ride Requests broken out by met demand and 
+rides unable to fulfill. 
+Detailed Ride Requests Status: detailed breakdown of the outcome for each 
+Ride Request (e.g., completed, cancelled, no show) 
+Utilization: average number of passengers transported per hour by day 
+Rider Experience  
+Snapshot of quality of service 
+and rider experience 
+Top Level Metrics 
+Average Ride Duration: average time in minutes from pick-up to drop-off 
+(displayed for completed rides only). 
+Average Ride Rating: average ride rating provided by riders (out of 5 stars). 
+Average Pickup Walking Distance: walking distance from the origin 
+requested by the rider to the actual pickup location assigned. 
+Rider Experience Graphs (filterable by day, week, month) 
+Average Ride Duration, Distance, Rating, and Pickup Walking Distance 
+Data Generator: Ride Request 
+Table 
+Detailed table of every ride 
+request made for the service 
+Data Columns in Table 
+Request Creation Date and Time; Request ID, Status, Rider ID 
+Wheelchair Accessible; Number of Passengers 
+Origin Address, Latitude and Longitude Destination Address, Latitude and 
+Longitude Ride Price, Distance, Duration (minutes)  
+Approval of PCS for Highlands Ranch Link 
+Board of County Commissioners Business Meeting 3/25/2025 
+Page 27 of 27

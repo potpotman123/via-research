@@ -1,0 +1,116 @@
+# source: raw/bleecker_drive/Arlington, Texas/Via_Contract_FINAL_Redacted.pdf
+# path: raw/bleecker_drive/Arlington, Texas/Via_Contract_FINAL_Redacted.pdf
+# hit page: 1 of 68
+# terms: River North Transit
+
+=== page 1 ===
+THE STATE OF TEXAS 
+§ 
+ON-DEMAND RIDESHARE SERVICE  
+COUNTY OF TARRANT 
+§ 
+CONTRACT 
+ 
+THIS ON-DEMAND RIDESHARE SERVICE CONTRACT (hereafter “Contract”) is 
+made and entered into on this day of ____________________, 2022 (hereafter “Effective 
+Date”), 
+by 
+and 
+between 
+RIVER 
+NORTH 
+TRANSIT 
+LLC, 
+(hereinafter 
+“CONTRACTOR” OR “VIA”) and the CITY OF ARLINGTON, TEXAS, a municipal 
+corporation located in Tarrant County, Texas, acting by and through its City Manager or 
+his designee (hereinafter “CITY”). 
+ 
+W I T N E S S E T H: 
+ 
+WHEREAS, CITY desires to continue On-Demand Rideshare Services; and 
+ 
+WHEREAS, CONTRACTOR is qualified to provide such Services and is willing to 
+undertake such Services for CITY in exchange for the consideration hereinafter specified; 
+and   
+ 
+WHEREAS,  CITY has evaluated and accepted CONTRACTOR’s responses to the 
+Request For Proposal #22-0031, all of the documents related thereto, and 
+CONTRACTOR’s best and final offer; and 
+  
+WHEREAS, on November 29, 2022, CITY’s governing body authorized its city 
+manager, or his designee, to execute a contract with CONTRACTOR for on-demand 
+rideshare services pursuant to the terms of this contract agreement. 
+ 
+NOW THEREFORE, IN CONSIDERATION of the covenants and agreements hereinafter 
+contained and subject to the terms and conditions hereinafter stated, the parties hereto do 
+mutually agree as follows: 
+ 
+I. 
+SCOPE OF SERVICES 
+ 
+CONTRACTOR shall perform such services as are necessary to develop, operate and 
+maintain an on-demand rideshare service for the CITY in accordance with the Contract 
+Documents as hereinafter defined (hereinafter referred to as “Services”). CONTRACTOR 
+intends to subcontract the performance of portions of the Services in accordance with the 
+terms hereof.  All Services provided under the terms of this Contract are to conform in 
+every respect to the following documents: 
+ 
+1. 
+This Contract; 
+ 
+2. 
+The Scope of Services, attached hereto as Exhibit “A”; and 
+ 
+3. 
+City of Arlington Request for Proposal 22-0031 and any addenda 
+thereto, (hereinafter referred to as the “RFP”).
+=== page 2 ===
+(2) 
+ 
+4. 
+Contractor’s Proposal Response to the RFP (hereinafter referred to as the 
+“Proposal”) 
+ 
+All of the documents referred to above are made a part hereof for all purposes as though 
+each were written word for word herein; provided that in the case of conflict in the language 
+of any of the documents listed above, priority of interpretation shall be given in the order 
+listed above with this Contract taking priority.  All of the above documents are hereinafter 
+referred to collectively as the “Contract Documents.” 
+ 
+In addition, the parties agree as follows: 
+ 
+A. 
+Data Sharing and Dashboard Services 
+THAT the CONTRACTOR and CITY, as outlined in the attached Scope of Services, shall 
+co-own all customer data input by end users into the technology solution for purposes of 
+the Services and that CONTRACTOR shall make data available to the CITY as set forth 
+in the Scope of Services. Notwithstanding the foregoing, CONTRACTOR shall own all 
+de-identified, anonymized and/or aggregated data, which it may use for any purpose, 
+including to improve its product and services offering, including the Services. For the 
+avoidance of doubt, (1) all data shared pursuant to the Contract Documents (including co-
+owned data) shall be subject to the confidentiality provisions set forth herein and (2) 
+CONTRACTOR agrees that it will not sell any data to third parties that contains personally 
+identifiable information. 
+ 
+B. 
+Performance Monitoring 
+THAT the CONTRACTOR shall, as outlined in the attached Scope of Services, provide 
+Weekly Staff Briefings (reporting the service data, performance standards, safety data, and 
+customer service data set forth in Section 9 of the Scope of Services on a weekly basis), 
+shall provide Monthly Business Reviews (reporting the content set forth in Section 9 of the 
+Scope of Services on a monthly basis) within twenty (20) business days of the last day of 
+the month for service during the previous month, shall provide Quarterly Business Reviews 
+(reporting the content set forth in Section 9 of the Scope of Services on a quarterly basis) 
+within twenty (20) business days of the last day of the month after every three (3) months 
+of service, and shall provide Annual Business Reviews (reporting the content set forth in 
+Section 9 of the Scope of Services on an annual basis) within twenty (20) business days of 
+the last day of the month after every twelve (12) months of service. Upon request by CITY, 
+CONTRACTOR shall provide daily ridership information. 
+ 
+C. 
+Performance Standards 
+ 
+THAT the CONTRACTOR shall use commercially reasonable efforts to meet the 
+following performance standards goals on a monthly basis. CONTRACTOR and the CITY 
+may mutually agree to revise the targets for these KPIs depending on the growth of the

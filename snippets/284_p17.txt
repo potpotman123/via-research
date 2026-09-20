@@ -1,0 +1,87 @@
+# source: raw/bleecker_drive/Arlington, Texas/FTA-Report-No-0244.pdf
+# path: raw/bleecker_drive/Arlington, Texas/FTA-Report-No-0244.pdf
+# hit page: 17 of 74
+# terms: Via+fleet
+
+=== page 16 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+7
+SECTION  |  2 
+the demonstration. The service used a fleet of four Lexus RX450 hybrid vehicles 
+and one Polaris GEM electric, wheelchair accessible vehicle. Booking, payment, 
+and vehicle routing was all performed through the Via service platform. Riders 
+would request a ride on the Via service, and if the parameters of their ride 
+fit the RAPID service, they would be offered both a standard, human-driven 
+Via van and a RAPID automated vehicle. Riders were directed to a convenient 
+pickup location within a one- to two-block walk of their location, creating a 
+personalized and efficient “corner-to-corner” service. Standard Via service fares 
+applied to RAPID rides, although UTA students were able to ride RAPID for free. 
+Figure 2-2 RAPID Service Area
+Over the one-year RAPID demonstration, a total of 28,140 rides were provided 
+with no safety incidents or crashes. Key service performance metrics included 
+an average estimated wait time of 10 to 15 minutes for each ride and average 
+on-time performance of 99 percent.1 Since riders were always able to choose 
+a RAPID ride or a standard Via ride, acceptance rates were closely tracked. 
+The service started with an average acceptance rate of approximately 75 
+percent, and this rate rose to over 90 percent during the demonstration year. 
+Autonomy performance was also closely monitored, and average percentage 
+1 On-time performance is the percentage of booked trips picked up within the pick-up window and 
+dropped off within the estimated drop-off window.
+=== page 17 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+8
+SECTION  |  2 
+of time in fully automated mode rose to over 90 percent toward the end of the 
+demonstration. More details about these and other performance metrics are 
+provided in following sections of this report.
+Challenges Addressed by the RAPID Project 
+The Arlington RAPID service was available to the public, and it was also targeted 
+specifically to the UTA community. With over 100 buildings spanning 420 acres, 
+UTA is tasked with transporting students, faculty, and staff across its widely 
+dispersed campus, while accommodating each user’s unique needs. In addition 
+to the UTA campus, the service area contained various residential uses and the 
+city’s commercial downtown. Home to over 11,800 people, the service zone 
+has a poverty rate of 39 percent, compared to 16 percent city-wide, and 18.8 
+percent of households have a person with a disability. 11 percent of households 
+lack access to a personal vehicle, almost three times higher than the city-wide 
+average of 4.3 percent of households. 
+The RAPID service addressed needs in the service area by providing an 
+on-demand service that was flexible to the mobility needs of both students 
+and residents. Additionally, by managing the routing and repositioning for the 
+AVs through Via’s platform, the fleet was optimized to ensure that each vehicle 
+was dynamically dispatched to meet real-time demand throughout the service 
+area, in a similar manner as the human-driven rideshare service. The RAPID 
+service was one of the first examples of  this type of dynamic routing of AVs 
+within a broader public transit service. The AV fleet also included one WAV to 
+expand accessibility to individuals who use wheelchairs. Finally, the RAPID 
+service launched and operated during the COVID-19 pandemic, which required 
+careful attention to health and safety protocols and adjusting protocols as 
+conditions changed, but the service also provided a safe, flexible, and reliable 
+transportation option for riders during this time. 
+Project Objectives
+The City of Arlington and its partners designed the RAPID project to provide a 
+blueprint for combining AV and microtransit technologies to develop effective, 
+efficient, safe, and accessible transit networks in a low-density setting where 
+traditional fixed-route transit is impractical. Additionally, the RAPID project 
+provides a flexible and integrated transit system that delivers convenient 
+mobility for all riders. This service was designed to improve road safety, expand 
+transit options for riders with limited mobility, and make Arlington’s existing 
+rideshare platform more efficient, as well as benefit students traveling in and 
+around campus and Arlington’s downtown through free rides for UTA students. 
+In addition to the direct benefits to the Arlington community, this project was 
+expected to generate insights to advance AV and microtransit practices across 
+the transit industry. Specific RAPID project objectives included:
+=== page 18 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+9
+SECTION  |  2 
+•	 Increased access for senior citizens, students, and individuals with 
+disabilities
+•	 Improved equity and accessibility to public transit
+•	 Improved safety and efficiency
+•	 Demonstration of performance, safety, and user acceptance of automation 
+on an existing public transportation system
+•	 Demonstration of integrated ride booking and payment between modes
+•	 Use of public-private partnerships for demonstration, data sharing, and 
+knowledge transfer
+These objectives are assessed in the Evaluation section of this report.

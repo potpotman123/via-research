@@ -1,0 +1,118 @@
+# source: raw/bleecker_drive/Arlington, Texas/FTA-Report-No-0244.pdf
+# path: raw/bleecker_drive/Arlington, Texas/FTA-Report-No-0244.pdf
+# hit page: 3 of 74
+# terms: Via Transportation
+
+=== page 2 ===
+COVER PHOTO
+Courtesy of City of Arlington, TX
+
+DISCLAIMER
+This document is disseminated under the sponsorship of the U.S. Department of Transportation in the interest of 
+information exchange. The United States Government assumes no liability for its contents or use thereof. The United States 
+Government does not endorse products or manufacturers. Trade or manufacturers’ names appear herein solely because 
+they are considered essential to the objective of this report. The opinions and/or recommendations expressed herein do 
+not necessarily reflect those of the U.S. Department of Transportation.
+=== page 3 ===
+Arlington Rideshare, 
+Automation, and Payment 
+Integration Demonstration 
+(RAPID) Final Report
+APRIL 2023
+FTA Report No. 0244
+PREPARED BY
+City of Arlington
+101 W. Abram Street
+Arlington, TX 76010
+Via Transportation, Inc.
+10 Crosby Street, Floor 2
+New York, NY 10013
+May Mobility
+650 Avis Drive, #100
+Ann Arbor, MI 48108
+University of Texas at Arlington
+701 S. Nedderman Drive
+Arlington, TX 76019
+SPONSORED BY
+Federal Transit Administration
+Office of Research, Demonstration and Innovation
+U.S. Department of Transportation 
+1200 New Jersey Avenue, SE 
+Washington, DC 20590
+AVAILABLE ONLINE
+https://www.transit.dot.gov/research-innovation/
+fta-reports-and-publications
+=== page 4 ===
+SYMBOL 
+WHEN YOU KNOW 
+MULTIPLY BY 
+TO FIND 
+SYMBOL 
+LENGTH 
+in 
+inches 
+25.4 
+millimeters 
+mm 
+ft 
+feet 
+0.305 
+meters 
+m 
+yd 
+yards 
+0.914 
+meters 
+m 
+mi 
+miles 
+1.61 
+kilometers 
+km 
+VOLUME 
+fl oz 
+fluid ounces 
+29.57 
+milliliters 
+mL 
+gal 
+gallons 
+3.785 
+liters 
+L 
+ft3 
+cubic feet 
+0.028 
+cubic meters 
+m3 
+yd3 
+cubic yards 
+0.765 
+cubic meters 
+m3 
+NOTE: volumes greater than 1000 L shall be shown in m3 
+MASS 
+oz 
+ounces 
+28.35 
+grams 
+g 
+lb 
+pounds 
+0.454 
+kilograms 
+kg 
+T 
+short tons (2000 lb) 
+0.907 
+megagrams  
+(or "metric ton") 
+Mg (or "t") 
+TEMPERATURE (exact degrees) 
+oF 
+Fahrenheit 
+5 (F-32)/9 
+or (F-32)/1.8 
+Celsius 
+oC 
+Metric Conversion Table

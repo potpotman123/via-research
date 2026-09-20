@@ -1,0 +1,98 @@
+# source: raw/bleecker_drive/0.0 OMNIA Cooperative Agreement/R250802_Via_Transportation_MAD_Redacted_081825_01.pdf
+# path: raw/bleecker_drive/0.0 OMNIA Cooperative Agreement/R250802_Via_Transportation_MAD_Redacted_081825_01.pdf
+# hit page: 131 of 191
+# terms: Citymapper, Via+drivers, Via+fleet, Via+vehicles
+
+=== page 130 ===
+D. Extent to Which the Goods and Services Meet
+Region 4’s Needs
+1. Can the vendor provide all requested goods and
+services?
+Via’s TransitTech solutions can be used to accomplish all of the services in the 
+Transportation scope.  
+2. Include a detailed response to Appendix B, Exhibit A,
+OMNIA Partners Response for National Cooperative
+Contract which can be provided by answering the attribute
+questions incorporated in Ion Wave.
+We have answered the attribute questions incorporated in Ion Wave. Some of the 
+information requested in Appendix B, Exhibit A is not reflected in the attribute questions; 
+we have therefore provided this information below. 
+3.1 Company 
+B. Total number and location of salespersons employed by Supplier.
+C. Number and location of support centers (if applicable) and location of corporate
+Office.
+Via utilizes a diverse network of global support staff to ensure that our partners and
+services around the world receive 24/7 support. Our core support staff in the US are
+based in Salt Lake City and New York City. Via’s US corporate offices are in New York and
+San Francisco, in addition to field offices across the country.
+D. Annual sales for the three previous fiscal years (Submit FEIN and Dun & Bradstreet
+report)
+Proprietary, Confidential, and Trade Secret Information​
+    RFP No. 25-08  |  43
+=== page 131 ===
+E. Describe any green or environmental initiatives or policies.
+At Via, our commitment to sustainability is deeply embedded in our technology solutions
+and operational practices. Our powerful algorithms and operator tools empower partners
+to create efficient, data-driven transit networks that significantly reduce vehicle miles
+traveled (VMT) through smarter routing and better aggregation of passengers. These
+optimizations not only decrease reliance on high carbon-emitting vehicle trips but also
+expand access to essential mobility services. We also support the integration of electric
+and hybrid vehicles into transit fleets, further promoting cleaner transportation options.
+Moreover, our integrated platforms, including Citymapper and Remix, significantly 
+enhance our environmental initiatives. Citymapper offers users real-time data on public 
+transit, cycling, and walking routes, encouraging greener travel choices. Meanwhile, 
+Remix supports transit planning and service optimization, allowing agencies to design 
+routes that maximize ridership while minimizing environmental impact. Together, these 
+integrated solutions create a comprehensive approach to sustainable mobility that 
+benefits both communities and the environment. 
+H.List any relationships with subcontractors or affiliates intended to be used when
+providing services and identify if subcontractors meet minority-owned standards.
+If any, list which certifications subcontractors hold and certifying agency.
+Via does not intend to use any subcontractors or affiliates when providing services. We
+are happy to discuss the use of subcontractors or affiliates, including those of
+minority-owned standards, to meet the specific local needs of individual purchasing
+members when necessary.
+I. Describe how supplier differentiates itself from its competitors.
+Over the past thirteen years, we have developed the world’s most advanced
+transportation technology system, offering a unique and fully integrated end-to-end
+public transit solution for OMNIA participating entities. Our comprehensive software and
+services package includes advanced route planning algorithms, a fleet management
+module, and user-friendly applications for dispatchers, drivers, and riders, as well as all
+necessary operating services (such as drivers, vehicles, maintenance, and system
+management).
+Proprietary, Confidential, and Trade Secret Information​
+    RFP No. 25-08  |  44
+=== page 132 ===
+What sets us apart in the industry is our ability to seamlessly integrate a wide range of 
+services—such as microtransit, paratransit, NEMT, and fixed-route transportation—into a 
+cohesive ecosystem. This integration extends to mobility-as-a-service (MaaS), street 
+design tools, transit planning software, and scheduling solutions, creating a holistic 
+approach to transportation that maximizes efficiency and coordination. 
+By utilizing our integrated platform and related services, OMNIA participating entities 
+benefit from improved operational efficiency, reduced costs, and enhanced user 
+experiences for both riders and drivers. Our exceptional track record in recruiting and 
+retaining qualified drivers, combined with flexible vehicle sourcing options, enables rapid 
+deployment while ensuring high quality and safety standards. Ultimately, our unique 
+combination of technologies and services empowers transit agencies to provide more 
+effective, accessible, and responsive transportation solutions. 
+3.2 Distribution, Logistics 
+D. Identify all other companies that will be involved in processing, handling or shipping
+the products/service to the end user.
+Via does not work with third-party processing, handling, or shipping companies to
+provide our transportation- and software-as-a-service solutions.
+3.3 Marketing and Sales 
+F. Given the public nature of the solicitation and contract, OMNIA Partners makes
+solicitation and contract documentation, including pricing documents, available on its
+website so Participating Public Agencies may easily conduct their due diligence.
+Describe any portions of the response that should not be available on the website and
+why those portions should not be available.
+Please see “Requested Exemptions from Public Information Act” attachment uploaded in
+the “Other Attachments” section in Ion Wave.
+Q. Describe Supplier’s information systems capabilities and limitations regarding order
+management through receipt of payment, including description of multiple platforms
+that may be used for any of these functions.
+Via’s service-based solutions are tailored to the individual customer, and we therefore do
+not use a platform(s) for the sales process from order management through receipt of
+payment. Once we have executed a contract with a customer, they will be billed on a
+monthly basis with Net 30 payment terms based on actual usage (eg., active vehicles or
+    RFP No. 25-08  |  45

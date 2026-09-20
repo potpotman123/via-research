@@ -1,0 +1,91 @@
+# source: raw/bleecker_drive/Hillsborough County/Completed Contract File.pdf
+# path: raw/bleecker_drive/Hillsborough County/Completed Contract File.pdf
+# hit page: 123 of 199
+# terms: Via+drivers
+
+=== page 122 ===
+●
+End Shift Lateness Heuristic: Identifies rides that exceed or are planned within the last
+hour before shift end
+●
+Rides at Risk Heuristic: Finds rides that are not late but are prone to be late based on
+delay prediction tool
+●
+Long Empty Driver Heuristic: Finds long empty driver times to pickups (i.e. more than X
+minutes) or rides that are preceded by long empty drives
+●
+Long Duration Detour Heuristic: Identifies rides with long duration detour (i.e. onboard
+time), reassigns rides that can be moved to decrease detour times while not impacting
+other quality of service metrics
+●
+Long Distance Detour Heuristic: Finds rides with long distance detour (i.e. onboard
+distance), reassigns rides that can be moved to decrease detour distance while not
+impacting other quality of service metrics
+3.2.3 Integrated Overflow Capabilities for Taxis and Other Providers
+Our platform is also capable of utilizing additional vehicle supply to minimize trip rejections by
+leveraging our trip brokering specialized functionalities. We understand that the County dispatches
+a limited number of rides to a local taxi company. Via can provide overflow dispatch capabilities for
+any local taxi companies that the County chooses to partner with to help streamline overflow
+dispatching and we would be happy to work with the County to evaluate whether a TNC overflow
+partnership would be helpful to the service.
+Illustratively, across North America we manage integrations with several paratransit customers,
+including in Alexandria, Virginia; Hampton Roads, Virginia; and St. John’s, Canada. In Hampton
+Roads, we launched a trip brokering service to send overflow trips to independent contractor
+drivers, which now provide more than 20% of total trips and have helped to enable a 15% drop in
+per-ride costs.
+Via also has a partnership with Uber through which we provide
+software integration into an Uber API, which allows for overflow rides
+to be dispatched to the platform’s drivers. We would be happy to
+discuss this solution further if it is of interest to the County.
+Proprietary, Confidential, and Trade Secret Information
+RFP‐23‐24177 | 19
+=== page 123 ===
+3.3 Dispatching and Operations Management
+The Via Operations Center ՄVOCՅ is the central application designed to manage every aspect of an
+operator's daily workflow. The console features a set of sophisticated automations designed to
+minimize the amount of manual intervention necessary by dispatchers, while still preserving the
+flexibility they need to do their job. The VOC provides customers with best-in-class solutions for:
+3.3.1 Trip Scheduling and Real-time Performance Management
+The Via Hub and Ride Plan provides Hillsborough County staff a map-based interface to monitor
+and control their deployment in real-time. This interface displays real-time vehicle location, vehicle
+load, schedule adherence, driver status, and vehicle status. Notifications alert dispatchers to
+pending issues giving them the option to let the software automatically resolve the issue or to
+manually intervene.
+Our software leverages real-time speed and location data to continuously optimize for on-time
+performance. If the software recognizes that a vehicle is running late to a pickup, and there is
+another vehicle available to reach the pickup quicker, it will automatically reassign the trip and
+notify the riders and drivers.
+If the dispatcher wants to make a manual intervention, the tool provides a simple interface to
+communicate with riders and vehicle operators, access more information about a rider or trip, and
+adjust trip parameters as necessary. As an alternative to preset response options between the
+dispatcher and vehicle operator, the VOC also offers flexible and custom communication features
+that enables all necessary conversation while ensuring the safety of the vehicle’s operator while in
+motion.
+Proprietary, Confidential, and Trade Secret Information
+RFP‐23‐24177 | 20
+=== page 124 ===
+3.3.2. Profile & Eligibility Management
+Our extensive suite of rider, driver, and fleet management features allows administrators to
+manage the workflow of their operations including rider management (such as manual account
+creation when necessary), driver management, shift scheduling, and vehicle tracking. Dispatchers
+can also monitor shift status, visualize shifts across dates and times, and add or edit shifts.
+Client Profile Management: The VOC clearly displays rider/client profiles (called “Rider Profiles” in
+the Via System), each including the rider’s status (active, inactive, suspended), trip history, future
+reserved trips, accessibility and eligibility details, mobility equipment specifications, payment and
+contact information, and other relevant profile data. We can also configure custom fields based on
+the County’s needs, including Social Security Number, client ID, bus swipe card number, and other
+information not already included in the Rider Profile. Rider Profiles also allow administrators to see
+which programs a rider is eligible for and track rider-specific accommodations or “driver notes.”
+Authorized staff can edit information in the customer database or add relevant comments to Rider
+Profiles at any time.
+Eligibility Management: Via’s eligibility management module is designed to help partners increase
+application certification speed and volume, reduce review costs, and provide a user-friendly and
+transparent application experience for riders. Via’s platform provides staff with a workflow to
+review applications, track their status, and move applicants to the next step in the review process.
+Through these eligibility capabilities, riders can only request rides for which they are eligible. In
+addition, we are deeply committed to having the most advanced eligibility product for our
+customers and have plans to continue to invest in enhancing our product and adding new features
+in the coming months. We also incorporate feedback from our customers through our partner
+success program.
+Proprietary, Confidential, and Trade Secret Information
+RFP‐23‐24177 | 21

@@ -1,0 +1,381 @@
+# source: https://legistar1.granicus.com/McKinney/attachments/abb0b9be-9c15-4174-9e04-7b9d82941c25.pdf
+# path: raw/cache/5e92fe54da67feb112756b4c03bca94101b9439a.pdf
+# hit page: 47 of 50
+# terms: Spare Labs
+
+=== page 46 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+do currently, whereas under Scenario 2, almost half of historical trips would end up paying 
+more than they do currently.  
+ 
+Table A2. Statistics of trip price categories in each scenario. 
+ 
+Scenario 
+Trip price 
+category  
+(paid by 
+rider) 
+Average trip 
+price paid by 
+rider ($) 
+Average 
+number of 
+trips per 
+week 
+Proportion of 
+all trips (%) 
+Average trip 
+distance 
+(miles) 
+Scenario 1  
+($2 flat fare) 
+$2 or less 
+1.4 
+52 
+25 
+1.7 
+$2–$4 
+2.9 
+82 
+40 
+4.7 
+$4–$9 
+6.2 
+61 
+29 
+12.6 
+$9+ 
+10.2 
+14 
+6 
+19.7 
+Scenario 2 ($3 
+flat fare) 
+$3 or less 
+1.9 
+97 
+47 
+2.6 
+$3–$5 
+3.7 
+53 
+25 
+6.3 
+$5–$9 
+6.8 
+44 
+21 
+14.6 
+$9+ 
+10.2 
+14 
+6 
+19.7 
+ 
+The sensitivity of riders to transit pricing is traditionally measured using elasticities. 
+Elasticities are the percentage change in consumption resulting from a one-percent change 
+in price, all else held constant.  
+ 
+In the context of transit, a high elasticity value indicates that an individual’s choice to ride 
+transit ​is​ price-sensitive (i.e. a small change in price will dramatically affect how likely they 
+are to ride transit). A low elasticity value indicates that prices have relatively little effect on 
+ridership. Factors that affect transit elasticities include: 
+ 
+●
+User type 
+●
+Trip type 
+●
+Transit type 
+●
+Geography 
+●
+Type of price change 
+●
+Direction of price change 
+●
+Time period 
+ 
+While many of these are outside of the scope of this short study, we account for the 
+direction ​of price change and the ​time period​ of changes. For the ​direction of price change​, we 
+45
+=== page 47 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+note that price change elasticities are asymmetric: that is, an increase in fare will tend to 
+cause greater ridership reduction than the same size fare reduction will increase ridership. 
+We therefore choose asymmetric elasticities. For the ​time period​, we consider the price 
+impacts to be short-run (<2 years), as opposed to medium run (2–5 years) or long-run (5+ 
+years). Short-run impacts are usually estimated to half as severe as long-run impacts.  
+ 
+A wide range of elasticity values are used in transit planning and academic studies to 
+quantify the impact of price changes on transit. A comprehensive review of the literature is 
+provided by Litman (2019) , whose recommendations are summarised by market segment 
+4
+and time period in Table A3.  
+ 
+Table A3. Elasticity values recommended by Litman (2019) for modelling response to transit fare changes. 
+ 
+Market segment 
+Short-term 
+Long-term 
+Overall 
+–0.2 to –0.5 
+–0.6 to –0.9 
+Peak 
+–0.15 to –0.3 
+–0.4 to –0.6 
+Off-peak 
+–0.3 to –0.6 
+–0.8 to –1.0 
+Suburban commuters 
+–0.3 to –0.6 
+–0.8 to –1.0 
+ 
+For our model, we chose an elasticity value of -0.35 for trip categories that will experience 
+an ​increase​ in fare price, and a value of 0.25 for trip categories that will experience a 
+decrease​ in fare price. This assumes short-term impacts, and balances the fact that many 
+different trip types are taken on CCT, from commuting to recreation and socialising. This 
+also closely matches a frequently-used rule-of-thumb, known as the Simpson–Curtin rule, 
+which states that each 3% fare increase reduces ridership by 1%. 
+ 
+To calculate the impact of a fare change in ridership, we first consider the average trip price 
+in each price category as the ‘old price’ (e.g. any rides in the <$2 category are given an ‘old 
+price’ of $1.40, as shown in Table 1). Special care is required when calculating the impacts 
+of large price changes, because each subsequent change impacts a different base in a 
+compound way. Since this effect becomes significant when price changes exceed 50% 
+(which will occur often in CCT’s case), we compute elasticities using the appropriate ‘arc 
+elasticity’ method . As an example, a rise in average fare from $1.40 to $2 equates to a 42% 
+5
+increase; given an elasticity of -0.35, the arc elasticity is calculated as 1.42^(-0.35), multiplied 
+by the old ridership. This results in a 12.5% decrease in ridership.  
+ 
+4 Litman, T. (2019). ​https://www.vtpi.org/elasticities.pdf 
+5 Pratt, R. (2004). http://www.trb.org/TRBNet/ProjectDisplay.asp?ProjectID=1034 
+46
+=== page 48 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+We do not assume a change in the average distances/prices taken in each trip category – 
+we only calculate change in the number of trips taken in each category. In reality, lower 
+prices may encourage riders to take slightly longer trips, which would push up the category 
+averages. However, we assume this effect is relatively negligible to our overall results. 
+ 
+Appendix 4: Simulation run results  
+ 
+Door-to-door simulations 
+ 
+Demand # of Duties 
+Reques
+ts 
+Simulation address 
+Booking 
+success 
+(%) 
+Max 
+Vehicle 
+Occup. 
+PPVH 
+Pooling 
+Ratio (%) 
+Max Wait 
+(mins) 
+Avg. Wait 
+(mins) 
+< 15 Min 
+Wait 
+Avg Trip 
+Distance 
+(km) 
+L 
+3 
+46 
+https://sparelabs-simulation-re
+sults.nyc3.digitaloceanspaces
+.com/03c9de9d-be03-4451-a8
+b0-e5ae1ef8d980.zip 
+89 
+2 
+1.2 
+53.00% 
+53 
+27 
+22.00% 
+19.00 
+L 
+3 
+45 
+https://sparelabs-simulation-re
+sults.nyc3.digitaloceanspaces
+.com/94b0e741-301d-4861-95
+70-75cd78c16c4d.zip 
+87 
+3 
+1.2 
+60.00% 
+58 
+26 
+27.00% 
+19.00 
+L 
+3 
+45 
+https://sparelabs-simulation-re
+sults.nyc3.digitaloceanspaces
+.com/b207b4d7-4379-4de4-ae
+e9-6ec4a27fbdb9.zip 
+87 
+3 
+1.2 
+78.00% 
+60 
+32 
+18.00% 
+19.00 
+L 
+5 
+51 
+https://sparelabs-simulation-re
+sults.nyc3.digitaloceanspaces
+.com/0678bda9-686a-4143-93
+cd-08239ac196c9.zip 
+98 
+3 
+0.8 
+44.00% 
+42 
+19 
+45.00% 
+19.00 
+L 
+5 
+52 
+https://sparelabs-simulation-re
+sults.nyc3.digitaloceanspaces
+.com/1f06b506-600c-43bd-85f
+2-7a1497c3218b.zip 
+97 
+3 
+0.8 
+42.00% 
+59 
+23 
+30.00% 
+19.00 
+L 
+5 
+52 
+https://sparelabs-simulation-re
+sults.nyc3.digitaloceanspaces
+.com/d07335c7-c303-4a99-8a
+c0-cfbc4c0ce8f2.zip 
+100 
+2 
+0.8 
+56.00% 
+42 
+18 
+37.00% 
+19.00 
+M 
+4 
+60 
+https://sparelabs-simulation-re
+sults.nyc3.digitaloceanspaces
+.com/0f3a52d7-b855-4598-b9
+1c-77bf3067e316.zip 
+92 
+4 
+1.2 
+27.00% 
+55 
+25 
+34.00% 
+19.00 
+M 
+4 
+63 
+https://sparelabs-simulation-re
+sults.nyc3.digitaloceanspaces
+.com/9b0eeed1-60a3-48e2-85
+dc-92c21361da9f.zip 
+97 
+3 
+1.2 
+61.00% 
+60 
+26 
+19.00% 
+19.00 
+M 
+4 
+61 
+https://sparelabs-simulation-re
+sults.nyc3.digitaloceanspaces
+.com/6114bc9c-aa5c-41b7-aa
+fa-147f3376b7ad.zip 
+94 
+3 
+1.2 
+74.00% 
+60 
+28 
+22.00% 
+19.00 
+M 
+6 
+64 
+https://sparelabs-simulation-re
+sults.nyc3.digitaloceanspaces
+.com/025b6c61-1b37-408f-b8
+52-0135c805f0b5.zip 
+99 
+3 
+0.8 
+50.00% 
+41 
+16 
+49.00% 
+19.00 
+M 
+6 
+62 
+https://sparelabs-simulation-re
+sults.nyc3.digitaloceanspaces
+.com/64b7ea32-fb57-499a-ab
+2b-fc363b239bff.zip 
+96 
+2 
+0.8 
+55.00% 
+47 
+16 
+52.00% 
+19.00 
+M 
+6 
+63 
+https://sparelabs-simulation-re
+sults.nyc3.digitaloceanspaces
+.com/efe3bfa0-b244-4221-993
+9-64fdd38f23b1.zip 
+97 
+3 
+0.8 
+56.00% 
+42 
+15 
+67.00% 
+19.00 
+H 
+4 
+69 
+https://sparelabs-simulation-re
+sults.nyc3.digitaloceanspaces
+82 
+3 
+1.3 
+48.00% 
+61 
+29 
+25.00% 
+19.00 
+47

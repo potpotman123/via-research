@@ -1,0 +1,113 @@
+# source: raw/bleecker_drive/Hillsborough County/Completed Contract File.pdf
+# path: raw/bleecker_drive/Hillsborough County/Completed Contract File.pdf
+# hit page: 136 of 199
+# terms: Via+drivers
+
+=== page 135 ===
+Routematch Migrations:
+●
+Peterborough, Ontario
+●
+Charlotte Area Transit System, NC
+●
+Intercity Transit, WA
+●
+Mountain Line, Montana
+●
+Flathead County, Montana
+●
+Tyler Transit, TX
+●
+St. John’s, Newfoundland and Labrador
+●
+Baldwin County, Alabama
+●
+Shasta County, California
+●
+Richland County, Montana
+●
+Alexandria, Virginia
+●
+Gloucester, Ohio
+●
+Dallas County, Iowa
+●
+Rochester, New York
+●
+Champaign-Urbana, Illinois
+●
+Salem, Oregon
+●
+Henry County, Georgia
+For a seamless transition from their legacy paratransit service, we can import data from the
+County’s existing Routematch databases into our system. Via’s in-house Data Science team will
+work directly with staff to conduct the following four-step data migration process:
+●
+Step 1 - Knowledge sharing & data scoping. We will perform extensive scoping to assess
+existing datasets to determine what data needs to be migrated. Via’s team is highly familiar
+with the process of obtaining data from the Routematch platform.
+●
+Step 2 - Data evaluation. We will evaluate data formatting, the speed of data imports, and
+the need for additional data fields and product features to support the migration. We have
+a fully-built internal tool to clean and convert Routematch data into a format compatible
+with Via’s system.
+●
+Step 3 - Initial data migration, quality assurance ՄQAՅ, and validation. We will upload an
+initial data set, and perform extensive QA to evaluate the success of the migration and
+confirm the system’s readiness for bulk uploads. Our team will also perform data validation
+to ensure the data makes sense (e.g., the geographic location of pickups).
+●
+Step 4 - Full migration, QA, validation, and field testing. We will upload the entire data set,
+perform QA and validation, as well as extensive live field testing.
+●
+Step 5 - Change Management and Training. We recognize that County staff may be used
+to working with data in a particular way within the Routematch system, such as manually
+geocoding new addresses or managing paper manifests. We offer change management
+workshops to train staff in Via’s automated systems and build trust in our various tools.
+This process will ensure a successful migration of data to the Via Platform, and enable us to
+convert the County’s service with minimal disruptions.
+Proprietary, Confidential, and Trade Secret Information
+RFP‐23‐24177 | 32
+=== page 136 ===
+3.6.4 Training
+Via has trained tens of thousands of system users and drivers across our global deployments.
+Leveraging this experience, we will develop a customized hands-on training program to ensure
+that all relevant personnel — including drivers, customer support representatives, and
+administrative staff — are equipped to use the Via platform and operate the service successfully.
+We will supplement the live training workshops with a suite of written training documents tailored
+to the County’s needs, and training manuals for the County’s team to have the information at their
+fingertips.
+Sessions will consist of a combination of “classroom” and “hands-on” training and Via will provide
+all software necessary and electronic copies of product software manuals. We can train as many
+employees as the County deems appropriate. Training can be tailored to the County’s needs and
+key steps include:
+Training Introduction Workshop:
+High-level overviews of the Rider App, Driver App, and administrative tools
+Overall Systems Training:
+Workshops for using the Via Operations Center, Driver App and Rider App
+Paratransit Scheduling and Dispatch Training Մ3 sessions ):
+Detailed workshops for schedulers and dispatchers who are taking reservations,
+preparing pre-scheduled manifests, and monitoring and managing day of service
+operations
+Proprietary, Confidential, and Trade Secret Information
+RFP‐23‐24177 | 33
+=== page 137 ===
+Advanced Administrative Tools:
+Training for advanced administrative functions, such as inputting road closures
+and adjusting operational settings / configurations
+Data and Reporting Training:
+Workshops for understanding and leveraging the data through our various
+dashboards, reports, S3 bucket, and best practices for marketing and growing
+the service
+Driver Training:
+Workshop to train both paratransit and microtransit drivers, can be broken up
+into multiple sessions to accommodate driver schedules if necessary
+Rider-Centric Tools Training:
+Workshops focused on usage of rider centric tools so that staff can help driver
+adoption and support rider community questions and needs
+In addition, our dedicated Partner Success Manager will provide additional follow-up resources
+and refresher training at any time upon the County’s request and our 24/7 technical support team
+will be available to address any questions. We look forward to further discussing our training
+offerings with the County to best understand and meet their needs.
+Proprietary, Confidential, and Trade Secret Information
+RFP‐23‐24177 | 34

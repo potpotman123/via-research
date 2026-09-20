@@ -1,0 +1,210 @@
+# source: raw/bleecker_drive/Lee County/RFP250034SML Via Mobility Executed.pdf
+# path: raw/bleecker_drive/Lee County/RFP250034SML Via Mobility Executed.pdf
+# hit page: 156 of 171
+# terms: Via+fleet
+
+=== page 155 ===
+Yes
+Via's system includes solutions for 
+fare payment, and allows riders to pay 
+through a range of methods 
+— including credit / debit card, cash, 
+voucher, or transit pass. If a rider is 
+paying by cash or transit pass (such 
+as a tap-to-pay system), the driver 
+will be notified and prompted to 
+collect payment from the rider upon 
+boarding the vehicle. In many of our 
+services, we integrate with local fare 
+payment systems, enabling riders to 
+use the same payment method they 
+would use to pay for fixed-route 
+services. 
+Via has extensive experience 
+integrating with a range of third-party 
+payment systems and services to 
+support payment processing for ease 
+of customer use. We can recommend 
+payment processing systems to 
+LeeTran — such as Stripe or 
+Braintree — or integrate with a pre-
+selected payment system of LeeTran's 
+choosing.  
+Yes
+Via's proprietary shared rider 
+matching algorithms are the heart 
+of our solution. Our platform 
+intelligently groups riders traveling 
+in the same direction to produce 
+efficient shared rides where 
+appropriate. Our algorithms, called 
+the ViaAlgo, optimize vehicle 
+routing and rider matching to 
+efficiently aggregate trips, improve 
+subsidy per ride, and facilitate data 
+reporting.
+Yes
+Leetran's User Administration may 
+add or remove authorized isers to 
+the LeeTran Agency Account.
+Does your system include a payment process formatted for 
+reporting delivery method (API Integration) for passengers to 
+utilize the app for payment or paying cash on the vehicle?
+Does your system have a shared rider matching algorithm to 
+improve subsidy per ride and data reporting?
+Does your system have the ability for LeeTran’s User 
+Administration to add or remove authorized users to LeeTran 
+Agency Account?
+4
+EXHIBIT E - PROJECT FUNDING PACKAGE
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7
+=== page 156 ===
+Yes
+Via's solution provides simplified 
+access to a unified operations 
+dashboard that integrates LeeTran-
+specific data for scheduling, 
+dispatching, and real-time vehicle 
+tracking. The Via Operations 
+Center (VOC) will allow LeeTran 
+to better understand rider travel 
+patterns by monitoring live service 
+in real time, leveraging key 
+performance indicators such as 
+OTP, potential issues or delays, 
+and more. The Via Platform will 
+allow LeeTran to configure 
+services to their exact 
+specifications, including 
+operational tools, quality of service 
+parameters and service delivery 
+thresholds, hours of operation, 
+maximum wait times, and 
+geographic service areas.
+Yes
+Via allows riders to submit 
+feeback in real time, 24 hours/7 
+days a week, 365 days a year 
+thorugh the Rider App or rider-
+facing website, which is accessible 
+via Chrome. After every trip, riders 
+can assign a rating to their 
+experience and choose from a 
+menu of configurable, pre-selected 
+descriptions correlated to the star 
+rating. Riders are also provided 
+with freeform fields if they want to 
+give more detailed responses. 
+Additionally, custom rider surveys 
+can be deployed to understand 
+specific and recurring rider 
+concerns and gather qualitative 
+data. All rider feedback is stored 
+separately from names and other 
+identifying information, ensuring 
+the privacy of riders in this service.
+Yes
+Via's Administrative and 
+Dispatcher user interface, the Via 
+Operations Center (VOC), is 
+simple, intuitive, and easy to use. 
+LeeTran Administrators can easily 
+create new accounts for instant 
+login to the VOC. The VOC also 
+enables LeeTran Administrators to 
+create new accounts for riders to 
+log into the Rider App or web 
+portal.
+Does your system provide agency specific data and dashboard 
+information to better understand rider travel patterns to include 
+customization and configurability features for the Fleet Tool and 
+other operational tools?
+Does your system allow real time rider feedback on quality issues 
+via mobile application and access to book trips via an app, 
+provided any time of day (24 hours/7 days a week, 365 days a 
+year) via Chrome?
+Does your system provide Administrative and Dispatcher user 
+interface? If so, is the interface simple, intuitive, and easy to use? 
+Will the system allow a LeeTran Administrator the ability to 
+create new accounts for instant logins
+5
+EXHIBIT E - PROJECT FUNDING PACKAGE
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7
+=== page 157 ===
+Yes
+The Via Platform is accessible by an 
+unlimited number of users and 
+employs role-based security 
+protocols, limiting access based on 
+the principle of least privilege and 
+ensuring that users are granted access 
+only to the information and system 
+components necessary for their 
+specific roles. The Via System 
+supports concurrent logins with no 
+degradation of performance. Below, 
+we have provided a list of sample 
+roles and permissions:  
+• LeeTran Administrator: Can access 
+and edit all LeeTran system 
+configurations and service data. Can 
+add/remove users to the LeeTran 
+Agency Account.
+• Dispatcher/Scheduler: Can create 
+and edit driver shifts, assign them to 
+vendors, drivers, assign any 
+restrictive logic (i.e. break logic, geo-
+restrictions, client subgroups able to 
+receive trips with, etc), and manually 
+override trip assignments in the 
+system.
+• Viewer: Can visualize select
+Yes
+The Via System allows for backup 
+and protection for a minimum of 
+five years.
+Yes
+Our software is fully compatible 
+with LeeTran’s Samsung TabA 
+tablets. As new features, upgrades, 
+and versions become available, we 
+update our software at no 
+additional cost, which means that 
+LeeTran will always be utilizing 
+the latest approved and beta-tested 
+software.
+Yes
+Our software is able to integrate 
+with existing systems, including 
+LeeTran’s Samsung TabA tablets 
+and any Android mobile device 
+with an operating system of at least 
+Android 5.0.
+Yes
+Via's technology is built for 
+integrations. We can integrate with 
+third party APIs by either utilizing 
+available documentation or having 
+direct interaction with the third 
+party for solution co-definition. 
+We can accommodate any 
+standard industry practice (e.g. 
+REST API, Webhooks, etc) and 
+data formats (e.g. JSON, XML, 
+CSV, etc).
+Does your system unlimited account privileges (drivers 
+dispatcher/scheduler, viewer, administrator, etc.) and a minimum 
+of twenty-five staff access? Does the system support concurrent 
+logins with no degradation of performance?
+Does your system allow for backup and protection for a 
+minimum of five years? 
+Is your software the most current version and compatible with the 
+specified hardware? Will you be able to ensue that LeeTran is 
+utilizing the latest approved and beta-tested software ?
+Does the produce/software have the ability to integrate with 
+existing systems to include LeeTran Android tablets?
+Is you firm flexible and willing to create APIs (Application 
+Programming Interface) and cross-platform solutions?
+6
+EXHIBIT E - PROJECT FUNDING PACKAGE
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7

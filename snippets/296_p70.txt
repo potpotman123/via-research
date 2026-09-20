@@ -1,0 +1,42 @@
+# source: raw/bleecker_drive/0.0 OMNIA Cooperative Agreement/R250802_Via_Transportation_MAD_Redacted_081825_01.pdf
+# path: raw/bleecker_drive/0.0 OMNIA Cooperative Agreement/R250802_Via_Transportation_MAD_Redacted_081825_01.pdf
+# hit page: 70 of 191
+# terms: Via+drivers
+
+=== page 69 ===
+
+=== page 70 ===
+We are also able to draw on the broader Via team’s experience implementing, operating, 
+and optimizing transit systems in a diversity of contexts around the world to create 
+recommendations that are informed by unparalleled real-world knowledge. Leveraging 
+these advantages, Via Strategies’ areas of expertise include: 
+On-Demand (Microtransit and Paratransit) Service Planning 
+Via’s proven service planning methodology guides our partners through a structured 
+process, broad enough to ensure no use-case opportunity is missed while detailed 
+enough to produce a clear path to deployment if desired. Our planning is driven by our 
+proprietary simulation tool, a core component of our service planning offering, which 
+allows Via to test permutations of potential services and clarify complex trade-offs 
+between quality of service (QoS) and operational efficiency. Through simulations, we 
+clarify complex trade-offs between the quality of service and eﬃciency. Some of the tool’s 
+outputs include metrics of expected wait times, ﬂeet size to meet varying demand 
+scenarios, ride aggregation predictions, and more. Via also has highly specialized 
+experience planning and operating paratransit services. We understand many of the 
+operational challenges of delivering paratransit services and the drivers of service costs, 
+experience that informs our analysis and recommendations for paratransit feasibility and 
+efficiency studies. We have particular expertise in developing recommendations for 
+human services transportation and paratransit — programs that serve seniors, individuals 
+with disabilities, and other vulnerable populations. 
+    RFP No. 25-08  |  33
+=== page 71 ===
+Via often creates maps of service zones to ensure stakeholders can easily understand the zone 
+boundaries. The example to the right is taken from a recent project in Las Vegas, NV. 
+Fixed-Route Transit Planning and Scheduling 
+By leveraging the world’s leading collaborative transit planning software, Remix, we are 
+able to quickly generate routes and understand costs, coverage, and demographics 
+served by different route variations. We have a deep understanding that transit planning 
+requires tradeoffs between coverage-oriented and ridership-oriented services, and help 
+partners strike an effective balance between the two. 
+Via develops plans and schedules for multimodal transportation networks. The 
+map above shows a network in Summit County, UT that was planned by Via 
+Strategies. Via’s design team also developed the map itself. 
+    RFP No. 25-08  |  34

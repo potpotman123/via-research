@@ -1,0 +1,134 @@
+# source: raw/bleecker_drive/Arlington, Texas/FTA-Report-No-0244.pdf
+# path: raw/bleecker_drive/Arlington, Texas/FTA-Report-No-0244.pdf
+# hit page: 40 of 74
+# terms: Via+vehicles
+
+=== page 39 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+30
+SECTION  | 3 
+Figure 3-12 Survey Responses: Modes of Transportation Used in Addition to RAPID (n=261)
+Survey questions about RAPID trip experiences asked respondents how strongly 
+they agreed with various statements, with response choices of strongly agree, 
+agree, neutral, disagree, strongly disagree, and not applicable. RAPID riders 
+reported high levels of satisfaction with most aspects of the trip experience, as 
+shown in Table 3-3 where responses of strongly agree, agree, and neutral are 
+reported (excluding disagree, strongly disagree, and not applicable responses). 
+Respondents rated key trip elements highly, including easy booking (92 percent 
+agree), easy boarding (96 percent agree), and seat comfort (98 percent agree). 
+Lowest rated elements included reasonable wait time (80 percent agree) and 
+pickup and drop off locations were convenient (83 percent agree), which may 
+be due to the high demand experienced during a majority of the demonstration 
+and the nature of shared rides with aggregated pickup and drop off locations. 
+Notably, 97 percent of respondents agreed that they felt safe riding RAPID, 94 
+percent agreed that they felt safe while sharing a ride on RAPID, and 98 percent 
+agreed that they would ride RAPID again in the future. 
+Table 3-3 Survey Responses: RAPID Trip Experience (n=298)
+Question
+Riders who Agree
+Booking and scheduling my RAPID trip using the Via app was easy
+92%
+The price for riding RAPID was reasonable
+96%
+The wait time was reasonable
+80%
+The pick-up and drop-off locations were convenient
+83%
+Boarding the vehicle was easy
+96%
+The seats in the vehicle were comfortable
+98%
+The climate control in the vehicle was appropriate
+93%
+=== page 40 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+31
+SECTION  | 3 
+Question
+Riders who Agree
+The speed of the vehicle was reasonable
+92%
+I felt safe when riding RAPID
+97%
+I felt safe while sharing the vehicle on my RAPID ride with other passengers
+94%
+I would ride RAPID again in the future
+98%
+Survey questions about sociodemographic characteristics show the following of 
+RAPID riders:
+•	 79 percent report being non-white
+•	 56 percent report having an annual household income of less than $20,000
+•	 47 percent report having no access to a personal vehicle
+•	 79 percent report being a UTA student
+•	 54 percent report being 18-24 years old
+•	 68 percent report being male
+To receive more in-depth feedback regarding rider experiences on RAPID, the 
+UTA research team conducted individual interviews with 11 people after the 
+conclusion of the demonstration. Of these 11 interviewees, seven had ridden 
+RAPID and six out of these seven were UTA students. While the interview results 
+are not representative of all RAPID riders, some key insights resulted from the 
+interviews. Like the survey findings, interviewees reported satisfaction with 
+using the Via app to book RAPID rides and found RAPID rides to be comfortable. 
+They also reported some issues with longer wait times for some rides, as well 
+as receiving aggregated pickup and drop off locations, rather than at their 
+exact desired locations. Interviewees also raised some questions about the 
+ability of the AV technology to perform in all areas and situations in the service 
+area, such as needing the AVOs to take over in manual mode for some turns. 
+They did report several benefits of the RAPID service and AV technology more 
+broadly, including the ability to multitask while riding, affordability, safety 
+improvements, and environmental benefits of shared AVs. Interviewees also 
+reported some concerns about general lack of trust in AV technology and 
+challenges with communication once AVOs are removed from the vehicles, but 
+notably, while some interviewees reported feeling skeptical about riding in AVs, 
+they stated that they became more confident after experiencing the technology 
+firsthand and having an opportunity to ride and understand how AVs work. 
+In addition to conducting individual interviews, the UTA research team also held 
+a focus group to discuss the service after the conclusion of the demonstration. 
+A total of four participants attended the focus group, of which one had ridden 
+RAPID and three had not ridden RAPID. While the size of the focus group limits 
+representativeness to all RAPID riders, the group discussion yielded some 
+helpful insights and feedback. Some challenges with automated and shared
+=== page 41 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+32
+SECTION  | 3 
+services that were discussed include wait times when booking a ride, walk 
+distances to pick-up locations, and the inability to serve a large geographic area. 
+The benefits of the service discussed by the group include increasing options 
+for mobility, environmental benefits of shared and hybrid electric vehicles, and 
+greater flexibility compared to fixed-route services. Awareness of the service 
+was mentioned as a barrier to using the service, suggesting that marketing 
+campaigns must be robust with new transportation services. Additionally, price, 
+geographic coverage, and convenience were mentioned as key factors for riders 
+when they make decisions about which transportation modes to use.
+Software Updates 
+Several software updates were released by May Mobility to the RAPID vehicle 
+fleet during the demonstration. Software updates included both proactive 
+elements developed by the May Mobility team, such as new vehicle health 
+monitors and new dash displays, as well as elements developed in response 
+to data collected during service, such as updates to maps due to changes in 
+the operating environment or to improve the ride feel for passengers. These 
+updates led to noticeable improvements in automated performance in the 
+Arlington service area. The following list provides a summary of the key software 
+updates made and their impacts:
+•	 May 2021: software update related to traffic light detection, allowing the 
+vehicles to better read traffic lights, and decreasing times when AVOs 
+needed to intervene manually to navigate intersections with traffic lights
+•	 July 2021: software update related to the tracking of other vehicles on 
+multilane roads to improve prediction of the future paths of other vehicles
+•	 August 2021: software update related to adjusting deceleration zone for Avs 
+following other vehicles, for improved safety and performance
+•	 December 2021: software update related to vehicle movement in lanes and 
+around curves, as well as improved prediction of other objects around the 
+vehicles
+•	 March 2022: software update related to allowing vehicles to stay in full 
+automated mode at passenger stops
+Operational Changes 
+There were several operating changes made to the RAPID service during the 
+demonstration, based largely on rider feedback. When the service launched 
+in March 2021, the project team instituted several COVID-19 health and safety 
+measures, including partitions between the AVO and rider spaces, UV-C light 
+disinfection between each ride, and single-ride bookings only. In July 2021, 
+due to improved health conditions, the project team decided to remove the 
+partitions, discontinue UV-C light disinfection between each ride (although this 
+disinfection was still done several times throughout the day), and allow shared-

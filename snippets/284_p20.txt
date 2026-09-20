@@ -1,0 +1,75 @@
+# source: raw/bleecker_drive/Arlington, Texas/FTA-Report-No-0244.pdf
+# path: raw/bleecker_drive/Arlington, Texas/FTA-Report-No-0244.pdf
+# hit page: 20 of 74
+# terms: Via+vehicles
+
+=== page 19 ===
+Section 3 
+	
+FEDERAL TRANSIT ADMINISTRATION 	
+10
+RAPID Project Evolution 
+The RAPID project underwent several key changes and evolutions as the project 
+team studied, prepared, operated, and refined the service. Discussion of these 
+changes is addressed in the following subsections, focused on evolution in the 
+one-year preparation for demonstration phase and the one-year demonstration 
+phase. This section then concludes with a summary of key challenges addressed 
+and overcome during the project.
+Evolution in the Preparation for 
+Demonstration Phase
+Key elements addressed during preparation for demonstration phase include:
+•	 Defining the service area and route mapping
+•	 Establishing operational parameters
+•	 Communications and outreach
+•	 Research activities
+Service Area and Route Mapping 
+The general desired service area for RAPID was established during the IMI 
+application stage (Figure 3-1); however, when funds were awarded and the 
+project began, refinement to the service area was necessary. Key factors that 
+contributed to the refinement of the service area include analysis of existing 
+public transportation ridership patterns in and around the service area and 
+analysis of autonomy technology performance. The project team analyzed 
+ridership data from 2019 for Arlington’s Via rideshare service, paratransit 
+service, and the UTA campus shuttle service to identify key origin and 
+destination locations and other common travel patterns in the service area. 
+Findings from this analysis supported efforts to provide convenient service 
+on RAPID to key destinations on campus, such as the UTA student center and 
+gym, and to student housing developments both on- and off-campus, as well as 
+downtown Arlington destinations, including the city library.  
+May Mobility staff began with a high-level, virtual review of the proposed service 
+area to identify drivable streets and desired stop locations, while analyzing the 
+existing built environment for autonomy technology performance. This initial 
+analysis resulted in a proposed network of streets that could be utilized by the 
+RAPID service, as well as areas served. The project team provided comments, 
+including on-the-ground information about city construction projects and UTA 
+operations, to refine the proposed network. The existing transportation data 
+and analysis was also incorporated at this stage, to ensure the route network 
+aligned with rider demand patterns.
+=== page 20 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+11
+SECTION  | 3 
+Figure 3-1 Proposed Service Area from Arlington’s IMI Application 
+May Mobility staff then traveled to Arlington for in-person review of the 
+proposed route and stop locations. This included reviewing traffic patterns, 
+speed limits, road quality, traffic light positions, construction projects, and 
+pedestrian traffic. Stop locations were evaluated for safety and clear paths for 
+riders to enter and exit the vehicles. A summary of the findings from this visit 
+were discussed with the entire project team to finalize the service area and 
+route network through an iterative process. Some roadways within the service 
+area were unable to be used for the automated route network, due to high 
+speeds, heavy tree cover, or lack of built structures, which can prevent good 
+localization of the vehicles. A route network and stop map is shown in Figure 
+3-2, which was developed and reviewed extensively by the internal project 
+team. A public-facing service area map was also created and is shown in Figure 
+3-3. Stop locations for the AV service were not marked or shown publicly, as the 
+project team wanted the service to feel organic and on-demand for riders, like 
+the broader Via rideshare service. Over 35 stops were programmed in the one-
+square-mile service area, so no matter where a rider booked, there would be a 
+stop location within a short walk.
+=== page 21 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+12
+SECTION  | 3 
+Figure 3-2 Internal Route Network and Stop Map
+Figure 3-3 Public-Facing RAPID Service Area Map

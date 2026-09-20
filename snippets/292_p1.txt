@@ -1,0 +1,110 @@
+# source: raw/bleecker_drive/Arlington, Texas/22-0031R1_VIA_Staff_Report_120924__1_.pdf
+# path: raw/bleecker_drive/Arlington, Texas/22-0031R1_VIA_Staff_Report_120924__1_.pdf
+# hit page: 1 of 3
+# terms: River North Transit, Via Transportation, Via+fleet, Via+not to exceed, Via+not-to-exceed, Via+per trip, Via+vehicles
+
+=== page 1 ===
+Staff Report
+                
+Renewal and Modification of Contract for On-Demand Rideshare 
+Service, Project 22-0031
+City Council Meeting Date: 12-17-2024
+Document Being Considered:  Resolution
+RECOMMENDATION
+Approve a resolution authorizing the City Manager or his designee to execute the first renewal 
+and modification of the contract for an on-demand rideshare River North Transit, LLC., of New 
+York, New York (“Via”) for an amount not to exceed $20,791,648.32. River North Transit, 
+LLC. is not a MWBE firm.
+PRIOR BOARD OR COUNCIL ACTION
+On May 23, 2023, City Council approved Resolution No. 23-138 authorizing the execution of 
+an Amendment #1 to the On-Demand Rideshare Contract with River North Transit, LLC., of 
+New York, New York ("Via") in an amount not to exceed $164,984, to include paratransit 
+software services and creation of a Vietnamese language smart phone application.
+On November 29, 2022, City Council approved Resolution No. 22-335 authorizing the 
+execution of a two-year OnDemand Rideshare Service Contract, with four optional two-year 
+renewals, for a demand response rideshare service with River North Transit, LLC., of New 
+York, New York, for an amount not to exceed $30,247,642.
+Other previous City Council action to approve the execution of agreements with Via 
+Transportation, Inc., of New York has taken place through: Minute Order No. 11072017-020,
+Resolution No. 18-313, Resolution No. 19-325, Resolution No. 20-197, Resolution No. 20-
+280, Resolution No. 21-293, Resolution No. 22-109, Resolution No. 22-277, and Resolution 
+No. 21-282.
+ANALYSIS
+In support of City Council’s "Enhancing Regional Mobility" priority, the City partnered with Via
+Transportation, Inc., to launch an on-demand rideshare service on December 11, 2017 to 
+offer an additional mobility option for residents, employees and visitors. The contract was 
+renewed annually through 2022. At that time, a competitive procurement process was 
+undertaken, River North Transit (Via Transportation) was selected and a two-year contract 
+was executed. The two-year contract contains provisions for up to four, two-year renewals. 
+This contract expires December 31, 2024.
+The app-based Arlington On-Demand rideshare service currently uses a fleet of up to 65 six-
+passenger vehicles, a smart phone application and dynamic routing to provide efficient on-
+demand trips and access to a wide range of destinations. The current service area includes
+the Arlington city limits, the CentrePort TRE Station, and two Trinity Metro bus lines located 
+on Eastchase Parkway in Fort Worth. The current rate structure allows riders to access any 
+destination within the service area from 6a.m. to 9p.m., Monday through Friday and from 
+9a.m. to 9p.m. on Saturdays for $3.00 to $5.00 per person per trip, depending on distance 
+traveled. Riders can also purchase a weekly ViaPass for a current cost of $25 for up to four 
+rides per day for the week and a monthly ViaPass for a current cost of $80 for up to four rides
+per day for 30 days. 
+The total cost for two years of On-Demand rideshare service is $18,588,845.60. Funding for 
+this service will come from a mix of farebox revenue, Federal Transit Administration (FTA)
+funding, and City funding. In addition to the On-Demand rideshare service costs, four other 
+related Via services are expected to be implemented through this contract renewal.
+=== page 2 ===
+Page 2 of 3
+In October 2023, the City transitioned the Handitran elderly and disabled service to the Via 
+software platform in order to provide a unified software platform for both the On-Demand 
+rideshare service and the Handitran service. This unified software platform allows riders to 
+access both services through one application, improves data reporting and analytics, and 
+yields efficiencies. The total cost for two years of Handitran software services is $284,229.12.
+The City was awarded a $1,126,873 grant from the North Central Texas Council of 
+Governments (NCTCOG) to pilot a dynamic direct route service that will complement the 
+existing On-Demand service. During periods of peak ridership demand, a number of vehicles 
+will operate on a predictable schedule and route connecting downtown Arlington and the 
+University of Texas at Arlington (UTA) campus with the CentrePort TRE Station. The dynamic 
+direct route pilot will be designed to optimize service efficiency and provide a streamlined 
+experience for riders to these common destinations. The pilot is expected to operate for three 
+years. The total cost for two years of this service is $1,086,860.25. 
+The City was also awarded a $4,560,000 grant from NCTCOG for the RAPID autonomous 
+vehicle project. The City expects to use the NCTCOG grant funding to pay Via up to 
+$816,713.35 during this contract term for the remaining scheduled deployment. No City funds 
+are expected to be required for the NCTCOG funded project.
+Finally, the City was awarded a $144,000 grant from the University of Minnesota for the 
+Mobility, Access, and Transportation Insecurity Program. These funds will be used to support 
+the Healthy Arlington Innovative Mobility (Healthy AIM) pilot project. Via will provide access 
+to a custom booking tool that local healthcare nonprofit organizations can use to book rides 
+on the Arlington On-Demand service for their clients. The City will pay Via up to $15,000 in 
+grant funding for this project. 
+The Texas Attorney General has previously ruled that certain information in the Via contract 
+is confidential and cannot be disclosed to the public, and therefore a redacted copy of the 
+contract is included in the agenda packet. 
+Name of Prime Vendor (1)
+River North Transit, LLC
+Total Contract Value
+$20,791,648.32
+Prime Vendor’s MWBE Status
+None
+Dollar Amount of Prime Vendor’s Self-Performance
+$20,762,626.14
+Percentage Amount of Prime Vendor’s Self-Performance
+99.86%
+Name of Subcontractor (1) 
+Holt Communications, Inc.
+Subcontractor’s MWBE Status & Trade
+None (DBE) / Public Relations
+Dollar Amount of Subcontractor’s Performance
+$29,022.18
+Percentage Amount of Subcontractor’s Performance
+.14%
+Total DBE Participation
+$29,022 (.14%)
+The Office of Business Diversity (OBD) adopted the Disadvantaged Business Enterprise (DBE) 
+goal of .14% that was set by the Federal Transit Administration (FTA). River North Transit, 
+LLC, has agreed to utilize .14% DBE participation. Based on the approval from the FTA, River 
+North Transit, LLC, has met the City’s MWBE policy.
+FINANCIAL IMPACT
+The Transportation Department and the Finance Department have determined that it is in the 
+City’s best interest to execute a two-year renewal of the on-demand rideshare contract. Funds 
+are available in the Transportation Department Grant Account No. CC418604-61000-SC0533-
+GR000018.

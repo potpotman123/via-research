@@ -1,0 +1,155 @@
+# source: raw/bleecker_drive/Baldwin/RFP Tabulation.pdf
+# path: raw/bleecker_drive/Baldwin/RFP Tabulation.pdf
+# hit page: 1 of 1
+# terms: Spare Labs
+
+=== page 1 ===
+REQUEST FOR PROPOSALS (RFP) FOR MICRO-TRANSIT SOFTWARE FOR PUBLIC TRANSPORTATION
+RFP TABULATION
+VENDOR
+Spare Labs, Inc.
+Item
+Description
+Year 1
+Year 2
+Year 3
+A
+Base Operating Cost Per
+ $   19,200.00  $     20,160.00  $    21,168.00 
+B
+Operating Cost per Vehicle (1-30)
+ $     2,800.00  $       2,940.00  $      3,087.00 
+C
+Operating Cost per Additional Vehicle (30+)
+ $     3,300.00  $       3,465.00  $      3,638.25 
+D
+Transition Costs
+ $   15,378.00 
+ $                  -    $                -   
+E
+Other Costs
+ $                -    $                  -    $                -   
+F
+Annual Service/Maintenance Cost
+ $   12,000.00  $     12,600.00  $    13,230.00 
+VENDOR
+Ecolane USA, Inc.
+Item
+Description
+Year 1
+Year 2
+Year 3
+A
+Base Operating Cost Per
+ $     2,365.00 
+ $                  -    $                -   
+B
+Operating Cost per Vehicle (1-20)
+ $     2,365.00 
+ $                  -    $                -   
+C
+Operating Cost per Additional Vehicle (20+)
+ $     2,365.00 
+ $                  -    $                -   
+D
+Transition Costs
+ $   34,980.00 
+ $                  -    $                -   
+E
+Other Costs
+ $ 106,635.25 
+ $                  -    $                -   
+F
+Annual Service/Maintenance Cost
+ $                -    $     34,800.15  $    34,800.15 
+VENDOR
+HBSS Connect Corp.
+Item
+Description
+Year 1
+Year 2
+Year 3
+A
+Base Operating Cost Per
+ $     5,309.46 
+ $                  -    $                -   
+B
+Operating Cost per Vehicle (1-20)
+ $     3,215.73 
+ $                  -    $                -   
+C
+Operating Cost per Additional Vehicle (20+)
+ $     5,060.00 
+ $660.00* 
+ $686.40* 
+D
+Transition Costs
+ $     6,105.00 
+ $                  -    $                -   
+E
+Other Costs
+ $   12,000.00  $     12,000.00  $    12,000.00 
+F
+Annual Service/Maintenance Cost
+ $   15,928.38  $     16,565.51  $    17,228.13 
+VENDOR
+Kevadiya Inc.
+Item
+Description
+Year 1
+Year 2
+Year 3
+A
+Base Operating Cost Per
+ $   12,000.00  $     12,250.00  $    12,500.00 
+B
+Operating Cost per Vehicle (1-20)
+ $   12,000.00  $     12,000.00  $    12,000.00 
+C
+Operating Cost per Additional Vehicle (20+)
+ $        900.00  $          900.00  $         900.00 
+D
+Transition Costs
+ $     5,000.00 
+ $                  -    $                -   
+E
+Other Costs
+ $2,500/Onsite  $2,500/Onsite  $2,500/Onsite 
+F
+Annual Service/Maintenance Cost
+ Incl 
+ Incl 
+ Incl 
+VENDOR
+The Routing Company
+Item
+Description
+Year 1
+Year 2
+Year 3
+A
+Base Operating Cost Per
+ $   12,000.00  $     12,600.00  $    13,230.00 
+B
+Operating Cost per Vehicle (1-20)
+ $     4,000.00  $       4,200.00  $      4,410.00 
+C
+Operating Cost per Additional Vehicle (20+)
+ $     3,000.00  $       3,150.00  $      3,308.00 
+D
+Transition Costs *Implementation Cost
+ $   10,000.00 
+ $                  -    $                -   
+E
+Other Costs 1 2 *Training and travel
+ $     7,520.00 
+ $                  -    $                -   
+F
+Annual Service/Maintenance Cost
+ $   12,000.00  $     12,600.00  $    13,230.00 
+Exceptions:
+*HBSS Connect Corp. - Additional per vehicle cost (Software only) - One time Cost: $4,400.00
+Additional per vehicle cost (Annual maintenance, hosting and support cost): $660.00
+*The Routing Company - 1 Flight costs are an additional cost, and will be billed at direct cost plus 10%.
+2 Included are 8 person-days on-site for training and planning.  Additional days required will be billed
+at a price of $940 per person per day.

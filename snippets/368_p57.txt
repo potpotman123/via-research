@@ -1,0 +1,126 @@
+# source: raw/bleecker_drive/Bay Transit/REDACTED-Via-Mobility-LLC-Response_RFP-2024-01-Transit-Scheduling-Software.pdf
+# path: raw/bleecker_drive/Bay Transit/REDACTED-Via-Mobility-LLC-Response_RFP-2024-01-Transit-Scheduling-Software.pdf
+# hit page: 57 of 60
+# terms: Via Mobility
+
+=== page 56 ===
+QUESTION: 
+Who does Bay Transit use as a cellular provider? 
+ANSWER: 
+Verizon. 
+QUESTION: 
+Does the 25-page proposal include attachments / appendices and resumes / case 
+studies (etc.)? 
+ANSWER: 
+As stated in RFP 2024-01 Addendum No. 1, dated 03-21-2024, the maximum 
+allowable page limit for the technical proposal has been increased to 40-pages 
+excluding the pricing proposal and the license agreement. Additionally, 
+proposers can submit up to 15-pages of marketing materials to supplement 
+the written response including the software license agreement. 
+QUESTION: 
+What is the overall budget of the Bay Transit Express program? The Demand 
+Response program? 
+ANSWER: 
+Bay Transit’s overall operating budget is about $5 million.  The Bay Transit 
+Express budget is not relevant to this proposal. 
+QUESTION: 
+Can Bay Transit confirm the model tablets currently being used? 
+ANSWER: 
+Tablet inventory is included as Appendix B of the RFP. 
+QUESTION: 
+Does Bay Transit anticipate a large percentage of trips to and from work to be 
+transportation to and from shift work / industrial complexes? 
+ANSWER: 
+No. 
+QUESTION: 
+Are there any integrations required for this project? 
+ANSWER: 
+Integration with the VIA customer facing App and security camera footage is 
+desired but optional. 
+QUESTION: 
+Does the price proposal need to be in a separate document from the technical 
+proposal? 
+ANSWER: 
+Not necessarily. 
+QUESTION: 
+Regarding price scoring methodology, how many years is the lowest price based on 
+(i.e. one-year term, two-year term, three-year term)? 
+ANSWER: 
+Pricing should be offered for a minimum of two (2) years period, including one 
+(1) year of initial service plus one (1) year of pre- and post-deployment
+activities. Pricing beyond the first year of initial service should also be
+provided, if capable.
+QUESTION: 
+Is there a DBE requirement/goal for this project? 
+ANSWER: 
+DBE participation is desired but optional. 
+QUESTION: 
+Are there any benchmark datapoints that can be shared and targeted as goals for 
+the Bay Transit Express Service? (i.e., Cost / Passenger, Ridership, PVH, etc.). 
+DocuSign Envelope ID: 067F5112-10D8-4FAF-8E81-E6AD8343D225
+RFP #2024՞01 Transit Scheduling Software | 54
+=== page 57 ===
+ANSWER: 
+Not applicable. 
+All other conditions of this RFP remain the same. 
+Please acknowledge receipt of this addendum and include it with your submittal. 
+Signature: 
+Manual 
+Signature: 
+Company Name: 
+Typed or Printed 
+Address: 
+ 
+Date: 
+Alex Lavoie
+Via Mobility, LLC
+114 5th Avenue, FL 17, New York, NY 10011
+DocuSign Envelope ID: 067F5112-10D8-4FAF-8E81-E6AD8343D225
+4/15/2024
+RFP #2024՞01 Transit Scheduling Software | 55
+=== page 58 ===
+P.O. Box 610 • 5306 Old Virginia Street Urbanna, VA 23175 • 804-758-2386 • www.bayaging.org 
+HEALTH • HOUSING • TRANSPORTATION 
+March 29, 2024 
+BAY TRANSIT, A DIVISION OF BAY AGING 
+TRANSIT SCHEDULING SOFTWARE 
+RFP No. 
+2024-01 
+ADDENDUM NO. 3 
+The purpose of this addendum is to respond to questions submitted by potential proposers for clarification 
+of the bid specifications: 
+QUESTION: 
+Will Bay Transit please address the number of vehicles that are used daily, on 
+average? 
+ANSWER: 
+30 
+QUESTION: 
+Being that Bay Transit operates in multiple counties, does reporting need to be 
+separated by county? 
+ANSWER: 
+Yes 
+QUESTION: 
+Will Bay Transit please address if the on-demand vehicles are co-mingled with the 
+demand response vehicles or are there dedicated vehicles for each service? 
+ANSWER: 
+Currently they are dedicated because they operate on different platforms.  We 
+are interested in co-mingling when this RFP is awarded. 
+QUESTION: 
+Will Bay Transit please address if the 2 seasonal trolleys, 2 fixed routes, and the 
+urbana trolley are included in your vehicle count? 
+ANSWER: 
+Fixed routes are included, trolleys are not. 
+QUESTION: 
+Will Bay Transit accept a proposal through a dropbox link if submitted digitally? 
+ANSWER: 
+Yes, assuming the vendor provides us the access we need to view/download 
+the document. 
+QUESTION: 
+Will Bay Transit accept digital signatures? 
+ANSWER: 
+Yes 
+QUESTION: 
+Does Bay Transit contract with any Medicaid Trip Brokers in the state (ie; 
+ModivCare, MTM, Access 2 Care)?   
+DocuSign Envelope ID: 067F5112-10D8-4FAF-8E81-E6AD8343D225
+RFP #2024՞01 Transit Scheduling Software | 56

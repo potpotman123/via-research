@@ -1,0 +1,150 @@
+# source: https://legistar1.granicus.com/McKinney/attachments/abb0b9be-9c15-4174-9e04-7b9d82941c25.pdf
+# path: raw/cache/5e92fe54da67feb112756b4c03bca94101b9439a.pdf
+# hit page: 13 of 50
+# terms: Spare Labs
+
+=== page 12 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+ 
+Combining the anticipated impact of the fare change and the inclusion of Parker Road 
+Station brings the predicted total daily ridership to 65 riders. We use this number as our 
+baseline demand volume for on-demand microtransit across CCT. The number of trips 
+expected to have an origin or destination ​outside​ of Collin County is very low: over the 
+fourteen months of taxi ridership data available to Spare, only a few dozen trips took place 
+outside Collin County. We therefore consider the demand from outside the zone to be 
+negligible in our simulations.  
+ 
+ 
+Accounting for uncertainty of demand 
+ 
+There will always be some uncertainty about the precise volume demand that can be 
+expected from a newly introduced microtransit service. The taxi data used to drive our 
+demand model may not be fully representative of ‘real’ passenger behaviour because of 
+biases or missing data. Riders’ awareness of a new microtransit service will directly affect 
+demand volume, and can be influenced by marketing or information campaigns. 
+ 
+To reflect this uncertainty, we calculated a range of expected demand. The baseline 
+calculation provided the ‘medium demand’ scenario, a  ‘low demand’ scenario was 20% 
+lower than baseline, and a ‘high demand’ scenario was 30% higher than baseline. These 
+percentage changes were informed by the confidence intervals in our forecasting model. 
+ 
+The final estimates for low, medium and high demand are shown in Table 1​.  
+ 
+Table 1. Estimated daily ridership for different demand scenarios, assuming normal service hours. 
+ 
+ 
+Low demand 
+Medium demand 
+High demand 
+Standard trips 
+36 
+45 
+59 
+DART connection trips 
+16 
+20 
+26 
+Total trips 
+(6am–6pm) 
+52 
+65 
+85 
+ 
+ 
+Stage 2: Estimating distribution of demand 
+ 
+Once the total volume of demand was estimated, it was necessary to distribute that 
+demand by different purposes throughout the day. We assume a large majority of trips 
+either start or end from a home location, and define four main trip ‘purposes’:  
+ 
+●
+Work: commuting trips or travel to college/university; 
+11
+=== page 13 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+●
+Recreation: shopping, dining, entertainment and leisure trips; 
+●
+Healthcare: trips to healthcare facilities such as clinics and hospitals; 
+●
+DART connection: trips to Parker Road Light Rail Transit Station; 
+●
+Visiting others: a home location to visit friends or relatives. 
+ 
+ 
+Assigning trip purposes 
+ 
+A travel survey conducted by CCT in 2011 provided data on trip purposes undertaken in the 
+county. 514 respondents were asked to select what activities they would use public transit 
+for, if it were accessible to them (multiple reasons could be given). This question is not the 
+same as asking travellers ​why​ they are currently travelling, but gives some indication of the 
+rough split in trip types that might be undertaken with CCT’s on-demand service.  
+ 
+The majority of respondents said they would use public transportation for work, medical or 
+recreational trips (Table 2). Only 3% claimed they would want to use it to connect to DART, 
+but responses to the community travel survey, combined with data on DART ridership, 
+suggests that a relatively high number of trips could start or end at Parker Road LRT 
+station. The proportions recorded in the survey were used to allocate different trip 
+purposes realistically when running simulations in Spare Realize, with DART-connecting 
+trips being given a higher weighting to reflect expected demand.  
+ 
+Table 2. Breakdown of CCT travel survey by trip purpose. ‘Other’ includes trips to the airport and church. 
+Respondents could choose multiple categories, which explains why the percentages do not sum to 100%. 
+ 
+Work 
+Recreation 
+Healthcare 
+Connecting 
+to DART 
+Visiting 
+relatives 
+Other 
+52% 
+44% 
+45% 
+3% 
+3% 
+3% 
+ 
+Distributing trips spatially 
+ 
+To distribute demand in the most spatially realistic way possible, Spare’s ‘Demand 
+Generator’ tool generates trip origins and destinations based on the five main purposes 
+identified above: ​work, recreation, healthcare​, ​DART connection ​and ​visiting friends/relatives 
+trips. 
+ 
+The Demand Generator tool randomly generates a set number of points per hectare in 
+each zone, and snaps these points to actual roads, to ensure realistic trip request locations. 
+Each randomly generated point is then matched to relevant datasets to contribute to 
+overall home, work and recreation demand metrics. The spatial distribution of each metric 
+across the six MUTD cities is shown in Figure 6. 
+ 
+12
+=== page 14 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+ 
+Figure 6. Spatial distribution of expected demand for homes/visits, jobs, recreation and healthcare across 
+the six participating MUTD cities. Demand for DART connection is represented in our model by a single 
+origin/destination at Parker Road LRT Station. 
+ 
+To estimate the home locations from which trips would originate (and also the home 
+locations for visits to friends/relatives), each random point in a zone was matched to its 
+Census Block Group (CBG) and relevant census data acquired. Based on a rigorous review 
+of the academic literature , , we isolated four main demographic features to include in our 
+2 3
+home demand model: 
+ 
+●
+Poverty status (% individuals in poverty, as defined locally by the US census) 
+●
+Non-white population 
+●
+Vehicle ownership (% of households owning zero vehicles) 
+●
+Highest level of education (high-school education or less) 
+ 
+2 Berrebi & Watkins (2018), ‘Who’s ditching the bus?’ 
+https://arxiv.org/ftp/arxiv/papers/2001/2001.02200.pdf 
+3 Giuliano (2005), ‘Low income, public transit, and mobility.’ 
+https://journals.sagepub.com/doi/abs/10.1177/0361198105192700108 
+13

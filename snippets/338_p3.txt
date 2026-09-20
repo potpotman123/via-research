@@ -1,0 +1,172 @@
+# source: raw/bleecker_drive/Key West/22_2659_Agreement.pdf
+# path: raw/bleecker_drive/Key West/22_2659_Agreement.pdf
+# hit page: 3 of 19
+# terms: Via+vehicles
+
+=== page 2 ===
+Additional Services (detailed in Appendix 2) 
+☐Web-Based Booking Portal ☐White List Point Consulting ☐Flexible Booking ☐Corporate Account Management 
+dashboards ☐Fixed Route Referral ☐Multi-modal Integration ☐Cross-Agency Integration☐ Third-party trip planner 
+integration ☐Payment Provider Integration  [X] Customer Support  ☐Integrated Mobility Services [X] Consulting 
+ 
+Customer Responsibilities.  
+General. Customer will operate and manage the Deployment as set forth in the Agreement, Customer shall cooperate with 
+Via as necessary for the purpose of setting up the Deployment and its specifications, including by providing prompt 
+feedback to Via’s inquiries and providing local insights, in order to meet mutually agreed upon deadlines. Following Signing 
+of this Order, Customer and Via will engage in additional project scoping activities with the goal of aligning on a mutually 
+agreeable scope and schedule of work 
+(a) Launch. Within one week of signing this Order, the Parties will mutually agree on the exact geographic zone and a 
+targeted launch date (“Launch”). Launch date shall be no sooner than 12 weeks after the signing of this Order. In 
+the event that the Launch date is moved at Customer’s request or delayed due to Customer’s inaction, Customer 
+will be charged $500 per month to accommodate hosting and other direct IT costs.  
+(b) Zone: Customer and Via will agree at least one month prior to launch on the Deployment service zone. Any 
+changes or expansions to the zone may result in additional fees.  
+(c) Support Requests. At the start of the project, Via will direct Customer towards the relevant CRM tools to log 
+requests.  In order to trigger a Product Maintenance request, requests for product maintenance must contain 
+detailed information about the nature of the request. Requests for additional features may be subject to additional 
+fees.  
+(d) Payment Processing. The fees set forth above do not include any owed to the third party payment processor. Via 
+will facilitate an introduction to its      payment processor and, if Customer wishes to accept credit card payments 
+for this Deployment,      Customer will be responsible for entering an agreement this processor      . 
+Fees.  
+Customer shall pay Via the following Fees: 
+Fee Category 
+Amount 
+Invoicing Terms 
+Installation Fee 
+$30,000 one-time fee to be paid in first year of 
+service 
+● First installment 
+ 
+50% ($15,000) 
+Payable within 30 days of 
+signing of this Order 
+● Second installment 
+50% ($15,000) 
+Payable upon launch of the 
+Deployment 
+Additional Marketing & 
+Rider Growth Consulting 
+$30,000  
+Billed monthly, as incurred.   
+Assumes 200 hours per year. 
+Live Rider Support      
+$152,880 
+Billed monthly. 
+, as incurred.  Assumes 5,096 
+hours per year. 
+Minimum Monthly Fees 
+$36,000 annually (monthly broken out below, 
+assuming three vehicles) 
+● Per-vehicle fees 
+● 
+$1,250 per vehicle per calendar month for 
+vehicles 1-2 with a minimum of $2,500 
+per month  
+● 
+$500 per vehicle per calendar month for 
+vehicles 3-10 
+● 
+$450 per vehicle per calendar month for 
+vehicles 11-15+ 
+Minimum Monthly Fees 
+payable upon signing of this 
+Order, any amount in excess of 
+minimum to be invoiced 
+monthly by Via 
+Projected Total 
+$248,880 assuming 3 vehicles (excluding additional vehicles and Fees for any 
+Additional Services) 
+The Customer shall be responsible for paying its fees at the beginning of the month in which they are incurred based on the 
+monthly vehicle minimum(s) (the “Minimum Monthly Fee”).  The Minimum Monthly Fee will be paid in advance upon 
+signing of the contract.  In the event that the per-vehicle-fees incurred for a given month exceed the Minimum Monthly Fee, 
+Customer shall be responsible for paying the difference for each such month (“Monthly True-Up”) thereafter within 15 
+days of the date of such invoice. At the beginning of the following month, Via will provide Customer with an invoice 
+calculating the per-vehicle fees actually incurred based on the actual number of active vehicles used during that month, in
+=== page 3 ===
+the form attached hereto as Exhibit A. The Customer hereby agrees that the sample invoice set forth on Exhibit A is 
+satisfactory to Customer, both in substance and format.      
+For the avoidance of doubt, (i) the number of vehicles per month for purposes of the above fees shall be the maximum 
+number of distinct vehicles input by Customer that use the Via Solution on any given day over the course of the applicable 
+calendar month and (ii) in the event the duration of the Deployment does not exactly match calendar months, monthly fees 
+will be pro-rated for the first and/or last calendar months of the Deployment, as applicable, so that Customer will only be 
+charged for the portion of such months during which the Via Solution was available to be used for the Deployment. 
+Customer shall reimburse all travel expenses of Via personnel for purposes of the Deployment. Installation-related services 
+described above will initially be performed remotely, and if Via deems it necessary, in person by Via personnel for a limited 
+period around launch.  Thereafter, services will continue to be performed remotely as applicable, provided that Via 
+personnel can be sent to Customer’s location for additional trips upon reasonable request.  
+Launch Delay. If the Launch Date is delayed for more than a month by Customer for any reason, Customer shall be 
+responsible for paying Via for a $500 monthly technology fee for the cost of maintaining the technology infrastructure for 
+Customer’s deployment during the period of delay (the “Technology Fee”).  The Technology Fee shall be payable monthly 
+at the beginning of the month in which it is incurred. If the Launch Date is delayed for more than a month by Via without 
+cause, Customer shall have the right to terminate this Contract, effective immediately upon written notice.  
+Branding. The Deployment branding, which will include the phrasing “powered by Via”, will be as agreed upon between 
+the parties and may be used       for the life of the D     eployment. The “powered by Via” banner must be used only in the 
+exact format provided by Via, and will be prominent on all assets promoting the Deployment, including (but not limited to) 
+printed collateral, digital materials, websites, and any vehicle wraps. The “powered by Via” banner will have equal 
+prominence on all marketing materials to any additional partner logos or trademarks. Via may provide pre-approved brand 
+assets and guidelines that must be complied with in all marketing communications distributed by the Customer. 
+ 
+Customer Support. The scope of this service is for rider booking support only. Customer will use its existing interactive voice response 
+system to direct rider bookings calls to Via’s customer support center during service hours of 6:00 am-8:00 pm, 7 days a week. Via and 
+Customer will work together to determine a rider support workflow that the Customer will support for inquiries that fall outside of the 
+scope for rider booking.
+=== page 4 ===
+Via Solution Terms of Service 
+ 
+This Via Solution Terms of Service (the “Agreement”) is entered into between Via Mobility LLC or the applicable affiliate of Via 
+identified in a Service Order entered into by the parties (“Via”) and the entity or person placing an order ( “Customer”) for accessing 
+Via’s proprietary technology platform and certain related systems and methods used to establish, monitor, operate and/or manage on-
+demand transit networks (the “Via Solution”) and accompanying technical and operational support services and regular updates 
+(together with access to the Via Solution, the “Services”). 
+ 
+The “Effective Date” of this Agreement is the date which is the earlier of (a) Customer’s initial access to the Services or (b)the effective 
+date of any Order. 
+ 
+1. Agreement 
+This Agreement consists of the terms and conditions set forth below and any Via ordering documents, purchase orders, order descriptions 
+or other order confirmations (“Orders”) If you are accessing or using the Services on behalf of your company, you represent that you 
+are authorized to accept this agreement on behalf of your company and all references to “Customer” reference your company. 
+ 
+2. Definitions 
+a. “Applicable Law” means (i) any statute, statutory instrument or any other legislative instrument having the force of law; and (ii) any 
+applicable judgment of a relevant court of law which is a binding precedent, in each case in force at any time during the Term. 
+ 
+b. “Affiliate” means, with respect to any specified entity, any entity that directly or indirectly, through one or more intermediaries, 
+controls, is controlled by, or is under common control with, the entity specified. 
+ 
+c. “Confidential Information” means information, data or materials in either tangible or intangible form that are trade secrets of, or 
+proprietary and confidential to the Disclosing Party or its clients or business partners, including as may be so designated by statute, 
+regulation or common law including by the form of the Uniform Trade Secrets Act and privacy laws adopted under applicable law, or 
+which are marked as “Confidential” or which, by their nature and the context of their disclosure, should reasonably be known to be 
+confidential. 
+ 
+d. “Customer Data” means all data that is input by or on behalf of Customer and/or Client into the Via Solutions. Portions of the 
+Customer Data may include personally identifiable information. For avoidance doubt, Customer Data excludes the Via Solution itself 
+and Via’s related intellectual property rights and Confidential Information and all derivative works and improvements to each of them. 
+Customer Data also excludes de-identified, anonymized and/or aggregated data generated from the use of the Via Solution or created 
+by Via. 
+ 
+e. “Transportation Laws” means any applicable law to which operators and owners of vehicles, employer of vehicle operators, and 
+transportation service providers are required to adhere. 
+ 
+3. The Via Solution 
+ 
+a. Description. The Via Solution is comprised of the driver and rider software applications (each, an “Application”) and certain system 
+management tools and may also include certain additional software, data, data feeds, or other content owned by and licensed from third 
+parties (the “Third Party Content”).  While all the Applications are cloud-based, certain of them are deployed via download to handheld 
+mobile devices used by Riders or drivers, while others are installed on devices field-deployed by Customer to personnel and vehicles 
+(all three types of such devices collectively, the “Devices”). 
+ 
+b. Use Rights.  Subject to the terms and conditions herein, Via will provide the Services, as defined herein. The Services will include 
+all related services, functions or responsibilities not specifically described in this Agreement, but that are required or reasonably 
+necessary for the proper performance of the Via Solution in connection with the transportation services Customer provides (the 
+“Customer Transportation Service”), for the benefit of prospective and actual clients (collectively, “Clients”), using vehicles, 
+equipment and services (including telecommunications and/or dispatch equipment and services), personnel, routes and other 
+infrastructure it owns or otherwise controls (the “Customer Infrastructure”). Via will grant Customer subscription, access, and use 
+rights (“Use Rights”) for the specific Applications and deployment types identified in each applicable Order. The Order will further 
+contain terms specifying whether Customer may co-brand the manner in which the Application is displayed on Devices. 
+ 
+c. Third Party Content.  Certain Third Party Content may already be integrated with the Applications and delivered as part of the 
+overall Via Solution.  Where this is the case, Via has been authorized to resell, distribute, or otherwise provide its customers with such 
+integrated Third Party Content.  If additional Third Party Content is optionally available for the Via Solution, such as certain information

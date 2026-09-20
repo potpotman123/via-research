@@ -1,0 +1,92 @@
+# source: raw/bleecker_drive/Bay Transit/REDACTED-Via-Mobility-LLC-Response_RFP-2024-01-Transit-Scheduling-Software.pdf
+# path: raw/bleecker_drive/Bay Transit/REDACTED-Via-Mobility-LLC-Response_RFP-2024-01-Transit-Scheduling-Software.pdf
+# hit page: 5 of 60
+# terms: Via+vehicles
+
+=== page 4 ===
+Our demand response software delivers an exceptional experience for all users — riders,
+drivers, and backend staff — and the necessary flexibility to meet Bay Transit’s evolving
+transit needs. Our dedicated project team and expert advisors will continually work with
+Bay Transit to achieve its goal of streamlining transit operations and enhancing the user
+experience of Bay Transit drivers, dispatchers, and riders. We will leverage our in-house
+service design, marketing, and fundraising teams to ensure a seamless demand response
+service transition and long-term scalability across Bay Transit’s services.
+Our proposal for Bay Transit is centered on:
+A Single End-to-End Platform for On-Demand and Demand Response Services
+Via’s suite of familiar and user-friendly tools will provide Bay Transit with a single unified
+interface to manage all of its on-demand and demand response services, eliminating the
+​need for Bay Transit administrators to learn an entirely new system. Our software suite,
+which currently powers Bay Transit Express in the Gloucester Courthouse area, includes
+three core components: our white-labeled, fully automated Rider App, designed with user
+experience and accessibility at the forefront; our Driver App, which provides real-time
+turn-by-turn navigation and a hands-free display; and the Via Operations Center, a
+highly automated administrative platform that Bay Transit staff will use to manage
+services in real time. Through Via’s software, administrators will be able to seamlessly
+visualize and analyze the services thanks to a suite of fully integrated dashboards,
+reports and data tables.
+RFP #2024-01 Transit Scheduling Software | 2
+=== page 5 ===
+These integrated components will work together to enhance transparency,
+communication, and service performance on a rolling basis, leading to enhanced
+efficiency and cost savings for Bay Transit. Consolidating the demand response and
+on-demand services onto a single end-to-end platform will also benefit Bay Transit’s
+riders by providing a seamless user experience across different modes within the Bay
+Transit network, and enhancing accessibility across the region.
+Algorithms to Maximize Service Value
+Our partners provide services that are
+essential to the overall mobility of their
+communities, and Via’s technology is proven to
+maximize the public benefit that they can
+provide within a fixed budget. Our proprietary
+algorithms and mapping infrastructure are
+designed to help agencies provide their riders
+with essential services that offer high service
+quality, increased vehicle utilization, and
+reduced vehicle miles traveled. Our software
+uses machine learning, artificial intelligence,
+and leverages the data of the over 145 million
+trips we have powered. This allows our
+platform to make routing decisions based on
+historic and real-time traffic speeds, travel times, and customer demand data on a
+second-by-second basis, allowing vehicles to avoid congested areas and slower roads
+and provide more accurate wait times and ETAs to riders. As an example, King County
+Metro in Seattle, WA ran microtransit pilot programs with three vendors over four years,
+and found that they were able to save more than $53 per ride using Via’s technology
+compared to competitors’, allowing them to serve more trips with the same budget (as
+shown in the graphic above).
+Proprietary, Confidential, and Trade Secret Information
+RFP #2024-01 Transit Scheduling Software | 3
+=== page 6 ===
+Local Experience Powering Bay Transit Express
+Via has a deep understanding of Bay Transit’s existing system, the
+unique physical environment of the rural region, and the needs of
+the local community through our history of successful partnership
+with Bay Transit. In particular, our experience powering Bay Transit
+Express since 2021 has given us a keen awareness of unique rider
+preferences, demand patterns, and other metrics critical to
+delivering a successful service in Bay Transit’s service area. In addition, we have
+developed an embedded connection to the local community through partnerships with
+organizations such as The Master Center and The American Addiction Treatment Center
+in Gloucester. Leveraging our experience as the software provider for Bay Transit Express,
+Via can offer multiple benefits across the system’s other services:
+●
+Familiar working relationships: Via and Bay Transit have a proven working
+relationship from Bay Transit Express, including on-the-ground work sessions and
+staff training in Gloucester. Bay Transit is able to contact Via project team
+members whenever necessary — we have prioritized a personalized approach and
+can continue to do so as our partnership expands. This ensures that Bay Transit is
+able to maintain clear channels of communication regarding the platform, and
+visibility into crucial components of their services across the region.
+●
+Award-winning technology: Via has already been selected as Bay Transit’s
+on-demand technology provider based on our experience and capabilities,
+contributing to Bay Transit being awarded the 2023 USAging’s Aging Innovations &
+Achievement Award for Bay Transit Express. Selecting a proven solution already
+leveraged by Bay Transit enables significant efficiencies and advantages at the
+regional and local levels.
+●
+Local knowledge: Our local project teams understand how Bay Transit likes to
+work, and what Bay Transit needs to successfully operate both local and regional
+services. This critical historical knowledge and local familiarity that we have built
+Proprietary, Confidential, and Trade Secret Information
+RFP #2024-01 Transit Scheduling Software | 4

@@ -1,0 +1,171 @@
+# source: https://legistar.granicus.com/LosAlamos/attachments/d4ed28e3-5da0-403c-aaa8-20fd558046f1.pdf
+# path: raw/cache/9e8dcba51a86916c33f88b1baedeefebe738b9ef.pdf
+# hit page: 49 of 81
+# terms: Spare Labs
+
+=== page 48 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+48 
+ Agreement Template Version: 04012024 
+• 
+An Intrusion Detection and/or Prevention technologies (IDS/IPS) solution that monitors and 
+blocks potential malicious packets. 
+• 
+IP address filtering 
+DDoS protection 
+We use Distributed Denial of Service (DDoS) mitigation services powered by an industry-leading solution. 
+Data encryption 
+Encryption in transit: All data sent to or from our infrastructure is encrypted in transit via industry best-
+practices using Transport Layer Security (TLS). 
+Encryption at rest: All our user data (including passwords) is encrypted using battled-proofed encryption 
+algorithms in the database. 
+Data retention and removal 
+Organizations on Spare Platform can configure security requirements to meet their needs, including 
+automatic removal an anonymization of user data in compliance with GDPR regulations. 
+Business continuity and disaster recovery 
+We back up all our critical assets and regularly attempt to restore the backup to guarantee a fast recovery 
+in case of disaster. All our backups are encrypted. 
+Application security monitoring 
+• 
+We use a security monitoring solution to get visibility into our application security, identify attacks 
+and respond quickly to a data breach. 
+• 
+We use technologies to monitor exceptions, logs and detect anomalies in our applications. 
+• 
+We use monitoring such as open tracing in our microservices. 
+Application security protection 
+• 
+We use a runtime protection system that identifies and blocks OWASP Top 10 and business logic 
+attacks in real-time. 
+• 
+We use security headers to protect our users from attacks. You can check our grade on this 
+security scanner. 
+• 
+We use security automation capabilities that automatically detect and respond to threats targeting 
+our apps. 
+Secure development 
+We develop following security best practices and frameworks (OWASP Top 10, SANS Top 25). We use 
+the following best practices to ensure the highest level of security in our software: 
+• 
+Developers participate in regular security training to learn about common vulnerabilities and 
+threats 
+• 
+We review our code for security vulnerabilities 
+• 
+We regularly update our dependencies and make sure none of them has known vulnerabilities 
+Responsible disclosure 
+Attachment A
+=== page 49 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+49 
+ Agreement Template Version: 04012024 
+We encourage everyone that practices responsible disclosure and comply with our policies and terms of 
+service to participate in our bug bounty program. Please avoid automated testing and only perform 
+security testing with your own data. Please do not disclose any information regarding the vulnerabilities 
+until we fix them. Rewards are done at our discretion depending on the criticality of the vulnerability 
+reported. 
+You can report vulnerabilities by contacting security@sparelabs.com. Please include a proof of concept. 
+We will respond as quickly as possible to your submission and won’t take legal actions if you follow the 
+rules. 
+Coverage 
+• 
+sparelabs.com 
+• 
+platform.sparelabs.com 
+• 
+api.sparelabs.com 
+• 
+routing.sparelabs.com 
+• 
+forms.sparelabs.com 
+Exclusions 
+• 
+Other subdomains of sparelabs.com 
+Accepted vulnerabilities are the following: 
+• 
+Cross-Site Scripting (XSS) 
+• 
+Open redirect 
+• 
+Cross-site Request Forgery (CSRF) 
+• 
+Command/File/URL inclusion 
+• 
+Authentication issues 
+• 
+Code execution 
+• 
+Code or database injections 
+This bug bounty program does NOT include: 
+• 
+Logout CSRF 
+• 
+Account/email enumerations 
+• 
+Denial of Service (DoS) 
+• 
+Attacks that could harm the reliability/integrity of our business 
+• 
+Spam attacks 
+• 
+Clickjacking on pages without authentication and/or sensitive state changes 
+• 
+Mixed content warnings 
+• 
+Lack of DNSSEC 
+Attachment A
+=== page 50 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+50 
+ Agreement Template Version: 04012024 
+• 
+Content spoofing / text injection 
+• 
+Timing attacks 
+• 
+Social engineering 
+• 
+Phishing 
+• 
+Insecure cookies for non-sensitive cookies or 3rd party cookies 
+• 
+Vulnerabilities requiring exceedingly unlikely user interaction 
+• 
+Exploits that require physical access to a users machine 
+• 
+Exploits within 3rd party managed services 
+User protection 
+Role-based access control 
+Advanced role-based access control (RBAC) is offered on all our enterprise accounts and allows our 
+users to define roles for administrators. 
+Account takeover protection 
+We protect our users against data breaches by monitoring and blocking brute force attacks. 
+Compliance 
+GDPR 
+We’re compliant to the General Data Protection Regulation (GDPR). The purpose of GDPR is to protect 
+the private information of EU citizens and give them more control over their personal data. Contact us for 
+more details on how we comply to GDPR. 
+Payment information 
+All payment instrument processing is safely outsourced to Stripe which is certified as a PCI Level 1 
+Service Provider. We don’t collect any payment information and are therefore not subject to PCI 
+obligations. 
+Employee access 
+• 
+Our strict internal procedure prevents any employee or administrator from gaining access to user 
+data. Limited exceptions can be made for customer support. 
+• 
+All our employees sign a Non-Disclosure and Confidentiality Agreement when joining the 
+company to protect our customers' sensitive information. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Attachment A

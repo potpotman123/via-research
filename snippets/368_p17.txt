@@ -1,0 +1,97 @@
+# source: raw/bleecker_drive/Bay Transit/REDACTED-Via-Mobility-LLC-Response_RFP-2024-01-Transit-Scheduling-Software.pdf
+# path: raw/bleecker_drive/Bay Transit/REDACTED-Via-Mobility-LLC-Response_RFP-2024-01-Transit-Scheduling-Software.pdf
+# hit page: 17 of 60
+# terms: Via+fleet
+
+=== page 16 ===
+Via’s Rider App has been downloaded by millions of passengers and consistently receives
+glowing reviews, and is the only mobile booking app that has consistently demonstrated
+an exceptional user experience. As part of Bay Transit’s evaluation process, we suggest
+downloading and using various proposers’ apps to get a direct sense of their functionality
+and the user experience. Poor app performance — whether due to a poor User Interface
+(UI) or an unreliable booking process — dissuades riders from sticking with a service, or
+even booking their very first trip.
+The app will be white-labeled to reflect Bay Transit’s preferred branding. Should Bay
+Transit prefer, we are also happy to adjust the branding to reflect the consolidated
+services. Our rider app is designed with accessibility at the forefront and includes a host
+of features for those in need of visual, audio, cognitive, or mobility accommodations. The
+app is also available in many languages, including Spanish, and will use the device’s
+primary language as the default language setting. Riders
+without internet access will be able to create accounts and
+book rides by calling a customer support representative.
+Rider Registration
+A new rider creates an account by entering an email address,
+phone number, and password. They can then indicate
+specific preferences in configurable profile fields, such as for
+fare payment methods and vehicle types (such as a
+wheelchair-accessible vehicle), or note if they require a lift,
+walker, scooter, or other mobility device. Passengers can also
+note if they will be traveling with a personal care attendant.
+Riders who would prefer to call a customer support
+representative can create an account over the phone. Upon account creation, our system
+will automatically populate a Rider Profile where administrators can review customer
+account details. Riders can track things such as payment and ride history through their
+Rider App profiles, and will have password or username recovery options.
+Ride Booking
+Upon opening the rider app and creating an account, users will clearly see the geofenced
+zones in which services are offered and will be invited to set a pick-up location. Riders will
+be able to seamlessly transition between services that they are eligible for, even when
+different zones are supported, as shown in the graphic below.
+RFP #2024-01 Transit Scheduling Software | 14
+=== page 17 ===
+Moving the pick-up pin beyond a valid service zone grays out the map and displays an
+“Out of Zone” message, so riders always know where service is available. If a rider wishes
+to add or subtract passengers to their group, they simply tap the “+” or “-” icon within the
+app. Via can also configure the service so that riders may book a ride by entering a place
+name (such as a library, school, store, or service) as well as
+by entering an address. The booking page can also suggest
+Points of Interest (POIs) that are defined by Bay Transit and
+easily searchable by all riders.
+Upon a trip request, the Via algorithm matches the requested
+ride with available seats across the fleet, assigning the rider
+to a vehicle for a convenient personal trip that also optimizes
+for efficiency across the entire service. Once a rider accepts
+a ride proposal, the ride is automatically added to the ride
+plan, integrating directly with both the Driver App, and the
+VOC. This guarantees reliable service, such as a high rate of
+on-time performance and customer satisfaction, for riders.
+The rider app will send the rider automated trip updates. In
+the event of service delays or disruptions, Bay Transit will
+also be able to send announcements directly to riders
+through the Rider App.
+RFP #2024-01 Transit Scheduling Software | 15
+=== page 18 ===
+‭The Rider App also provides a seamless interface‬
+‭to book pre-scheduled demand response rides. We‬
+‭can customize parameters such as the time‬
+‭intervals for pick up and how far in advance a rider‬
+‭can book a ride. To book a pre-scheduled trip,‬
+‭riders input their requested trip date, and whether‬
+‭they would like to be picked up or dropped off by‬
+‭their requested time. If the rider wishes to book a‬
+‭recurring trip — for example, every weekday, every‬
+‭Tuesday and Thursday, etc. — they can easily do‬
+‭so with the “Recurring ride” toggle. After inputting‬
+‭their preferences, the rider receives a trip proposal‬
+‭and can tap the “book ride” button to confirm.‬
+‭Bay Transit  Requirement‬
+‭Via‬
+‭Scheduling‬
+‭The software shall allow riders to schedule demand response and/or on demand rides via smart phone‬
+‭application, web-based portal, or telephone (call taker).‬
+‭Software shall allow riders to schedule rides in advance outside of business hours (while ride‬
+‭confirmation will only occur within business hours).‬
+‭Configured to accept a reservation even if the optimal wait times are not available. Instead, it should‬
+‭provide the next available time for pick-up and avoid reporting 'No ride available'.‬
+‭Allow on-demand service riders to schedule same day rides allowing for shorter wait times (10-15‬
+‭minutes).‬
+‭Allow demand response riders to schedule trips up to seven (7) days in advance of the requested trip‬
+‭date for subscription trips and four (4) days in advance to the requested trip date for regular trips.‬
+‭1‬
+‭Software shall allow cancellations prior to pick-up time. The software shall monitor same day‬
+‭cancellations for demand response service as these may result in a penalty fee for the rider.‬
+‭System shall provide functionality to prohibit riders from constraining demand response service‬
+‭scheduling resourcing (e.g., a rider cannot schedule multiple rides during the same date/time window).‬
+‭Software shall allow riders to have subscriptions (standing orders).‬
+‭Software shall allow riders to book a return trip (for demand response service).‬
+‭RFP #2024-01 Transit Scheduling Software‬ ‭|‬ ‭16‬

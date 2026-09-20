@@ -1,0 +1,177 @@
+# source: https://legistar.granicus.com/LosAlamos/attachments/d4ed28e3-5da0-403c-aaa8-20fd558046f1.pdf
+# path: raw/cache/9e8dcba51a86916c33f88b1baedeefebe738b9ef.pdf
+# hit page: 5 of 81
+# terms: Spare Labs
+
+=== page 4 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+4 
+ Agreement Template Version: 04012024 
+35. “Registration Information” means information collected from end-users of the Platform, 
+including but not limited to, user name, account name, telephone number, and email address. 
+ 
+36. “Rider” means members of the public and end-users who may use Contractor’s front-end 
+public-user-facing Microtransit and Paratransit services through the Platform.  
+ 
+37. “SaaS” means Software as a Service. 
+ 
+38. “Service” means the collective term used for Contractor's Platform, Support, and all other 
+Project implementation services provided, as described herein. 
+ 
+39. “SOC 2 Type II” means a report generated as a result of a third-party audit that focuses on 
+the American Institute of Certified Public Accountants Trust Service Criteria, which examines 
+a service provider’s internal controls and systems related to security, availability, process 
+integrity, confidentiality, and privacy of data. 
+ 
+40. “Software” means the source code, object code, or underlying structure, ideas, know-how or 
+algorithms relevant to the Services or any software, documentation or data related to the 
+Platform.  
+ 
+41. “Support Hours” means Support provided by Contractor on a twenty-four (24) hour, seven (7) 
+days a week basis.  
+ 
+42. “Support” means general maintenance services and technical support in respect of the 
+Platform provided by Contractor throughout the Term of this Agreement. 
+ 
+43. “System” has the same definition as “Platform.” 
+ 
+44. “Title VI” means Title VI of the Civil Rights Act of 1964. 
+ 
+45. “TLS” means Transport Layer Security. 
+ 
+46. “Work Products” means all drawings, designs, specifications, manuals, reports, studies, 
+surveys, models, software (including source code), and any other documents, materials, data 
+(other than County Data) and products.  
+ 
+47. “XLSX” means a Microsoft Excel spreadsheet file. 
+ 
+SECTION B. EXHIBITS: The following Exhibits listed here relate to the Services described herein, 
+are referenced throughout, and are attached hereto and made a part hereof for all purposes.  In 
+the event there is any conflict or ambiguity between a provision in this Agreement and any of the 
+Exhibits hereto, this Agreement shall govern.   
+ 
+1. Exhibit A – Compensation Rate Schedule 
+2. Exhibit B – Platform and Software Functional Specifications 
+3. Exhibit C – County Technology Standards 
+4. Exhibit D – Confidential Information Disclosure Statement 
+5. Exhibit E – Contractor’s Privacy Policy 
+6. Exhibit F – Contractor’s Backup and Recovery Procedures 
+7. Exhibit G – Contractor’s Procedures for Integration Testing, System Acceptance Testing, 
+Operability Performance Testing and Applying Upgrades and Patches 
+Attachment A
+=== page 5 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+5 
+ Agreement Template Version: 04012024 
+8. Exhibit H – Contractor’s Training Program 
+9. Exhibit I – Data Migration Plan Approach to Data Conversion and Migration 
+10. Exhibit J – Optional Spare Realize Transit Planning and Simulation Projects Description 
+11. Exhibit K – FTA Checklist and Required Clauses and Certifications 
+12. Exhibit L – Sample Amendment Template 
+ 
+SECTION C. SERVICES: 
+1. FTA Required Clauses. This Project and Services may be wholly or partially funded with FTA 
+funds, which are administered by the NMDOT through a subrecipient grant agreement 
+between NMDOT and County.  As such, applicable federal regulations apply to this 
+Agreement, including but not limited to those found in Exhibit K.  Contractor agrees to provide 
+Services in compliance with all required FTA required clauses throughout the Term of this 
+Agreement, including but not limited to those in Exhibit K. 
+2. License. Subject to the terms and conditions of this Agreement, Contractor hereby grants to 
+County 
+a 
+limited, 
+revocable, 
+non-exclusive, 
+non-transferable, 
+non-sublicensable, 
+subscription-based license to (i) run and use the Software and Platform during the Term of 
+this Agreement only in connection with the Services and solely for County’s governmental 
+purposes; and (ii) use the Documentation in connection with such use of the Software and 
+Platform.   
+3. Active Vehicles. As of the Effective Date of this Agreement, Project Implementation shall 
+include three (3) Active Vehicles utilized in its Microtransit and Paratransit fleet.  Parties 
+acknowledge that County estimates a possible increase in Active Vehicles up to nine (9) total 
+Active Vehicles throughout the Term of this Agreement. County may, at County’s sole option, 
+increase or decrease the number of Active Vehicles of its Microtransit and Paratransit fleet at 
+any time throughout the Term of this Agreement pursuant to Exhibit A Table 5.   
+4. Fare Payment Processor. As of the Effective Date of this Agreement, County does not 
+currently charge a fare to Riders to use the County’s Microtransit and Paratransit services.  
+County reserves the right, at County’s sole option, at any time throughout the Term of this 
+Agreement to charge a fare to Riders to use the County’s Microtransit and Paratransit 
+services. 
+4.1. 
+Contractor’s Payment Processor.  Contractor shall, throughout, the Term of this 
+Agreement, provide a method by which County can collect fares from Riders through 
+the Platform, which may be offered through a third-party.  As of the Effective Date of 
+this Agreement, Contractor offers such an optional method for payment processing 
+through the third-party “Stripe.” Contractor reserves the right to change such third-
+party providers at any time and shall notify County timely in writing of any such 
+change.  County acknowledges that such third-party services may incur separate 
+charges and may require that County enter into an agreement with said third parties 
+to use their Services, to which Contractor may not be a party.  
+4.2. 
+County’s Payment Processor.  As of the Effective Date of this Agreement, County 
+holds a contract with First Data Merchant Services, LLC to provide electronic payment 
+processing services for various County services and reserves the right to contract 
+with any third party at any time for electronic payment processing services. Should 
+County, at County’s sole option, begin collecting fares from Riders, and should County 
+opt not to utilize Contractor’s preferred payment processor, Contractor shall work with 
+Attachment A
+=== page 6 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+6 
+ Agreement Template Version: 04012024 
+County, upon County request, and shall provide professional Services to configure 
+the Platform to utilize County’s payment processor to collect fare payments. Such 
+professional services to configure the Platform shall be charged in accordance with 
+the rates outlined in Exhibit A. 
+5. County User and Rider Access to Platform.  
+5.1. 
+County Users. Contractor provides a limited, revocable, non-exclusive, non-
+transferable, license which is not further sublicensable, to the County for an unlimited 
+number of County Users for the Term of this Agreement, which shall be assigned to 
+County, to remotely access and use the Platform, and unless prohibited by law, will 
+provide access to any County User reasonably designated by County.  In addition to 
+all applicable user requirements stated in Exhibits B and C, Platform shall conform to 
+the following: 
+5.1.1. 
+Platform shall keep and maintain account usernames and passwords in a 
+secure manner using industry standard encryption algorithms, such as standard 
+SAML 2.0.  
+5.1.2. 
+County Users shall have the ability to access the Platform via local personal 
+computer-based internet browsers and the internet through secure internet 
+connections and protocols through individual user accounts.  Contractor shall 
+initially establish County Platform roles and rights, including Administrator 
+accounts and permission levels during initial Platform implementation. 
+Administrators shall then have the ability to assign accounts and permission 
+levels to other Administrators and County Users, which shall be based on 
+permission-based roles including but not limited to: Administrator (the highest 
+level of permissions), operations manager, booking agent, scheduler, service 
+planner, and finance manager. Administrators shall also have the ability to grant 
+privileges only for access to reporting and analytics.  
+5.2. 
+Riders. Contractor shall grant to an unlimited number of Riders, a personal, 
+revocable, non-exclusive and non-transferable license during the Term of this 
+Agreement for Riders to access and use the front-end public-facing County Portal via 
+local personal computer-based internet browsers and the internet and through an 
+App, developed and maintained by Contractor, available on common App stores such 
+as Google Play Store and Apple App Store, for mobile smart-phones.  County 
+acknowledges that such use of the Platform by Riders may be subject to Contractor’s 
+Terms of Use, Privacy Policy, or other such terms and conditions as Contractor 
+deems necessary.  County is not responsible for Rider conformance or non-
+conformance with Contractor’s terms and conditions. 
+6. Functionality, Upgrades, Patches, and Maintenance.  
+6.1. 
+Platform Functional Specifications and Defects. Contractor warrants that the 
+Platform shall be without material Defect(s) for the Term of this Agreement and shall 
+substantially conform to the Platform functional specifications set forth in Exhibit B 
+and applicable County’s Technology Standards set forth in Exhibit C, or their 
+functional equivalent.  If Platform does not perform as warranted, Contractor shall use 
+reasonable efforts consistent with industry standards, to cure the material Defect.  
+Should Contractor be unable to cure the material Defect, County may terminate this 
+Agreement as described in Section W, and Contractor shall issue a prorated refund 
+Attachment A

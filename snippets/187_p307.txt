@@ -1,0 +1,153 @@
+# source: https://nashville.legistar1.com/nashville/attachments/eb9d0835-c1d8-4a3a-b67b-d3c2653be076.PDF
+# path: raw/cache/6ce7b6b83aea1fa1c88bffbac52099b951ac2e59.pdf
+# hit page: 307 of 322
+# terms: Via Transportation
+
+=== page 306 ===
+Docusign Envelope ID: A9F16CDF-8848-47C3-AD05-8DBBBA295089
+=== page 307 ===
+Certificate Of Completion
+Envelope Id: A9F16CDF-8848-47C3-AD05-8DBBBA295089
+Status: Sent
+Subject: Council Legislation - Via Transportation
+Source Envelope: 
+Document Pages: 306
+Signatures: 5
+Envelope Originator: 
+Certificate Pages: 16
+Initials: 0
+Procurement Resource Group
+AutoNav: Enabled
+EnvelopeId Stamping: Enabled
+Time Zone: (UTC-06:00) Central Time (US & Canada)
+730 2nd Ave. South 1st Floor
+Nashville, TN  37219
+prg@nashville.gov
+IP Address: 170.190.198.185
+Record Tracking
+Status: Original
+             3/10/2026 10:45:04 AM
+Holder: Procurement Resource Group
+             prg@nashville.gov
+Location: DocuSign
+Security Appliance Status: Connected
+Pool: StateLocal
+Storage Appliance Status: Connected
+Pool: Metropolitan Government of Nashville and 
+Davidson County
+Location: Docusign
+Signer Events
+Signature
+Timestamp
+Ken Hartlage
+kenneth.hartlage@nashville.gov
+Security Level: Email, Account Authentication 
+(None)
+Signature Adoption: Pre-selected Style
+Using IP Address: 170.190.198.190
+Sent: 3/10/2026 11:05:49 AM
+Viewed: 3/10/2026 11:06:59 AM 
+Signed: 3/10/2026 11:07:09 AM
+Electronic Record and Signature Disclosure: 
+      Accepted: 3/10/2026 11:06:59 AM
+      ID: 6af3822f-272c-4955-b67b-548fe9bc8b47
+Gary Clay for DR
+Gary.Clay@nashville.gov
+Asst. Purchasing Agent
+Security Level: Email, Account Authentication 
+(None)
+Signature Adoption: Uploaded Signature Image
+Using IP Address: 170.190.198.190
+Sent: 3/10/2026 11:07:35 AM
+Viewed: 3/10/2026 11:23:09 AM 
+Signed: 3/10/2026 11:23:25 AM
+Electronic Record and Signature Disclosure: 
+      Not Offered via Docusign
+Jenneen Reed/mjw
+MaryJo.Wiggins@nashville.gov
+Security Level: Email, Account Authentication 
+(None)
+Signature Adoption: Pre-selected Style
+Using IP Address: 170.190.198.100
+Sent: 3/10/2026 11:23:55 AM
+Viewed: 3/10/2026 2:06:35 PM 
+Signed: 3/10/2026 2:08:19 PM
+Electronic Record and Signature Disclosure: 
+      Accepted: 3/10/2026 2:06:35 PM
+      ID: 69363995-f144-44fc-8b75-93bc0ed19a31
+Kelli Woodward
+Kelli.Woodward@nashville.gov
+Security Level: Email, Account Authentication 
+(None)
+Signature Adoption: Pre-selected Style
+Using IP Address: 170.190.198.144
+Sent: 3/10/2026 2:08:46 PM
+Viewed: 3/10/2026 2:21:18 PM 
+Signed: 3/10/2026 2:22:34 PM
+Electronic Record and Signature Disclosure:
+=== page 308 ===
+Signer Events
+Signature
+Timestamp
+      Accepted: 3/10/2026 2:21:18 PM
+      ID: 2478c473-e29d-40e6-861c-59218ba12f4e
+Procurement Resource Group
+prg@nashville.gov
+Metropolitan Government of Nashville and Davidson 
+County
+Security Level: Email, Account Authentication 
+(None)
+Sent: 3/10/2026 2:23:07 PM
+Electronic Record and Signature Disclosure: 
+      Not Offered via Docusign
+In Person Signer Events
+Signature
+Timestamp
+Editor Delivery Events
+Status
+Timestamp
+Agent Delivery Events
+Status
+Timestamp
+Intermediary Delivery Events
+Status
+Timestamp
+Certified Delivery Events
+Status
+Timestamp
+Carbon Copy Events
+Status
+Timestamp
+Sally Palmer
+sally.palmer@nashville.gov
+Security Level: Email, Account Authentication 
+(None)
+Electronic Record and Signature Disclosure: 
+      Accepted: 3/10/2026 7:38:14 AM
+      ID: c368e522-53d6-4dae-9278-2015a3ddba30
+Kelli Woodward
+Kelli.Woodward@nashville.gov
+Security Level: Email, Account Authentication 
+(None)
+Electronic Record and Signature Disclosure: 
+      Accepted: 3/10/2026 2:21:18 PM
+      ID: 2478c473-e29d-40e6-861c-59218ba12f4e
+Amber Gardner
+Amber.Gardner@nashville.gov
+Security Level: Email, Account Authentication 
+(None)
+Electronic Record and Signature Disclosure: 
+      Not Offered via Docusign
+Austin Kyle
+publicrecords@nashville.gov
+Security Level: Email, Account Authentication 
+(None)
+Electronic Record and Signature Disclosure: 
+      Accepted: 3/9/2026 2:04:32 PM
+      ID: 95f6ea22-abcb-4df4-89af-9a61c240e62b
+Gary Clay
+gary.clay@nashville.gov
+Security Level: Email, Account Authentication 
+(None)
+Electronic Record and Signature Disclosure: 
+      Not Offered via Docusign

@@ -1,0 +1,151 @@
+# source: raw/bleecker_drive/Baldwin/Contract.pdf
+# path: raw/bleecker_drive/Baldwin/Contract.pdf
+# hit page: 1 of 7
+# terms: Spare Labs
+
+=== page 1 ===
+State of Alabama) 
+ 
+County of Baldwin) 
+ 
+ 
+CONTRACT FOR PROFESSIONAL SERVICES 
+ 
+This Contract for Professional Services is made and entered into by and between the County of Baldwin 
+(hereinafter called “COUNTY”) acting by and through its governing body, the Baldwin County Commission, 
+and Spare Labs, Inc., (hereinafter referred to as “PROVIDER”). 
+ 
+WITNESSETH: 
+ 
+ 
+Whereas, at its regular meeting on Tuesday, November 5, 2024, the COUNTY authorized 
+staff to solicit a Request for Proposals (RFPs) for MICROTRANSIT SOFTWARE FOR 
+PUBLIC TRANSPORTATION; and 
+ 
+ 
+Whereas, the PROVIDER responded to the Request for Proposals and was chosen by the 
+             COUNTY to provide needed services in accordance with the Request for Proposals and  
+             Response. 
+  
+NOW, THEREFORE, in consideration of the premises and the mutual covenants herein contained the  
+sufficiency of which being hereby acknowledged, PROVIDER and COUNTY do hereby agree as 
+follows: 
+ 
+I. 
+Definitions. 
+The following terms shall have the following meanings: 
+ 
+A. COUNTY:    
+Baldwin County, Alabama 
+ 
+B. COMMISSION:  
+Baldwin County Commission 
+ 
+C. PROVIDER:         
+Spare Labs, Inc. 
+ 
+ 
+  
+II. 
+Obligations Generally.   The COUNTY hereby retains, and the PROVIDER agrees to perform 
+for the COUNTY, those services as hereinafter set forth. This document shall serve as the 
+binding contract for the services of the PROVIDER.   PROVIDER shall immediately 
+commence performance of the services outlined herein upon full execution of this Contract. 
+All work shall be commenced and completed in a timely manner as, and at the times, herein 
+set out. 
+ 
+III. 
+Recitals Included.  The above recitals and statements are incorporated as part of this 
+Agreement and shall have the effect and enforceability as all other provisions herein.  
+ 
+IV. 
+Professional Qualifications.   For the purpose of this Contract, the PROVIDER represents 
+and warrants to the COUNTY that it possesses the professional, technical, and 
+administrative personnel with the specific experience and training necessary to provide the 
+professional services required herein. 
+ 
+V. 
+No Prohibited Exclusive Franchise.   The COUNTY neither perceives nor 
+                          intends, by this Contract, a granting of an exclusive franchise or violation of 
+                         Art. I, Section 22 of the Alabama Constitution.  
+ 
+VI. 
+Representation/Warranty of Certifications, Etc.   PROVIDER represents and warrants that 
+PROVIDER is presently certified, licensed and otherwise permitted under all necessary and 
+applicable laws and regulations to perform the services herein, and that PROVIDER shall 
+renew, maintain, and otherwise ensure that all such certifications, licenses, and permits are 
+current and valid, without interruption, for and through completion of the services.  The 
+representation and warranty aforesaid is a material inducement to the COUNTY in entering 
+this Contract, and the parties agree that the breach thereof shall be deemed material at the 
+County’s option.
+=== page 2 ===
+2 
+ 
+ 
+ 
+VII. 
+Legal Compliance.  PROVIDER shall at all times comply with all applicable Federal, State, 
+local and municipal laws and regulations. 
+ 
+VIII. 
+Independent Contractor.   PROVIDER acknowledges that it is an independent contractor, 
+and PROVIDER shall at all times remain as such in performing the services under this 
+Contract. PROVIDER is not an employee, servant, partner, or agent of the COUNTY and 
+has no authority, whether express or implied, to contract for or bind the COUNTY in any                     
+manner. The parties agree that PROVIDER shall be solely responsible for and shall have full 
+and unqualified control over developing and implementing its own means and methods, as it 
+deems necessary and appropriate in providing the aforementioned services, and that the                     
+COUNTY’s interests herein are expressly limited to the results of said services. PROVIDER 
+is not entitled to unemployment insurance benefits, and PROVIDER is responsible for and 
+obligated to pay any and all federal and state income tax on any monies paid pursuant to this 
+Contract. 
+ 
+IX. 
+No Agency Created.  It is neither the express nor the implied intent of PROVIDER or 
+COUNTY to create an agency relationship pursuant to this Contract.  Therefore, the 
+PROVIDER does not in any manner act on behalf of COUNTY and the creation of such a                      
+relationship is prohibited and void. 
+ 
+X. 
+Unenforceable Provisions.   If any one or more of the provisions contained herein shall, for 
+any reason, be held to be invalid, illegal or unenforceable in any respect, then such provision 
+or provisions shall be deemed severable from the remaining provisions hereof, and such 
+invalidity, illegality or unenforceability shall not affect any other provision hereof.  This 
+Contract shall be construed as if such invalid, illegal or unenforceable provision had never 
+been contained herein. 
+ 
+XI. 
+Entire Agreement.   This Contract represents the entire and integrated agreement between 
+COUNTY and PROVIDER and supersedes all prior negotiations, representations, or 
+agreements, either written or oral.  This Contract may be amended only by written instrument 
+signed by all parties. 
+ 
+XII. 
+Failure to Strictly Enforce Performance.   The failure of the COUNTY to insist upon the strict 
+performance of any of the terms, covenants, agreements and conditions of this Contract 
+shall not constitute, and shall never be asserted by PROVDIER as constituting, a default or 
+be construed as a waiver or relinquishment of the right of the COUNTY to thereafter enforce 
+any such term, covenant, agreement, or condition, but the same shall continue in full force 
+and effect.                                            
+                                                                     
+XIII. 
+Assignment.  This Contract or any interest herein shall not be assigned transferred or 
+otherwise encumbered by PROVIDER without the prior written consent of the COUNTY, 
+which may be withheld or granted in the sole discretion of the COUNTY.  
+ 
+XIV. 
+Ownership of Documents/Work.  The COUNTY shall be the owner of all copyright or other 
+intellectual property rights in reports, documents and deliverables produced and paid for 
+under this Contract, and to the extent permitted by Alabama law, any such material may be 
+reproduced and reused at the discretion of the COUNTY without payment of further 
+consideration.  PROVIDER shall not transfer, disclose, or otherwise use such information for                 
+any purpose other than in performance of the services hereunder, without the                            
+COUNTY’s prior written consent, which may be withheld or granted in the sole discretion                       
+of the COUNTY.                                                                                   
+ 
+Notwithstanding the foregoing, COUNTY acknowledges that PROVIDER shall retain all right, 
+title, and interest in and to (i) its pre-existing intellectual property, proprietary software, 
+platform, and all enhancements, modifications, and derivative works thereof; and (ii) 
+aggregated, anonymized, or de-identified data derived from the performance of the services 
+under this Contract (“Learning Data”). Nothing in this provision shall be construed to grant 
+COUNTY any ownership rights in PROVIDER’s platform, software, or proprietary technology.

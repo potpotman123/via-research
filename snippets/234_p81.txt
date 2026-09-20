@@ -1,0 +1,122 @@
+# source: https://legistar.granicus.com/LosAlamos/attachments/d4ed28e3-5da0-403c-aaa8-20fd558046f1.pdf
+# path: raw/cache/9e8dcba51a86916c33f88b1baedeefebe738b9ef.pdf
+# hit page: 81 of 81
+# terms: Spare Labs
+
+=== page 80 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+80 
+ Agreement Template Version: 04012024 
+Lobbying Certification 
+The undersigned Contractor certifies, to the best of his or her knowledge and belief, that:  
+(1) No Federal appropriated funds have been paid or will be paid, by or on behalf of the undersigned, to any person 
+for influencing or attempting to influence an officer or employee of an agency, a Member of Congress, an officer or 
+employee of Congress, or an employee of a Member of Congress in connection with the awarding of any Federal 
+contract, the making of any Federal grant, the making of any Federal loan, the entering into of any cooperative 
+agreement, and the extension, continuation, renewal, amendment, or modification of any Federal contract, grant, 
+loan, or cooperative agreement.  
+(2) If any funds other than Federal appropriated funds have been paid or will be paid to any person for making 
+lobbying contacts to an officer or employee of any agency, a Member of Congress, an officer or employee of 
+Congress, or an employee of a Member of Congress in connection with this Federal contract, grant, loan, or 
+cooperative agreement, the undersigned shall complete and submit Standard Form--LLL, "Disclosure Form to 
+Report Lobbying," in accordance with its instructions [as amended by "Government wide Guidance for New 
+Restrictions on Lobbying," 61 Fed. Reg. 1413 (1/19/96). Note: Language in paragraph (2) herein has been modified 
+in accordance with Section 10 of the Lobbying Disclosure Act of 1995 (P.L. 104-65, to be codified at 2 U.S.C. 1601, 
+et seq.)]  
+(3) The undersigned shall require that the language of this certification be included in the award documents for all 
+subcontracts.  This certification is a material representation of fact upon which reliance was placed when this 
+transaction was made or entered into.  Submission of this certification is a prerequisite for making or entering into 
+this transaction imposed by 31, U.S.C. § 1352 (as amended by the Lobbying Disclosure Act of 1995).  Any person 
+who fails to file the required certification shall be subject to a civil penalty of not less than $10,000 and not more 
+than $100,000 for each such failure. 
+[Note: Pursuant to 31 U.S.C. § 1352(c)(1)-(2)(A), any person who makes a prohibited expenditure or fails to file or 
+amend a required certification or disclosure form shall be subject to a civil penalty of not less than $10,000 and not 
+more than $100,000 for each such expenditure or failure.]  
+The Contractor, _______________________________________________, certifies or affirms the truthfulness and 
+accuracy of each statement of its certification and disclosure, if any. In addition, the Contractor understands and 
+agrees that the provisions of 31 U.S.C. A 3801, et seq., apply to this certification and disclosure, if any.  
+ 
+____________________________________________ Signature of Contractor's Authorized Official  
+ 
+____________________________________________ Name and Title of Contractor's Authorized Official  
+ 
+____________________________________________ Date  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Attachment A
+=== page 81 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+81 
+ Agreement Template Version: 04012024 
+Exhibit L 
+Sample Amendment Template 
+AGR24-37 
+ 
+Pursuant to Section AG., Parties shall use this Sample Amendment Template, or a similar 
+format, when necessary to draft an amendment. 
+__________________________________________________________________________ 
+ 
+AMENDMENT NO. X 
+INCORPORATED COUNTY OF LOS ALAMOS 
+SERVICES AGREEMENT NO. 24-37 
+ 
+This AMENDMENT NO. X (“Amendment”) is entered into by and between the Incorporated County of 
+Los Alamos, an incorporated county of the State of New Mexico ("County or Customer"), and Spare Labs 
+Inc., a British Columbia, Canada corporation ("Contractor" or “SpareLabs”), collectively (the “Parties”), to 
+be effective for all purposes Month, Date, Year (“Effective Date”).  
+ 
+WHEREAS, County and Contractor entered into Agreement No. AGR24-37 Microtransit and Paratransit 
+Software (the “Agreement”);and 
+ 
+WHEREAS, both parties wish to amend________________; and 
+ 
+NOW, THEREFORE, for good and valuable consideration, County and Contractor agree as follows: 
+[ENTER AMENDED TERMS HERE] 
+ 
+Except as expressly modified by this Amendment, the terms and conditions of the Agreement remain 
+unchanged and in effect. 
+ 
+IN WITNESS WHEREOF, the parties have executed this Amendment No. X on the date(s) set forth opposite 
+the signatures of their authorized representatives to be effective for all purposes on the date first written 
+above. 
+ 
+ATTEST 
+INCORPORATED COUNTY OF LOS ALAMOS 
+ 
+__________________________ 
+BY: ____________________________________ 
+Naomi D. Maestas 
+Anne W. Laurent  
+ 
+ 
+Date 
+County Clerk 
+County Manager 
+ 
+ 
+Approved as to form: 
+ 
+__________________________ 
+J. ALVIN LEAPHART 
+COUNTY ATTORNEY 
+SPARE LABS INC., 
+A BRITISH COLUMBIA, CANADA 
+CORPORATION 
+ 
+ 
+BY: ____________________________________ DATE 
+ 
+Name: __________________________________ 
+ 
+Title: ____________________________________ 
+ 
+ 
+Attachment A

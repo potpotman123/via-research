@@ -1,0 +1,228 @@
+# source: raw/bleecker_drive/Arlington, Virginia/arlington-transit-fy25-34-tsp-final.pdf
+# path: raw/bleecker_drive/Arlington, Virginia/arlington-transit-fy25-34-tsp-final.pdf
+# hit page: 210 of 333
+# terms: Via+vehicles
+
+=== page 209 ===
+4.1 Asset Management
+Arlington Transit Strategic Plan | Chapter 4 Implementation Plan
+3
+farebox repair, and administration and support areas.
+
+Temporary Bus Storage and Operations Lot – During construction of the ART Operations and Maintenance 
+Facility, this County-owned facility located at 1429 N Quincy Street serves as a storage and operations lot for 
+up to 29 buses.
+
+STAR Call Center Office – The County currently operates the Specialized Transportation for Arlington 
+Residents (STAR) Call Center out of a leased, non-County office space located at 2301 Columbia Pike, Suite 
+120.
+The County follows Federal Transit Administration (FTA) and Virginia Department of Rail and Public 
+Transportation (DRPT) guidelines to provide condition ratings for maintenance and operations facilities to DRPT’s 
+TransAM database. Arlington County requires the maintenance Contract Service Provider to keep all its facilities 
+and buses maintained in a clean, safe, and reliable condition. Vehicle appearance is maintained through regular 
+interior and exterior cleanings. Safety and reliability are achieved through daily pre/post-trip inspections and 
+scheduled preventative maintenance inspections. Preventive maintenance quality checks are conducted by the 
+maintenance manager. ART facilitates independent inspections to confirm the contractor is following all inspection 
+protocols. This information is compiled as part of the statewide group TAM plan.
+4.1.4. Passenger Facilities and Amenities Policies
+In addition to numerous Metrorail stations owned by the Washington Metropolitan Area Transit Authority 
+(WMATA), the County owns several key existing passenger facilities and amenities including:
+
+Shirlington Bus Station – Located at 2975 S Quincy Street, this facility provides an enclosed public bus station 
+and serves as the principal transfer point for Metrobus and ART bus services in South Arlington. The facility 
+includes seven bus bays / bus stops, an indoor waiting area with restrooms, and a Commuter Store with 
+personnel who provide information on transit options and sell fare media.
+
+Crystal City Potomac Yard Transitway – This is a 4.5-mile transitway between the Crystal City Metrorail 
+Station in Arlington County and the Braddock Road Metrorail Station in the City of Alexandria along the busy 
+Route 1 corridor. The WMATA Metroway route operates along the corridor. The transitway has nine stations 
+that include real-time displays with bus arrival information, higher curbs for easier vehicle boarding, and 
+canopies for weather protection.
+
+Columbia Pike Bus Stops and Shelters – Located along Columbia Pike, these premium bus stops include a 
+real-time display, lighting, seating, wayfinding information, trash, and recycling receptacles, a distinctive 
+shelter design, and pavement heating elements for winter weather.
+
+Ballston-MU Metro Station Bus Shelters – Located at 4230 Fairfax Drive, Ballston Station is a major transit 
+facility in Arlington, served by the Metrorail Orange line and numerous WMATA Metrobus and ART routes. 
+The recently completed Ballston Multimodal Improvements Project enhanced the passenger and pedestrian 
+experience at this bus terminal. The project, completed in FY22, included new replacement bus shelters with 
+more seating and better visibility than the original small bus shelters. 
+
+Metroway Premium Bus Stops - Metroway is a premium transit service offering faster, more reliable, and 
+more convenient transit trips along Route 1 between Crystal City and Braddock Rd Metrorail stations, via 
+Potomac Yard. WMATA operates Metroway, and Arlington County owns and maintains the consolidated bus 
+stops along the route. 
+The Arlington Transit Bureau is responsible for monitoring and maintaining bus stops and bus stop amenities. The 
+Arlington’s Bus Stop Guidelines & Standards Manual2 outlines guidelines and standards Arlington Transit Bureau 
+abides by in the planning and providing of bus stops within Arlington. The manual serves as the guiding document 
+that Arlington Transit uses when evaluating and implementing the design, function, and placement of bus stops, 
+including recommendations for determining when and where to use the three common bus stop typologies: near-
+side, far-side, and midblock bus stops. It outlines the set of design criteria and the minimum requirements to 
+provide accessible, safe, and efficient bus stops, contains policies and s
+2 https://www.arlingtontransit.com/sites/art/assets/File/2020-03-17-
+FINAL_Bus_Stop_Guidelines_and_Standards.pdf
+=== page 210 ===
+4.1 Asset Management
+Arlington Transit Strategic Plan | Chapter 4 Implementation Plan
+4
+tandards for bus stop placement, spacing, and necessary passenger amenities, as well as detailed policies on 
+bus stop design physical elements and accessibility standards. 
+Maintenance is performed as often as necessary to create a positive impression for the public and includes:
+
+Cleaning of bus shelters and benches and/or lean bars to include but not limited to the removal of dirt, graffiti, 
+posted materials, or stickers;
+
+Fixing real-time information signage;
+
+Removal of trash and recycling by SWB or other responsible entity per agreements as scheduled or 
+dependent on the amount of trash that accumulates at the stop;
+
+Manual or chemical removal of weeds and pruning of obstructing foliage;
+
+Verifying shelter lighting levels and replacement of bad bulbs and ballasts;
+
+Cleaning a location to make a site safe and repairing items that pose a safety concern as soon as possible 
+including broken glass panels, broken frames of shelters, damaged benches and/or lean bars, and snow and 
+ice removal.
+Arlington’s Bus Stop Guidelines & Standards Manual also includes a chapter with policies to coordinate 
+construction at/near bus stops to ensure buses and passengers can safely access the stop during periods of 
+construction. The County follows FTA and DRPT guidelines to provide condition ratings for passenger facilities to 
+DRPT’s TransAM database. This information is compiled as part of the statewide group TAM plan. 
+4.1.5. Technology and ITS Policies
+A variety of transit technologies are used throughout Arlington - at transit stations and bus stops, on buses, and 
+through data-sharing via websites, mobile phone applications, and real-time displays. Arlington County’s Transit 
+Intelligent Transportation Systems (ITS) and Security Program are dedicated to the installation and maintenance 
+of technology to improve transit operations and rider information systems and to identify and mitigate agency 
+security and safety issues. Arlington is committed to implementing technologies that make transit trips faster, 
+easier, and more reliable.
+The County’s ongoing initiatives focus on providing accurate and timely information to both operations staff and 
+transit customers. This program builds upon and expands technologies already in place as well as introduces new 
+technologies recommended in the Transit ITS master plan. Compared to other asset classes like vehicles and 
+facilities, technology assets need more frequent replacement. ART aims to replace its ITS and technology assets 
+when they are no longer supported by the vendor or when their software cannot be updated, they come to the end 
+of their useful life, and/or the technology no longer cross-integrates. 
+Recently implemented ITS and security projects include:
+
+Real-time Delivery Preference Study3 – focused on what Arlington transit riders expect in terms of real-time 
+information delivery.
+
+Installation of a real-time multimodal information display at the Arlington Mill Community Center.
+
+Conversion of electronic displays from scheduled arrival time to real-time arrival information at the South Bell 
+Street bus bays adjacent to the Crystal City Metrorail station.
+
+Addition of ADA-accessible speaker boxes at Crystal City and Rosslyn bus bays.
+
+Addition of two bus stops at Shirlington Bus Station with real-time information displays.
+
+Installation of security systems at the new ART bus facility on South Eads Street.
+
+Installation of onboard video cameras on ART buses to increase the safety of riders and bus operators.
+The specifics regarding technology projects currently in planning or development are described in Technology 
+and ITS in section 4.2.2. 
+3 https://arlingtonva.s3.amazonaws.com/wp-content/uploads/sites/31/2019/04/DES-Transit-ITS-Real-
+time_Preference_Study_Final_Report_2018.pdf
+=== page 211 ===
+Capital Implementation Plan
+Arlington Transit Strategic Plan | Chapter 4 Implementation Plan
+5
+4.2. Capital Implementation 
+Plan
+Capital projects are informed by the County’s 10-year Capital Improvement Plan covering FY23 through FY32.4
+4.2.1. Rolling Stock
+Replacement Vehicles
+ART has identified the following replacement schedule in the County’s CIP:
+
+Twenty (20) 40' replacement CNG/RNG buses - FY 2023
+
+Thirty (30) 40-foot replacement buses FY 2024
+
+Eight (8) 40-foot replacement buses FY 2026
+
+Eight (8) 40-foot replacement buses FY 2027
+
+Thirteen (13) 40-foot replacement buses FY 2029
+
+Fourteen (14) 40-foot replacement buses FY 2031
+For this TSP, based on the current ratio of BEB to CNG buses, owing to the range limitations of BEBs, the FY 
+2024 replacement of 15 CNG buses assumes the purchase of 30 BEBs to ensure no disruption to service. Bus 
+purchases in later years have been programmed assuming a one-for-one bus replacement ratio, pending 
+recommendations of ART’s ZEB feasibility study. The study is considering three scenarios, without committing to 
+selecting a single option: 2:1 BEB to CNG, 1.5:1 BEB to CNG, and 1:1 Hydrogen Fuel Cell Electric Buses 
+(FCEBs) to CNG. Following completion of the study, fleet replacement costs for the CIP program will be updated 
+and reflected in the annual update of this TSP. As part of the County’s Zero Emissions Bus Study, ART is also 
+working with manufacturers to pilot BEB and FCEBs. 
+Table 2 summarizes the replacement vehicle capital needs due to vehicles reaching the end of their useful life. As 
+BEB technology and associated costs are still evolving, the schedule represents a rough estimate.
+TABLE 2 | REPLACEMENT VEHICLE PURCHASES BY YEAR AND TYPE
+Replace
+FY23
+FY24
+FY25
+FY26
+FY27
+FY28
+FY29
+FY30
+FY31
+FY32
+FY33
+FY34
+CNG/RNG 40-
+foot
+20
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+BEB 40-foot
+0
+30
+0
+8
+8
+0
+13
+0
+14
+0
+0
+0
+Total Vehicles
+20
+30
+0
+8
+8
+0
+13
+0
+14
+0
+0
+0
+Total Cost of 
+Replacement 
+($1,000s-YOE)
+14,672
+33,896
+0
+9,573
+9,861
+0
+16,998
+0
+19,419
+0
+0
+0
+4 https://www.arlingtonva.us/files/sharedassets/public/budget/documents/cip-webpage/1.-cip-
+final/adopted-cip-fiscal-years-2023-2032.pdf

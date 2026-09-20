@@ -1,0 +1,189 @@
+# source: https://legistar.granicus.com/LosAlamos/attachments/d4ed28e3-5da0-403c-aaa8-20fd558046f1.pdf
+# path: raw/cache/9e8dcba51a86916c33f88b1baedeefebe738b9ef.pdf
+# hit page: 55 of 81
+# terms: Spare Labs
+
+=== page 54 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+54 
+ Agreement Template Version: 04012024 
+○ 
+In most cases, the rollout is slowly ramped up over a 15-30 minute period 
+○ 
+If error rates rise during the rollout, it is automatically 
+rolled back, and Engineers are alerted 
+○ 
+We also have a bot that continuously performs key 
+workflows against the staging environment, “Spare 
+Monitor”. If any of them fail, the rollout is automatically 
+rolled back, and Engineers are alerted 
+○ 
+This environment is similar to our true production, that 
+customers use, but customers do not use it 
+○ 
+The rollout process is gradual, with automated monitoring: 
+6. 
+If the staging deploy succeeds without issue, a production 
+deploy (releasing to customers) is possible 
+○ 
+By default, changes will be automatically 
+deployed to production the day after a successful 
+staging deployment 
+○ 
+However, if necessary, Engineers can manually trigger a 
+production deploy before this (for example, to fix an 
+urgent bug) 
+7. 
+The production deploy goes through the same steps as the staging deploy 
+○ 
+See step 5 above (automated monitoring/rollback) 
+8. 
+Once the change is in production, a comprehensive set of alerts will 
+page on-call Engineers if any issues are detected 
+○ 
+Primarily we monitor for increases in error rates or latencies 
+○ 
+The bot described in step 5 will also alert if any key workflows do not 
+function properly 
+○ 
+There are always Engineers on call, 24/7 
+The above applies to even the smallest change. The above applies to 
+even the smallest change. For higher risk changes, or significant new 
+features, all of the above occurs, as well as extra measures to ensure 
+quality: 
+1. 
+The Engineer(s) working on the change run a manual QA process 
+○ 
+We have a set of manual QA “scripts” for specific types of changes 
+○ 
+For many changes, Engineers will produce a script specific 
+to this change, to ensure very specific new functionality 
+works as intended 
+2. 
+The change itself is gated by a “feature flag” 
+○ 
+This allows it to be enabled for a single organization at a time 
+ 
+ 
+Attachment A
+=== page 55 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+55 
+ Agreement Template Version: 04012024 
+○ 
+At first, the change is enabled only for internal testing organizations 
+3. 
+A non-Engineer stakeholder, often a Product Manager or Designer, 
+will themselves manually test the change on an internal test 
+organization, to ensure it meets all requirements 
+○ 
+If not, changes will be made before rolling out to any customers 
+4. 
+The change will then be enabled for a small number of customers 
+○ 
+The most common process for determining candidate 
+customers is for Spare’s Partner Success team to nominate 
+customers (generally ones eagerly awaiting the feature), 
+reach out to the customers, and roll it out with their approval 
+to be an early adopter 
+5. 
+Feedback is collected from early adopters 
+○ 
+Release blocking bugs or functionality changes are incorporated before 
+rolling out further 
+6. 
+The rollout is gradually expanded to more customers, and finally all customers 
+○ 
+Depending on the change, this can happen over a period of days, weeks, 
+or even months 
+○ 
+When fully released, the feature flag is removed 
+○ 
+The only exception is certain features that not all customers 
+will want - in these cases the feature flag is left long term, so 
+the feature can be enabled/disabled on a customer by 
+customer basis 
+System Acceptance Testing 
+The system acceptance testing speaks to the testing of Spare’s 
+products and features to ensure uninterrupted functionality for Los 
+Alamos County. Our approach includes: 
+Automated Testing for Continuous Improvement. Spare uses automated 
+test-driven development techniques to ensure that as we develop new 
+features, they are being tested on the fly and as completed. Upon 
+completion of a feature, but prior to release, automated testing is 
+completed as discussed, then manual testing is completed by a variety of 
+engineers on the team to ensure the product is ready to be staged. Spare 
+also maintains a continuous monitoring system to alert engineers if any 
+issues are identified. With Spare’s 24/7 on-call schedule, we can guarantee 
+an engineer will be ready at a moment’s notice in the event of an 
+emergency. 
+Quality Checks at Every Stage. Spare uses Google Cloud Platform for its 
+cloud environment. We have a testing, staging and production 
+environment, and every feature or database update or release will go 
+through each environment prior to being shipped. Additionally, automated 
+monitoring processes notify the engineering operations team if anything 
+is out of the ordinary. Spare’s Partner Success team is also actively 
+observing systems every day to ensure a high quality of service. 
+Attachment A
+=== page 56 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+56 
+ Agreement Template Version: 04012024 
+Operability Performance Testing 
+We will work closely with Los Alamos County's project team to craft a 
+tailored end-to-end testing plan that ensures the service design and 
+Spare’s platform configurations align with Los Alamo’s objectives and 
+service goals. This will be set at the beginning of the project and will work 
+as the project’s North Star. 
+Testing can be done in the sandbox/testing and production environments, 
+based on the specific characteristics of what is being tested and Los 
+Alamos County’s desired testing approach. These are a few of the different 
+types of operability testing we do: 
+Desk testing. This involves booking fake trips with fake rider profiles and 
+fake driver duties/trips. This is completed by Los Alamos County’s project 
+team members. 
+ 
+Specific user workflow testing. This testing is done by the Admin, 
+Dispatcher/Scheduler, Driver, Customer Service Representative, and 
+Data Analyst. Similarly described in our Training section, this is 
+completed by specific end users to mirror real world operations. This 
+testing involves all the steps for: 
+● 
+Admin: Adding a platform user, adding admin notifications, adding 
+a custom field, editing a custom field, deleting a custom field, 
+creating a service, adding a new zone, adding service settings, 
+adding a stop zone, adding time rules, adding a fleet, creating a 
+new group/membership, creating an announcement, creating a fare 
+rule, adding a fixed fare rule, and adding a per rider (variable) fare 
+rule. 
+● 
+Dispatcher/Scheduler: Creating a duty, duplicating a duty, deleting a 
+duty, canceling a duty, changing a driver, changing a vehicle, 
+extending duty hours, changing a vehicle (down for maintenance), 
+simulating a vehicle incident (short term vehicle issue), simulating a 
+vehicle incident (long term vehicle issue), adding a driver, adding a 
+vehicle, adding a fleet, monitoring live requests, view requests by 
+hour, view requests by driver, and view requests by service. 
+● 
+Driver App: Creating a duty, downloading the Spare Driver App, 
+logging into Spare Driver, starting a duty, booking a request to your 
+duty, new requests, changing navigation view, viewing navigation by 
+directions, viewing rider/request details, canceling a trip, simulating 
+pick up, viewing all upcoming stops, and simulating a “no show”. 
+● 
+Customer Service Representative: Create a "leave as soon as 
+possible" request, cancel a trip, create a scheduled request, 
+create a return request, edit an existing request, arrive by request, 
+create a duplicate request, recurring trip, adding a rider, adding 
+default request preferences, adding a favorite location, adding a 
+membership, adding a payment method, lifting a rider ban early, 
+booking to the paratransit service, booking to the on-request 
+service, booking trips - troubleshooting, outside of the service 
+zone, rider not added to group, and ride requested outside of 
+service hours. 
+● 
+Rider App / Web Booker: Downloading the app, logging into the app 
+Attachment A

@@ -1,0 +1,262 @@
+# source: raw/bleecker_drive/Arlington, Texas/FTA-Report-No-0244.pdf
+# path: raw/bleecker_drive/Arlington, Texas/FTA-Report-No-0244.pdf
+# hit page: 5 of 74
+# terms: Via Transportation, Via+fleet, Via+vehicles
+
+=== page 4 ===
+SYMBOL 
+WHEN YOU KNOW 
+MULTIPLY BY 
+TO FIND 
+SYMBOL 
+LENGTH 
+in 
+inches 
+25.4 
+millimeters 
+mm 
+ft 
+feet 
+0.305 
+meters 
+m 
+yd 
+yards 
+0.914 
+meters 
+m 
+mi 
+miles 
+1.61 
+kilometers 
+km 
+VOLUME 
+fl oz 
+fluid ounces 
+29.57 
+milliliters 
+mL 
+gal 
+gallons 
+3.785 
+liters 
+L 
+ft3 
+cubic feet 
+0.028 
+cubic meters 
+m3 
+yd3 
+cubic yards 
+0.765 
+cubic meters 
+m3 
+NOTE: volumes greater than 1000 L shall be shown in m3 
+MASS 
+oz 
+ounces 
+28.35 
+grams 
+g 
+lb 
+pounds 
+0.454 
+kilograms 
+kg 
+T 
+short tons (2000 lb) 
+0.907 
+megagrams  
+(or "metric ton") 
+Mg (or "t") 
+TEMPERATURE (exact degrees) 
+oF 
+Fahrenheit 
+5 (F-32)/9 
+or (F-32)/1.8 
+Celsius 
+oC 
+Metric Conversion Table
+=== page 5 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+v
+REPORT DOCUMENTATION PAGE
+Form Approved
+OMB No. 0704-0188
+1. REPORT DATE
+April 2023
+2.	 REPORT TYPE
+Annual Report
+3. DATES COVERED 
+March 2020–December 2022
+The public reporting burden for this collection of information is estimated to average 1 hour per response, including the time for reviewing 
+instructions, searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the collection of 
+information. Send comments regarding this burden estimate or any other aspect of this collection of information, including suggestions for reducing 
+the burden, to Department of Defense, Washington Headquarters Services, Directorate for Information Operations and Reports (0704-0188), 1215 
+Jefferson Davis Highway, Suite 1204, Arlington, VA 22202-4302. Respondents should be aware that notwithstanding any other provision of law, no 
+person shall be subject to any penalty for failing to comply with a collection of information if it does not display a currently valid OMB control number. 
+4. TITLE AND SUBTITLE
+Arlington Rideshare, Automation, and Payment Integration Demonstration (RAPID) 
+Final Report
+5a.	CONTRACT NUMBER
+       
+6. AUTHOR(S)
+Ann Foss
+7. PERFORMING ORGANIZATION NAME(S) AND ADDRESSE(ES)
+City of Arlington
+101 W. Abram Street
+Arlington, TX 76010
+8.	 PERFORMING ORGANIZATION REPORT
+NUMBER
+FTA Report No. 0244
+9.
+SPONSORING/MONITORING AGENCY NAME(S) AND ADDRESS(ES)
+U.S. Department of Transportation
+Federal Transit Administration
+Office of Research, Demonstration and Innovation
+1200 New Jersey Avenue, SE,  Washington, DC 20590
+12 . DISTRIBUTION/AVAILABILITY STATEMENT
+      Available from: National Technical Information Service (NTIS), Springfield, VA 22161; (703) 605-6000, Fax (703) 605-6900, 
+email [orders@ntis.gov]; Distribution Code TRI-30
+14. ABSTRACT
+The Arlington Rideshare, Automation, and Payment Integration Demonstration (RAPID) project is an integration of a shared, dynamically-routed 
+automated vehicle (AV) fleet into an existing public rideshare system in Arlington, Texas. The City of Arlington, working with Via Transportation, 
+Inc., May Mobility, Inc., and the University of Texas at Arlington (UTA), led the demonstration from March 23, 2021, to March 18, 2022, in a one-
+square mile area that included Arlington’s downtown and the UTA campus. Over the one-year RAPID demonstration, a total of 28,140 rides 
+were provided with no safety incidents or accidents, successfully demonstrating that an AV service could be seamlessly integrated into an 
+existing on-demand rideshare service and that the public would accept automated rides. Rider feedback showed that riders felt safe, enjoyed 
+the service, and appreciated the free fares for UTA students. Autonomy performance improved over the course of the year as the project team 
+and AV technology learned and adapted to the demonstration area. Findings from the RAPID project can be used to improve automated, 
+shared public transit services in other locations, particularly concerning safety, technology, design of service parameters, communication, and 
+public perception. Data from operational elements and from surveys, interviews, and focus groups provide helpful analysis, conclusions, and 
+recommendations that can be used by others seeking to deploy similar services. The City of Arlington and its partners will continue to operate 
+the RAPID service, incorporating lessons learned to improve and grow the service and its benefits to the community. 
+15. SUBJECT TERMS 
+Autonomous vehicles, automated vehicles, AV, microtransit, rideshare, mobility-on-demand, MOD, persons with disabilities, AV perceptions and
+attitudes, travel behavior
+a. REPORT
+Unclassified
+b. ABSTRACT 
+Unclassified
+17. LIMITATION OF
+ABSTRACT 
+Unlimited
+19a. NAME OF RESPONSIBLE PERSON
+5b.	GRANT NUMBER
+5c.	PROGRAM ELEMENT NUMBER
+c. THIS PAGE 
+Unclassified
+16.	SECURITY CLASSIFICATION OF:
+18. NUMBER 
+OF PAGES
+74
+19b. TELEPHONE NUMBER 
+Standard Form 298 (Rev. 8/98)
+Prescribed by ANSI Std. Z39.18
+13. SUPPLEMENTARY NOTES [www.transit.dot.gov/research-innovation/fta-reports-and-publications] [https://www.transit.dot.gov/about/research-
+innovation] [https://doi.org/10.21949/1527657] Suggested citation: Federal Transit Administration. Arlington Rideshare, Automation, and 
+Payment Integration Demonstration (RAPID) Final Report. Washington, D.C.: United States Department of Transportation, 2022. https://doi.
+org/10.21949/1527657.
+10.	SPONSOR/MONITOR'S ACRONYM(S)
+FTA
+11.	SPONSOR/MONITOR'S REPORT NUMBER(S)
+5d.	PROGRAM NUMBER 
+5e.	TASK NUMBER
+5f.	 WORK UNIT NUMBER
+=== page 6 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+vi
+TABLE OF CONTENTS
+	 1	
+Executive Summary
+	 3	
+Section 1  RAPID Project Introduction
+	 5	
+Section 2 RAPID Project Description
+	10	
+Section 3 RAPID Project Evolution
+	37	
+Section 4 RAPID Project Evaluation
+	43	
+Section 5 RAPID Project Conclusions and Recommendations
+	49	
+Appendix A RAPID Marketing Materials
+	53	
+Appendix B Survey Instruments
+LIST OF FIGURES
+
+	
+6	
+Figure 2-1  Arlington Microtransit and Automated Services
+	
+7	
+Figure 2-2  RAPID Service Area
+	
+11	
+Figure 3-1  Proposed Service Area from Arlington’s IMI Application
+	
+12	
+Figure 3-2  Internal Route Network and Stop Map
+	
+12	
+Figure 3-3  Public-Facing RAPID Service Area Map 
+	
+15	
+Figure 3-4  RAPID Incident Process
+	
+16	
+Figure 3-5  Arlington RAPID Logo
+	
+17	
+Figure 3-6  Arlington RAPID Vehicles and Vehicle Wraps
+	
+22	
+Figure 3-7  RAPID Daily Average Rides by Week for Demonstration
+	
+23	
+Figure 3-8  Monthly Autonomy Performance
+	
+25	
+Figure 3-9  Autonomy Heatmap for Beginning of Demonstration (March – April 	
+	
+	
+	 2021)
+	
+25	
+Figure 3-10  Autonomy Heatmap for Last Month of Demonstration (March 2022)
+	
+29	
+Figure 3-11  Survey Responses: Trip Purpose on RAPID (n=295)
+	
+30	
+Figure 3-12  Survey Responses: Modes of Transportation Used in Addition to 	
+	
+	
+	 RAPID (n=261)
+	
+35	
+Figure 3-13  Survey Responses: RAPID Trip Experience (n=298)
+	
+38	
+Figure 4-1  Age Distribution of RAPID Riders, Based on Survey Responses (n=262)
+	
+39	
+Figure 4-2  Annual Household Income Distribution of RAPID Riders, Based on 	
+	
+	
+	 Survey Responses (n=248)
+	
+49	
+Figure A-1  Front of Marketing Flyer
+	
+49	
+Figure A-2  Back of Marketing Flyer
+	
+50	
+Figure A-3  Marketing Poster
+	
+51	
+Figure A-4  COVID-19 Safety Poster
+	
+52	
+Figure A-5  Social Media Marketing

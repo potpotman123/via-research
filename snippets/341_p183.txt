@@ -1,0 +1,116 @@
+# source: raw/bleecker_drive/Ben Franklin Transit/Board-Packet-2025-07-17-REVISED-1.pdf
+# path: raw/bleecker_drive/Ben Franklin Transit/Board-Packet-2025-07-17-REVISED-1.pdf
+# hit page: 183 of 253
+# terms: Via+drivers
+
+=== page 182 ===
+2025-2031 TRANSIT DEVELOPMENT PLAN 
+Ben Franklin Transit 
+24 
+Figure 11 
+FTA TERM Scale 
+Rating 
+Condition 
+Description 
+5 
+Excellent 
+No visible defects, new or near new condition, may still be under warranty 
+if applicable 
+4 
+Good 
+Good condition, but no longer new, may have some slightly defective or 
+deteriorated component(s), but is overall functional 
+3 
+Adequate 
+Moderately deteriorated or defective components; but has not exceeded 
+useful life 
+2 
+Marginal 
+Defective or deteriorated component(s) in need of replacement; exceeded 
+useful life 
+1 
+Poor 
+Critically damaged component(s) or in need of immediate repair; well past 
+useful life 
+Additional detail about BFT’s facilities and vehicle fleet inventory, including condition ratings 
+related to SGR, is available in Appendix G. 
+Estimating Capital Investment Needs 
+BFT uses analytical processes and decision-support tools to estimate and plan for capitalization 
+investment needs through asset life-cycle planning.  
+ 
+Investment Prioritization 
+BFT engages in an iterative capital planning process where capital investment needs and requests 
+are evaluated by the Capital Improvement Committee (CIC). The CIC evaluates requests based on 
+safety considerations, alignment with strategic objectives, and support for maintaining SGR. 
+Projects are prioritized based on their potential to address identified safety risks and enhance or 
+maintain a SGR over a four-year period. The CIC evaluates funding levels from all available sources 
+and the probability of securing these funds each fiscal year. The six-year rolling Capital 
+Improvement Program (CIP) is updated annually and presented to the Board of Directors for 
+approval. 
+ 
+•A forecast model based on vehicle useful life.
+Fleet Management Plan
+•Annual reports assessing vehicle asset conditions based on the TERM scale.
+Vehicle Master Reports
+•Annual reports assessing facility asset conditions based on the TERM scale.
+Asset Master Reports
+•Reports prepared at least every four years assessing facility asset conditions based on 
+the TERM scale.
+Facilities Condition Assessment
+=== page 183 ===
+2025-2031 TRANSIT DEVELOPMENT PLAN 
+Ben Franklin Transit 
+25 
+Safety Performance Measures and Targets 
+BFT's Public Transportation Agency Safety Plan (PTASP) aligns with and supports a Safety 
+Management System (SMS) approach to safety risk management. SMS is a comprehensive 
+framework of policies, processes, and practices designed to ensure a formal, proactive, and data-
+driven approach to managing safety risks. The goal of SMS is to enhance transit system safety by 
+proactively identifying, assessing, and mitigating safety risks. This approach is both flexible and 
+scalable, allowing transit agencies of all types and sizes to effectively meet fundamental federal 
+requirements. 
+Between 2022 and 2023, BFT’s emphasis on incident reporting and safety measures has led to 
+several significant improvements. The modernization and upgrade of safety reporting software to 
+Trackit Manager now enables staff to submit incident and driver reports more efficiently, 
+streamlining and accelerating the process. As a result, there has been an increase in recorded 
+incidents for 2023 and 2024, as the previous manual reporting process was less comprehensive. 
+This shift reflects improved monitoring and heightened awareness of safety issues across all 
+departments. 
+The agency’s Safety team has also launched an awareness campaign aimed at reducing incidents 
+and providing safety tips, with a particular focus on fixed route and DAR operations. Past reports 
+highlighted the need for increased safety awareness and a more proactive approach to identifying 
+and addressing safety concerns. With the transition to digital reports, the agency can now quickly 
+identify areas that require immediate attention and improvement. Staff will focus on emerging 
+issues, particularly in divisions that were previously incident-free, allowing for more targeted safety 
+interventions and preventive measures to reduce future incidents. 
+By recognizing these improvements and continuing to refine safety protocols, BFT staff will be 
+better equipped to enhance the overall safety and reliability of the agency’s transit operations. 
+Over the next several years, BFT’s training department will undergo a significant transformation to 
+enhance safety and transit services: 
+ 2025: Comprehensive Driver Training Programs 
+o Target: Develop and implement comprehensive driver training and ride/drive 
+programs along with an annual refresher training program. 
+o Measure: All drivers will be equipped with essential skills for safe and efficient 
+transit operations. 
+o Goal: Achieve a 15% reduction in incidents related to driver error. 
+ 2025: Defensive Driving Focus 
+o Target: Intensify emphasis on defensive driving techniques via the Smith System 
+Defensive Driving method. 
+o Measure: All drivers will undergo advanced defensive driving training and receive 
+annual driver performance evaluations. 
+o Goal: Reduce collision rates by 15% across the transit system. 
+ 2026: Organization-Wide Training and Talent Development
+=== page 184 ===
+2025-2031 TRANSIT DEVELOPMENT PLAN 
+Ben Franklin Transit 
+26 
+o Target: Expand training efforts to include organization-wide training and talent 
+development, along with the implementation of a Learning Management System 
+(LMS) training integration. 
+o Measure: All staff will participate in skill refinement and safety enhancement 
+programs. 
+o Goal: Improve overall safety performance metrics by 25%. 
+BFT strives to enhance communication, safety, and customer service standards, ensuring 
+consistent excellence and reliability in service delivery to the communities it serves through 
+ongoing and targeted training. BFT will strengthen its safety culture and improve operational 
+efficiency by achieving these performance measures and targets.

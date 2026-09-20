@@ -26,3 +26,48 @@ Form 4s since 2026-03-01: 6; total filings listed: 79
 "Via Transportation" microtransit: 8
 "Via Transportation" contract: status None 
 "Via Transportation" paratransit: 0
+"Via Transportation" transit: status None 
+"Remix Technologies": status None 
+"Downtowner" shuttle: 0
+"Spare Labs" transit: 0
+"RideCo" transit: status None 
+ridewithvia: 2
+wrote 10 rows -> text/enum/gdelt_articles.csv
+##### p1_web_lists
+wrote 1471 rows -> text/enum/sitemap_ridewithvia.csv
+ridewithvia: sections [('resources', 685), ('news', 467), ('case-study', 68), ('legal', 63), ('product-updates', 47), ('de', 30), ('solutions', 22), ('careers', 18)]
+wrote 0 rows -> text/enum/sitemap_downtowner.csv
+downtowner: sections []
+wrote 0 rows -> text/enum/sitemap_remix.csv
+remix: sections []
+downtowner_home: 27490 bytes
+remix_customers_live: 158956 bytes
+via_customers_live: status None
+##### p1_safer
+River North Transit: 0 carrier links, 4241 bytes
+NoMad Transit: 1 carrier links, 4352 bytes
+Crosby Street Transit: 1 carrier links, 4368 bytes
+Via Mobility: 2 carrier links, 4725 bytes
+Via Transportation: 17 carrier links, 10365 bytes
+Via Transit: 5 carrier links, 5848 bytes
+Remix Technologies: 0 carrier links, 4240 bytes
+Downtowner: 3 carrier links, 5115 bytes
+Flatiron Transit: 0 carrier links, 4238 bytes
+Greenpoint Transit: 0 carrier links, 4240 bytes
+Port City Transit: 2 carrier links, 4737 bytes
+Tidewater Transit: 2 carrier links, 4730 bytes
+Sioux Falls Transit: 0 carrier links, 4241 bytes
+Citymapper: 0 carrier links, 4232 bytes
+Downtowner Transportation: 0 carrier links, 4247 bytes
+Downtowner App: 0 carrier links, 4236 bytes
+wrote 33 rows -> text/enum/safer_hits.csv
+##### p1_ntd
+2017: no data-product page found
+2018: no data-product page found
+2019: no data-product page found
+2020: no data-product page found
+2021: no data-product page found
+2022: no data-product page found
+2023: no data-product page found
+2024: no data-product page found
+wrote 0 rows -> text/enum/ntd_contractual_files.csv

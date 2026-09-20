@@ -1,0 +1,129 @@
+# source: raw/bleecker_drive/Hillsborough County/Completed Contract File.pdf
+# path: raw/bleecker_drive/Hillsborough County/Completed Contract File.pdf
+# hit page: 116 of 199
+# terms: Via+fleet, Via+vehicles
+
+=== page 115 ===
+Services managed in 
+one platform
+3
+10%
+Partner Challenges
+Sarasota County Transit sought new software to help 
+improve on-time performance and decrease missed 
+trips amidst an industry-wide driver shortage. 
+Via Solution
+Via provides SCAT with an integrated solution for ADA 
+paratransit as well as two demand-responsive programs 
+serving pre-booked trips for Transit Disadvantaged 
+riders and on-demand trips for veterans across a 600+ 
+square mile area. Trips are commingled across the ADA 
+paratransit and Transportation Disadvantaged services, 
+with each service having different zones and program 
+requirements. Since switching to Via, SCAT has seen a 
+10% improvement in on-time performance and growth in 
+the ADA paratransit service to over 500 rides per day. 
+Sarasota County Transit
+A commingled solution for ADA paratransit and 
+on-demand services
+Partner:
+Sarasota County 
+Transit
+Location:
+Sarasota, FL
+Service Type:
+Commingled 
+mobility
+The level of convenience Via brings to 
+our Transportation Disadvantaged riders 
+far exceeds the previous standard. We’ve 
+heard from many satisfied customers.” 
+- Seth Kling, Paratransit & Transit 
+Services Manager
+“
+Increase in On-Time 
+Performance
+500+
+Paratransit trips per 
+day
+=== page 116 ===
+Migrated rider 
+accounts
+40%
+Partner Challenges
+Metrobus faced recurring challenges as they utilized various 
+legacy technology providers, including Routematch and 
+Tripspark, to power their paratransit service. Facing significant 
+operational inefficiencies paired with higher than usual 
+ridership demands, the agency sought to upgrade their 
+technology.
+Via Solution
+Since launching Via’s technology in St. John’s in November 
+2021, we have promoted greater efficiency and high quality of 
+service for Metrobus. Our system utilizes ViaAlgo to optimize 
+routing for the agency’s fleet of 18 vehicles, as well as two 
+unique solutions for utilizing taxi partners for overflow trips. 
+Our algorithm enables the Agency to better account for 
+detours, boarding times, and dynamic capacity for passengers’ 
+accessibility devices. Given the success of the service, 
+Metrobus is working to expand their options and launch a 
+general microtransit service in the near future.
+Metrobus
+Upgraded technology to power a revamped 
+paratransit service
+Partner:
+Metrobus
+Location:
+St. John’s, Canada
+Service Type:
+Paratransit
+"Significant improvement was also 
+identified during the audit in relation to key 
+performance indicators tracked and 
+reported by Metrobus. Productivity… 
+increased from 2.08 in 2017 to 3.35 in 
+June of 2022. This substantial increase 
+can be attributed to the implementation of 
+a new scheduling software (“Via”) in 2021.”
+- City of St. John’s Office of the City 
+Internal Auditor Report
+“
+Increase in 
+Utilization
+4.9
+Average rider rating 
+(out of 5)
+3K+
+=== page 117 ===
+3. Technical Approach
+We are excited to leverage a combination of our best-in-class software solution and expert
+support to help enhance mobility and access for Hillsborough County’s Sunshine Line. For this
+project, Via proposes our Software-as-a-Service ՄSaaSՅ solution: a comprehensive technology
+system to power intuitive and user-friendly mobility services for riders. Our technology, in tandem
+with our deeply involved partner support services and in-depth experience replacing
+Routematch-powered services, will help seamlessly expand mobility across the county while
+maintaining manageable operational and administrative costs.
+We believe that the solution we have highlighted in this proposal is sufficient to meet and exceed
+the needs of the County (as well as the technical requirements and specifications listed in the RFPՅ
+to deliver a highly efficient, best-in-class mobility service to the County. In response to the
+County’s key technical priorities, we’ve highlighted our platform’s capabilities to provide:
+User-friendly reservations for advance, real-time, and subscription / recurring
+trips paired with manual, computer-assisted, and fully automated trip scheduling.
+Comprehensive client record and eligibility applications management features to
+accommodate the County’s current application process logic and flow.
+An extensive selection of service reports, as well as reporting configurability and
+the complete data transparency of Direct Data Access ՄDDAՅ.
+A custom-designed bus pass distribution solution that enables staff to continue to
+provide a high volume of passes monthly to clients within the Via system.
+High quality in-vehicle Mobile Data Computers ՄMDCՅ, along with all the necessary
+installation, wireless service, software applications, and support.
+Fully-supported installation, implementation, and testing, including a seamless
+data conversion from Routematch using our tried-and-true processes.
+Robust information technology security to ensure the safety and uninterrupted
+accessibility of the County’s data.
+For a select few product features listed in the RFP, we offer alternative solutions to the use-cases
+that the County has specified. We describe these alternatives in the following section and look
+forward to further discussing these features with the County to ensure our solution meets
+Hillsborough County’s needs.
+Proprietary, Confidential, and Trade Secret Information
+RFP‐23‐24177 | 14

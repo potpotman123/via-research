@@ -1,0 +1,411 @@
+# source: https://denver.legistar1.com/denver/attachments/3b08e67e-403b-4049-933d-df19a44d8b1a.pdf
+# path: raw/cache/d9bbf72a447993ffe87373b22633daae189c3305.pdf
+# hit page: 27 of 112
+# terms: Downtowner
+
+=== page 26 ===
+Downtowner Holdings LLC
+Brown & Brown of Florida, Inc.
+25
+Certificate of Liability Insurance: Notes
+LIST OF NAMED INSUREDS:
+Downtowner Holdings, LLC
+South Lake Downtowner, LLC
+Tahoe Downtowner, LLC
+Aspen Downtowner Group, LLC
+Montbello Downtowner, LLC
+Savannah Downtowner, LLC
+Idaho Falls Downtowner, LLC
+Empire Pass Downtowner, LLC
+Kimball Circulator, LLC
+Park City Downtowner, LLC
+Jackson Downtowner, LLC
+GES Downtowner, LLC
+Downtowner App, LLC
+Steamboat Downtowner, LLC
+Palisades Downtowner, LLC
+Truckee Downtowner, LLC
+Basalt Downtowner, LLC
+Big Sky Downtowner, LLC
+Moab Downtowner, LLC
+Twin Falls Downtowner, LLC
+Golden Downtowner, LLC
+CB Downtowner, LLC
+Aero Downtowner, LLC
+Carbondale Downtowner, LLC
+Leadville Downtowner, LLC
+ACORD 101 (2008/01)
+The ACORD name and logo are registered marks of ACORD
+©  2008 ACORD CORPORATION.  All rights reserved.
+THIS ADDITIONAL REMARKS FORM IS A SCHEDULE TO ACORD FORM,
+FORM NUMBER:
+FORM TITLE:
+ADDITIONAL REMARKS
+ADDITIONAL REMARKS SCHEDULE
+Page
+of
+AGENCY CUSTOMER ID:
+LOC #:
+AGENCY
+CARRIER
+NAIC CODE
+POLICY NUMBER
+NAMED INSURED
+EFFECTIVE DATE:
+Docusign Envelope ID: C130DEF8-ED45-45DB-8D9F-3099A1D21A35
+=== page 27 ===
+09/13/2024
+Brown & Brown of Florida, Inc.
+140 Fountain Parkway N
+Suite 600
+St. Petersburg
+FL 33716
+Sharon Burton-Hicks
+(813) 226-1325
+(813) 226-1313
+Sharon.Burton-Hicks@bbrown.com
+Downtowner App, LLC
+515 N Flagler Dr.
+Suite P-300
+West Palm Beach
+FL 33401
+Mesa Underwriters Specialty Insurance Company
+36838
+Nautilus Insurance Company
+17370
+23-24 COI
+A
+MP000900310006101
+10/05/2023
+10/05/2024
+1,000,000
+100,000
+5,000
+1,000,000
+2,000,000
+Included
+B
+0
+AN1294661
+10/05/2024 
+10/05/2025 
+5,000,000
+5,000,000
+City and County of Denver, Dept. of Transportation & Infrastructure
+201 W Colfax Ave., Dept. 608
+Denver
+CO 80202
+SHOULD ANY OF THE ABOVE DESCRIBED POLICIES BE CANCELLED BEFORE
+THE EXPIRATION DATE THEREOF, NOTICE WILL BE DELIVERED IN
+ACCORDANCE WITH THE POLICY PROVISIONS.
+INSURER(S) AFFORDING COVERAGE
+INSURER F :
+INSURER E :
+INSURER D :
+INSURER C :
+INSURER B :
+INSURER A :
+NAIC #
+NAME:
+CONTACT
+(A/C, No):
+FAX
+E-MAIL
+ADDRESS:
+PRODUCER
+(A/C, No, Ext):
+PHONE
+INSURED
+REVISION NUMBER:
+CERTIFICATE NUMBER:
+COVERAGES
+IMPORTANT:  If the certificate holder is an ADDITIONAL INSURED, the policy(ies) must have ADDITIONAL INSURED provisions or be endorsed.
+If SUBROGATION IS WAIVED, subject to the terms and conditions of the policy, certain policies may require an endorsement.  A statement on
+this certificate does not confer rights to the certificate holder in lieu of such endorsement(s).
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE CERTIFICATE HOLDER. THIS
+CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR ALTER THE COVERAGE AFFORDED BY THE POLICIES
+BELOW.  THIS CERTIFICATE OF INSURANCE DOES NOT CONSTITUTE A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED
+REPRESENTATIVE OR PRODUCER, AND THE CERTIFICATE HOLDER.
+OTHER:
+(Per accident)
+(Ea accident)
+$
+$
+N / A
+SUBR
+WVD
+ADDL
+INSD
+THIS IS TO CERTIFY THAT THE POLICIES OF INSURANCE LISTED BELOW HAVE BEEN ISSUED TO THE INSURED NAMED ABOVE FOR THE POLICY PERIOD
+INDICATED.  NOTWITHSTANDING ANY REQUIREMENT, TERM OR CONDITION OF ANY CONTRACT OR OTHER DOCUMENT WITH RESPECT TO WHICH THIS
+CERTIFICATE MAY BE ISSUED OR MAY PERTAIN, THE INSURANCE AFFORDED BY THE POLICIES DESCRIBED HEREIN IS SUBJECT TO ALL THE TERMS,
+EXCLUSIONS AND CONDITIONS OF SUCH POLICIES. LIMITS SHOWN MAY HAVE BEEN REDUCED BY PAID CLAIMS.
+$
+$
+$
+$
+PROPERTY DAMAGE
+BODILY INJURY (Per accident)
+BODILY INJURY (Per person)
+COMBINED SINGLE LIMIT
+AUTOS ONLY
+AUTOS
+AUTOS ONLY
+NON-OWNED
+SCHEDULED
+OWNED
+ANY AUTO
+AUTOMOBILE LIABILITY
+Y / N
+WORKERS COMPENSATION
+AND EMPLOYERS' LIABILITY
+OFFICER/MEMBER EXCLUDED?
+(Mandatory in NH)
+DESCRIPTION OF OPERATIONS below
+If yes, describe under
+ANY PROPRIETOR/PARTNER/EXECUTIVE
+$
+$
+$
+E.L. DISEASE - POLICY LIMIT
+E.L. DISEASE - EA EMPLOYEE
+E.L. EACH ACCIDENT
+ER
+OTH-
+STATUTE
+PER
+LIMITS
+(MM/DD/YYYY)
+POLICY EXP
+(MM/DD/YYYY)
+POLICY EFF
+POLICY NUMBER
+TYPE OF INSURANCE
+LTR
+INSR
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES  (ACORD 101, Additional Remarks Schedule, may be attached if more space is required) 
+Contract #202475705 
+The City and County of Denver, its Elected and Appointed Officials, Employees and Volunteers are additional insureds in regards to the General Liability and Umbrella where 
+required by written contract. Waiver of subrogation applies in favor of the additional insureds in regard to the General Liability policy where required by written contract.         
+General Liability policy does not contain a specific exclusion for sexual abuse, molestation, or misconduct. 
+ 
+Regional Transportation District and its members, directors, employees and agents as Additional Insured with a waiver of subrogation. 
+ 
+EXCESS LIAB
+UMBRELLA LIAB
+$
+EACH OCCURRENCE
+$
+AGGREGATE
+$
+OCCUR
+CLAIMS-MADE
+DED
+RETENTION $
+$
+PRODUCTS - COMP/OP AGG
+$
+GENERAL AGGREGATE
+$
+PERSONAL & ADV INJURY
+$
+MED EXP (Any one person)
+$
+EACH OCCURRENCE
+DAMAGE TO RENTED
+$
+PREMISES (Ea occurrence)
+COMMERCIAL GENERAL LIABILITY
+CLAIMS-MADE
+OCCUR
+GEN'L AGGREGATE LIMIT APPLIES PER:
+POLICY
+PRO-
+JECT
+LOC
+CERTIFICATE OF LIABILITY INSURANCE
+DATE (MM/DD/YYYY)
+CANCELLATION
+AUTHORIZED REPRESENTATIVE
+ACORD 25 (2016/03)
+© 1988-2015 ACORD CORPORATION.  All rights reserved.
+CERTIFICATE HOLDER
+The ACORD name and logo are registered marks of ACORD
+HIRED
+AUTOS ONLY
+Docusign Envelope ID: C130DEF8-ED45-45DB-8D9F-3099A1D21A35
+=== page 28 ===
+10/10/2024
+Bullington Insurance Group LLC.
+14502 N Dale Mabry Hwy Suite 200
+Tampa, FL 33618
+License #: 203970
+Kim Bayer
+(813)248-6800
+(813)248-6877
+info@bigins.net
+00000714-0
+8
+Downtowner App, LLC & Montbello Downtowner, LLC
+515 N Flagler Dr
+Ste 350
+West Palm Beach, FL 33401
+CRC Group
+A
+Y
+Y
+ESM0039938746
+4/20/2024
+4/20/2025
+Per claim
+$1,000,000
+CRC Group
+A
+Y
+Y
+ESM0039938746
+4/20/2024
+4/20/2025
+Cyber Liability/Tech E&O 
+Cyber Liability/Tech E&O
+Aggregate
+$1,000,000
+City and County of Denver
+Dept. of Transportation & Infrastructure
+201 W Colfax Ave., Dept. 608
+Denver, CO 80202
+(KIM)
+Printed by KIM on 10/10/2024 at 01:07PM
+ANY PROPRIETOR/PARTNER/EXECUTIVE
+OFFICER/MEMBER EXCLUDED?
+INSR
+ADDL SUBR
+LTR
+INSD WVD
+DATE (MM/DD/YYYY)
+PRODUCER
+CONTACT
+NAME:
+FAX
+PHONE
+(A/C, No):
+(A/C, No, Ext):
+E-MAIL
+ADDRESS:
+INSURER A :
+INSURED
+INSURER B :
+INSURER C :
+INSURER D :
+INSURER E :
+INSURER F :
+POLICY NUMBER
+POLICY EFF
+POLICY EXP
+TYPE OF INSURANCE
+LIMITS
+(MM/DD/YYYY)
+(MM/DD/YYYY)
+AUTOMOBILE LIABILITY
+UMBRELLA LIAB
+EXCESS LIAB
+WORKERS COMPENSATION
+AND EMPLOYERS' LIABILITY
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES  (ACORD 101, Additional Remarks Schedule, may be attached if more space is required)
+"Contract # 202475705"
+"Certificate holder is listed as an additional insured with a waiver of subrogation."
+"As required by written contract, the City and County of Denver, its Elected and Appointed Officials, Employees and Volunteers 
+are included as Additional Insured"
+AUTHORIZED REPRESENTATIVE
+EACH OCCURRENCE
+$
+DAMAGE TO RENTED
+CLAIMS-MADE
+OCCUR
+$
+PREMISES (Ea occurrence)
+MED EXP (Any one person)
+$
+PERSONAL & ADV INJURY
+$
+GEN'L AGGREGATE LIMIT APPLIES PER:
+GENERAL AGGREGATE
+$
+PRO-
+POLICY
+LOC
+PRODUCTS - COMP/OP AGG
+$
+JECT
+OTHER:
+$
+COMBINED SINGLE LIMIT
+$
+(Ea accident)
+ANY AUTO
+BODILY INJURY (Per person)
+$
+OWNED
+SCHEDULED
+BODILY INJURY (Per accident)
+$
+AUTOS ONLY
+AUTOS
+HIRED
+NON-OWNED
+PROPERTY DAMAGE
+$
+AUTOS ONLY
+AUTOS ONLY
+(Per accident)
+$
+OCCUR
+EACH OCCURRENCE
+$
+CLAIMS-MADE
+AGGREGATE
+$
+DED
+RETENTION $
+$
+PER
+OTH-
+STATUTE
+ER
+E.L. EACH ACCIDENT
+$
+E.L. DISEASE - EA EMPLOYEE $
+If yes, describe under
+E.L. DISEASE - POLICY LIMIT
+$
+DESCRIPTION OF OPERATIONS below
+INSURER(S) AFFORDING COVERAGE
+NAIC #
+COMMERCIAL GENERAL LIABILITY
+Y / N
+N / A
+(Mandatory in NH)
+SHOULD ANY OF THE ABOVE DESCRIBED POLICIES BE CANCELLED BEFORE
+THE EXPIRATION DATE THEREOF, NOTICE WILL BE DELIVERED IN
+ACCORDANCE WITH THE POLICY PROVISIONS.
+THIS IS TO CERTIFY THAT THE POLICIES OF INSURANCE LISTED BELOW HAVE BEEN ISSUED TO THE INSURED NAMED ABOVE FOR THE POLICY PERIOD
+INDICATED.  NOTWITHSTANDING ANY REQUIREMENT, TERM OR CONDITION OF ANY CONTRACT OR OTHER DOCUMENT WITH RESPECT TO WHICH THIS
+CERTIFICATE MAY BE ISSUED OR MAY PERTAIN, THE INSURANCE AFFORDED BY THE POLICIES DESCRIBED HEREIN IS SUBJECT TO ALL THE TERMS,
+EXCLUSIONS AND CONDITIONS OF SUCH POLICIES. LIMITS SHOWN MAY HAVE BEEN REDUCED BY PAID CLAIMS.
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE CERTIFICATE HOLDER. THIS
+CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR ALTER THE COVERAGE AFFORDED BY THE POLICIES
+BELOW.  THIS CERTIFICATE OF INSURANCE DOES NOT CONSTITUTE A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED
+REPRESENTATIVE OR PRODUCER, AND THE CERTIFICATE HOLDER.
+IMPORTANT:  If the certificate holder is an ADDITIONAL INSURED, the policy(ies) must have ADDITIONAL INSURED provisions or be endorsed.
+If SUBROGATION IS WAIVED, subject to the terms and conditions of the policy, certain policies may require an endorsement.  A statement on
+this certificate does not confer rights to the certificate holder in lieu of such endorsement(s).
+COVERAGES
+CERTIFICATE NUMBER:
+REVISION NUMBER:
+CERTIFICATE HOLDER
+CANCELLATION
+© 1988-2015 ACORD CORPORATION.  All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+Docusign Envelope ID: C130DEF8-ED45-45DB-8D9F-3099A1D21A35

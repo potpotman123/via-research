@@ -1,0 +1,101 @@
+# source: raw/bleecker_drive/Arlington, Texas/FTA-Report-No-0244.pdf
+# path: raw/bleecker_drive/Arlington, Texas/FTA-Report-No-0244.pdf
+# hit page: 25 of 74
+# terms: Via+vehicles
+
+=== page 24 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+15
+SECTION  | 3 
+Another key operational consideration was planning for any incidents that might 
+occur with the RAPID service. The project team established a clear process for 
+responding to any incidents, fully investigating the incident, and notification 
+and reporting to involved parties. This process is shown in Figure 3-4. While 
+the service did not experience any collisions, injuries, or safety accidents, there 
+were several minor curb rub events where an AV did not perform as expected. 
+These minor incidents, which are discussed in greater detail in the following 
+section of this report, followed the incident process for clear communication 
+and investigation to resolve and prevent future similar incidents. 
+Figure 3-4 RAPID Incident Process
+The final major operational element involved application programming 
+interface (API) integration between the Via and May Mobility platforms, as well 
+as testing of this integration in various settings, from a sandbox environment 
+to the actual route network. The API integration work began with defining 
+communication needs between the two platforms for riders, AVOs, the May 
+Mobility base station, and vehicle routing. Initial API connections were tested 
+starting in October 2020 to validate API connectivity and responsiveness using 
+an internal on-demand service demonstration route. By November 2020, 
+successful backend integration for all primary use scenarios was completed, 
+including scenarios such as linked rides, pooled rides, and ride cancellations. 
+The following month, Via used the latest information from May Mobility to 
+update its AV route network and stop location map. This allowed for additional 
+extended-use scenario testing. The full route integration was implemented, and 
+a successful on-vehicle field test was performed in December 2020.
+With this initial integration and testing complete, the team was able to move 
+into extensive API testing at its headquarters location in January 2021 using May 
+Mobility test vehicles. To test ride requests, ride proposals delivered to riders, 
+the booking process, and vehicle dispatching, a virtual staging environment 
+was created, including a copy of the Arlington Via rideshare service area and the 
+RAPID service area. A waiver was developed to be displayed and accepted by all 
+first-time RAPID AV riders in the Via system, and this process was finalized and 
+tested.
+=== page 25 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+16
+SECTION  | 3 
+With the completion of successful testing in the virtual staging environment and 
+in May Mobility’s headquarters test site, the team was ready for on-site testing 
+in Arlington from February 2021 to March 2021 in preparation for RAPID service 
+launch. This phase of testing included training AVOs on the vehicles, the route, 
+and the Via driver application. Testing was performed using both the Lexus AVs 
+and the Polaris WAV. Since the vehicles are a different size and have different 
+mechanical systems for operation, it was important to test both for performance 
+and consistency. During this time, Via created a reporting dashboard to share 
+RAPID service and ridership data with the team, and May Mobility created a 
+reporting dashboard to share RAPID autonomy performance data with the 
+team. Via also trained their customer service agents on the details of the RAPID 
+service, so they could assist riders in booking or requesting information about 
+the service. A soft launch took place March 15 – 22, 2021, which allowed live 
+booking and ride completion. A few minor adjustments were made to the 
+integration during the soft launch, including adjusting booking capacity. 
+Communications and Outreach 
+Educating the community and marketing the RAPID service leading up to the 
+demonstration involved several key elements, including branding, marketing 
+materials, press releases, social media posts, community outreach activities, 
+and a launch event. To guide this work, the City formed a communications 
+subcommittee with representation from all project partners and hosted the first 
+meeting in October 2020. With meetings every other week, this group worked 
+on developing plans for branding, marketing, communications, outreach, and 
+education for the project, including designing vehicle wraps, planning a launch 
+event, and continuing community outreach and education through the life of 
+the demonstration. The project team believed it was important for the RAPID 
+project to have its own brand, complementary to the existing Via rideshare 
+service in Arlington but also different enough to signal the unique nature of the 
+RAPID service. The RAPID logo is shown in Figure 3-5, and it combines elements 
+of the City of Arlington logo and the Via service logo. Once the RAPID logo and 
+brand was designed, the RAPID vehicle wraps were created to complement 
+the existing Via rideshare vehicle wraps while signaling the unique RAPID self-
+driving service. The vehicle wrap design and the actual Lexus vehicles and the 
+Polaris GEM vehicle used in the demonstration are shown in Figure 3-6.
+Figure 3-5 Arlington RAPID Logo
+=== page 26 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+17
+SECTION  | 3 
+	  
+Figure 3-6 Arlington RAPID Vehicles and Vehicle Wraps
+Educational and marketing materials included flyers, posters, and sandwich 
+boards that described the service and COVID-19 safety measures taken on board 
+RAPID. These materials were distributed throughout the service area. A detailed 
+service website, hosted by the City of Arlington and launched in January 2021, 
+contained information about the service area, operating times, fare payment, 
+how to book a ride, and details about the AV technology. The UTA parking 
+website was updated with information about RAPID in March 2021.
+Community outreach events prior to service launch included a series of focus 
+groups conducted in August 2020. Three focus groups were held, one for the 
+public, one for the UTA community, and one for people with disabilities, to 
+gather feedback about existing transportation services in Arlington, share 
+details about the upcoming RAPID service, and gather input on the RAPID 
+service. City of Arlington staff gave presentations to several community groups 
+and to the Arlington City Council. UTA staff participated in a student-focused 
+activities fair to promote the RAPID service to the UTA community in January

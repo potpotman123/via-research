@@ -1,0 +1,131 @@
+# source: raw/bleecker_drive/Hillsborough County/Completed Contract File.pdf
+# path: raw/bleecker_drive/Hillsborough County/Completed Contract File.pdf
+# hit page: 41 of 199
+# terms: Via+drivers, Via+subscription
+
+=== page 40 ===
+RFP‐23‐24177 – Addendum 2 
+Page 27 
+1.27.2.  The County provides service throughout Hillsborough County which covers 
+approximately 1,072 square miles including the city of Tampa and urban and rural areas.  The 
+County provides a small number of trips to adjacent counties. 
+1.27.3.  The County currently operates a fleet of sixty‐eight (68) vehicles, including fifty‐eight 
+(58) 12‐14 passenger cutaway wheelchair vans and ten (10) 3‐passenger wheelchair vans.  
+Vehicle maintenance is completed, and maintenance records are kept by the County’s Fleet 
+Management Department.  Tracking of vehicle maintenance is not required as part of this 
+System. 
+1.27.4.  All vehicles are equipped with Mobile Data Computers (MDC) with Automatic Vehicle 
+Locator/Global Positioning System (AVL/GPS).  All trip information is transmitted to and from 
+drivers on the MDCs.  The MDCs include vehicle inspections, on‐board mapping for drivers and 
+provide AVL/GPS information for tracking of vehicle locations from the Dispatch office.  Current 
+devices, including wireless service, are provided by the current vendor as part of the current 
+software system and as such must be replaced as part of the new System. 
+1.27.5.  Due to long‐term closure of group sites and activities, and ongoing driver shortages, 
+service levels are still recovering and have not yet returned to pre‐Covid‐19 levels.  However, 
+with the recent reopening of Aging Services group sites and driver recruitment actions, service 
+levels are expected to return to normal by the end of 2023/2024.  
+1.27.6.  During 2019 the program served approximately 3,224 unduplicated paratransit clients 
+and 3,073 unduplicated bus pass clients, providing 171,194 one‐way paratransit trips and issued 
+28,917 bus passes.  The County operated approximately thirty‐five to forty paratransit routes 
+(approximately 675 one‐way trips) daily.  Approximately half of the daily paratransit trips were 
+group trips to Senior Nutrition and Day Care sites.  Group trips may be trips from multiple sites 
+to/from one site or multiple people from one site to/from one site.  Approximately sixty (60) 
+percent of the total daily trips were subscription trips.  With limited group trips, the current 
+service level is 375 trips per day.  Once full service at group sites resumes, it is expected that 
+total trips will return to 2019 levels within the next year.  The County’s historical and current no‐
+show rates range from 2.85 to 3.67 percent; clients are suspended for excessive no‐shows. 
+1.27.7.  This program is funded by several local and state agencies, and clients may be eligible 
+for several different funding sources.  The County bills each funding source on a passenger trip 
+basis with a different rate for ambulatory, wheelchair, escort and group trips.  The County 
+purchases bus passes from the local transit agency, issues them to clients and charges the 
+funding agency for the cost of the pass plus administration.  There are several different types of 
+passes, each with a different cost.  The County pays for taxi trips at a trip plus milage rate and 
+charges funding agencies either the fixed passenger trip rate or the trip rate plus administration.  
+Clients are not charged a fare or co‐payment for their trips or bus passes. 
+1.27.8.  County staff are responsible for client eligibility determination and/or verification, trip 
+reservations, issuing of bus passes, scheduling, dispatch, paratransit service, customer service 
+(including complaints), billing and reporting.
+=== page 41 ===
+RFP‐23‐24177 – Addendum 2 
+Page 28 
+1.27.9.  Riders are required to be pre‐registered with the County prior to making trip 
+reservations.  Trip requests are currently taken from 2 to 7 days in advance.  A limited number 
+of same‐day trips are also provided.  Bus pass requests are taken starting approximately two 
+weeks before the month of the trip.  Trip requests are taken by County customer service staff.  
+Return trips are normally scheduled when the initial trip reservation is taken.  Trips which are 
+required on a regularly recurring basis are considered standing order or subscription trips.  
+These trips are automatically created by the scheduling system for future dates.  All trip 
+assignments are currently provided to the drivers via MDC.  Any changes or additions to daily 
+manifests are sent directly to the MDC from the scheduling software.  Documentation of service 
+provided is done using the MDC. 
+1.27.10.  Passengers may be accompanied by a personal care attendant (PCA) or guest(s).  Many 
+passengers travel with wheelchairs or other mobility devices, some may require a service animal 
+or other special considerations for their travel. 
+1.27.11.  For services provided for some funding agencies, client eligibility is determined by the 
+funding agency, and the County verifies eligibility and documents this eligibility in the customer 
+record.  For other trips, the County determines eligibility based on an application process.  
+Applications for new clients requesting service are mailed to clients and reviewed by program 
+staff to determine if the client is eligible for service.  Only clients traveling outside the HART 
+fixed route service area or times or those whose disability prevents them from using fixed route 
+are eligible for the County’s paratransit service.  Other clients are only eligible for the bus pass 
+service.  A client may be eligible for both services for a period of time or for specific trips.   
+1.27.12.  Bus Passes issued are documented in the current software system in much the same 
+way as a one‐way trip, so that client eligibility, passes issued and reporting of bus passes are 
+processed in the same system as paratransit trips. 
+1.27.13.  County staff enter no‐show status and cancellations utilizing the dispatch and/or trip 
+reservation functions in the scheduling software; this information is also recorded from MDCs.  
+Dispatchers have direct contact with drivers via MDCs and cell phones.  
+1.27.14.  The County is currently using the following scheduling software: RouteMatch 6.2.35 
+and MDCs using RMMobile.  The System purchased through this RFP will replace this software 
+system. 
+1.27.15.  Currently there are eighty‐three (83) County staff members requiring access to the 
+System including:  
+1.27.15.1.  Customer Service/Reservations/Client Eligibility: 
+ 
+1 Manager, 1 Supervisor 
+ 
+7 Customer Service Representatives, 3 Customer Service Analysts 
+1.27.15.2.  Operations:
+=== page 42 ===
+RFP‐23‐24177 – Addendum 2 
+Page 29 
+ 
+1 Manager,  4 Supervisors 
+ 
+3 Dispatcher/Schedulers 
+1 Fleet Coordinator 
+ 
+6 Sr Drivers 
+ 
+49 Paratransit Drivers (MDC access) 
+1.27.15.3.  Management/Administration: 
+ 
+1 Director 
+ 
+1 Manager 
+ 
+1 Business & Compliance Coordinator 
+ 
+4 Accounting or support staff  
+1.27.16.  On‐site staff, including Dispatch and Scheduling are located at 2709 E Hanna Ave, 
+Tampa, FL.  Most Customer Service and Management/Administration staff are working a hybrid 
+on‐site and remote work schedule.  Vehicles are parked at ten (10) different locations 
+throughout Hillsborough County, with drivers reporting to work at their assigned parking 
+location. 
+1.28. 
+Existing Hardware and Software 
+1.28.1.  The existing hardware and operating environment is described below. The System 
+purchased will be required to operate in this hardware and operating environment with minimal 
+additions or revisions other than installation of the System.  Any additional hardware or 
+software required or recommended for this system must be identified in the Proposer’s 
+response. 
+1.28.2.  The majority of staff use laptops, with a few desktop computers at in‐office 
+workstations.  The County’s current computing environment is as follows: 
+1.28.2.1.  Operating System: Windows 10 21h2 
+1.28.2.2.  OS architecture: x64 
+1.28.2.3.  Default browser: Microsoft Edge 
+1.28.2.4.  Secondary browser: Google Chrome 
+1.28.2.5.  Computer hardware manufacturer: HP 
+1.28.2.6.  Base RAM per machine: 16 GB 
+1.28.2.7.  Base Hard Drive per machine: 512 GB SSD 
+1.28.2.8.  Base Processor: Intel i7

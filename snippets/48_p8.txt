@@ -1,0 +1,184 @@
+# source: https://cityofcommerce.legistar1.com/cityofcommerce/attachments/2f95cf23-5c17-4113-bb02-656bbe5bd189.pdf
+# path: raw/cache/594b80e919b4d28aced5a31cea026b29bbd623ff.pdf
+# hit page: 8 of 29
+# terms: Via+drivers, Via+fleet, Via+per vehicle per month
+
+=== page 7 ===
+• The Partner Success Manager will monitor and analyze service performance 
+data on an ongoing basis, providing advice on how Commerce can improve 
+service quality, increase ridership, and transition between project phases. 
+• Technical support. The Partner Success Manager will work with Via’s technical 
+teams to answer Commerce’’s questions or address issues as necessary; we will 
+provide a transparent customer service platform powered by Zendesk, through 
+which Commerce can submit technical support questions and review the status of 
+each request as “Open,” “Awaiting Reply,” or “Solved.” 
+• Product updates and bespoke features. The Partner Success Manager will 
+provide notiﬁcations and training (if needed) on new product features, and 
+manage any requests for product enhancements or new features. 
+• Service growth and expansions. The Partner Success Manager will coordinate 
+internal Via resources needed to plan and execute on service expansions, such 
+as ﬂeet size increases or zone extensions. 
+ 
+Beyond day-to-day support, the Via team will oﬀer ongoing consultation based on the 
+operational best practices we have accumulated through over 200 global services. 
+Experts from our Partner Operations team will continuously analyze performance data, 
+providing advice on how Commerce can improve service quality and optimize ﬂeet 
+productivity. They will also use performance data from other Via services in order to 
+benchmark Commerce’s service against deployments of similar size and scope. These 
+data-driven insights will equip Commerce with a comparative understanding of 
+performance and strategies to grow the service. 
+ 
+Performance Evaluation 
+Via will give Commerce comprehensive visibility into all aspects of service delivery, 
+enabling the City to track agreed-upon milestones and performance standards. 
+Speciﬁcally, Via will provide: 
+ 
+• In-depth reporting. Via will provide comprehensive data reports to evaluate the 
+performance of Commerce’s microtransit program on a daily, weekly, and/or 
+monthly basis as requested by Commerce. Authorized users will be able access 
+data on a 24/7 basis directly through the Via Operation Center (VOC), our web-
+based administrative console, using their assigned credentials. All data from the 
+VOC can be exported into CSV and Excel formats for further analysis or to easily 
+upload data into separate systems as needed. Please ﬁnd additional information 
+regarding Via’s reporting suite in proposal section Appendix 5.A. Software 
+Overview. 
+• Quarterly business reviews. We will conduct in-depth, data-driven Quarterly 
+Business Reviews (QBRs) that analyze the service’s long-term performance along 
+speciﬁc, mutually-deﬁned key performance indicators (“KPIs”). Supported by Via’s 
+in-house Operations and Data Science teams, the Partner Success Manager will 
+schedule these quarterly review meetings with City stakeholders to assess system 
+performance and trends. 
+• Partner success services. In addition to regular reports and QBRs, Via will provide 
+performance evaluation on an ongoing basis through the Partner Success services 
+described in proposal section 3.A.2. Professional and Technical Qualiﬁcations. 
+ 
+ 
+DocuSign Envelope ID: 1081S57D-3SS8-4C31-9CF4-85D53991AS43
+=== page 8 ===
+launch 
+module
+4. Updated Price Proposal 
+Below, please ﬁnd an updated price proposal with waived hardware costs. 
+ 
+Installation Fee 
+ 
+ 
+One-time fee payable 50% at signing and 50% at launch 
+ 
+ 
+ 
+ 
+Localization for new zone 
+ 
+ 
+Optimize dynamic vehicle routing and real-time passenger 
+aggregation algorithm; conﬁgure backend (billing, 
+payment, and database); build detailed map; input traﬃc 
+model; deﬁne service zone, including pickup and dropoﬀ 
+points; update monitoring tools 
+Service design consulting 
+System design and simulation services 
+ 
+Co-brand rider app 
+Co-branded app, "Powered by Via" 
+Testing and quality assurance Remote and on-the-ground testing of all Via systems before 
+ 
+Develop service model 
+Build a launch plan and user acquisition strategy 
+Train personnel and oversee 
+launch 
+Instruction for drivers, dispatchers, and managers in Via‘s best 
+practices; onsite and remote launch support 
+ 
+Total Installation Fee (List 
+Price) 
+$50,000 
+Special Discount for the City of 
+Commerce 
+-60% 
+Total Installation Fee 
+(Discounted) 
+$20,000 
+ 
+Monthly Per Vehicle Fees (5 Vehicle Monthly Minimum 
+Per vehicle per month 
+ 
+Access to tech modules 
+Access to Via's tech stack, including rider, driver, and backend 
+ 
+Fleet optimization 
+Dynamic and predictive routing and supply rebalancing 
+Virtual bus stop architecture 
+Maintenance and update of optimal pick-up points 
+Automatic product upgrades   Receive regular software updates 
+Cloud hosting and third-party Amazon Web Services, Twilio, and analytics and communications 
+tools 
+software tools 
+Expert operations and growth Includes oﬀsite service optimization and data-driven marketing 
+support 
+consulting 
+DocuSign Envelope ID: 1081S57D-3SS8-4C31-9CF4-85D53991AS43
+=== page 9 ===
+Analytics and reporting 
+Robust real-time, periodic, and custom reporting 
+ 
+Year 1 Year 2 Year 3 
+ 
+Monthly Fee per Vehicle - 
+Vehicles 1-5 
+      
+Monthly Fee per Vehicle - 
+Vehicles 6-10 
+$550 $565 
+$580 
+$500 $515 
+$530 
+Monthly Fee per Vehicle - 
+Vehicles 11+ 
+$450 $465 
+$480 
+ 
+Per Ride Fees 
+Per ride, billed monthly 
+ 
+Fee per Ride 
+Waived 
+ 
+Illustrative Total Cost 
+5-vehicle ﬂeet 
+ 
+5 vehicles Includes discounted installation fee and 
+monthly per vehicle fees 
+5 vehicles Includes monthly per vehicle fees only 
+(inﬂation + innovation index applied) 
+5 vehicles Includes monthly per vehicle fees 
+only (inﬂation + innovation index 
+applied) 
+ 
+Incremental Hardware Costs (if applicable) 
+Please note Via’s hardware costs do not include 
+cellular data plans. Billed on a per unit basis 
+ 
+ 
+ 
+ 
+Note: Via's driver software is compatible with any recent iOS or Android 
+device, should Commerce prefer to use existing tablets. 
+ 
+C O N F I D E N T I A L 
+ 
+ 
+Year 
+Year 
+Year 
+Fee per Hardware Package 
+Includes android device (Galaxy Tab A 8.4" or similar), 
+case, mount, and installation 
+$476 
+WAIVED 
+for 5 
+vehicles 
+$53,000 
+$33,900 
+$34,800 
+DocuSign Envelope ID: 1081S57D-3SS8-4C31-9CF4-85D53991AS43

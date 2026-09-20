@@ -1,0 +1,147 @@
+# source: https://nashville.legistar1.com/nashville/attachments/eb9d0835-c1d8-4a3a-b67b-d3c2653be076.PDF
+# path: raw/cache/6ce7b6b83aea1fa1c88bffbac52099b951ac2e59.pdf
+# hit page: 311 of 322
+# terms: Via+subscription
+
+=== page 310 ===
+1. ACCEPTANCE OF TERMS AND CONDITIONS These Terms and Conditions govern your
+("Subscriber" or "you") use of DocuSign's on-demand electronic signature service (the
+"Subscription Service"), as accessed either directly through DocuSign.com, DocuSign.net, or
+through a DocuSign affiliateâ€™s web page offering a Service Plan (collectively, the "Site"). By
+depositing any document into the System (as defined below), you accept these Terms and
+Conditions (including your corresponding Service Plan, the DocuSign.com Terms of Use, and all
+policies and guidelines referenced and hereby incorporated into these Terms and Conditions) and
+any modifications that may be made to the Terms and Conditions from time to time. If you do
+not agree to these Terms and Conditions, you should not use the Subscription Service or visit or
+browse the Site. These Terms and Conditions constitute a binding legal agreement between you
+and DocuSign, Inc. ("DocuSign," "we," "us," and "our"). Please read them carefully and print a
+copy for your future reference. 2. MODIFICATION OF TERMS AND CONDITIONS We
+reserve the right to modify these Terms and Conditions at any time and in any manner at our sole
+discretion by: (a) posting a revision on the Site; or (b) sending information regarding the
+amendment to the email address you provide to us. YOU ARE RESPONSIBLE FOR
+REGULARLY REVIEWING THE SITE TO OBTAIN TIMELY NOTICE OF ANY
+AMENDMENTS. YOU SHALL BE DEEMED TO HAVE ACCEPTED SUCH
+AMENDMENTS BY CONTINUING TO USE THE SUBSCRIPTION SERVICE FOR MORE
+THAN 20 DAYS AFTER SUCH AMENDMENTS HAVE BEEN POSTED OR
+INFORMATION REGARDING SUCH AMENDMENTS HAS BEEN SENT TO YOU. You
+agree that we shall not be liable to you or to any third party for any modification of the Terms
+and Conditions. 3. DEFINITIONS â€œAccountâ€? means a unique account established by
+Subscriber to enable its Authorized Users to access and use the Subscription Service.
+â€œAuthorized Userâ€? means any employee or agent of Subscriber, identified by a unique
+email address and user name, who is registered under the Account, provided that no two persons
+may register, access or use the Subscription Service as the same Authorized User.
+â€œeContractâ€? refers to a contract, notice, disclosure, or other record or document deposited
+into the System by Subscriber for processing using the Subscription Service. â€œEnvelopeâ€?
+means an electronic record containing one or more eContracts consisting of a single page or a
+group of pages of data uploaded to the System. â€œSeatâ€? means an active Authorized User
+listed in the membership of an Account at any one time. No two individuals may log onto or use
+the Subscription Service as the same Authorized User, but Subscriber may unregister or
+deactivate Authorized Users and replace them with other Authorized Users without penalty, so
+long as the number of active Authorized Users registered at any one time is equal to or less than
+the number of Seats purchased. â€œService Planâ€? means the right to access and use the
+Subscription Service for a specified period in exchange for a periodic fee, subject to the Service
+Plan restrictions and requirements that are used to describe the selected Service Plan on the Site.
+Restrictions and requirements may include any or all of the following: (a) number of Seats
+and/or Envelopes that a Subscriber may use in a month or year for a fee; (b) fee for sent
+Envelopes in excess of the number of Envelopes allocated to Subscriber under the Service Plan;
+(c) per-seat or per-user restrictions; (d) the license to use DocuSign software products such as
+DocuSign Connect Express in connection with the Subscription Service; and (e) per use fees.
+â€œSpecificationsâ€? means the technical specifications set forth in the â€œSubscription Service
+Specificationsâ€? available at http://docusign.com/company/specifications. â€œSubscription
+Serviceâ€? means DocuSignâ€™s on-demand electronic signature service, as updated from time
+Electronic Record and Signature Disclosure created on: 7/9/2014 8:05:49 AM
+Parties agreed to: Ken Hartlage, Jenneen Reed/mjw, Kelli Woodward, Sally Palmer, Kelli Woodward, Austin Kyle
+=== page 311 ===
+to time, which provides on-line display, certified delivery, acknowledgement, electronic
+signature, and storage services for eContracts via the Internet. â€œSystemâ€? refers to the
+software systems and programs, communication and network facilities, and hardware and
+equipment used by DocuSign or its agents to provide the Subscription Service. â€œTermâ€?
+means the period of effectiveness of these Terms and Conditions, as specified in Section 12
+below. â€œTransaction Dataâ€? means the metadata associated with an Envelope (such as
+transaction history, image hash value, method and time of Envelope deletion, sender and
+recipient names, email addresses and signature IDs) and maintained by DocuSign in order to
+establish the digital audit trail required by the Subscription Service. 4. SUBSCRIPTION
+SERVICE During the term of the Service Plan and subject to these Terms and Conditions,
+Subscriber will have the right to obtain an Account and register its Authorized Users, who may
+access and use the Subscription Service, and DocuSign will provide the Subscription Service in
+material conformance with the Specifications. You must be 18 years of age or older to register
+for an Account and use the Subscription Service. Subscriber's right to use the Subscription
+Service is limited to its Authorized Users, and Subscriber agrees not to resell or otherwise
+provide or assist with the provision of the Subscription Service to any third party. In addition,
+DocuSignâ€™s provision of the Subscription Service is conditioned on Subscriber's
+acknowledgement and agreement to the following: (a) The Subscription Service facilitates the
+execution of eContracts between the parties to those eContracts. Nothing in these Terms and
+Conditions may be construed to make DocuSign a party to any eContract processed through the
+Subscription Service, and DocuSign makes no representation or warranty regarding the
+transactions sought to be effected by any eContract; (b) Between DocuSign and Subscriber,
+Subscriber has exclusive control over and responsibility for the content, quality, and format of
+any eContract. All eContracts stored by DocuSign are maintained in an encrypted form, and
+DocuSign has no control of or access to their contents; (c) If Subscriber elects to use one or more
+of the optional features designed to verify the identity of the intended recipient of an eContract
+that DocuSign makes available to its subscribers (â€œAuthentication Measuresâ€?), DocuSign
+will apply only those Authentication Measures selected by the Subscriber, but makes no
+representations or warranties about the appropriateness of any Authentication Measure. Further,
+DocuSign assumes no liability for: (A) the inability or failure by the intended recipient or other
+party to satisfy the Authentication Measure; or (B) the circumvention by any person (other than
+DocuSign) of any Authentication Measure; (d) Certain types of agreements and documents may
+be excepted from electronic signature laws (e.g. wills and agreements pertaining to family law),
+or may be subject to specific regulations promulgated by various government agencies regarding
+electronic signatures and electronic records. DocuSign is not responsible or liable to determine
+whether any particular eContract is subject to an exception to applicable electronic signature
+laws, or whether it is subject to any particular agency promulgations, or whether it can be legally
+formed by electronic signatures; (e) DocuSign is not responsible for determining how long any
+d to be retained or stored under any applicable laws, regulations, or legal or administrative
+agency processes. Further, DocuSign is not responsible for or liable to produce any of
+Subscriberâ€™s eContracts or other documents to any third parties; (f) Certain consumer
+protection or similar laws or regulations may impose special requirements with respect to
+electronic transactions involving one or more â€œconsumers,â€? such as (among others)
+requirements that the consumer consent to the method of contracting and/or that the consumer be
+provided with a copy, or access to a copy, of a paper or other non-electronic, written record of
+the transaction. DocuSign does not and is not responsible to: (A) determine whether any
+=== page 312 ===
+particular transaction involves a â€œconsumer;â€? (B) furnish or obtain any such consents or
+determine if any such consents have been withdrawn; (C) provide any information or disclosures
+in connection with any attempt to obtain any such consents; (D) provide legal review of, or
+update or correct any information or disclosures currently or previously given; (E) provide any
+such copies or access, except as expressly provided in the Specifications for all transactions,
+consumer or otherwise; or (F) otherwise to comply with any such special requirements; and (g)
+Subscriber undertakes to determine whether any â€œconsumerâ€? is involved in any eContract
+presented by Subscriber or its Authorized Users for processing, and, if so, to comply with all
+requirements imposed by law on such eContracts or their formation. (h) If the domain of the
+primary email address associated with the Account is owned by an organization and was
+assigned to Subscriber as an employee, contractor or member of such organization, and that
+organization wishes to establish a commercial relationship with DocuSign and add the Account
+to such relationship, then, if Subscriber does not change the email address associated with the
+Account, the Account may become subject to the commercial relationship between DocuSign
+and such organization and controlled by such organization. 5. RESPONSIBILITY FOR
+CONTENT OF COMMUNICATIONS As between Subscriber and DocuSign, Subscriber is
+solely responsible for the nature and content of all materials, works, data, statements, and other
+visual, graphical, video, and written or audible communications submitted by any Authorized
+User or otherwise processed through its Account, the Subscription Service, or under any Service
+Plan. Accordingly: (a) Subscriber will not use or permit the use of the Subscription Service to
+send unsolicited mass mailings outside its organization. The term â€œunsolicited mass
+mailingsâ€? includes all statutory or common definitions or understanding of those terms in the
+applicable jurisdiction, such as those set forth for â€œCommercial Electronic Mail Messagesâ€?
+under the U.S. CAN-SPAM Act, as an example only; and (b) Subscriber will not use or permit
+the use of the Subscription Service: (i) to communicate any message or material that is
+defamatory, harassing, libelous, threatening, or obscene; (ii) in a way that violates or infringes
+upon the intellectual property rights or the privacy or publicity rights of any person or entity or
+that may otherwise be unlawful or give rise to civil or criminal liability (other than contractual
+liability of the parties under eContracts processed through the Subscription Service); (iii) in any
+manner that is likely to damage, disable, overburden, or impair the System or the Subscription
+Service or interfere with the use or enjoyment of the Subscription Service by others; or (iv) in
+any way that constitutes or encourages conduct that could constitute a criminal offense.
+DocuSign does not monitor the content processed through the Subscription Service, but in
+accordance with DMCA (Digital Millennium Copyright Act) safe harbors, it may suspend any
+use of the Subscription Service, or remove or disable any content that DocuSign reasonably and
+in good faith believes violates this Agreement or applicable laws or regulations. DocuSign will
+use commercially reasonable efforts to notify Subscriber prior to any such suspension or
+disablement, unless DocuSign reasonably believes that: (A) it is prohibited from doing so under
+applicable law or under legal process, such as court or government administrative agency
+processes, orders, mandates, and the like; or (B) it is necessary to delay notice in order to prevent
+imminent harm to the System, Subscription Service, or a third party. Under circumstances where
+notice is delayed, DocuSign will provide the notice if and when the related restrictions in the
+previous sentence no longer apply. 6. PRICING AND PER USE PURCHASES The prices,
+features, and options of the Subscription Service available for an Account depend on the Service
+Plan selected by Subscriber. Subscriber may also purchase optional services on a periodic or
+per-use basis. DocuSign may add or change the prices, features or options available with a

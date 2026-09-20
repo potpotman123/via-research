@@ -1,0 +1,124 @@
+# source: https://erie.legistar1.com/erie/attachments/18897325-3951-4898-866c-b88da61e73dc.pdf
+# path: raw/cache/64cc9799c9c06de84758ced21eba2c2affae5de1.pdf
+# hit page: 6 of 83
+# terms: Downtowner
+
+=== page 5 ===
+Erie Microtransit Service Plan 
+ 5 
+List of Figures 
+ 
+Figure 1: Project Approach ............................................................................................................................................................... 7 
+Figure 2: Existing Transits around Erie ...................................................................................................................................... 11 
+Figure 3: Transit Ridership ............................................................................................................................................................. 15 
+Figure 4: Erie Age Distribution ..................................................................................................................................................... 17 
+Figure 5: Young Residents of Erie (Age 10-17 Years) .......................................................................................................... 18 
+Figure 6: Older Residents of Erie (Age 65+ Years) ............................................................................................................... 19 
+Figure 7: Residents Living Under the Poverty Line ............................................................................................................... 21 
+Figure 8: Low and Moderate Income Residents .................................................................................................................... 22 
+Figure 9: Household Vehicle Availability .................................................................................................................................. 23 
+Figure 10: Erie Commute Mode Split ........................................................................................................................................ 24 
+Figure 11: Inflow/Outflow Jobs .................................................................................................................................................... 25 
+Figure 12: Where Erie Residents Work ...................................................................................................................................... 26 
+Figure 13: Where Erie Residents Work ...................................................................................................................................... 27 
+Figure 14: Where Erie Workers Live ........................................................................................................................................... 29 
+Figure 15. Key Destinations in Erie ............................................................................................................................................. 31 
+Figure 16: StreetLight Analysis Zones ....................................................................................................................................... 33 
+Figure 17: Regional Destinations, All Day ................................................................................................................................ 36 
+Figure 18: Top Trip Pairs within Erie (Daily Trips) ................................................................................................................. 38 
+Figure 19: What are the top destinations in and around Erie? (March-May 2023, Daily, All Day) .................... 40 
+Figure 20: What are the top destinations in and around Erie? (March-May 2023) ................................................. 41 
+Figure 21: What are the top destinations from Vista Ridge? (March-May 2023, Daily, All Day) ....................... 43 
+Figure 22: What are the top destinations from Arapahoe Ridge/Nine Mile? (March-May 2023, Daily, All 
+Day) ................................................................................................................................................................................ 45 
+Figure 23: What are the top destinations from Old Town Erie? (March-May 2023, Daily, All Day) .................. 47 
+Figure 24: Age of Survey Respondents Compared to Population ................................................................................. 49 
+Figure 25: Annual Income of Survey Respondents Compared to Population........................................................... 50 
+Figure 26: Survey Respondents Use of Existing Transportation Services (of the 37% that use 
+transit/transportation services) ........................................................................................................................... 50 
+Figure 27: Survey Respondents’ Existing Transit Use by Time ........................................................................................ 51 
+Figure 28: Most Important Service Characteristics Identified by Survey Respondents ......................................... 52 
+Figure 29: Potential Frequency of New Microtransit Service Usage ............................................................................. 52 
+Figure 30: Trip Purposes Identified by Survey Respondents ............................................................................................ 53 
+Figure 31: Desired Pick-up Locations by Survey Respondents and Intercept Event Participants ..................... 55
+=== page 6 ===
+Erie Microtransit Service Plan 
+June 13, 2024 
+ 
+6  
+Figure 32: Desired Drop-off Locations by Survey Respondents and Intercept Event Participants ................... 56 
+Figure 33: Service Alternative I Map .......................................................................................................................................... 63 
+Figure 34: Service Alternative II Map ......................................................................................................................................... 64 
+Figure 35: Service Alternative III Map ........................................................................................................................................ 65 
+Figure 36: Recommended Service Area Map ......................................................................................................................... 68 
+Figure 37: Example Ridership Report from the Denver Connector: Montbello ........................................................ 73 
+Figure 38: Simulation of Origin-Destination Patterns (source: Downtowner) ........................................................... 75 
+Figure 39: Erie Microtransit Implementation Timeline ....................................................................................................... 76 
+Figure 40: Erie Microtransit Implementation Phasing ......................................................................................................... 77 
+Figure 41: Prioritized Future Improvements for Erie Microtransit Service .................................................................. 78 
+Figure 42: RTD FlexRide Routing Example .............................................................................................................................. 79 
+Figure 43: The Erie Bee Brand Logo and Potential Vehicle Mockups ........................................................................... 81 
+ 
+ 
+List of Tables 
+ 
+Table 1:  Existing Transit Operating Characteristics ............................................................................................................. 12 
+Table 2: Frequency of RTD Bus Routes in and Near Erie ................................................................................................... 13 
+Table 3.  Major Ridership Stops around Erie .......................................................................................................................... 14 
+Table 4. Demographic Comparison of Erie, Boulder County, and Weld County ...................................................... 16 
+Table 5.  Erie Residents Inflow/Outflow Jobs ......................................................................................................................... 25 
+Table 6. Erie Residents Work Distance ...................................................................................................................................... 26 
+Table 7:  Erie Workers Home Distance ...................................................................................................................................... 28 
+ 
+29 
+Table 8: StreetLight Analysis Zone Descriptions ................................................................................................................... 34 
+Table 9: Top Destinations Identified by Survey Respondents ......................................................................................... 54 
+Table 10: Service Characteristics of Alternatives ................................................................................................................... 62 
+Table 11: Potential Service Models & Vehicles Needed .................................................................................................... 66 
+Table 12: Cost Estimates by Alternative ................................................................................................................................... 66 
+Table 13: Erie Microtransit Service Characteristics of the Recommended Alternative .......................................... 69 
+Table 14: Performance Goals/Estimates ................................................................................................................................... 70
+=== page 7 ===
+Erie Microtransit Service Plan 
+ 7 
+Chapter 1 – Introduction 
+This report details the Town of Erie’s plan for an effective, innovative, and customer-focused transit 
+solution for implementation and deployment within the Town boundaries. The project’s goal is to provide 
+an enhanced, flexible, convenient transportation solution for connections that may include first/final mile, 
+community destinations, or specialty transportation needs. The purpose is to solve unmet transportation 
+needs, and not to duplicate any existing transportation services. In particular, the service will improve 
+transportation for marginalized population groups and those with less access to reliable transportation, 
+including older adults, youth, individuals with limited English proficiency, individuals with a disability, and 
+families with low incomes. The result of the project will be a service plan and microtransit procurement 
+development for contracted service operations. 
+Project Approach 
+The project approach is described in Figure 1, with each step relating back to the project’s core goals. 
+Figure 1: Project Approach 
+ 
+ 
+ 
+ 
+ 
+Report Contents 
+The report includes the following major sections: 
+• 
+Background and Context 
+• 
+Existing Transit Services 
+• 
+Demographic Analysis 
+• 
+Travel Patterns and Demand 
+• 
+Community Input 
+• 
+Transit Need & Travel Market Identification 
+• 
+Recommended Microtransit Zone 
+• 
+Implementation Plan 
+Understand the community
+Define travel demand & location
+Review community input
+Identify who would use & how
+Define service and implementation

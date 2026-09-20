@@ -1,0 +1,162 @@
+# source: raw/bleecker_drive/2.0 TIPS Cooperative Agreement/240101_CONTRACT_Technology_Via_Transportation.pdf
+# path: raw/bleecker_drive/2.0 TIPS Cooperative Agreement/240101_CONTRACT_Technology_Via_Transportation.pdf
+# hit page: 30 of 42
+# terms: Via Transportation
+
+=== page 29 ===
+6
+5
+Regulatory Good Standing Certification - Explanation - Continued
+If Vendor responded to the prior attribute that "No", Vendor is not in good standing, Vendor must provide an
+explanation of that lack of good standing here for TIPS consideration.
+ 
+N/A
+6
+6
+Instructions Only - Certification Regarding Debarment, Suspension, Ineligibility and Voluntary Exclusion
+Instructions for Certification Regarding Debarment, Suspension, Ineligibility and Voluntary Exclusion
+1. By answering yes to the next Attribute question below, the vendor and prospective lower tier participant is
+providing the certification set out herein in accordance with these instructions.
+2. The certification in this clause is a material representation of fact upon which reliance was placed when this
+transaction was entered into. If it is later determined that the prospective lower tier participant knowingly rendered
+an erroneous certification in addition to other remedies available to the federal government, the department or
+agency with which this transaction originated may pursue available remedies, including suspension and / or
+debarment.
+3. The prospective lower tier participant shall provide immediate written notice to the person to which this proposal
+is submitted if at any time the prospective lower tier participant learns that its certification was erroneous when
+submitted or has become erroneous by reason of changed circumstances.
+4. The terms “covered transaction,” “debarred,” “suspended,” “ineligible,” “lower tier covered transaction,”
+“participants,” “person,” “primary covered transaction,” “principal,” “proposal” and “voluntarily excluded,” as used in
+this clause, have the meanings set out in the Definitions and Coverage sections of rules implementing Executive
+Order 12549. You may contact the person to which this proposal is submitted for assistance in obtaining a copy of
+those regulations.
+5. The prospective lower tier participant agrees by submitting this form that, should the proposed covered
+transaction be entered into, it shall not knowingly enter into any lower tier covered transaction with a person who is
+debarred, suspended, declared ineligible or voluntarily excluded from participation in this covered transaction,
+unless authorized by the department or agency with which this transaction originated.
+6. The prospective lower tier participant further agrees by submitting this form that it will include this clause titled
+“Certification Regarding Debarment, Suspension, Ineligibility and Voluntary Exclusion-Lower Tier Covered
+Transaction” without modification in all lower tier covered transactions and in all solicitations for lower tier covered
+transactions.
+7. A participant in a covered transaction may rely upon a certification of a prospective participant in a lower tier
+covered transaction that it is not debarred, suspended, ineligible or voluntarily excluded from the covered
+transaction, unless it knows that the certification is erroneous. A participant may decide the method and frequency
+by which it determines the eligibility of its principals. Each participant may, but is not required to, check the
+Nonprocurement List.
+8. Nothing contained in the foregoing shall be construed to require establishment of a system of records in order to
+render in good faith the certification required by this clause. The knowledge and information of a participant is not
+required to exceed that which is normally possessed by a prudent person in the ordinary course of business
+dealings.
+9. Except for transactions authorized under paragraph 5 of these instructions, if a participant in a covered
+transaction knowingly enters into a lower tier covered transaction with a person who is suspended, debarred,
+ineligible or voluntarily excluded from participation in this transaction, in addition to other remedies available to the
+federal government, the department or agency with which this transaction originated may pursue available
+remedies, including suspension and / or debarment.
+Vendor: Via Transportation Inc
+240101
+Page 19 of 31 pages
+=== page 30 ===
+6
+7
+Suspension or Debarment Certification
+Read the instructions in the attribute above and then answer the following accurately.
+ 
+Vendor certifies that neither it nor its principals are presently debarred, suspended, proposed for debarment,
+declared ineligible, or voluntarily excluded from participation in this transaction by any Federal department or
+agency.
+ 
+Does Vendor certify?
+Yes, Vendor certifies
+6
+8
+Vendor Certification of Criminal History - Texas Education Code Chapter 22
+Texas Education Code Chapter 22 requires entities that contract with school districts to provide services to obtain
+criminal history record information regarding covered employees. Contractors must certify to the district that they
+have complied. Covered employees with disqualifying criminal histories are prohibited from serving at a school
+district pursuant to this law.
+ 
+DEFINITIONS
+Covered employees: Employees of a contractor or subcontractor who have or will have continuing duties related
+to the service to be performed at the District and have or will have direct contact with students. The District will be
+the final arbiter of what constitutes direct contact with students.
+ 
+Disqualifying criminal history: Any conviction or other criminal history information designated by the District, or
+one of the following offenses, if at the time of the offense, the victim was under 18 or enrolled in a public school: (a)
+a felony offense under Title 5, Texas Penal Code; (b) an offense for which a defendant is required to register as a
+sex offender under Chapter 62, Texas Code of Criminal Procedure; or (c) an equivalent offense under federal law
+or the laws of another state.
+Vendor certifies:
+NONE (Section A):  None  of the employees of Vendor and any subcontractors are covered employees, as defined
+above. If this box is checked, I further certify that Contractor has taken precautions or imposed conditions to ensure
+that the employees of Vendor and any subcontractor will not become covered employees. Contractor will maintain
+these precautions or conditions throughout the time the contracted services are provided under this procurement.
+OR
+SOME (Section B): Some or all of the employees of Vendor and any subcontractor are covered employees. If this
+box is checked, I further certify that: (1) Vendor has obtained all required criminal history record information
+regarding its covered employees. None of the covered employees has a disqualifying criminal history; (2) If Vendor
+receives information that a covered employee subsequently has a reported criminal history, Vendor will immediately
+remove the covered employee from contract duties and notify the purchasing entity in writing within 3 business
+days; (3) Upon request, Vendor will provide the purchasing entity with the name and any other requested
+information of covered employees so that the purchasing entity may obtain criminal history record information on
+the covered employees; (4) If the purchasing entity objects to the assignment of a covered employee on the basis
+of the covered employee's criminal history record information, Vendor agrees to discontinue using that covered
+employee to provide services at the purchasing entity.
+ 
+Which option does Vendor certify?
+Yes, I certify - NONE (Section A)
+Vendor: Via Transportation Inc
+240101
+Page 20 of 31 pages
+=== page 31 ===
+6
+9
+Certification Regarding "Choice of Law" Terms with TIPS Members
+Vendor agrees that if any "Choice of Law" provision is included in any sales agreement/contract between Vendor
+and a TIPS Member, that clause must provide that the "Choice of Law" applicable to the sales agreement/contract
+between Vendor and TIPS Member shall be the state where the TIPS Member operates unless the TIPS Member
+expressly agrees otherwise. Any TIPS Sale Supplemental Agreement containing a "Choice of Law" clause that
+conflicts with these terms is rendered void and unenforceable.
+ 
+If Vendor disagrees, after this solicitation legally closes and TIPS begins evaluating Vendor's file, TIPS will provide
+Vendor with a draft Word Document version of the Vendor Agreement and will be instructed to include all requested
+negotiations as redline edits for TIPS consideration.
+ 
+Does Vendor agree?
+ 
+Yes, Vendor agrees
+7
+0
+Certification Regarding "Venue" Terms with TIPS Members
+Vendor agrees that if any "Venue" provision is included in any sales agreement/contract between Vendor and a
+TIPS Member, that clause must provide that the "Venue" for any litigation or alternative dispute resolution is shall be
+in the state and county where the TIPS Member operates unless the TIPS Member expressly agrees otherwise.  Any
+TIPS Sale Supplemental Agreement containing a "Venue" clause that conflicts with these terms is rendered void and
+unenforceable.
+ 
+If Vendor disagrees, after this solicitation legally closes and TIPS begins evaluating Vendor's file, TIPS will provide
+Vendor with a draft Word Document version of the Vendor Agreement and will be instructed to include all requested
+negotiations as redline edits for TIPS consideration.
+ 
+Does Vendor agree?
+Yes, Vendor agrees
+7
+1
+Certification Regarding "Automatic Renewal" Terms with TIPS Members
+Vendor agrees that no TIPS Sale may incorporate an "Automatic Renewal" clause that exceeds month to month
+terms with which the TIPS Member must comply. All renewal terms incorporated into a TIPS Sale Supplemental
+Agreement shall only be valid and enforceable when Vendor received written confirmation of acceptance of the
+renewal term from the TIPS Member for the specific renewal term.  The purpose of this clause is to avoid a TIPS
+Member inadvertently renewing a Supplemental Agreement during a period in which the governing body of the TIPS
+Member has not properly appropriated and budgeted the funds to satisfy the Agreement renewal. Any TIPS Sale
+Supplemental Agreement containing an "Automatic Renewal" clause that conflicts with these terms is rendered void
+and unenforceable.
+ 
+If Vendor disagrees, after this solicitation legally closes and TIPS begins evaluating Vendor's file, TIPS will provide
+Vendor with a draft Word Document version of the Vendor Agreement and will be instructed to include all requested
+negotiations as redline edits for TIPS consideration.
+ 
+Does Vendor agree?
+Yes, Vendor agrees
+Vendor: Via Transportation Inc
+240101
+Page 21 of 31 pages

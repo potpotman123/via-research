@@ -1,0 +1,156 @@
+# source: raw/bleecker_drive/Lee County/RFP250034SML Via Mobility Executed.pdf
+# path: raw/bleecker_drive/Lee County/RFP250034SML Via Mobility Executed.pdf
+# hit page: 152 of 171
+# terms: Via Mobility
+
+=== page 151 ===
+LeeTran Grant Funded General Provisions 
+October 2024 
+24 
+ 
+The Cargo Preference requirements apply to all Contracts involving Equipment, materials, 
+or commodities which may be transported by ocean vessels. 
+Use of United States – Flag Vessels: 
+i. 
+The Contractor agrees to use privately owned United States- Flag commercial vessels 
+to ship at least 50 percent of the gross tonnage (computed separately for dry bulk 
+carriers, dry cargo liners, and tankers) involved, whenever shipping any Equipment, 
+material, or commodities pursuant to the underlying Contract to the extent such 
+vessels are available at fair and reasonable rates for United States- Flag commercial 
+vessels. 
+ii. Furnish within twenty (20) business days following the date of loading for shipments 
+originating within the United States or within thirty (30) business days following the 
+date of leading for shipments originating outside the United States, a legible copy of 
+a rated, "on-board" commercial ocean bill-of-lading in English for each shipment of 
+cargo described in the preceding paragraph to the Division of National Cargo, Office 
+of Market Development, Maritime Administration, Washington, DC 20590 and to 
+LCBOCC (through the Contractor in the case of a Subcontractor’s bill-of-lading.) 
+iii. Include these requirements in all Subcontracts issued pursuant to the Contract when 
+the Subcontract may involve the transport of Equipment, material, or commodities 
+by ocean vessel. 
+ 
+10.3 
+RECYCLED PRODUCTS (CONTRACTS EXCEEDING $10,000) 
+(42 USC § 6962; 40 CFR part 247; and 2 CFR part § 200.322) 
+ 
+With respect to Contracts for items designated by the Environmental Protection Agency, when 
+LCBOCC procures at least Ten Thousand Dollars ($10,000) of such materials per year, the 
+Contractor agrees to comply with all the requirements of Section 6002 of the Resource 
+Conservation and Recovery Act (RCRA), as amended (42 USC 6962), including but not limited 
+to the regulatory provisions of 40 CFR Part 247, and Executive Order 12873, as they apply to 
+the procurement of the items designated in Subpart B of 40 CFR Part 247 
+EXHIBIT E - PROJECT FUNDING PACKAGE
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7
+=== page 152 ===
+Attachment 2 - Compliance Matrix
+RFP250034SML - LeeTran Paratransit Software Management
+Company Name: _Via Mobility, LLC._______________________________________________________
+Instructions for filling out the matrix:
+Yes/No
+If No, what 
+modifications are 
+needed to comply
+Comments
+Yes
+Via's software is cloud-based 
+(online) and accessible via mobile 
+devices, tablets, and computers.  
+Yes
+Via's Rider App is available in a 
+variety of languages, including 
+English, Spanish, and Hatian 
+Creole.
+Yes
+Via’s product updates in real time. 
+For example, our Driver App 
+transmits data in real time to the 
+Via Operations Center (VOC); 
+vehicle locations are updated every 
+2 seconds or at another interval 
+desired by LeeTran. Actions taken 
+in the Via Rider App (such as 
+booking a trip) are also updated in 
+the central administrative platform 
+in real time. 
+Yes
+Via's Rider App meets ADA 
+compliance needs and is designed 
+to comply with WCAG 2.1 AA.
+The proposer is required to indicate the compliance status relative to each individual requirement listed in the Compliance Matrix. For each 
+requirement, the proposer must indicate whether their proposed system complies (Y); does not comply (N); with comments or explanations 
+allowable for evaluation. 
+Required Service Performance
+Does the Product utilize an online platform accessible via mobile 
+devices?
+Does the Product have ability to communicate in English, 
+Spanish and Haitian-Creole?
+Is the Product adaptable in real time (minimum of every 15 
+seconds)?
+Does your Product meet ADA compliance needs?
+1
+EXHIBIT E - PROJECT FUNDING PACKAGE
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7
+=== page 153 ===
+Yes
+Via's driver application includes 
+continuous real-time location 
+transmissio, and the ability to 
+communicate with Agency staff in 
+real time. LeeTran dispatchers will be 
+able to easily view real-time locations 
+of all vehicles in Via's Hub view, 
+which also includes a high level 
+overview of service performance, 
+color-coded indicators of on-time, 
+early, and late trips, and more key 
+information regarding real-time 
+service performance. The Driver App 
+is continuously updated with any trip 
+requests and changes, ensuring that 
+LeeTran drivers always have the 
+latest information and instructions, 
+without the need for manual 
+synchronization or acknowledgement. 
+At any time, dispatchers / staff can 
+communicate with fleet drivers / 
+operators. 
+Yes
+LeeTran dispatchers can book 
+rides on behalf of users who have 
+called in using the Via Operations 
+Center.
+Yes
+Yes, Via can maintain necessary 
+records for a minimum of five 
+years.
+Yes
+Yes, Via can provide detailed 
+marketing support for LeeTran. 
+Our in-house design studio will 
+develop logos, color schemes, and 
+other branding elements that are 
+fully customized to meet LeeTran's 
+branding guidelines for the Rider 
+Application. We have designed 
+and successfully launched more 
+than one hundred brands in 
+tandem with cities and transit 
+agencies around the world. 
+Our in-house Marketing team can 
+also develop a custom marketing 
+plan and provide branding 
+materials and templates to drive 
+awareness of any changes to the 
+service and ensure a seamless 
+transition for LeeTran's riders.
+Does your product have a Fleet tool - Real-Time tracking of 
+Agency's fleet (CAD/AVL) of transit vehicles and ability to 
+communicate in real-time with fleet driver/operators?
+Will LeeTran have ability to book for users without access to the 
+software?
+Can your product maintain necessary records for a minimum of 
+five years?
+Can the vendor provide detailed marketing support?
+2
+EXHIBIT E - PROJECT FUNDING PACKAGE
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7

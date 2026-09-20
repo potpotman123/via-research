@@ -1,0 +1,288 @@
+# source: https://nashville.legistar1.com/nashville/attachments/3945d95e-aee0-4c5e-b3cd-bf8bbef09364.pdf
+# path: raw/cache/861aba2527e3a0632e2bf924485acb3a363c182a.pdf
+# hit page: 40 of 70
+# terms: Remix Technologies
+
+=== page 39 ===
+Metro ISA v1.9 
+3
+Authentication. 
+3.1 Contractor shall assign a unique user ID to any Agent or end user who accesses Sensitive Information on Contractor 
+Managed Systems. This unique ID shall be configured so that it enables tracking of each user’s activity within the system. 
+3.2 Contractor agrees to require authentication for access to Sensitive Information on Contractor Managed System. 
+3.3 Contractor agrees to configure the system to support Strong Authentication for accessing Sensitive Information from any 
+Open Network (e.g., Internet, open wireless).   For avoidance of doubt, Metro Government Network is considered a trusted 
+network.  
+3.4 Contractor shall configure the system to expire passwords at least every one-hundred and eighty (180) days and require a 
+password change on the next successful login.  For system that cannot support Strong Passwords, Contractor shall configure 
+the system to expire passwords every ninety (90) days. 
+3.5 Unless otherwise agreed by Metro Government, Contractor shall ensure that Contractor Managed Systems will require 
+Strong Password for user authentication. 
+ϰ
+User Accountability.  Contractor shall report to Metro Government, on request, all user accounts and their respective access 
+rights within the system within five (5) business days or less of the request. 
+ϱ
+Information Segregation, Information Protection and Authorization.  Contractor shall implement processes and/or controls to 
+prevent the accidental disclosure of Metro Government Sensitive Information to other Contractor Metro Governments, including 
+an Affiliates of Metro Government. 
+
+Account Termination.  Contractor shall disable user accounts of Agents or Metro Government end users for the system within 
+five (5) business days of becoming aware of the termination of such individual.  In the cases of cause for termination, Contractor 
+will disable such user accounts as soon as administratively possible. 
+ϳ
+System / Information Access. 
+ϳ.1 Contractor and its Agents shall only access system, application or information which they are expressly authorized by Metro
+Government to access, even if the technical controls in the system or application do not prevent Contractor or its Agent 
+from accessing those information or functions outside of Metro Government’s authorization.  Contractor shall impose 
+reasonable sanctions against any Agent who attempts to bypass Metro Government security controls. 
+ϳ.2 Contractor agrees to use the Principle of Least Privilege when granting access to Contractor Managed Systems or Metro
+Government Information. 
+ϴ
+System Maintenance.
+ϴ.1 Contractor shall maintain system(s) that generate, store, transmit or process Metro Government Sensitive Information
+according to manufacturer recommendations. Contractor shall ensure that only those personnel certified to repair such 
+systems are allowed to provide maintenance services. 
+ϴ.2 Contractor shall keep records of all preventative and corrective maintenance on systems that generate, store, transmit or
+process Metro Government Sensitive Information.  Such records shall include the specific maintenance performed, date of 
+maintenance, systems that the maintenance was performed on including identifiers (e.g., DNS name, IP address) and 
+results of the maintenance. 
+	
+		
+
+=== page 40 ===
+ANY PROPRIETOR/PARTNER/EXECUTIVE
+OFFICER/MEMBER EXCLUDED?
+INSR
+ADDL SUBR
+LTR
+INSD WVD
+DATE (MM/DD/YYYY)
+PRODUCER
+CONTACT
+NAME:
+FAX
+PHONE
+(A/C, No):
+(A/C, No, Ext):
+E-MAIL
+ADDRESS:
+INSURER A :
+INSURED
+INSURER B :
+INSURER C :
+INSURER D :
+INSURER E :
+INSURER F :
+POLICY NUMBER
+POLICY EFF
+POLICY EXP
+TYPE OF INSURANCE
+LIMITS
+(MM/DD/YYYY)
+(MM/DD/YYYY)
+AUTOMOBILE LIABILITY
+UMBRELLA LIAB
+EXCESS LIAB
+WORKERS COMPENSATION
+AND EMPLOYERS' LIABILITY
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES  (ACORD 101, Additional Remarks Schedule, may be attached if more space is required)
+AUTHORIZED REPRESENTATIVE
+EACH OCCURRENCE
+$
+DAMAGE TO RENTED
+CLAIMS-MADE
+OCCUR
+$
+PREMISES (Ea occurrence)
+MED EXP (Any one person)
+$
+PERSONAL & ADV INJURY
+$
+GEN'L AGGREGATE LIMIT APPLIES PER:
+GENERAL AGGREGATE
+$
+PRO-
+POLICY
+LOC
+PRODUCTS - COMP/OP AGG
+$
+JECT
+OTHER:
+$
+COMBINED SINGLE LIMIT
+$
+(Ea accident)
+ANY AUTO
+BODILY INJURY (Per person)
+$
+OWNED
+SCHEDULED
+BODILY INJURY (Per accident)
+$
+AUTOS ONLY
+AUTOS
+HIRED
+NON-OWNED
+PROPERTY DAMAGE
+$
+AUTOS ONLY
+AUTOS ONLY
+(Per accident)
+$
+OCCUR
+EACH OCCURRENCE
+$
+CLAIMS-MADE
+AGGREGATE
+$
+DED
+RETENTION $
+$
+PER
+OTH-
+STATUTE
+ER
+E.L. EACH ACCIDENT
+$
+E.L. DISEASE - EA EMPLOYEE $
+If yes, describe under
+E.L. DISEASE - POLICY LIMIT
+$
+DESCRIPTION OF OPERATIONS below
+INSURER(S) AFFORDING COVERAGE
+NAIC #
+COMMERCIAL GENERAL LIABILITY
+Y / N
+N / A
+(Mandatory in NH)
+SHOULD ANY OF THE ABOVE DESCRIBED POLICIES BE CANCELLED BEFORE
+THE EXPIRATION DATE THEREOF, NOTICE WILL BE DELIVERED IN
+ACCORDANCE WITH THE POLICY PROVISIONS.
+THIS IS TO CERTIFY THAT THE POLICIES OF INSURANCE LISTED BELOW HAVE BEEN ISSUED TO THE INSURED NAMED ABOVE FOR THE POLICY PERIOD
+INDICATED.  NOTWITHSTANDING ANY REQUIREMENT, TERM OR CONDITION OF ANY CONTRACT OR OTHER DOCUMENT WITH RESPECT TO WHICH THIS
+CERTIFICATE MAY BE ISSUED OR MAY PERTAIN, THE INSURANCE AFFORDED BY THE POLICIES DESCRIBED HEREIN IS SUBJECT TO ALL THE TERMS,
+EXCLUSIONS AND CONDITIONS OF SUCH POLICIES. LIMITS SHOWN MAY HAVE BEEN REDUCED BY PAID CLAIMS.
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE CERTIFICATE HOLDER. THIS
+CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR ALTER THE COVERAGE AFFORDED BY THE POLICIES
+BELOW.  THIS CERTIFICATE OF INSURANCE DOES NOT CONSTITUTE A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED
+REPRESENTATIVE OR PRODUCER, AND THE CERTIFICATE HOLDER.
+IMPORTANT:  If the certificate holder is an ADDITIONAL INSURED, the policy(ies) must have ADDITIONAL INSURED provisions or be endorsed.
+If SUBROGATION IS WAIVED, subject to the terms and conditions of the policy, certain policies may require an endorsement.  A statement on
+this certificate does not confer rights to the certificate holder in lieu of such endorsement(s).
+COVERAGES
+CERTIFICATE NUMBER:
+REVISION NUMBER:
+CERTIFICATE HOLDER
+CANCELLATION
+© 1988-2015 ACORD CORPORATION.  All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+ACORD 25 (2016/03)
+CERTIFICATE OF LIABILITY INSURANCE
+Lockton Insurance Brokers, LLC
+CA License #0714705
+900 E. Hamilton Ave., Ste. 100
+Campbell CA 95008
+Remix Technologies, LLC
+114 5th Avenue, Floor 17
+New York, NY 10011
+Lloyd's of London
+Pacific Insurance Company, Ltd.
+10046
+X
+X
+ 1,000,000
+100,000
+5,000
+ 1,000,000
+ 10,000,000
+ 10,000,000
+XXXXXXX
+XXXXXXX
+XXXXXXX
+XXXXXXX
+XXXXXXX
+X
+X
+6,000,000
+6,000,000
+XXXXXXX
+XXXXXXX
+XXXXXXX
+XXXXXXX
+A
+57 YR3 OH8428
+11/1/2024
+11/1/2025
+B
+B1881S240791
+11/1/2024
+11/1/2025
+NOT APPLICABLE
+NOT APPLICABLE
+11/1/2025
+1546320
+N
+N
+N
+N
+1/28/2025
+21341130
+21341130
+XXXXXXX
+Metropolitan Government of Nashville
+& Davidson County
+Metro Courthouse
+Nashville TN 37201
+SaaS contract
+X
+ESENTATIVE
+© 1988-201
+01
+01
+01
+015 
+5 ACORD CORPOR
+OR
+OR
+OR
+OR
+OR
+O ATION.  Al
+0HWURSROLWDQ*RYHUQPHQWRI1DVKYLOOHDQG'DYLGVRQ&RXQW\LWVRIILFLDOVRIILFHUVHPSOR\HHVDQGYROXQWHHUVDUHQDPHGDVDGGLWLRQDOLQVXUHGVSHUJHQHUDOOLDELOLW\DGGLWLRQDO
+LQVXUHGHQGRUVHPHQWDQGDXWRPRELOHOLDELOLW\DGGLWLRQDOLQVXUHGHQGRUVHPHQW
+&RQWUDFW1XPEHU
+	
+		
+
+=== page 41 ===
+26883
+61567437
+6,000,000
+Cyber/E&O Liability
+CN115319700--Cyber-25-26
+03/07/2026
+SEA-004076577-03
+03/24/2025
+4
+100,000
+SIR:
+03/07/2025
+Limit:
+  114 5th Avenue, Floor 17
+  Remix Technologies LLC
+  New York, NY  10011
+AIG Specialty Insurance Company
+  FOUR EMBARCADERO CENTER, SUITE 1100
+  MARSH RISK & INSURANCE SERVICES
+  SAN FRANCISCO, CA  94111
+  CALIFORNIA LICENSE NO. 0437153
+N
+  Metro Courthouse
+  Nashville, TN  37201
+  Metropolitan Government of Nashville &
+  Davidson County
+A
+$POUSBDU
+	
+		
+

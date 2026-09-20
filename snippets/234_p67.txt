@@ -1,0 +1,177 @@
+# source: https://legistar.granicus.com/LosAlamos/attachments/d4ed28e3-5da0-403c-aaa8-20fd558046f1.pdf
+# path: raw/cache/9e8dcba51a86916c33f88b1baedeefebe738b9ef.pdf
+# hit page: 67 of 81
+# terms: Spare Labs
+
+=== page 66 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+66 
+ Agreement Template Version: 04012024 
+Step 
+Approach to Data Conversion / Migration 
+Step 9: 
+Documentation 
+Incorporate data specification into new data use policies, data management 
+policies, and process documentation. 
+● 
+Create comprehensive documentation of the new system’s 
+specifications and configurations. 
+● 
+Facilitate knowledge transfer to internal teams for effective system 
+management and troubleshooting. 
+Step 10: Training 
+& Support 
+Incorporate data use and management policies into training materials. 
+● 
+Develop a change management strategy to facilitate user adoption of 
+the new system. 
+● 
+Address user concerns and resistance to change through training 
+and engagement. 
+● 
+Provide training to users on the new system. 
+● 
+Offer support during the initial phase post-migration. 
+Step 11: Post 
+Launch Data 
+Review and 
+Improvement 
+● 
+Monitor the performance of the new system post-migration. 
+● 
+Conduct any last imports needed from previous system that may 
+have been missed during the transition process. 
+● 
+Optimize system performance based on feedback and 
+observed performance metrics. 
+● 
+Conduct a comprehensive review after the migration to assess its 
+success and areas for improvement. 
+● 
+Gather feedback from all stakeholders, including end-users, to inform 
+future projects. 
+Step 12: Data 
+Copy Deletion, 
+Clean Up, and 
+Close Out 
+● 
+Delete all copies of the data created during the migration process 
+● 
+Remove tool permissions from those no longer needing access 
+● 
+Securely archive or dispose of old data/systems in compliance with 
+organizational and regulatory standards. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Attachment A
+=== page 67 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+67 
+ Agreement Template Version: 04012024 
+Exhibit J 
+Optional Spare Realize Transit Planning and Simulation Projects 
+AGR24-37 
+ 
+This Exhibit J is included herein for reference and reflects Contractor’s proposed Spare Realize Transit 
+Planning and Simulation Projects Services, as provided in Contractor’s Response. Upon County’s request, 
+Contractor shall provide such services pursuant to Exhibit A. Contractor may modify its approach to 
+providing such Services, provided they are planned and performed in a substantially similar manner as to 
+that described herein, acceptable to the County Project Manager. 
+ 
+Included in this partnership, potential simulations and service planning projects for Atomic City 
+Transit will be led by your Account manager, and may include the exercise of scoping 
+potential service changes, the execution of a simulation with your data, and 
+recommendations based on projected metrics and projections against your goals and 
+objectives. 
+Spare's planning and service simulations module, Realize, is a tool that enables you to 
+plan, simulate, and optimize on-demand transit networks and make better, data-driven 
+decisions for your region and community. Within this partnership, your assigned Account 
+Manager will be the lead for any related service simulation on planning exercises, with the 
+intention of providing a low-barrier way to explore service optimization and refinement, 
+possible expansions, zone adjustments, or cost-benefit analyses. 
+ 
+ 
+Attachment A
+=== page 68 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+68 
+ Agreement Template Version: 04012024 
+ 
+Spare Realize combines a variety of datasets, including population, jobs, destinations, 
+agency-provided data, like Automated Passenger Counter, APC,data and General Transit 
+Feed Specification, GTFS, and information gathered from Spareʼs live services, to generate 
+powerful simulations that can help inform your planning decisions. 
+To create a baseline simulation, Spare Realize has the capability to pull from open source 
+demographic and geographic data sources all around the world, and from third party APIs. 
+In order to run Spare Realize simulations at greater detail, a number of data sources can 
+be used, such as: 
+● 
+Existing fixed route or on-demand origin-destination data 
+● 
+Fixed route ridership data, including APC data 
+● 
+Current Dial-A-Ride/on-demand service data 
+● 
+Anonymous telecom location data 
+● 
+GTFS data 
+These simulations are run at an accelerated pace and calculate expected KPIs over the 
+service lifetime, like expected costs, reach, and wait times. Some of the Spare Realize 
+outputs available are: 
+● 
+Number of vehicles required to achieve a certain service quality, such as wait time, 
+minutes on vehicle, and more 
+● 
+Estimated number of daily boardings 
+● 
+Estimated passengers per hours of service 
+● 
+Estimated cost per trip 
+● 
+Estimated passengers per trip 
+● 
+Optimal size zone 
+● 
+Trip patterns, such as simulated pickup and drop offs 
+● 
+Service quality statistics, such as wait time and minutes on the vehicle 
+● 
+Vehicle capacity utilization 
+● 
+Operating efficiency, such as revenue hours, revenue miles, passenger per hour, and 
+more 
+● 
+Time utilization, such as idle time, unoccupied time to pickup or drop off, and 
+occupied time 
+The end result of a Spare Realize simulation includes a discussion of the results, what the 
+outputs mean, how they were established, the assumptions that were initially made, and 
+recommendations based on results. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Attachment A

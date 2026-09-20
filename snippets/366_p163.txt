@@ -1,0 +1,266 @@
+# source: raw/bleecker_drive/Lee County/RFP250034SML Via Mobility Executed.pdf
+# path: raw/bleecker_drive/Lee County/RFP250034SML Via Mobility Executed.pdf
+# hit page: 163 of 171
+# terms: Via+vehicles
+
+=== page 162 ===
+Yes
+Via's system contacts clients 
+through their primary phone 
+number, using IVR to 
+automatically send clients calls 
+and texts the night before their trip. 
+Clients do not need to confirm the 
+trip, but may use this functionality 
+to cancel the trip should they so 
+desire. 
+Yes
+Via's data is developer-friendly, 
+and our platform is deeply 
+extensible. We are pleased to offer 
+LeeTran an integration between 
+our paratransit Rider App and 
+LeeTran's existing fixed routes. 
+We are also excited to offer 
+LeeTran our microtransit module 
+at no extra cost, which will allow 
+for a seamless integration between 
+paratransit and Mobility-on-
+Demand services. Riders will only 
+need one app — the Via Rider 
+App — to book both microtransit 
+and paratransit services, and 
+LeeTran will be able to control and 
+commingle both services on our 
+unified backend.
+Yes
+User/dispatchers will be able to 
+identify live vehicle location and 
+status and locate trips in proximity 
+in the Hub, the VOC's real-time 
+overview of service in a map-based 
+interface. The GPS signal from the 
+Via Driver App feeds directly into 
+the Hub every 2 seconds, 
+displaying real-time vehicle 
+location, map with service 
+boundaries, vehicle load, on-time 
+performance, and driver and 
+vehicle status.
+Yes
+The VOC’s Map Editor enables 
+dispatchers to view the service’s 
+underlying mapping infrastructure, 
+including the service area 
+boundary of each program. 
+LeeTran administrators can use the 
+Map Editor to determine whether a 
+client's requested trip origins and 
+destinations are within the 
+designated service zone. An 
+intuitive system of alerts and 
+notifications prohibits users from 
+booking trips to locations that are 
+outside of the specific service area.
+Does your system have the ability to contact clients through their 
+primary phone numbers using an automated system including 
+Interactive Voice Response (IVR) for notification reminders of 
+scheduled trips for the next day and ability for clients to confirm 
+or cancel trip?
+Does your system have the ability to connect with the fixed-route 
+system and Ultra Mobility on Demand (MoD) services to include 
+a Mobility Data Management (MDM) option?
+Does your system utilize GPS to provide automatic vehicle 
+location (AVL) in conjunction with mapping that allows 
+users/dispatchers to identify current vehicle locations? If so, does 
+it have the ability to automatically refresh at a minimum of every 
+fifteen seconds according to event or rule GPS reporting?
+Does your systems map display have the ability to clearly 
+identify the service area boundary of each program? Does the 
+system provide for graphic or query functionality to determine if 
+client's address or requested trip origins and destinations are 
+within the program specific service area?
+11
+EXHIBIT E - PROJECT FUNDING PACKAGE
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7
+=== page 163 ===
+Yes
+The Via system supports AVL and 
+displays real time vehicle locations 
+in our maps.
+Yes
+Via’s platform leverages several 
+sources to develop an accurate and 
+fully up-to-date map of the service 
+area ti=o enable point-to-point 
+scheduling. Our proprietary 
+mapping capabilities allow us to 
+define segment characteristics, 
+including speed limitis, one-way 
+direction, custom Points of Interest 
+unique to LeeTran's network, and 
+more.
+Yes
+Via's system clearly displays 
+vehicle icons and location, 
+updating automatically with real-
+time location and speed data from 
+the Driver App. Users can leverage 
+this interface to visualize trip data 
+such as operator ID, vehicle ID, 
+and speed.
+Yes
+Users can zoom in or out on the 
+map, pan in any direction and click 
+on specific features and vehicles to 
+retrieve information. 
+Yes
+Via's system has the ability to 
+provide vehicle location data on a 
+ride-by-ride basis, including 
+historical speed data.
+Yes
+Via provides GIS functionality by 
+leveraging Google Maps and Open 
+Street Maps to route vehicles and 
+give clients ETAs that account for 
+the real-world street network. 
+Yes
+Data and images produced by the 
+Via system can be reviewed, 
+shared, and exported in widely 
+used formats. Additionally, any 
+and all raw data can be exported 
+from the Via Platform to other 
+software platforms of LeeTran's 
+choosing.
+Yes
+Via’s platform has full geocoding 
+capabilities for locations, pickup 
+points, and dropoff points, 
+including point address locations 
+and any abbreviations that are 
+supported by Google Maps. 
+Yes
+The Via Operations Center (VOC) 
+permits LeeTran to manually 
+assign x and y coordinates by 
+clicking on and selecting any spot 
+on the map to display associated 
+address data. 
+Does your system have access to AVL maps?
+Do you have the ability to provide fully up-to-date maps 
+complete with all attributes necessary for point-to-point 
+scheduling using coordinate geography (not zones)? Does the 
+system have the ability to permit definition of segment 
+characteristics, such as speed limits, one-way direction, etc.?
+Does your system map display clearly display vehicle icon and 
+location? Does the system have the capability for the vehicle icon 
+to display the operator ID, vehicle ID, and speed?
+Does your system map display include features to zoom in or out, 
+pan in any direction, and point-and-click on features and vehicles 
+to retrieve information? Is the map expandable to full screen 
+view?
+Does your system have the ability to provide historical playback 
+of vehicle locations with speed date? 
+Does your software provide GIS functionality?
+Does your system have the capability of exporting data and 
+graphic images to other software platforms?
+Does your system have full geocoding capability allowing 
+LeeTran to enter an address and locate the address on the map? 
+Does your system have the ability to handle various abbreviations 
+of names in the geocoding process?
+Does your system permit manual assignment of x and y 
+coordinates in the event an address cannot be geocoded?
+12
+EXHIBIT E - PROJECT FUNDING PACKAGE
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7
+=== page 164 ===
+Yes
+Via's system has the capacity to 
+manually pin pick-up locations on 
+the map to direct drivers to the 
+exact pick-up spot. Users can also 
+include pick-up notes to provide 
+further context for drivers.
+Yes
+The Via Operations Center (VOC), 
+calculates all system-estimated 
+drive lengths and durations during 
+the scheduling process.
+Yes
+Via’s Driver App provides drivers 
+with a map image of the trip from 
+origin to destination, as well as 
+turn-by-turn visual and auditory 
+directions.
+Yes
+Via's system has the ability to 
+calculate, autofill, and report the 
+municipality and county of each 
+trip's home address, trip origin, 
+and/or destination.
+Yes
+Via's reporting suite offers pre-
+built dashboards for reporting 
+purposes, including regulatory 
+reports and service KPI dshboards 
+for cusom and ad-hoc reports 
+relating to customer satisfaction, 
+operator performance, hourly trip-
+level reports, revenue and cost 
+analyses, and more.
+Yes
+Via’s reporting suite features 
+dashboards specifically designed 
+for FTA and NTD compliance, 
+including DR/DO S-10 Reporting.
+Yes
+Via's system can provide a deposit 
+of app-collected fares on a weekly 
+basis.
+Yes
+Via's system provides financial 
+reporting such as revenue and cost 
+analyses relating to fares collected 
+by vehicle, date, and location.
+Yes/No
+If No, are there 
+alternative 
+options for 
+compliance?
+Comments
+Yes
+Yes, Via ensures the secure 
+capture and transmission of 
+cardholder data, in accordance 
+with PCI DSS standards.
+Yes
+Yes, Via maintains PCI-DSS 
+compliance as a Level 2 merchant.
+Does your system have the capability to manually pin multiple 
+doors at the same location to direct driver to exact pick-up spot?
+Does your system have the capability to calculate drive length 
+and duration during the scheduling process?
+Does your system have the capability of providing a map image 
+of the trip origin and/or destination as well as turn by turn 
+directions for the driver?
+Does your system have the ability to calculate, autofill, and report 
+the municipality and county of each trip's home address, trip 
+origin, and/or destination?
+Does your system provide dashboard access? Reporting? Allow 
+for Ad-hoc custom reports?
+Does your system include Federal Transit Agency (FTA) 
+reporting such as DR/DO S-10 reporting?
+Does your system provide deposit of app collected fares on a 
+weekly basis?
+Does your system provide financial reporting of fares collected 
+by vehicle, date, and location? 
+PCI Compliance
+Does your product ensure the secure capture and transmission of 
+cardholder data?
+Is your system capable of maintaining PCI DSS compliance for 
+your product?
+13
+EXHIBIT E - PROJECT FUNDING PACKAGE
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7

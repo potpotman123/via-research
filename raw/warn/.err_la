@@ -1,0 +1,23 @@
+/Users/kwu/Documents/VIA/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+2026-09-20 16:36:39,272 - warn.utils - No ZYTE_API_KEY variable found in environment. Please get an API key from Zyte and export it.
+Traceback (most recent call last):
+  File "/Users/kwu/Documents/VIA/./.venv/bin/warn-scraper", line 6, in <module>
+    sys.exit(main())
+  File "/Users/kwu/Documents/VIA/.venv/lib/python3.9/site-packages/click/core.py", line 1161, in __call__
+    return self.main(*args, **kwargs)
+  File "/Users/kwu/Documents/VIA/.venv/lib/python3.9/site-packages/click/core.py", line 1082, in main
+    rv = self.invoke(ctx)
+  File "/Users/kwu/Documents/VIA/.venv/lib/python3.9/site-packages/click/core.py", line 1443, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/Users/kwu/Documents/VIA/.venv/lib/python3.9/site-packages/click/core.py", line 788, in invoke
+    return __callback(*args, **kwargs)
+  File "/Users/kwu/Documents/VIA/.venv/lib/python3.9/site-packages/warn/cli.py", line 75, in main
+    runner.scrape(scrape)
+  File "/Users/kwu/Documents/VIA/.venv/lib/python3.9/site-packages/warn/runner.py", line 52, in scrape
+    data_path = state_mod.scrape(self.data_dir, self.cache_dir)
+  File "/Users/kwu/Documents/VIA/.venv/lib/python3.9/site-packages/warn/scrapers/la.py", line 51, in scrape
+    cache.write(cache_key, html)
+  File "/Users/kwu/Documents/VIA/.venv/lib/python3.9/site-packages/warn/cache.py", line 138, in write
+    fh.write(content)
+TypeError: write() argument must be str, not None

@@ -1,0 +1,168 @@
+# source: https://legistar1.granicus.com/McKinney/attachments/abb0b9be-9c15-4174-9e04-7b9d82941c25.pdf
+# path: raw/cache/5e92fe54da67feb112756b4c03bca94101b9439a.pdf
+# hit page: 28 of 50
+# terms: Spare Labs
+
+=== page 27 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+Comparative analysis 
+ 
+Comparing low-cost and great-service options 
+ 
+To help assess the different tradeoffs between low-cost and great-service options, we 
+compare the performance KPIs of both options under medium demand and a door-to-door 
+operational model. The best performance for each parameter is highlighted in green. 
+ 
+It is clear that waiting times are lower in the great-service option, but service efficiency 
+declines compared to the low-cost option. The maximum waiting time for the low-cost 
+service, while high, is not representative of the vast majority of trip durations, which are 
+generally (far) below 60 minutes. Supplementing the baseline number of vehicles with 
+non-dedicated vehicles at peak times help to significantly reduce the chance of long waiting 
+times. We explore this in more detail in the Recommendations section.  
+ 
+An important question for CCT to consider is whether the extra spending on a ‘great 
+service’ option is value for money; this question is addressed in the Recommendations 
+section. 
+ 
+ 
+Low cost 
+(Medium demand, 4 duties) 
+Great service  
+(Medium demand, 6 duties) 
+Avg. wait time 
+26 ​mins 
+15 ​mins 
+Max wait time 
+58 ​mins 
+43 ​mins 
+<15 min wait 
+25% 
+56% 
+PPVH 
+1.2 
+0.8 
+Pooling ratio 
+54% 
+53% 
+Cost per trip 
+$43 
+$59 
+Annual cost 
+$830,000 
+$1,200,000 
+ 
+ 
+ 
+ 
+ 
+ 
+26
+=== page 28 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+Comparing door-to-door and stop-to-stop services 
+ 
+In the table below, we present the performance KPIs to compare door-to-door with 
+stop-to-stop models for the normal service hours, assuming medium demand and the ‘low 
+cost’ option. The best comparative performance for each parameter is highlighted in green. 
+ 
+Results show that, for the same level of demand and duty provision, the stop-to-stop model 
+provides a far superior efficiency, which translates to better waiting times for customers. 
+However, a stop-to-stop service comes at the expense of convenience for riders, because 
+they have to travel to their nearest bus stop to take advantage of the service. This might 
+require walking, which could create problems for those with ambulatory problems, or in 
+more remote areas, it may require driving to the nearest stop.  
+ 
+In our simulations, the average walking duration to the nearest stop was 11 minutes, which 
+is a function of the layout of virtual stops in our model. It may not be appropriate for those 
+with ambulatory difficulties or indeed users not willing to walk long distances in the Texan 
+heat. Increasing the density of virtual stops would reduce the average walking time, but 
+also increase waiting times and reduce efficiency accordingly. These issues are discussed in 
+more detail in the Recommendations section.  
+ 
+ 
+Door-to-door  
+(Medium demand, 4 duties) 
+Stop-to-stop  
+(Medium demand, 4 duties) 
+Avg. wait time 
+26 ​mins 
+17 ​mins 
+Max wait time 
+58 ​mins 
+55 ​mins 
+<15 min wait 
+25% 
+56% 
+PPVH 
+1.2 
+1.2 
+Pooling ratio 
+54% 
+75% 
+Cost per trip 
+$43 
+$43 
+Annual cost 
+$830,000 
+$830,000 
+ 
+ 
+ 
+27
+=== page 29 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+Comparing normal service hours and extended service hours 
+ 
+In the table below, we present the performance KPIs to compare the effect of extending the 
+service hours, assuming medium demand and the ‘low cost’ option. The best comparative 
+performance for each parameter is highlighted in green. 
+ 
+Results show that extending the service hours by 6 hours (until midnight) helps to spread 
+demand slightly across the day, in spite of the expected 15% boost in demand. Averages 
+wait times therefore decrease, and the proportion of riders expecting short waits vastly 
+increase under extended service hours.  
+ 
+However, this improvement in rider experience comes at the expense of a slightly less 
+efficient service, which becomes more expensive on both per-ride and annual bases. CCT 
+will have to decide whether it values investing an additional ~$200,000 per annum (p.a.) to 
+provide access to services and jobs for socio-economic groups other than seniors and 
+those with mobility difficulties. Ultimately, this may require re-assessing and restating the 
+ultimate aim of such a microtransit service. 
+ 
+ 
+ 
+Normal service hours 
+(6am–6pm) 
+(Medium demand, 4 duties) 
+Extended service hours 
+(6am–12am) 
+(Medium demand, 4 duties) 
+Avg. wait time 
+26 ​mins 
+19 ​mins 
+Max wait time 
+58 ​mins 
+58 ​mins 
+<15 min wait 
+25% 
+59% 
+PPVH 
+1.2 
+0.8 
+Pooling ratio 
+54% 
+31% 
+Cost per trip 
+$43 
+$50 
+Annual cost 
+$830,000 
+$1,100,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+28

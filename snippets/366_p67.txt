@@ -1,0 +1,202 @@
+# source: raw/bleecker_drive/Lee County/RFP250034SML Via Mobility Executed.pdf
+# path: raw/bleecker_drive/Lee County/RFP250034SML Via Mobility Executed.pdf
+# hit page: 67 of 171
+# terms: Via+vehicles
+
+=== page 66 ===
+VER 06-12-24 
+ 
+30 RFP250034SML – LeeTran Paratransit Software Management 
+ 
+29.2. Use of United States – Flag Vessels:  
+29.3. The CONSULTANT/CONTRACTOR/VENDOR agrees to use privately owned United States- Flag 
+commercial vessels to ship at least 50 percent of the gross tonnage (computed separately for dry bulk carriers, 
+dry cargo liners, and tankers) involved, whenever shipping any equipment, material, or commodities pursuant 
+to the underlying Contract to the extent such vessels are available at fair and reasonable rates for United 
+States- Flag commercial vessels.  
+29.4. Furnish within twenty (20) business days following the date of loading for shipments originating within the 
+United States or within thirty (30) business days following the date of leading for shipments originating 
+outside the United States, a legible copy of a rated, "on-board" commercial ocean bill-of -lading in English 
+for each shipment of cargo described in the preceding 6 paragraph to the Division of National Cargo, Office 
+of Market Development, Maritime Administration, Washington, DC 20590 and to LCBOCC (through the 
+Contractor in the case of a subcontractor's bill-of-lading.)  
+29.5. Include these requirements in all subcontracts issued pursuant to the Contract when the subcontract may 
+involve the transport of equipment, material, or commodities by ocean vessel. 
+ 
+30. SEISMIC SAFETY REQUIREMENTS FOR THE CONSTRUCTION OF NEW BUILDINGS OR 
+ADDITION TO EXISTING BUILDINGS: 
+30.1. CONSULTANT/CONTRACTOR/VENDOR agrees that any new building or addition to an existing building 
+will be designed and constructed in accordance with the standards for Seismic Safety required in Department 
+of Transportation Seismic Safety Regulations 49 C.F.R. Part 41 and will certify compliance to the extent 
+required by the regulation. The CONSULTANT/CONTRACTOR/VENDOR also agrees to ensure that all 
+Work performed under the Contract including Work performed by a subcontractor is in compliance with the 
+standards required by the Seismic Safety Regulations and the certification of compliance issued on the 
+project. 
+ 
+31. ENERGY CONSERVATION: 
+31.1. CONSULTANT/CONTRACTOR/VENDOR agrees to comply with mandatory standards and policies 
+relating to energy efficiency which are contained in the Florida energy conservation plan issued in compliance 
+with the Energy Policy and Conservation Act, as amended, 42 USC § 6321 et seq., and perform an energy 
+assessment for any building constructed, reconstructed, or modified with Federal funds required under 
+Federal regulations, “Requirements for Energy Assessment,” 49 CFR part 622, subpart C.  
+ 
+ 
+End of Supplemental Conditions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EXHIBIT E - PROJECT FUNDING PACKAGE
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7
+=== page 67 ===
+VER 06-12-24 
+ 
+31 RFP250034SML – LeeTran Paratransit Software Management 
+ 
+DETAILED SPECIFICATIONS 
+ 
+1. PROJECT DESCRIPTION 
+ 
+1.1. Lee County Transit (LeeTran) created an environment where travelers have safe mobility options, 
+ensuring reliable, informed, and efficient travel in a multi-modal network to include ADA paratransit 
+service. This reservation based, Door-to-Door service operates within Lee County, Florida, and 
+currently schedules upwards of 700 daily passenger trips during peak operational periods (seasonal 
+months). This service fosters a traveler-centric transportation system, providing improved mobility 
+options to users efficiently and safely. To enhance this service, LeeTran seeks a paratransit, scheduling 
+software that is 100% cloud-based and includes a web-portal. 
+  
+2. BACKGROUND 
+ 
+2.1. LeeTran recognizes the rapid growth of the shared mobility industry, autonomous vehicles, Mobility-
+on-Demand technologies, and other service innovations. It is also understood that solutions to serving 
+customer mobility needs do not necessarily fit into narrow product categories. Therefore, LeeTran is 
+seeking proposals in the paratransit/mobility services industry. 
+ 
+2.2. The Scope of Work outlines potential service providers, technology sectors, and additional Mobility-
+as-a-Service product categories that LeeTran will consider for selection under this solicitation. This 
+approach aims to enhance LeeTran's existing paratransit services and integrate new mobility solutions 
+to improve overall service efficiency, reliability, and customer satisfaction. 
+ 
+3. OBJECTIVES 
+• Access mobility products and/or services to serve as supplements or alternatives to traditional fixed-
+route service. 
+• Allow LeeTran to address demands of various ridership markets, including wheelchair accessible 
+mobility solutions, and services for senior and disabled populations. 
+• Provide economical transportation solutions to communities currently served or with potential to be 
+served by LeeTran. 
+• Gather ridership data to identify and implement service improvement opportunities. 
+• Integrate innovative mobility technologies to provide customers with the ability to plan, book, and pay 
+for travel across different modes, including online portals, mobile applications, and payment systems. 
+• Offer the ability to book trips via an app at any time of day (24 hours/7 days a week, 365 days a year 
+based on LeeTran’s service rules). 
+• Leverage funding sources to support mobility service delivery. 
+ 
+4. CURRENT USAGE/DATA 
+1. Vehicles available for use – 60 
+2. Vehicles in use - 42 and charges shall be based on the maximum vehicles in service for any given 
+month. 
+3. Current administrative Users – Six (6) Dispatch/Supervisors, two (2) schedulers,10 (10) Customer 
+Service Associates and (3) Managers/Administrators 
+4. Daily Trips – Approximately 550-700 per day 
+ 
+ 
+End of Detailed Specifications 
+EXHIBIT E - PROJECT FUNDING PACKAGE
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7
+=== page 68 ===
+VER 06-12-24 
+ 
+32 RFP250034SML – LeeTran Paratransit Software Management 
+ 
+SCOPE OF WORK 
+ 
+1. Demand-Response Rideshare Service 
+ 
+1.1 
+Lee County Board of County Commissioners on behalf of Lee County Transit (LeeTran) is 
+requesting proposals to contract with a skilled and qualified Vendor to provide for a paratransit 
+service software management system for a scheduled, dynamic mobility service that can 
+primarily book and schedule trips. The software must utilize an online platform application 
+accessible via mobile devices that can communicate in English, Spanish, and Haitian-Creole. 
+ 
+1.2 
+The Vendor shall provide a software management system that meets or exceeds the 
+requirements of the specifications as described herein as well as within the attached Attachment 
+2 – Compliance Matrix. 
+ 
+1.3 
+This system shall be dynamic in terms of its ability to adapt and adjust in real-time and based on 
+current conditions. 
+ 
+1.4 
+LeeTran requires but is not limited to ‘Self-dispatch’ solutions that provide customers a direct 
+portal to personally book transportation for door-to-door, transportation requests. 
+ 
+1.5 
+This product shall include continuous dynamic optimizing of trips to the best vehicle/route 
+throughout the day to ensure on-time performance of all requested rides. 
+ 
+2. Services  
+ 
+2.1 
+This System must include a payment process formatted for reporting delivery method (API 
+ 
+Integration) for passengers to utilize the app for payment or paying cash on the vehicle. 
+ 
+2.2 
+LeeTran must also have the ability to book a trip on behalf of Agency Users who do not have 
+ 
+the App. 
+ 
+2.3 
+System shall have a shared rider matching algorithm to improve subsidy per ride and data 
+ 
+reporting. 
+ 
+2.4 
+System shall have a Fleet Tool - Real-time tracking of Agency’s fleet (CAD/AVL) of transit 
+ 
+vehicles and ability to communicate in real-time with fleet driver/operators. 
+ 
+2.5 
+System shall have access to Agency specific customization and configurability options, 
+ 
+including 
+driver 
+management, 
+driver 
+performance, 
+vehicle 
+management, 
+live 
+ 
+map/dispatching, and driver communication tools. 
+ 
+2.6 
+System shall be accessible to persons with disabilities through a website portal and mobile 
+ 
+application. 
+ 
+3. Access to Technology Platforms for Transit Agencies 
+ 
+3.1 
+System shall have the ability for LeeTran’s User Administration to add or remove authorized 
+ 
+users to LeeTran Agency Account.  
+ 
+EXHIBIT E - PROJECT FUNDING PACKAGE
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7

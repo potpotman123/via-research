@@ -1,0 +1,63 @@
+# source: raw/bleecker_drive/Lee County/417214_Announcement_SS230412JBD.pdf
+# path: raw/bleecker_drive/Lee County/417214_Announcement_SS230412JBD.pdf
+# hit page: 1 of 1
+# terms: Remix Technologies
+
+=== page 1 ===
+Intended Sole Source Purchase: Remix Cloud-Based Platform Software-As-A-Service (SaaS) 
+ 
+ 
+Date Posted: 
+06/15/2023 to 07/06/2023  
+ 
+Project #: 
+SS230412JBD 
+ 
+Contact:   
+Jennifer Brewer-Dano 
+ 
+ 
+Lee County Procurement Management 
+ 
+ 
+2115 Second St., 1st Floor 
+ 
+ 
+Fort Myers, FL 33901 
+ 
+ 
+239-533-8849 
+ 
+The description of services intended for purchase from a sole source is posted in accordance with section 
+287.057(3)(c), Florida Statutes and will be posted for a minimum of 15 business days. 
+ 
+Commodity or Service Required:   
+Transit Planning and Scheduling Platform 
+ 
+Description:   
+Lee County Transit is seeking to execute a sole source for Remix, a cloud-based, software-as-a-service (SaaS) 
+transit planning and scheduling software platform that provides fast and accurate sketch planning using existing 
+stop infrastructure; instant demographic impact analysis; instant cost estimates based on frequency, timetables, and 
+blocking; unlimited custom data layers and GTFS uploads; public engagement and share features; travel-time 
+isochrone visualizations; Title VI Engine; export timetables into excel; and consistent and regular product 
+improvements/feature launches. Additionally, users are able to export changes and proposals into Microsoft Excel, 
+Google Earth, shapefiles, GTFS, and PNG files. Users can share changes to other users, the public and County 
+administration for review and comments. 
+  
+Intended Sole Source: 
+Remix Technologies LLC 
+ 
+Justification for Sole Source Acquisition: 
+Remix is a tool for streamlining Transit’s short-term and long-range service planning processes. At present, Transit 
+planners complete a range of functions using tools across several platforms, including ArcGIS, Google Maps, 
+Microsoft Excel and Sched21. Using Remix, Transit planners can quickly map proposed routes and see an 
+estimated cost and potential demographic impact in real time. The acquisition of Remix will support ongoing 
+service equity analyses, route and stop modifications, and a possible system redesign. 
+ 
+Recommended Procurement Approach:   
+For the reason(s) stated above, Lee County Procurement Management intends to utilize the Sole Source 
+Procurement method to purchase from Remix Technologies LLC for supplying the above. 
+ 
+Respond to: 
+If your firm feels they have the ability to supply the above, please contact Jennifer Brewer-Dano, Lee County 
+Procurement Management at jbrewer-dano@leegov.com for future purchase review.

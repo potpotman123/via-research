@@ -1,0 +1,122 @@
+# source: https://douglascounty.legistar1.com/douglascounty/attachments/7d1639c5-b1f9-4a3c-9b9b-c2d61dd2163b.pdf
+# path: raw/cache/dd6e35929957181160b4b428bc15bf85e4e457ec.pdf
+# hit page: 12 of 25
+# terms: Via+drivers, Via+fleet, Via+licensing, Via+vehicles
+
+=== page 11 ===
+11 
+ 
+The Contractor shall prepare access to a platform service (the “Platform”) through which Riders 
+will be able to reserve and pay for rides on a shared and on-demand basis and dedicated vehicles 
+will be offered by the Vehicle Provider to Driver Partners on a rental basis.  
+ 
+Geographic Coverage Zone 
+● Southern Zone: Approximately 52 square miles covering the incorporated borders for the 
+Town of Castle Rock, the current Central Zone for Link on Demand in the City of Lone 
+Tree, and the Castle Pines Park-n-Ride located off Castle Pines Parkway.  
+● Service Days/Hours: Monday - Thursday (7AM - 7PM), Friday (7AM - 10PM), and 
+Saturday (10AM – 10PM). 
+  
+● App: The Contractor shall provide a fully tested smartphone app interface to allow passengers to 
+reserve and schedule microtransit trips. The app will be fully integrated with the existing Link on 
+Demand app.  Beta versions are not allowed and the fully tested smartphone app interface must be 
+publicly available to both iPhone and Android users, meeting ADA accessibility requirements. 
+The App shall allow passengers to: 
+o See the microtransit service zone and available vehicles on a map interface. 
+o Rate drivers and service quality. 
+2026 PCS for Regional Rideshare Consulting 
+BCC Business Meeting - 5/26/2026 
+Page 11 of 25
+=== page 12 ===
+12 
+ 
+o See information on the requested vehicle and driver prior to reserving a trip or pick up, 
+including ability to see the estimated time of pick up at requested departure location and 
+estimated time of arrival at requested destination. 
+o Indicate if they need an ADA-accessible vehicle. 
+o Indicate group size and specify if any children are in the group. 
+o View real time audio/visual directions and notifications for drivers. 
+o Create a passenger profile that identifies special needs of the rider in terms of vehicle type 
+or accessibility. 
+o Upgrade the technology for current and future app users, as becomes available. 
+o Brand with the County service name and logo. 
+o View the address and name of business when making a reservation. 
+o Have easy passenger directions to a virtual stop or pickup point (for example, nearby cross 
+street). 
+o Reserve trips in advance.  
+● Phone: The Contractor will prepare infrastructure and staffing to provide access to microtransit 
+passengers without a smartphone through a dispatch phone number. 
+ 
+● Website: The Contractor shall provide a website to showcase the service, communicate any 
+service changes, and provide a reservation option for those who may not be able to use the App or 
+call-in options to request microtransit trips.  
+ 
+● Rider Payment: The Contractor shall ensure the app is prepared to accept Rider payment through 
+the app via credit cards and pre-paid debit cards.  
+ 
+Vehicle Fleet: The Contractor shall prepare the necessary vehicles to operate the microtransit 
+service and establish the protocols and operational framework for vehicle fueling, storage, 
+licensing, preventative maintenance, cleaning, and unscheduled maintenance of said vehicles 
+upon service launch. Vehicles must be no more than four years old and must be set up for 
+passenger service. Conversions from freight vehicles will not be allowed. For safety, vehicles shall 
+be outfitted with GPS, AVL, and CCTV for vehicle routing, vehicle tracking, and vehicle 
+monitoring/recording onboard activities. The Contractor shall propose additional safety measures 
+that they have found successful in other similar programs.  
+ 
+The cost of the fleet should reflect the in-service and spare vehicles necessary to meet service 
+demands. Initial service offering for the Southern Zone will include a fleet of gasoline powered 
+and hybrid vehicles.  
+ 
+The Contractor’s vehicle fleet shall include 10 branded, licensed, and insured vehicles, including 
+Wheelchair Accessible Vehicles (WAVs), to provide adequate service to the public.  
+ 
+2026 PCS for Regional Rideshare Consulting 
+BCC Business Meeting - 5/26/2026 
+Page 12 of 25
+=== page 13 ===
+13 
+ 
+● ADA: Transit fleet shall include enough ADA accessible vehicles that any passenger using a 
+mobility device such as a wheelchair or walker can have that trip fulfilled in the equivalent 
+timeframe to that of a passenger without a mobility device.   
+ 
+● Third Parties: The Contractor shall accept and work with any third-party service providers that 
+the County may need to contract with to improve the transit service. The Contractor shall 
+investigate integrating transit trip planning with RTD, CDOT Bustang, Google Maps, and any 
+other relevant transit providers.  
+ 
+● Branding: The Contractor shall wrap vehicles as a County-branded service, according to the 
+defined program brand, color scheme, and logo. The Contractor to provide design and costs 
+associated with vinyl graphics application 
+ 
+● Compliance: The Contractor shall comply with all applicable local, state, and federal rules, 
+requirements, certifications, clauses, and circulars. With the cooperation and assistance of the 
+County, the Contractor shall ensure the execution of all necessary registrations and licensing 
+required to perform the Services. 
+ 
+● Storage: The Contractor is responsible for coordinating the logistics of vehicle storage and 
+maintenance during the preparation and holding phases, and establishing the administrative 
+infrastructure required for launch. For the Southern Zone, in return for use of facilities for storage 
+provided by the County, the Contractor will provide a parking credit of $2,000 per month on each 
+monthly invoice submitted during the Vehicle Holding Period (as defined in Section 4.2). If 
+the service launches mid-month, the final month’s storage shall be prorated based on the actual 
+number of days elapsed from the start of that billing cycle until the launch date. 
+ 
+Project Team & Governance 
+During the Project, the Contractor will be responsible for the integration of all relevant elements 
+of the Project on a continuous basis and designate a project manager for this purpose who will lead 
+the Contractor’s Project Team. During the Project, the County will also designate a project 
+manager to be the primary point of contact for the Contractor. The Contractor’s Project Manager 
+will be in regular contact with the County’s Project Manager through informal and scheduled 
+project meetings.  
+The Contractor’s Project Manager may make day-to-day decisions related to the Services. The 
+Contractor’s Project Manager will appoint members to the Project Team to assist in the integration 
+of the various elements of the Project, to include personnel with expertise in service scoping, 
+independent contractor driver outreach and registration to the Platform, fleet maintenance 
+procurement, marketing, and data analytics. The Contractor’s Project Manager will have no power 
+to serve notice or amend the Contract or its exhibits. 
+The Contractor’s Project Team will be responsible for executing the following five primary tasks: 
+Task 1: Program Management and Oversight 
+2026 PCS for Regional Rideshare Consulting 
+BCC Business Meeting - 5/26/2026 
+Page 13 of 25

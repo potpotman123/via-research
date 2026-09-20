@@ -1,0 +1,64 @@
+# source: raw/bleecker_drive/0.0 OMNIA Cooperative Agreement/R250802_Via_Transportation_MAD_Redacted_081825_01.pdf
+# path: raw/bleecker_drive/0.0 OMNIA Cooperative Agreement/R250802_Via_Transportation_MAD_Redacted_081825_01.pdf
+# hit page: 56 of 191
+# terms: Via+drivers
+
+=== page 55 ===
+Rider App 
+Via’s platform includes a white-labeled Rider App, a smartphone application compliant 
+with WCAG 2.1 standards and available for free download in both the iOS and Android 
+stores. For individuals without smartphones or internet access, or for those who simply 
+prefer additional assistance over the phone, Via’s system allows riders to book rides by 
+calling a customer support representative, or through a web version of our mobile 
+application if desired by the customer. 
+Our commingled app makes it seamless for riders to transition between 
+microtransit and on-demand services, even when different zones are supported. 
+Via’s simple and customer-friendly Rider App has been downloaded by millions of 
+passengers and consistently receives glowing reviews. If a partner has configured their 
+service to allow for real-time or pre-scheduled booking through the app, riders can easily 
+toggle between both options (as shown in the graphic above). Riders can also make minor 
+changes to their booked rides, pay for rides through a variety of payment options, 
+indicate the need for a wheelchair, and plan multimodal journeys, including transfers to 
+fixed route buses. 
+    RFP No. 25-08  |  18
+=== page 56 ===
+Driver App 
+Our driver application has been developed to make drivers’ jobs safer and easier and can 
+run on a variety of cellular enabled tablets and smartphones. The app provides a single 
+interface where a driver can access the information they need before, during, and after 
+their shifts. This includes turn-by-turn navigation, a dynamically updated rider manifest 
+that integrates seamlessly with the Via Operations Center, automated notifications, and 
+“one click” task acknowledgements. Real-time location data from the rider and driver 
+apps feeds back into our algorithms, allowing for dynamic optimization of routing and trip 
+assignments. 
+Integration Capabilities 
+Via's platform is designed for a high level of integration; our modular and open 
+architecture is purpose-built for ease of integration with other platforms using our proven 
+APIs. This system architecture reflects our company mission, which is to help our 
+partners manage all transportation modes within a single holistic platform. This vision also 
+animates our product and engineering team's focus on developing world class software 
+products that connect effectively with other technology systems. 
+    RFP No. 25-08  |  19
+=== page 57 ===
+Because Via has the largest 
+dedicated development team of 
+any transit technology provider, 
+we have the capacity to deliver 
+high-quality integrations in a 
+short period of time and can 
+address even the most complex 
+integration requirements and 
+architectures. In addition, Via can 
+incorporate third party 
+functionality (e.g., new payment 
+methods, additional transport 
+offerings) within the Via system 
+by integrating with third party 
+APIs, for which we would utilize 
+either available documentation or 
+direct interaction with the third 
+party for solution co-definition. In 
+building integrations, we can accommodate any standard industry practice (e.g. REST 
+API, Webhooks, etc) and data formats (e.g. JSON, XML, CSV, etc). 
+Proprietary, Confidential, and Trade Secret Information​
+    RFP No. 25-08  |  20

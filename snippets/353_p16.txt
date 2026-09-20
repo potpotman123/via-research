@@ -1,0 +1,182 @@
+# source: raw/bleecker_drive/2.0 TIPS Cooperative Agreement/240101_CONTRACT_Technology_Via_Transportation.pdf
+# path: raw/bleecker_drive/2.0 TIPS Cooperative Agreement/240101_CONTRACT_Technology_Via_Transportation.pdf
+# hit page: 16 of 42
+# terms: Via Transportation
+
+=== page 15 ===
+2
+Historically Underutilized Business (HUB)
+Some participating public entities are required to seek Historically Underutilized Business (HUB) vendors as defined
+by the Texas Comptroller of Public Accounts Statewide HUB Program.  Does Vendor certify that their entity is a HUB
+vendor?
+ 
+If you respond "Yes," you must upload current certification proof in the appropriate "Response Attachments"
+location.
+ 
+No
+3
+National Coverage
+Can the Vendor provide its proposed goods and services to all 50 US States?
+Yes - All 50 States
+4
+States Served
+If Vendor answered "No" to the question entitled "National Coverage," please list all states where vendor can
+provide the goods and services proposed directly below.  Your response may dictate which potential TIPS Member
+customers consider purchasing your offerings.
+ 
+N/A
+5
+Description of Vendor Entity and Vendor's Goods & Services
+If awarded, this description of Vendor and Vendor's goods and services will appear on the TIPS website for
+customer/public viewing.
+Via offers an end-to-end transportation technology platform and a turnkey operating model that allows partners of
+all sizes and levels of complexity to manage every aspect of public mobility. We offer innovative software and
+services that include student transportation, microtransit, ADA paratransit, senior transportation, and integrated
+trip planning and payment systems. To date, we have deployed transit solutions in partnership with over 700
+communities in over 40 countries around the world, powering over 140 million rides. As the direct operator of over
+75 transportation services around the globe, we deeply understand the day-to-day realities that public entities and
+nonprofits, including school districts, cities, counties, and regional agencies, face in delivering public transit. This
+first-hand experience directly informs our software products and operational models, allowing us to ensure that our
+offering is tailored to meet the specific needs of our partners and their communities. ​ ​ Since Via’s founding in
+2012, we have delivered exceptional service to our partners and have collaborated with them to improve
+accessibility for their communities. Along the way, we have heard countless stories about the positive impact of our
+services from Riders (“I am able to get to where I need, at a cost I can actually afford”), Drivers (“It feels good to be
+able to provide a service and help people accomplish the things they need to during the day”), and Partners (“This
+partnership with Via is the next generation of what public transportation can be”). Building upon our experience
+delivering large-scale transportation services around the world, we are proud to have built a strong reputation for
+providing transportation that is safe, reliable, and efficient, especially for the passengers that need it most.
+6
+Primary Contact Name
+Please identify the individual who will be primarily responsible for all TIPS matters and inquiries for the duration of
+the contract.
+Greg Centini
+7
+Primary Contact Title
+Primary Contact Title
+Director of Student Transit
+Vendor: Via Transportation Inc
+240101
+Page 5 of 31 pages
+=== page 16 ===
+8
+Primary Contact Email
+Please enter a valid email address that will definitely reach the Primary Contact.
+greg.centini@ridewithvia.com
+9
+Primary Contact Phone
+Numbers only, no symbols or spaces (Ex. 8668398477). The system will auto-populate your entry with commas
+once submitted which is appropriate and expected (Ex. 8,668,398,477).
+ 
+Please provide the accurate and current phone number where the individual who will be primarily responsible for all
+TIPS matters and inquiries for the duration of the contract can be reached directly.
+4349624835
+1
+0
+Primary Contact Fax
+Numbers only, no symbols or spaces (Ex. 8668398477). The system will auto-populate your entry with commas
+once submitted which is appropriate and expected (Ex. 8,668,398,477).
+No response
+1
+1
+Primary Contact Mobile
+Numbers only, no symbols or spaces (Ex. 8668398477). The system will auto-populate your entry with commas
+once submitted which is appropriate and expected (Ex. 8,668,398,477).
+No response
+1
+2
+Secondary Contact Name
+Please identify the individual who will be secondarily responsible for all TIPS matters and inquiries for the duration
+of the contract.
+Mike Vaccarino
+1
+3
+Secondary Contact Title
+Secondary Contact Title
+Vice President of Partnerships
+1
+4
+Secondary Contact Email
+Please enter a valid email address that will definitely reach the Secondary Contact.
+michael.vaccarino@ridewithvia.com
+1
+5
+Secondary Contact Phone
+Numbers only, no symbols or spaces (Ex. 8668398477). The system will auto-populate your entry with commas
+once submitted which is appropriate and expected (Ex. 8,668,398,477).
+ 
+Please provide the accurate and current phone number where the individual who will be secondarily responsible
+for all TIPS matters and inquiries for the duration of the contract can be reached directly.
+9149438478
+1
+6
+Secondary Contact Fax
+Numbers only, no symbols or spaces (Ex. 8668398477). The system will auto-populate your entry with commas
+once submitted which is appropriate and expected (Ex. 8,668,398,477).
+No response
+Vendor: Via Transportation Inc
+240101
+Page 6 of 31 pages
+=== page 17 ===
+1
+7
+Secondary Contact Mobile
+Numbers only, no symbols or spaces (Ex. 8668398477). The system will auto-populate your entry with commas
+once submitted which is appropriate and expected (Ex. 8,668,398,477).
+No response
+1
+8
+Administration Fee Contact Name
+Please identify the individual who will be responsible for all payment, accounting, and other matters related to
+Vendor's TIPS Administration Fee due to TIPS for the duration of the contract.
+Joe Santarpia
+1
+9
+Administration Fee Contact Email
+Please enter a valid email address that will definitely reach the Administration Fee Contact.
+ap@ridewithvia.com
+2
+0
+Administration Fee Contact Phone
+Numbers only, no symbols or spaces (Ex. 8668398477). The system will auto-populate your entry with commas
+once submitted which is appropriate and expected (Ex. 8,668,398,477).
+7327717598
+2
+1
+Purchase Order and Sales Contact Name
+Please identify the individual who will be responsible for receiving and processing purchase orders and sales under
+the TIPS Contract.
+Greg Centini
+2
+2
+Purchase Order and Sales Contact Email
+Please enter a valid email address that will definitely reach the Purchase Order and Sales Contact.
+greg.centini@ridewithvia.com
+2
+3
+Purchase Order and Sales Contact Phone
+Numbers only, no symbols or spaces (Ex. 8668398477). The system will auto-populate your entry with commas
+once submitted which is appropriate and expected (Ex. 8,668,398,477).
+4349624835
+2
+4
+Company Website
+Company Website (Format - www.company.com)
+www.ridewithvia.com
+2
+5
+Entity D/B/A's and Assumed Names
+You must confirm that you are responding to this solicitation under your legal entity name.  Go now to your Supplier
+Profile in this eBid System and confirm that your profile reflects your "Legal Name" as it is listed on your W9.
+ 
+In this question, please identify all of your entity's assumed names and D/B/A's.  Please note that you will be
+identified publicly by the Legal Name under which you respond to this solicitation unless you organize otherwise with
+TIPS after award.
+Legal Name: "River North Transit, LLC" (A wholly owned subsidiary of Via Transportation, Inc.). D/B/A’s: “Via”
+2
+6
+Primary Address
+Primary Address
+114 5th Avenue, 17th Floor
+Vendor: Via Transportation Inc
+240101
+Page 7 of 31 pages

@@ -1,0 +1,116 @@
+# source: raw/bleecker_drive/Bay Transit/REDACTED-Via-Mobility-LLC-Response_RFP-2024-01-Transit-Scheduling-Software.pdf
+# path: raw/bleecker_drive/Bay Transit/REDACTED-Via-Mobility-LLC-Response_RFP-2024-01-Transit-Scheduling-Software.pdf
+# hit page: 34 of 60
+# terms: Via+drivers, Via+vehicles
+
+=== page 33 ===
+4.5.1 System Implementation Plan
+The hallmarks of our approach to system implementation processes include:
+●
+Assigning a single point of contact (Bay Transit's Partner Success Manager)
+responsible for managing in-house resources according to the project's needs.
+●
+Assigning a dedicated launch manager with relevant experience to ensure
+implementation success.
+●
+A proven launch process with clearly communicated milestones and meeting
+cadence, including the development of a holistic service design and robust training
+for Bay Transit staff (see section 5. Timeline for additional details).
+Single Point of Contact for Bay Transit
+will continue to be Bay Transit’s dedicated
+contact throughout the life of the project.
+will provide
+Bay Transit with all the support it will need not just to ensure
+successful day-to-day operations, but also to grow ridership,
+improve the overall efficiency of the service, and secure
+additional funding to support service expansions.
+will
+provide core support services for Bay Transit and coordinate
+the activities of additional Via teams who will contribute to the growth and success of the
+service.
+can be reached by email or phone call during business hours. Throughout
+our partnership,
+will work collaboratively with Bay Transit to continue developing its
+services in response to performance data and feedback.
+Dedicated Launch Manager
+will serve as the dedicated launch manager for Bay
+Transit and will leverage her significant experience to ensure
+implementation success. Our efficient, thorough, and proven
+launch process allowed us to launch over 120 services in 2023,
+100% of which were delivered on time.
+will ensure timely
+communication with Bay Transit and effective project
+management of the launch process, including on-the-ground
+training of staff.
+Proven Launch Process
+Via's implementation process includes several stages that are designed to ensure both a
+successful launch as well as service design that supports Bay Transit’s long term goals:
+RFP #2024-01 Transit Scheduling Software | 31
+=== page 34 ===
+Service Planning and Design: Each community has unique goals and
+passenger needs, so our launch process is anchored around a
+collaborative input gathering stage that includes simulation studies, a
+review of Bay Transit’s technical requirements, and alignment on
+performance and reporting goals. The result is a service design plan that is completely
+customized to suit Bay Transit’s needs, and which allows Via's implementation specialists
+to configure the Via system according to Bay Transit’s goals.
+Testing and Training: In advance of launch, Via's launch team will install
+Via's Driver App, test with drivers in vehicles, and conduct training
+workshops for Bay Transit staff to ensure they are comfortable using Via's
+software from day one. Via-provided marketing materials can also support
+the Bay Transit’s pre-launch community outreach and marketing efforts to
+ensure passengers are aware of the service transition.
+Launch Support: We understand how challenging it can be to transition
+software providers, and we also recognize the importance of face-to-face
+conversations to facilitate trust in the new system. Via is pleased to commit
+to on-the-ground support for Bay Transit’s staff during the immediate
+launch period. This in-person support will be supplemented by our robust partner support
+team, including a dedicated Partner Support Manager and 24/7 technical support.
+4.5.2 Data Conversion from Routematch to Via
+As part of our launch process, we will migrate all data from Bay Transit’s existing systems
+into Via’s platform in order to enable access through the VOC for report and data
+generation. Via’s in-house Data Science team will work directly with staff to conduct a
+proven, four-step data migration process:
+1.
+Knowledge sharing & data scoping
+2. Data evaluation
+3. Initial data migration, quality assurance (QA), and validation
+4. Full migration, QA, validation, and field testing
+This process will ensure a successful migration of data to the Via Platform, and enable us
+to convert Bay Transit’s service with minimal disruptions.
+RFP #2024-01 Transit Scheduling Software | 32
+=== page 35 ===
+4.5.3 Training Plan
+Via has trained tens of thousands of system users and drivers across our global
+deployments, and has developed a playbook for helping partners navigate the adoption of
+Via’s software. Leveraging this experience, we will develop a customized hands-on
+training program for Bay Transit to ensure that all relevant personnel — including
+operators, dispatchers, schedulers, and administrative staff — are equipped to use the
+Via platform and operate the service successfully. We will supplement the live training
+workshops with a suite of written training documents tailored to Bay Transit’s needs.
+Sessions will consist of a combination of “classroom” and “hands-on” training. Via will
+provide all software necessary and electronic copies of product manuals. There will also
+be an online option for those who prefer. We can train as many employees as needed, and
+we can adjust our training program outlined below to align with any unique needs.
+Overall Systems Training:
+Workshops for using the Via Operations Center, Driver App and Rider App.
+Accessible Service Scheduling and Dispatch Training:
+Detailed workshops for schedulers and dispatchers who are taking
+reservations, preparing pre-scheduled manifests, and monitoring and
+managing day of service operations.
+Advanced Administrative Tools:
+Training for advanced administrative functions, such as inputting road
+closures and adjusting operational settings / configurations.
+Data and Reporting Training:
+Workshops for extracting, understanding, and leveraging data through our
+various dashboards, reports, and best practices for growing the service.
+Driver Training:
+Workshop to train drivers. It can be broken up into multiple sessions to
+accommodate driver schedules if necessary.
+Rider-Centric Tools Training:
+Workshops focused on usage of rider centric tools so that staff can help
+drive adoption and support rider community questions and needs.
+In addition,
+, Bay Transit’s Partner Success Manager, will provide additional
+follow-up resources and refresher training at any time upon Bay Transit’s request.
+RFP #2024-01 Transit Scheduling Software | 33

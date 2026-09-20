@@ -1,0 +1,122 @@
+# source: raw/bleecker_drive/Bay Transit/REDACTED-Via-Mobility-LLC-Response_RFP-2024-01-Transit-Scheduling-Software.pdf
+# path: raw/bleecker_drive/Bay Transit/REDACTED-Via-Mobility-LLC-Response_RFP-2024-01-Transit-Scheduling-Software.pdf
+# hit page: 3 of 60
+# terms: Via Mobility, Via Transportation
+
+=== page 2 ===
+‭Table of Contents‬
+‭1. Cover Letter
+‭1‬
+‭2. Relevant Experience
+‭9‬
+‭2.1 Via and Bay Transit‬
+‭9‬
+‭2.2 Experience Replacing Routematch and Legacy Systems‬
+‭10‬
+‭3. References
+‭11‬
+‭4. Scope of Work
+‭12‬
+‭4.1 Service Types‬
+‭13‬
+‭4.1.1 Demand Response and On-Demand (Microtransit) Service‬
+‭13‬
+‭4.1.2 Deviated Fixed-Route Service and Seasonal Trolley Service‬
+‭13‬
+‭4.2 Software Specifications‬
+‭13‬
+‭4.2.1 Customer Interface‬
+‭13‬
+‭4.2.2 Dispatcher Interface‬
+‭18‬
+‭4.2.3 Driver Interface‬
+‭22‬
+‭4.2.4 Administrative Interface‬
+‭24‬
+‭4.2.5 Other Specifications‬
+‭27‬
+‭4.3 Hardware Compatibility‬
+‭27‬
+‭4.4 Data Requirements‬
+‭27‬
+‭4.5 Transition and Implementation‬
+‭30‬
+‭4.5.1 System Implementation Plan‬
+‭31‬
+‭4.5.2 Data Conversion from Routematch to Via‬
+‭32‬
+‭4.5.3 Training Plan‬
+‭33‬
+‭4.5.4 Marketing Plan‬
+‭34‬
+‭4.6 Technical Support‬
+‭35‬
+‭4.6.1 Written Materials and Guides‬
+‭35‬
+‭4.6.2 24/7 Technical Support‬
+‭35‬
+‭4.6.3 Partner Success Support‬
+‭35‬
+‭5. Timeline
+‭36‬
+‭6. Price Proposal
+‭38‬
+‭7. License Agreement
+‭40‬
+‭Appendix: Forms
+‭48‬
+=== page 3 ===
+1. Cover Letter
+Via Mobility, LLC
+(a wholly owned subsidiary of Via Transportation, Inc.)
+114 5th Avenue, 17th Floor
+New York, NY 10011
+Subject: RFP #2024-01 for Transit Scheduling Software
+To: Bay Transit, a Division of Bay Aging
+Attn: Michael B. Norvell
+Dear Mr. Norvell,
+Building upon the success of our existing on-demand partnership with Bay Transit, Bay
+Transit Express, we are excited to present Via’s response to Bay Transit’s Request for
+Proposal for Transit Scheduling Software. We look forward to expanding our partnership
+by unifying Bay Transit’s demand response and on-demand services onto a single
+scheduling and dispatch software platform, ensuring significant cost savings and greater
+consistency and flexibility for users across the region.
+Via is the world’s leading provider of demand response transportation software. We
+successfully serve more than 750 cities and agencies across the globe, including Virginia
+providers like
+We are also proud of
+our existing partnership
+with Bay Transit, where we
+have powered Bay Transit
+Express in the Gloucester
+Courthouse area since
+2021. We look forward to
+expanding this coverage
+to include demand
+response services across
+the broader Northern
+Neck and Middle
+Peninsula regions.
+RFP #2024-01 Transit Scheduling Software | 1
+=== page 4 ===
+Our demand response software delivers an exceptional experience for all users — riders,
+drivers, and backend staff — and the necessary flexibility to meet Bay Transit’s evolving
+transit needs. Our dedicated project team and expert advisors will continually work with
+Bay Transit to achieve its goal of streamlining transit operations and enhancing the user
+experience of Bay Transit drivers, dispatchers, and riders. We will leverage our in-house
+service design, marketing, and fundraising teams to ensure a seamless demand response
+service transition and long-term scalability across Bay Transit’s services.
+Our proposal for Bay Transit is centered on:
+A Single End-to-End Platform for On-Demand and Demand Response Services
+Via’s suite of familiar and user-friendly tools will provide Bay Transit with a single unified
+interface to manage all of its on-demand and demand response services, eliminating the
+​need for Bay Transit administrators to learn an entirely new system. Our software suite,
+which currently powers Bay Transit Express in the Gloucester Courthouse area, includes
+three core components: our white-labeled, fully automated Rider App, designed with user
+experience and accessibility at the forefront; our Driver App, which provides real-time
+turn-by-turn navigation and a hands-free display; and the Via Operations Center, a
+highly automated administrative platform that Bay Transit staff will use to manage
+services in real time. Through Via’s software, administrators will be able to seamlessly
+visualize and analyze the services thanks to a suite of fully integrated dashboards,
+reports and data tables.
+RFP #2024-01 Transit Scheduling Software | 2

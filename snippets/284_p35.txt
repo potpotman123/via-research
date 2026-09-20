@@ -1,0 +1,122 @@
+# source: raw/bleecker_drive/Arlington, Texas/FTA-Report-No-0244.pdf
+# path: raw/bleecker_drive/Arlington, Texas/FTA-Report-No-0244.pdf
+# hit page: 35 of 74
+# terms: Via+vehicles
+
+=== page 34 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+25
+SECTION  | 3 
+Figure 3-9 Autonomy Heatmap for Beginning of Demonstration (March – April 2021)
+Figure 3-10 Autonomy Heatmap for Last Month of Demonstration (March 2022)
+=== page 35 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+26
+SECTION  | 3 
+As described above, the project team developed a detailed process for 
+responding to any incidents that might occur during service. The service 
+experienced no safety accidents or collisions of any kind, either in automated 
+or in manual mode, during the demonstration. However, there were five minor 
+incidents where the vehicles did not perform as expected in automated mode, 
+called optics events, which were thoroughly investigated even though they did 
+not result in any damage or injuries. A summary of each optic event is provided 
+in Table 3-2. 
+Table 3-2 Optics Events Details
+Date
+Riders
+Vehicle 
+Speed
+Autonomy 
+Status
+Details
+Sept. 3, 2021
+1
+<5 mph
+Auto
+Curb rub during a right-hand turn
+Oct. 11, 2021
+0
+<5 mph
+Auto
+Curb rub during a right-hand turn
+Nov. 22, 2021
+1
+22 mph
+Auto
+Curb strike while driving 
+Dec. 1, 2021
+1
+<5 mph
+Auto
+Curb rub due to AVO error at 
+passenger stop
+Jan. 31, 2022
+1
+<5 mph
+Auto
+Curb rub after passenger stop
+
+Immediately after each of these events, staff from the May Mobility engineering 
+and technical support teams reviewed vehicle logs and camera footage to 
+determine what occurred and how to address the incident. In most cases, the 
+events were due to the lane placement in the detailed route network map, and 
+the map was adjusted to ensure the vehicles were not permitted too close to 
+the curb in future turns. The one event due to AVO error was an opportunity for 
+retraining all AVOs on proper protocol at and around passenger stop locations. 
+Integration Performance Metrics 
+Strong integration between the Via and May Mobility platforms and services 
+was necessary for the RAPID service to succeed. During the demonstration, 
+the project team monitored and assessed integration performance using the 
+following metrics: 
+•	 Cloud and vehicle connectivity 
+•	 Vehicle task execution
+•	 Vehicle status updates
+•	 Performance of the Via system for booking and paying for AV rides, as well 
+as making AV rides free to eligible UTA students.
+Within each of these metrics, minor issues were noted and addressed during the 
+demonstration.
+=== page 36 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+27
+SECTION  | 3 
+Cloud and vehicle connectivity: 
+•	 Isolated incidents of connectivity between the May Mobility and Via 
+systems were experienced at times during the demonstration. Generally, 
+these issues were resolved by paying careful attention to the order of 
+operations when logging into the May Mobility vehicle and Via driver app. 
+Occasionally restarting an operator’s shift or the driver’s app was required. 
+•	 The WAV in the fleet did not always appear in the correct location when 
+parked in the office/garage because of the strength of signal connectivity 
+inside the facility. To solve this issue, the team drove the WAV more 
+frequently to bring it outside, allowing for better localization and signal 
+and thus readiness for service. 
+•	 An AVO leaving a location prior to being dispatched by the Via system 
+sometimes led to issues with connectivity and displaying the true location 
+of the vehicle for dispatch purposes. This was resolved by training the AVOs 
+to wait for dispatching before leaving their location.
+Vehicle Task Execution:
+•	 At the beginning of the demonstration, it was determined that the AV ETAs 
+were sometimes excessive, resulting in the AV arriving at pick up locations 
+several minutes before the Via driver app or rider app indicated the 
+vehicle’s arrival time. The Via and May Mobility teams investigated, and Via 
+adjusted the ETA algorithm to better sync with actual AV performance after 
+the launch of the service. 
+•	 Once shared rides began in July 2021, the project team realized there were 
+times when the AV routing was less than ideal or somewhat inefficient, likely 
+caused by parameters of the AV route network map — the subset of roads 
+safe for the Avs to travel on autonomously. Where practical, AVOs would at 
+times switch to manual mode to make pick up and drop off more convenient 
+for passengers. To advance a longer-term resolution, the Via and May 
+Mobility teams investigated these instances and made recommendations to 
+improve future pre-launch planning and service design processes. 
+•	 Construction in the service area also posed challenges for the vehicle 
+task execution, as new construction projects obstructing or partially 
+obstructing the route network required AVOs to switch to manual mode to 
+navigate around the construction obstructions. The May Mobility and Via 
+teams were able to update maps to accommodate construction projects, 
+allowing the vehicles to remain in automated mode more often. 
+•	 When the service was launched, the vehicles were not programmed to 
+return to the office/garage location at the end of a shift or end of the service, 
+which required AVOs to drive in manual mode, which reduced overall 
+autonomy performance. Via was able to add automated dispatching to the 
+office/garage base for the end of shifts and end of service in June 2021.

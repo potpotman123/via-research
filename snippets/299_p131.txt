@@ -1,0 +1,105 @@
+# source: raw/bleecker_drive/0.0 OMNIA Cooperative Agreement/25-08_Via_Transportation_Response_Combined_2025_05_01_Redacted__1___1_.pdf
+# path: raw/bleecker_drive/0.0 OMNIA Cooperative Agreement/25-08_Via_Transportation_Response_Combined_2025_05_01_Redacted__1___1_.pdf
+# hit page: 131 of 191
+# terms: Via+not to exceed, Via+not-to-exceed
+
+=== page 130 ===
+What sets us apart in the industry is our ability to seamlessly integrate a wide range of 
+services—such as microtransit, paratransit, NEMT, and fixed-route transportation—into a 
+cohesive ecosystem. This integration extends to mobility-as-a-service (MaaS), street 
+design tools, transit planning software, and scheduling solutions, creating a holistic 
+approach to transportation that maximizes efficiency and coordination. 
+By utilizing our integrated platform and related services, OMNIA participating entities 
+benefit from improved operational efficiency, reduced costs, and enhanced user 
+experiences for both riders and drivers. Our exceptional track record in recruiting and 
+retaining qualified drivers, combined with flexible vehicle sourcing options, enables rapid 
+deployment while ensuring high quality and safety standards. Ultimately, our unique 
+combination of technologies and services empowers transit agencies to provide more 
+effective, accessible, and responsive transportation solutions. 
+3.2 Distribution, Logistics 
+D. Identify all other companies that will be involved in processing, handling or shipping
+the products/service to the end user.
+Via does not work with third-party processing, handling, or shipping companies to
+provide our transportation- and software-as-a-service solutions.
+3.3 Marketing and Sales 
+F. Given the public nature of the solicitation and contract, OMNIA Partners makes
+solicitation and contract documentation, including pricing documents, available on its
+website so Participating Public Agencies may easily conduct their due diligence.
+Describe any portions of the response that should not be available on the website and
+why those portions should not be available.
+Please see “Requested Exemptions from Public Information Act” attachment uploaded in
+the “Other Attachments” section in Ion Wave.
+Q. Describe Supplier’s information systems capabilities and limitations regarding order
+management through receipt of payment, including description of multiple platforms
+that may be used for any of these functions.
+Via’s service-based solutions are tailored to the individual customer, and we therefore do
+not use a platform(s) for the sales process from order management through receipt of
+payment. Once we have executed a contract with a customer, they will be billed on a
+monthly basis with Net 30 payment terms based on actual usage (eg., active vehicles or
+    RFP No. 25-08  |  45
+=== page 131 ===
+vehicle hours). Payment via Wire or ACH is preferred, but payment by check is also 
+permitted. 
+S. Even though it is anticipated many Public Agencies will be able to utilize the Master
+Agreement without further formal solicitation, there may be circumstances where
+Public Agencies will issue their own solicitations. The following options are available
+when responding to a solicitation for Products covered under the Master Agreement.
+i. Respond with Master Agreement pricing (Contract Sales reported to OMNIA
+Partners).
+ii. If competitive conditions require pricing lower than the standard Master
+Agreement not-to-exceed pricing, Supplier may respond with lower pricing
+through the Master Agreement. If Supplier is awarded the contract, the sales are
+reported as Contract Sales to OMNIA Partners under the Master Agreement.
+iii. Respond with pricing higher than Master Agreement only in the unlikely event
+that the Public Agency refuses to utilize Master Agreement (Contract Sales are
+not reported to OMNIA Partners).
+iv. If alternative or multiple proposals are permitted, respond with pricing higher
+than Master Agreement, and include Master Agreement as the alternate or
+additional proposal.
+Detail Supplier’s strategies under these options when responding to a solicitation. 
+Via will comply with these options as appropriate for the particular solicitation. 
+3. How will the vendor ensure smooth contract
+implementation?
+Via's implementation process across our product suite includes several stages that are 
+designed to ensure both a successful launch and overall alignment with our customers’ 
+long-term goals: 
+Service Planning and Design: Our launch process is anchored 
+around a collaborative input gathering stage that includes simulation 
+studies, a review of the customer’s technical requirements, and 
+alignment on performance and reporting goals. The result is a plan 
+completely customized to suit the customer’s needs, which allows 
+    RFP No. 25-08  |  46
+=== page 132 ===
+Via's implementation specialists to configure the relevant Via solution 
+according to the customer’s goals.  
+Testing and Training: For our on-demand transportation services, 
+Via's launch team will install Via's Driver App, test with drivers in 
+vehicles, and conduct training workshops for drivers, dispatchers, 
+schedulers, and staff to ensure they are comfortable using Via's 
+software from day one. We have a wealth of experience transitioning 
+from legacy platforms, and will handle any data migration. Via's 
+Community Engagement team can also support pre-launch 
+community outreach and marketing efforts to ensure riders are aware 
+of the service transition. Similarly, for our transit planning and journey 
+planning solutions, we perform similar quality assurance testing, 
+training of relevant staff, and marketing to end users. 
+Launch Support: We understand how challenging it can be to 
+transition to a new software-based service, and we also recognize 
+the importance of conversations to facilitate trust in the new system. 
+In addition to support for our customers’ immediate service launch, 
+we provide a robust partner support team, including a dedicated 
+Partner Support Manager and 24/7 technical support. We are also 
+committed to offering our customers on-the-ground training prior to 
+launch, where appropriate. 
+Most of our contract implementations require 8 to 12 weeks following contract execution, 
+providing ample time to complete the transition to the Via Platform while allowing for 
+thorough staff training and system optimization. The timeline is also flexible, enabling us 
+to add more training sessions, run additional simulations, or expedite implementation 
+based on the customer’s specific needs. 
+4. What is the vendor’s capability to meet service and
+warranty needs?
+Via’s software solution is cloud-based, and therefore does not require warranties, 
+however Via will provide 24/7 technical assistance to partners via our online support 
+platform. A rotating team of support engineers is on call at all times to resolve any 
+problems that may arise. Further, all servers and cloud services dedicated to each 
+    RFP No. 25-08  |  47

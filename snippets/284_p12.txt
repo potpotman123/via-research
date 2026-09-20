@@ -1,0 +1,98 @@
+# source: raw/bleecker_drive/Arlington, Texas/FTA-Report-No-0244.pdf
+# path: raw/bleecker_drive/Arlington, Texas/FTA-Report-No-0244.pdf
+# hit page: 12 of 74
+# terms: Via Transportation, Via+fleet
+
+=== page 11 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+2
+EXECUTIVE SUMMARY
+•	 Demonstration of performance, safety, and user acceptance of automation 
+on an existing public transportation system
+•	 Demonstration of integrated ride booking and payment between modes
+•	 Use of public-private partnerships for demonstration, data sharing, and 
+knowledge transfer
+Findings and Conclusions
+Over the one-year RAPID demonstration, a total of 28,140 rides were provided 
+with no safety incidents or accidents, successfully demonstrating that an AV 
+service could be seamlessly integrated into an existing on-demand rideshare 
+service and that the public would accept automated rides. Rider feedback 
+showed that riders felt safe, enjoyed the service, and appreciated the free 
+fares for UTA students. Autonomy performance improved over the course of 
+the year as the project team and AV technology learned and adapted to the 
+demonstration area. Communication and education to riders and the public 
+was robust, but additional outreach could have strengthened messaging to 
+more members of the public.
+Benefits
+Findings from the RAPID project can be used to improve automated, shared 
+public transit services in other locations, particularly concerning safety, 
+technology, design of service parameters, communication, and public 
+perception. Data from operational elements and from surveys, interviews, and 
+focus groups provide helpful analysis, conclusions, and recommendations that 
+can be used by others seeking to deploy similar services. The City of Arlington 
+and its partners will continue to operate the RAPID service, incorporating 
+lessons learned to improve and grow the service and its benefits to the 
+community.
+=== page 12 ===
+Section 1 
+	
+FEDERAL TRANSIT ADMINISTRATION 	
+3
+RAPID Project Introduction
+The Arlington Rideshare, Automation, and Payment Integration Demonstration 
+(RAPID) project is an integration of a shared, dynamically routed, Level 4 
+automated vehicle (AV) fleet into an existing public microtransit system in 
+Arlington, Texas. The City of Arlington, working with Via Transportation, Inc. 
+(Via), May Mobility, Inc., and the University of Texas at Arlington (UTA), led the 
+demonstration from March 23, 2021, to March 18, 2022, in a one-square-mile 
+area that included Arlington’s Downtown and the UTA campus. Over the one-
+year RAPID demonstration, a total of 28,140 rides were provided with no safety 
+incidents or accidents.
+This final project report is organized in five main sections, as follows:
+•	 RAPID Project Description: this section provides background and context 
+for the project and describes the demonstration goals, challenges 
+addressed by the project team, and the objectives of the project. 
+•	 RAPID Project Evolution: this section provides detailed information about 
+the work done by the project team in preparation for demonstration 
+and during the demonstration itself. The project addressed several key 
+elements during the preparation phase, including defining the service 
+area; route mapping; establishing operational parameters; planning for 
+communications and outreach about the service; and research activities 
+that informed the demonstration. Key elements addressed during 
+the demonstration phase included tracking ridership, autonomy, and 
+integration performance metrics; tracking rider experience metrics; 
+installing software updates; making necessary operational changes; 
+continued communication and education about the service; and research 
+activities to analyze the service itself. This section also discusses the 
+evolution of key challenges during the project, including COVID-19 impacts, 
+rider experience, wheelchair accessible vehicle use, and integration 
+between the partner platforms for the service.
+•	 RAPID Project Evaluation: this section evaluates key RAPID project 
+objectives, including increased access for senior citizens, students, and 
+individuals with disabilities; improved equity and accessibility to public 
+transit; improved safety and efficiency; demonstration of automation on 
+an existing public transportation system; demonstration of integrated 
+ride booking and payment between modes; and the use of public-private 
+partnerships for demonstration, data sharing, and knowledge transfer. 
+•	 RAPID Project Conclusions and Recommendations: this section highlights 
+the key lessons learned from the RAPID project, recommendations based 
+on lessons learned, and next steps for the RAPID project and team.
+=== page 13 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+4
+SECTION  |  1 
+Overall, the RAPID project successfully demonstrated the integration of a 
+fleet of automated, on-demand, shared vehicles with an existing on-demand 
+rideshare public transportation service. The service provided increased 
+access for individuals within the service area, and survey results show that 
+many riders had low income levels and lacked access to a personal vehicle. 
+The RAPID service also provided a consistently safe and efficient service for 
+the full duration of the one-year demonstration, with no safety accidents 
+or collisions and high quality-of-service ratings, including wait times and 
+on-time performance. Automated performance improved over the course of 
+the demonstration, suggesting significant learning and improvement by the 
+automation technology and vehicles. Integration between the Via and May 
+Mobility platforms was also robust, and riders were able to use the Via app to 
+book and pay for rides delivered by the May Mobility AVs. The public-private 
+partnership team worked efficiently to provide and evaluate the service and to 
+share lessons learned widely.

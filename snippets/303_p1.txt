@@ -1,0 +1,85 @@
+# source: raw/bleecker_drive/Baldwin/25_1061_Mutual_Termination_Agreement_and_Release.pdf
+# path: raw/bleecker_drive/Baldwin/25_1061_Mutual_Termination_Agreement_and_Release.pdf
+# hit page: 1 of 2
+# terms: Via Mobility
+
+=== page 1 ===
+MUTUAL TERMINATION AGREEMENT AND RELEASE 
+ 
+This Mutual Termination Agreement and Release (“Termination Agreement”) is made and 
+entered into by and between Baldwin County, Alabama, acting by and through the Baldwin 
+County Commission (“County”) and Via Mobility, LLC, a Delaware limited liability company 
+(“Via”). County and Via are each a “Party” and collectively the “Parties.” 
+Recitals 
+A. The Parties are bound by that certain Contract for Professional Services dated June 18, 2020, 
+as subsequently amended and extended (the “Agreement”). 
+ 
+B. The Parties desire to terminate the Agreement on mutually agreeable terms and conditions as 
+set forth herein. 
+1. Termination of the Agreement 
+ 
+The Agreement is hereby terminated effective May 1, 2025 (the “Effective Date”). Via will 
+continue to provide the services defined in the Agreement until September 1, 2025 (the 
+“End Date”). Following the End Date, neither Party shall have any further obligations under the 
+Agreement except as expressly stated in this Termination Agreement. 
+2. No Further Financial Obligations 
+ 
+The Parties acknowledge and agree that all amounts due under the Agreement have been paid in 
+full. As of the Effective Date, County owes Via zero dollars ($0.00), and County shall have no 
+obligation to pay any additional fees, charges, or expenses to Via in connection with the 
+Agreement or its termination. Via confirms receipt of all payments due and waives any right to 
+seek further compensation from County. Via will ensure that the requested invoice credit of 
+$1,607.50 on May 21st will be honored. 
+3. Mutual Release 
+ 
+In consideration of the promises and undertakings herein, each Party irrevocably releases and 
+discharges the other Party and its respective parents, subsidiaries, affiliates, officers, directors, 
+employees, agents, and representatives (collectively, the “Released Parties”) from any and all 
+claims, demands, or causes of action, whether known or unknown, arising out of or relating to 
+the Agreement or its termination, except for obligations expressly surviving herein.
+=== page 2 ===
+4. Intellectual Property 
+County acknowledges that all software, data, and other materials provided or used by Via — 
+including all related intellectual‑property rights — remain the exclusive property of Via. No right 
+or license survives termination other than as expressly provided in the Agreement. 
+5. Confidentiality and Non‑Disparagement 
+a. The Parties reaffirm their respective obligations under Section 12 (Confidentiality) of the 
+Agreement, which shall survive termination. 
+ 
+ b. Each Party agrees not to disparage or publicly criticize the other Party or interfere with its 
+business relationships. 
+6. Governing Law; Venue 
+This Termination Agreement shall be governed by and construed in accordance with the laws of 
+the State of Alabama, without regard to its conflict‑of‑laws principles. Any action arising under 
+this Termination Agreement shall be brought exclusively in the Circuit Court of Baldwin County, 
+Alabama. 
+7. Miscellaneous 
+a. Entire Agreement. This Termination Agreement constitutes the entire agreement between the 
+Parties with respect to its subject matter and supersedes all prior or contemporaneous 
+understandings or agreements. 
+ 
+ 
+IN WITNESS WHEREOF, the Parties have executed this Termination Agreement through 
+their respective duly authorized representatives as of the Effective Date. 
+  
+BALDWIN COUNTY COMMISSION  
+  
+VIA MOBILITY LLC 
+By: 
+  
+  
+By: 
+  
+Printed Name:   
+  
+Printed Name: 
+  
+Title: 
+  
+  
+Title: 
+  
+Date: 
+  
+  
+Date:

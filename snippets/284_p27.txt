@@ -1,0 +1,112 @@
+# source: raw/bleecker_drive/Arlington, Texas/FTA-Report-No-0244.pdf
+# path: raw/bleecker_drive/Arlington, Texas/FTA-Report-No-0244.pdf
+# hit page: 27 of 74
+# terms: Via+fleet, Via+vehicles
+
+=== page 26 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+17
+SECTION  | 3 
+	  
+Figure 3-6 Arlington RAPID Vehicles and Vehicle Wraps
+Educational and marketing materials included flyers, posters, and sandwich 
+boards that described the service and COVID-19 safety measures taken on board 
+RAPID. These materials were distributed throughout the service area. A detailed 
+service website, hosted by the City of Arlington and launched in January 2021, 
+contained information about the service area, operating times, fare payment, 
+how to book a ride, and details about the AV technology. The UTA parking 
+website was updated with information about RAPID in March 2021.
+Community outreach events prior to service launch included a series of focus 
+groups conducted in August 2020. Three focus groups were held, one for the 
+public, one for the UTA community, and one for people with disabilities, to 
+gather feedback about existing transportation services in Arlington, share 
+details about the upcoming RAPID service, and gather input on the RAPID 
+service. City of Arlington staff gave presentations to several community groups 
+and to the Arlington City Council. UTA staff participated in a student-focused 
+activities fair to promote the RAPID service to the UTA community in January
+=== page 27 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+18
+SECTION  | 3 
+2021, at the start of UTA’s spring semester. The project team also coordinated 
+a series of first responder training sessions, led by May Mobility staff, to 
+educate city police and fire personnel and UTA first responders to the vehicles 
+and service. First responders participated in a virtual workshop and had 
+opportunities to visit the May Mobility office to see the vehicles in person.
+A demonstration launch event was held on March 23, 2021, at a location 
+within the RAPID service area, adjacent to the local offices of May Mobility, 
+and in a retail development that is a key destination within the service area. 
+The Arlington mayor, the UTA president, and the May Mobility CEO made brief 
+remarks at the event and were available for media interviews. Attendees were 
+able to take rides on the RAPID vehicles and experience the technology and 
+service. The launch event was publicized with several outreach activities, 
+including a naming contest for one of the RAPID fleet vehicles led by May 
+Mobility, creation of a video package for media use, announcement of the 
+service by Arlington’s mayor at his annual state of the city address just prior 
+to launch, distribution of print marketing materials on UTA’s campus and 
+throughout the RAPID service area, and a social media campaign on Facebook, 
+Instagram, and Twitter. The launch was also supported by direct communication 
+from Via to existing account holders and issuance of a joint press release from all 
+project partners. The RAPID launch was well attended and well publicized in the 
+local, regional, and national news media and on social media.
+Research Activities 
+Led by the UTA research team, the preparation for the demonstration phase of 
+RAPID included research on best practices for shared AVs, analysis of existing 
+transportation services in Arlington, holding focus groups to gather feedback on 
+the proposed RAPID service, and preparing survey instruments for use during 
+the demonstration. Literature on AV services in the United States was reviewed, 
+including exploration of FTA’s Mobility on Demand (MOD) Sandbox program 
+projects, analysis of the best practices of app-based, on-demand ride services, 
+and identification of determinant factors in establishing a well-integrated public 
+transit system using app-based, on-demand services. 
+For analysis of existing transportation services in Arlington, the UTA team 
+received datasets from different platforms including the Via on-demand 
+rideshare service and Handitran, the city’s paratransit service. The team cleaned 
+the data and conducted primary data analysis to explore rider travel patterns. 
+The data cleaning process was undertaken to make each dataset uniform and 
+ready for analysis. For example, the Handitran data contained some rides 
+with missing locational attributes and included rides that were requested but 
+cancelled, which the team removed from the dataset used for analysis. The Via 
+data contained some rides that were taken outside of service hours, which the 
+team removed to focus the analysis on rides during regular service operations.
+=== page 28 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+19
+SECTION  | 3 
+Findings from the literature review and the existing transportation data were 
+shared with the research team to inform decisions about the service area, 
+service hours, likely pick-up and drop-off location requests, and educational 
+outreach approaches.
+The UTA research team also conducted a series of focus groups designed to 
+share information about RAPID and get feedback from the public, members 
+of the UTA community, and community members with disabilities. Potential 
+participants were invited to attend the focus group events through different 
+approaches including emails to students, faculty, and staff through UTA 
+listservs, emails to the City’s email listserv, and targeted emails to organizations 
+within the AV service area. The focus groups were conducted virtually in August 
+2020 and data were collected related to current transportation systems and 
+opinions about future AV services in Arlington. After the focus groups were 
+held, the team asked all participants to complete a follow-up survey to collect 
+additional transportation and demographic data. Both the focus group and the 
+survey were conducted with review and approval from the UTA Institutional 
+Review Board (IRB). The data collected through this process was very helpful in 
+finalizing service parameter details.
+A total of 24 people participated across the three focus groups in August 2020. 
+The focus group discussions provided helpful feedback to the project team, 
+as well as an opportunity to share information about the upcoming RAPID 
+service and other existing transportation services in Arlington. Key concerns or 
+questions from the focus group participants about the proposed RAPID service 
+included questions about the safety of AV operations (participants were pleased 
+to find out there would be human operators in the RAPID vehicles); interest in 
+the service area and hours of operation being expanded; concerns about the 
+passenger capacity of the AVs; and questions about trip costs and access for 
+those with disabilities. Many focus group participants were also excited about 
+the opportunity for a new mode of transportation in Arlington, excited about 
+experiencing AV technology for the first time, and pleased that RAPID would be 
+integrated into the existing Via rideshare service.
+Finally, the team prepared two survey instruments to be used during the 
+RAPID demonstration. One short survey was distributed to every RAPID rider 
+after completing their first ride on the service to collect feedback on their ride 
+experience. The second, longer survey was distributed to the public to collect 
+data on feelings about AV services and technology in general, as well as RAPID 
+more specifically.

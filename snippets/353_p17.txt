@@ -1,0 +1,189 @@
+# source: raw/bleecker_drive/2.0 TIPS Cooperative Agreement/240101_CONTRACT_Technology_Via_Transportation.pdf
+# path: raw/bleecker_drive/2.0 TIPS Cooperative Agreement/240101_CONTRACT_Technology_Via_Transportation.pdf
+# hit page: 17 of 42
+# terms: River North Transit, Via Transportation
+
+=== page 16 ===
+8
+Primary Contact Email
+Please enter a valid email address that will definitely reach the Primary Contact.
+greg.centini@ridewithvia.com
+9
+Primary Contact Phone
+Numbers only, no symbols or spaces (Ex. 8668398477). The system will auto-populate your entry with commas
+once submitted which is appropriate and expected (Ex. 8,668,398,477).
+ 
+Please provide the accurate and current phone number where the individual who will be primarily responsible for all
+TIPS matters and inquiries for the duration of the contract can be reached directly.
+4349624835
+1
+0
+Primary Contact Fax
+Numbers only, no symbols or spaces (Ex. 8668398477). The system will auto-populate your entry with commas
+once submitted which is appropriate and expected (Ex. 8,668,398,477).
+No response
+1
+1
+Primary Contact Mobile
+Numbers only, no symbols or spaces (Ex. 8668398477). The system will auto-populate your entry with commas
+once submitted which is appropriate and expected (Ex. 8,668,398,477).
+No response
+1
+2
+Secondary Contact Name
+Please identify the individual who will be secondarily responsible for all TIPS matters and inquiries for the duration
+of the contract.
+Mike Vaccarino
+1
+3
+Secondary Contact Title
+Secondary Contact Title
+Vice President of Partnerships
+1
+4
+Secondary Contact Email
+Please enter a valid email address that will definitely reach the Secondary Contact.
+michael.vaccarino@ridewithvia.com
+1
+5
+Secondary Contact Phone
+Numbers only, no symbols or spaces (Ex. 8668398477). The system will auto-populate your entry with commas
+once submitted which is appropriate and expected (Ex. 8,668,398,477).
+ 
+Please provide the accurate and current phone number where the individual who will be secondarily responsible
+for all TIPS matters and inquiries for the duration of the contract can be reached directly.
+9149438478
+1
+6
+Secondary Contact Fax
+Numbers only, no symbols or spaces (Ex. 8668398477). The system will auto-populate your entry with commas
+once submitted which is appropriate and expected (Ex. 8,668,398,477).
+No response
+Vendor: Via Transportation Inc
+240101
+Page 6 of 31 pages
+=== page 17 ===
+1
+7
+Secondary Contact Mobile
+Numbers only, no symbols or spaces (Ex. 8668398477). The system will auto-populate your entry with commas
+once submitted which is appropriate and expected (Ex. 8,668,398,477).
+No response
+1
+8
+Administration Fee Contact Name
+Please identify the individual who will be responsible for all payment, accounting, and other matters related to
+Vendor's TIPS Administration Fee due to TIPS for the duration of the contract.
+Joe Santarpia
+1
+9
+Administration Fee Contact Email
+Please enter a valid email address that will definitely reach the Administration Fee Contact.
+ap@ridewithvia.com
+2
+0
+Administration Fee Contact Phone
+Numbers only, no symbols or spaces (Ex. 8668398477). The system will auto-populate your entry with commas
+once submitted which is appropriate and expected (Ex. 8,668,398,477).
+7327717598
+2
+1
+Purchase Order and Sales Contact Name
+Please identify the individual who will be responsible for receiving and processing purchase orders and sales under
+the TIPS Contract.
+Greg Centini
+2
+2
+Purchase Order and Sales Contact Email
+Please enter a valid email address that will definitely reach the Purchase Order and Sales Contact.
+greg.centini@ridewithvia.com
+2
+3
+Purchase Order and Sales Contact Phone
+Numbers only, no symbols or spaces (Ex. 8668398477). The system will auto-populate your entry with commas
+once submitted which is appropriate and expected (Ex. 8,668,398,477).
+4349624835
+2
+4
+Company Website
+Company Website (Format - www.company.com)
+www.ridewithvia.com
+2
+5
+Entity D/B/A's and Assumed Names
+You must confirm that you are responding to this solicitation under your legal entity name.  Go now to your Supplier
+Profile in this eBid System and confirm that your profile reflects your "Legal Name" as it is listed on your W9.
+ 
+In this question, please identify all of your entity's assumed names and D/B/A's.  Please note that you will be
+identified publicly by the Legal Name under which you respond to this solicitation unless you organize otherwise with
+TIPS after award.
+Legal Name: "River North Transit, LLC" (A wholly owned subsidiary of Via Transportation, Inc.). D/B/A’s: “Via”
+2
+6
+Primary Address
+Primary Address
+114 5th Avenue, 17th Floor
+Vendor: Via Transportation Inc
+240101
+Page 7 of 31 pages
+=== page 18 ===
+2
+7
+Primary Address City
+Primary Address City
+New York
+2
+8
+Primary Address State
+Primary Address State (2 Digit Abbreviation)
+New York
+2
+9
+Primary Address Zip
+Primary Address Zip
+10011
+3
+0
+Search Words Identifying Vendor
+Please list all search words and phrases to be included in the TIPS database related to your entity.  Do not list
+words which are not associated with the bid category/scope (See bid title for general scope).  This will help users
+find you through the TIPS website search function.  You may include product names, manufacturers, specialized
+services, and other words associated with the scope of this solicitation.
+ 
+Via, Via Transportation, Via Mobility, Via Microtransit, Remix, software, technology, operations, turnkey, software-
+as-a-service, mobility-as-a-service, transportation-as-a-service, transportation, transit, transport, public
+transportation, transit tech, intermodal, multimodal, mobility, microtransit, on demand, demand response,
+paratransit, dial a ride, ADA transportation, wheelchair accessible vehicles, WAV, fixed route, deviated fixed route,
+student transportation, student transit, alternative student transportation, McKinney Vento transportation, MKV
+transportation, SPED transportation, special education transportation, campus shuttle, university shuttle, non
+emergency medical transportation, NEMT, electric vehicle, EV, hybrid vehicle, minivan, transportation planning,
+street design, transit consulting, scheduling, microtransit feasibility study, driver, rider, passenger, vehicle, fleet,
+dispatch, routing, dispatcher
+3
+1
+Certification of Vendor Residency (Required by the State of Texas)
+Does Vendor's parent company or majority owner:
+(A) have its principal place of business in Texas; or (B) employ at least 500 persons in Texas?
+ 
+Texas Education Code Section 44.031 requires that this information be considered in evaluation for certain
+contracts.  However, Vendor response does not affect points, scoring, or potential award.
+ 
+No
+3
+2
+Vendor's Principal Place of Business (City)
+In what city is Vendor's principal place of business located?
+New York
+3
+3
+Vendor's Principal Place of Business (State)
+In what state is Vendor's principal place of business located?
+New York
+3
+4
+Vendor's Years in Business
+How many years has the business submitting this proposal been operating in its current capacity and field of work?
+12
+Vendor: Via Transportation Inc
+240101
+Page 8 of 31 pages

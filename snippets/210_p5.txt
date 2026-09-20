@@ -1,0 +1,129 @@
+# source: https://legistar1.granicus.com/McKinney/attachments/abb0b9be-9c15-4174-9e04-7b9d82941c25.pdf
+# path: raw/cache/5e92fe54da67feb112756b4c03bca94101b9439a.pdf
+# hit page: 5 of 50
+# terms: Spare Labs
+
+=== page 4 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+Executive summary 
+ 
+CCT currently runs an on-demand taxi service across Collin County, with their operating 
+partner Irving Holdings. With the aim of improving efficiency and cutting costs without 
+impacting rider experience, CCT approached Spare to explore the possibility of introducing 
+microtransit to the county. 
+ 
+Spare used its Realize simulation platform to simulate the expected performance of a fully 
+on-demand microtransit service. Spare ran 54 individual simulations, covering various 
+parameter combinations with different demand scenarios, duty levels and operational 
+models.  
+ 
+This report outlines the simulation methodology and findings, before making best practice 
+recommendations for setting up and operating microtransit in the study zone and the 
+entire region. It also presents the cutting-edge technology that Spare can provide to 
+partner with CCT in the implementation and operational phases of its microtransit plans.  
+ 
+Main findings 
+ 
+●
+There is ​high potential for an excellent microtransit service ​in the study zone. 
+Low average waiting times and high efficiency are achievable with relatively few 
+vehicles, at a low-cost option that varies from $520,000 to $870,000 per year 
+depending on actual demand. 
+ 
+●
+The ​pooling​ rate (i.e. the proportion of trips that are shared between multiple 
+riders) is expected to be 48–64% using a door-to-door model. This implies that 
+vehicle hours could be reduced significantly compared to the current 
+business-as-usual model where no pooling exists, which would translate into 
+equivalent cost savings for CCT. Adopting a ‘great service’ model (by increasing the 
+number of driver shifts) would improve the rider experience, but costs could almost 
+double. 
+ 
+●
+As CCT begins its microtransit journey, it will have to consider several ​tradeoffs 
+between investing in great service or opting for a lower-cost option. A low-cost 
+solution could be as low as $520,000 per annum (p.a.), while a great-service solution 
+could be as high as $1.6 million p.a. A door-to-door service would offer the best 
+increase in performance per additional spend, but if costs need to be minimised, a 
+stop-to-stop service offers the best value for money. 
+ 
+●
+A ​stop-to-stop ​operational model would deliver the best value for money in Collin 
+County​. ​Stop-to-stop services tend to have better pooling and shorter wait times 
+than door-to-door services, and the familiarity of stops breeds more efficient 
+3
+=== page 5 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+behaviour from drivers and riders. However, the target demographic for this service 
+(seniors and those with special mobility needs), combined with high temperatures in 
+Texas, may mean most – if not all – riders require a door-to-door service. Spare 
+Platform does allow for rider segmentation, whereby certain riders are given access 
+to a door-to-door service, while others are on a stop-to-stop service. 
+ 
+●
+Extending the service hours​ from 6am–6pm to 6am–12am would offer coverage 
+for trips typically undertaken for night-shift work and late night 
+entertainment/recreation, thus increasing ridership as well as spreading demand 
+more evenly throughout the day. Whilst this increased ridership would come at an 
+elevated cost (both in terms of annual costs but also costs per trip), it would 
+advance CCT’s mission of providing more equitable transit across the county. 
+ 
+●
+Right-sizing ​CCT’s microtransit service (i.e. purchasing and/or using vehicles that 
+are appropriately sized for servicing the actual demand) could help to cut costs, 
+because smaller vehicles cost less to purchase, run, and maintain than the shuttle 
+vans CCT currently owns and operates. 
+ 
+●
+CCT could save on operating costs in the long-term by investing in​ two additional 
+dedicated vehicles​ to serve the majority of expected demand. This is because a 
+dedicated fleet with an hourly unit cost will be cheaper to serve longer trips than 
+using non-dedicated taxis. Using a right-sized dedicated fleet could result in savings 
+of $7 per trip and annual savings of $140,000, assuming a medium-demand, 
+low-cost scenario.  
+ 
+Steps to success 
+ 
+Building on the findings of this report, and applying Spare’s proven success in other urban 
+areas similar to Collin County, we outline how CCT is currently at a so-called ‘Phase 0’ of its 
+transit evolution: a generally unpooled, single-operator model that is expensive and highly 
+inefficient. To propel CCT towards more innovative models, Spare has designed a 
+multi-phase framework that will future-proof CCT’s operations for decades to come. 
+ 
+The framework guides CCT towards a fully flexible, regional transit system that commingles 
+multiple services to ensure an unparalleled public transit experience. The different phases 
+are summarized in the diagram below, and are revisited in more detail later in this report. 
+ 
+The clear steps to success for CCT in this framework include: 
+ 
+●
+In the first instance, a ​pooled microtransit system​ will deliver modest cost savings. 
+Perhaps the most important benefit it will bring is a ​wealth of data​ that can be 
+used to better understand the demand for transit and optimize the system further. 
+ 
+4
+=== page 6 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+●
+In subsequent phases, adding ​multiple operators ​to the service will help to create 
+operational efficiencies and introduce time- and location-specific rules such as 
+dynamic pricing. A ​mixed supply model​, which involves brokering trips to multiple 
+operators rather than just assigning trips to a single operator, could be rapidly 
+scaled up across the zone using the unique Spare Fleets feature.  
+ 
+●
+Eventually, it could be possible to introduce ​commingling​ to Collin County, which 
+involves providing different service types (e.g. microtransit, paratransit, NEMT, 
+school runs) with the same fleet of vehicles, allowing each service to maintain its 
+distinctive nature while sharing vehicle resources. This fully flexible system allows 
+different service configurations, rules and rider groupings to be respected, and 
+provides the same quality of service expected by each rider. Commingling will 
+deliver an amazing rider experience and unparalleled savings for CCT.  
+ 
+ 
+Figure 1. Spare’s framework for propelling CCT into the future. 
+ 
+ 
+ 
+ 
+5

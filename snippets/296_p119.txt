@@ -1,0 +1,105 @@
+# source: raw/bleecker_drive/0.0 OMNIA Cooperative Agreement/R250802_Via_Transportation_MAD_Redacted_081825_01.pdf
+# path: raw/bleecker_drive/0.0 OMNIA Cooperative Agreement/R250802_Via_Transportation_MAD_Redacted_081825_01.pdf
+# hit page: 119 of 191
+# terms: Via+drivers
+
+=== page 118 ===
+understanding of a customer’s unique needs, preferences, and service requirements at 
+every stage of the process. 
+Customer Staff Training 
+Where appropriate, Via conducts tailored training for schedulers, dispatchers, and other 
+administrative staff who may be using our platform to manage on-demand transportation 
+services. Sessions consist of classroom, hands-on, and virtual training to accommodate a 
+wide range of learning styles. Via provides all software necessary, as well as electronic 
+copies of product software manuals. We supplement this with training and help tools 
+including online content, video instruction, interactive classes, materials such as 
+workbooks, “cheat sheets,” training aids and online functional or technical system 
+manuals, follow-up “refreshers” as needed at the discretion of our customer. 
+Topics covered include the following: 
+Introductory Workshop 
+Introduction to Via’s scheduling software, including high-level overviews of 
+the Via Operations Center (VOC). 
+On-Demand Scheduling and Dispatch Training 
+Detailed workshops for booking agents who are taking reservations and 
+monitoring and managing day of service operations. 
+Advanced Administrative Tools 
+Training for advanced administrative functions, such as inputting road 
+closures and adjusting operational settings/configurations. 
+Data and Reporting Training 
+Workshops for understanding and leveraging the data through our various 
+dashboards, reports, and best practices for marketing and growing the 
+service. 
+Rider-Centric Tools 
+Workshops focused on usage of rider centric tools so that booking agents 
+can help drive app adoption and support rider community questions and 
+needs. 
+    RFP No. 25-08  |  31
+=== page 119 ===
+Booking agents will also undergo regular refresher training, both on general topics to 
+promote continuous professional development in the latest best-practice around 
+customer sensitivities but also to foster deep local knowledge of the service. 
+iv. Describe in detail your background check and safety procedures.
+All drivers Via recruits for the services we operate, including back-up drivers, are required
+to possess a valid driver’s license issued by the state in which they will be delivering
+service. During the recruitment process, all drivers must complete and pass detailed
+background checks, state motor vehicle records reviews, criminal record reviews, and an
+FTA-compliant drug and alcohol test, along with periodic checks for the duration of their
+affiliation with the service. Drivers are also required to undergo standardized and periodic
+testing to ensure English proficiency and outstanding customer service skills as part of
+the application. Once drivers have passed the application phase, and have conducted the
+necessary checks, tests, and reviews, they are subject to a comprehensive final review on
+their first day to ensure that they have met and exceeded our hiring requirements before
+they begin the onboarding and training process.
+v. Provide a detailed explanation outlining the licenses and certifications that
+are:
+a. Required to be held
+b. Actually held by your organization (including third parties and subcontractors that
+you use)
+c. Has your company maintained these certifications on an ongoing basis? If not, when
+and why did your company lose any referenced certifications?
+For our Transportation-as-a-Service partnerships, we obtain the relevant licenses and
+permits for the relevant jurisdiction. We currently hold licenses in over 35 states, including
+transportation network company (TNC) licenses in over 23 jurisdictions across the United
+States. Our team is also prepared to quickly obtain new licenses and permits in order to
+operate in new jurisdictions as new business is contemplated. Please note that operating
+authority is statewide unless otherwise noted:
+License Type 
+State(s) 
+Business License 
+Alabama, California, Washington, D.C. 
+Transportation Network 
+Company (TNC) 
+Arizona, California, Illinois (Chicago only), Colorado, Connecticut, 
+Georgia, Indiana, Louisiana, Maryland, Massachusetts, Michigan, 
+    RFP No. 25-08  |  32
+=== page 120 ===
+Missouri, Nebraska, New Jersey, North Carolina, Ohio, Oklahoma, 
+South Carolina, Texas, Utah, Virginia, Washington, Wisconsin 
+Motor Carrier License 
+Wisconsin 
+For-Hire Operator License 
+New York (New York City only), Texas (Fort Worth only), 
+Washington, D.C. 
+Limo 
+Michigan 
+Public Vehicle License 
+Wisconsin (Green Bay only) 
+Specific licenses and certifications are not required to sell our software in the United 
+States. 
+vi. Provide a current list of licenses and certifications.
+Please see list above for our current licenses and certifications.
+vii. Describe Offeror’s current service area in the United States and which areas
+services will be offered under a resulting contract if awarded.
+We currently provide operations and/or software solutions to 665 global customers; there
+is no area in the United States we cannot service. We are willing to obtain any necessary
+operating licenses if a potential OMNIA participating entity or Region 4 affiliate is located
+in a city in which we do not currently operate. We have more engineering, launch, and
+operations resources than any other provider in the TransitTech market and are prepared
+to provide our products and services to any and all interested entities.
+viii. Provide a coverage map. Include additional pertinent information on drivers
+and/or staff.
+At right, we have included
+a map illustrating a
+selection of our US-based
+customers.
+    RFP No. 25-08  |  33

@@ -1,0 +1,95 @@
+# source: https://legistar1.granicus.com/McKinney/attachments/abb0b9be-9c15-4174-9e04-7b9d82941c25.pdf
+# path: raw/cache/5e92fe54da67feb112756b4c03bca94101b9439a.pdf
+# hit page: 7 of 50
+# terms: Spare Labs
+
+=== page 6 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+●
+In subsequent phases, adding ​multiple operators ​to the service will help to create 
+operational efficiencies and introduce time- and location-specific rules such as 
+dynamic pricing. A ​mixed supply model​, which involves brokering trips to multiple 
+operators rather than just assigning trips to a single operator, could be rapidly 
+scaled up across the zone using the unique Spare Fleets feature.  
+ 
+●
+Eventually, it could be possible to introduce ​commingling​ to Collin County, which 
+involves providing different service types (e.g. microtransit, paratransit, NEMT, 
+school runs) with the same fleet of vehicles, allowing each service to maintain its 
+distinctive nature while sharing vehicle resources. This fully flexible system allows 
+different service configurations, rules and rider groupings to be respected, and 
+provides the same quality of service expected by each rider. Commingling will 
+deliver an amazing rider experience and unparalleled savings for CCT.  
+ 
+ 
+Figure 1. Spare’s framework for propelling CCT into the future. 
+ 
+ 
+ 
+ 
+5
+=== page 7 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+Overview and context 
+ 
+The City of McKinney, the McKinney Urban Transit District (MUTD) and the Denton County 
+Transportation Authority (DCTA) provide Collin County Transit (CCT), a ​subsidized taxi 
+voucher program​. Participating cities include Celina, Lowry Crossing, McKinney, Melissa, 
+Princeton and Prosper (Figure 2). CCT is seeking to maintain the same coverage, whilst 
+improving efficiencies and reducing costs by running the system on a sophisticated trip 
+matching and dispatching on-demand platform. 
+ 
+In the proposed system, trips would be permitted to start and end anywhere in the six 
+participant cities for a set fare ($3 for trips starting and ending within the six cities, and $5 
+for trips ending in the wider county). No trips would be permitted to start from outside the 
+MUTD cities. A special provision would allow trips to start or end at the Parker Road Light 
+Rail Station in the City of Plano, to improve connection with the Dallas-Fort Worth region via 
+the Dallas Area Rapid Transit (DART) system. 
+ 
+The target demographic for this system is senior citizens and those with mobility issues, 
+although the system will remain open to anybody. This report touches on the benefits of 
+opening up the service to a wider demographic through extended service hours.  
+ 
+ 
+Figure 2. Primary zone for McKinney Urban Transportation District (MUTD) participating cities and Parker 
+Road LRT Station (including a connection corridor), where on-demand trips can start or end. The wider 
+Collin County area, where trips can end but not originate, is also shown.  
+ 
+6
+=== page 8 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+Project objectives 
+ 
+The Spare team and CCT representatives worked together to outline some key objectives 
+for the wider microtransit project. These can be summarized as: 
+ 
+1.
+Boost efficiency​: increase ridership and spending productivity 
+ 
+2.
+Improve​ ​accessibility​: connect people to fixed routes and POIs in an affordable 
+way, focusing on underserved communities 
+ 
+3.
+Innovate​: propel Collin County’s transit provision into the future 
+ 
+Together, CCT and Spare outlined target average waiting time for microtransit of 15-30 
+minutes, with no waiting times exceeding 60 minutes. This helped to shape Spare’s 
+experimental setup and duty provisioning (i.e. driver and vehicle shift) scenarios. 
+ 
+CCT currently spends approximately $360,000 per annum (p.a.) on running their subsidised 
+taxi service. They have access to approximately $900,000 p.a. for operating the new 
+proposed on-demand service, although this is fairly flexible given CCT’s funding source for 
+2020/2021. These financial constraints were used to inform realistic duty levels in our 
+simulations.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7

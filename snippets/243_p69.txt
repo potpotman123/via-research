@@ -1,0 +1,110 @@
+# source: https://erie.legistar1.com/erie/attachments/18897325-3951-4898-866c-b88da61e73dc.pdf
+# path: raw/cache/64cc9799c9c06de84758ced21eba2c2affae5de1.pdf
+# hit page: 69 of 83
+# terms: Via+drivers, Via+turnkey, Via+vehicles
+
+=== page 68 ===
+68  
+Figure 36: Recommended Service Area Map
+=== page 69 ===
+Erie Microtransit Service Plan 
+ 69 
+Service Characteristics 
+Table 13 shows the basic characteristics of the recommended alternative’s zone and service. The service 
+would cover 16.9 square miles. Two vehicles are initially recommended during peak times to maintain a 
+response time of less than 30 minutes. Other characteristics include: 
+• 
+Fare-free service open to the public. 
+• 
+Monday through Friday operations from 6 AM to 8 PM to cover a variety of trip purposes. 
+• 
+Trip requests via a smartphone application or using a call-in number, both available in Spanish 
+and English. 
+• 
+Up to two branded vehicles will operate during peak demand, including a wheelchair-accessible 
+van, with professionally trained drivers. 
+Table 13: Erie Microtransit Service Characteristics of the Recommended Alternative 
+Characteristic 
+Description 
+Zone Size 
+16.9 square miles 
+Vehicles Required 
+Two vehicles estimated during most of the day to provide an 
+adequate level of service, including at least one wheelchair-
+accessible vehicle. 
+Response Time 
+Less than 30 minutes 
+Trip Types Served 
+Ability to connect any two points within the zone. 
+Fare 
+Free 
+Hours/Days of Service 
+Monday – Friday, 6 AM to 8 PM 
+How to Request a Ride 
+Using a smartphone application or by calling in, available in both 
+Spanish and English 
+Cost Estimates 
+The recommended alternative is estimated to have an operations cost of about $600,000 per year. The 
+cost estimates are based on the following assumptions: 
+• 
+Turnkey operations, whereby Erie would contract with a third-party provider to operate the 
+service (including drivers), supply and maintain vehicles, and manage the booking platform and 
+performance metrics. 
+• 
+An average hourly cost per vehicle of $80. 
+• 
+Two vehicles operating 14 hours a day, five days a week. 
+• 
+One vehicle is wheelchair accessible. 
+In addition to the annual operating cost, it is estimated that the service will require a quarter to a half of 
+the full-time equivalent (FTE) of a Town staff employee to manage the contract with the vendor, collect
+=== page 70 ===
+70  
+and respond to customer inquiries, promote the service, review monthly performance metrics, plan for 
+adjustments in service parameters based on performance, and regularly coordinate with the vendor. 
+Target Markets 
+The top travel markets that will be served under the Erie Microtransit Service Plan include: 
+• 
+People traveling internally in the Town (which is not served well by transit service today), 
+particularly people with limited access to a vehicle and/or with lower incomes. 
+• 
+People wanting to travel to grocery stores within and outside Erie (including Walmart, the two 
+King Soopers, Safeway, and Sister Carmen Food Bank) and other retail establishments. 
+• 
+People from Erie traveling to medical appointments at the clinics near the Community Center, or 
+at the commercial centers on the southwest corner and southeast corner of Erie. 
+• 
+People from Erie traveling to access regional jobs, schools, and services along RTD’s bus and rail 
+network, particularly in Boulder, Longmont, Broomfield, and Downtown Denver. 
+• 
+Youth users for school trips, particularly accessing after-school activities and jobs, most notably 
+between Erie High School or Erie Middle School, and the Erie Recreation Center. 
+• 
+Commuters who work in Erie or visitors connecting via RTD. 
+Performance Estimates 
+System performance is assessed based on metrics such as the number of passenger trips completed per 
+day and the amount of time passengers have to wait between when a trip is requested and when the 
+vehicle arrives (the response time). Table 14 shows the preliminary performance estimates and goals for 
+Erie Microtransit. Each factor is described in more detail below. 
+Table 14: Performance Goals/Estimates 
+Passenger Trips 
+per Day 
+Passengers per 
+Service Hour 
+Average Response Time (goal) 
+Average Trip 
+Distance 
+Typical 
+Trip 
+Time 
+75-90 
+2.5 to 3.5 
+Less than 30 minutes and 90% of 
+trips fulfilled in 30 minutes or less 4.3 miles 
+10 
+minutes 
+Average Trip Time and Distance 
+The estimated number of trips per day is derived from the estimated average trip time, the estimated 
+amount of time vehicles will spend traveling between passenger trips, and the number of vehicles 
+available and based on the performance observed in similar microtransit programs. The average trip time 
+of 10 minutes is based on a sampling of potential trips within the proposed service area zone.

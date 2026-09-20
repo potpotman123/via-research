@@ -1,0 +1,182 @@
+# source: raw/bleecker_drive/Arlington, Texas/FTA-Report-No-0244.pdf
+# path: raw/bleecker_drive/Arlington, Texas/FTA-Report-No-0244.pdf
+# hit page: 31 of 74
+# terms: Via+vehicles
+
+=== page 30 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+21
+SECTION  | 3 
+Table 3-1 Monthly Ridership Performance Metrics
+Month
+Total 
+Rides
+Average Rider 
+Satisfaction 
+(out of 5)
+Average ETA 
+(minutes)
+Average 
+On-Time 
+Performance3
+Average 
+Shared Ride 
+Percentage
+Average 
+Acceptance 
+Rate
+March 23 to 
+April 30 2021
+1,043
+4.9
+6
+100%
+n/a
+74%
+May 2021
+732
+4.9
+6.7
+100%
+n/a
+80%
+June 2021
+1,260
+4.9
+9.1
+99%
+n/a
+90%
+July 2021
+1,601
+4.9
+9.6
+100%
+n/a
+93%
+August 2021
+2,697
+4.9
+12.6
+99%
+60%
+88%
+September 2021
+3,184
+4.9
+14.1
+99%
+66%
+82%
+October 2021
+3,404
+4.9
+14.0
+99%
+66%
+87%
+November 2021
+3,569
+4.9
+13.9
+99%
+63%
+88%
+December 2021
+2,608
+4.9
+11.8
+100%
+55%
+90%
+January 2022
+3,034
+4.9
+12.6
+99%
+63%
+89%
+February 2022
+2,967
+4.9
+15.5
+99%
+71%
+83%
+March 1 to 18 
+2022
+2,041
+4.9
+13
+100%
+62%
+75%
+Examining the average daily ridership by week across the demonstration 
+year also offers a helpful understanding of ridership demand and the ability 
+of RAPID to serve daily transportation needs for many people in the service 
+area. As shown in Figure 3-7, daily ridership averaged around 35 to 40 rides for 
+the first several weeks of demonstration, and then ridership began climbing 
+steadily at the end of May 2021 and over the summer. Ridership then increased 
+dramatically in August 2021, near the start of the UTA fall semester, climbing 
+to a peak of close to 200 rides per day in mid-November 2021. Ridership did 
+decline significantly in December 2021 and early January 2022, during the UTA 
+winter break, but then rose again dramatically with the start of the UTA spring 
+semester and remained strong through the conclusion of the demonstration in 
+mid-March 2022. 
+3 On-time performance is the percentage of booked trips picked up within the pick-up window and 
+dropped off within the estimated drop-off window.
+=== page 31 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+22
+SECTION  | 3 
+Figure 3-7 RAPID Daily Average Rides by Week for Demonstration
+It is important to note that while the wheelchair accessible AV was available for 
+service during the entire demonstration, there were no completed WAV rides 
+by members of the public booking through the Via platform. Two ride requests 
+during the year were mistaken for a WAV ride, though the passenger did not 
+require mobility assistance. In these two cases, the ride was completed with the 
+rider sitting in the front passenger seat of the Polaris GEM vehicle that had been 
+dispatched. For context, the City of Arlington operates ADA complementary 
+paratransit service for eligible persons whose disabilities prevent them from 
+independently using the fixed route system. The Via microtransit service also 
+provides wheelchair accessible rides, and 5 percent of all rides provided by this 
+service were for wheelchair accessible vehicles from March 2021 to March 2022. 
+The project team planned several events for riders with disabilities during the 
+demonstration, and RAPID did provide rides on the wheelchair AV during these 
+events, which provided very useful feedback on WAV design to the team. One 
+event was with the UTA Movin’ Mavs Wheelchair Basketball Team in May 2021, 
+and one was a research event planned by a team from the Texas Transportation 
+Institute (TTI) for people with limited mobility and vision in June 2021. Feedback 
+from the basketball team included items related primarily to vehicle design 
+– the need for grab bars by the wheelchair securement location, the need for 
+good air flow and air conditioning, and the need for a WAV that is the same as 
+for non-wheelchair passengers and allows for more than one rider to travel
+=== page 32 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+23
+SECTION  | 3 
+together. Feedback from the TTI event included the need for the vehicles to 
+provide audio cues for passengers with limited or no sight and to ensure that 
+vehicle stop locations are fully accessible. 
+Autonomy Performance Metrics 
+Several key autonomy metrics were tracked closely during the RAPID 
+demonstration to monitor performance of the AVs and address any necessary 
+changes to improve service. These items include total percentage of time in 
+automated mode, autonomy performance across the service area, and any 
+incidents with the vehicles or autonomy performance.  
+The RAPID service area is quite complex, with challenges to automated operations 
+including at-grade railroad crossings, unprotected left turns, and crossing a 
+state highway. Additionally, high levels of pedestrian and bicyclist activity and 
+construction projects contributed to challenges with autonomy during the 
+one-year demonstration. Given the complex environment, some portions of the 
+service area were unable to be driven in autonomy mode, such as unprotected 
+left turns, and the AVO would drive the vehicle in manual mode in these areas. 
+When the areas that required manual driving are removed, it is possible to better 
+understand how well the vehicles operated across all areas where they were 
+expected to be in fully automated mode. Figure 3-8 shows monthly average 
+autonomy percentage for the entire fleet across the service area. Monthly average 
+autonomy percentage represents the total percentage of time the vehicles were 
+operating in automated mode, filtered for times when the vehicles were in a 
+required manual zone, such as making an unprotected turn, or off-route for some 
+reason, such as driving around a temporary construction diversion.
+Figure 3-8 Monthly Autonomy Performance

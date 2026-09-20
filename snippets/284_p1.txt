@@ -1,0 +1,33 @@
+# source: raw/bleecker_drive/Arlington, Texas/FTA-Report-No-0244.pdf
+# path: raw/bleecker_drive/Arlington, Texas/FTA-Report-No-0244.pdf
+# hit page: 1 of 74
+# terms: Via Transportation
+
+=== page 1 ===
+APRIL
+20
+23
+Arlington 
+Rideshare, 
+Automation, 
+and Payment 
+Integration 
+Demonstration 
+(RAPID) Final 
+Report
+PREPARED BY
+City of Arlington
+Via Transportation, Inc.
+May Mobility
+University of Texas at Arlington
+FTA Report No. 0244
+=== page 2 ===
+COVER PHOTO
+Courtesy of City of Arlington, TX
+
+DISCLAIMER
+This document is disseminated under the sponsorship of the U.S. Department of Transportation in the interest of 
+information exchange. The United States Government assumes no liability for its contents or use thereof. The United States 
+Government does not endorse products or manufacturers. Trade or manufacturers’ names appear herein solely because 
+they are considered essential to the objective of this report. The opinions and/or recommendations expressed herein do 
+not necessarily reflect those of the U.S. Department of Transportation.

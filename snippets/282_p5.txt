@@ -1,0 +1,151 @@
+# source: raw/bleecker_drive/Arlington, Texas/Via_Contract_FINAL_Redacted.pdf
+# path: raw/bleecker_drive/Arlington, Texas/Via_Contract_FINAL_Redacted.pdf
+# hit page: 5 of 68
+# terms: Via+subscription
+
+=== page 4 ===
+(4) 
+commuter rail station and the Trinity Metro bus stops that may be directly accessed off of 
+Eastchase Parkway.   
+ 
+The service area may be revised and/or expanded upon request of the CITY and mutual 
+agreement of the parties. If service areas are non-contiguous, riders shall be able to travel 
+within (if applicable) and between all service areas.  
+ 
+H. 
+Service Parameters 
+THAT initial service hours shall match those included in Exhibit “A”, Scope of Services. 
+Service hours may change based on demand and resources and will be jointly reevaluated 
+and updated on a regular basis by the parties and mutually agreed upon. Service options 
+shall be made available for those without access to a smart phone or internet connection. 
+Payment options shall be made available for those without access to a credit card.   
+I. 
+Vehicles 
+ 
+THAT the CONTRACTOR shall use commercially reasonable efforts to monitor its 
+independent contractor driver partners to ensure the safe operation of the vehicles and the 
+commercially reasonable protection of its passengers and bystanders while operations are 
+being conducted.   
+ 
+The CONTRACTOR shall provide service using the vehicle fleet described in the Scope 
+of Services. ADA service needs must be met per FTA ADA regulations, but the type and 
+number of vehicles used to provide ADA service will be dependent upon demand and 
+change over the life of the service. CONTRACTOR shall use commercially reasonable 
+efforts to monitor its independent contractor driver partners to ensure all vehicles used for 
+the provision of service are cleaned and maintained in accordance with City and FTA 
+standards and requirements.  CONTRACTOR shall use commercially reasonable efforts 
+for vehicles used for the provision of service to be six (6) years or less in age, have less 
+than 150,000 miles and have passed the required inspection. This requirement may be 
+adjusted if CITY and CONTRACTOR mutually agree that an inadequate supply of 
+vehicles satisfy such criteria. Vehicles shall meet all EPA standards. At least fifty percent 
+of the non-ADA fleet shall be hybrid or electric at contract start, and one hundred percent 
+of the non-ADA fleet shall be hybrid or electric by the start of the second year of the 
+contract term. All vehicles in use in the fleet shall be cleaned, both in the interior and on 
+the exterior, at least twice a week.  
+      
+J. 
+Approved Operators 
+ 
+THAT the CONTRACTOR shall on a monthly basis provide CITY with a list of approved 
+operators who have been appropriately screened, background checked and drug and 
+alcohol tested to comply with all relevant federal, state and local regulations, with the first 
+list to be provided to City no less than five (5) days prior to the Rideshare Service start 
+date. Operators added to the list after such initial list is provided shall be made subject to 
+the same screenings, background checks and drug and alcohol tests referenced above.
+=== page 5 ===
+(5) 
+K. 
+Customer Service 
+ 
+THAT the CONTRACTOR shall provide access to customer service for CITY and riders 
+during all hours of service operation. Riders shall have immediate access to customer 
+service assistance via mobile application, text message, and telephone call at any point in 
+time when service is in operation, be provided with the ability to call their assigned driver 
+in the event of issues surrounding their pick-up, and have the ability to receive customer 
+service assistance by email after completing their ride. Customer service concerns related 
+to safety shall be addressed immediately and CONTRACTOR shall use commercially 
+reasonable efforts to report to the CITY within one (1) hour any customer service concerns 
+raising credible serious threats to the safety of customers or operators, as reasonably 
+determined by CONTRACTOR. CITY shall, upon request, have access to all customer 
+service comments, questions, requests or complaints through CONTRACTOR’s periodic 
+reporting as set forth in Section 9 of the Scope of Services, and a summary of all customer 
+service items shall be provided to the CITY on a quarterly basis. Upon request, 
+CONTRACTOR shall share recordings of customer service calls with the CITY.  
+ 
+The CONTRACTOR shall use commercially reasonable efforts to meet the following 
+customer service performance standards goals on a monthly basis, to be jointly reevaluated 
+and updated on a regular basis by the parties:  
+i. 
+Via will target a monthly average wait time of 1.5 minutes or less for all rider phone 
+calls, inclusive of both answered and abandoned calls. 
+ii. 
+Via will make a reasonable attempt to make contact with riders requesting a 
+callback from a supervisor within 48 hours.  
+ 
+L. 
+Marketing 
+THAT the CONTRACTOR shall engage in marketing activities throughout the life of the 
+Rideshare Service, including a combination of electronic marketing materials, promotional 
+events and subsidies, and online advertising. CITY shall collaborate on marketing activities 
+and promote the Rideshare Service through typical communication outlets such as social 
+media, website, print, presentations, and community meetings. 
+ 
+M. 
+Modification of Standard Terms and Conditions 
+THAT the following sections of the CITY OF ARLINGTON STANDARD TERMS 
+AND CONDITIONS are hereby modified as follows: 
+ 
+SOFTWARE LICENSE TO SELLER is deleted in its entirety and is modified to read 
+as follows: “RIGHT TO USE THE SELLER APPLICATIONS – Seller will grant 
+Buyer subscription, access, and use rights for the software applications identified by the 
+parties as necessary for the operation of the Demand Response Rideshare Service.” 
+ 
+23.  OWNERSHIP OF WORK PRODUCT is modified to add the following language to 
+the end of the section: “Notwithstanding the foregoing, all intellectual property rights in 
+and to the Seller’s software applications, the other elements of the Seller’s cloud-based 
+solution, and all of their derivative works and improvements are owned by, and are
+=== page 6 ===
+(6) 
+proprietary to the Seller, and no such rights are or shall be granted to or transferred to 
+Buyer.” 
+ 
+30.  INDEMNIFICATION is deleted in its entirety and is modified to read as follows: 
+“INDEMIFICATION – Contractor does hereby agree to waive all claims, release, 
+indemnify, defend and hold harmless the CITY and all of its officials, officers, agents 
+and employees from and against any and all third-party claims, losses, damages, suits, 
+demands or causes of action, and liability of every kind including all expenses of 
+litigation and/or settlement, court costs and attorney fees for injury or death of any 
+person or for loss of, or damages to, any property, arising out of or in connection with 
+the Contractor’s negligence gross negligence, willful misconduct, or breach of 
+applicable law in its performance of this contract.  Such indemnity shall apply 
+irrespective of whether the claims, losses, damages, suits, demands or causes of action 
+arise in part from the negligence of the CITY, its officers, officials, agents or 
+employees. CONTRACTOR agrees that this indemnification language is without 
+prejudice to the insurance coverage requirements herein.” 
+ 
+N. 
+Federal Transit Administration Clauses  
+THAT the following clauses required by the Federal Transit Administration are reiterated 
+here in the base contract and apply to the extent applicable: 
+ 
+1. FTA Clauses 
+This agreement incorporates by reference the following Federal Transit Administration 
+required clauses with the same force and effect as if set forth in full in the main text of the 
+agreement. It is understood and agreed that the Contractor is obligated by and to the CITY 
+for any specifications or documentation required of the CITY under these clauses. 
+   
+2. Preference for United States Products and Services 
+Except as the Federal Government determines otherwise in writing, the Recipient agrees 
+to comply with FTA’s U.S. domestic preference requirements and follow federal guidance, 
+including:  
+ 
+(a) Buy America. The domestic preference procurement requirements of 49 U.S.C. § 
+5323(j), and FTA regulations, “Buy America Requirements,” 49 CFR Part 661, to 
+the extent consistent with 49 U.S.C. § 5323(j);  
+(b) Cargo Preference–Use of United States-Flag Vessels. The shipping requirements 
+of 46 U.S.C. § 55305, and U.S. Maritime Administration regulations, “Cargo 
+Preference – U.S.-Flag Vessels,” 46 CFR Part 381; and  
+(c) Fly America. The air transportation requirements of Section 5 of the International 
+Air Transportation Fair Competitive Practices Act of 1974, as amended, 49 U.S.C. 
+§ 40118, and U.S. General Services Administration (U.S. GSA) regulations, “Use 
+of United States Flag Air Carriers,” 41 C.F.R. §§ 301-10.131 – 301-10.143.

@@ -1,0 +1,213 @@
+# source: raw/bleecker_drive/Baldwin/Contract.pdf
+# path: raw/bleecker_drive/Baldwin/Contract.pdf
+# hit page: 6 of 7
+# terms: Spare Labs
+
+=== page 5 ===
+5 
+ 
+XXVII. 
+Insurance.     Prior to performing services pursuant to this Contract, Provider shall carry, with 
+insurers satisfactory to County, throughout the term of hereof, Auto Liability Insurance, 
+including hired and non-owned vehicles, with limits of not less than $1,000,000, combined 
+single limit, for both bodily injury liability and property damage liability each occurrence, 
+Commercial General Liability Insurance, including all contractual liability hereunder, with 
+limits not less than $1,000,000, combined single limit, for both bodily injury liability and 
+property damage liability each occurrence, and Worker’s Compensation Insurance as 
+required under laws applicable to its employees and Employer’s Liability Insurance fully 
+covering all employees and supervisors participating in the work at the subject property site. 
+All liability insurance shall name the County as an additional insured. Prior to commencing 
+operations hereunder, a Certificate of Insurance evidencing such coverage, satisfactory to 
+County, shall be furnished to County, which shall specifically state that such insurance shall 
+provide for at least ten (10) days’ notice to County in the event of cancellation, termination, 
+or any change in such insurance policies.  Should Provider fail to furnish current evidence 
+upon demand of any insurance required hereunder, or in the event of cancellation, 
+termination or change in any such insurance, County may, at its option, suspend this 
+Contract until insurance is obtained, terminate this Contract immediately without further 
+action, or hold Provider in material default and pursue any and all remedies  
+available. 
+ 
+XXVIII. 
+Funding Source.  This procurement is to be funded in part through federal grants under the 
+Section 5311 Rural and 5307 Urban Transportation Programs. The Contractor must comply 
+with all terms and conditions for third-party contracts in those grant agreements.
+=== page 6 ===
+6 
+ 
+ 
+ 
+IN WITNESS WHEREOF, the parties hereto have executed this contract on the last day of execution by the 
+COUNTY as written below.         
+ 
+ 
+COUNTY  
+ 
+ 
+ 
+ 
+ 
+ATTEST: 
+ 
+__________________________________ 
+      ___________________________________ 
+MATTHEW P. MCKENZIE/                 Date 
+      ROGER H. RENDLEMAN/                   Date  
+Chairman 
+ 
+ 
+ 
+ 
+      County Administrator 
+ 
+ 
+ 
+ 
+ 
+State of Alabama 
+) 
+ 
+County of Baldwin  
+) 
+ 
+I,  
+ 
+ 
+ 
+Notary Public in and for said County, in said State, hereby certify 
+that, Matthew P. McKenzie, whose name as Chairman of Baldwin County Commission, and Roger H. 
+Rendleman, whose name as County Administrator, are known to me, acknowledged before me on this day 
+that, being informed of the contents of the Contract for Professional and Construction Services, they, as such 
+officers and with full authority, executed same knowingly and with full authority to do so on behalf of said 
+Commission. 
+           Given under my hand and official seal, this the _______ day of  
+ 
+, 2025. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+______________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+Notary Public 
+ 
+ 
+ 
+ 
+ 
+ 
+My Commission Expires 
+ 
+ 
+ 
+ 
+ 
+ 
+  PROVIDER:      
+      
+ 
+Spare Labs, Inc. 
+ 
+    ______________________________/________ 
+By __________________________/Date 
+Its ______________________________ 
+            
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+State of _____________) 
+ 
+County of ____________) 
+ 
+            I,                                           Notary Public in and for said County and State, hereby certify that 
+___________________ as ________________ of Spare Labs, Inc., whose name is signed to the foregoing in 
+that capacity, and who is known to me, acknowledged before me on this day that, being informed of the 
+contents of the foregoing, he executed the same voluntarily on the day the same bears date for and as an act 
+of said Spare Labs, Inc. 
+ 
+           GIVEN under my hand and seal on this the                 day of                           2025. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+_________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Notary Public 
+ 
+ 
+ 
+ 
+ 
+ 
+My Commission Expires
+=== page 7 ===
+REQUEST FOR PROPOSALS (RFP) FOR MICRO-TRANSIT SOFTWARE FOR PUBLIC TRANSPORTATION
+RFP AWARD LISTING
+VENDOR
+Spare Labs, Inc.
+Item
+Description
+Year 1
+Year 2
+Year 3
+A
+Base Operating Cost Per
+ $   19,200.00  $   20,160.00  $    21,168.00 
+B
+Operating Cost per Vehicle (1-30)
+ $     2,800.00  $     2,940.00  $      3,087.00 
+C
+Operating Cost per Additional Vehicle (30+)
+ $     3,300.00  $     3,465.00  $      3,638.25 
+D
+Transition Costs
+ $   15,378.00 
+ $  
+  -    $  
+   -  
+E
+Other Costs
+ $  
+  -    $  
+  -    $  
+   -  
+F
+Annual Service/Maintenance Cost
+ $   12,000.00  $   12,600.00  $    13,230.00 
+"ATTACHMENT A"

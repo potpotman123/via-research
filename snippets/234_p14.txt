@@ -1,0 +1,181 @@
+# source: https://legistar.granicus.com/LosAlamos/attachments/d4ed28e3-5da0-403c-aaa8-20fd558046f1.pdf
+# path: raw/cache/9e8dcba51a86916c33f88b1baedeefebe738b9ef.pdf
+# hit page: 14 of 81
+# terms: Spare Labs
+
+=== page 13 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+13 
+ Agreement Template Version: 04012024 
+for deliverables, Project phases, and milestones.  The Project Plan and Schedule 
+shall be subject to County Project Manager review and approval and Project 
+Implementation shall commence only after County approval of the Project Plan and 
+Schedule.   
+18.2. 
+Components Included in Implementation: The minimum components of the 
+Platform to be included in the Project Plan and Schedule shall include but are not 
+limited to: Admin Panel, Rider App, Driver App, Rider Web, Spare Launch, Spare 
+Analyze, and all optional Platform and Software functionality identified for 
+implementation in Exhibit A Table 6. 
+18.3. 
+Project Plan and Schedule Changes. The Project Plan and Schedule may be 
+adjusted throughout Project implementation upon written approval of the County 
+Project Manager and mutual written agreement of both Parties, which may be 
+provided via memorandum, electronic mail, or some other mutually agreed-upon 
+written method. If the Project Plan and Schedule is modified by Parties, Contractor 
+shall provide to County Project Manager an updated Project Plan and Schedule 
+reflecting the agreed-upon changes within five (5) business days of the mutual written 
+agreement of changes. Parties shall generally follow the following process to manage 
+changes to the Project Plan and Schedule during implementation: 
+ 
+18.3.1. 
+Contractor shall perform a thorough review of each change request to assess 
+its impact on Project objectives, budget, and timeline to ensure that all changes 
+are aligned with Project goals and County expectations. 
+ 
+18.3.2. 
+Contractor’s Project Team shall maintain strict controls over the Project timeline 
+and budget and shall monitor Project progress and identify potential deviations 
+from the approved Project Plan and Schedule to address issues promptly and 
+minimize their impact.  Any changes to the Project scope that impacts the 
+budgeted costs, shall not be implemented until the County has approved of such 
+changes in writing, and may require an amendment to the Agreement which 
+may, depending on the dollar amount change, if any, require approval of the 
+Los Alamos County Council. 
+ 
+18.3.3. 
+During weekly Project progress meetings during Project implementation, 
+Contractor shall discuss Project progress, potential changes, and their 
+implications to ensure transparency and alignment among the Project Team 
+members, See Section C(19).1. 
+ 
+18.3.4. 
+Contractor shall document all change requests outlining the reasons for the 
+change, the expected benefits, and any potential risks.  These documents shall 
+then be reviewed and approved by the County Project Manager and 
+Contractor’s authorized approver to maintain a clear audit trail of changes and 
+ensure that all modifications are well-justified, properly authorized, and made in 
+accordance with all terms and conditions of this Agreement. 
+ 
+19. Project Implementation and Training. Contractor shall commence implementation and 
+associated training on a mutually acceptable date as identified on the approved Project Plan 
+and Schedule, promptly following the Project initiation meeting.  All implementation and 
+training Services shall be provided by Contractor remotely off-site, unless otherwise requested 
+by County and mutually agreed to by both Parties, in which case, Contractor shall perform 
+Attachment A
+=== page 14 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+14 
+ Agreement Template Version: 04012024 
+Services on-site at the rates specified in Exhibit A. Contractor shall complete implementation 
+and training pursuant to the Project Schedule and Plan approved by the Parties with a 
+successful implementation and Launch to occur no later than twelve (12) weeks after the 
+Effective Date of this Agreement, unless extended by County in writing pursuant to Section 
+C(18.3). Contractor shall provide County, at a minimum, the following implementation 
+Services, fees for which shall be charged in accordance with Exhibit A: 
+19.1. 
+Weekly Project Progress Meetings. Throughout Project implementation, Contractor 
+shall schedule and facilitate weekly Project Progress meetings that shall cover, at a 
+minimum, the following: 
+19.1.1. 
+Project status and deliverables; 
+19.1.2. 
+Issue identification and issue resolution; 
+19.1.3. 
+Performance monitoring and optimization; 
+19.1.4. 
+Additional training and process development; and 
+19.1.5. 
+Recommendations to improve the Service delivery. 
+19.2. 
+Phase 1 (1 Day): Pre-Kickoff. Phase 1 begins after Notice to Proceed.  Contractor 
+shall perform a high-level review of the scope of the Project and Services described 
+herein and shall review any pertinent documentation provided by County. 
+19.3. 
+Phase 2 (5 Days): Project Kickoff. This Phase consists of the Project initiation 
+meeting and development and approval of the Project Plan and Schedule as 
+described in Sections C(17) and C(18), and Contractor shall complete all tasks and 
+deliverables for this Phase as described in those Sections. 
+19.4. 
+Phase 3 (21 Days): Plan.   
+19.4.1. 
+Data Migration Plan.  Contractor shall, in coordination with the Project Team, 
+create a Data Migration Plan, using the approach to data conversion and 
+migration described in Exhibit I, or a substantially similar approach acceptable 
+to the County Project Manager.  The Data Migration Plan shall include, but is 
+not limited to the following:  
+19.4.1.1. 
+Rider Data Importation Plan.  Contractor shall, in coordination with the 
+Project Team, create a Rider Importation Plan to migrate County’s 
+existing Rider data from its current system, Adept by Stratagen, and 
+import it into the Platform.  Contractor shall map Rider fields from 
+County’s system into the Platform using Contractor’s flexible custom 
+fields and profile importation functionality.  Contractor shall identify the 
+configurations in County’s current system of its services, vehicles, 
+users, and other pertinent objects; shall map and migrate these 
+configurations into the Platform’s configuration parameters; and shall 
+ensure seamless transition of Rider data between County’s current 
+system and the Platform.  
+19.4.1.2. 
+Adding Users to Platform as Part of the Rider Data Importation 
+Plan. Contractor shall complete a bulk import of users in a CSV file to 
+the Platform and shall work with the Project Team to add any that may 
+have been missed during the bulk import. Contractor Project Manager 
+Attachment A
+=== page 15 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+15 
+ Agreement Template Version: 04012024 
+shall train the County Project Team members to perform this bulk import 
+and shall continue to be a primary point of contact for questions 
+regarding the bulk import process.  
+19.4.1.3. 
+System Operations Transition Plan.  Contractor shall complete a bulk 
+import of County’s existing scheduled trips from its current system into 
+the Platform to ensure that trips booked prior to Project implementation 
+are entered into the Platform prior to Launch. Contractor’s Customer 
+Success Team shall monitor the transition and use the System 
+Operations Transition Plan to track overall progress.  Contractor shall 
+coordinate with County to start booking trips into the Platform ahead of 
+Launch.  
+19.4.2. 
+Other Phase 3 Tasks. Contractor shall, in coordination with the Project 
+Team, complete other tasks during Phase 3, as follows: 
+19.4.2.1. 
+Finalize the service design and configuration parameters and create 
+service(s) based on parameters to inform Contractor’s routing 
+algorithms, and discuss fare and payment strategy, if applicable to 
+County. 
+19.4.2.2. 
+Develop operational Microtransit and Paratransit process and workflow 
+documentation and create and validate a Business Disaster Recovery 
+Plan as it relates to County’s Microtransit and Paratransit processes and 
+the Platform. 
+19.4.2.3. 
+Remotely assist County with driver device and vehicle set up, and add 
+drivers, booking agents, and schedulers to the software. County shall 
+be responsible for ensuring that driver devices are properly installed in 
+County vehicles.  
+19.4.2.4. 
+Assist County with promotion of its Microtransit and Paratransit services 
+to the public at no additional cost to County, as defined during the 
+Project initiation meeting, including but not limited to holding remote 
+public workshops at County request, sharing best practices on 
+promoting new services, providing graphics, and social media support 
+based on County’s marketing scope, to be determined by the Project 
+Team. Contractor shall continue to provide such promotional and 
+marketing support to County throughout Project implementation, as 
+determined necessary by the Project Team. 
+19.4.2.5. 
+Create a training plan that conforms substantially to the Training 
+Program described in Exhibit H and schedule training sessions to be 
+completed by the end of Phase 6 with all County trainees identified by 
+the County Project Manager, including but not limited to, drivers, 
+dispatchers, schedulers, booking agents, administrators, and data 
+analysts.  
+19.5. 
+Phase 4 (21 Days) Configure. Contractor shall: 
+Attachment A

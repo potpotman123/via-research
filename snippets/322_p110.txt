@@ -1,0 +1,178 @@
+# source: raw/bleecker_drive/Hillsborough County/Completed Contract File.pdf
+# path: raw/bleecker_drive/Hillsborough County/Completed Contract File.pdf
+# hit page: 110 of 199
+# terms: Via+SaaS
+
+=== page 109 ===
+Paratransit Operations Expert:
+Alex Lavoie will be personally
+involved in the service design and
+operations outcomes of
+Hillsborough’s paratransit service.
+Alex Lavoie is one of the country’s
+most experienced operators of
+tech-enabled demand-response and
+paratransit services. He has launched
+and operated services that
+successfully move millions of
+passengers every year.
+About Alex:
+Alex is the Chief of Operations at
+Via with:
+●
+13 years of professional
+experience
+●
+9 years in an executive
+role at Via
+●
+More than 200 services
+launched and managed
+Dedicated Project Manager:
+Rachel Birnbaum is a recognized
+expert in paratransit technology and
+operations. Rachel will be the
+County’s dedicated Project Manager,
+as we believe that successful
+implementations depend on high
+touch, on-the-ground involvement
+and change management support.
+About Rachel:
+Rachel leads Via’s launch team
+across North America and
+Canada with:
+●
+12 years of professional
+experience
+●
+Over 60 services
+launched including 30
+paratransit services and 8
+routematch replacements
+In-Person Launch Manager:
+We are committed to providing
+dedicated, on-the-ground training
+and support for Hillsborough County’s
+staff. Via’s dedicated launch team will
+be led by Jahan Nanji and will deliver
+a customized, hands-on training
+program to ensure that all relevant
+Hillsborough County personnel are
+equipped to use the Via platform and
+operate the service successfully.
+Jahan specializes in data migration
+from legacy systems and will ensure
+a seamless transition of existing
+account and trip information.
+About Jahan:
+Jahan is a seasoned Principal on
+our Launch team with:
+●
+5 years of professional
+experience
+●
+Over 30 services,
+including 10֡ paratransit
+services, launched
+●
+Over 15 successful data
+migrations led, including
+the migration of Hampton
+Roads Transit’s 8,000֡
+rider accounts
+Proprietary, Confidential, and Trade Secret Information
+RFP‐23‐24177 | 6
+=== page 110 ===
+Product and Operations Support:
+Hillsborough County's dedicated
+Partner Success Manager, Michael
+Hutchinson, is the cornerstone of our
+unique support program. Michael will
+coordinate with the numerous teams
+within Via to provide the County with
+the support needed to drive improved
+service outcomes. Via will also
+provide Hillsborough County with
+24/7 technical support, robust data
+security practices, and escalation
+channels.
+About Michael:
+Michael oversees the success of
+our SaaS partners and brings:
+●
+8 years of professional
+experience Մ2֡ at Via)
+●
+Supporting partners on
+over 20֡ services
+●
+Drove successful
+outcomes for 5 partners
+undergoing Routematch
+replacements
+Additionally, by partnering with Via, our dedicated project team will be supported by several of our
+in-house specialist teams that will work hand-in-hand with the Sunshine Line team to ensure
+ongoing service adoption, a smooth transition for paratransit riders, and strong partnerships with
+local community organizations:
+●
+Tess Gebretensai, Community Engagement Lead
+●
+Dan Berkovits, VP of Strategy and Transit Consulting
+1.5 Understanding of Project and Requirements
+We understand that Hillsborough County is seeking a cloud-based Software-as-a-Service ՄSaaSՅ
+Paratransit Scheduling Software System for their Sunshine Line service. This software system will
+include client-facing applications and in-vehicle mobile data computers ՄMDCs) and encompass
+various functionalities, including client eligibility management, trip reservations (both advance and
+real-time), bus pass issuance, manual and fully automated trip scheduling, dispatch, automatic
+vehicle tracking ՄAVLՅ, billing, and reporting. Through this system, the County aims to replace their
+existing Routematch scheduling software and MDCs, convert existing client and trip data to this
+new platform, and benefit from proposed process and technology enhancements that align with
+the County’s objectives.
+Based on the RFP’s described project and envisioned system, we are excited to propose our
+advanced software solution, configured to meet the Sunshine Line’s operational goals,
+accompanied by comprehensive partner support to ensure the long-term success of the Sunshine
+Line. Throughout this proposal, we draw on our vast experience performing seamless Routematch
+software replacements and serving large-scale paratransit and Transportation Disadvantaged
+program partners in Florida and beyond.
+Proprietary, Confidential, and Trade Secret Information
+RFP‐23‐24177 | 7
+=== page 111 ===
+2. Experience
+2.1 Steps to Ensure Project Completion
+We at Via have a deep understanding and appreciation for the operational and human
+considerations key to implementing paratransit scheduling software. Through our on-the-ground
+experience working with riders, drivers, and dispatchers, we have come to understand both the
+intricate and holistic needs of transit software users. We have delved into every component of our
+partners’ transportation systems, digitizing solutions and integrations for paratransit, on-demand,
+social services, and fixed-route transportation. In doing so, we have gradually built up a software
+solution for integrated mobility and a one-stop-shop for service planning and delivery.
+To ensure the successful completion of this project in a timely manner with RFP requirements met,
+we will employ our tried and tested implementation practices (please refer to Section 3.7ր
+Implementation Plan for details) based on our detailed scoping of all requirements (each addressed
+throughout Section 3ր Technical Approach).
+Additionally, in both software configuration and project implementation, Via’s teams take a
+comprehensive approach to risk management, putting various checks in place to ensure we deliver
+high-quality, on-time deliverables for each component of the project. Below, we outline five
+common risks associated with projects similar to the County’s own paratransit
+Routematch-replacement service and highlight our proven risk mitigation strategies for each:
+●
+Shift to updated technology. Via recognizes that the introduction of new technology may
+be unfamiliar and confusing for users who are accustomed to the previous Routematch
+system. Via has accumulated specific expertise, both virtually and in-person, in helping
+administrators and members of the public acclimate to the intuitive Via platform. For
+example, in Montana, Via transitioned Blackfeet Transit’s service from Routematch and
+grew ridership by 162%, with over half of the service’s ridership being accessibility
+riders. Our success with the transition and expansion of services like this one goes to
+show our proficiency in evolving services from Routematch and other legacy providers to
+the Via system.
+●
+Data collection and consistency. Risks related to Via’s standard methods of data
+collection are quite low — potential risks come with the acquisition and use of data from
+existing software providers and other third-party sources. These risks can be mitigated by
+understanding the quality of available data and the speed at which it can be collected early
+in the project schedule. We have significant experience migrating data from Routematch
+and, by working on the ground with the County, we will seek to gain an understanding of
+the quality of the County’s data early on and develop a plan for mitigating any data
+collection and migration risks.
+Proprietary, Confidential, and Trade Secret Information
+RFP‐23‐24177 | 8

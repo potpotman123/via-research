@@ -1,0 +1,228 @@
+# source: raw/bleecker_drive/Lee County/RFP250034SML Via Mobility Executed.pdf
+# path: raw/bleecker_drive/Lee County/RFP250034SML Via Mobility Executed.pdf
+# hit page: 68 of 171
+# terms: Via+fleet, Via+vehicles
+
+=== page 67 ===
+VER 06-12-24 
+ 
+31 RFP250034SML – LeeTran Paratransit Software Management 
+ 
+DETAILED SPECIFICATIONS 
+ 
+1. PROJECT DESCRIPTION 
+ 
+1.1. Lee County Transit (LeeTran) created an environment where travelers have safe mobility options, 
+ensuring reliable, informed, and efficient travel in a multi-modal network to include ADA paratransit 
+service. This reservation based, Door-to-Door service operates within Lee County, Florida, and 
+currently schedules upwards of 700 daily passenger trips during peak operational periods (seasonal 
+months). This service fosters a traveler-centric transportation system, providing improved mobility 
+options to users efficiently and safely. To enhance this service, LeeTran seeks a paratransit, scheduling 
+software that is 100% cloud-based and includes a web-portal. 
+  
+2. BACKGROUND 
+ 
+2.1. LeeTran recognizes the rapid growth of the shared mobility industry, autonomous vehicles, Mobility-
+on-Demand technologies, and other service innovations. It is also understood that solutions to serving 
+customer mobility needs do not necessarily fit into narrow product categories. Therefore, LeeTran is 
+seeking proposals in the paratransit/mobility services industry. 
+ 
+2.2. The Scope of Work outlines potential service providers, technology sectors, and additional Mobility-
+as-a-Service product categories that LeeTran will consider for selection under this solicitation. This 
+approach aims to enhance LeeTran's existing paratransit services and integrate new mobility solutions 
+to improve overall service efficiency, reliability, and customer satisfaction. 
+ 
+3. OBJECTIVES 
+• Access mobility products and/or services to serve as supplements or alternatives to traditional fixed-
+route service. 
+• Allow LeeTran to address demands of various ridership markets, including wheelchair accessible 
+mobility solutions, and services for senior and disabled populations. 
+• Provide economical transportation solutions to communities currently served or with potential to be 
+served by LeeTran. 
+• Gather ridership data to identify and implement service improvement opportunities. 
+• Integrate innovative mobility technologies to provide customers with the ability to plan, book, and pay 
+for travel across different modes, including online portals, mobile applications, and payment systems. 
+• Offer the ability to book trips via an app at any time of day (24 hours/7 days a week, 365 days a year 
+based on LeeTran’s service rules). 
+• Leverage funding sources to support mobility service delivery. 
+ 
+4. CURRENT USAGE/DATA 
+1. Vehicles available for use – 60 
+2. Vehicles in use - 42 and charges shall be based on the maximum vehicles in service for any given 
+month. 
+3. Current administrative Users – Six (6) Dispatch/Supervisors, two (2) schedulers,10 (10) Customer 
+Service Associates and (3) Managers/Administrators 
+4. Daily Trips – Approximately 550-700 per day 
+ 
+ 
+End of Detailed Specifications 
+EXHIBIT E - PROJECT FUNDING PACKAGE
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7
+=== page 68 ===
+VER 06-12-24 
+ 
+32 RFP250034SML – LeeTran Paratransit Software Management 
+ 
+SCOPE OF WORK 
+ 
+1. Demand-Response Rideshare Service 
+ 
+1.1 
+Lee County Board of County Commissioners on behalf of Lee County Transit (LeeTran) is 
+requesting proposals to contract with a skilled and qualified Vendor to provide for a paratransit 
+service software management system for a scheduled, dynamic mobility service that can 
+primarily book and schedule trips. The software must utilize an online platform application 
+accessible via mobile devices that can communicate in English, Spanish, and Haitian-Creole. 
+ 
+1.2 
+The Vendor shall provide a software management system that meets or exceeds the 
+requirements of the specifications as described herein as well as within the attached Attachment 
+2 – Compliance Matrix. 
+ 
+1.3 
+This system shall be dynamic in terms of its ability to adapt and adjust in real-time and based on 
+current conditions. 
+ 
+1.4 
+LeeTran requires but is not limited to ‘Self-dispatch’ solutions that provide customers a direct 
+portal to personally book transportation for door-to-door, transportation requests. 
+ 
+1.5 
+This product shall include continuous dynamic optimizing of trips to the best vehicle/route 
+throughout the day to ensure on-time performance of all requested rides. 
+ 
+2. Services  
+ 
+2.1 
+This System must include a payment process formatted for reporting delivery method (API 
+ 
+Integration) for passengers to utilize the app for payment or paying cash on the vehicle. 
+ 
+2.2 
+LeeTran must also have the ability to book a trip on behalf of Agency Users who do not have 
+ 
+the App. 
+ 
+2.3 
+System shall have a shared rider matching algorithm to improve subsidy per ride and data 
+ 
+reporting. 
+ 
+2.4 
+System shall have a Fleet Tool - Real-time tracking of Agency’s fleet (CAD/AVL) of transit 
+ 
+vehicles and ability to communicate in real-time with fleet driver/operators. 
+ 
+2.5 
+System shall have access to Agency specific customization and configurability options, 
+ 
+including 
+driver 
+management, 
+driver 
+performance, 
+vehicle 
+management, 
+live 
+ 
+map/dispatching, and driver communication tools. 
+ 
+2.6 
+System shall be accessible to persons with disabilities through a website portal and mobile 
+ 
+application. 
+ 
+3. Access to Technology Platforms for Transit Agencies 
+ 
+3.1 
+System shall have the ability for LeeTran’s User Administration to add or remove authorized 
+ 
+users to LeeTran Agency Account.  
+ 
+EXHIBIT E - PROJECT FUNDING PACKAGE
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7
+=== page 69 ===
+VER 06-12-24 
+ 
+33 RFP250034SML – LeeTran Paratransit Software Management 
+ 
+3.2 
+System shall have an agency specific data and dashboard information to better understand 
+ 
+rider travel patterns to include customization and configurability features for the Fleet Tool 
+ 
+and other operational tools. 
+ 
+3.3 
+System must Enable real time rider feedback on quality issues via mobile application and 
+ 
+access to book trips via an app, provided any time of day (24 hours/7 days a week, 365 days a 
+ 
+year) and solution must be fully functional via Chrome, pre-scheduling trips with a turn-key 
+ 
+product. If another browser is essential to system operation, offeror must indicate required 
+ 
+browser to be used. 
+ 
+3.4 
+System must provide Administrative and Dispatcher user interface and shall be simple, 
+intuitive, and easy to use. A LeeTran Administrator, as determined by LeeTran, shall have the 
+ability to create new accounts for instant login.  
+ 
+3.5 
+Software shall provide at least three (3) account privileges (dispatcher/scheduler, viewer, 
+ 
+administrator, etc.) with a minimum of twenty-five (25) staff requiring access to the 
+ 
+system and support concurrent logins with no degradation of performance.  
+ 
+3.6 
+System shall back-up and protect, for a minimum of five years: 
+ 
+3.6.1 Any software configuration settings 
+ 
+3.6.2 Any LeeTran provided data that has been modified for use by the software 
+ 
+3.6.3 Any new data produced by the software itself 
+ 
+3.6.4 Continue to be accessible in the event the contract is terminated during this period of 
+ 
+time.  
+ 
+3.7 
+Software shall be the current version and compatible with the LeeTran Android  
+ 
+tablets. Software must ensure that LeeTran is utilizing the latest approved and beta-tested 
+ 
+software version available.  
+ 
+4. Platform-As-A-Service 
+ 
+4.1 
+This service shall include software, apps, and technology solutions allowing for the use of 
+ 
+ 
+personal devices and/or smartphones as a portal for multimodal service options. 
+ 
+4.2 
+Software and apps must allow a customer to book transportation services across several  
+ 
+ 
+mediums to include personal devices and/or smartphones, LeeTran customer service, and  
+ 
+ 
+ability to pay with cash through the on-board farebox. 
+ 
+4.3 
+Software must have the ability to integrate with existing systems to include LeeTran Android 
+ 
+ 
+tablets. 
+ 
+4.4 
+Firm must have flexibility and willingness to create APIs (Application Programming  
+ 
+ 
+Interface) and cross-platform solutions.  
+EXHIBIT E - PROJECT FUNDING PACKAGE
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7

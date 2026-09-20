@@ -1,0 +1,101 @@
+# source: https://legistar1.granicus.com/McKinney/attachments/abb0b9be-9c15-4174-9e04-7b9d82941c25.pdf
+# path: raw/cache/5e92fe54da67feb112756b4c03bca94101b9439a.pdf
+# hit page: 16 of 50
+# terms: Spare Labs
+
+=== page 15 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+We assume that neighborhoods with high proportions of low-income, non-white, carless, 
+high-school-educated residents are the most likely to have high demand for (micro)transit.  
+ 
+To model the ‘attractiveness’ of a location for jobs, each random point was also matched to 
+total jobs data at the CBG level from the US Longitudinal Employer-Household Dynamics 
+Origin-Destination Employment Statistics (LODES) survey.  
+ 
+To model the attractiveness of a location for recreation, the number of shopping and 
+entertainment points of interest (POIs) available within a 500 m radius of each random 
+point was calculated using a services mapping API. The same was done for healthcare 
+locations (hospitals and clinics) to estimate healthcare demand.  
+ 
+Finally, origins and destinations were randomly paired together, based on the weightings 
+produced by the Demand Generator tool. We added a ‘trip distance’ weighting to reflect the 
+distribution of trip lengths typically taken on the CCT taxi service. Figure 7 displays the 
+relative distribution trips by distance, which was used to weight the distance of each trip 
+appropriately to ensure mostly shorter trips would randomly occur in our model. We 
+limited the maximum trip distance to 30 miles for all trip types except DART connections, to 
+prevent unrealistically long trips occurring by chance in our trip distribution model. 
+DART-connecting trips were capped at 60 miles in the model, which essentially allows any 
+rider in the MUTD zone to connect with Parker Road Station. 
+ 
+Thousands of O-D pairs were generated in this way, which were then fed into the Spare 
+Realize platform. 
+ 
+ 
+Figure 7.The distribution of trip distances in the CCT service, which was used to weight the likelihood of 
+each randomly generated O-D pair. 
+ 
+14
+=== page 16 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+Distributing trips temporally 
+ 
+To distribute simulated trip requests realistically, we estimated the distribution of each trip 
+type throughout a typical day. Most trips in Collin County are undertaken by car, owing to 
+the lack of public transportation options. CCT’s travel survey asked respondents at which 
+times they were most likely to travel on each day of the week, which gives some indication 
+about demand throughout a typical day.  
+ 
+Figure 8 shows the relative distribution of travel occurring throughout the day in both cars 
+and ‘other’ modes (principally on-demand such as ride-hailing and taxis, cycling and 
+walking). Peak travel happens between the hours of 3pm and 6pm, and the least busy 
+travel period is from 12pm to 3pm. 
+ 
+ 
+Figure 8.The distribution of transport modes (car vs other) at different times of day in Collin County. 
+ 
+By disaggregating the stated travel times from the survey by trip type where possible, and 
+combining the data with that of Spare-run microtransit services in similar cities, it is 
+possible to derive approximate distributions of likely travel times across a day in Collin 
+County. The distributions shown in Figure 9  were used to assign realistic (yet randomized) 
+travel times to each trip in the O-D generation step. 
+ 
+ 
+15
+=== page 17 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+ 
+Figure 9. Modelled time distributions for each major trip type, based on travel survey data and known 
+distributions in similar microtransit services operated by Spare.  
+ 
+CCT’s current operations run from 6am to 6pm on weekdays and 8am to 6pm on 
+Saturdays, and are set as a function of dispatcher shifts. There are no services on Sundays. 
+CCT’s travel survey suggests that 10–20% of respondents tend to travel after 6pm, either 
+for night shift work or from entertainment and dining venues. Given the vast 
+improvements offered by Spare Platform in administrative and operational functions, it is 
+possible to run these services for longer hours at a proportional lower operational cost. We 
+therefore ran a separate set of simulations assuming extended service hours, from 6am to 
+midnight (12am).  
+ 
+In this report we present results from simulations of both current weekday service hours 
+(6am–6pm) and extended service hours (6am–12am). Based on the travel survey data, we 
+estimate that running longer service hours will boost service utilization by 15%, so the total 
+ridership in these simulations is adjusted accordingly (Table 3). 
+ 
+Table 3. Estimated daily ridership for different demand scenarios, assuming extended service hours. 
+ 
+ 
+Low demand 
+Medium demand 
+High demand 
+Total trips 
+(6am–12am) 
+60 
+75 
+98 
+ 
+ 
+ 
+ 
+ 
+ 
+16

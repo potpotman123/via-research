@@ -1,0 +1,88 @@
+# source: raw/bleecker_drive/0.0 OMNIA Cooperative Agreement/25-08_Via_Transportation_Response_Combined_2025_05_01_Redacted__1___1_.pdf
+# path: raw/bleecker_drive/0.0 OMNIA Cooperative Agreement/25-08_Via_Transportation_Response_Combined_2025_05_01_Redacted__1___1_.pdf
+# hit page: 112 of 191
+# terms: Via+drivers, Via+vehicles
+
+=== page 111 ===
+including license plate, driver name, driver 
+photo, and vehicle ID number, in addition to 
+being able to track their vehicle’s real-time 
+progress in the Via Rider App. Riders will also 
+have the option to scan a QR Code on the 
+vehicle upon boarding to ensure they are 
+entering the correct vehicle.​
+●
+Minimized Driver Distraction. Drivers’ in-app
+tasks are intentionally limited in order to minimize distractions and allow them to
+concentrate on driving safely. Drivers are instructed to interact with the app or with
+Via support only when stopped safely.
+●
+Monitoring: We regularly monitor driver performance, rider feedback, and vehicle
+condition to ensure a safe and secure environment for both drivers and
+passengers. Via agents will evaluate and take appropriate action to address any
+risk to driver and passenger security. We utilize in-vehicle video recording with
+auto-save features to document any traffic violations or near-misses, ensuring
+clarity in our safety processes. Additionally, our preventative tools leverage AI
+technology to detect potentially risky in-vehicle behaviors, complemented by audio
+alerts that help drivers avoid accidents before they occur.
+●
+Vehicle Inspections and Maintenance: Via trains driver
+partners to complete pre-trip inspections, schedules
+maintenance checks through provided software, and
+ensures that all performed maintenance is recorded.
+Preventative maintenance is scheduled to avoid service
+disruption, and vehicles are removed from service if they
+sustain damage that impairs safe operation.
+●
+Emergency Response Procedures: We have established
+comprehensive plans and procedures for live operations
+accident response, including handling emergency equipment, managing road
+emergencies, addressing customer issues, conducting site evaluations, and
+responding to adverse weather and biological hazards. These proactive measures
+ensure we are prepared for any situation, reinforcing our commitment to safety in
+every aspect of our operations.
+    RFP No. 25-08  |  26
+=== page 112 ===
+●
+Awareness: To further enhance communication, recognition, and awareness of
+best practices in vehicle operations safety, we host events that bring together
+drivers and stakeholders. Our comprehensive initiatives consist of leading safety
+workshops, conducting thorough vehicle audits, and executing targeted marketing
+campaigns. Importantly, our safety program not only meets but exceeds FTA
+targets and averages, reflecting our commitment to excellence in safety and
+accident management.
+In April 2024, Via hosted our first Safety Month to elevate safety 
+awareness across our services. In total, about 500 drivers attended a 
+safety workshop, about 800 vehicles underwent an audit, and 700 
+riders received a preventative safety message in this highly 
+successful celebration of Via’s safety culture. 
+ii. Describe the processes and safeguards you have in place to protect
+customer data and information.
+Proprietary, Confidential, and Trade Secret Information​
+    RFP No. 25-08  |  27
+=== page 113 ===
+iii. Describe in detail any and all company training for approved drivers and/or
+staff.
+Via has trained tens of thousands of system
+users and drivers across our global deployments,
+and each of our customers receives customized
+training to suit individual needs. These trainings
+include live workshops and hands-on
+experiences in the classroom and in the field, as
+well as suites of written documentation and
+online / virtual sessions. Our training is always included as standard in all our offerings,
+and training is provided by Via employees. No additional costs apply in order to access
+our training program, and we are always happy to provide refresher training, new-hire
+training, and other updates to our customers free of charge. Below
+we have outlined the details of our training programs for all
+relevant staff who interact with our platform.
+Driver Training 
+All Via drivers are taken through a rigorous training program to 
+ensure that they are fully prepared to deliver safe and high quality 
+on-demand transit service. Our structured driver and staff training 
+program ensures compliance with relevant safety regulations and 
+customer performance expectations. We offer multiple classroom 
+programs to cover the essentials of providing safe and reliable 
+service, such as comprehensive training regarding the Driver App, 
+Proprietary, Confidential, and Trade Secret Information​
+    RFP No. 25-08  |  28

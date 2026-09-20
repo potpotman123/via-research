@@ -1,0 +1,96 @@
+# source: raw/bleecker_drive/Arlington, Texas/FTA-Report-No-0244.pdf
+# path: raw/bleecker_drive/Arlington, Texas/FTA-Report-No-0244.pdf
+# hit page: 9 of 74
+# terms: Via Transportation, Via+fleet
+
+=== page 8 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+viii
+Acknowledgments
+The authors would like to thank the members of the RAPID Project Team who 
+participated in the project and contributed to the development of this report:
+Alicia Winkelblech
+Director of Transportation, City of Arlington
+Ann Foss
+Transportation Planning and Programming Manager, City of Arlington
+George Brighten
+General Manager, Via 
+Meghan Grela
+Autonomous Mobility Lead, Via 
+Rob Carter
+Customer Operations Manager, May Mobility
+Nick Leone
+Customer Success Manager, May Mobility
+Greg Hladik
+Executive Director of Auxiliary Services, University of Texas at Arlington
+Sharareh Kermanshachi
+Associate Professor of Civil Engineering, University of Texas at Arlington
+=== page 9 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+ix
+Abstract
+The Arlington Rideshare, Automation, and Payment Integration Demonstration 
+(RAPID) project is an integration of a shared, dynamically routed automated 
+vehicle (AV) fleet into an existing public rideshare system in Arlington, Texas. 
+The City of Arlington, working with Via Transportation, Inc., May Mobility, 
+Inc., and the University of Texas at Arlington (UTA), led the demonstration 
+from March 23, 2021, to March 18, 2022, in a one-square-mile area that 
+included Arlington’s downtown and the UTA campus. Over the one-year RAPID 
+demonstration, a total of 28,140 rides were provided with no safety incidents or 
+accidents, successfully demonstrating that an AV service could be seamlessly 
+integrated into an existing on-demand rideshare service and that the public 
+would accept automated rides. Rider feedback showed that riders felt safe, 
+enjoyed the service, and appreciated the free fares for UTA students. Autonomy 
+performance improved over the course of the year as the project team and AV 
+technology learned and adapted to the demonstration area. Findings from the 
+RAPID project can be used to improve automated, shared public transit services 
+in other locations, particularly concerning safety, technology, design of service 
+parameters, communication, and public perception. Data from operational 
+elements and from surveys, interviews, and focus groups provide helpful 
+analysis, conclusions, and recommendations that can be used by others seeking 
+to deploy similar services. The City of Arlington and its partners will continue to 
+operate the RAPID service, incorporating lessons learned to improve and grow 
+the service and its benefits to the community.
+=== page 10 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+1
+Executive Summary
+The Arlington Rideshare, Automation, and Payment Integration Demonstration 
+(RAPID) project is an integration of a shared, dynamically routed automated 
+vehicle (AV) fleet into an existing public rideshare system in Arlington, Texas. 
+The City of Arlington, working with Via Transportation, Inc., May Mobility, Inc., 
+and the University of Texas at Arlington (UTA), led the demonstration from 
+March 23, 2021, to March 18, 2022, in a one-square-mile area that included 
+Arlington’s Downtown and the UTA campus.
+Background
+Arlington, Texas is in the middle of the Dallas-Fort Worth metropolitan region, 
+one of the fastest growing regions in the United States. It is the 50th largest 
+city in the country, with a population of nearly 400,000 residents in an area of 
+99 square miles. Over the past few decades, Arlington has transitioned from 
+a bedroom community to a core city, with growing transportation needs. In 
+2017, the City implemented a fully on-demand rideshare service, powered 
+by Via Transportation, Inc. (Via), which uses a fleet of six-passenger vans to 
+provide shared rides anywhere within the city limits. The City also completed 
+two previous AV pilot programs, with the goals of testing AV technology in real 
+world settings and educating residents and staff about AV technology to help 
+encourage acceptance. The City desired to test integration of AV technology in 
+the existing on-demand rideshare service to better serve core areas of the city 
+and underserved populations, which was made possible by the Federal Transit 
+Administration’s (FTA) Integrated Mobility Innovation (IMI) award.
+Objectives
+The City of Arlington and its partners designed this project to provide a 
+blueprint for combining AV and rideshare technologies to develop effective, 
+efficient, safe, and accessible transit networks in a low-density setting where 
+traditional fixed-route transit is impractical. Additionally, the RAPID project was 
+designed to be a flexible and integrated transit system that delivers convenient 
+mobility for all riders. This service aimed to improve road safety, expand transit 
+options for riders with limited mobility, and make Arlington’s existing rideshare 
+platform more efficient, as well as benefit students traveling in and around 
+campus and Arlington’s downtown through free rides for UTA students. On top 
+of the direct benefits to the Arlington community, this project was expected 
+to generate insights to advance AV and ridesharing practices across the transit 
+industry. Specific RAPID project objectives included:
+•	 Increased access for senior citizens, students, and individuals with 
+disabilities
+•	 Improved equity and accessibility to public transit
+•	 Improved safety and efficiency

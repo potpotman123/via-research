@@ -1,0 +1,115 @@
+# source: https://legistar1.granicus.com/McKinney/attachments/abb0b9be-9c15-4174-9e04-7b9d82941c25.pdf
+# path: raw/cache/5e92fe54da67feb112756b4c03bca94101b9439a.pdf
+# hit page: 38 of 50
+# terms: Spare Labs
+
+=== page 37 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+ 
+2 dedicated vehicles + 
+2 non-dedicated vehicles 
+(Medium demand, 4 duties) 
+4 dedicated vehicles + 
+occasional non-dedicated trips 
+(Medium demand, 4 duties) 
+Cost per trip 
+$43 
+$36 
+Annual cost 
+$830,000 
+$690,000 
+ 
+CCT could therefore consider purchasing one or two additional vehicles to meet the 
+capacity needed to cover a medium demand scenario, and only use non-dedicated taxis to 
+cover any additional demand at peak times. This is easily achieved through the innovative 
+Spare Fleets trip brokering feature. 
+ 
+CCT’s new vehicles would not have to be large shuttle vans; instead, they could purchase 
+smaller 5-person vehicles that are cheaper to maintain, insure, fuel and staff. Replacing one 
+of CCT’s three existing cutaway vehicles with another smaller vehicle that is more fit for 
+purpose would also deliver additional savings over the lifetime of the service. 
+ 
+In any case, the potential savings of using smaller vehicles should be weighed against 
+regulations and passenger preferences for accessible, comfortable, and safe vehicles. Many 
+of CCT’s riders on this service may have medical and/or ambulatory issues. In Spare’s 
+experience, riders can be apprehensive about climbing into a small vehicle with strangers, 
+especially seniors and those with ambulatory difficulties, although most riders soon 
+become accustomed.  
+ 
+An advantage of Spare Platform is that it can restrict which vehicle types are assigned to 
+certain riders depending on need or preference. Riders who have issues with smaller 
+vehicles could therefore be seamlessly matched with more adequately sized vehicles for 
+their needs, with zero or minimal coordination from CCT’s operations team. 
+ 
+ 
+ 
+36
+=== page 38 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+The steps to success for CCT 
+ 
+By launching microtransit across Collin County, CCT is in a position to launch itself into the 
+future. CCT is currently in what we call, ‘Phase 0’: a generally unpooled service with plenty 
+of dead-heading, that is costly to run due to its built-in inefficiencies (Figure 18). As a 
+private enterprise, the aim of Irving Holdings is understandably to maximize profit, so there 
+are few incentives to drastically cut costs on CCT’s behalf. Moving away from this model is 
+key if CCT is seeking to deliver better value for money. We discuss the benefits that each 
+subsequent phase could bring to CCT. 
+ 
+ 
+Figure 18. Spare’s framework for propelling CCT into the future. 
+ 
+Phase 1: The power of pooling and data  
+ 
+Simply put, the first phase of CCT’s journey will be about pooling. A microtransit platform 
+such as Spare’s will propel CCT away from the one-trip-one-taxi system that is currently in 
+place. Our results show pooling rates of 48–64% are achievable under the low-cost option, 
+which could translate into similar reductions in operational costs.  
+ 
+As our simulations show, the pooling ratio is affected by the number of vehicles placed on 
+the road: generally, the fewer the vehicles, the higher the pooling ratio, although this 
+comes at the expense of rider convenience. Spare Platform allows CCT to tweak other 
+37
+=== page 39 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+parameters in the service configuration to increase pooling. The ‘Detour Flexibility’ 
+parameter can be set to low, medium or high, depending on how much CCT is willing to 
+deviate a given rider for the sake of overall system efficiency.  
+ 
+The per-trip costs presented in this report may seem relatively high compared to current 
+trip costs incurred through the non-dedicated service with Irving Holdings. However, on 
+average they are significantly cheaper than the average trip cost of $94 incurred using 
+CCT’s dedicated fleet. Pooling reduces the amount of vehicle hours required to service a 
+given demand, so Phase 1 is expected to deliver some initial savings. However, this is just 
+the beginning: by pursuing subsequent phases and unlocking their potential across Collin 
+County, CCT could see much bigger savings whilst maintaining, if not exceeding, the current 
+levels of service.  
+ 
+One of the other main benefits of introducing microtransit will be the wealth of data it 
+produces. At the moment, CCT suffers from not having instant access in a digestible way 
+for it to make quick decisions when they are required. This lack of data also makes it 
+difficult to conduct rigorous long-term transit planning. By digitizing transit in the region, 
+the Spare Platform would empower CCT to collect, analyze, and take action on huge 
+mobility datasets. 
+ 
+At Spare, we operate on the principle that ​microtransit can ‘flip transit on its head’​. Many 
+transit agencies design their fixed bus routes on the basis of ​imprecise historical data, 
+anecdotal evidence, or even gut feeling by planners. By introducing microtransit in different 
+areas, transit agencies can far better understand rider needs, and can use that knowledge 
+to redesign their fixed routes.  
+ 
+The rich datasets collected by Spare Platform can be used to identify where demand exists 
+for more fixed-route transit - for example, along commuter routes to major towns. This 
+data helps identify the best locations and timings for fixed bus routes, and to nudge riders 
+to adapt to more rigid schedules if needed. In areas where the volume or reliability of 
+demand is high enough to run a fixed route, it might not be the cheapest option to 
+maintain on-demand microtransit, and Spare would recommend launching timetabled 
+buses or hybrid systems such as deviated fixed lines. But without the initial rich data 
+provided by microtransit, it will be incredibly difficult for CCT to pinpoint exactly where 
+microtransit and fixed routes make most sense in ​Collin County. 
+Phase 2: A mixed-supply model drastically cuts costs 
+ 
+The biggest contributor to the operational cost of a microtransit service is the cost and 
+allocation of labor. Dedicated, specialized, unionized labor often cannot compete on price 
+with independent contractors, while independent contractors, such as taxis and 
+38

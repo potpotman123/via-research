@@ -1,0 +1,98 @@
+# source: https://legistar1.granicus.com/McKinney/attachments/abb0b9be-9c15-4174-9e04-7b9d82941c25.pdf
+# path: raw/cache/5e92fe54da67feb112756b4c03bca94101b9439a.pdf
+# hit page: 17 of 50
+# terms: Spare Labs
+
+=== page 16 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+Distributing trips temporally 
+ 
+To distribute simulated trip requests realistically, we estimated the distribution of each trip 
+type throughout a typical day. Most trips in Collin County are undertaken by car, owing to 
+the lack of public transportation options. CCT’s travel survey asked respondents at which 
+times they were most likely to travel on each day of the week, which gives some indication 
+about demand throughout a typical day.  
+ 
+Figure 8 shows the relative distribution of travel occurring throughout the day in both cars 
+and ‘other’ modes (principally on-demand such as ride-hailing and taxis, cycling and 
+walking). Peak travel happens between the hours of 3pm and 6pm, and the least busy 
+travel period is from 12pm to 3pm. 
+ 
+ 
+Figure 8.The distribution of transport modes (car vs other) at different times of day in Collin County. 
+ 
+By disaggregating the stated travel times from the survey by trip type where possible, and 
+combining the data with that of Spare-run microtransit services in similar cities, it is 
+possible to derive approximate distributions of likely travel times across a day in Collin 
+County. The distributions shown in Figure 9  were used to assign realistic (yet randomized) 
+travel times to each trip in the O-D generation step. 
+ 
+ 
+15
+=== page 17 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+ 
+Figure 9. Modelled time distributions for each major trip type, based on travel survey data and known 
+distributions in similar microtransit services operated by Spare.  
+ 
+CCT’s current operations run from 6am to 6pm on weekdays and 8am to 6pm on 
+Saturdays, and are set as a function of dispatcher shifts. There are no services on Sundays. 
+CCT’s travel survey suggests that 10–20% of respondents tend to travel after 6pm, either 
+for night shift work or from entertainment and dining venues. Given the vast 
+improvements offered by Spare Platform in administrative and operational functions, it is 
+possible to run these services for longer hours at a proportional lower operational cost. We 
+therefore ran a separate set of simulations assuming extended service hours, from 6am to 
+midnight (12am).  
+ 
+In this report we present results from simulations of both current weekday service hours 
+(6am–6pm) and extended service hours (6am–12am). Based on the travel survey data, we 
+estimate that running longer service hours will boost service utilization by 15%, so the total 
+ridership in these simulations is adjusted accordingly (Table 3). 
+ 
+Table 3. Estimated daily ridership for different demand scenarios, assuming extended service hours. 
+ 
+ 
+Low demand 
+Medium demand 
+High demand 
+Total trips 
+(6am–12am) 
+60 
+75 
+98 
+ 
+ 
+ 
+ 
+ 
+ 
+16
+=== page 18 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+Stage 3: Simulation setup in Spare Realize 
+ 
+Simulation matrix 
+ 
+Spare uses a matrix-based approach to structure the simulation experiments. The matrix is 
+designed to evaluate system performance and related operational costs at different 
+demand levels, as well as different service provisions (ranging from a cheaper, more 
+efficient service to a more rider-centric service that is more expensive to run): 
+ 
+ 
+ 
+Figure 10. Simulation matrix showing experimental setup in Spare Realize (three demand scenarios, each 
+run under two duty scenarios, with three simulation repeats per combination). 
+ 
+Three repeat simulations were conducted for each combination of duty level and demand, 
+and for both door-to-door and stop-to-stop models. This allowed us to replicate random 
+service variability in our analyses. We assumed door-to-door and stop-to-stop models for 
+‘normal’ service hours (6am–6pm), and only door-to-door for extended service hours 
+(6am–12am). In total, 54 individual simulations were run for this report. 
+ 
+Input parameters 
+ 
+Each simulation in Spare Realize can be fully customized to suit the needs of the study. 
+Pulling the levers on various parameters allows us to investigate the impact of different 
+service structures and operational models in high detail. Adaptable parameters include: 
+ 
+17

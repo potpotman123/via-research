@@ -1,0 +1,219 @@
+# source: raw/bleecker_drive/Arlington, Texas/22-0031_VIA_Staff_Report.pdf
+# path: raw/bleecker_drive/Arlington, Texas/22-0031_VIA_Staff_Report.pdf
+# hit page: 3 of 5
+# terms: River North Transit
+
+=== page 2 ===
+Page 2 of 5
+The proposed contract will use a fleet of six-passenger vehicles to continue to provide Via 
+service throughout the city limits and to and from the CentrePort TRE Station and will add 
+new service to the Trinity Metro bus stop located on Eastchase Parkway in Fort Worth. Under 
+the proposed contract, at least fifty percent of the non-ADA fleet shall be hybrid or electric at 
+contract start, and one hundred percent of the non-ADA fleet shall be hybrid or electric by 
+the start of the second year of the contract term.
+A Request for Proposals (RFP) was issued on January 19, 2022 to solicit responses from various 
+firms experienced with providing transportation and demand response rideshare services, in 
+order to continue the on-demand rideshare service. An evaluation team, comprised of City 
+staff, evaluated and scored the submittals based on weighted criteria; including data collection 
+and reporting requirements, vendors’ experience, quality assurance, customer service, 
+performance monitoring, innovative private/public partnership, and overall cost. The following 
+firms were evaluated: 
+Vendor
+MWBE
+Operational 
+Plan
+(50 points)
+  
+References/
+Qualification
+(40 points)
+Price
+(10 
+points)
+Score
+River North Transit, 
+LLC
+N/A
+37.16
+36.50
+7.67
+81.33
+Irving Holdings, Inc.
+N/A
+34.17
+34.00
+6.00
+74.17
+Laz Parking Texas
+N/A
+31.83
+31.50
+5.67
+69.00
+The total cost for two years of standard on-demand rideshare service is $22,047,916. 
+$17,064,760 of this cost will come from a mix of Federal Transit Administration (FTA) funding
+(covering approximately 40 percent of the cost) and City funding (covering approximately 60 
+percent of the cost). The remaining $4,983,156 will come from farebox and advertising
+revenue that will go directly back into the service. 
+In addition to the standard Via service costs listed above, three other related Via services are 
+expected to be implemented through additional external and internal funding.  
+The North Central Texas Council of Governments (NCTCOG) provided an additional $350,000 
+in FTA funds for the Arlington Student Transportation Program at no additional cost to the 
+City. The program currently provides free Via rides for eligible Tarrant County College and 
+Arlington Independent School District students. As of October 31, 2022, $179,502 of the 
+original $350,000 was available to cover the cost of free Via rides for eligible students. 
+The City has also been awarded a $4,560,000 grant from NCTCOG to continue and expand 
+the RAPID project. The RAPID project was initially a one-year deployment, which operated 
+from March 23, 2021, to March 18, 2022, funded in part by a grant from the Federal Transit 
+Administration. This project integrated a fleet of autonomous vehicles on the Via rideshare 
+platform for operation in a set area in Downtown Arlington and on the University of Texas at 
+Arlington (UTA) campus. Via partnered with May Mobility to provide the autonomous vehicles 
+(AV) for the project. 
+The forthcoming NCTCOG grant funding will continue the RAPID service for an additional two-
+year deployment, as well as add new autonomous vehicles to the service and test technologies 
+related to safely removing the human operator from the AVs. During the term of this contract, 
+the City will pay Via up to $4,020,224 for services performed for deployment of the Arlington 
+RAPID project. City funding in the amount of $100,000 will be used to continue the RAPID
+=== page 3 ===
+Page 3 of 5
+service prior to the availability of the NCTCOG funding. Once available and if accepted by City 
+Council, the City will then use the NCTCOG grant funding to pay Via up to $3,920,224 for the 
+remaining costs. The City of Arlington and partners will contribute in-kind staff time and 
+resources to the deployment, but no City funds are expected to be required for the NCTCOG 
+funded project. The remainder of the NCTCOG grant funding ($639,776) will be used to cover 
+other non-Via expenses associated with deploying the RAPID service such as funding for UTA 
+and the City.
+The City is currently considering opportunities to provide on-demand rideshare service into 
+neighboring municipalities to serve additional travel needs of our residents and visitors. A 
+maximum cost of $4,000,000 could be used during this contract term to provide some form 
+of intercity service, if Council decides to move forward with intercity service. 
+The Texas Attorney General has previously ruled that certain information in the Via contract 
+is confidential and cannot be disclosed to the public, and therefore a redacted copy of the 
+contract is included in the agenda packet. 
+Proposals closed:
+March 10, 2022 at 2:00 p.m.
+Vendors notified through IonWave: 
+496
+MWBE Vendors Notified through IonWave:
+119
+Vendors responding to bid request:
+3
+MWBE Vendors responding to bid request:
+0
+Original contract term:
+    
+Two year/four, two-year renewal options
+Current term:
+           December 12, 2022 – December 31, 2024
+MWBE:
+No
+Procurement Method:
+Request for Proposals 
+Name of Prime Vendor
+River North Transit, LLC
+Total Contract Value
+$30,247,642
+Prime Vendor’s MWBE Status
+None
+Dollar Amount of Prime Vendor’s Self-Performance
+$24,255,621
+Percentage Amount of Prime Vendor’s Self-Performance
+80.19%
+Name of Subcontractor (1) 
+ADA Guru
+Subcontractor’s MWBE Status
+HI
+Dollar Amount Subcontract
+$3,000
+Percentage Amount of Subcontract
+0.01%
+Name of Subcontractor (2) 
+People’s Transit, LTD*
+Subcontractor’s MWBE Status
+BL
+Dollar Amount Subcontract
+$3,406,949
+Percentage Amount of Subcontract
+11.26%
+Name of Subcontractor (3) 
+Bubble
+Subcontractor’s MWBE Status
+WO
+Dollar Amount Subcontract
+$40,000
+Percentage Amount of Subcontract
+0.13%
+Name of Subcontractor (4) 
+Holt Communications
+Subcontractor’s MWBE Status
+BL
+Dollar Amount Subcontract
+$100,000
+Percentage Amount of Subcontract
+0.33%
+Name of Subcontractor (5) 
+RGTC Mobile Lab Services, LLC
+Subcontractor’s MWBE Status
+BL
+Dollar Amount Subcontract
+$30,000
+Percentage Amount of Subcontract
+0.10%
+Name of Subcontractor (+) 
+Ricochet
+=== page 4 ===
+Page 4 of 5
+Subcontractor’s MWBE Status
+WO
+Dollar Amount Subcontract
+$2,412,072
+Percentage Amount of Subcontract
+7.98%
+Total MWBE Participation
+$5,992,021 (19.81%)
+*Subcontractor that is not a part of the current scope of work. 
+Office of Business Diversity placed a 18% Contract Specific Goal for this project. River North 
+Transit, LLC, responded to the RFP with an MWBE Utilization Plan that included 19.81% 
+subconsultant participation, exceeding the City’s MWBE contract specific goal. The City, 
+however, has decided not to utilize all the services in the Contractor’s proposal at this time. 
+With a smaller scope of work, River North Transit, LLC’s MWBE participation will be 8.55%.
+The City is looking into increasing the scope of work at a later date, which will increase MWBE 
+participation. 
+FINANCIAL IMPACT
+The Transportation Department and the Finance Department have determined that it is in the 
+City’s best interest to execute the two-year on-demand rideshare contract, with four two-year 
+renewal options. A summary of costs is included below. Funds are available in the 
+Transportation Department
+Grant Account No. CC418604-61000-SC0533-GR000018. A 
+maximum of $4,000,000 may be used for intercity service if Council decides to move forward 
+with intercity service at a later date.
+Standard Via Service Costs
+Source of Funding
+Amount
+City of Arlington (including Federal Transit 
+Administration Funds)*
+$17,064,760
+Estimated Revenue
+$4,983,156
+Maximum Total Standard Via Service
+Costs
+$22,047,916
+Related Service Costs
+Maximum Funding for Arlington Student 
+Transportation Program**
+$179,502
+Maximum Funding from Arlington RAPID 
+Funds***
+$4,020,224
+Maximum Funding for Intercity Service****
+$4,000,000
+All Costs
+Maximum Expenditure Amount
+$30,247,642
+* City funds will cover approximately 60 percent of the cost while FTA funding will cover 
+approximately 40 percent of the cost.
+** No City funding is needed for the Arlington Student Transportation Program.
+*** Includes $100,000 in City funding and $3,920,224 in NCTCOG grant funding, all of which 
+will be paid to Via for the RAPID service. No additional City funding is needed.
+**** Additional City Council approval required prior to expenditures related to Intercity
+Service.

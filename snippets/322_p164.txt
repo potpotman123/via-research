@@ -1,0 +1,172 @@
+# source: raw/bleecker_drive/Hillsborough County/Completed Contract File.pdf
+# path: raw/bleecker_drive/Hillsborough County/Completed Contract File.pdf
+# hit page: 164 of 199
+# terms: Via Mobility
+
+=== page 163 ===
+A.3 Required Forms
+The following or separately attached are our completed and signed forms required by the RFP,
+including:
+●
+Vendor Security Outsourcing Questionnaire
+●
+Affirmations ՄQ՞39ISՅ
+●
+General Requirements ՄQ՞57ELՅ
+●
+Paratransit Scheduling Software System ՄBT՞37NVՅ
+●
+The above-named Proposer affirms and declares ՄQ՞01MTՅ
+RFP‐23‐24177 | 60
+=== page 164 ===
+PLEASE PLACE AN "X" IN EITHER YES, NO, OR N/A AND PLEASE PROVIDE COMMENTS AS YOU DEEM APPROPRIATE
+YES
+NO
+N/A
+Comments
+G1. Do you have staff dedicated to physical and/or information technology security?  Please explain.
+X
+Via has a dedicated Security Team that oversees physical and 
+information technology security for all internal and partner-facing 
+technology. This incudes ensuring compliance with information security 
+management standards like ISO 27001 through the implementation of 
+key internal information security practices, the development of 
+necessary platform security controls, and the administering of company-
+wide education.
+G2. What type of interfaces do you support?  Do you have documentation?
+X
+Our platform supports our administrator and staff-facing Via Operations 
+Center (VOC), driver-facing Driver App, and rider-facing Rider App. We 
+will provide comprehensive platform documentation upon contract 
+award, please refer to sections 3.3, 3.4, and 3.5 of the main proposal for 
+overviews of each of our interfaces, respectively.
+G3. What is the reliability/uptime of your environment (do you meet the 5 9's)? (Please add comments)
+The Via System is highly available and we provide an uptime exceeding 
+99.9%. We have provided reliable and uninterrupted service for hundreds 
+of our partners around the globe and we look forward to ensuring that 
+we fully meet the County's reliability requirements throughout the span 
+of our partnership.
+G4. Is there regularly scheduled downtime for maintenance?  If so, what is that timeframe?
+X
+We conduct ongoing maintenance that does not require scheduled 
+downtime, but rather ensures a continual high quality user experience 
+through minor patches. In the very unlikely case of scheduled downtime 
+for maintenance, Via's dedicated Partner Success Manager (PSM) will 
+inform the County well in advance, as well as provide all the necessary 
+support to ensure uninterrupted service.
+G5. Can you share your backup and recovery procedures?
+X
+Please refer to Section 3.8.1: Cloud-based Hosting for details on our 
+backup and recovery procedures.
+G6. Can you share your disaster plan with us and is it tested?
+X
+Our disaster plan is fully tried and tested, please refer to Section 3.8.1: 
+Cloud-based Hosting under Disaster Response for details.
+G7. What is your privacy policy? (Please add comments)
+Via's privacy policy is focused around confidentiality, physical and digital 
+material security, incident management protocols, and primary points of 
+contact for security and privacy questions. These guidelines and specific 
+processes meet the highest standards and can be tailored to meet the 
+County's specific needs and requirements. Furthermore, Via complies 
+with all applicable data protection laws in the geographies in which we 
+operate, including the state of Florida. Our detailed privacy policy can be 
+found here: https://ridewithvia.com/privacy-policy/
+G8. Can you provide your physical security policies?
+X
+Via's physical security policies include ISO 27001-compliant policies 
+relating to physically protecting the work environment inside and outside 
+of the office, including working in secure areas, a "Clean Desk and Clear 
+Screen" policy, and guidance for handling physical documents. 
+Additionally, our infrastructure is based in Amazon Web Services (AWS), 
+which maintains strict physical security policies based on perimeter, 
+infrastructure, data, and environmental layers of protection. We look 
+forward to providing the County additional details on Via's physical 
+security policies as necessary.
+Name:                    
+Email:                                                                Phone:                                    
+ Date:
+General Questions
+VENDOR SECURITY & COMPLIANCE QUESTIONNAIRE - OUTSOURCED
+Company Address: 
+Company Name:                               
+ Company Website:
+Alex Lavoie
+procurement@ridewithvia.com
+(888) 501-7511, ext. 4
+7/19/23
+Via Mobility, LLC
+ridewithvia.com
+10 Crosby St., Fl 2, New York, NY 10013
+Proprietary, Confidential, and Trade Secret Information
+=== page 165 ===
+PLEASE PLACE AN "X" IN EITHER YES, NO, OR N/A AND PLEASE PROVIDE COMMENTS AS YOU DEEM APPROPRIATE
+YES
+NO
+N/A
+Comments
+G9. Please describe the layers of security to the physical access to the servers that Hillsborough County data would reside on.
+Via's infrastructure is based in Amazon Web Services (AWS), which 
+maintains strict physical security policies based on perimeter, 
+infrastructure, data, and environmental layers of protection. Please refer 
+to the following AWS information page for additional details on the 
+layers of security to physical access to the servers that Hillsborough 
+County data will reside on: https://aws.amazon.com/compliance/data-
+center/data-centers/
+G10.  Is Hillsborough County allowed to do periodic site visits to see the physical structure?
+X
+While Hillsborough County will not have access to periodic site visits to 
+the  physical structure that our AWS servers are based in, we can 
+provide details and updates on how they comply to the County's physical 
+security policies upon request.
+G11.  Do the servers reside, that are hosting and backing up the software, on shore?
+X
+Via's servers are located on shore, primarily in an AWS data warehouse 
+based in Northern Virginia.
+G12.  Is there a government certified cloud?
+X
+While our current configuration with AWS is government certified, AWS 
+does offer government certified cloud options. We are open to further 
+discussing with the County to further scope viable options for this 
+requirement.
+G13.  What is your policy for background check for your employees?  Who has access to sensitive information?
+Via performs comprehensive background checks for all employees that 
+are compliant with ISO 27001 standards. Internal access for sensitive 
+information is limited to a "need-to-know" basis and employees with 
+higher levels of information access are given all the necessary education 
+and training to ensure maximal security and confidentiality.
+G14.  How do you enforce security processes for integrations with third parties?
+Via has formal contracts and Service Level Agreements with all third 
+parties, which include strict security processes and regular audits. We 
+also use secure APIs and authentication methods to ensure data 
+protection.
+G15.  Is there a certification process to ensure that third party applications are secure and won't allow intruders to get into your 
+environment through one of these partners?
+X
+G16.  How do you protect sensitive data in storage infrastructure?
+Via uses appropriate encryption technologies to protect data stored on 
+our corporate and production servers, including sensitive data. Via also 
+encrypts all data transmissions containing sensitive data.
+G17.  What audit logs are available?
+Via utilizes cloud environment logs to track and store human/machine 
+actions performed on the cloud infrastructure, as well as traffic logs to 
+track all partner connections to the API, including connection time, IP, 
+action performed, and success/failure code. We our open to further 
+discussing with the County how we can provide access to these logs as 
+needed.
+G18.  How is the data encrypted? Is it encrypted at rest, in transition, and for disposition?
+Via's data is encrypted at rest through AWS Keys Management.
+G19.  What type of encryption do you use for the transfer of information (via emails, etc.)
+Please refer to Section 3.8.4: Data Access under Encryption Protocols for 
+details on the types of encryption we use for the transfer of information.
+G20.  What are your layers of security (including network, application, etc.)?
+Partners connect to the Via system through a single user login that 
+connects them to all tools and resources appropriate to their role. Our 
+system uses AWS Cognito to authenticate, authorize, and audit each 
+user through a multi-factor authentication process. The system relies on 
+multi-tier architecture to separate the network into private and public 
+layers. Partners connect to the web-based Via system over RestAPI on 
+the public internet using secure https connection, going through a 
+Reblaze Web Application Firewall (WAF), which examines each 
+request. Incoming partner traffic flows through at least two load-
+balancers (ELB), which mask internal IP address allocation.
+Proprietary, Confidential, and Trade Secret Information

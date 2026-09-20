@@ -1,0 +1,124 @@
+# source: raw/bleecker_drive/Key West/22_2659_Executive_Summary.pdf
+# path: raw/bleecker_drive/Key West/22_2659_Executive_Summary.pdf
+# hit page: 2 of 2
+# terms: Via Transportation, Via+SaaS
+
+=== page 1 ===
+THE CITY OF KEY WEST 
+Post Office Box 1409 Key West, FL 33041-1409 (305) 809-3700 
+ 
+               Key to the Caribbean – Average yearly temperature 77° F. 
+ 
+ 
+ 
+M E M O R A N D U M 
+TO:   
+Patti McLauchlin, City Manager 
+ 
+VIA:  
+Todd Stoughton, Assistant City Manager 
+ 
+FROM: 
+Rod Delostrinos, Director of Transportation 
+ 
+ DATE: 
+May 28, 2022 
+ 
+SUBJECT:  Approve the agreement for On-Demand Transit Software as a 
+Service (SaaS) with Via Transportation, Inc. in the amount not to exceed 
+$248,880.   
+ 
+ACTION STATEMENT: 
+Approve the agreement for On-Demand Transit Software as a Service (SaaS) 
+with Via Transportation, Inc. in an amount not to exceed $248,880 pursuant to 
+City of Key West Code of Ordinances Sections 2-797 (4) b.  exempt 
+contractual services and commodities. 
+ 
+BACKGROUND: 
+The FY 2021-22 Transit Budget allocated $45,000 for On-Demand Transit 
+service for a pilot program.  In June of 2021, City staff identified a potential 
+vendor; however, during the vetting process, several issues were unresolvable.   
+In November of 2021, a Federal Transit Administration (FTA) Notice of Funding 
+Opportunity (NOFO) for Enhancing Mobility Innovation was issued.  City staff 
+determined this potential funding source could accelerate the On-Demand 
+Transit project timeline with more beneficial cost share of 80% Federal and 20% 
+City, rather than the 50% FDOT and 50% City.  A grant application was 
+submitted to FTA. 
+ 
+PURPOSE AND JUSTIFICATION: 
+Given the short duration of the pilot program and the need to make prompt, 
+extensive transit improvements for the riding public, staff is requesting a 
+competitive bid exemption per Section 2-797(4)b.  On-Demand Transit allows 
+for the City of Key West to use its transit resources more efficiently.  Transit 
+vehicles within the city area will eventually operate only with trip requests 
+thus eliminating empty or near empty vehicles from continuous circling of set 
+routes.  Fuel savings, better personnel utilization given a 55% shortage of 
+CDL drivers, and reduction in carbon emissions are a few of the anticipated 
+positive impacts.  Developing new efficient fixed-route, circulator, and/or 
+express service based on the On-Demand Transit usage analysis is another 
+potential benefit.
+=== page 2 ===
+2 
+ 
+ 
+City staff identified and successfully vetted Via Transportation, Inc. as an On-Demand Transit 
+service vendor.  Via Transportation, Inc. is able to provide a one-year pilot program with all the 
+City’s requirements such as installation, training, marketing, call center, and trip analytics.  Via 
+Transportation, Inc is the parent company of a subsidiary the City of Key West currently uses 
+for transit planning Software as a Service (SaaS). 
+ 
+Staff has contacted other Florida transit agencies who currently use Via Transportation, Inc. 
+and received positive recommendations of the On-Demand services.  Those entities include 
+Miami-Dade County-Department of Transportation and Public Works, Palm Beach County- 
+PalmTran, and St. Lucie County- Area Regional Transit. 
+   
+FINANCIAL IMPACT: 
+This agreement allows the City of Key West to proceed as funding becomes available. The 
+following table lists the funding sources:  
+ 
+ 
+ 
+DESCRIPTION 
+SOURCE 
+AMOUNT 
+COMMENTS 
+FY 22 Allocation for On-
+Demand Transit (Used for 
+match) 
+Transit 
+FY22 
+Budget 
+$45,000 
+Partial Cost Share 
+Supplemental request to 
+meet required grant match 
+(20% of total project) 
+TAF 
+Fund 
+FY23 
+$17,500 
+Partial Cost Share 
+Enhancing Mobility 
+Innovation Program 
+Federal 
+Grant 
+$250,000 
+Competitive Evaluation; Estimated 
+Award Announcement July 2022 
+Total Project 
+ 
+$312,500 
+Via (Year 1): Marketing, Call Center, 
+Training, Installation, Software 
+Usage=$248,880 
+Separate Purchase of Transit 
+Kiosks/Information:  $63,620 
+ 
+STRATEGIC PLAN: 
+The On-Demand Transit project is consistent with the Key West Forward Strategic Plan, 
+Priority 6: Traffic & Pedestrian Friendliness, Goal 2 Improve Public Transit, Action Item 1:  On 
+Demand Transit Pilot. 
+  
+RECOMMENDATION: 
+Approve the agreement for On-Demand Transit Software as a Service (SaaS) with Via 
+Transportation, Inc.

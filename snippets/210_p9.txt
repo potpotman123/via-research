@@ -1,0 +1,118 @@
+# source: https://legistar1.granicus.com/McKinney/attachments/abb0b9be-9c15-4174-9e04-7b9d82941c25.pdf
+# path: raw/cache/5e92fe54da67feb112756b4c03bca94101b9439a.pdf
+# hit page: 9 of 50
+# terms: Spare Labs
+
+=== page 8 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+Project objectives 
+ 
+The Spare team and CCT representatives worked together to outline some key objectives 
+for the wider microtransit project. These can be summarized as: 
+ 
+1.
+Boost efficiency​: increase ridership and spending productivity 
+ 
+2.
+Improve​ ​accessibility​: connect people to fixed routes and POIs in an affordable 
+way, focusing on underserved communities 
+ 
+3.
+Innovate​: propel Collin County’s transit provision into the future 
+ 
+Together, CCT and Spare outlined target average waiting time for microtransit of 15-30 
+minutes, with no waiting times exceeding 60 minutes. This helped to shape Spare’s 
+experimental setup and duty provisioning (i.e. driver and vehicle shift) scenarios. 
+ 
+CCT currently spends approximately $360,000 per annum (p.a.) on running their subsidised 
+taxi service. They have access to approximately $900,000 p.a. for operating the new 
+proposed on-demand service, although this is fairly flexible given CCT’s funding source for 
+2020/2021. These financial constraints were used to inform realistic duty levels in our 
+simulations.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7
+=== page 9 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+Methodology  
+1
+ 
+Data sources 
+ 
+We modelled demand as the volume and distribution of ride requests over a given period 
+of time. Model inputs included origin-destination trip data provided by CCT for the existing 
+taxi service that covers the region, open-source census and jobs data, and 
+demand/performance data from other similar services run by Spare (Figure 3). We outline 
+our use of these datasets in the following sections. 
+ 
+ 
+Figure 3. Data sources for deriving estimates of demand volume and distribution. 
+ 
+Spare’s framework for simulating microtransit demand 
+ 
+Spare has a tried-and-tested methodological framework for simulating the dynamics of a 
+microtransit service. It involves a multi-stage approach to analyze ​where​ a microtransit 
+system should operate, ​whom ​it is likely to serve and therefore impact, during ​which times​ it 
+should operate, the ​service model​ it should follow (stop-to-stop, door-to-door), and its 
+potential ​costs and returns​.  
+ 
+The four main stages of the approach (Figure 4) are: 
+ 
+1. Estimate trip volume (i.e. total number of expected trips in a zone); 
+2. Estimate trip distribution; 
+a.
+Assign trip types (e.g. work, recreational, medical) ; 
+1 ​The “Methodology” section contains trade secrets of Spare Labs Inc. that are not to be shared with outside parties, even in 
+the case of a Freedom of Information Act Request  - as prescribed by law. 
+8
+=== page 10 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+b. Distribute trips spatially (i.e. where trips should start and end); 
+c.
+Distribute trips temporally (i.e. time of day when trips should occur); 
+d. Generate random origin-destination (O-D) pairs from these distributions; 
+3. Run O-D pairs through Spare Realize, our dedicated trip simulation platform; 
+4. Analyze results and make recommendations. 
+ 
+ 
+Figure 4. The four stages in Spare’s simulation framework. 
+ 
+ 
+Stage 1: Estimating volume of demand 
+ 
+The overall volume of demand was calculated based primarily on taxi data provided by 
+DCTA/CCT, and transit ridership data acquired from Dallas Area Rapid Transit (DART) for 
+the Parker Road Light Rail Transit Station in the City of Plano. At the time of writing this 
+report, COVID-19 had affected transit ridership globally, and ridership in Texas (including 
+on DART) had decreased by 70–80%. The volumes calculated here do not consider the 
+impact of COVID-19, because of the huge uncertainty around how it will affect transit 
+ridership in the long term. We assume that ridership will return to pre-COVID patterns.  
+ 
+Taxi ridership data were acquired for the period January 2019 – March 2020, during which 
+over 12,400 trips were undertaken over fourteen months. Long trips with uncommonly 
+small prices were defined as outliers, and so 19 trips were removed from the taxi dataset. 
+The DART ridership data covered the period March–October 2019.  
+ 
+Before calculating the absolute forecasted demand for microtransit across Collin County, it 
+is important to understand that CCT are due to implement a new fare pricing model, which 
+will likely affect demand for the service. Until May 2020, CCT operated a variable fare 
+model, where ​75% of the total cost of each taxi trip was subsidized by CCT, and the 
+remaining 25% was paid for by the rider. The new model is based on flat fares, whereby 
+riders pay $3 for a trip, regardless of distance. 
+ 
+To model the baseline historical change in ridership ​without​ considering a price structure 
+change, we built a Bayesian time series model using Prophet, a powerful open-source 
+modelling Python library. We used Prophet to break down our data into temporal trends of 
+varying length (from yearly to daily), and recombined them to create predicted weekly 
+ridership until October 2020. Weekly ridership over the coming year was averaged and 
+converted into an expected daily average ridership for each trip type.  
+ 
+9

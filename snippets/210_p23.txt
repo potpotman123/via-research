@@ -1,0 +1,145 @@
+# source: https://legistar1.granicus.com/McKinney/attachments/abb0b9be-9c15-4174-9e04-7b9d82941c25.pdf
+# path: raw/cache/5e92fe54da67feb112756b4c03bca94101b9439a.pdf
+# hit page: 23 of 50
+# terms: Spare Labs
+
+=== page 22 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+Stage 4: Analysis of results 
+ 
+Key Performance Indicators (KPIs) 
+ 
+Spare Realize reports back on key KPIs from each simulation, including waiting times, 
+pooling ratios, efficiency measures (e.g. passenger per vehicle hour), and more. Maps of 
+pickups and dropoffs are also generated, to validate the accuracy of the model and to 
+enable in-depth assessment of system performance. Passengers-per-vehicle-hour (PPVH) is 
+provided as a standard measure of system efficiency, which will be relevant to CCT’s future 
+cost recuperation models. 
+ 
+Costs 
+ 
+Costs per trip and per operational year are reported for all scenarios to aid 
+decision-making. CCT already owns three dedicated vehicles, which, according to DCTA 
+invoices, cost $58 per hour to run (including base hourly rate, fuel and administrative 
+costs). On average, this equates to $94 per trip provided by CCT’s dedicated vehicles.  
+ 
+Since CCT already owns three vehicles, we use the $58 operational cost in our model, and 
+assume that each vehicle can be used for any on-demand trip if needed. In simulations 
+where more than 3 vehicles are placed on duty, any extra vehicle is assumed to be a 
+non-dedicated vehicle, which incurs costs to CCT on a per-trip (rather than per-hour) basis. 
+As explained in the Recommendations section, maximum vehicle occupancy data from our 
+simulations can help to inform right-sizing of the microtransit system. If CCT wanted to 
+purchase new vehicles that were most appropriate for their system, right-sizing insights 
+could help lower operational costs. 
+ 
+Analysis of invoices from CCT’s single non-dedicated operations supplier (Irving Holdings) 
+suggests that the average trip cost is $19 per trip. Rather than use this average trip price in 
+our cost model, we instead use the average per-mile cost ($2.40 per mile) and multiply it by 
+the distance of each trip in our simulations. This provides a more realistic estimate of the 
+costs incurred by CCT to serve the actual trips simulated in Realize. 
+ 
+Finally, we subtracted trip fares ($3 flat fare per trip) from the full costs to present the net 
+costs in this report.  
+ 
+ 
+ 
+ 
+ 
+ 
+21
+=== page 23 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+Costs per trip were calculated as follows for dedicated and non-dedicated vehicles: 
+ 
+ 
+ 
+ 
+ 
+Costs per annum (p.a.) were calculated as follows: 
+ 
+ 
+ 
+ 
+22
+=== page 24 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+Results: Door-to-door service (normal hours: 6am–6pm) 
+ 
+Structured for low cost 
+ 
+ 
+Low Demand ​(52) 
+Medium Demand​ (65) 
+High Demand​ (85) 
+No. duties 
+3 
+4 
+4 
+Avg. wait time 
+28 ​mins 
+26 ​mins 
+28 ​mins 
+Max wait time 
+57 ​mins 
+58 ​mins 
+62 ​mins 
+<15 min wait 
+23% 
+25% 
+27% 
+PPVH 
+1.2 
+1.2 
+1.4 
+Pooling ratio 
+64% 
+54% 
+55% 
+Cost per trip 
+$36 
+$43 
+$38 
+Annual cost 
+$520,000 
+$830,000 
+$870,000 
+ 
+Structured for great service 
+ 
+ 
+Low Demand ​(52) 
+Medium Demand​ (65) 
+High Demand​ (85) 
+No. duties 
+5 
+6 
+8 
+Avg. wait time 
+20 ​mins 
+15 ​mins 
+16 ​mins 
+Max wait time 
+47 ​mins 
+43 ​mins 
+49 ​mins 
+<15 min wait 
+37% 
+56% 
+58% 
+PPVH 
+0.8 
+0.8 
+0.8 
+Pooling ratio 
+48% 
+53% 
+52% 
+Cost per trip 
+$59 
+$59 
+$61 
+Annual cost 
+$950,000 
+$1,200,000 
+$1,600,000 
+23

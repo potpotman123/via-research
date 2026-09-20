@@ -1,0 +1,137 @@
+# source: https://baldwincountyal.legistar1.com/baldwincountyal/attachments/a5ba6e94-2798-460f-bd0a-2301b05517d8.pdf
+# path: raw/cache/cb4a8f9625039722f16d319a383a564c1494de9c.pdf
+# hit page: 2 of 4
+# terms: Via Mobility, Via+vehicles
+
+=== page 1 ===
+COUNTY COMMISSION 
+Via Mobility LLC 
+ATTN: Mr. Zachary Wassennan 
+IO Crosby Street, Floor 2 
+New York, New York 10013 
+BALDWIN COUNTY 
+312 Courthouse Square, Suite 12 
+BAY MINETTE. A LABAMA 36507 
+(251) 937-0264 
+Fax (251) 580-2500 
+www.baldwincountyal.gov 
+September 20, 2022 
+MEMBERS 
+DISTRICT 1. JAMES E BALL 
+2. MATTHEW P. Mcl<ENZIE 
+3. BILLIE JO UNDE'RWOOD 
+• . CHARLES F. GRUBER 
+RE: 
+Extension and Amendment of Contract for Professional Services with Via Mobility, 
+LLC for Provision of Innovative Software Services 
+Dear Mr. Wassennan: 
+The Baldwin County Commission, during its regularly scheduled meeting held on September 20, 
+2022, took the following actions: 
+I) Approve an Extension and Amendment of the Contract for Professional Services between the 
+Baldwin County Commission and Via Mobility, LLC for the provision of innovative micro-
+transit on-demand software services at a monthly fee of $14,500.00; and 
+2) Authorize me, as Chairman, to execute the Contract and any other related documents. 
+The term of said Contract shall commence October 1, 2022, and shall terminate upon the 
+expiration of twelve (12) months. This extension represents the second of three (3) one-year renewal 
+options of the Contract for Professional Services between the Baldwin County Commission and Via 
+Mobility, LLC. 
+Enclosed is a fully executed £.Qfil'. of the Contract for your file. 
+lfyou have any questions or need further assistance, please do not hesitate to contact me or 
+Ann Simpson, Director of Transportation, at (251) 937-0264. 
+JB/jb Item CD 1 
+cc: 
+Asa King - asa.king@ridewithvia.com 
+Ann Simpson 
+ENCLOSURE(S) 
+JAMES E. BALL, Chaim1an 
+Baldwin County Commission 
+(BALDWIN COUNTY IS AN EQUAL OPPORTUNITY EMPLOYER MIF)
+=== page 2 ===
+DocuSign Envelope ID: 75FD571 E-9C2A-4248-A910-A0ABB2O63DCF 
+EXTENSION AND AMENDMENT OF THE CONTRACT FOR PROFESSIONAL SERVICES 
+L Purpose;Scope 
+Each of Via Mobility LLC, a Delaware company with its p1incipal office located at 10 Crosby 
+Street, Floor 2, New York, New York 10013 ("Via"), and Baldwin County Commission 
+("Customer"), hereinafter the "Parties," entered into an agreement titled Contract for Professional 
+Services (the "Agreement") and a service order titled Baldwin County Deployment Service Order 
+(the "Original Order"), dated June 18, 2020. By this Extension and Amendment Agreement 
+("Extension") the patties agree towards continued collaboration of operation of the services 
+provided under the Original Order. The Parties fmther agree to amend the fees paid by Customer 
+to Via for the use of Via's software, and that Via shall develop and deploy specific capabilities 
+within its software for Customer's benefit. 
+Amendment 
+2. Duration 
+This Extension shall extend the pe1iod of perf01mance of the Agreement by a period of twelve 
+months, from October 1, 2022 until September 30, 2023 (inclusive). The Effective Date of this 
+Extension shall be October l, 2022. 
+Starting on October 1, 2022, and continuing through September 30, 2023, Customer shall pay to 
+Via the following Monthly Fees, reflecting a minimum of 25 vehicles at the rates detailed below: 
+Fee Category 
+Fee Per 
+Charges Per Month 
+Invoicing Terms 
+Vehicle Per 
+Month 
+' 
+Monthly Fees (Per Vehicle) for 
+$590 
+$11 ,800 
+Invoiced monthly by Via 
+vehicles 1-20, inclusive 
+(Guaranteed) 
+Monthly Fees (Per Vehicle) for 
+$540 
+$2,700 
+Invoiced monthly by Via 
+vehicles 21-25, inclusive 
+(Guaranteed) 
+Montly Fees (Per Vehicle) for any 
+$485 
+as used 
+Invoiced monthly by Via 
+additional vehicles above 25 (As 
+used) 
+Total for 12 months 
+$174,G00 (minimum, excluding additional vehicles above the 25-
+vehicle monthly minimwm, and any additional services) 
+-
+--
+-
+For the avoidance of doubt, (i) the number of vehicles per month for purposes of the above fees 
+shall be the maximum number of distinct vehicles input to service in the Deployment by Customer 
+that use the Via solution on any given day over the course of the applicable calendar month; and 
+(ii) in the event the duration of the Deployment does not exactly match calendm· months, monthly 
+fees will be prorated for the first and/or last calendar months of the Deployment, as applicable, so 
+1
+=== page 3 ===
+DocuSign Envelope ID: 75FD571 E-9C2A-4248-A91 D-A0ABB2063DCF 
+that Customer will only be charged for the pottion of such months during which the Via solution 
+was available to be used for the Deployment. 
+The above fees do not include any fees owed to the third party payment processor. Via 
+will facilitate an introduction to its recommended payment processor and Customer is 
+responsible for entering an agreement with such payment processor in order to be able to process 
+credit card payments. 
+4. Product Enhancements 
+Via commits to make all commercially reasonable efforts to deliver the following capabilities 
+within its software platform within the contract year. Via agrees to communicate with Customer 
+on an ongoing basis regarding the timeline for these capabilities, and to collaborate with Customer 
+regarding the prioritization of these capabilities as relevant. 
+• 
+Trip Editing: Edit the total number of passengers on a trip booking after the booking has 
+been made, without canceling the original booking; 
+• 
+Fixed Routes: Provide recurring trips at fixed times, from predetennined locations, along 
+a fixed route, for students at designated private schools in Baldwin County; and along the 
+"Baylinc" route from eastern Baldwin County to a predetermined point in downtown 
+Mobile, Alabama; 
+• 
+Fixed/Flexible Driver Breaks: Designate driver breaks in the "Via Operations Center 
+(VOC)" as either "fixed" (system cannot change or edit break automatically) or "flexible" 
+(the system may change or edit the time of the break within established parameters so as 
+to make the Deployment function more efficiently). 
+5. Conflict of Terms. 
+Unless otherwise stated, all terms and conditions contained in the Original Order are also 
+applicable to this Extension. If a term contained in this Extension is in conflict with the terms of 
+the Original Order, the specific tetm in this Extension shall take precedence. Any tetm or condition 
+in the Original Order, including all Appendices not affected by this Extension, shall remain in full 
+force and effect.

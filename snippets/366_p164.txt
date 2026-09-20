@@ -1,0 +1,270 @@
+# source: raw/bleecker_drive/Lee County/RFP250034SML Via Mobility Executed.pdf
+# path: raw/bleecker_drive/Lee County/RFP250034SML Via Mobility Executed.pdf
+# hit page: 164 of 171
+# terms: Via+drivers
+
+=== page 163 ===
+Yes
+The Via system supports AVL and 
+displays real time vehicle locations 
+in our maps.
+Yes
+Via’s platform leverages several 
+sources to develop an accurate and 
+fully up-to-date map of the service 
+area ti=o enable point-to-point 
+scheduling. Our proprietary 
+mapping capabilities allow us to 
+define segment characteristics, 
+including speed limitis, one-way 
+direction, custom Points of Interest 
+unique to LeeTran's network, and 
+more.
+Yes
+Via's system clearly displays 
+vehicle icons and location, 
+updating automatically with real-
+time location and speed data from 
+the Driver App. Users can leverage 
+this interface to visualize trip data 
+such as operator ID, vehicle ID, 
+and speed.
+Yes
+Users can zoom in or out on the 
+map, pan in any direction and click 
+on specific features and vehicles to 
+retrieve information. 
+Yes
+Via's system has the ability to 
+provide vehicle location data on a 
+ride-by-ride basis, including 
+historical speed data.
+Yes
+Via provides GIS functionality by 
+leveraging Google Maps and Open 
+Street Maps to route vehicles and 
+give clients ETAs that account for 
+the real-world street network. 
+Yes
+Data and images produced by the 
+Via system can be reviewed, 
+shared, and exported in widely 
+used formats. Additionally, any 
+and all raw data can be exported 
+from the Via Platform to other 
+software platforms of LeeTran's 
+choosing.
+Yes
+Via’s platform has full geocoding 
+capabilities for locations, pickup 
+points, and dropoff points, 
+including point address locations 
+and any abbreviations that are 
+supported by Google Maps. 
+Yes
+The Via Operations Center (VOC) 
+permits LeeTran to manually 
+assign x and y coordinates by 
+clicking on and selecting any spot 
+on the map to display associated 
+address data. 
+Does your system have access to AVL maps?
+Do you have the ability to provide fully up-to-date maps 
+complete with all attributes necessary for point-to-point 
+scheduling using coordinate geography (not zones)? Does the 
+system have the ability to permit definition of segment 
+characteristics, such as speed limits, one-way direction, etc.?
+Does your system map display clearly display vehicle icon and 
+location? Does the system have the capability for the vehicle icon 
+to display the operator ID, vehicle ID, and speed?
+Does your system map display include features to zoom in or out, 
+pan in any direction, and point-and-click on features and vehicles 
+to retrieve information? Is the map expandable to full screen 
+view?
+Does your system have the ability to provide historical playback 
+of vehicle locations with speed date? 
+Does your software provide GIS functionality?
+Does your system have the capability of exporting data and 
+graphic images to other software platforms?
+Does your system have full geocoding capability allowing 
+LeeTran to enter an address and locate the address on the map? 
+Does your system have the ability to handle various abbreviations 
+of names in the geocoding process?
+Does your system permit manual assignment of x and y 
+coordinates in the event an address cannot be geocoded?
+12
+EXHIBIT E - PROJECT FUNDING PACKAGE
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7
+=== page 164 ===
+Yes
+Via's system has the capacity to 
+manually pin pick-up locations on 
+the map to direct drivers to the 
+exact pick-up spot. Users can also 
+include pick-up notes to provide 
+further context for drivers.
+Yes
+The Via Operations Center (VOC), 
+calculates all system-estimated 
+drive lengths and durations during 
+the scheduling process.
+Yes
+Via’s Driver App provides drivers 
+with a map image of the trip from 
+origin to destination, as well as 
+turn-by-turn visual and auditory 
+directions.
+Yes
+Via's system has the ability to 
+calculate, autofill, and report the 
+municipality and county of each 
+trip's home address, trip origin, 
+and/or destination.
+Yes
+Via's reporting suite offers pre-
+built dashboards for reporting 
+purposes, including regulatory 
+reports and service KPI dshboards 
+for cusom and ad-hoc reports 
+relating to customer satisfaction, 
+operator performance, hourly trip-
+level reports, revenue and cost 
+analyses, and more.
+Yes
+Via’s reporting suite features 
+dashboards specifically designed 
+for FTA and NTD compliance, 
+including DR/DO S-10 Reporting.
+Yes
+Via's system can provide a deposit 
+of app-collected fares on a weekly 
+basis.
+Yes
+Via's system provides financial 
+reporting such as revenue and cost 
+analyses relating to fares collected 
+by vehicle, date, and location.
+Yes/No
+If No, are there 
+alternative 
+options for 
+compliance?
+Comments
+Yes
+Yes, Via ensures the secure 
+capture and transmission of 
+cardholder data, in accordance 
+with PCI DSS standards.
+Yes
+Yes, Via maintains PCI-DSS 
+compliance as a Level 2 merchant.
+Does your system have the capability to manually pin multiple 
+doors at the same location to direct driver to exact pick-up spot?
+Does your system have the capability to calculate drive length 
+and duration during the scheduling process?
+Does your system have the capability of providing a map image 
+of the trip origin and/or destination as well as turn by turn 
+directions for the driver?
+Does your system have the ability to calculate, autofill, and report 
+the municipality and county of each trip's home address, trip 
+origin, and/or destination?
+Does your system provide dashboard access? Reporting? Allow 
+for Ad-hoc custom reports?
+Does your system include Federal Transit Agency (FTA) 
+reporting such as DR/DO S-10 reporting?
+Does your system provide deposit of app collected fares on a 
+weekly basis?
+Does your system provide financial reporting of fares collected 
+by vehicle, date, and location? 
+PCI Compliance
+Does your product ensure the secure capture and transmission of 
+cardholder data?
+Is your system capable of maintaining PCI DSS compliance for 
+your product?
+13
+EXHIBIT E - PROJECT FUNDING PACKAGE
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7
+=== page 165 ===
+No
+Via does not store payment card 
+information locally or physcially. 
+All credit card information is 
+stored by the Payment Service 
+Provider.
+Yes
+Not Applicable — Via does not 
+store or process credit card 
+information. We use a third party 
+payment processor for this 
+purpose.
+No
+Via is not a QIR. Via is a "Level 2 
+Merchant" in the context of PCI 
+compliance. Should LeeTran 
+desire, we can provide our relevant 
+Attestation of Compliance.
+Yes
+Via works with specific Payment 
+Service Providers as default 
+payment processors, all of which 
+comply with high security and PCI 
+standards. Stripe is our preferred 
+payment service provider. Via will 
+provide support and will perform 
+the PSP integration for LeeTran.
+Yes
+Via will perform the PSP 
+integration for LeeTran following 
+a proven implementation guide 
+based on our experience working 
+with PSPs in hundreds of unique 
+services.
+Yes
+Via uses industry-leading, PCI-
+compliant third party payment 
+processors that are Level 1 
+Merchants to process all payment 
+transactions on the Via platform, 
+ensuring the protection of card 
+data wherever it is stored, 
+processed, or transmitted. 
+No
+The Via platform is hosted in the 
+Cloud by SOC-2 compliant 
+Amazon Web Services (AWS).
+Yes
+Via's cloud-based software is 
+accessible from any internet-
+enabled laptop or desktop 
+computer and therefore does not 
+require installation. Similarly, Via 
+maintains our software with 
+continuous and automatic software 
+updates, and there is no 
+requirement for users to manually 
+upgrade or install a new version of 
+Via’s software.
+No
+Via does not require remote access 
+to LeeTran's payment system.
+Does your system have the capability to store payment card 
+information locally and/or physically? If so, please provide 
+details.
+Does your product protect payment card information with strong 
+encryption? If so, please provide details.
+Are you a PCI Qualified Integrator or Reseller (QIR)?
+If not a registered QIR, do you provide support during 
+installation to ensure our implementation meets PCI DSS 
+requirements?
+If not a registered QIR, do you provide an implementation guide?
+If not a registered QIR, do you provide installation guidance on 
+how to ensure card data is protected wherever it is stored, 
+processed or transmitted?
+Is your product installed on LeeTran network or systems?
+Is the product installed on systems owned and maintained by the 
+service provider?
+Do you require remote access to LeeTran's payment system to 
+support it? If so, please provide details.
+14
+EXHIBIT E - PROJECT FUNDING PACKAGE
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7

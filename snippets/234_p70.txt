@@ -1,0 +1,262 @@
+# source: https://legistar.granicus.com/LosAlamos/attachments/d4ed28e3-5da0-403c-aaa8-20fd558046f1.pdf
+# path: raw/cache/9e8dcba51a86916c33f88b1baedeefebe738b9ef.pdf
+# hit page: 70 of 81
+# terms: Spare Labs
+
+=== page 69 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+69 
+ Agreement Template Version: 04012024 
+Exhibit K 
+FTA Checklist and Required Clauses 
+AGR24-37 
+ 
+ 
+PROJECT NO: Micro Transit Software 
+ 
+Federal Transit Administration Required Clauses 
+(where applicable) 
+ 
+If an item on the following table is marked “All,” it is a required clause for any purchases exceeding the federal 
+micro-purchase threshold.  If applicable, the corresponding certification must be completed and submitted with the 
+bid or proposal in order to be determined “responsive.”  Please check items that apply and are included. 
+ 
+√ Sec. 
+Contract Clause 
+Applicability to Type of Contract 
+√ 
+1. 
+No Government Obligation to Third Party 
+Value > $10K 
+√ 
+2. 
+Program Fraud and False or Fraudulent Statements 
+or Related Acts 
+Value > $10K 
+√ 
+3. 
+Access to Records 
+Value > $10K 
+√ 
+4. 
+Federal Changes 
+Value > $10K 
+√ 
+5. 
+Civil Rights (includes EEO requirements for 
+construction projects) 
+Value > $10K 
+√ 
+6. 
+Disadvantaged Business Enterprise (DBE) 
+Value > $10K 
+√ 
+7. 
+Incorporation of FTA Terms 
+Value > $10K 
+√ 
+8. 
+Energy Conservation 
+Value > $10K 
+√ 
+9. 
+Termination 
+Value > $10K 
+√ 
+10. 
+Seat Belt Use 
+Value > $10,000 
+√ 
+11. 
+Distracted Driving 
+Value > $10,000 
+√ 
+12. 
+Federal Tax Liability and Recent Felony 
+Convictions 
+Value > $10,000 
+√ 
+13. 
+Trafficking in Persons 
+Value > $10,000 
+√ 
+14. 
+Prohibition on Certain Telecommunications and 
+Video Surveillance Services or Equipment 
+Value > $10K for telecommunications and video 
+surveillance services or equipment 
+√ 
+15. 
+Governmentwide Debarment and Suspension 
+Value > $25K 
+√ 
+16. 
+Notification Related to Fraud, Waste, Abuse or 
+Other Legal Matters 
+Value > $25K 
+Attachment A
+=== page 70 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+70 
+ Agreement Template Version: 04012024 
+√ Sec. 
+Contract Clause 
+Applicability to Type of Contract 
+√ 
+17. 
+Lobbying Restrictions 
+Value > $100K 
+ 
+18. 
+Buy America 
+Value > $150 K for Construction, Iron, Steel, 
+Manufactured Products, Rolling Stock 
+√ 
+19. 
+Clean Air 
+Value > $150K 
+√ 
+20. 
+Clean Water 
+Value > $150K 
+√ 
+21. 
+Breaches and Disputes 
+Value > $250K 
+ 
+22. 
+Cargo Preference 
+Equipment, Material, Commodities Transported 
+by Ocean Vessel 
+ 
+23. 
+Fly America requirements 
+When Transportation Paid by FTA Funds for 
+foreign transport or travel by air 
+ 
+24. 
+Davis-Bacon and Copeland Anti-Kickback Acts 
+Construction > $2,000 
+ 
+25. 
+Equal Employment Opportunity 
+Construction > $10,000 
+ 
+26. 
+Contract Work Hours and Safety Standards Act 
+Involve employment of mechanics or laborers > 
+$100,000 
+ 
+27. 
+Bonding Requirements 
+Construction > $250K and at Discretion for 
+Others 
+ 
+28. 
+Veterans Preference 
+Construction 
+ 
+29. 
+Seismic Safety 
+New Building Construction/Additions 
+ 
+30. 
+Transit Employee Protective Arrangements 
+Transit Operations 
+ 
+31. 
+Charter Bus and School Bus Requirements 
+Operational Service 
+ 
+32. 
+Substance Abuse 
+Operational Service (safety sensitive)  
+ 
+33. 
+Patent and Rights in Data 
+Research Projects only 
+√ 
+34. 
+Recycled Products 
+Value > $10K in Fiscal Year 
+ 
+35. 
+Accessibility 
+Revenue Rolling Stock or Facility Construction / 
+Renovation Projects only 
+ 
+36. 
+Bus Testing 
+Revenue Rolling Stock (Buses and Modified 
+Vans) 
+ 
+37. 
+Pre-Award and Post-Delivery Requirements 
+Revenue Rolling Stock 
+ 
+ 
+ 
+Attachment A
+=== page 71 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+71 
+ Agreement Template Version: 04012024 
+PROJECT NO: Micro Transit Software 
+Federal Transit Administration Required Certifications 
+ 
+√ 
+Certification 
+Applicability to Type of Contract 
+√ 
+Lobbying 
+>$100,000 
+ 
+Buy America Iron, Steel, Manufactured Products, including 
+Construction 
+>$150,000 
+ 
+Buy America Rolling Stock 
+>$150,000 
+ 
+Disadvantaged Business Enterprise Transit Vehicle Manufacturer 
+Revenue Rolling Stock 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(This section intentionally left blank) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Attachment A

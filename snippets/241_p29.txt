@@ -1,0 +1,167 @@
+# source: https://douglascounty.legistar1.com/douglascounty/attachments/f881da66-e295-443f-8793-a75389fa9535.pdf
+# path: raw/cache/2e2d114850d5a0ab72dc95e81f3c53f185700cb2.pdf
+# hit page: 29 of 30
+# terms: River North Transit
+
+=== page 28 ===
+28 
+ 
+ 
+ 
+Section A: STANDARD REPORTING SET 
+Dashboard 
+Data / Graphs provided 
+Top Level Service Operations 
+Metrics 
+Key service metrics filterable 
+by time period 
+Total ride requests: total number of attempts by riders to reserve a ride (or 
+delivery) from an origin to a destination. 
+Requests during service hours: “Total ride requests” made during service 
+hours. 
+Met Demand: total number of Ride Requests that received a ride proposal. 
+Met Demand Rate: ‘Met Demand’ out of ‘Total ride requests,’ as a 
+percentage. 
+Completed rides: total number of riders (including additional passengers) 
+successfully transported. 
+Completed Rides Rate: ‘Completed Rides’ out of ‘Total ride requests,’ as a 
+percentage. 
+Utilization: average number of passengers transported per vehicle per hour. 
+Service Operations Metrics 
+Graphs  
+Graphs/visualization of key 
+metrics by day, week, month, 
+or specific days of the week 
+Met Demand: total number of Ride Requests broken out by met demand and 
+rides unable to fulfill. 
+Detailed Ride Requests Status: detailed breakdown of the outcome for each 
+Ride Request (e.g., completed, cancelled, no show) 
+Utilization: average number of passengers transported per hour by day 
+Rider Experience  
+Snapshot of quality of service 
+and rider experience 
+Top Level Metrics 
+Average Ride Duration: average time in minutes from pick-up to drop-off 
+(displayed for completed rides only). 
+Average Ride Rating: average ride rating provided by riders (out of 5 stars). 
+Average Pickup Walking Distance: walking distance from the origin 
+requested by the rider to the actual pickup location assigned. 
+Rider Experience Graphs (filterable by day, week, month) 
+Average Ride Duration, Distance, Rating, and Pickup Walking Distance  
+Data Generator: Ride Request 
+Table 
+Detailed table of every ride 
+request made for the service 
+Data Columns in Table 
+Request Creation Date and Time; Request ID, Status, Rider ID 
+Wheelchair Accessible; Number of Passengers 
+Origin Address, Latitude and Longitude Destination Address, Latitude and 
+Longitude Ride Price, Distance, Duration (minutes)  
+ 
+ 
+ 
+ 
+ 
+ 
+2026 PCS with River North Transit, LLC 
+BCC Business Meeting - 2/24/2026 
+Page 28 of 30
+=== page 29 ===
+29 
+ 
+IN WITNESS WHEREOF, the County and the Consultant have executed this Contract as of the 
+above date. 
+ 
+RIVER NORTH TRANSIT, LLC  
+BY: ___________________________         
+ 
+Printed Name: __Erin Abrams_____   
+ 
+ 
+Title: __Chief Legal Officer________   
+ 
+ 
+DATE: _________________________ 
+Signature of Notary Public Required: 
+STATE OF COLORADO__________       ) 
+      )      ss. 
+COUNTY OF ________________  
+      ) 
+The foregoing instrument was acknowledged before me this _____ day of ___________, 2026, by 
+__________________________. 
+Witness my hand and official seal 
+____________________________________ 
+Notary Public 
+My commission expires: ______________ 
+ 
+ 
+2026 PCS with River North Transit, LLC 
+BCC Business Meeting - 2/24/2026 
+Page 29 of 30
+=== page 30 ===
+30 
+ 
+BOARD OF COUNTY COMMISSIONERS   
+APPROVED AS TO CONTENT: 
+OF THE COUNTY OF DOUGLAS 
+ 
+__________________________________  
+__________________________________ 
+GEORGE TEAL, Chair  
+ 
+Date 
+ 
+DOUGLAS J. DEBORD  
+ 
+Date 
+County Manager 
+ 
+ATTEST 
+ 
+_____________________________________ 
+HAYLEY HALL 
+ 
+ 
+Date 
+Clerk to the Board 
+ 
+ 
+_____________________________________ 
+JENNIFER L. EBY 
+ 
+ 
+Date 
+Director of Community Services 
+ 
+ 
+APPROVED AS TO FISCAL CONTENT:  
+ 
+APPROVED AS TO LEGAL FORM: 
+ 
+_____________________________________   
+_____________________________________ 
+CHRISTIE GUTHRIE  
+ 
+Date   
+ARIELLE J. DENIS   
+ 
+Date 
+Assistant Director of Finance  
+ 
+ 
+Assistant County Attorney 
+ 
+ 
+APPROVED AS TO INSURANCE REQUIREMENTS: 
+ 
+______________________________________________  
+MEGAN DATWYLER 
+ 
+ 
+ 
+Date 
+Risk Manager  
+ 
+2026 PCS with River North Transit, LLC 
+BCC Business Meeting - 2/24/2026 
+Page 30 of 30

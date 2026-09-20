@@ -1,0 +1,281 @@
+# source: raw/bleecker_drive/Arlington, Virginia/arlington-transit-fy25-34-tsp-final.pdf
+# path: raw/bleecker_drive/Arlington, Virginia/arlington-transit-fy25-34-tsp-final.pdf
+# hit page: 181 of 333
+# terms: Via+per revenue hour, Via+vehicles
+
+=== page 180 ===
+Planned Service Improvements
+Arlington Transit Strategic Plan | Chapter 3 - Planned Improvements and Modifications
+54
+Route 74
+FIGURE 17 | ROUTE 74 (PROPOSED)
+Background
+Route 74 is tied for the lowest ridership and operates as the second least productive route in the ART system. It 
+currently operates as one of the STN routes with 30-minute peak-period-only service operating between 6:09 AM 
+and 9:49 PM and between 8:08 AM and 7:46 PM. Route 74 provides connections from Arlington Village and 
+Arlington View along Columbia Pike and S Hayes Street to Washington Boulevard, connecting with the Pentagon 
+City Metro Station and other destinations in Pentagon City. It also provides service to many equity-focus 
+neighborhoods and valuable connections between busy and vital travel corridors and destinations with above-
+average ridership, including:
+
+Metrorail
+o
+Pentagon City 
+
+Neighborhood Centers
+o
+Columbia Pike Village Center
+o
+Columbia Pike Town Center
+o
+Columbia Pike Village Center
+o
+Pentagon City
+
+Schools
+o
+Arlington Career Center
+o
+Arlington Community High School
+o
+Arlington Tech
+
+Community Centers
+o
+Carver Center
+o
+Gulf Branch Nature Center
+o
+Walter Reed CC
+=== page 181 ===
+Planned Service Improvements
+Arlington Transit Strategic Plan | Chapter 3 - Planned Improvements and Modifications
+55
+The two busiest stops on the route are S Hayes Street at 12th Street S with 32 average weekday boardings in 
+2021, and S Walter Reed Drive at Columbia Pike, with 26 average weekday boardings. Over the past four years, 
+Route 74 ridership peaked in February 2020 at 95 average weekday boardings, with service suspended from April 
+2020 to August 2021. Ridership was at its lowest point at 12 average weekday boardings in January 2022, 13% of 
+the 2019 high. This illustrates how teleworking during the COVID crisis and afterward has had a huge impact on 
+transit usage along certain routes.
+Service Recommendations
+1.
+Extend to Crystal City and Long Bridge Aquatic Center.
+2.
+Shift eastern terminus from Pentagon City to Long Bridge Park via Crystal City.
+3.
+Add weekend services and lengthen the weekday span with midday/evening service.
+Expected Outcomes
+The proposed Service Recommendations should generate a positive benefit to the community with an increase in 
+ART service to operate all-day 30-minute headways on weekdays and weekends. This would significantly 
+increase the level of service provided to equity-focus populations and high-transit propensity neighborhoods. The 
+route currently operates in an area where half the population within a quarter mile are minority individuals, well 
+above the countywide share of 39%. Adding midday and weekend services should improve ridership productivity 
+metrics and support riders who depend on this route daily. The proposed changes will add 22 Vehicle Revenue 
+Hours per weekday, and an approximate annual increase in Vehicle Revenue Hours of about 7,850 hours, an 
+increase of 371%. There is no anticipated need for additional vehicles to support this new service.
+TABLE 49 | ROUTE 74 EXISTING PERFORMANCE METRICS
+Target 
+(STN)
+Weekday 
+ART Rank
+Weekday
+Saturday
+Sunday
+Average Daily Ridership
+-
+15th (Tied)
+ 16 
+-
+-
+Farebox Recovery
+20%
+14th (Tied)
+2%
+-
+-
+Passengers Per One Way Trip
+-
+15th
+1.2
+-
+-
+Passengers Per Revenue Hour
+15
+14th
+2.4
+-
+-
+Passengers Per Revenue Mile
+-
+14th (Tied)
+0.1
+-
+-
+On-Time Performance
+95%
+14th 
+80.2%
+-
+-
+=== page 182 ===
+Planned Service Improvements
+Arlington Transit Strategic Plan | Chapter 3 - Planned Improvements and Modifications
+56
+TABLE 50 | ROUTE 74 EXISTING AND PROPOSED OPERATING STATISTICS
+Performance Evaluation Metrics
+Current
+Proposed
+Difference
+Target/Average
+From
+Arlington Village
+To
+Pentagon City
+Long Bridge 
+Park
+Start Time
+5:53 AM/3:35 PM
+6:00 AM
+-0:07
+Weekday
+End Time
+9:10 AM/7:55 PM
+9:00 PM
++1:05
+Start Time
+-
+8:00 AM
+Saturday
+End Time
+-
+7:00 PM
+Start Time
+-
+8:00 AM
+Service 
+Times
+Sunday
+End Time
+-
+7:00 PM
+Weekday
+7:37
+15:00
++ 7:23
+Saturday
+-
+11:00
++11:00
+Span
+(Hours / 
+Minutes)
+Sunday
+-
+11:00
++11:00
+>=18:00
+Early
+-
+-
+0
+AM Peak
+30
+30
+0
+Midday
+-
+30
++30
+PM Peak
+30
+30
+0
+Evening
+-
+30
++30
+Weekday
+Late
+-
+-
+0
+Core *
+-
+30
++30
+Saturday
+Non-Core *
+-
+-
+-
+Core *
+-
+30
++30
+Frequency 
+(Minutes)
+Sunday
+Non-Core *
+-
+-
+-
+<=30
+Weekday
+8
+31
++23
+n/a
+Saturday
+-
+20
++20
+n/a
+Sunday
+-
+20
++20
+n/a
+Vehicle 
+Revenue 
+Hours
+Annual
+2,117
+9,967
++7,850
+n/a
+Minority
+50%
+49%
+-1%
+39%
+Low income
+12%
+13%
++1%
+14%
+Equity 
+Share
+Limited English 
+Proficiency
+4%
+7%
++3%
+5%
+Peak Vehicles
+2
+2
+0
+n/a
+Annual Operating Cost
+$0.25 M
+$1.17 M
++$0.92 M
+n/a
+Estimated Ridership Impact (FY21 
+base)
+86
+181
++95
+n/a
+* Core hours vary by weekend day, but represent the busiest hours of the day, while non-core hours are those 
+outside of dominant travel times.

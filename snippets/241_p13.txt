@@ -1,0 +1,129 @@
+# source: https://douglascounty.legistar1.com/douglascounty/attachments/f881da66-e295-443f-8793-a75389fa9535.pdf
+# path: raw/cache/2e2d114850d5a0ab72dc95e81f3c53f185700cb2.pdf
+# hit page: 13 of 30
+# terms: River North Transit, Via+drivers, Via+fleet, Via+licensing, Via+vehicles
+
+=== page 12 ===
+12 
+ 
+ 
+• App: The Contractor shall provide a fully tested smartphone app interface to allow passengers to 
+reserve and schedule microtransit trips. The app will be fully integrated with the existing Link on 
+Demand app.  Beta versions are not allowed and the fully tested smartphone app interface must be 
+publicly available to both iPhone and Android users, meeting ADA accessibility requirements. 
+The App shall allow passengers to: 
+o See the microtransit service zone and available vehicles on a map interface. 
+o Rate drivers and service quality. 
+o See information on the requested vehicle and driver prior to reserving a trip or pick up, 
+including ability to see the estimated time of pick up at requested departure location and 
+estimated time of arrival at requested destination. 
+o Indicate if they need an ADA-accessible vehicle. 
+o Indicate group size and specify if any children are in the group. 
+o View real time audio/visual directions and notifications for drivers. 
+o Create a passenger profile that identifies special needs of the rider in terms of vehicle type 
+or accessibility. 
+o Upgrade the technology for current and future app users, as becomes available. 
+o Brand with the County service name and logo. 
+o View the address and name of business when making a reservation. 
+o Have easy passenger directions to a virtual stop or pickup point (for example, nearby cross 
+street). 
+o Reserve trips in advance.  
+2026 PCS with River North Transit, LLC 
+BCC Business Meeting - 2/24/2026 
+Page 12 of 30
+=== page 13 ===
+13 
+ 
+ 
+• Phone: At all times in which the microtransit service is operating, the Contractor shall provide 
+access to microtransit passengers without a smartphone through a dispatch phone number. 
+ 
+• Website: The Contractor shall provide a website to showcase the service, communicate any 
+service changes, and provide a reservation option for those who may not be able to use the App or 
+call-in options to request microtransit trips.  
+ 
+• Rider Fare: The rider fare will be $0. During the duration of the Project, rider fare may be 
+amended by mutual agreement between the parties. 
+ 
+• Rider Payment: The Contractor shall ensure acceptance of Rider payment through the app via 
+credit cards and pre-paid debit cards.  
+ 
+Vehicle Fleet: The Contractor shall provide the necessary vehicles to operate the microtransit 
+service and be responsible for vehicle fueling, storage, appropriate licensing, preventative 
+maintenance, cleaning twice weekly inside and out, and unscheduled maintenance of said vehicles, 
+according to industry norms and best practices. Vehicles must be no more than four years old and 
+must be set up for passenger service. Conversions from freight vehicles will not be allowed. For 
+safety, vehicles shall be outfitted with GPS, AVL, and CCTV for vehicle routing, vehicle tracking, 
+and vehicle monitoring/recording onboard activities. The Contractor shall propose additional 
+safety measures that they have found successful in other similar programs.  
+ 
+The cost of the fleet should reflect the in-service and spare vehicles necessary to meet service 
+demands. Initial service offering for the Eastern Zone will include a fleet of gasoline powered 
+vehicles. 50% of the vehicles for the Eastern Zone will be hybrid vehicles. The Contractor shall 
+highlight the pros, cons, and additional considerations of alternate fuel and electric vehicles. 
+ 
+The Contractor’s vehicle fleet shall include a necessary number of branded, licensed, and insured 
+vehicles, including Wheelchair Accessible Vehicles (WAVs), to provide adequate service to the 
+public. The Contractor’s vehicle fleet shall be made available to independent contractor Driver 
+Partners who will gain access to these vehicles after registering on the Platform. If the Contractor’s 
+vehicle fleet is not sufficient to meet service requirements for any reason, the Contractor has the 
+flexibility to (1) supplement the fleet with a temporary fleet that would include other makes and 
+models, and/or (2) allow for Driver Partners to drive their own personal vehicles, to be deployed 
+for temporary short-term periods, as necessary, to increase the supply of vehicle hours. If Driver 
+Partners are to drive their own personal vehicles, the Contractor will provide magnets for personal 
+vehicles to indicate to the public that these drivers are a part of the Project. The magnets will have 
+similar branding used for the regular fleet to place on the exterior and both sides of personal 
+vehicles. 
+ 
+2026 PCS with River North Transit, LLC 
+BCC Business Meeting - 2/24/2026 
+Page 13 of 30
+=== page 14 ===
+14 
+ 
+• ADA: Transit fleet shall include enough ADA accessible vehicles that any passenger using a 
+mobility device such as a wheelchair or walker can have that trip fulfilled in the equivalent 
+timeframe to that of a passenger without a mobility device.   
+ 
+• Third Parties: The Contractor shall accept and work with any third-party service providers that 
+the County may need to contract with to improve the transit service. The Contractor shall 
+investigate integrating transit trip planning with RTD, CDOT Bustang, Google Maps, and any 
+other relevant transit providers.  
+ 
+• Branding: The Contractor shall wrap vehicles as a County-branded service, according to the 
+defined program brand, color scheme, and logo. The Contractor to provide design and costs 
+associated with vinyl graphics application 
+ 
+• Compliance: The Contractor shall comply with all applicable local, state, and federal rules, 
+requirements, certifications, clauses, and circulars. With the cooperation and assistance of the 
+County, the Contractor shall ensure the execution of all necessary registrations and licensing 
+required to perform the Services. 
+ 
+• Storage: The Contractor is responsible for storing, maintaining, and fueling the vehicles and 
+housing operations, maintenance, and administration. Vehicle storage will take place at a County 
+provided facility. For the Western Zone, in return for use of facilities for storage provided by the 
+County, the Contractor will provide a parking credit of $2,000 per month on each monthly invoice. 
+For the Eastern Zone, in return for use of facilities for storage provided by the County, the 
+Contractor will provide a parking credit of $1,500 per month on each monthly invoice. 
+ 
+• Service Adjustments: The Contractor shall allow service adjustments to the transit service 
+including fixed route schedule and routing, microtransit zone, service times, service days, and trip 
+reservation parameters, as necessary to improve service over time. Service adjustments may 
+require budget adjustments that may be discussed and agreed upon by the parties in writing as an 
+amendment to the Contract.  
+Project Team & Governance 
+During the Project, the Contractor will be responsible for the integration of all relevant elements 
+of the Project on a continuous basis and designate a project manager for this purpose who will lead 
+the Contractor’s Project Team. During the Project, the County will also designate a project 
+manager to be the primary point of contact for the Contractor. The Contractor’s Project Manager 
+will be in regular contact with the County’s Project Manager through informal and scheduled 
+project meetings.  
+The Contractor’s Project Manager may make day-to-day decisions related to the Services. The 
+Contractor’s Project Manager will appoint members to the Project Team to assist in the integration 
+of the various elements of the Project, to include personnel with expertise in service scoping, 
+independent contractor driver outreach and registration to the Platform, fleet maintenance 
+procurement, marketing, and data analytics. The Contractor’s Project Manager will have no power 
+to serve notice or amend the Contract or its exhibits. 
+2026 PCS with River North Transit, LLC 
+BCC Business Meeting - 2/24/2026 
+Page 14 of 30

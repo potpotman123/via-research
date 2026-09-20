@@ -1,0 +1,113 @@
+# source: https://rideuta.legistar1.com/rideuta/attachments/7082b6f7-e2a6-435f-99c8-a71933c1ef45.pdf
+# path: raw/cache/871800fa93efe67009d0da07483da0a218db3da2.pdf
+# hit page: 1 of 13
+# terms: River North Transit, Via+drivers, Via+fleet, Via+vehicles
+
+=== page 1 ===
+Service Order No. 3 UTA Contract No. 20-03399-3 
+(Confidential) ∙ Page 1 of 13 
+ 
+ 
+SERVICE ORDER NO. 3 UNDER THE  
+ON-DEMAND TECHNOLOGIES AND INNOVATIVE MOBILITY SERVICES  
+MASTER SERVICES AGREEMENT 
+UTA Contract No. 20-03399-3 
+ 
+ 
+SERVICE ORDER NO. 3  
+UTA ON DEMAND - SOUTHERN DAVIS COUNTY SERVICE AREA 
+DATE: JULY 13, 2022 
+ 
+ 
+1. Purpose 
+ 
+On September 1, 2021, each of River North Transit, LLC (“Via”) and the Utah Transit Authority 
+(“UTA” or “Customer”), hereinafter collectively referred to as the “Parties,” entered into an 
+agreement entitled On-Demand Technologies and Innovative Mobility Services (the “MSA”). By 
+this Service Order No. 3 (the “Service Order”) under the MSA, the parties agree to collaborate 
+towards the initiation of UTA’s demand response transit service (hereinafter the “Deployment”) 
+in Southern Davis County for a period of approximately seventeen (17) months, from August, 
+2022 through December, 2023, subject to extension by mutual agreement of the Parties. 
+ 
+Via will provide UTA with technology and technology-enabled integration services (the 
+“Services”), acting as a broker coordinating the services of third party service providers to 
+effectuate the Deployment. Via will contract with third party service providers to effectuate such 
+integration, including with fleet managers, vehicle suppliers, driver partners, background check 
+providers, customer service support agencies, a payment processor and insurance brokers and 
+underwriters. Via’s Services will include: 
+  
+● A Transportation as a Service (TaaS) solution as defined within the MSA; 
+● Localization of a proprietary cloud-based dynamic vehicle routing and real-time passenger 
+aggregation system;   
+● Access to the Via mobile rider application (iOS and Android) for individuals using UTA’s 
+service (“Riders”) to book and pay for rides through a smartphone; 
+● Access to booking via a dedicated phone line for Riders who do not have access to a 
+smartphone; 
+● Access to the Via mobile driver application for drivers to route and service rides through a 
+smartphone or tablet; 
+● Establish relationship with vehicle rental company (“Vehicle Partner”) to provide access 
+to vehicles on a rental basis to independent contractor driver partners (“Driver Partners”) 
+who shall provide transportation services;  
+● Accompanying technical and operational support service; 
+● Marketing and outreach initiatives as described herein. 
+● Data sharing and reporting as described herein. 
+ 
+Conflicts between this Service Order and any other terms and conditions or written agreements 
+between the Parties, including the MSA, shall be resolved in favor of this Service Order. 
+DocuSign Envelope ID: 826AE357-F515-43E8-9CE8-4FE893CD8E27
+DocuSign Envelope ID: A0FF694A-53D0-4ABA-B4BD-FDFD5120E455
+=== page 2 ===
+Service Order No. 3 UTA Contract No. 20-03399-3 
+(Confidential) ∙ Page 2 of 13 
+ 
+2. Duration & Launch Date 
+  
+The duration of the Deployment shall last for a period of 17 (seventeen) months, until December 
+31, 2023, inclusive, following the launch date (the “Initial Term”), subject to year-by-year 
+extensions based on mutual agreement of the Parties.   
+  
+Service operation of the Deployment will begin on UTA’s August 2022 change day, scheduled for 
+August 7, 2022, unless Via and UTA define an alternative mutually agreeable date in writing 
+(“Launch Date”). UTA will provide to Via written notice to proceed no later than June 19, 2022 
+in order to launch the Deployment on the intended Launch Date.  For the avoidance of doubt, 
+notice to proceed can only be written by UTA once the contract and appendices (including the 
+Service Order) are final and signed, and any necessary local and regulatory approvals have been 
+received or registrations completed. Upon receipt of such written notice to proceed, Via will 
+commence local preparation for launch (“Launch Preparation Period”).  
+ 
+3. Fees 
+  
+The Parties agree to reassess and renegotiate the fees charged by Via to UTA after no later than 
+three (3) months before the end of the Initial Term, if necessary, and to amend and include fees 
+and a fee structure in the Appendices of this Service Order.  
+ 
+Any new regulatory fees imposed by a governmental entity related to the Services will be charged 
+as a pass-through cost contingent on UTA’s advance agreement which will not be unreasonably 
+withheld or delayed. UTA will have the option of decreasing other Services or expenses in order 
+to off-set these additional fees. 
+ 
+4. Service Parameters 
+  
+Pursuant to the MSA and in accordance with Appendix A and B, Via will provide access to a 
+platform service (the “Platform”) through which Riders will be able to book and pay for rides on 
+a shared and on-demand basis and dedicated vehicles will be offered by the Vehicle Partner to 
+Driver Partners on a rental basis.  
+ 
+The Parties agree to amend this Service Order or its appendices no later than three (3) months 
+before the end of the Initial Term with updated parameters regarding the service zone, service 
+times, and vehicle fleet configuration, to be determined per the Parties’ mutual agreement. 
+ 
+Rider Fares: Rider fares and rider fare discounts will be set by UTA. During the duration of the 
+Deployment, discounted and promotional rider fares may be implemented upon mutual agreement 
+between the Parties. 
+ 
+Fare Revenue: UTA shall maintain its partner Braintree (or follow-on commercial vendor) 
+account throughout the Deployment and shall collect and own all revenue from service fares 
+(“farebox revenue”), net of Braintree service fees, in the account.  
+ 
+Payments: Via will ensure acceptance of Rider payment through the Rider app via credit cards, 
+Apple Pay, Google Pay, pre-paid debit cards, FAREPAY cards, and all electronic pass cards 
+accepted by UTA. Riders may also book trips using a “paper ticket” payment method and will be 
+permitted to ride if the Driver Partner serving that Rider’s trip deems the paper ticket valid. Via 
+DocuSign Envelope ID: 826AE357-F515-43E8-9CE8-4FE893CD8E27
+DocuSign Envelope ID: A0FF694A-53D0-4ABA-B4BD-FDFD5120E455

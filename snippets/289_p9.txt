@@ -1,0 +1,97 @@
+# source: raw/bleecker_drive/Arlington, Texas/Via_Contract_Renewal_redacted.pdf
+# path: raw/bleecker_drive/Arlington, Texas/Via_Contract_Renewal_redacted.pdf
+# hit page: 9 of 13
+# terms: Via+drivers, Via+fleet, Via+vehicles
+
+=== page 8 ===
+commercially reasonable efforts to operate a service that delivers upon the City’s goals and makes the 
+most of the resources available for the project. 
+  
+During the Contract term, the Contractor shall use commercially reasonable efforts so that the service 
+scope parameters be as follows: 
+  
+1. Service Days/Hours: Hours in which the Dynamic Direct Route service will operate will be 
+mutually agreed upon in writing (email being sufficient). Service Days and Hours may be 
+changed or extended at City’s request and mutual agreement between the City and Contractor. 
+For all other services, Monday through Saturday excluding holidays, for which a mutual decision 
+whether the service should operate during such days will be made between the City and 
+Contractor. The service will operate from 6am to 9pm, Monday through Friday, and 9am to 9pm 
+on Saturdays. Service Days and Hours may be changed or extended at City's request and mutual 
+agreement between the City and Contractor. 
+  
+2. Geographic Coverage: The service area for the Contract term will be the area noted as the Service 
+Area in Section I(G) of the Contract. The service area may be revised upon request of the City 
+and mutual agreement between the City and Contractor. The service area for the Dynamic Direct 
+Route services will be designated by two core anchor points within the City’s on-demand 
+rideshare service, including the Centreport Station and the Downtown/UTA hub. The service area 
+may be revised upon request of the City and mutual agreement between the City and Contractor. 
+  
+3. Ride Pricing: Ride Cost will be $3 to $5 per passenger, based on distance traveled, with discounts 
+and/or promotions made available to users occasionally. Based on data collected during service 
+operations, the Contractor may request a pricing change. All pricing decisions will be made based 
+on mutual discussion and agreement between the City and Contractor. With respect to the 
+Dynamic Direct Route services, ride cost will be $3 to $5 per passenger based on distance 
+traveled, with discounts and/or promotions made available to users occasionally. Ride Cost may 
+change but will not exceed $5 per passenger. Based on data collected during service operations, 
+the Contractor may request a pricing change beyond the $5 per passenger maximum. All pricing 
+decisions will be made based on mutual discussion and agreement between the City and 
+Contractor 
+  
+The Service Scope Parameters defined above may be re-defined or adjusted by mutual agreement between 
+the City and Contractor at any time based on additional data or new information collected. 
+6. Fleet 
+A. General Fleet Plan 
+  
+Contractor will cause a sufficient fleet of vans to be deployed for the Service, and to be custom branded 
+using magnets or vehicle decals so as to be easily recognizable. The number of vans included in the fleet 
+may be increased or decreased upon request by the City and agreement of both Parties.  Vehicle types 
+must be approved by the City prior to being added to the fleet. Qualified and accredited independent
+=== page 9 ===
+contractor drivers will be able to gain access to these vehicles after being registered onto the Via system, 
+enabling these individuals to sign up for specific daily driving sessions or longer periods of work. 
+As necessary, Contractor may also establish a means for independent contractor drivers to drive on the 
+Via platform using their own qualified vehicles, for instance, during times of high demand when the fleet 
+cannot meet total demand. The decision to begin utilizing independent contractor driver’s personal 
+vehicles must be approved by City. 
+For all drivers on the Service, Contractor shall ensure that driver registration and certification protocols 
+are compliant with relevant City and FTA guidelines (as outlined in Sections I, J and N of the Contract), 
+including drug & alcohol regulations. Contractor shall create processes designed to ensure that any 
+vehicles used in the delivery of service during the Service are kept clean and service-ready and meet the 
+City guidelines outlined in Section I of the Contract. 
+With respect to autonomous vehicles, Contractor will ensure that any operators, whether in person or 
+remote, are qualified and accredited, and comply with all relevant City and FTA guidelines, including any 
+drug & alcohol regulations. All autonomous vehicles added to the fleet must meet at least the same 
+standards as non-autonomous vehicles in the current Via fleet, to the extent applicable taking into 
+consideration the nature of such autonomous vehicles. 
+ 
+B. Wheelchair Accessible Vehicle (WAV) Fleet 
+  
+Contractor will contract with a vehicle provider that shall develop and maintain a WAV fleet plan that 
+satisfies relevant FTA ADA requirements - including the equal provision of service to potential riders of 
+all physical means. Contractor shall procure through its partnership with May Mobility at least one (1) 
+autonomous vehicle to its WAV Fleet, which will operate under the Arlington RAPID program, as 
+described in Section 11.  
+  
+To fulfill this goal, Contractor shall cause to be deployed for the Service appropriately-qualified drivers 
+operating existing City vehicles, taxi or livery vehicles, or dedicated vehicles specifically deployed for the 
+Service.  
+ 
+7. Customer and Driver Support 
+While its platform is highly automated, and requires minimal human intervention to operate, Contractor 
+shall provide high-quality customer service to both customers and driver partners during the course of the 
+Service. If an issue arises for a customer or driver before, during, or after a ride, these parties will be able 
+to reach customer service staff by in-app form submission, by submitting an email ticket, or by calling in, 
+which will be replied to promptly by such staff. 
+  
+Upon request by the City, the Contractor shall provide to the City a periodic reporting system of customer 
+service events, in order to maximize the City’s learnings about the Service.
+=== page 10 ===
+8. Marketing & Promotions 
+Contractor shall work closely with the City to create a unified marketing and promotional program that 
+increases community awareness of the Service and maximizes its success. The City will cooperate with 
+Contractor in all respects and support Contractor’s team by providing useful local insights and leveraging 
+existing marketing platforms to amplify the Service. 
+9. Data Sharing & Reporting 
+Contractor shall regularly share with the City a collection of data generated by the Service, in order to 
+provide the City with useful insights about mobility in Arlington, and the operation of a flexible 
+transportation system.

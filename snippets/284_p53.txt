@@ -1,0 +1,135 @@
+# source: raw/bleecker_drive/Arlington, Texas/FTA-Report-No-0244.pdf
+# path: raw/bleecker_drive/Arlington, Texas/FTA-Report-No-0244.pdf
+# hit page: 53 of 74
+# terms: Via+vehicles
+
+=== page 52 ===
+Section 5
+	
+FEDERAL TRANSIT ADMINISTRATION 	
+43
+RAPID Project Conclusions and 
+Recommendations 
+Conclusions and Recommendations
+As a result of the Arlington RAPID project, the team can draw conclusions 
+about key aspects of the demonstration and make recommendations that are 
+hopefully applicable to other entities working on similar AV demonstration and 
+integration projects. Key lessons learned and recommendations fall into the 
+following categories:
+•	 Ridership
+•	 Operations
+•	 Communications
+•	 Research
+Ridership 
+In the area of ridership, the project team studied ridership performance metrics, 
+rider experience, and feedback directly from riders to develop lessons learned 
+and recommendations. Ridership on the service was quite robust, with over 
+28,000 rides provided in the one-year demonstration, and riders expressed 
+high levels of satisfaction with the service, averaging 4.9 out of 5 stars for the 
+rider satisfaction rating. Rider experience metrics also denote good service, 
+with on-time percentages at 99 percent to 100 percent and wait times averaging 
+between 6 and 15 minutes. Riders also chose the AV rides at high rates, with 
+average acceptance rates between 74 percent and 93 percent. Some of the likely 
+reasons for the high number of rides taken on the service include the free fares 
+for UTA students and the diversity of appealing destinations within the service 
+area, including residential, school, work, and entertainment uses. Feedback 
+from the riders in the form of surveys, interviews, and focus group discussions 
+also illustrate why riders chose the RAPID service, including ease of booking and 
+scheduling, reasonable price, comfortable rides, and feelings of safety. Riders 
+also shared that if RAPID had shorter wait times and served a larger geographic 
+area, they would have been even more likely to ride more frequently. 
+Based on the lessons learned about RAPID ridership, several recommendations 
+have been developed by the project team: 
+•	 Select the use case and demonstration area carefully. AV services that 
+operate as part of the public transportation system must have a range of 
+clear uses for a variety of riders to ensure strong ridership. A density of 
+population and diversity of uses within the AV service area will help drive
+=== page 53 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+44
+SECTION  | 5
+ridership and allow the AV service to meaningfully complement other 
+modes of transportation. 
+•	 Consider fare structure cautiously. While standard fares did apply on the 
+RAPID service, most of the ridership was driven by free rides taken by UTA 
+students. The free ride was a significant incentive for riders and charging 
+for the AV rides may have reduced ridership numbers overall. 
+•	 Track rider experience metrics carefully to keep service consistent 
+and efficient. The project team tracked several rider experience metrics, 
+including wait times, on-time performance, acceptance rate, and rider 
+satisfaction throughout the demonstration to ensure the service was 
+performing well for riders. 
+•	 Gather feedback directly from riders throughout and use this to 
+inform service. Ridership surveys conducted throughout the length of the 
+demonstration allowed the project team to monitor rider experience and 
+adjust the service where necessary and possible.
+Operations 
+With the complex operation of AVs integrated into an existing rideshare 
+service for RAPID, there were many operational elements that the project 
+team monitored and adjusted during the demonstration, including autonomy, 
+integration, and software performance. By looking at both autonomy 
+percentage for the overall service, which increased over the time of the 
+demonstration, and by looking at autonomy heatmaps for the entire service 
+area, the project team was able to target specific areas for modifications to 
+improve autonomy, such as trimming vegetation, remapping areas under 
+construction, and adjusting to pedestrian activity. Most integration work 
+between the Via and May Mobility teams necessary to ensure seamless booking 
+and dispatch of the AVs was in place before demonstration launch, but there 
+were some adjustments that needed to be made during the demonstration 
+to help the service function at a higher level. The Via and May Mobility teams 
+worked closely together to communicate any issues and solve them in a way 
+that worked for both platforms. Software updates rolled out by the May Mobility 
+team also addressed operational elements, such as improving traffic light 
+detection, predicting the path taken by other vehicles, and staying in automated 
+mode at passenger stops. It was important to test these updates both internally 
+with the May Mobility platform, as well as with the Via platform, to ensure all 
+elements of the service operated smoothly after any software update. 
+Feedback from riders about operational elements was also received by the 
+project team and used to adjust operations of the demonstration. Two frequent 
+comments from riders centered around high levels of noise and heat, generated 
+by the computers in the trunk of the vehicles, making the ride less comfortable 
+for passengers. The project team was able to mitigate both issues during the 
+demonstration, significantly improving the rider experience. Additionally, by
+=== page 54 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+45
+SECTION  | 5
+studying the ride request data, it was clear that there was much more rider 
+demand in the later hours of the day, compared to early morning hours, leading 
+to a shift in operating hours from 7 a.m. to 7 p.m. to operating hours from 8 a.m. 
+to 8 p.m. part of the way through the demonstration. 
+Operational recommendations stemming from the RAPID demonstration 
+include:
+•	 Set expectations regarding autonomy performance according to 
+complexity of demonstration environment. Most demonstration 
+environments for public transportation will have at least some challenging 
+areas or elements where the AV technology may be unable to perform 
+at full autonomy. Being prepared for this reality and communicating to 
+project partners and sponsors will help set reasonable expectations. 
+•	 Maintain clear and constant communication between partners. 
+Weekly project team meetings for all partners allow the team to monitor 
+performance closely and address any issues that arise. Subgroup 
+meetings of the technical teams are also necessary to address integration 
+adjustments and software updates. 
+•	 Remain flexible to adjusting the service to meet the needs of riders. 
+Many aspects of a service can be changed, if necessary, even during a 
+demonstration, to ensure that the needs of riders are being met and the 
+service is providing the highest quality experience possible. 
+Communications 
+Lessons learned from the RAPID communication, outreach, and marketing 
+efforts can be gleaned from efforts conducted prior to service launch and from 
+ongoing communication efforts during demonstration. The pre-launch activities 
+included brand creation, development of marketing materials and a service 
+website, and a well-attended launch event with strong local and regional media 
+coverage. The project team also conducted outreach to organizations within 
+the service area, hosted focus groups with potential riders, and conducted first 
+responder training. These activities helped build awareness of and excitement 
+about the service before launch. Marketing materials, project website, and news 
+stories about RAPID continued to be promoted and shared for the full course 
+of the demonstration. However, it was revealed during post-demonstration 
+interviews and focus group discussions that people were unaware of the 
+service or did not fully understand all aspects of the service, even after all the 
+outreach performed by the team. While the project team believes those who 
+were reached by the communications efforts understood the service and were 
+accepting of AV technology, it is clear that more could have been done to reach 
+more people.

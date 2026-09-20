@@ -1,0 +1,165 @@
+# source: raw/bleecker_drive/Arlington, Virginia/arlington-transit-fy25-34-tsp-final.pdf
+# path: raw/bleecker_drive/Arlington, Virginia/arlington-transit-fy25-34-tsp-final.pdf
+# hit page: 242 of 333
+# terms: Via+vehicles
+
+=== page 241 ===
+Appendix A
+Arlington Transit Strategic Plan | Appendix A - Agency Profile and System Overview
+2
+A.2 Governance 
+Arlington County is governed by a five-member County Board vested with legislative powers. Elected at-large, 
+members serve 4-year terms. The Board’s current Chair is Christian Dorsey and the Vice-Chair is Libby Garvey.  
+The other members are Takis P. Karantonis, Matt de Ferranti, and Tannia Talento. The County Board sets policy, 
+which is then administered by the County Manager, Mark Schwartz. Board Members also serve on regional 
+advisory groups and commissions addressing transportation issues. Such organizations include the Metropolitan 
+Washington Area Transit Authority (WMATA), Northern Virginia Transportation Commission (NVTC), Northern 
+Virginia Transportation Authority (NVTA), and Metropolitan Washington Council of Governments (MWCOG). The 
+County Transportation Commission (TC) reviews transportation-related issues involving Arlington streets, transit, 
+pedestrian, taxicabs and bicycle modes and their relation to site plans, local area and sector plans. The TC also 
+advises the County Board on the implementation of elements of the Master Transportation Plan. The TC, formed 
+in 1972, generally meets on select Thursday nights ranging from once to twice monthly. Members are appointed 
+by the County Manager to 4-year terms; the chairman is designated by the County Board in June each year. The 
+Commission is comprised of seven to 13 members. Current members are:
+
+Chris Slatt, Chairman (term ends June 30, 2024)
+
+Bryan Coleman (term ends February 28, 2026)
+
+Justin Furhmann (term ends July 31, 2026)
+
+Sohail Husain (terms ends November 30, 2025)
+
+Sean Knowlan (term ends February 28, 2025)
+
+Jim Lantelme (term ends March 31, 2024)
+
+June Locker (term ends October 31, 2024)
+
+Donald Ludlow (term ends September 30, 2024)
+
+Ajdin Muratovic (terms ends December 31, 2023)
+
+Thomas Shannon (term ends April 30, 2025)
+
+Jane Terry (term ends January 31, 2025)
+
+Adam Theo (term ends February 28, 2026)
+
+Chris Yarie (term ends December 31, 2023)
+The Transit Advisory Committee (TAC) advises the County Manager and other staff on issues related to transit in 
+Arlington and involving ART, Specialized Transit for Arlington Residents (STAR), Metrobus, Metrorail, and 
+MetroAccess. The panel also provides input on implementation of transit elements from the Master Transportation 
+Plan. The Committee is comprised of up to 15 members, all of whom must live or work in the County, appointed 
+by the Manager. The current members are:
+
+John Carten (Chair)    
+
+James Davenport (Vice Chair)
+
+Harvey Berlin
+
+Erika Chiang
+
+Frank Krol
+
+Suzette Risacher
+
+Alexander Cumana
+
+Kate Garman
+
+Ronald Decker
+
+Herschel Kanter
+
+Laura MacNeil
+
+Alexa Mavroidis
+
+Andrew McAllister
+
+Patrick Thomson
+
+Mariela Garcia-Colberg
+
+David Sisson
+=== page 242 ===
+Appendix A
+Arlington Transit Strategic Plan | Appendix A - Agency Profile and System Overview
+3
+The Transit Accessibility Subcommittee reviews accessibility issues in Arlington, including access to transit 
+vehicles, stops and stations and the specialized transit services provided by Metrorail, Metrobus, ART, STAR and 
+MetroAccess. Members are:
+
+Alexis Mavroidis (Chair)
+
+Herschel Kanter
+
+Laura MacNeil
+The TAC usually meets every two months for 90 minutes via Microsoft Teams or by phone. The subcommittee 
+usually meets every two months.
+A.3 Organizational Structure
+Arlington County’s Department of Environmental Services (DES) is responsible, through its Transit Bureau, for 
+providing public transportation that encompasses a network of transit services and facilities. Arlington Transit 
+(ART) is one element of the program that also includes Metrorail, Metrobus, MetroAccess, STAR, Commuter 
+Services, and Virginia Railway Express.
+FIGURE 2 | ORGANIZATION CHART FOR ARLINGTON COUNTY DEPARTMENT OF ENVIRONMENTAL SERVICES, 
+TRANSIT BUREAU
+=== page 243 ===
+Appendix A
+Arlington Transit Strategic Plan | Appendix A - Agency Profile and System Overview
+4
+Greg Emanuel is Director of the Arlington County Department of Environmental Services, and he establishes 
+policy and directive guidance for the management of the department. T Hui Wang, Deputy Director of the Division 
+of Transportation and Development Services (DOT) also holds the title of Director of Transportation. The Director 
+of Transportation oversees five bureaus: Transportation Engineering & Operations, Transit, Development 
+Services, Transportation Planning, and Commuter Services. The Director of Transportation has Transportation 
+Program Support staff that deals with Operational Program Financial Management as well as Capital Program 
+Financial Management and Compliance. Staff in the Transportation Program Support section include a 
+Management & Budget Specialist, who supervises the Capital Budget Analysts. There is a Transportation Grants 
+Manager plus a Contract Administrator, who supervises a Contract Specialist.
+Lynn Rivers, Transportation Chief, has responsibility of day-to-day activities of the Transit Bureau. The bureau 
+provides Fixed Route and Paratransit service in Arlington and a Capital Program responsible for design and 
+construction of transit infrastructure. Staff leading the Transit Bureau are Pierre Holloman, Assistant Chief, Robin 
+McElhenny, Capital Program Manager and Transit Services Manager Clinton Edwards.
+The Transit Services Manager Clinton Edwards is responsible for local transit services including ART fixed route 
+and STAR para-transit services, which are provided through public-private partnerships. The Transit Services and 
+Operations team is responsible for leading the procurement process and overseeing the provision of contracted 
+services, including service planning and evaluation; development of ART timetables; procurement of ART buses 
+and support technology and equipment; and, in conjunction with the Commuter Services Bureau and other DOT 
+staff, marketing of services and community engagement. Mr. Edwards’ team oversees the work of several 
+contractors and also deals with other County departments:
+
+Since December 2019, First Transit operates, maintains, supervises and dispatches ART buses. This contract 
+is structured to separate variable costs from fixed costs to minimize risk to both the County and Contractor 
+and enable the Contractor to provide high-quality service on a continuing basis. The current contract is set to 
+expire in December 2024 with an option to extend. (First Transit was purchased by Transdev in late 2022. 
+Contract references will still use First Transit.)
+
+ART Transit Technology capabilities are provided via contracts either directly through the County or through 
+First Transit.
+
+ART marketing capabilities are enhanced with personal service and company contracts overseen by the 
+Commuter Services Bureau for marketing and webmaster services.
+
+First Transit is responsible for the STAR Call Center, which oversees paratransit street operations as well as 
+books and schedules STAR rides and provides summary statistics each month.
+
+Diamond Transportation operates 14 vehicles dedicated to STAR services and, through the same contract, 
+another 13 vehicles dedicated to transporting Arlington County Department of Human Services’ Intellectual 
+and Developmental Disabilities Services (IDDS) Division clients to/from day support and employment 
+programs.
+
+Red Top Cab provides taxi dispatch services for STAR, for IDDS clients, as well as the senior center 
+programs operated by the Arlington County Department of Parks & Recreation.
+A.4 Services Provided and Areas Served  
+The Arlington County Department of Environmental Services' Transit Bureau oversees transit operations and 
+provides public transportation services to accommodate the needs of Arlington residents, workers, and visitors. 
+The ART bus service is operated through a competitively procured contract with a private sector company 
+(currently First Transit). Funding for ART bus service is derived from County general funds, fares, state transit aid, 
+and developer contributions. 
+The integrated network of mobility services, designed as an alternative to driving, include Arlington Transit, 
+Specialized Transit for Arlington Residents, Metrorail, Metrobus, MetroAccess, Commuter Services, Virginia 
+Railway Express, Bicycling, Walking, Super Senior Taxi (SST) and Taxi. Below are brief descriptions of each 
+service.

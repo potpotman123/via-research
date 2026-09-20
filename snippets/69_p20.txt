@@ -1,0 +1,104 @@
+# source: https://douglascounty.legistar1.com/douglascounty/attachments/b385dd50-f08d-4727-94a5-dbdf6589f64e.pdf
+# path: raw/cache/5519ad3006aac361693ed262424c38b0419f453b.pdf
+# hit page: 20 of 27
+# terms: Via+fleet, Via+per vehicle hour, Via+subscription, Via+vehicles
+
+=== page 19 ===
+Data Sharing & Reporting 
+The Contractor will share data from the Project as set forth in Exhibit D (the “Data Sharing & 
+Project Data”).  The Data Sharing & Project Data shall be made available in formatted numerical 
+and graphical reports. The information above constitutes proprietary trade secrets of the Contractor 
+and Via and shall be subject to the confidentiality obligations set forth in the Contract.  
+ 
+ 
+(Remainder of Page Intentionally Blank) 
+ 
+ 
+Approval of PCS for Highlands Ranch Link 
+Board of County Commissioners Business Meeting 3/25/2025 
+Page 19 of 27
+=== page 20 ===
+EXHIBIT B 
+Method of Payment 
+ 
+The Fees for the Service are outlined below. The Contractor will require the County to issue an 
+upfront fee, ongoing monthly fees based on vehicle hours. All regulatory fees related to the service 
+will be charged as a pass-through cost. The Project shall include a fleet of vehicles as described in 
+Exhibit A, Service Parameters, subject to extension by mutual agreement of the parties on terms 
+to be agreed, including any change in fees. The total Contract amount shall not exceed the two 
+million nine hundred one thousand four hundred ten dollars and zero cents ($2,901,410.00) 
+Contract Section 4 Maximum Contract Expenditure for the 12-month Contract Section 5 Term.   
+  
+ 
+ 
+Fees assume Launch Date occurs within four months of contract signing. If the Launch Date is 
+delayed beyond four months of contract signing, the parties have the option to renegotiate the fees. 
+Ongoing Invoice Fees will be billed payable in advance on the first of the month and as further 
+specified below.  
+ 
+Fixed Upfront Costs  
+The County shall pay to the Contractor a one-time non-refundable installation fee of one hundred 
+sixty-four thousand dollars and zero cents ($164,000.00), which will be payable in full upon 
+signing of the Contract. In addition to technology localization costs, installation fee includes 
+Wheelchair Access Vehicle (WAV) retrofits at a cost of seventeen thousand dollars and zero cents 
+($17,000.00) each and vehicle wraps for the fleet at a cost of three thousand dollars and zero cents 
+($3,000.00) each. If the County requires additional WAV retrofits or vehicle wraps, the Contractor 
+will bill the County as incurred.  
+ 
+ 
+Ongoing Invoice Fees  
+The County shall be responsible for monthly ongoing fees of seventy dollars and nineteen cents 
+($70.19) per vehicle hour (the “Monthly Subscription Fees”). A vehicle hour is defined as each 
+hour during which a driver is paid on the Via platform. Notwithstanding the number of vehicle 
+Approval of PCS for Highlands Ranch Link 
+Board of County Commissioners Business Meeting 3/25/2025 
+Page 20 of 27
+=== page 21 ===
+hours incurred per month, the County shall be responsible for a minimum Monthly Subscription 
+Fee of fifty-five thousand dollars and zero cents ($55,000) per month (the “Minimum Monthly 
+Fees”). The Minimum Monthly Fees shall be payable in advance on the first of the month provided 
+that the first Minimum Monthly Fees shall be due upon execution of this Contract. If the Monthly 
+Subscription Fees for any month exceed the Minimum Monthly Fees paid hereunder, the County 
+shall be responsible for paying such difference (the “Monthly True-up”) on a monthly invoice 
+basis. All fees set forth herein shall be payable by the County on a net fifteen basis. If the 
+Contractor does not receive timely payment, the Contractor may charge the maximum monthly 
+interest allowed by law or one percent, whichever is greater, suspend performance and seek cost 
+of collection, including reasonable attorneys’ fees.  
+ 
+The Contractor shall provide to the County an invoice statement showing the calculation of the 
+Monthly Subscription Fees incurred based on the actual number of vehicle hours that Driver 
+Partners performed during that month in the form included at the bottom of Exhibit B. The County 
+hereby agrees that the sample invoice form is satisfactory to the County, both in substance and 
+format, and sufficient to process invoicing such that questions regarding invoice or invoice support 
+format will not delay payment to the Contractor. If the County requires additional invoice support, 
+the Contractor will use best efforts to provide it and additional costs may apply.   
+ 
+If changes in applicable federal, state, or local law result in a significant change in the Contractor’s 
+costs, the parties may opt to renegotiate the ongoing monthly fees. Should changes in applicable 
+market dynamics result in an increase in the Contractor’s cost per hour of ten percent (10%) or 
+more to any of the following categories, compared to costs at the time of contract signing, the 
+parties may amend the ongoing on-demand vehicle hour rate to cover labor (driver pay), vehicle 
+rental, and fuel.  
+ 
+Should the Contractor elect to adjust the per vehicle hour rate, the Contractor shall provide 
+supporting documentation of the relevant cost increases to the County, and the Contract and/or its 
+exhibits will be amended to reflect the new Fee structure and per vehicle hour rate so that, at the 
+discretion of the County, either:  
+1. The total not-to-exceed contract value is adjusted such that the total not-to-exceed number 
+of vehicle hours remains unchanged, or  
+2. The total not-to-exceed number of vehicle hours is adjusted such that the total not-to-
+exceed contract value remains unchanged.  
+ 
+ 
+Launch Delay  
+If the Launch Date is delayed for more than thirty (30) days by the County for any reason, the 
+County shall be responsible for paying the Contractor for any actual out of pocket costs incurred 
+by the Contractor  in preparation for launch (the “Upfront Costs”) and a two thousand dollars and 
+zero cents ($2,000.00) technology fee for the cost of maintaining the technology infrastructure for 
+the County’s deployment during the period of delay (the “Technology Fee”). The Upfront Costs 
+shall be payable within fifteen days from the date the County notifies the Contractor of the delay 
+and the Technology Fee shall be payable monthly at the beginning of the month in which it is 
+incurred. 
+Approval of PCS for Highlands Ranch Link 
+Board of County Commissioners Business Meeting 3/25/2025 
+Page 21 of 27

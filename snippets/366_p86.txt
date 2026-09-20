@@ -1,0 +1,158 @@
+# source: raw/bleecker_drive/Lee County/RFP250034SML Via Mobility Executed.pdf
+# path: raw/bleecker_drive/Lee County/RFP250034SML Via Mobility Executed.pdf
+# hit page: 86 of 171
+# terms: Via Mobility
+
+=== page 85 ===
+VER 06-12-24 
+49 RFP250034SML – LeeTran Paratransit Software Management 
+Form 1 – Solicitation Form, Page 2 
+3 
+Business Relationship Disclosure Requirement:  Sections 112.313(3) and 112.313(7), FL§, prohibit certain business 
+relationships on the part of public officers and employees, their spouses, and their children.  See Part III, Chapter 112, 
+FL §  and/or the brochure entitled "A Guide to the Sunshine Amendment and Code of Ethics for Public Officers, 
+Candidates and Employees" for more details on these prohibitions.  However, Section 112.313(12), FL §  (1983), 
+provides certain limited exemptions to the above-referenced prohibitions, including one where the business is awarded 
+under a system of sealed, competitive bidding; the public official has exerted no influence on bid negotiations or 
+specifications; and where disclosure is made, prior to or at the time of the submission of the bid, of the official's or his 
+spouse's or child's interest and the nature of the intended business.  The Commission on Ethics has promulgated this 
+form for such disclosure, if and when applicable to a public officer or employee.   
+If this disclosure is applicable request form “INTEREST IN COMPETITIVE BID FOR PUBLIC BUSINESS” 
+(Required by 112.313(12)(b), Florida Statute (1983)) to be completed and returned with solicitation response.  It is 
+the proposer’s responsibility to disclose this relationship, failure to do so could result in being declared non-
+responsive. 
+Business Relationship Applicable (request form)
+Business Relationship NOT Applicable
+4 
+Disadvantaged, Minority, Women, Veterans Business Enterprise (DBE, MBE, WBE, VBE) 
+Proposer? If yes, please attach a current certificate. 
+Yes 
+No 
+ALL PROPOSALS MUST BE EXECUTED BY AN AUTHORIZED AUTHORITY OF THE PROPOSER, 
+WITNESSED AND  SEALED (IF APPLICABLE) 
+Company Name  (Name printed or typed) 
+Authorized Representative Name (printed or typed) 
+(Affix Corporate Seal, if applicable) 
+Authorized Representative’s Title (printed or typed) 
+Witnessed/Attested by: 
+(Witness/Secretary name and title printed or typed)
+Authorized  Representative’s Signature 
+Witness/Secretary Signature
+Any blank spaces on the form(s), qualifying notes or exceptions, counter offers, lack of required submittals, or 
+signatures, on County’s Form may result in the submission being declared non-responsive by the County. 
+Clara Fain
+Manager
+Erin Abrams, Manager
+Via Mobility, LLC
+Docusign Envelope ID: 752B9FF2-13DF-4C56-A75E-49B450C74BBF
+EXHIBIT E - PROJECT FUNDING PACKAGE
+1x 
+□ [x] 
+G 
+Doc,Sigoed bye 
+{µyo., 'f o.,ilA, 
+EBB648D9C518449 
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7
+=== page 86 ===
+Sunbiz Address Update 
+ 
+Please note: our address in sunbiz.org does not match the business address on this form, as 
+we have recently changed office locations. We have submitted an address update form 
+(screenshotted below), however the changes have not yet been reflected in sunbiz.org. We 
+have also contacted our Florida registered agent and requested that they submit all necessary 
+paperwork to ensure that our address change has been recorded in the state’s records. Should 
+you have any questions related to this, please do not hesitate to contact us.  
+EXHIBIT E - PROJECT FUNDING PACKAGE
+I 
+~ D IVISION of 
+.?Jd0/Z. 
+CORPORATIONS 
+~ 
+1111 o{fi, wl S1111e of Flond11 11 e/>111e 
+Update the Entity's Current Email Address, FEIN, and Ac 
+(See link below for Registered Agent and Registered Office change forms and fees) 
+Name of Business Entity: 
+Via Mobility, LLC 
+Florida Department of State Document/Registration Number: 
+M2300001357 4 
+Please provide an email so Sunbiz can contact you if needed: 
+procurement@ridewithvia.com 
+If changing entity's email address, enter new email address: 
+If adding or changing Federal Employer Identification Number (FEIN), enter new FEIN: 
+If changing entity's principal office address, enter new street address (P.O. Box IS NOT 
+acceptable) 
+Principal Address: 
+Street Address: 
+City: 
+114 5th Avenue, FL 17 
+New York 
+State: 
+New York 
+Zip Code: 
+10011 
+If changing entity's mailing address, enter new mailing address (P.O. Box § acceptable) 
+Mailing Address: 
+Street Address: 
+City: 
+114 5th Avenue, FL 17 
+New York 
+State: 
+New York 
+Zip Code: 
+10011 
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7
+=== page 87 ===
+VER 06-12-24 
+ 
+51 RFP250034SML – LeeTran Paratransit Software Management 
+ 
+Form 1a – Bid/Proposal Form  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+ 
+  
+ 
+ 
+ 
+ 
+COMPANY NAME: 
+ 
+SOLICITATION: 
+  
+RFP250034SML – LeeTran Paratransit Software Management 
+ 
+ 
+This page serves as a header/placeholder only.  Please refer to the Excel document provided with the solicitation 
+for the complete schedule.  The Excel document contains formulas for convenience; however, it is the 
+Proposer’s responsibility to verify all pricing and calculations are CORRECT.  Lee County is not responsible 
+for errors in formulas or calculations contained within Excel documents(s). 
+ 
+REMINDER:  In the event there is a discrepancy between the total proposed amount, or the extended amounts 
+and the unit prices proposed, the unit prices will prevail, and the corrected sum will be considered the quoted 
+price. 
+ 
+The County will only accept proposals submitted on the proposal form provided by the County.  Proposals 
+submitted on other forms, other than those provided by the County, will deem Proposer as non-responsive and 
+ineligible for award. 
+ 
+Proposers may not adjust or modify data provided within the Bid/Proposal Form.  Proposals received with 
+modified data may deem the Proposer as non-responsive and ineligible for award. 
+ 
+ 
+PLEASE ENSURE you have provided a printed copy of the Bid/Proposal Form with your hard copy submission 
+packages and provided the excel version with your digital submission package. 
+ 
+EXHIBIT E - PROJECT FUNDING PACKAGE
+Lee County 
+.f'o«(h,t,Je,,r( fioM'rfa 
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7

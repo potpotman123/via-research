@@ -1,0 +1,146 @@
+# source: https://douglascounty.legistar1.com/douglascounty/attachments/f881da66-e295-443f-8793-a75389fa9535.pdf
+# path: raw/cache/2e2d114850d5a0ab72dc95e81f3c53f185700cb2.pdf
+# hit page: 16 of 30
+# terms: River North Transit, Via+drivers
+
+=== page 15 ===
+15 
+ 
+The Contractor’s Project Team will be responsible for executing the following five primary tasks: 
+Task 1: Program Management and Oversight 
+• Program management plan including meetings, coordination, and communication. 
+• Establish a workplan that ensures the program meets the preferred service launch date, 
+including a staffing plan. 
+• Provide a quality assurance/quality control plan/memo that outlines how the Contractor 
+will proactively manage the operations and ensure the highest quality service possible. 
+Task 2: Service Design Verification and Refinement 
+• Analyze, verify, and finalize the proposed service plan and characteristics, in 
+coordination with County staff, based on technology capabilities, costs, and service 
+modeling. 
+• Make necessary final adjustments to service plan to optimize service delivery. 
+Task 3: Launch Program, as applicable 
+• 
+Recruit and train all necessary staff ahead of launch.  
+• 
+Field test of sample trip operations and make any additional service adjustments 
+needed before launch.  
+• 
+Creation of a Parker specific microtransit brand including vehicle wraps, advertising, 
+and other promotional materials.  
+• 
+Provide the County’s communications team with input on marketing and outreach of 
+service based on previous experience with similar services or industry best practices.  
+• 
+Participate in launch promotional event.  
+ 
+Task 4: Operation of Service 
+• Daily service provision of safe and compliant service according to the service plan and 
+associated local, state, and federal requirements. 
+• Continuous and ongoing service improvements. 
+• Daily service oversight, management, monitoring, and troubleshooting. 
+• Crashes, incidents, and complaint investigation and reporting. 
+Task 5: Assessment and Evaluation 
+• Regular reporting of key performance metrics and benchmarking of performance, along 
+with associated dashboard, graphics, and data. 
+• Monthly written reports to the County on Launch Program progress, performance, 
+challenges, and adjustments. 
+• Quarterly Business Review meetings between the parties. 
+• Annual Business Review meetings between the parties. 
+• Service adjustment suggestions and associated service change implementation. 
+Driver Partner Registration & Supply Management 
+The Contractor will source Driver Partners to provide transportation services to the County through 
+the Platform. The Contractor will engage in a good faith effort to register Colorado residents as 
+Driver Partners.  
+The Contractor will ensure that Driver Partners are properly screened, trained, licensed, and 
+monitored, according to applicable federal, state, and local laws and ordinances required for the 
+type of vehicles being operated. As part of Driver Partner registration for access to the Platform, 
+2026 PCS with River North Transit, LLC 
+BCC Business Meeting - 2/24/2026 
+Page 15 of 30
+=== page 16 ===
+16 
+ 
+all Driver Partners will be introduced to the Contractor with the following areas covered: 
+familiarization with the Project service areas; hours of service; the County’s expectations; use of 
+the Driver App; and reporting incidents and delays in service. 
+The Contractor will be responsible for ensuring that there is sufficient driver personnel, 
+administrative staff, and call center/dispatch staff necessary to operate the microtransit service for 
+each service zone within designated hours to meet demand with optimal quality of service, given 
+constraints.  
+The Contractor shall conduct appropriate background checks and drug and alcohol testing pursuant 
+to 49 CFR Part 40 and for the prevention of alcohol misuse and prohibited drug use in transit 
+operations pursuant to 49 CFR Part 655. To ensure the safety of at-risk adults, the Contractor shall 
+request background checks of the Adult Protective Services data system to minimize the potential 
+of employing persons with a history of mistreating at-risk adults. All drivers will know the service 
+area and/or be given adequate training prior to implementing service. All drivers operating a WAV 
+vehicle shall be trained and certified to provide wheelchair service. 
+Rider and Driver Partner Support 
+The Contractor shall ensure the provision of customer service and support for Driver Partners and 
+Riders on issues that arise in connection with use of the Platform.  
+Following each ride, the Rider will be prompted to submit a ride rating with feedback in the app. 
+If an issue arises for a Rider or Driver Partner before, during, or after a ride, these parties will be 
+able to reach customer support staff by phone, or by submitting an email ticket, which will be 
+replied to promptly by such customer support staff through Via’s global consolidated queues.  
+Marketing, Promotions, & Press 
+The Contractor shall work closely with the County to determine a unified marketing and 
+promotional program that increases community awareness of the service and maximizes its 
+success.  
+The Contractor will provide marketing strategy for the Project, including the following activities 
+and tactics: 
+• Develop a marketing plan to guide the overall strategy and tactics to drive Rider awareness, 
+acquisition, and growth. 
+• Design key marketing collateral (print and digital). 
+• Design vehicle branding/graphics in coordination with the County. 
+• Create virality by providing an intuitive and frictionless referral program with customizable 
+incentive structures that creates opportunities for Riders to become the service’s biggest 
+ambassadors. 
+• Develop street marketing programs to effectively drive hyper-local awareness of the 
+service. 
+• Manage digital marketing campaigns to build awareness and drive service adoption.  
+2026 PCS with River North Transit, LLC 
+BCC Business Meeting - 2/24/2026 
+Page 16 of 30
+=== page 17 ===
+17 
+ 
+• Propose and implement in-app promotional programs to drive Rider activation, retention, 
+growth. 
+ 
+The County shall assist with the execution of the marketing plan and promotion of the Platform to 
+Riders, and will coordinate closely with the Contractor in all respects, including the following 
+activities:  
+ 
+• Develop a media relations plan to drive publicity for the service unique to this area, 
+including a press release and kick-off event that is planned in conjunction with the 
+Contractor. All key project messaging used for public relations purposes is to be developed 
+in collaboration with the Contractor. Any media announcement on the Project will be made 
+available for the Contractor’s review and approval prior to the Launch Date. 
+• Implement community outreach plan by meeting with key organizations and community 
+members ahead of Launch Date and throughout the duration of the Project to educate, build 
+awareness, and garner support for the service. 
+• Engage with local city leaders and politicians; request support in reaching out to their 
+communities through their own communication channels. 
+The Project, including the rider app will be co-branded as “powered by Via”. The “powered by 
+Via” banner must be used only in the exact format provided by the Contractor and will be 
+prominent on all assets promoting the Project, including (but not limited to) printed collateral, 
+digital materials, websites, and any vehicle wraps. The “powered by Via” banner will have equal 
+prominence on all marketing materials to any additional partner logos or trademarks. The 
+Contractor may provide pre-approved brand assets and guidelines that must be complied with in 
+all marketing communications distributed by the County. 
+All County-developed content that pertains to Via’s brand, technology, and operations must be 
+reviewed and approved in writing (i.e. email) by the Contractor before distribution with a 
+minimum five business days review time. 
+Data Security 
+The Contractor shall identify and implement commercially available data security measures to 
+protect customer personal information, including the use of multifactor authentication if 
+applicable. These measures must comply with applicable local, state, and federal laws and 
+regulations including the County’s policies, procedures, regulations, ordinances, and practices.  
+Data Sharing & Reporting 
+The Contractor will share data from the Project as set forth in Exhibit D (the “Data Sharing & 
+Project Data”).  The Data Sharing & Project Data shall be made available in formatted numerical 
+and graphical reports. The information above constitutes proprietary trade secrets of the Contractor 
+and Via and shall be subject to the confidentiality obligations set forth in the Contract.  
+ 
+2026 PCS with River North Transit, LLC 
+BCC Business Meeting - 2/24/2026 
+Page 17 of 30

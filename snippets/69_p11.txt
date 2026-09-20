@@ -1,0 +1,150 @@
+# source: https://douglascounty.legistar1.com/douglascounty/attachments/b385dd50-f08d-4727-94a5-dbdf6589f64e.pdf
+# path: raw/cache/5519ad3006aac361693ed262424c38b0419f453b.pdf
+# hit page: 11 of 27
+# terms: River North Transit, Via Transportation, Via+drivers, Via+fleet, Via+vehicles
+
+=== page 10 ===
+BOARD OF COUNTY COMMISSIONERS   
+APPROVED AS TO CONTENT: 
+OF THE COUNTY OF DOUGLAS 
+ 
+__________________________________  
+__________________________________ 
+ABE LAYDON, Chair  
+ 
+Date 
+ 
+DOUGLAS J. DEBORD  
+ 
+Date 
+County Manager 
+ 
+ATTEST 
+ 
+_____________________________________ 
+ROBERTA NELSON  
+ 
+Date 
+Clerk to the Board 
+ 
+ 
+_____________________________________ 
+JENNIFER L. EBY 
+ 
+ 
+Date 
+Director of Community Services 
+ 
+ 
+APPROVED AS TO FISCAL CONTENT:  
+ 
+APPROVED AS TO LEGAL FORM: 
+ 
+_____________________________________   
+_____________________________________ 
+ANDREW COPLAND  
+ 
+Date   
+ARIELLE DENIS  
+ 
+ 
+Date 
+Director of Finance 
+ 
+ 
+ 
+ 
+Assistant County Attorney 
+ 
+ 
+APPROVED AS TO INSURANCE REQUIREMENTS 
+ 
+______________________________________________  
+MEGAN DATWYLER 
+ 
+ 
+ 
+Date 
+Risk Manager  
+ 
+ 
+Approval of PCS for Highlands Ranch Link 
+Board of County Commissioners Business Meeting 3/25/2025 
+Page 10 of 27
+=== page 11 ===
+EXHIBIT A 
+Scope of Work 
+River North Transit, LLC (the “Contractor”) a wholly owned subsidiary of Via Transportation, 
+Inc. (“Via”) and Douglas County (the “County”) have agreed in their Public Contract for Services 
+(the “Contract”) to initiate the County’s demand response transit service in Highlands Ranch, CO. 
+In accordance with the Contract, the Contractor shall provide services on behalf of the County to 
+effectuate the delivery of the microtransit project, with technology and technology-enabled 
+integration services (the “Project”). The Contractor will provide fleet managers, vehicle suppliers, 
+driver partners, background check providers, customer service support agencies, a payment 
+processor, and insurance brokers and underwriters.  
+The following are priorities for microtransit services in Highlands Ranch: 
+• Passenger safety: all patrons must feel safe for the service to be successful, 
+particularly of the older adult, youth, and vulnerable populations. 
+• Interoperability with Link on Demand microtransit. 
+• Connections to commercial areas along Highlands Ranch Parkway, County Line 
+Road, and the Park Meadows Retail Resort for both employment and shopping. 
+• Connections to local schools, parks, and recreation centers, local hospitals and medical 
+centers, social and human services, bus and light rail (specifically the County Line LRT 
+and Littleton/Mineral LRT stations). 
+• Trips that are competitive in trip time and cost to a single-occupancy vehicle.  
+ 
+The Contractor’s Services shall include: 
+• Localization of a proprietary cloud-based dynamic vehicle routing and real-time 
+passenger aggregation system; 
+• Access to the Via mobile rider application (available for iOS and Android) for 
+individuals using the County’s service (“Riders”) to reserve and pay for rides through a 
+smartphone; 
+• Access to reservations through a dedicated phone line for Riders who do not have 
+access to a smartphone; 
+• Access to the Via mobile driver application for drivers to route and service rides 
+through a smartphone or tablet; 
+• Established relationships with a vehicle rental company (“Vehicle Partner”) for access 
+to rental vehicles and independent contractor driver partners (“Driver Partners”) for 
+transportation services;  
+• Accompanying technical and operational support service; 
+• Marketing and outreach initiatives as described herein; and 
+• Data sharing and reporting as described herein. 
+ 
+Approval of PCS for Highlands Ranch Link 
+Board of County Commissioners Business Meeting 3/25/2025 
+Page 11 of 27
+=== page 12 ===
+Duration & Launch Date 
+ 
+The County will provide written notice to proceed to the Contractor at least eight (8) weeks prior 
+to the service launch. The County may only provide written notice to proceed once the Contract, 
+exhibits, and appendices are final and signed, and any necessary local and regulatory approvals 
+have been received or registrations completed. Upon receipt of such written notice to proceed, the 
+Contractor shall commence local preparation for launch. Unless otherwise mutually agreed to by 
+the parties, Service operation shall begin no earlier than May 27, 2025 (“Launch Date”). 
+ 
+Upon service completion or termination of the Project, the Contractor will have 90 calendar days, 
+or an earlier date as agreed upon by the parties, to submit to the County all final performance 
+reports, a certification of expenses incurred that implement the Contract, and the necessary audit 
+reports of the Contract.  
+Service Parameters 
+The Contractor shall provide access to a platform service (the “Platform”) through which Riders 
+will be able to reserve and pay for rides on a shared and on-demand basis and dedicated vehicles 
+will be offered by the Vehicle Provider to Driver Partners on a rental basis.  
+ 
+• 
+Geographic Coverage Zone: Approximately 24 square miles full-coverage zone in Highlands 
+Ranch, Colorado, with connections in to and out of the Lone Tree microtransit zone, the Park 
+Meadows Retail Resort / County Line and Littleton/Mineral LRT Stations.  
+ 
+• 
+Key Performance Indicators: The Contractor estimated that serving the entire Highlands 
+Ranch area would comprise of 2,200 - 2,400 weekly rides, once the service has matured, with 
+an estimated 750 weekly vehicle hours, an optimum number of vehicles at peak hours, and 
+about 2.5 – 3.0 rides per vehicle hour. These performance metrics should be included in reports 
+by the Contractor with the County’s Project Manager as set forth in Exhibit D.  
+• Service Days/Hours: Monday - Thursday (7AM - 7PM), Friday (7AM - 10PM), and Saturday 
+(10AM – 10PM). 
+Approval of PCS for Highlands Ranch Link 
+Board of County Commissioners Business Meeting 3/25/2025 
+Page 12 of 27

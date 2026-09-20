@@ -1,0 +1,217 @@
+# source: https://rideuta.legistar1.com/rideuta/attachments/fb76e18e-c5a9-44cf-83fc-a9480b0ccdff.pdf
+# path: raw/cache/3a887d3952ff4ec79eecce8bbfcade0e3456cfec.pdf
+# hit page: 18 of 43
+# terms: River North Transit
+
+=== page 17 ===
+Contractor makes a claim of confidentiality under Utah Code Annotated 63G-2-309.  Contract and Exhibits are claimed to 
+be Protected Records under Utah Code Annotated 63G-2-305 subsections (1) and (2). 
+ 
+17 
+ 
+only to the extent of such prohibition or unenforceability without invalidating the remaining provisions of this 
+Contract. 
+36. ENTIRE AGREEMENT 
+This Contract shall constitute the entire agreement and   understanding of the parties with respect to the subject 
+matter hereof, and shall supersede all offers, negotiations and other agreements with respect thereto.  The terms 
+of the Contract supersede any additional or conflicting terms or provisions that may be preprinted on 
+Vendor’s work plans, cost estimate forms, receiving tickets, invoices, or any other related standard forms or 
+documents of Vendor that may subsequently be used to implement, record, or invoice Goods and/or Services 
+hereunder from time to time, even if such standard forms or documents have been signed or initialed by a 
+representative of UTA. The terms of the Contract prevail in any dispute between the terms of the Contract 
+and the terms printed on any such standard forms or documents, and such standard forms or documents will 
+not be considered written amendments of the Contract.  
+37. AMENDMENTS 
+Any amendment to this Contract must be in writing and executed by the authorized representatives of each 
+party.  
+38. COUNTERPARTS 
+This Contract may be executed in any number of counterparts and by each of the parties hereto on separate 
+counterparts, each of which when so executed and delivered shall be an original, but all such counterparts shall 
+together constitute but one and the same instrument. Any signature page of the Contract may be detached from 
+any counterpart and reattached to any other counterpart hereof. The electronic transmission of a signed original 
+of the Contract or any counterpart hereof and the electronic retransmission of any signed copy hereof shall be 
+the same as delivery of an original. 
+39. SURVIVAL 
+Provisions of this Contract intended by their nature and content to survive termination of this Contract shall so 
+survive including, but not limited to, Articles 5, 7, 8, 10, 14, 15, 17, 18, 19, 20, 23, 29 and 30. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DocuSign Envelope ID: 4C018591-1985-4583-8A02-F67CC844E13A
+=== page 18 ===
+Contractor makes a claim of confidentiality under Utah Code Annotated 63G-2-309.  Contract and Exhibits are claimed to 
+be Protected Records under Utah Code Annotated 63G-2-305 subsections (1) and (2). 
+ 
+18 
+ 
+IN WITNESS WHEREOF, the parties have made and executed this Contract as of the day, month and year of the 
+last signature contained below.  
+ 
+UTAH TRANSIT AUTHORITY:  
+ 
+ 
+RIVER NORTH TRANSIT LLC: 
+ 
+By 
+ 
+ 
+ 
+ 
+ 
+ 
+            By 
+ 
+ 
+ 
+ 
+Mary DeLoretto 
+ 
+ 
+ 
+ 
+ 
+Name____________________ 
+Interim Executive Director 
+ 
+ 
+ 
+ 
+Title_____________________ 
+Date:  
+ 
+ 
+      
+ 
+ 
+ 
+Date: ____________________ 
+  
+ 
+By______________________ 
+ 
+ 
+ 
+By 
+ 
+ 
+ 
+ 
+ Nichol Bourdeaux 
+ 
+ 
+ 
+ 
+ 
+Name____________________ 
+ Chief Planning and Engagement Officer 
+ 
+ 
+Title_____________________ 
+ Date:   
+ 
+ 
+ 
+ 
+ 
+ 
+Date: _____________________ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+By 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Michael Bell 
+UTA Legal Counsel  
+ 
+Date:  
+ 
+ 
+ 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DocuSign Envelope ID: 4C018591-1985-4583-8A02-F67CC844E13A
+Erin Abrams
+7/29/2021
+Manager
+=== page 19 ===
+Contractor makes a claim of confidentiality under Utah Code Annotated 63G-2-309.  Contract and Exhibits are claimed to 
+be Protected Records under Utah Code Annotated 63G-2-305 subsections (1) and (2). 
+ 
+19 
+ 
+EXHIBIT A – GENERAL SCOPE OF SERVICES (WORK) 
+ 
+Note: Specific Service Task Orders shall be issued as needed which will contain a more detailed 
+description of the work to be accomplished which is generally associated with the broadly construed 
+scope of work described below.  
+A. 
+SCOPE OF WORK 
+ 
+Plan, design, operate, and provide on-demand services and other innovative technologies which support UTA 
+microtransit, paratransit, fixed route, or vanpool services throughout the UTA service area in support of UTA’s 
+Five-Year Service Plan (5YSP) and other innovative strategic goals and objectives. All types of services provided 
+under an agreement must be State and Federally compliant, Americans with Disabilities Act (ADA) complaint, and 
+Title VI compliant as to provide equitable services to the communities served by UTA. In addition to compliance, 
+with all types of service provided under this agreement UTA will consider how to advance access to opportunities 
+and improve transportation equity by continually reviewing service delivery, ridership, and community feedback. 
+ 
+1. TRANSPORTATION AS A SERVICE (TaaS) SOLUTIONS 
+Plan, design, operate, and iterate on-demand and microtransit services/pilots utilizing TaaS models to support 
+UTA’s 5YSP and other on-demand services as determined by UTA. TaaS solutions should include a full turn-key 
+solution which supports all aspects of a service/pilot including, but not limited to, contractor provided technology 
+solutions (mobile app), vehicles, vehicle maintenance and cleaning, drivers, and customer service capabilities. The 
+contractor should be able to provide the following services as part of a TaaS solution.  
+ 
+1.1 Personnel 
+• 
+Provide all necessary personnel such as drivers, mechanics (or maintenance contracts), administrative, 
+customer service agents, project managers, and others to successfully operate a TaaS service: 
+o Contractor provided, qualified drivers with good customer service skills, serving people with 
+disabilities, mobility devices, and legally qualified for safe vehicle operations. 
+o Contractor should establish minimum standards and driver qualification requirements pursuant to 
+applicable state and federal regulations if applicable which instill an elevated level of public 
+confidence and safety when using the service.     
+o Contractor to ensure that a Utah Bureau of Criminal Identification (BCI) background check is 
+conducted on all drivers as part of driver recruitment. 
+o Contractor to conduct drug testing as part of driver recruitment, including following all applicable 
+Federal Transit Administration (FTA) guidelines on post incident/accident drug and alcohol testing 
+or reasonable suspicion drug and alcohol testing. 
+o Contractor to provide all technical onboarding and support as well as implement a structure for 
+ongoing safety and service reminders  
+o Ability to adapt onboarding and other informational materials to ensure that personnel are made 
+aware of applicable future changes or requirements by the State of Utah, Federal Transit 
+Administration, Center for Disease Control and Prevention, etc.  
+DocuSign Envelope ID: 4C018591-1985-4583-8A02-F67CC844E13A

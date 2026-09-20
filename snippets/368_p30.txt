@@ -1,0 +1,81 @@
+# source: raw/bleecker_drive/Bay Transit/REDACTED-Via-Mobility-LLC-Response_RFP-2024-01-Transit-Scheduling-Software.pdf
+# path: raw/bleecker_drive/Bay Transit/REDACTED-Via-Mobility-LLC-Response_RFP-2024-01-Transit-Scheduling-Software.pdf
+# hit page: 30 of 60
+# terms: Via+fleet
+
+=== page 29 ===
+4.2.5 Other Specifications
+We anticipate being able to meet several of the optional requirements defined in the RFP.
+We would welcome further discussion regarding the scope of these requirements to
+ensure that we meet all of Bay Transit’s needs.
+Bay Transit Requirement
+Via
+Software customer interfaces for on demand (microtransit) and the demand response modules shall
+be compatible with Via’s customer facing App.
+Software shall be compatible and able to integrate with security camera footage.
+Software shall allow comingling between on-demand (microtransit) and the demand response modules
+and databases.
+Software shall track and report rider’s method of fare payment and have fare reconciliation capability.
+Software shall have capability to track and report the cost of no-shows and late pick-ups for demand
+response and on demand trips.
+Both text and IVR communication methods are preferred.
+4.3 Hardware Compatibility
+The Via platform is built to be flexible, and highly compatible with a wide range of
+hardware solutions, including Android tablets. Through our background deploying
+transportation systems around the world, we have gained experience integrating with a
+number of other software and hardware platforms, ranging from local payment systems to
+CAD/AVL providers. We would be happy to discuss any potential future integrations with
+Bay Transit upon request.
+4.4 Data Requirements
+The VOC provides streamlined data
+reporting features to help drive continuous
+service optimization and efficiency. In
+addition to receiving regular reports from
+Bay Transit’s designated Partner Success
+Manager, Bay Transit will have 24/7 access
+to daily, weekly, monthly, quarterly, and
+RFP #2024-01 Transit Scheduling Software | 27
+=== page 30 ===
+yearly views of the key performance indicators of the deployment as well as the ability to
+aggregate, filter, and download data in various formats. Regulatory reports can be
+automated to present the required service data in the format requested by local, state,
+and/or federal regulatory agencies, including the FTA.
+Via uses a third-party controlled-access system for data storage. Via data centers are
+hosted offsite by Amazon Web Services (AWS), which are highly secure facilities that do
+not permit visitations. New data is submitted into the system through the user-facing
+applications — the Rider and Driver Apps. Once received, the data is encrypted and
+stored inside the AWS infrastructure, and analyzed and processed by the appropriate Via
+teams. Via’s data is archived by means of Amazon Web Services (AWS) S3 backups. All
+data is eventually expired and removed according to the Data Retention Policy, which Via
+maintains in accordance with ISO27001.
+Reporting is accessed through two main interfaces in the VOC: Service KPI Dashboards
+and Data Generator Reports. In addition to our standard reporting features, we also offer
+data access using our Direct Data Access (DDA) solution, which provides a machine-to-
+machine connection to data tables, and expanded data visualization capabilities through
+an integration with Google’s Looker Studio platform.
+●
+Service KPI Dashboards. These dashboards function as the central view for
+service analysis and management. Through this interface, our partners can
+organize and visualize the thousands of data points our system collects every
+minute based on their unique needs and concerns, and leverage our filtering and
+grouping tools to generate reports that range from neat and simple to highly
+complex. These reports ensure that partners understand core service indicators,
+such as total ridership and on-time performance, and can make data-driven
+changes to service parameters such as maximum wait time, fleet size, and/or
+vehicle supply throughout the day. Further, these tools allow partners to easily
+measure the efficacy of marketing campaigns and rider engagement strategies to
+understand what is drawing and keeping riders on the service.
+RFP #2024-01 Transit Scheduling Software | 28
+=== page 31 ===
+●
+Data Generator. The Data Generator provides more than a dozen raw data tables
+that will allow Bay Transit to conduct original, granular performance analyses. Staff
+will be able to organize tables for a detailed view of rider and/or driver activity, trip
+cost, vehicle information, and more, and pull data for any time period. Further, staff
+can easily export this data into any data analysis software, such as Microsoft
+Power BI, to conduct original analysis and create reports that incorporate
+additional datasets to investigate questions of specific interest. This will enable
+Bay Transit to gain an understanding of the impact of the service on broader
+trends, such as the impact on access to jobs or healthcare or a reduction in the
+use of single occupancy vehicles.
+RFP #2024-01 Transit Scheduling Software | 29

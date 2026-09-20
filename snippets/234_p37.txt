@@ -1,0 +1,221 @@
+# source: https://legistar.granicus.com/LosAlamos/attachments/d4ed28e3-5da0-403c-aaa8-20fd558046f1.pdf
+# path: raw/cache/9e8dcba51a86916c33f88b1baedeefebe738b9ef.pdf
+# hit page: 37 of 81
+# terms: Spare Labs
+
+=== page 36 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+36 
+ Agreement Template Version: 04012024 
+ 
+Total NTE Compensation Cap for Table 6   
+This amount may be amended, at County’s sole option, through execution of an Amendment to 
+this Agreement pursuant to the terms of this Agreement. 
+$1,885,550.00 
+ 
+Additional Notes Applicable to Pricing for Table 6. 
+ 
+1. 
+Contractor offers optional Platform and Software Features and Other Optional Services shown in Table 6. 
+Unless otherwise stated herein, Base Unit Fees are subject to the CPI increase as described herein.  Base 
+Unit Fees and Year 2-15 Per Unit Capped Fees shall not increase above what is shown in Table 6; however, 
+Parties acknowledge and agree that actual total fees for optional Services described in Table 6 charged to 
+County may vary based on different variables, including but not limited to, County’s number of Active Vehicles 
+per year.  As such, the County has estimated an NTE capped amount of compensation for items in Table 
+6 in the total amount of ONE MILLION EIGHT HUNDRED EIGHTY-FIVE THOUSAND FIVE HUNDRED 
+FIFTY AND 00/100 DOLLARS ($1,885,550.00) for these optional features and Services for the purpose of 
+calculating a total estimated NTE compensation amount for the Term of this Agreement.  
+ 
+2. 
+Where fees are based on “per Active Vehicle per year,” Table 5, as may be amended from time to time 
+pursuant to the Terms of this Agreement, shall be used to calculate the total Active Vehicles and the total 
+optional Platform and Software fees payable to Contractor.  
+ 
+3. 
+County may, at County’s sole option, request the addition or removal of any of the optional Services described 
+in Table 6 throughout the Term of this Agreement.  Unless otherwise stated herein, addition or removal of 
+such optional Services shall be documented and authorized through Amendment to this Agreement pursuant 
+to Section AG. 
+ 
+4. 
+As of the Effective Date of this Agreement, Project Implementation shall include items 1 – 18 in Table 6, unless 
+otherwise requested by County in writing.  Inclusion of these items during Project Implementation does not 
+require execution of an Amendment to this Agreement. County does not anticipate that Project Implementation 
+will include items 19 – 34 in Table 6, unless otherwise requested by County and mutually agreed upon through 
+Amendment to this Agreement, pursuant to the terms of this Agreement.  
+ 
+Table 7.  Process for Requesting Optional Services or Functionality 
+Except for those items stated in Table 6 to be included during initial Project Implementation, in the event County 
+requests to have Contractor provide additional optional services throughout the Term of this Agreement, Parties agree to 
+follow the basic process outlined in this Table, or a similar process.  Parties may request any additional information to 
+clearly define the services, fees, and functionality to be provided. 
+ 
+1) 
+Upon County written request, Contractor shall provide a quote and scope of work for the optional additional services 
+or functionality requested.  Rates and fees quoted shall conform to any applicable rates specified herein. 
+2) 
+Unless otherwise mutually agreed, Contractor’s quote shall, at a minimum, include the following: 
+a) 
+Any and all fees to provide the services or functionality requested, in conformance with the applicable rates 
+specified herein.  If fees are ongoing rather than a one-time fee, Contractor shall provide all fees to provide the 
+services or functionality requested throughout the remainder of the Term of this Agreement.  
+b) 
+Line items for any required implementation, configuration, and training fees, payable after Contractor’s 
+successful delivery and County’s written acceptance and approval of completion of milestones and deliverables 
+defined in the mutually agreed-upon scope of work.   
+c) 
+Any licensing fees separated annually with a total cost for all remaining years of this Agreement, with the first 
+payment prorated if necessary to account for mid-year implementations, with subsequent annual license fees 
+billed concurrently with the licensing fees described in Table 1. 
+d) 
+A proposed project plan with all tasks, phases, deliverables, milestones, responsibilities and a proposed project 
+schedule clearly defined.   
+e) 
+A list of all the new features, functionality, and services to be provided, if not already described herein. 
+3) 
+Upon County’s acceptance of Contractor’s quote, an Amendment shall be drafted and executed, pursuant to 
+Section AG. 
+ 
+ 
+ 
+Attachment A
+=== page 37 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+37 
+ Agreement Template Version: 04012024 
+Exhibit B 
+Platform and Software Functional Specifications 
+AGR23-47 
+ 
+Contractor guarantees that the Platform and Software shall substantially conform to the functional 
+specifications set forth in Exhibit B, or their functional equivalent, for the Term of this Agreement.  Contractor 
+may, throughout the Term of this Agreement, modify the way in which the functionality is delivered to 
+County, provided the stated functionality, or its functional equivalent, is maintained and County is notified 
+in writing of any modifications that may impact how the County uses or administers the Platform and 
+Software.  
+ 
+01 
+General Features and Functionality 
+1 
+A user-friendly microtransit SaaS for both external and internal customers, including passengers, third 
+party passenger advocates, County dispatchers/customer service representatives, supervisors, 
+executives, and information technology support.  
+2 
+A SaaS that provides easy access to informative data sets through a robust reporting module. 
+3 
+A customer mobile application that facilitates on demand trip booking management and vehicle 
+tracking.   
+4 
+A proposal that provides considerations for passengers who do not have smart devices.   
+5 
+A user friendly and intuitive vehicle operator mobile application specification.  
+6 
+The software must be internet browser/cloudbased SaaS with a minimum of 12 user accounts and 
+compatible with widely available browsers, such as Google Chrome and/or Mozilla Firefox.  
+7 
+The software shall have functions for the comingling of multiple on demand service modes and 
+passenger categories, including microtransit, ADA paratransit, and dial-a-ride.  
+8 
+The software shall offer scalability of service, with the ability to modify existing zones and create new 
+zones within and outside of the County service area. These functions must be available to the agency 
+within the software.  
+9 
+The products shall include a dispatching function and mobile applications for vehicle operators and 
+customers.  
+10 
+The software shall provide service performance reporting, such as ridership, schedule adherence, 
+and other standard reports. Performance dashboards shall be easily accessible for all key 
+performance indicators. The reports shall be exportable to an editable file format such as a comma 
+separated value tables or Microsoft Excel. 
+11 
+The reporting system must allow user friendly ad-hoc reporting and query generation without the 
+need for a programming specialist.  
+12 
+All system and ad-hoc reports shall have the ability to differentiate all service characteristics and 
+performance by on-demand and ADA paratransit data, as well as by service zone 
+13 
+The branding and design elements of the platform shall be customizable to allow the County to 
+incorporate unique branding characteristics into the customer facing applications and websites.  
+14 
+The software shall allow County staff to modify or limit maximum vehicle passenger loads, and to 
+define wheelchair and flex seating (where seats may be folded to allow for additional wheelchair tie-
+down locations) configurations. 
+15 
+Contractor should provide processes that assure that upon system failure that system databases are 
+restored to their pre-failure status and that data integrity is maintained.  Recovery from failure must be 
+provided such that operation may be continued immediately following system restoration. 
+Attachment A
+=== page 38 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+38 
+ Agreement Template Version: 04012024 
+16 
+ Contractor should ensure that custom configuration, should there be any, is addressed during 
+system upgrades to ensure that no County-specific changes are lost. 
+17 
+Contractor should ensure that system upgrades are thoroughly tested prior to releasing them to the 
+County. 
+18 
+Software provides an activity history audit tool to show a history of user access and activity for County 
+staff users and other registered users. 
+19 
+Software should meet applicable Americans with Disabilities Act ("ADA") requirements for all 
+applications and websites. 
+20 
+Software provides granular permissions and access control for different levels of Dispatcher, 
+Supervisor, and and other Transit staff.   
+21 
+Software provides an online form or built-in messaging system through which Clients and Transit staff 
+can have two-way secure communication and share forms and documents. 
+22 
+Software shall have the ability for both public and staff users to enable multi-factor authentication 
+methods. 
+23 
+Software shall have a password recovery option. 
+02 
+Customer Management 
+1 
+The software shall allow manual entry of information into customer profiles and creation of customer 
+profiles by agency staff. When entering data, the system shall alert the user if there is an existing 
+customer account entry under the same name or address.  
+2 
+The software shall allow entry of relevant customer health information, including (but not limited to) 
+the use of disability aid tools such as mobility devices, service animals, personal care assistants, 
+and/or oxygen tanks. The software shall allow entry of the name, address, phone number, and other 
+contact information of caregivers for paratransit customers, when applicable. All personal passenger 
+information shall be reasonably secured via password protection or user account credentials on the 
+administrative back end of the software.  
+3 
+The software shall allow the County to create and modify accounts on behalf of customers. 
+4 
+The software shall allow entry of all paratransit passenger eligibility criteria, including but not limited to 
+the certification date and expiration date (as applicable) defining when the client is authorized to 
+begin receiving paratransit service.  
+5 
+The software shall allow entry of dispatcher notes and comments for each passenger and their 
+unique circumstances, such as additional time needed for loading and unloading.  
+6 
+The software shall track and automate paratransit customer eligibility status. The software shall alert 
+passengers and County staff as the expiration date approaches.  
+7 
+The software shall allow for the County to define eligibility types, including conditional eligibility. 
+Conditional eligibilities must be agency-definable. 
+8 
+The software shall alert the person scheduling a trip of any conditional eligibilities, and allow the rider 
+or County staff to acknowledge the trip meets the conditional eligibility before proceeding with 
+scheduling the trip. 
+9 
+The software will generate paratransit eligibility correspondence by sending emails and/or generating 
+letters or other appropriate communication functions regarding customer assessments, appeals, 
+eligibility suspension, eligibility denial, eligibility approval, and eligibility status.   
+10 
+The software shall permit the County to suspend passengers from using microtransit and/or 
+paratransit services for a definable period of time. 
+11 
+The software shall allow dispatchers to log no-shows and late cancellations. These logs should be 
+accessible by County staff under the client's profile, or reports should be available that indicate total 
+no-shows and late cancellations per client for a user-definable period. 
+Attachment A

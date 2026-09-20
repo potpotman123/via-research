@@ -1,0 +1,173 @@
+# source: https://legistar.granicus.com/LosAlamos/attachments/d4ed28e3-5da0-403c-aaa8-20fd558046f1.pdf
+# path: raw/cache/9e8dcba51a86916c33f88b1baedeefebe738b9ef.pdf
+# hit page: 47 of 81
+# terms: Spare Labs
+
+=== page 46 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+46 
+ Agreement Template Version: 04012024 
+Exhibit D 
+Confidential Information Disclosure Statement 
+AGR24-37 
+ 
+The Incorporated County of Los Alamos is a governmental entity subject to certain disclosure laws 
+including, but not limited to, the New Mexico Inspection of Public Records Act, NMSA 1978, §§ 14-2-
+1, et seq.  Nothing in this Agreement is intended to diminish or expand the application of any applicable 
+disclosure laws to any proprietary or confidential information. 
+This Confidential Information Disclosure Statement (“Statement”) defines obligations and waivers 
+related to Confidential Information disclosed pursuant to the above referenced Agreement between 
+County and Contractor.  County and Contractor agree to the following: 
+1. Statement Coordinator – Each party designates the following person as its Statement Coordinator 
+for coordinating the disclosure or receipt of Confidential Information: 
+ 
+Contractor 
+County 
+Name: 
+Kristoffer Vik Hansen 
+James Barela 
+Title: 
+CEO 
+Transit Manager 
+Address: 
+810-815 West Hastings Street 
+101 Camino Entrada, Building 1, Suite 200 
+City/State/Zip: 
+Vancouver, British Columbia 
+V6C1B4 
+Los Alamos, New Mexico 87544 
+Email: 
+kristoffer@spare.com 
+james.barela@lacnm.us 
+ 
+2. Definitions: 
+a) Confidential Information - any form of information, in any format, disclosed by the Discloser 
+to the Recipient and identified in writing as confidential.  
+b) Discloser - the party disclosing Confidential Information. 
+c) Exception – An exception is satisfied if the Confidential Information disclosed: (i) was in 
+Recipient’s possession prior to receipt from Discloser, (ii) is publicly known or readily 
+ascertainable by legal means, (iii) is lawfully received by Recipient from a third party without 
+a duty of confidentiality, (iv) is disclosed by Discloser to a third party without a duty of 
+confidentiality on the third party, (v) is independently developed or learned by Recipient, or 
+(vi) is disclosed by Recipient with Discloser’s prior written approval. 
+d) Recipient – the party receiving Confidential Information.    
+3. Obligations – Recipient shall protect and ensure its participating subcontractors, agents, or 
+associates shall protect all Confidential Information by using the same degree of care, but no less 
+than a reasonable degree of care, to prevent the unauthorized use, dissemination, or publication 
+of the Confidential Information as Recipient uses to protect its own information of a like nature. If 
+any person or entity requests or demands, by subpoena or otherwise, all or any portion of the 
+Confidential Information provided by one party to another, the party receiving such request shall 
+immediately notify the Discloser of such request or demand.  The party receiving the request or 
+demand shall independently determine whether the information sought is subject to disclosure 
+under applicable law including the New Mexico Inspection of Public Records Act.  If the party 
+receiving the request or demand determines that the information is subject to disclosure, it shall 
+notify the Discloser of its intent to permit the disclosure with sufficient time to permit the Discloser 
+to invoke the jurisdiction of an appropriate court or administrative body to raise any legitimate 
+objections or defenses it may have to the disclosure. In the absence of an appropriate order 
+prohibiting the disclosure, the party receiving the request or demand shall permit and proceed with 
+the disclosure without incurring any duty, obligation or liability to the Discloser. 
+Attachment A
+=== page 47 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+47 
+ Agreement Template Version: 04012024 
+Exhibit E 
+Contractor’s Privacy Policy 
+AGR24-37 
+ 
+This Exhibit E is included herein for reference only and reflects Contractor’s Privacy Policy, which may be 
+found at https://sparelabs.com/en/security, as provided in Contractor’s Response.  Contractor may modify 
+this Policy from time to time throughout the Term of this Agreement provided privacy is maintained at 
+substantially equivalent levels throughout the Term of this Agreement.  Any terms or conditions of the 
+following Contractor Privacy Policy that conflict with the terms and conditions of AGR24-37, or with the laws 
+of New Mexico or the United States, are null and void as a matter of law.  
+ 
+ 
+Overview 
+Spare respects our customers' privacy and keeping our customers' data protected at all times is our 
+highest priority. This security overview provides a high-level overview of the security practices put in place 
+to achieve that objective. Have questions or feedback? Feel free to reach out to us at 
+security@sparelabs.com. 
+SOC-2 and HIPAA compliance 
+Spare has been audited by an independent certified auditor and is certified to SOC 2 Type II. SOC 2 is 
+widely recognized as the gold standard for data security and requires organizations to establish and 
+follow strict information security policies and procedures. To accomplish this, we use the best-in-class 
+security tools and practices to maintain a high level of security at Spare. 
+Additionally Spare has independently verified compliance to HIPAA. HIPAA compliance involves fulfilling 
+the requirements of the Health Insurance Portability and Accountability Act of 1996, its subsequent 
+amendments, and any related legislation such as HITECH. 
+Infrastructure 
+• 
+All of our services run in the cloud. We don’t host or run our own routers, load balancers, DNS 
+servers, or physical servers. 
+• 
+Our service is built on Google Cloud Platform (GCP). They provide strong security measures to 
+protect our infrastructure and are compliant with most certifications. 
+Data center security 
+Our data center is located in Canada. It is a ISO 27001, GDPR, HIPAA compliant facility. Our servers 
+separated on dedicated virtual machines from other data center customers. We enforce TLS for 
+connections used in transferring data and encrypt it while it is on disk. 
+Network level security monitoring and protection 
+Our network security architecture consists of multiple security zones. We monitor and protect our network, 
+to make sure no unauthorized access is performed using: 
+• 
+A virtual private cloud (VPC), a bastion host or VPN with network access control lists (ACL’s) and 
+no public IP addresses. 
+• 
+A firewall that monitors and controls incoming and outgoing network traffic. 
+Attachment A
+=== page 48 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+48 
+ Agreement Template Version: 04012024 
+• 
+An Intrusion Detection and/or Prevention technologies (IDS/IPS) solution that monitors and 
+blocks potential malicious packets. 
+• 
+IP address filtering 
+DDoS protection 
+We use Distributed Denial of Service (DDoS) mitigation services powered by an industry-leading solution. 
+Data encryption 
+Encryption in transit: All data sent to or from our infrastructure is encrypted in transit via industry best-
+practices using Transport Layer Security (TLS). 
+Encryption at rest: All our user data (including passwords) is encrypted using battled-proofed encryption 
+algorithms in the database. 
+Data retention and removal 
+Organizations on Spare Platform can configure security requirements to meet their needs, including 
+automatic removal an anonymization of user data in compliance with GDPR regulations. 
+Business continuity and disaster recovery 
+We back up all our critical assets and regularly attempt to restore the backup to guarantee a fast recovery 
+in case of disaster. All our backups are encrypted. 
+Application security monitoring 
+• 
+We use a security monitoring solution to get visibility into our application security, identify attacks 
+and respond quickly to a data breach. 
+• 
+We use technologies to monitor exceptions, logs and detect anomalies in our applications. 
+• 
+We use monitoring such as open tracing in our microservices. 
+Application security protection 
+• 
+We use a runtime protection system that identifies and blocks OWASP Top 10 and business logic 
+attacks in real-time. 
+• 
+We use security headers to protect our users from attacks. You can check our grade on this 
+security scanner. 
+• 
+We use security automation capabilities that automatically detect and respond to threats targeting 
+our apps. 
+Secure development 
+We develop following security best practices and frameworks (OWASP Top 10, SANS Top 25). We use 
+the following best practices to ensure the highest level of security in our software: 
+• 
+Developers participate in regular security training to learn about common vulnerabilities and 
+threats 
+• 
+We review our code for security vulnerabilities 
+• 
+We regularly update our dependencies and make sure none of them has known vulnerabilities 
+Responsible disclosure 
+Attachment A

@@ -1,0 +1,115 @@
+# source: raw/bleecker_drive/Hillsborough County/Paratransit Scheduling Software System (RFP-23-24177) Notice.._.pdf
+# path: raw/bleecker_drive/Hillsborough County/Paratransit Scheduling Software System (RFP-23-24177) Notice.._.pdf
+# hit page: 2 of 5
+# terms: Via Mobility, Via Transportation
+
+=== page 1 ===
+
+
+
+ Search Contract Opportunities
+Paratransit Scheduling Software System (RFP-
+23-24177) Notice of Intent to Award Update
+ID: NOI-25-00373 • State: Florida
+ 
+Description
+Original
+ Summary
+Hillsborough County intends to update the award amount of a formerly published Notice of
+Intent to Award (NOITA) of a previously awarded five (5) year contract with Ecolane USA,
+Inc., for a new paratransit scheduling software system and associated maintenance (RFP-
+23-24177) for the Sunshine Line Department at a total cost of $1,026,877.16. On July 25, 2024,
+a NOITA was published; however, the NOITA incorrectly stated a contract amount of
+$1,027,877.16. During a recent contract review and update to Blanket Purchase Agreement
+No. 224300867 an inconsistency of $1,000.00 was discovered to the award amount. In an
+effort for full transparency to the public, this NOITA accurately reflects the quoted price and
+contract amount. In addition, the identified discrepancy did not change the order of the
+ranked firms and resulting award. The County reserves the right to extend the time period
+further, adjust the scope of services in response to changing conditions and updated
+requirements, and increase the resulting award accordingly. Challenges to this notice must
+List
+Text
+Overview
+Agency
+ Hillsborough County [FL] 
+Opportunity Type
+NOI
+Opportunity ID
+NOI-25-00373
+Response Deadline
+Description
+Overview
+Docs 
+Q&A
+Classifications
+Similar 
+Contacts
+2
+6
+=== page 2 ===
+Oct. 3, 2025 Past Due
+Date Posted
+Sept. 26, 2025
+Est. Value Range Experimental
+$1,027,877 (Agency Estimate)
+Agency Distribution
+High
+Source
+Open 
+
+ 
+
+Documents
+Posted documents for Paratransit Scheduling Software System (RFP-23-
+24177) Notice of Intent to Award Update
+5
+ Shown
+Search Keywords
+Document
+ 1-A-41 Agenda Coversheet.pdf
+ Hillsborough
+County
+09/26/25
+
+Text Snapshot This agenda item cover sheet details a contract opportunity related to the
+Sunshine Line's paratransit scheduling software system. The agenda item, numbered A-41, is
+scheduled for discussion at a meeting on August 7, 2024. It proposes the termination of an
+existing contract with Via Transportation, Inc., d/b/a Via Mobility, LLC, due to the firm's
+inability to meet the required functionality for...
+ 2-Revised NOITA RFP-23-24177
+Paratransit Scheduling Software System
+CORRECTION 092225.pdf
+ Hillsborough
+County
+09/26/25
+
+Text Snapshot This revised notice of intent to award (NOITA) relates to RFP-23-24177 for a
+paratransit scheduling software system, posted on September 26, 2025. It outlines the
+recommended bidders for contract award following Hillsborough County Ordinance 13-24,
+which governs the protest process and procedures. Interested parties are advised to submit
+any grievances in writing within five business days of the...
+
+
+=== page 3 ===
+Question & Answer
+The AI Q&A Assistant has moved to the bottom right of the page
+Classifications
+NAICS
+541519 - Other Computer Related Services 
+PSC
+AN13 - Health R&D Services; Health Care Services; Experimental Development 
+Similar Active Opportunities
+Real-Time Water Measurement System Upgrade to AQUARIUS Analytics Software
+Agency: 
+ Office Of The State Engineer
+Deadline: Dec. 19, 2025
+Description: REAL TIME WATER MEASUREMENT SYSTEM (RTMS) THE PROFESSIONAL
+SERVICE PROVIDED BY THE CONTRACTOR WILL ALLOW THE AGENCY TO REPLACE THE
+EXISTING OUT DATED APPLICATION WITH THE AQUATICS INFORMATICS AQUARIUS
+SOFTWARE - AN ANALYTICS SOFTWARE THAT WILL ALLOW...
+RFP 25-118 eCitation System Software
+Agency: 
+ City of Banning
+Deadline: Dec. 1, 2025
+Description: The City of Banning (“City”) is seeking a qualified entity or individual
+(“Company”) to provide the services listed in the Scope of Work.The City anticipates

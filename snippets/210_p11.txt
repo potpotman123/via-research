@@ -1,0 +1,136 @@
+# source: https://legistar1.granicus.com/McKinney/attachments/abb0b9be-9c15-4174-9e04-7b9d82941c25.pdf
+# path: raw/cache/5e92fe54da67feb112756b4c03bca94101b9439a.pdf
+# hit page: 11 of 50
+# terms: Spare Labs
+
+=== page 10 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+b. Distribute trips spatially (i.e. where trips should start and end); 
+c.
+Distribute trips temporally (i.e. time of day when trips should occur); 
+d. Generate random origin-destination (O-D) pairs from these distributions; 
+3. Run O-D pairs through Spare Realize, our dedicated trip simulation platform; 
+4. Analyze results and make recommendations. 
+ 
+ 
+Figure 4. The four stages in Spare’s simulation framework. 
+ 
+ 
+Stage 1: Estimating volume of demand 
+ 
+The overall volume of demand was calculated based primarily on taxi data provided by 
+DCTA/CCT, and transit ridership data acquired from Dallas Area Rapid Transit (DART) for 
+the Parker Road Light Rail Transit Station in the City of Plano. At the time of writing this 
+report, COVID-19 had affected transit ridership globally, and ridership in Texas (including 
+on DART) had decreased by 70–80%. The volumes calculated here do not consider the 
+impact of COVID-19, because of the huge uncertainty around how it will affect transit 
+ridership in the long term. We assume that ridership will return to pre-COVID patterns.  
+ 
+Taxi ridership data were acquired for the period January 2019 – March 2020, during which 
+over 12,400 trips were undertaken over fourteen months. Long trips with uncommonly 
+small prices were defined as outliers, and so 19 trips were removed from the taxi dataset. 
+The DART ridership data covered the period March–October 2019.  
+ 
+Before calculating the absolute forecasted demand for microtransit across Collin County, it 
+is important to understand that CCT are due to implement a new fare pricing model, which 
+will likely affect demand for the service. Until May 2020, CCT operated a variable fare 
+model, where ​75% of the total cost of each taxi trip was subsidized by CCT, and the 
+remaining 25% was paid for by the rider. The new model is based on flat fares, whereby 
+riders pay $3 for a trip, regardless of distance. 
+ 
+To model the baseline historical change in ridership ​without​ considering a price structure 
+change, we built a Bayesian time series model using Prophet, a powerful open-source 
+modelling Python library. We used Prophet to break down our data into temporal trends of 
+varying length (from yearly to daily), and recombined them to create predicted weekly 
+ridership until October 2020. Weekly ridership over the coming year was averaged and 
+converted into an expected daily average ridership for each trip type.  
+ 
+9
+=== page 11 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+The historical and predicted total weekly ridership (omitting the effect of the price changes) 
+is shown in Figure 5. On average, baseline ridership is expected to grow to 192 trips per 
+week. The 80% confidence intervals generated in the forecasting model were used to 
+define ‘low’ and ‘high’ demand scenarios (see next section). 
+ 
+ 
+Figure 5. Historical and predicted weekly total on-demand transit ridership in Collin County, omitting price 
+change effects.  Historical data (black dots), weekly trends (projected using the Prophet model), and 80% 
+confidence intervals are shown. 
+ 
+We then combined this baseline growth scenario with price elasticity analysis to estimate 
+the additional expected change in ridership due to the planned change in fare model. 
+Spare undertook this analysis as a separate project on behalf of CCT, and the methodology 
+is summarised in Appendix 3. Spare predicted the new $3 flat fare would result in 270 
+weekly trips (45 trips on average assuming a 6-day-a-week service), which ​represents a 
+~30% increase compared with the previous variable-fare service.  
+ 
+On top of the 45 daily trips expected from baseline demand for CCT’s taxi service, we 
+expect additional demand owing to the service’s planned connection to Parker Road 
+Station in Plano. DART ridership data shows there were ~3,400 trips on an average 
+weekday at Parker Road Station. Separately, a survey conducted by CCT in 2011 to explore 
+commuters’ appetite for a bus shuttle suggests that 41% (309) of the respondents would 
+use a service connecting the City of McKinney to Parker Road Station 4–5 times a week. It is 
+difficult to interpret how representative this survey is of the wider community, and how 
+many commuters would actually switch from commuting with their cars to using 
+on-demand transit. Nevertheless, there is clearly an appetite for connecting with Parker 
+Road Station, so we conservatively estimate an additional daily demand of 20 daily riders 
+from the transit station connection.  
+10
+=== page 12 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+ 
+Combining the anticipated impact of the fare change and the inclusion of Parker Road 
+Station brings the predicted total daily ridership to 65 riders. We use this number as our 
+baseline demand volume for on-demand microtransit across CCT. The number of trips 
+expected to have an origin or destination ​outside​ of Collin County is very low: over the 
+fourteen months of taxi ridership data available to Spare, only a few dozen trips took place 
+outside Collin County. We therefore consider the demand from outside the zone to be 
+negligible in our simulations.  
+ 
+ 
+Accounting for uncertainty of demand 
+ 
+There will always be some uncertainty about the precise volume demand that can be 
+expected from a newly introduced microtransit service. The taxi data used to drive our 
+demand model may not be fully representative of ‘real’ passenger behaviour because of 
+biases or missing data. Riders’ awareness of a new microtransit service will directly affect 
+demand volume, and can be influenced by marketing or information campaigns. 
+ 
+To reflect this uncertainty, we calculated a range of expected demand. The baseline 
+calculation provided the ‘medium demand’ scenario, a  ‘low demand’ scenario was 20% 
+lower than baseline, and a ‘high demand’ scenario was 30% higher than baseline. These 
+percentage changes were informed by the confidence intervals in our forecasting model. 
+ 
+The final estimates for low, medium and high demand are shown in Table 1​.  
+ 
+Table 1. Estimated daily ridership for different demand scenarios, assuming normal service hours. 
+ 
+ 
+Low demand 
+Medium demand 
+High demand 
+Standard trips 
+36 
+45 
+59 
+DART connection trips 
+16 
+20 
+26 
+Total trips 
+(6am–6pm) 
+52 
+65 
+85 
+ 
+ 
+Stage 2: Estimating distribution of demand 
+ 
+Once the total volume of demand was estimated, it was necessary to distribute that 
+demand by different purposes throughout the day. We assume a large majority of trips 
+either start or end from a home location, and define four main trip ‘purposes’:  
+ 
+●
+Work: commuting trips or travel to college/university; 
+11

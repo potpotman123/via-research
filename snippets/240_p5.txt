@@ -1,0 +1,129 @@
+# source: https://denver.legistar1.com/denver/attachments/3b08e67e-403b-4049-933d-df19a44d8b1a.pdf
+# path: raw/cache/d9bbf72a447993ffe87373b22633daae189c3305.pdf
+# hit page: 5 of 112
+# terms: Downtowner
+
+=== page 4 ===
+MONTBELLO DOWNTOWNER, LLC
+DOTI-202475705-00
+4
+statute of limitations. When conducting an audit of this Agreement, the City Auditor shall be 
+subject to government auditing standards issued by the United States Government Accountability 
+Office by the Comptroller General of the United States, including with respect to disclosure of 
+information acquired during the course of an audit. No examination of records and audits pursuant 
+to this paragraph shall require Consultant to make disclosures in violation of state or federal 
+privacy laws. The Consultant shall at all time comply with D.R.M.C. 20-276.
+8.
+WHEN RIGHTS AND REMEDIES NOT WAIVED:  In no event will any 
+payment or other action by the City constitute or be construed to be a waiver by the City of any 
+breach of covenant or default that may then exist on the part of the Consultant.  No payment, other 
+action, or inaction by the City when any breach or default exists will impair or prejudice any right 
+or remedy available to it with respect to any breach or default.  No assent, expressed or implied, 
+to any breach of any term of the Agreement constitutes a waiver of any other breach. 
+9.
+INSURANCE:
+a.
+General Conditions: Consultant agrees to secure, at or before the time of 
+execution of this Agreement, the following insurance covering all operations, goods or services 
+provided pursuant to this Agreement.  Consultant shall keep the required insurance coverage in 
+force at all times during the term of the Agreement, or any extension thereof, during any warranty 
+period, and for three (3) years after termination of the Agreement.  The required insurance shall 
+be underwritten by an insurer licensed or authorized to do business in Colorado and rated by A.M. 
+Best Company as “A-”VIII or better.  Each policy shall contain a valid provision or endorsement 
+requiring notification to the City in the event any of the above-described policies be canceled or 
+non-renewed before the expiration date thereof.  Such written notice shall be sent to the parties 
+identified in the Notices section of this Agreement.  Such notice shall reference the City contract 
+number listed on the signature page of this Agreement.  Said notice shall be sent thirty (30) days 
+prior to such cancellation or non-renewal unless due to non-payment of premiums for which notice 
+shall be sent ten (10) days prior.  If such written notice is unavailable from the insurer, Consultant 
+shall provide written notice of cancellation, non-renewal and any reduction in coverage to the 
+parties identified in the Notices section by certified mail, return receipt requested within three (3) 
+business days of such notice by its insurer(s) and referencing the City’s contract number.  If any 
+policy is in excess of a deductible or self-insured retention, the City must be notified by the 
+Docusign Envelope ID: C130DEF8-ED45-45DB-8D9F-3099A1D21A35
+=== page 5 ===
+MONTBELLO DOWNTOWNER, LLC
+DOTI-202475705-00
+5
+Consultant.  Consultant shall be responsible for the payment of any deductible or self-insured 
+retention.  The insurance coverages specified in this Agreement are the minimum requirements, 
+and these requirements do not lessen or limit the liability of the Consultant.  The Consultant shall 
+maintain, at its own expense, any additional kinds or amounts of insurance that it may deem 
+necessary to cover its obligations and liabilities under this Agreement.  
+b.
+Proof of Insurance:  Consultant shall provide a copy of this Agreement to 
+its insurance agent or broker.  Consultant may not commence services or work relating to the 
+Agreement prior to placement of coverages required under this Agreement.  Consultant certifies 
+that the certificate of insurance attached as Exhibit C, preferably an ACORD certificate, complies 
+with all insurance requirements of this Agreement.  The City requests that the City’s contract 
+number be referenced on the Certificate.  The City’s acceptance of a certificate of insurance or 
+other proof of insurance that does not comply with all insurance requirements set forth in this 
+Agreement shall not act as a waiver of Consultant’s breach of this Agreement or of any of the 
+City’s rights or remedies under this Agreement.  The City’s Risk Management Office may require 
+additional proof of insurance, including but not limited to policies and endorsements. 
+c.
+Additional Insureds:  For Commercial General Liability, Auto Liability 
+Professional Liability (if required), and Excess Liability/Umbrella (if required) Consultant and 
+subcontractor’s insurer(s) shall include the City and County of Denver, its elected and appointed 
+officials, employees and volunteers as additional insured.
+d.
+Waiver of Subrogation:  For all coverages required under this Agreement, 
+Consultant’s insurer shall waive subrogation rights against the City. 
+e.
+Subcontractors 
+and 
+Subconsultants: 
+ 
+All 
+subcontractors 
+and 
+subconsultants (including independent contractors, suppliers or other entities providing goods or 
+services required by this Agreement) shall be subject to all of the requirements herein and shall 
+procure and maintain the same coverages required of the Consultant.  Consultant shall include all 
+such subcontractors as additional insured under its policies (with the exception of Workers’ 
+Compensation) or shall ensure that all such subcontractors and subconsultants maintain the 
+required coverages.  Consultant agrees to provide proof of insurance for all such subcontractors 
+and subconsultants upon request by the City.
+Docusign Envelope ID: C130DEF8-ED45-45DB-8D9F-3099A1D21A35
+=== page 6 ===
+MONTBELLO DOWNTOWNER, LLC
+DOTI-202475705-00
+6
+f.
+Workers’ Compensation/Employer’s Liability Insurance:  Consultant 
+shall maintain the coverage as required by statute for each work location and shall maintain 
+Employer’s Liability insurance with limits of $1,000,000 per occurrence for each bodily injury 
+claim, $100,000 per occurrence for each bodily injury caused by disease claim, and $1,000,000 
+aggregate for all bodily injuries caused by disease claims.  Consultant expressly represents to the 
+City, as a material representation upon which the City is relying in entering into this Agreement, 
+that none of the Consultant’s officers or employees who may be eligible under any statute or law 
+to reject Workers’ Compensation Insurance shall effect such rejection during any part of the term 
+of this Agreement, and that any such rejections previously effected, have been revoked as of the 
+date Consultant executes this Agreement.
+g.
+Commercial General Liability:  The Contractor shall maintain a 
+Commercial General Liability insurance policy with limits of $1,000,000 for each occurrence, 
+$1,000,000 for each personal and advertising injury claim, $2,000,000 products and completed 
+operations aggregate, and $2,000,000 policy aggregate. Policy shall not contain an exclusion for 
+sexual abuse, molestation or misconduct.
+h.
+Business Automobile Liability:  Consultant shall maintain Business 
+Automobile Liability with limits of $1,000,000 combined single limit applicable to all owned, 
+hired and non-owned vehicles used in performing services under this Agreement.
+i.
+Technology Errors & Omissions including Cyber Liability: Contractor 
+shall maintain Technology Errors and Omissions insurance including cyber liability, network 
+security, privacy liability and product failure coverage with minimum limits of $1,000,000 per 
+occurrence and $1,000,000 policy aggregate. The policy shall be kept in force, or a Tail policy 
+placed, for three (3) years.  
+j.
+Excess/Umbrella Liability: Contractor shall maintain excess liability 
+limits of $2,000,000. Coverage must be written on a “follow form” or broader basis. Any 
+combination of primary and excess coverage may be used to achieve required limits.
+10.
+DEFENSE AND INDEMNIFICATION
+a.
+Consultant agrees to defend, indemnify, reimburse and hold harmless City, 
+its appointed and elected officials, agents and employees for, from and against all liabilities, 
+claims, judgments, suits or demands for damages to persons or property arising out of, resulting 
+Docusign Envelope ID: C130DEF8-ED45-45DB-8D9F-3099A1D21A35

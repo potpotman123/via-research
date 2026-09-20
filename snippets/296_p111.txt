@@ -1,0 +1,115 @@
+# source: raw/bleecker_drive/0.0 OMNIA Cooperative Agreement/R250802_Via_Transportation_MAD_Redacted_081825_01.pdf
+# path: raw/bleecker_drive/0.0 OMNIA Cooperative Agreement/R250802_Via_Transportation_MAD_Redacted_081825_01.pdf
+# hit page: 111 of 191
+# terms: Citymapper
+
+=== page 110 ===
+8. Products, services, and solutions
+i. Which category or categories do the products, services, and solutions being
+offered fall under?
+Via’s products and services fall under the Transportation category.
+ii. Describe in detail the products, services, and solutions being offered.
+We have reviewed the specifications included in RFP 25-08 and are confident that Via can
+provide Participating Public Agencies with a variety of on-demand transportation
+solutions that meet and exceed expectations. Our proposed solutions offer a
+comprehensive suite of cutting-edge services tailored to meet a wide range of transit
+needs, from microtransit and paratransit to non-emergency medical transport (NEMT). We
+look forward to working individually with interested members to define and scope projects
+and solutions that meet their unique needs.
+Below, we have included an overview of the services, software, and transportation 
+solutions that Via is able to provide. We have included full descriptions in the “Products 
+and Pricing” attachment in Ion Wave. Our catalog includes: 
+●
+Turnkey Microtransit, Paratransit and Fixed-Route Transportation Services: We
+offer the technology and the operational expertise to run transportation services
+on behalf of our partners. This end-to-end solution handles everything from
+software deployment to fleet management and driver operations, ensuring
+seamless implementation for transit agencies.
+●
+Technology-Enabled Student Transportation Services: We operate alternate
+student transportation services across the U.S., transporting thousands of
+students every day across our specialized student transit services in the US. These
+students consist of a wide range of demographics, including children and youth in
+Foster care, McKinney-Vento students, students with IEP requirements, and
+students with Special Needs.
+●
+Comprehensive Transit Network Management: Via offers comprehensive
+managed services designed for transit agencies to optimize their transportation
+operations. Our solutions encompass fleet management, featuring real-time
+tracking, maintenance scheduling, driver monitoring, and route optimization to
+ensure efficient service delivery. By leveraging our expertise, agencies can
+    RFP No. 25-08  |  23
+=== page 111 ===
+enhance operational efficiency, elevate rider experiences, and concentrate on their 
+core mission.​
+●
+Microtransit, Paratransit, and Non-Emergency Medical Transportation (NEMT)
+Software: For customers with existing operations infrastructure, we provide
+demand response software that leverages real-time routing and scheduling
+capabilities, powered by advanced machine learning and AI, to provide efficient,
+demand-responsive transportation.
+●
+Transit Planning Software: Remix Transit is a best-in-class, easy-to-use tool for
+planning and evaluating public transit: from the placement of a single bus stop, to
+the introduction of a new bus route, to a complete network redesign.
+●
+Fixed-Route Transportation Scheduling Software: Remix Scheduling, our fixed
+route scheduling tool, helps transit agencies optimize schedules, streamline
+operations, and improve the reliability of traditional fixed-route services.
+●
+On-Demand Transportation Planning Software: Remix On-Demand Planning
+(ODP) is the first planning platform for on-demand transit and other flexible
+mobility services.
+●
+Street Design Software: Remix Streets, our street design software, facilitates
+smarter infrastructure planning, allowing transit agencies to integrate their
+operations seamlessly with urban planning efforts.
+●
+Citymapper (Mobility-as-a-Service): Citymapper is our comprehensive
+mobility-as-a-service platform that integrates various modes of transport —
+including public transit, ride-hailing, bike-sharing, and more — into a unified app. It
+offers riders a seamless experience by enabling journey planning, ticketing, and
+payments across different transportation options, enhancing mobility access and
+convenience.
+●
+Transit Consulting Services: Through our in-house transit consultancy, Via
+Strategies, we help agencies analyze data, optimize operations, and design new
+service models. Our team of transit experts ensures that agencies can implement
+and sustain the best-fit solutions for their communities.
+    RFP No. 25-08  |  24
+=== page 112 ===
+The power of our platform lies in its flexibility. While each solution described above is 
+available individually, no other provider offers the ability to seamlessly integrate all of 
+these elements into a single, fully integrated transit ecosystem. This level of 
+interoperability between microtransit, fixed route, paratransit, NEMT, and planning 
+solutions is a transformative innovation for transit agencies, offering unparalleled 
+coordination, efficiency, and ease of use. 
+9. Safety and Reliability
+i. Describe any processes and procedures to ensure the safety of your
+customer and reliability of your service including, but not limited to,
+background checks, driver screening, rider/driver validation, drug & alcohol
+testing, GPS tracking, vehicle standards & inspections, or any other verifiable
+step that is taken to ensure passenger safety.
+With Via’s drivers covering over 5.8 million miles each month, the safety of every trip is
+paramount. We have established a dedicated Trust and Safety Team focused on
+improving driving safety outcomes in order to maintain our reputation for delivering safe
+rides. Our investment in tech-enabled operational advancements allows us to proactively
+manage safety. This includes advanced recordkeeping that seamlessly complies with FTA
+procedures in the United States and enables aggregate analysis of driver performance.
+Our solutions include numerous processes and procedures to ensure safety and 
+reliability, as described below. 
+●
+Driver Vetting: Via mandates background checks, including fingerprint screening,
+drug and alcohol testing compliance, and driver and vehicle licensing according to
+state and local laws.
+●
+Driver Onboarding: All drivers undergo Mandatory Safety Training, a series of
+workshops on topics such as defensive driving and safely navigating roads;
+vehicle and equipment operation; and following safety and emergency instructions,
+including how to handle and report accidents and major incidents.
+●
+Verification: Our system includes tools for both passenger and driver verification.
+When a rider boards a vehicle, the driver verifies the passenger’s first name and
+must confirm the pick-up in the Driver App (see image on following page). Riders
+are provided with clear details of their pick-up location and vehicle information,
+    RFP No. 25-08  |  25

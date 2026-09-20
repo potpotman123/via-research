@@ -1,0 +1,97 @@
+# source: https://douglascounty.legistar1.com/douglascounty/attachments/f881da66-e295-443f-8793-a75389fa9535.pdf
+# path: raw/cache/2e2d114850d5a0ab72dc95e81f3c53f185700cb2.pdf
+# hit page: 11 of 30
+# terms: River North Transit
+
+=== page 10 ===
+10 
+ 
+• Accompanying technical and operational support service; 
+• Marketing and outreach initiatives as described herein; and 
+• Data sharing and reporting as described herein. 
+ 
+Duration & Launch Date 
+ 
+Western Zone: Upon service completion or termination of the Project, the Contractor will have 
+90 calendar days, or an earlier date as agreed upon by the parties, to submit to the County all final 
+performance reports, a certification of expenses incurred that implement the Contract, and the 
+necessary audit reports of the Contract.  
+Eastern Zone: The County will provide written notice to proceed to the Contractor at least four 
+(4) weeks prior to the service launch. The County may only provide written notice to proceed once 
+this Agreement, exhibits, and appendices are final and signed, and any necessary local and 
+regulatory approvals have been received or registrations completed. Upon receipt of such written 
+notice to proceed, the Contractor shall commence local preparation for launch. Upon service 
+completion or termination of the Project, the Contractor will have 90 calendar days, or an earlier 
+date as agreed upon by the parties, to submit to the County all final performance reports, a 
+certification of expenses incurred that implement the Contract, and the necessary audit reports of 
+the Contract.  
+Service Parameters 
+The Contractor shall provide access to a platform service (the “Platform”) through which Riders 
+will be able to reserve and pay for rides on a shared and on-demand basis and dedicated vehicles 
+will be offered by the Vehicle Provider to Driver Partners on a rental basis.  
+ 
+• 
+Geographic Coverage Zone 
+• 
+Western Zone: Approximately 24 square miles full-coverage zone in Highlands Ranch, 
+Colorado, with connections in to and out of the Lone Tree microtransit zone, the Park 
+Meadows Retail Resort, and the RTD County Line and Littleton/Mineral LRT Stations.  
+• 
+Eastern Zone: Approximately 30.7 square mile zone in Parker, Colorado, aligned to the 
+targeted zone outlined in the Douglas County Integrated Transit and Multimodal Study, 
+the Stonegate area in unincorporated Douglas County, and Link on Demand’s existing 
+Lone Tree zone. The initial service boundaries are proposed below. 
+ 
+• 
+Key Performance Indicators and Vehicle Hours:  
+• 
+Western Zone: The Contractor estimated that serving the entire Western Zone would 
+comprise of 2,200 - 2,400 weekly rides, once the service has matured, with an estimated 
+750 weekly vehicle hours, an optimum number of vehicles at peak hours, and about 2.5 – 
+3.0 rides per vehicle hour. These performance metrics should be included in reports by the 
+Contractor with the County’s Project Manager as set forth in Exhibit D. 
+2026 PCS with River North Transit, LLC 
+BCC Business Meeting - 2/24/2026 
+Page 10 of 30
+=== page 11 ===
+11 
+ 
+• 
+Eastern Zone: The Contractor estimates that serving the zone will require 22,815 annual 
+vehicle hours. Performance metrics should be included in reports by the Contractor with 
+the County’s Project Manager as set forth in Exhibit D.  
+ 
+• Service Days/Hours: Monday - Thursday (7AM - 7PM), Friday (7AM - 10PM), and Saturday 
+(10AM – 10PM). 
+ 
+2026 PCS with River North Transit, LLC 
+BCC Business Meeting - 2/24/2026 
+Page 11 of 30
+=== page 12 ===
+12 
+ 
+ 
+• App: The Contractor shall provide a fully tested smartphone app interface to allow passengers to 
+reserve and schedule microtransit trips. The app will be fully integrated with the existing Link on 
+Demand app.  Beta versions are not allowed and the fully tested smartphone app interface must be 
+publicly available to both iPhone and Android users, meeting ADA accessibility requirements. 
+The App shall allow passengers to: 
+o See the microtransit service zone and available vehicles on a map interface. 
+o Rate drivers and service quality. 
+o See information on the requested vehicle and driver prior to reserving a trip or pick up, 
+including ability to see the estimated time of pick up at requested departure location and 
+estimated time of arrival at requested destination. 
+o Indicate if they need an ADA-accessible vehicle. 
+o Indicate group size and specify if any children are in the group. 
+o View real time audio/visual directions and notifications for drivers. 
+o Create a passenger profile that identifies special needs of the rider in terms of vehicle type 
+or accessibility. 
+o Upgrade the technology for current and future app users, as becomes available. 
+o Brand with the County service name and logo. 
+o View the address and name of business when making a reservation. 
+o Have easy passenger directions to a virtual stop or pickup point (for example, nearby cross 
+street). 
+o Reserve trips in advance.  
+2026 PCS with River North Transit, LLC 
+BCC Business Meeting - 2/24/2026 
+Page 12 of 30

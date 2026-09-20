@@ -1,0 +1,236 @@
+# source: https://legistar.granicus.com/LosAlamos/attachments/d4ed28e3-5da0-403c-aaa8-20fd558046f1.pdf
+# path: raw/cache/9e8dcba51a86916c33f88b1baedeefebe738b9ef.pdf
+# hit page: 42 of 81
+# terms: Spare Labs, Via+licensing
+
+=== page 41 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+41 
+ Agreement Template Version: 04012024 
+5 
+The customer application shall display a map showing the current location of the requested vehicle, 
+estimated time of arrival for pick up, and descriptive information about the vehicle such as operator 
+name, fleet number, and vehicle make or model prior to passenger boarding. While a trip is in 
+progress, the customer application shall display estimated time of arrival to the destination and 
+current vehicle location.   
+6 
+Once a trip is booked, the customer application shall provide step by step travel instructions for 
+customers, including walking directions to/from the boarding and alighting locations.  
+7 
+For those trips that utilize the fixed-routes for part of the journey, the customer application shall 
+provide directions for how and when to board and alight the fixed-route. Preferably, the application 
+will utilize GTFS-Realtime information or some other method to provide real-time fixed-route 
+information to the passenger. 
+8 
+If enabled by the customer, the application shall send messages to the customer’s mobile device as 
+certain thresholds are met, including the day before a scheduled trip, an hour before a scheduled trip, 
+and as the on-demand vehicle approaches the boarding location, including (but not limited to) push 
+notifications, SMS text messages, emails, and IVR telephone calls.   
+9 
+The customer application shall allow customers to book reservations by desired arrival or departure 
+times.   
+10 
+The customer application shall prevent customers from booking trips that do not meet predetermined 
+service criteria, including trips booked outside of a service area or span of service, or trips that do not 
+meet minimum distance requirements.   
+11 
+When making reservations, ADA and general public customers shall have the ability to indicate the 
+use of various aid tools, such as mobility devices and service animals.   
+12 
+The customer application shall comply with all prevailing ADA accessibility guidelines.  
+13 
+The customer application shall be translatable into multiple languages.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Attachment A
+=== page 42 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+42 
+ Agreement Template Version: 04012024 
+Exhibit C 
+County Technology Standards 
+AGR24-37 
+ 
+The following County Technology Standards marked as “Yes” under “Required” shall be supported by the 
+Contractor, throughout the Term of this Agreement. The table below indicates the Contractor has either 
+agreed to a specific standard or a standard has been agreed by County to not be required or not 
+applicable to this Agreement. 
+ 
+STANDARD REQUIREMENT 
+Required or  
+Not Applicable (“N/A”) 
+Server 
+Operating 
+system (OS) 
+(On-Premises) 
+Microsoft (MS) Windows Server 2019, 64 bit or current 
+(Standard and Datacenter). Contractor software must be 
+maintained to run on a supported platform service level as 
+defined by Microsoft at the latest stable patch level. 
+Departments shall be responsible for licensing costs and must 
+request cost estimates from Information Management (IM) 
+Division. 
+N/A 
+Server 
+Hardware 
+(On-Premise) 
+Preferred: Use of County VMware server platform. 
+Environment design must be submitted and reviewed by IM 
+Division for acceptance. Proposals shall include required 
+hardware and licensing of VMware, operating system, and 
+proposed application-based requirements. Application with 
+a proven Virtual installation template is preferred. 
+ 
+Physical Server minimum hardware specifications consist 
+of: Multi Socket/Multi Core processor Intel or AMD based 
+server (standalone or blade server as determined by Los 
+Alamos County IM Division with a minimum 64 GB RAM 
+and RAID capability. Contractor software must be 
+maintained to run on a supported platform service levels as 
+defined by Microsoft at the latest stable patch level. 
+N/A 
+Network 
+Infrastructure 
+See LAC Standards and Specifications for Building and 
+Campus Distribution Systems Version 3 (Primarily used for 
+building construction purposes). 
+N/A 
+Network 
+(On-Premise) 
+Supported network protocol is TCP/IP (IPv4). Standards 
+based NIC rated at 100/1000/10G copper or fiber is 
+supported. If considering a 10G connection County IT 
+network group shall be consulted to ensure equipment 
+compatibility and availability at proposed site. Additional 
+hardware cost, may be required of the project, based on 
+project requirements, equipment and availability. The County 
+uses Cisco technology as its default network equipment 
+standard. Solutions shall be compatible with Cisco Network 
+Technology. 
+N/A 
+Remote 
+Network 
+Access (On- 
+Premise) 
+Direct remote access to the County network and server 
+environment shall be done using the County’s Cisco 
+AnyConnect SSH VPN. Once a VPN connection is 
+established end-point connections are supported via 
+Microsoft RDP. Contractor support accounts shall be set up 
+in accordance with the adopted Los Alamos County IT 
+Usage and Security Policy #1210. 
+N/A 
+LAC Network 
+Account 
+Privilege (On- 
+Premise & 
+Hosted) 
+Desktop Client Software shall function for end users with 
+standard user privileges. user cannot install software and shall 
+not have administrative rights. 
+YES 
+Attachment A
+=== page 43 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+43 
+ Agreement Template Version: 04012024 
+STANDARD REQUIREMENT 
+Required or  
+Not Applicable (“N/A”) 
+Desk Hardware 
+(On-Premise & 
+Hosted) 
+Physical unit minimum hardware requirements consist of: 
+Intel core i5 based processor, minimum 8 GB RAM, Intel 
+integrated graphics 1280 capable video minimum, display 
+port, input or HDMI, 4 USB 2/3 ports. 
+ 
+Support deployment onto Virtual Desktop Infrastructure (VDI) 
+platform, specifically cloud-based platforms from Microsoft 
+Azure, Amazon Web Service (AWS) or Google Cloud 
+Platform. 
+YES 
+Desktop OS 
+(On-Premise 
+& Hosted) 
+Microsoft Windows 10 at current Service Pack (SP). 
+YES 
+Internet 
+Browser 
+(On-Premise 
+& Hosted) 
+Internal County Network: Google Chrome and Edge, at its 
+latest version, are the installed browsers on county devices. 
+Google Chrome is the county standard. New web 
+Applications must be based on HTML5. Applications 
+requiring Internet Explorer, Microsoft Silverlight, Java and 
+Flash are not supported. Web applications requiring .NET 
+framework shall not be considered. IM Division shall be 
+consulted for compatibility issues prior to considering new 
+application purchases requiring Java. 
+YES 
+Database 
+Software 
+Products 
+(On-Premise) 
+Supported database software is Microsoft (MS) SQL server 
+version 2016 through current. New MS SQL Server product 
+installations shall require review, purchasing of licenses, 
+appropriate hardware, and maintenance in support of 
+proposed project or instance install to the County MS SQL 
+Server Environment. MS SQL server software for new 
+implementations shall be at within the Microsoft certified 
+support release level or current. Server components for 
+proposed projects require review and purchasing as part of 
+the project initiative. Contractor software must be maintained 
+to run on a supported platform service level as defined by 
+Microsoft. 
+• Passwords are not permitted to be transported 
+in clear\plain text. 
+• Contractor implementation shall not use the SA 
+password for user level functions. SA passwords 
+shall be maintained by the County DBA. 
+• Only database instances can be installed on the 
+County MS-SQL Environment. If a Contractor 
+software component install is necessary on the 
+database server, a standalone installation shall 
+be required. 
+• Contractor software must use standard Access & 
+Connection architecture for accessing databases 
+on the County MS-SQL Environment. 
+• Applications based on Microsoft Access are 
+not supported. Applications based on 
+SQLEXPRESS version should be reviewed 
+and the limitation understood by the 
+customers and the Contractor. 
+Hosted solutions shall be compliant with or provide a 
+method to provide the County with database exports in the 
+MS-SQL Server format. 
+YES 
+Attachment A

@@ -1,0 +1,121 @@
+# source: raw/bleecker_drive/Ben Franklin Transit/Board-Packet-2025-11-13-Version-4.pdf
+# path: raw/bleecker_drive/Ben Franklin Transit/Board-Packet-2025-11-13-Version-4.pdf
+# hit page: 94 of 153
+# terms: RideCo
+
+=== page 93 ===
+Page 4 of 4
+Need Help?
+My Account
+Support
+Call 800.800.4239
+About Us | Privacy Policy | Terms and Conditions 
+This order is subject to CDW's Terms and Conditions of Sales and Service Projects at
+http://www.cdwg.com/content/terms-conditions/product-sales.aspx
+For more information, contact a CDW account manager.
+© 2025 CDW•G LLC, 200 N. Milwaukee Avenue, Vernon Hills, IL 60061 | 800.808.4239
+=== page 94 ===
+Memorandum 
+Date: November 13, 2025 
+To: 
+Thomas Drozt, Chief Executive Officer  
+From:  Michael Brown, Director of Transportation 
+RE: 
+Resolution 42-2025 Recommending RideCo US Inc. for the Award of the On-Demand 
+Paratransit Route Scheduling & Management Software & Hardware Solution 
+Background 
+The Ben Franklin Transit (BFT) Paratransit Department has experienced increasing operational 
+complexity due to service demand growth, evolving rider expectations, and the limitations of its 
+legacy software and hardware systems. These outdated tools have resulted in scheduling 
+inefficiencies, longer trip times, increased overtime costs, and reduced on-time performance 
+(OTP). To address these challenges, BFT initiated a competitive procurement process to identify 
+a modern, integrated solution capable of improving real-time scheduling, dispatching, and 
+customer service while supporting more efficient resource management. 
+RideCo US Inc. was selected as the recommended vendor based on its ability to provide a 
+dynamic continuous optimization platform specifically designed for paratransit and on-demand 
+services. RideCo’s cloud-based solution fully automates scheduling, dispatching, and eligibility 
+management, continuously optimizing routes and live schedules in real time. This results in 
+improved operational efficiency, reduced call center volume and duration, and enhanced rider 
+experience—all while maintaining compliance with collective bargaining agreement (CBA) rules 
+and ADA/FTA regulations. 
+RideCo’s technology supports advanced trip booking and instant assignment, automatic trip 
+negotiation, and multiple reservation options. Its Automated Reservations AI Agent uses speech 
+recognition and natural language processing to deliver a human-like customer service 
+experience, with multilingual support in English, Spanish, and Hindi. 
+Key features include automated scheduling and route optimization in real time, including 
+dynamic adjustments to traffic conditions, customizable eligibility management, streamlined trip 
+booking and negotiation, driver and vehicle management, comprehensive data capture and 
+reporting capabilities, ADA and FTA compliance integration, passenger-facing mobile app and 
+web booking portal, and seamless interface with Workday. 
+The other two vendors did not meet the level of functionality required to support our paratransit 
+operations efficiently. Two of the firm’s systems lacked a comprehensive eligibility management 
+portal, resulting in manual and labor-intensive processes for staff, and still requires group 
+scheduling to be performed by dispatchers rather than through automated optimization. One of 
+the firm’s platforms remains under development, with several key features—such as AI-based 
+customer interaction tools—still in testing with other agencies and not yet available for full 
+deployment. These gaps would require additional staff time and limit operational efficiency 
+compared to the fully developed capabilities offered by RideCo.
+=== page 95 ===
+By implementing this technology, BFT will be able to significantly improve route efficiency, 
+reduce overtime costs, increase on-time performance, and enhance communication between 
+dispatchers, drivers, and riders. 
+Proposal Evaluation and Recommendation 
+BFT received seven (7) proposals, and they were all determined to be responsive and 
+responsible. Evaluators rated the initial proposals and then conducted interviews with the top 
+three (3) highest-rated firms. Based on the two (2) phases of evaluations, RideCo US Inc. was 
+selected as the highest-rated firm based on the evaluation criteria specified in the proposal.  
+Evaluations summary is listed below: 
+Consultant Firms 
+Initial 
+Evaluation 
+Points 
+(Possible 100) 
+Initial Evaluation Points with 
+Oral Interview Points  
+(Possible 30 for a Total of 130 Points)  
+Evaluated 
+Cost Over 
+Ten Years 
+RideCo US Inc. 
+81 
+81 + 26 = 107 
+$2,143,909 
+Via Mobility, LLC 
+86 
+86 + 10 = 96 
+$810,430 
+Spare 
+77 
+77 + 15 = 92 
+$2,147,020 
+Ecolane USA, Inc. 
+69 
+Excluded 
+$1,786,090 
+HBSS Connect Corp 
+65 
+Excluded 
+$1,272,436 
+DDS Wireless Inc. 
+60 
+Excluded 
+$2,047,048 
+Fejost LLC 
+58 
+Excluded 
+$2,446,839 
+Labor Resources 
+Implementation of a technology lite solution is not expected to change approved headcount. A 
+marketing outreach campaign for consumers and distribution networks will be developed.   
+Funding 
+Budgeted: Yes 
+Budget & Funding Source: Capital and Operating Budget 
+The estimated cost for the first year for software license and implementation is $521,614 and 
+over the possible full ten-year term is $2,143,909.  Average cost per year over ten years is 
+$214,391.    
+Recommendation 
+The staff’s recommendation is to award the On-Demand Paratransit Route Scheduling & 
+Management Software & Hardware Solution to RideCo US Inc. for up to a ten-year term.   
+Forward as presented: 
+___________________________________________ 
+Thomas Drozt, Chief Executive Officer

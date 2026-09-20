@@ -1,0 +1,129 @@
+# source: https://baldwincountyal.legistar1.com/baldwincountyal/attachments/18851cf8-3e86-4737-850b-c3106d9989a0.pdf
+# path: raw/cache/81ffde439e119bc3106ba875fed65889fb475dd2.pdf
+# hit page: 16 of 33
+# terms: Via+fleet
+
+=== page 15 ===
+DocuSign Envelope ID: 46D7BA63-9178-46AF-89F7-BA6A63C7B28B 
+Customer will maintain a high level of communication across its own Marketing and 
+Communications/Public Relations teams, and the corresponding Via teams. 
+Customer and Via will work together in good faith on press announcements relating to the 
+Deployment. This will include a joint press release to be reviewed and approved by both parties 
+in advance of launch and/or service announcements. In the event it receives any inbound press 
+reach out relating to the Deployment, Customer will notify Via if it has spoken to or will be speaking 
+to media. Customer will direct any questions specifically about Via or the Via Solution directly to 
+the Via Press Office. 
+Customer shall work collaborate with Via in good faith toward the creation by Via of case study 
+relating to the Deployment, including by providing relevant information and quotes from relevant 
+personnel within four (4) months of the launch date. 
+6. Relationship Managers 
+• 
+Via: Jason Starr; additional Expansion Team members designated by Via (the "Via 
+Manager") 
+• 
+Customer: Matthew Brown (the "Customer Manager") 
+Confidential • Page 6 of 9
+=== page 16 ===
+DocuSign Envelope ID: 4607BA63-9178-46AF-89F7-BA6A63C7B28B 
+Appendix 1 to Exhibit A, Service Order 
+Data Sharing 
+Authorized Users - Contract 
+The below exhibit sets forth the members of the Customer's "Core Team" who are designated authorized users of the 
+Via Solution and Deployment data. Any usage beyond the members of the Core Team would be in violation of the 
+confidentiality provisions in the Terms. 
+Exhibit 1 
+Core Team 
+Title 
+Name 
+Director of Transportation 
+Matthew Brown 
+Operations Manager 
+Kathy Weeks 
+Fleet and Driver Manager 
+Ron Steward 
+Bookkeeper (NTD technician) 
+Tiffany Givens 
+Authorized Operators 
+Customer may not provide access to the Via Solution to any third party except with Via's prior written consent. In the 
+event that Customer wishes to engage a third-party operator ("Operator") to operate the Deployment, Customer shall 
+provide to Via a copy of an Operator Acknowledgement Fotm in the form required by Via, duly executed by such 
+Operator, as a prerequisite for Yia's allowing the Operator access to the Via Solution. For the avoidance of doubt, no 
+Operator will be allowed access to the Via Solution without having signed the aforementioned Operator 
+Acknowledgement Form. 
+Data Sharing Plan - Appendix 
+As pa11 of the Deployment, Via will make below data available to members of the Customer's Core Team, for the 
+purpose of research and program evaluation. The data to be shared wi II be uploaded to a Tableau server and protected 
+by Via's VPN. Each of the individuals listed as members of the Core Team will be provided their own VPN credentials 
+and team credentials for access to Tableau. Access to the Tableau server will be available through the VPN only and 
+might require appropriate software to connect. Underlying data may not be shared through any other method. The data 
+is considered trade secret by Via, and is subject to the confidentiality and other protective provisions set forth in the 
+Terms. 
+To protect Via's intellectual property and the privacy of riders, Via will provide the following data tables and 
+dashboards in the form of aggregated Tableau reports that will be provided for Customer's access. These reports will 
+be refreshed daily. The reports are aggregated, deidentified and do not include any personal information of Riders. 
+In addition to the data outlined in this appendix, per the requirements for Federal IMI grant awardees, data under this 
+service will be subject to a Data Management Plan (DMP), which Via and Customer will finalize in pa11nership with 
+the Federal Transit Administration (FTA). 
+ST AND ARD REPORTING SET 
+Data Point 
+I Level of Detail 
+Confidential · Page 7 of 9
+=== page 17 ===
+DocuSign Envelope ID: 46D7BA63-9178-46AF-89F7-BA6A63C7B28B 
+rider ID 
+per request 
+ride ID 
+per request 
+request date+ time 
+per request and truncated to minute 
+request origin lat/long 
+per request and truncated to 3rd decimal 
+request destination lat/long 
+per request and truncated to 3rd decimal 
+pickup date + time 
+per request and truncated to minute 
+dropoff date + time 
+per request and truncated to minute 
+WAV 
+per request 
+number of riders per request 
+per request 
+ride distance (miles) 
+per request 
+ride duration (minutes) 
+per request 
+ride rating 
+per request 
+fare paid 
+per request 
+ride 
+status 
+( completed, 
+no-showed, 
+cancelled, not accepted, seat unavailable, per request 
+out of zone, or out of hours) 
+completed rides 
+hourly, daily, weekly, monthly and avg. per hour (absolute# and % of all 
+requests) 
+no-showed rides 
+hourly, daily, weekly, monthly and avg. per hour (absolute # and % of all 
+requests) 
+cancelled rides 
+hourly, daily, weekly, monthly and avg. per hour (absolute# and % of all 
+requests) 
+non-accepted 1ides 
+hourly, daily, weekly, monthly and avg. per hour (absolute # and % of all 
+requests) 
+non-accepted rides with ETA<5min 
+daily, weekly, monthly and avg. per hour (absolute # and % of all 
+requests) 
+non-accepted rides with ETA between 5 daily, weekly, monthly and avg. per hour (absolute # and % of all 
+and IOmin 
+requests) 
+non-accepted rides with ETA> I Omin 
+daily, weekly, monthly and avg. per hour (absolute # and % of all 
+requests) 
+seat unavailable requests 
+hourly, daily, weekly, monthly and avg. per hour (absolute # and % of all 
+requests) 
+Confidential · Page 8 of 9

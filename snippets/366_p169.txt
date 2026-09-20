@@ -1,0 +1,223 @@
+# source: raw/bleecker_drive/Lee County/RFP250034SML Via Mobility Executed.pdf
+# path: raw/bleecker_drive/Lee County/RFP250034SML Via Mobility Executed.pdf
+# hit page: 169 of 171
+# terms: RideCo
+
+=== page 168 ===
+Page 1 of 4 
+ 
+ Procurement Management Department 
+2115 Second Street, 1st Floor 
+Fort Myers, FL  33901 
+Main Line:  (239) 533-8881 
+Fax Line:  (239) 485-8383 
+www.leegov.com/procurement 
+Posted Date:  February 27, 2025 
+ 
+Solicitation No.: RFP250034SML 
+ 
+Solicitation Name:  LeeTran Paratransit Software Management System  
+  
+Subject:   Addendum Number 1 
+ 
+The following represents clarification, additions, deletions, and/or modifications to the above referenced bid. This 
+addendum shall hereafter be regarded as part of the solicitation. Items not referenced herein remain unchanged, including 
+the response date. Words, phrases or sentences with a strikethrough represent deletions to the original solicitation. 
+Underlined words and bolded, phrases or sentences represent additions to the original solicitation. 
+ 
+1. 
+OPEN DATE / BID DUE DATE EXTENSION NOTICE: 
+ 
+FROM:   
+MARCH 13, 2025 at 2:30 PM 
+ 
+TO:    
+MARCH 20, 2025 at 2:30 PM 
+ 
+Bidders must ensure they continue to monitor the Lee County Procurement website for any follow-up information 
+regarding this solicitation. 
+ 
+2. 
+MODIFICATIONS:  
+ 
+SUBMITTAL REQUIREMENTS & EVALUATION CRITERIA 
+Submittal package may not exceed 15 30 pages printed single-sided; page restriction excludes required forms 
+found herein and dividers. 
+ 
+3. 
+QUESTIONS/ANSWERS: 
+1. 
+Would Lee County be open to extending the RFP submission deadline by one to two 
+weeks? Since this is a physical submission, the time between the close of the question 
+period and the required shipping time does not allow sufficient opportunity to 
+incorporate the County’s responses into our proposal. 
+Answer 
+Please see above in number 1. Open Date/ Bid Due Date Extension Notice.  Noted 
+above as an extension of the due date. 
+ 
+ 
+2. 
+Would Lee County consider extending the page limit from 15 pages to at least 40 pages? 
+This extension would allow us to submit a more complete and detailed description of 
+our solution. 
+Answer 
+Please see above in number 2. Modifications. LeeTran requests the quote to be 
+precise, pertinent, and accurate to the scope of work presented. 
+ 
+ 
+3. 
+What are the County’s desired project start date and service launch dates? 
+Answer 
+LeeTran is expecting to begin this project approximately Summer 2025.  
+ 
+ 
+ 
+EXHIBIT E - PROJECT FUNDING PACKAGE
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7
+=== page 169 ===
+Page 2 of 4 
+ 
+ 
+4. 
+Would Lee County be open to negotiating the final contractual terms and conditions 
+with the selected vendor? 
+Answer 
+Contract terms and condition negotiations may be considered prior to the final 
+contract being executed.  
+ 
+ 
+5. 
+Is there a specific DBE goal for this project? 
+Answer 
+LeeTran’s DBE goal for total participation is 1.10%. 
+ 
+6. 
+Can Lee County list all required integrations with existing or third-party systems? Also, 
+please confirm if the APIs will be provided for these integrations.  
+Answer 
+LeeTran’s goal is to be able to trip plan our software to allow paratransit to cross 
+dispatched between our different modes of travel. The integration would be with 
+RideCo MoD app and the Genfare app and should be able to provide the API’s. 
+ 
+ 
+7. 
+With regards to “integrating the paratransit rider app with LeeTran’s existing fixed 
+route and Mobility-on-Demand app in the future” can the County provide more details 
+on what is required?    
+Answer 
+Same as #7. LeeTran’s goal is to be able to trip plan our software to allow 
+paratransit to cross dispatched between our different modes of travel. The 
+integration would be with RideCo MoD app and the Genfare app and should be 
+able to provide the API’s. 
+ 
+ 
+8. 
+Are we permitted to accompany the Bid/Proposal Pricing Form with supplementary 
+information and/or optional add-ons? 
+Answer 
+As notated in Tab 6: Price Scoring of the Submittal Requirements and Evaluation 
+Criteria “Proposers must provide pricing for all line items listed on the Bid/Proposal 
+Form. Failure to provide pricing for any line item may result in Proposing Firm being 
+deemed Non-Responsive and therefore ineligible for award. Proposers may submit 
+additional pricing on a separate sheet in addition to the Bid/Proposal Form. The 
+additional pricing will not be part of the Price Scoring and will only be considered 
+during negotiations, if applicable and in the best interest of the County.” 
+ 
+9. 
+Can Lee County please provide the budget for this project? 
+Answer 
+As per our terms and conditions, “Lee County will not reveal engineering 
+estimates or budget amounts for a project unless required by grant funding or 
+unless it is in the best interest of the County.” 
+ 
+ 
+10. 
+What's the current eligibility process for riders to gain access to the paratransit 
+service(s)? 
+Answer 
+Please see this link: 
+ 
+https://www.leegov.com/leetran/passport-(ada-service)  
+ 
+ 
+11. 
+Will the County provide tablets for this project? If so, what are the expectations for 
+Mobile Device Management (MDM)? 
+Answer 
+Yes, an MDM that will lock down the tablet and only allow access to the program. 
+Tablets are Android and will be provided. The model is a Samsung TabA, version 
+2022 version which has an 8.7” screen. 
+ 
+ 
+ 
+EXHIBIT E - PROJECT FUNDING PACKAGE
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7
+=== page 170 ===
+Page 3 of 4 
+ 
+ 
+12. 
+We ask that the 15 pages restriction (1.2 SUBMITTAL REQUIREMENTS - 
+Page 42) be increased to 75 to allow for proper presentation of our qualifications, 
+experience, references, approach, personnel, and pricing. 
+Answer 
+Please see number 2. Modifications. LeeTran requests the quote to be precise, 
+pertinent, and accurate to the scope of work presented. 
+ 
+13. 
+Can LeeTran please provide their total Annual Ridership for this service? 
+Answer 
+Total annual ridership is 180,000. 
+ 
+14. 
+Can LeeTran confirm the operating hours for this service? How many days / 
+year does LeeTran operate this service? 
+Answer 
+Operating hours are the same as the fixed route which varies between each route. 
+This could be anywhere from 4:45am to 11:30pm 359 days a year. Paratransit runs 
+seven days a week, all year long excluding New Year’s Day, Memorial Day, July 
+4th, Labor Day, Thanksgiving Day and Christmas Day. 
+ 
+15. 
+Does LeeTran have a Target Launch Date for this project? 
+Answer 
+LeeTran is expecting to begin this project approximately Summer 2025. 
+ 
+16. 
+Regarding the spec, “System shall include a Mobility Data Management 
+(MDM) option.” Can LeeTran confirm that a Mobile Device Management 
+(MDM) option is what is being requested. If a Mobility Data Management 
+option is being requested, can LeeTran provide additional details on this 
+request? 
+Answer 
+Yes, an MDM that will lock down the tablet and only allow access to the program. 
+Tablets are Android and will be provided. The model is a Samsung TabA, version 
+2022 version which has an 8.7” screen. 
+ 
+17. 
+Does the price proposal need to be in a separate document/envelope from the 
+technical proposal? 
+Answer 
+No, the price proposal may be included in the technical proposal package. 
+ 
+18. 
+In addition to the form provided, can the bidder attach a separate pricing form 
+with optional modules and itemized, broken-down costs? 
+Answer 
+As notated in Tab 6: Price Scoring of the Submittal Requirements and Evaluation 
+Criteria “Proposers must provide pricing for all line items listed on the Bid/Proposal 
+Form. Failure to provide pricing for any line item may result in Proposing Firm being 
+deemed Non-Responsive and therefore ineligible for award. Proposers may submit 
+additional pricing on a separate sheet in addition to the Bid/Proposal Form. The 
+additional pricing will not be part of the Price Scoring and will only be considered 
+during negotiations, if applicable and in the best interest of the County.” 
+ 
+19. 
+Regarding real-time optimization of schedules / manifests, can LeeTran 
+confirm they would like this optimization to occur at least every minute? 
+Answer 
+At least every minute at a minimum, shorter intervals are preferable. 
+ 
+ 
+EXHIBIT E - PROJECT FUNDING PACKAGE
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7

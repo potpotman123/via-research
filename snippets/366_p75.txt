@@ -1,0 +1,208 @@
+# source: raw/bleecker_drive/Lee County/RFP250034SML Via Mobility Executed.pdf
+# path: raw/bleecker_drive/Lee County/RFP250034SML Via Mobility Executed.pdf
+# hit page: 75 of 171
+# terms: Via+per trip
+
+=== page 74 ===
+VER 06-12-24 
+ 
+38 RFP250034SML – LeeTran Paratransit Software Management 
+ 
+ 
+10.9 
+System should provide historical playback of vehicle locations with speed data. 
+ 
+11. GIS and Geocoding Function 
+ 
+11.1 
+The Vendor’s software must provide GIS functionality. 
+ 
+11.2 
+System shall be capable of exporting data and graphic images to other software platforms. If 
+ 
+ 
+the software is limited to basic mapping functions, then data shall be exportable to standard 
+ 
+ 
+GIS software (e.g., ESRI mapping products) enabling external GIS analyses. 
+ 
+11.3 
+Service area map shall define street segment names and address ranges. System shall have full 
+ 
+ 
+geocoding capability allowing LeeTran to enter an address and locate the address on the map. 
+ 
+ 
+System shall be capable of handling various abbreviations of names (e.g., St. for Street, etc.) 
+ 
+ 
+in the geocoding process. 
+ 
+11.4 
+System shall permit manual assignment of x- and y- coordinates in the event an address  
+ 
+ 
+cannot be geocoded based on existing map address range attributes. 
+ 
+11.5 
+System shall have the capability to manually pin multiple doors at the same location to direct 
+ 
+ 
+driver to exact pick-up spot. 
+ 
+11.6 
+System shall have the capability to calculate drive length and duration during the scheduling 
+ 
+ 
+process. 
+ 
+11.7 
+For any trip reservation, system shall be capable of providing, using the GIS capabilities of 
+ 
+ 
+the software, a map image of the trip origin and/or destination as well as turn by turn  
+ 
+ 
+directions for the driver. 
+ 
+11.8 
+The system must be able to calculate, autofill and report the municipality and county of each 
+ 
+ 
+trip’s home address, trip origin and/or destination. 
+ 
+12. Custom Onboarding, Training & Customer Service 
+ 
+12.1 
+Vendor shall provide training to LeeTran employees on functionalities of the Technology, 
+ 
+ 
+including Operators, Dispatchers, Schedulers, Customer Service Specialists, Supervisors and 
+ 
+ 
+Managers as needed. Training shall be conducted in person or via web as directed by LeeTran’s 
+ 
+ 
+needs.  
+ 
+12.2 
+Vendor shall assign a dedicated onboarding specialist to the Agency and provide a dedicated 
+ 
+ 
+account manager for LeeTran. 
+ 
+ 
+EXHIBIT E - PROJECT FUNDING PACKAGE
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7
+=== page 75 ===
+VER 06-12-24 
+ 
+39 RFP250034SML – LeeTran Paratransit Software Management 
+ 
+13. Program Distribution & Marketing 
+ 
+13.1 
+Vendor shall provide marketing support for the software coordinating with the LeeTran  
+ 
+ 
+marketing team to create a cohesive product look. 
+ 
+13.2 
+System shall have the ability to email or message passengers through the application or  
+ 
+ 
+passenger portal. 
+ 
+14. Reporting 
+ 
+14.1 
+System shall provide data reporting that must be inclusive of passenger counts 
+ 
+ 
+14.2 
+System shall provide Dashboard Access. 
+ 
+14.3 
+System shall have the ability to view and manage data and trip History to include: 
+• The ability to view and manage data 
+• Per Trip 
+• Date 
+• Trip origin & destination to information 
+• Scheduled time of Arrival (STA) 
+• Actual Time of Arrival (ATA) 
+• Trip distance 
+• Trip history 
+• Trip duration 
+• Total trips 
+• Missed trips (requested but not fulfilled) 
+• Special conditions (if applicable) 
+ 
+14.4 
+Agency must have ability to create ad-hoc custom reports. 
+ 
+14.5 
+System must include Federal Transit Agency (FTA) reporting requirements:  DR/DO S-10 
+ 
+ 
+Reporting. 
+ 
+14.6 
+Manifest Verification Report must include:  
+• Deadhead miles and time from base to first passenger pickup 
+• Revenue miles and time from first passenger pickup to last passenger drop off 
+• Deadhead miles and time from last passenger drop off to base 
+ 
+14.7 
+System must have deposit of app collected fares on a weekly basis. 
+ 
+14.8 
+System must have Financial Reporting of fares collected by vehicle, date, and location. This 
+should be a complete report that includes all methods of payment so daily fares can be 
+reconciled.  
+ 
+15. Required Services and Features 
+ 
+15.1 
+System shall have Trip Reservations via Web Portal:  
+EXHIBIT E - PROJECT FUNDING PACKAGE
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7
+=== page 76 ===
+VER 06-12-24 
+ 
+40 RFP250034SML – LeeTran Paratransit Software Management 
+ 
+ 
+15.1.1 LeeTran prefers a system that allows riders to book trips, receive trip confirmation, 
+review scheduled trips and view data via a web portal.  
+ 
+15.1.2 System shall have a Rider App and Mobile Payment System which riders can use to 
+access information, such as a rider app for booking trips, viewing scheduled trips, 
+canceling trips or ‘where’s my ride’ vehicle tracking.   
+ 
+15.1.3 System must have a mobile payment system that would accept various ride payment 
+types (credit and debit card) beyond the current cash and paper ticket system LeeTran 
+utilizes.  
+ 
+15.1.4 LeeTran strives to make data developer-friendly and requires a Vendor that provides 
+open data to other third-party developers. There is also potential interest in integrating 
+a paratransit rider app with LeeTran’s existing fixed route and Mobility-on-Demand app 
+in the future.  
+ 
+16. Security Measures 
+ 
+16.1 
+System shall ensure robust security measures are in place to protect personal data including 
+ 
+ 
+technical measures, physical measures, and organizational measures. 
+ 
+ 
+End of Scope of Work 
+ 
+ 
+ 
+ 
+ 
+ 
+EXHIBIT E - PROJECT FUNDING PACKAGE
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7

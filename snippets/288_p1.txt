@@ -1,0 +1,147 @@
+# source: raw/bleecker_drive/Arlington, Texas/Redacted_Contract_-_Amendment_to_Incorporate_Paratransit_Software_Services.pdf
+# path: raw/bleecker_drive/Arlington, Texas/Redacted_Contract_-_Amendment_to_Incorporate_Paratransit_Software_Services.pdf
+# hit page: 1 of 12
+# terms: River North Transit, Via+not to exceed, Via+not-to-exceed
+
+=== page 1 ===
+Amendment #1 
+to the 
+ON-DEMAND RIDESHARE CONTRACT 
+ 
+ 
+River North Transit LLC  (“Contractor” or “Via”) and City of Arlington, TX (“Customer” or “City” and, 
+together with Via, the “Parties”) have entered into that certain agreement titled On-Demand Rideshare 
+Contract, dated November 29, 2022 (the “Agreement”). This Amendment #1 to the On-Demand Rideshare 
+Contract (the “Amendment”) is entered into on this 23rd day of May, 2023.  Upon execution of this 
+Amendment #1 (the “Amendment”), the Parties agree to modify the Agreement as follows: 
+ 
+1. 
+Amendment.  
+ 
+Section II. A. of the Agreement is modified to read as follows: 
+ 
+CITY agrees to pay CONTRACTOR the amounts set forth in the Scope of Services, not to 
+exceed $30,412,626 (i.e., the total amount of funding obtained by the City as of the date hereof) 
+in the aggregate for the initial two-year period of this Contract, subject to the following 
+provisions. This total of $26,367,762 includes a maximum of $22,047,916 for the standard Via 
+service cost, $179,502 for the Arlington Student Transportation Program, $4,020,224 for the 
+Arlington RAPID service, and $139,984 for the Handitran paratransit software, and $25,000 for 
+the translation of the rider app in Vietnamese.   
+ 
+In addition, all other references to the “not to exceed” amount shall be increased accordingly to 
+$30,412,626,  
+ 
+2. Amendment. Appendix E is added as an additional scope of work to the Agreement for Via software and 
+related services for City’s Handitran paratransit services.   
+ 
+3. Conflicts, Use of Terms, Governing Law. Capitalized terms used but not defined herein have the 
+meanings set forth in the Agreement. Except as expressly provided herein, the terms and conditions of the 
+Agreement remain unchanged. This Amendment #1 will be governed by the same law as the Agreement 
+and is effective as of May 23, 2023.  
+ 
+RIVER NORTH TRANSIT, LLC 
+ 
+ 
+ 
+CITY OF ARLINGTON, TX  
+ 
+By: 
+ 
+ 
+ 
+ 
+ 
+ 
+By: 
+ 
+Name:  
+ 
+ 
+ 
+ 
+ 
+Name: 
+ 
+Title: 
+ 
+ 
+ 
+ 
+ 
+ 
+Title: 
+ 
+Date: 
+ 
+ 
+ 
+ 
+ 
+ 
+Date:
+=== page 2 ===
+EXHIBIT E 
+Paratransit Software DEPLOYMENT SERVICE ORDER 
+ 
+By this service order (the “Order”), River North Transit, LLC, a Delaware company with its principal office located at 10 Crosby Street, 
+Floor 2, New York, New York 10013 (“Via”), and the customer identified below (“Customer”) agree to collaborate towards the 
+deployment of the Via software and related services described below for use in Customer operated Handitran paratransit services(the 
+“Deployment”) in Arlington, TX.  
+ 
+Customer Name: City of Arlington, Texas  
+Customer Entity Type / State of Incorporation: City, State of 
+Texas 
+Customer Notice Address: 101 W. Abram Street, 
+Arlington, TX 76010 
+Customer Email: alicia.winkelblech@arlingtontx.gov 
+Term: The duration of the Deployment shall last until December 31, 2024, subject to extension by mutual agreement of the 
+parties on terms to be agreed (including any increase in monthly fees for additional months) or earlier termination under the 
+Terms of the On-Demand Rideshare Contract dated November 29, 2022.   
+Services: Customer will receive access to the standard Via Solution and automatic software updates, comprised of: 
+(a) Fully localized proprietary routing and matching algorithms that analyze all trip requests, assign riders dynamically 
+to the best-suited vehicle, and group passengers headed in the same direction into efficient shared rides powered by 
+Via’s patented technology; 
+(b) Downloadable iOS and Android rider apps that allow customers to book rides, track vehicles in real time, and 
+troubleshoot any issues; 
+(c) Drivers supporting the service, employed by the Customer or taxi, will use a downloadable driver app that provides 
+efficient turn-by-turn directions; the app allows drivers to start and end driving time, access any rider notes and 
+contact live support via SMS; and 
+(d) Access to the Via Operations Console (“VOC”), which allows administrators to perform a variety of functions, 
+including booking trips, checking trip details, creating and editing rider accounts, update rider eligibility, and 
+managing live service; 
+(e) Access to the data reporting  set out in Appendix 1, made available via the VOC. Ability to run custom queries 
+through access to Via’s Snowflake Sharing Solution which allows partners to access their Via data through a state- 
+of-the-art machine-to-machine sharing solution.  
+(f) Via will translate the rider app into Vietnamese and Spanish.  
+ 
+Once the first phase of the launch process is complete and all inputs are received from the Customer, Via will deliver a 
+service design document to be reviewed by the Customer and mutually agreed to by the parties in writing. The target launch 
+date will be set in the service design document.   
+Support Services – Installation. Via provides installation support for up to four weeks after the Deployment begins 
+serving Riders, consisting of:  
+(a) Localization for the Deployment Zone (defined below), including optimizing the algorithm, configuring back-end, 
+and defining acceptable pick-up and drop off points; 
+(b) Testing and quality assurance;  
+(c) Helping Customer to build a launch plan; and 
+(d) Instruction for drivers, dispatchers, and managers on Via’s best practices as launch support  
+Support Services – Ongoing. The following services are included in the fees up to the number of hours per month 
+identified below:  
+(a) Operational support and system adjustments: up to 10 hours per month 
+(b) Expert consulting: up to 5 hours per month 
+● 
+Community Engagement and growth: support with engaging existing Rider community to ensure 
+smooth transition to new technology  
+● 
+Operations: Including supply optimization analysis, payment & fraud investigation, and business 
+case/unit economics analysis 
+● 
+Service expansion: Including feasibility analysis for service expansions or additional projects 
+(c) Tech Support: Dedicated Via point of contact will use commercially reasonable efforts to respond within one 
+business day for non-critical issues (upon receipt of a detailed description of the issue as requested by Via) and to 
+ensure that assistance is provided within a reasonable time frame. Via will also provide Customer with an 
+appropriate channel for alerting Via to system outages or other critical issues, with respect to which Via will 
+provide emergency assistance. 
+ 
+Via will notify Customer if Customer is within 1 hour of exceeding the capped hourly limit on Operational Support and 
+System Adjustments and/or Consulting Services. If requested, hours beyond those set out above will be charged on an 
+hourly rate.

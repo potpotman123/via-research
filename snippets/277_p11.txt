@@ -1,0 +1,80 @@
+# source: https://rideuta.legistar1.com/rideuta/attachments/7082b6f7-e2a6-435f-99c8-a71933c1ef45.pdf
+# path: raw/cache/871800fa93efe67009d0da07483da0a218db3da2.pdf
+# hit page: 11 of 13
+# terms: Via+fleet, Via+not to exceed, Via+not-to-exceed, Via+per vehicle hour, Via+vehicles
+
+=== page 10 ===
+Service Order No. 3 UTA Contract No. 20-03399-3 
+(Confidential) ∙ Page 10 of 13 
+ 
+Appendix C: 
+Service Fees 
+ 
+The table below outlines the payment structure, in which UTA would be charged a price per driver 
+hour and a fixed monthly price for Technology and IT Operations. Any new regulatory fees 
+imposed by a governmental entity related to the service will be charged as a pass-through cost 
+contingent on UTA advance agreement provided such agreement will not be unreasonably 
+withheld. UTA will have the option of decreasing other services or expenses in order to off-set 
+these additional fees. The Deployment shall include a fleet of vehicles as described in the Service 
+Order in Section 4, Service Parameters, subject to extension by mutual agreement of the parties on 
+terms to be agreed (including any change in fees). The total contract value shall not exceed that 
+listed in the Service Order’s Appendix C, “Not-to-Exceed Fees,” of $2,282,200 for the 17-month 
+duration of this Service Order (through December 31, 2023).  
+ 
+ 
+Via will separately invoice UTA for marketing expenses incurred and as authorized by UTA under 
+Section 8 of the Service Order. Via will charge its standard labor rate of $150.00 per hour for 
+internal marketing labor cost. All other marketing expenses will be passed through at cost. The 
+DocuSign Envelope ID: 826AE357-F515-43E8-9CE8-4FE893CD8E27
+DocuSign Envelope ID: A0FF694A-53D0-4ABA-B4BD-FDFD5120E455
+=== page 11 ===
+Service Order No. 3 UTA Contract No. 20-03399-3 
+(Confidential) ∙ Page 11 of 13 
+ 
+total combined marketing expenses incurred by Via and UTA shall not exceed $100,000. This 
+amount is not included in the pricing table shown above.  
+The values in the table above are Not-to-Exceed (NTE) amounts and are subject to downward 
+adjustment based on actual revenue hours achieved.  
+UTA will be billed for the above fees as described below. Driver hours will be billed as incurred 
+at the end of each month. UTA shall pay the following fees to Via:  
+ 
+Ongoing Invoice Fees  
+UTA shall pay the following fees to be invoiced monthly by Via on or around the 15th of each 
+month, starting upon launch of the Deployment. 
+ 
+$55.97 per driver hour in ongoing project costs, to include driver partner pay, vehicle rental 
+and wheelchair-accessible vehicle (WAV) costs, live customer support, and project 
+operations  
+ 
+$8,308 per month in technology access fees and dedicated IT operations costs  
+These fees are exclusive of fuel. UTA will continue to provide fuel though UTA’s fuel card 
+network at no additional cost to Via for the UTA On Demand vehicle fleet as defined within 
+Section 11 of this Service Order.  
+The above per vehicle hour amounts include and account for the Vehicle Partner’s fixed costs to 
+meet the vehicle requirements set forth herein.  Such cost equals to a rate of $6 per vehicle hour 
+and will be treated as a pass-through and remitted directly to the Vehicle Partner by Via (the “pass-
+through rate”). For the avoidance of doubt, fuel, maintenance, and other variable costs related to 
+vehicle upkeep are not included in the pass-through rate. The Vehicle Partner will be primarily 
+responsible for the provision of vehicles on a rental basis to Driver Partners. 
+Should changes in applicable federal, state, local law result in a significant change in Via’s costs, 
+either an increase or decrease, Via or UTA may opt to renegotiate the ongoing on-demand service 
+hour fees or level of service obtained.  
+Fare Revenue  
+UTA shall maintain its partner Braintree (or follow-on vendor) account throughout the 
+Deployment and shall collect and own all revenue from service fares (“farebox revenue”), net of 
+Braintree service fees, in the account.  
+ 
+ 
+ 
+DocuSign Envelope ID: 826AE357-F515-43E8-9CE8-4FE893CD8E27
+DocuSign Envelope ID: A0FF694A-53D0-4ABA-B4BD-FDFD5120E455
+=== page 12 ===
+Service Order No. 3 UTA Contract No. 20-03399-3 
+(Confidential) ∙ Page 12 of 13 
+ 
+ 
+ 
+ 
+ 
+DocuSign Envelope ID: 826AE357-F515-43E8-9CE8-4FE893CD8E27
+DocuSign Envelope ID: A0FF694A-53D0-4ABA-B4BD-FDFD5120E455

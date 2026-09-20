@@ -1,0 +1,74 @@
+# source: https://legistar1.granicus.com/McKinney/attachments/8202bae3-b436-411d-abae-7806319c96a8.pdf
+# path: raw/cache/156958d0d4b3a3568bdf30c6c175e9665182746a.pdf
+# hit page: 10 of 20
+# terms: Via+per trip
+
+=== page 9 ===
+1.
+Cap cost per trip
+a.
+Reduce Dedicated Operator cost
+b.
+Cap Ride Distance
+2.
+Cap ride demand
+a.
+Cap total number of trips per month / rider
+3.
+Cap rider eligibility
+a.
+Cap new riders per month or total riders in the program
+Levers of cost control
+Beyond operational optimizations we are constantly 
+working on, here are 3 of the biggest levers on how to 
+control cost of CCT service.
+Our plan is to develop a list of concrete options around this, including pros, cons, 
+and operational considerations. We would like your feedback on the potential 
+levers based on your goals of providing the CCT service.
+=== page 10 ===
+●
+January 2022
+○
+CCT Service transitions to flat fare model
+○
+Operations Subsidy per boarding: $51.37 ($46.68 ECHO, $52.50 Irving Holdings)
+●
+May 2022
+○
+Lyft is made available, igniting rapid cost per boarding decreases.
+●
+November 2022 
+○
+GoPass App goes live for CCT riders, allowing mobile bookings without need for call center. 
+●
+May 2023
+○
+Service setup optimized for further reduction in cost per trip.
+●
+June 2023
+○
+Spare implements Call In IVR and Responsive SMS text messaging for automating the retrieval of Trip 
+ETAs and Trip Cancellations.
+●
+July 2023
+○
+Spare implements improved Spare Call Center, bringing reduced cost with higher degree of quality
+○
+Spare’s Data Science team performed an analysis of some smaller zone potentials to assign a 
+dedicated vehicle to more more efficient, smaller zone.
+○
+Operations Subsidy per boarding: $17.68 ($56.82 ECHO, $26.47 Irving Holdings, $10.94 Lyft)
+●
+August 2023
+○
+30% of weekly trips are now booked via GoPass App.
+Service Timeline
+=== page 11 ===
+Service growth: Collin County 
+Transit saw massive ridership 
+growth since its relaunch in 
+January 2022 using the Spare 
+Platform to match riders with the 
+most appropriate vehicles.
+Increased Ridership with 
+Reduced Costs

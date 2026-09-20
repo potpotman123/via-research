@@ -1,0 +1,188 @@
+# source: https://cityofcommerce.legistar1.com/cityofcommerce/attachments/2f95cf23-5c17-4113-bb02-656bbe5bd189.pdf
+# path: raw/cache/594b80e919b4d28aced5a31cea026b29bbd623ff.pdf
+# hit page: 3 of 29
+# terms: Via Mobility, Via+SaaS, Via+drivers, Via+vehicles
+
+=== page 2 ===
+4. 
+General Terms and Conditions.  The General Terms and Conditions outlined in Exhibit 
+B are incorporated as part of this Agreement. In the event of any inconsistency between the 
+General Terms and Conditions and any other exhibit to this agreement, the General Terms and 
+Conditions shall control unless it is clear from the context that both parties intend the provisions 
+of the other Exhibit (s) to control. 
+ 
+5. 
+Addresses. 
+ 
+City of Commerce 
+ 
+City of Commerce 
+2535 Commerce Way 
+Commerce, CA 90040 
+Attn:  Edgar P. Cisneros, City Manager 
+ 
+Company 
+ 
+Via Mobility, LLC 
+Attn:Erin Abrams, Manager 
+10 Crosby, Floor 2 
+New York, NY 10013 
+ 
+6. 
+Exhibits.  All exhibits referred to in this agreement are listed here and are incorporated 
+and made part of this agreement by this reference. 
+ 
+Exhibit A – Scope of Services and Compensation Schedule  
+Exhibit B – General Terms and Conditions 
+Exhibit C – Special Provisions Terms and Conditions 
+Exhibit D -  Federal Certification Forms 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DocuSign Envelope ID: 1081S57D-3SS8-4C31-9CF4-85D53991AS43
+=== page 3 ===
+EXHIBIT A – SCOPE OF SERVICES AND COMPENSATION SCHEDULE 
+ 
+1. Solution Overview 
+For Commerce, Via Mobility LLC (or “Via”) proposes to deliver our Software-as-a-Service 
+(SaaS) solution, a comprehensive On-Demand Transit platform that meets or exceeds 
+every requirement outlined in the City’s Request for Proposal (“RFP – On Demand 
+Transit Software Technology”). Powered by our backend algorithms for scheduling 
+shared rides and dynamically routing vehicles, our solution will deliver an exceptional 
+user experience for riders, drivers, and system administrators. Please ﬁnd additional 
+detail on each system component in our RFP. At a high level, Via’s SaaS solution includes 
+all of the features and support services outlined in the RFP: 
+ 
+ 
+2. Implementation Plan 
+From designing and launching over 200 on-demand transit services, Via understands 
+that exceptional project management is key to the success of any deployment. We 
+take an agile approach to both product development and project governance: we 
+rapidly test and iterate ideas, communicate frequently with our partners, and 
+incorporate feedback without causing downstream delays. Through productive 
+partner communication and nimble project management, our team meets deliverables 
+within agreed-upon timelines while maintaining the ﬂexibility to course-correct as 
+necessary. Backed by our team of 350 algorithm experts, product managers, systems 
+administrators and developers, along with 350 data scientists, operations and growth 
+marketing experts, and transportation planners, Via will provide Commerce with an 
+experienced launch team to oversee all implementation tasks: 
+• 
+Routing and matching algorithms for 
+automated trip scheduling and dynamic 
+vehicle routing, with parameters conﬁgurable 
+to Commerce’s preferences 
+• 
+Rider App and intuitive web portal for 
+customers to book and plan multimodal trips, 
+manage reservations, easily pay fares, and 
+receive service updates 
+• 
+Driver App that provides drivers with turn-
+by-turn navigation and seamless 
+communication 
+• 
+Administrative tools for overseeing 
+service operations and providing 
+customer support 
+• 
+Data reporting with granular trip data and 
+performance trends to support the City’s 
+planning 
+• 
+Ongoing Partner Success and technical 
+support services to ensure the successful 
+continued operation of our platform 
+DocuSign Envelope ID: 1081S57D-3SS8-4C31-9CF4-85D53991AS43
+=== page 4 ===
+• 
+Conducting robust upfront service planning exercises to clarify each 
+stakeholder’s expectations and develop a mutually agreed-upon timeline for 
+deliverables 
+ 
+• 
+Providing proactive communication and support to the City during all phases 
+of launch, based on regular project status phone calls and periodic 
+performance review meetings to collectively discuss project progress, identify 
+areas of improvement, and align on next steps 
+ 
+• 
+Coordinating integrations with third-party systems and operators 
+• 
+Ensuring the successful migration of customer data, matching both speed and 
+accuracy 
+ 
+• Training all City staﬀ, including drivers, dispatchers, and system 
+administrators on how to leverage the Via platform for services success 
+ 
+• 
+Overseeing all aspects of the change management process, including 
+coordination with incumbent providers 
+ 
+Launch Timeline 
+Completing all start-up activities in time for product launch — including aligning on 
+product features with Commerce, conﬁguring our platform to support the City’s speciﬁc 
+needs, and deploying a high-quality system — requires fast software conﬁguration and 
+highly coordinated project management. As we have done on behalf of software clients 
+around the world, Via will leverage our signiﬁcant engineering resources along with 
+proven best practices for coordinating multiple stakeholders to avoid project delays. 
+We typically launch on-demand transit systems similar to our proposed solution for 
+Commerce on a twelve-week timeline, but are happy to adjust as needed to meet this 
+project’s needs. We will ensure on-time launch by following the plan outlined below: 
+ 
+Via 
+Activities 
+Commerce 
+Activities 
+Milestones 
+STAGE 1: Service Planning & Design (Weeks 1 - 3) 
+Reﬁne and ﬁnalize the service scope 
+to best meet Commerce’s goals: 
+• 
+Conﬁrm technical requirements and 
+any 
+unique product requirements 
+• 
+Align on performance goals, service 
+quality targets, and reporting 
+requirements 
+• 
+Run simulations to test 
+service performance under 
+diﬀerent service parameters 
+• 
+Establish 
+marketing goals 
+• 
+Provide data 
+to inform 
+service 
+simulations 
+• 
+Share data 
+formats for 
+integrations 
+• 
+Approve 
+ﬁnal service 
+design 
+● Finalized 
+project scope 
+● Established 
+service 
+parameters 
+● Conﬁrmed 
+technical 
+speciﬁcatio
+ns 
+● Finalized 
+data 
+sharing 
+plan 
+STAGE 2: System Development & Internal Testing (Weeks 4 - 7) 
+DocuSign Envelope ID: 1081S57D-3SS8-4C31-9CF4-85D53991AS43

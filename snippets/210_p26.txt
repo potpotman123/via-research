@@ -1,0 +1,223 @@
+# source: https://legistar1.granicus.com/McKinney/attachments/abb0b9be-9c15-4174-9e04-7b9d82941c25.pdf
+# path: raw/cache/5e92fe54da67feb112756b4c03bca94101b9439a.pdf
+# hit page: 26 of 50
+# terms: Spare Labs
+
+=== page 25 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+Results: Door-to-door service (extended hours: 6am–12am) 
+ 
+Structured for low cost 
+ 
+ 
+Low Demand ​(60) 
+Medium Demand​ (75) 
+High Demand​ (98) 
+No. duties 
+3 
+4 
+4 
+Avg. wait time 
+27 ​mins 
+19 ​mins 
+26 ​mins 
+Max wait time 
+54 ​mins 
+58 ​mins 
+61 ​mins 
+<15 min wait 
+28% 
+59% 
+39% 
+PPVH 
+1.0 
+0.8 
+1.2 
+Pooling ratio 
+40% 
+31% 
+53% 
+Cost per trip 
+$42 
+$50 
+$42 
+Annual cost 
+$780,000 
+$1,100,000 
+$1,300,000 
+ 
+Structured for great service 
+ 
+ 
+Low Demand ​(60) 
+Medium Demand​ (75) 
+High Demand​ (98) 
+No. duties 
+5 
+6 
+8 
+Avg. wait time 
+20 ​mins 
+14 ​mins 
+17 ​mins 
+Max wait time 
+50 ​mins 
+37 ​mins 
+46 ​mins 
+<15 min wait 
+39% 
+64% 
+46% 
+PPVH 
+0.7 
+0.7 
+0.7 
+Pooling ratio 
+20% 
+35% 
+41% 
+Cost per trip 
+$69 
+$67 
+$67 
+Annual cost 
+$1,300,000 
+$1,600,000 
+$2,000,000 
+24
+=== page 26 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+Results: Stop-to-stop service (normal hours: 6am–6pm) 
+ 
+Structured for low cost 
+ 
+ 
+Low Demand ​(52) 
+Medium Demand​ (65) 
+High Demand​ (85) 
+No. duties 
+3 
+4 
+4 
+Avg. wait time 
+23 ​mins 
+17 ​mins 
+25 ​mins 
+Max wait time 
+66 ​mins 
+55 ​mins 
+62 ​mins 
+<15 min wait 
+38% 
+56% 
+34% 
+PPVH 
+1.2 
+1.2 
+1.3 
+Pooling ratio 
+78% 
+75% 
+34% 
+Cost per trip 
+$36 
+$43 
+$38 
+Annual cost 
+$520,000 
+$830,000 
+$870,000 
+ 
+Structured for great service 
+ 
+ 
+Low Demand ​(52) 
+Medium Demand​ (65) 
+High Demand​ (85) 
+No. duties 
+5 
+6 
+8 
+Avg. wait time 
+11 ​mins 
+10 ​mins 
+7 ​mins 
+Max wait time 
+50 ​mins 
+43 ​mins 
+36 ​mins 
+<15 min wait 
+73% 
+72% 
+86% 
+PPVH 
+0.8 
+0.8 
+0.8 
+Pooling ratio 
+61% 
+45% 
+53% 
+Cost per trip 
+$59 
+$59 
+$61 
+Annual cost 
+$950,000 
+$1,200,000 
+$1,600,000 
+25
+=== page 27 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+Comparative analysis 
+ 
+Comparing low-cost and great-service options 
+ 
+To help assess the different tradeoffs between low-cost and great-service options, we 
+compare the performance KPIs of both options under medium demand and a door-to-door 
+operational model. The best performance for each parameter is highlighted in green. 
+ 
+It is clear that waiting times are lower in the great-service option, but service efficiency 
+declines compared to the low-cost option. The maximum waiting time for the low-cost 
+service, while high, is not representative of the vast majority of trip durations, which are 
+generally (far) below 60 minutes. Supplementing the baseline number of vehicles with 
+non-dedicated vehicles at peak times help to significantly reduce the chance of long waiting 
+times. We explore this in more detail in the Recommendations section.  
+ 
+An important question for CCT to consider is whether the extra spending on a ‘great 
+service’ option is value for money; this question is addressed in the Recommendations 
+section. 
+ 
+ 
+Low cost 
+(Medium demand, 4 duties) 
+Great service  
+(Medium demand, 6 duties) 
+Avg. wait time 
+26 ​mins 
+15 ​mins 
+Max wait time 
+58 ​mins 
+43 ​mins 
+<15 min wait 
+25% 
+56% 
+PPVH 
+1.2 
+0.8 
+Pooling ratio 
+54% 
+53% 
+Cost per trip 
+$43 
+$59 
+Annual cost 
+$830,000 
+$1,200,000 
+ 
+ 
+ 
+ 
+ 
+ 
+26

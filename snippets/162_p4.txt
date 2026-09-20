@@ -1,0 +1,149 @@
+# source: https://metro.legistar1.com/metro/attachments/52e0c1b9-3799-49aa-8221-0792aed1eafa.pdf
+# path: raw/cache/939cfba8b2d0ec7554f8f3ea9546915848fb890e.pdf
+# hit page: 4 of 8
+# terms: RideCo, Via+vehicles
+
+=== page 3 ===
+File #: 2019-0865, File Type: Contract
+Agenda Number: 29.
+pre- launch and 30 days for final pilot evaluation. This operation will be evaluated to determine
+whether it should be incorporated as a permanent mode of the agency.
+BACKGROUND
+New and emerging technology has had a profound impact on how services are delivered. Among the
+most noteworthy trends has been the rise and growth of on-demand and customized services. In
+specific, the world of public transit has experienced a meaningful jolt resulting from these new on-
+demand economies. In California, this has amounted to the rise of Transportation Network
+Companies initially focused on replacing single-occupancy vehicles. However, in more recent
+months, this emerging sector has showcased a clear and intentional desire to replace trips
+traditionally served by public transit agencies.
+Metro has continually monitored these changes and trends to better understand the strengths of
+these models, as well as the challenges in delivering equity. Metro’s Office of Extraordinary
+Innovation (OEI) has engaged in this space by receiving and evaluating unsolicited proposals
+(including a proposal received in 2016 to test trip pooling technology), interviewing project managers
+and issuing findings. In partnership with the Eno Center for Transportation, Metro staff published the
+white paper, UpRouted, a compilation of findings on the early challenges to MicroTransit. Best
+practices as highlighted in the white paper were sourced from peers at Alameda-Contra Costa Transit
+District, Santa Clara Valley Transportation Authority and Kansas City Area Transportation Authority.
+More recently, Metro has funded a TNC partnership through OEI and managed directly by the private
+sector.
+In 2017, under the direction of the Chief Executive Officer, Metro staff assembled an agency-wide
+team which to-date has drawn insights and expertise from more than 450 staff from all departments
+to design the new transit offering. This service has been built as a hybrid, merging the best of private
+technology with the experience of public operations to identify and respond to untapped mobility
+opportunities within LA County.
+The concept was to set-up a multi-year pilot, which would test how an on-demand operation run by
+Metro employees using private sector technology and vehicles could integrate within Metro’s family of
+services. This service would encourage current Metro customers to ride the system more regularly for
+a safe, comfortable, reliable, single-direction or round-trip ride.
+By introducing and testing a new service focused on short trips in smaller vehicles, Metro would be
+able to flex its’ operations to match the mode/vehicle to the customer. This new operation would tap
+into the growing momentum and expectation around new technology and tools to encourage
+ridesharing with Metro for short trips. This was the genesis of the agency’s first Pre-Development
+Agreement Public Private Partnerships (PDA-P3s), which supports a two-part contract similar to a
+design-build contracting model.
+In October 2017, the competitive Request for Proposal (RFP) was issued to procure services from
+qualified firms or Contractor Team(s) to partner with Metro for planning, designing, testing and
+evaluating a technology-based service for traveling short distances. The PDA-P3 was divided into
+two parts, Part A (“Planning and Design,) and Part B (“Implementation and Evaluation”).
+Metro
+Printed on 2/14/2020
+Page 3 of 8
+powered by Legistar™
+=== page 4 ===
+File #: 2019-0865, File Type: Contract
+Agenda Number: 29.
+In April 2018, three PDA-P3 contracts were awarded for service feasibility studies to tech teams with
+transit planning firms (RideCo/Iteris, Via/Nelson/Nygaard and Transdev/AECOM). The Part A findings
+were set to serve as the foundation for implementation in Part B.
+During the service design period, the three competitors worked with all departments at Metro to craft
+operations and identify service areas to support equity, network connectivity, economic mobility,
+congestion reduction and environmental goals. Findings were used to inform the Regional Reading
+Operating Plan (Attachment F). In September 2019, the three companies completed Part A
+(“Planning and Design”).
+To best maximize efficiencies and utilize the vast in-house expertise available, implementation of this
+new MicroTransit service was shifted to Metro Operations for Part B (“Implementation and
+Evaluation”). Under the direction of Metro’s Chief Operations Officer, the agency has entered pre-
+revenue service operations as based upon the service feasibility studies (PDA-P3, Part A), the
+operational road map of the agency under the build outs identified in Measures R and M and the
+NextGen Bus Plan.
+Metro staff recommends the MicroTransit Regional Readiness Operating Plan (Attachment F), in line
+with Proposed MicroTransit Service Zones displayed in the corresponding map (Attachment G).
+DISCUSSION
+Metro staff recommends the workforce outlined below to deliver a functional and successful
+operation:
+Operators (SMART)
+Metro employees will operate the MicroTransit vehicles under the signed side letter with our exclusive
+operating Union, SMART-TD, representing all new 80 employee operators for FY20.
+Supervisors (AFSCME)
+Metro employees will supervise the daily operations of MicroTransit Operators. Seven (7) transit
+operations supervisors (TOS) will provide on-street operations supervision, coordination, service
+monitoring and training for MicroTransit operators for FY20.
+MicroTransit Project Team (Non-Contract)
+The MicroTransit project oversight team will be responsible for, but not limited to, management of
+daily operations and contract administration; development of MicroTransit training specific to on-
+demand technology and operations; establishment of safety protocols and procedures for incident
+training, reporting and resolution; development and management of partnerships and coordination
+with local cities, municipal operators, local organizations and businesses; direct customer acquisition
+strategies (includes financial agreements with public and private funders); and analysis to optimize
+service delivery in order to compete in the marketplace. The five (5) non-contract project positions
+necessary for pre-launch, revenue service operations and evaluation of the pilot are listed as follows
+(see attachment D for details):
+·
+1 Director, Transportation Operations
+Metro
+Printed on 2/14/2020
+Page 4 of 8
+powered by Legistar™
+=== page 5 ===
+File #: 2019-0865, File Type: Contract
+Agenda Number: 29.
+·
+2 Manager, Transportation Operations
+·
+1 Principal Transportation Planner
+·
+1 Sr. Administrative Analyst
+These positions will report to the Sr. Director, Special Projects for MicroTransit. If MicroTransit
+becomes a permanent operation, Metro will retain the above positions (operators and project team)
+as permanent employees of the agency. The Non-Contract positions required to support this project
+will be allocated from agency-wide vacancies in FY20. Non-Contract positions required to support the
+project will be allocated from approved agency FY20 staffing levels. All Contract, Non-Contract
+positions, and all other resources needed in future fiscal years will be included in fiscal year annual
+budget requests.
+Private Partner
+Metro will partner with RideCo, Inc. who will be responsible for, but not limited to, the following:
+·
+Create and maintain a software platform (includes multi-modal trip planning, booking, payment
+tools, etc.)
+·
+Lease, maintain, clean, and fuel/electrify the mixed fleet
+·
+Secure and manage the Reporting Locations (remote vehicle storage and office space for the
+operations)
+·
+Conduct targeted communications campaigns within deployment areas
+DETERMINATION OF SAFETY IMPACT
+Customer and operator safety are core to maintaining the highest standards of security and the
+optimal service design for MicroTransit. Real-time information on vehicles and tools for customers will
+enhance communications for incident prevention as well as incident reporting. The MicroTransit
+technology platform will integrate with TransitWatch and related digital tools managed or used by
+local law enforcement, community health and homelessness advocates, community-based social
+networking and our transit operations control. The mission is to keep our drivers and customers safe
+by monitoring emergency, and security incidents, assessing risk, and identifying threats. The project
+team will work hand-in-hand with System Security and Law Enforcement (SSLE) to address issues
+such as sexual harassment and homelessness, resulting in enhanced safety on Metro’s core transit
+system and building public trust. Close coordination with SSLE, law enforcement departments, civil
+rights and other internal Metro departments will ensure the best possible safety and security program
+for our system.
+FINANCIAL IMPACT
+Adoption of this pilot program has a FY20 total budget impact of $7,750,000 (see MicroTransit
+Expenditure Plan in Attachment E). Therefore, a FY20 budget amendment in the amount of
+$7,750,000 is required for pre-revenue and operational expenses. In addition, a FY20 budget
+amendment for 87 Contract positions is required. The five (5) Non-Contract project positions required
+to support the project will be allocated from approved agency FY20 staffing levels. Positions and all
+other resources required for this project will be reassessed and included in fiscal year annual budget
+requests.
+Metro
+Printed on 2/14/2020
+Page 5 of 8
+powered by Legistar™

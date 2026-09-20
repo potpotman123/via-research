@@ -1,0 +1,103 @@
+# source: raw/bleecker_drive/Arlington, Texas/FTA-Report-No-0244.pdf
+# path: raw/bleecker_drive/Arlington, Texas/FTA-Report-No-0244.pdf
+# hit page: 48 of 74
+# terms: Via+fleet, Via+vehicles
+
+=== page 47 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+38
+SECTION  | 4
+important to note that senior citizens and individuals with disabilities may have 
+been less likely to travel during the time of the RAPID demonstration due to 
+increased risk from COVID-19 health concerns. Additionally, the City of Arlington 
+has an established ADA complementary paratransit service available for eligible 
+persons whose disabilities prevent them from independently using the fixed 
+route busy system. Finally, while ADA accessible vehicles are provided on the 
+City of Arlington’s broader Via rideshare service, data from the first one and 
+half years of city-wide service shows that only about 4 percent of all rides taken 
+were from riders needing WAVs. As the RAPID service was part of the broader 
+rideshare service, it is reasonable that there would also be low demand for WAV 
+rides on RAPID.
+A second evaluation regards access to modes of transportation to meet the 
+needs of individuals. RAPID rider survey results show that 47.3 percent of 
+respondents do not have access to a personal vehicle at all, while an additional 
+32.8 percent of respondents have one vehicle available to their household. 
+Income can also be a proxy for personal mobility, and survey results show 
+that 73.8 percent of RAPID riders had an annual household income of less than 
+$35,000 (Figure 4-2). It is clear that the RAPID service increased access for riders 
+in the service area, especially for UTA students and for individuals with limited 
+access to other forms of personal mobility. 
+Figure 4-1 Age Distribution of RAPID Riders, Based on Survey Responses (n= 262)
+=== page 48 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+39
+SECTION  | 4
+Figure 4-2 Annual Household Income Distribution of RAPID Riders, Based on Survey Responses 
+(n= 248)
+Improved Equity and Accessibility to Public Transit 
+Evaluation of how RAPID improved equity and accessibility to public transit was 
+also performed using ridership data and survey responses. Given the dramatic 
+increase in ridership over the course of the RAPID demonstration and the average 
+of close to 200 riders per day taken on RAPID during November 2021, it is clear 
+that the RAPID service provided a needed transportation option for individuals 
+in the service area. For context, the Via microtransit service in Arlington also 
+saw significant growth during this time period, with a 9 percent compound 
+monthly growth rate in 2021 that led from an average of 16,500 monthly rides to 
+an average of 48,300 monthly rides over the course of the year. Additionally, 25 
+percent of monthly rides in 2021 were from riders new to the service. It is also 
+clear that RAPID riders used a variety of other transportation modes to meet their 
+needs. As described in the previous chapter, RAPID riders also used the broader 
+Via rideshare service, personal vehicles, walking or biking, UTA campus shuttles, 
+and private ride-hailing services (Figure 3-12). By introducing a new mode, RAPID 
+provided another option, and, for UTA students, RAPID was also a free option, 
+helping to increase equitable transportation for this underserved group.  
+More broadly, the RAPID service sought to ensure equity and accessibility 
+by providing a wheelchair accessible AV in the fleet, both a smart phone 
+application with accessibility tools and a call center for booking rides or getting 
+information, and accepting pre-paid credit cards that riders can purchase with 
+cash to make fare payments. More details can be found in the RAPID Equity and 
+Accessibility Plan approved by FTA.
+=== page 49 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+40
+SECTION  | 4
+Improved Safety and Efficiency 
+The RAPID project was able to provide a consistently safe and efficient service 
+for the full duration of the one-year demonstration. Regarding safety, as 
+described above, there were no safety accidents or collisions of any kind, either 
+in automated or in manual mode, during the demonstration. There were five 
+minor incidents, commonly referred to as curb rubs, where the vehicles did not 
+perform as expected in automated mode. While these incidents did not result 
+in any damage, injuries, or safety concerns, they were thoroughly investigated, 
+and the lessons learned were used to improve service and performance moving 
+forward. More information on these incidents is presented in the section above, 
+Autonomy Performance Metrics.
+Regarding efficiency, there are a few quality-of-service metrics that 
+demonstrate the efficient operations of the RAPID service. As discussed in the 
+previous chapter, the RAPID service ETA after booking a ride fluctuated with 
+demand, with monthly averages ranging from a low of six minutes at the start of 
+service to a high of 15.5 minutes. This range of average ETAs is in line with ETA 
+performance on Arlington’s broader rideshare service, and the ETAs decreased 
+over the course of the service as demand increased for the AVs. On-time 
+percentage for the RAPID was quite high, with monthly averages of 99 percent 
+and 100 percent, illustrating that routing and dispatching estimates were quite 
+accurate for the AVs within the Via platform. Trip duration is harder to compare 
+to the broader Via rideshare service, as the RAPID service area was quite 
+small (one square mile) compared to the entire service area (99 square miles). 
+However, the average trip duration on RAPID was approximately seven minutes, 
+suggesting efficient routing and service delivery within the busy service area. 
+In combination, these safety and efficiency results suggest that AVs can perform 
+as well as human-driven ridesharing services. 
+Demonstration of Automation on an Existing Public 
+Transportation System 
+Analysis of autonomy performance and integration between the Via and May 
+Mobility platforms reveals that the RAPID AVs were successfully integrated 
+into the existing Via rideshare service in Arlington across all metrics and that 
+automated performance improved over the course of the demonstration. 
+Regarding autonomy performance, data presented in the previous chapter 
+shows that the amount of time RAPID operated in automated mode ranged 
+from a low of 75 percent to a high of 94 percent, revealing significant learning 
+and improvement over the course of the demonstration. Autonomy heatmaps 
+of the service area also show individual areas of improvement because of 
+software updates that were applied, improvements to the autonomy map, and 
+implementing lessons learned.

@@ -1,0 +1,149 @@
+# source: raw/bleecker_drive/Lexington Fayette Urban County Government/0079_21_Remix_Proposal_Lexington_Jan_2021.pdf
+# path: raw/bleecker_drive/Lexington Fayette Urban County Government/0079_21_Remix_Proposal_Lexington_Jan_2021.pdf
+# hit page: 5 of 19
+# terms: Via+SaaS, Via+fleet, Via+subscription
+
+=== page 4 ===
+Remix + Lexington: Bringing Together the 
+Transportation Picture  
+ 
+The Remix Platform is designed to bring together cities and transit agencies to leverage 
+innovative technology for the changing transportation landscape. With a planning, design, 
+and data lens, governments will benefit from the culmination of 325+ government best 
+practices, and in turn become influential across data standard practices, policy and program 
+design, and technology that considers the holistic transportation picture.  
+ 
+Specifically, with Remix’s technology, cities will be able to take advantage of combined 
+decades of expertise across policy, engineering and product, and transportation sectors. 
+Remix’s team of 65+ will allow a tailored approach to each city, and rapid product 
+development.
+=== page 5 ===
+Remix Proposal for Lexington, KY 
+Prepared for Scott Thompson. By Matthew Guichard, Remix (matthew.guichard@remix.com).  Date: 16 Dec 2020  
+What do I get 
+with a Remix 
+Mobility 
+License? 
+ 
+A full mobility management platform for your entire city staff. It’s an 
+annual subscription for unlimited users, and includes: 
+● 
+Vehicle location ground truth and metrics: view dockless vehicle location and filter 
+based on vehicle status, service provider, vehicle type, and geographic zone  
+● 
+Fleet distribution and trends via heatmap views  
+● 
+Understand the most popular spots in your city rider dropoff and deployment to 
+inform parking zones  
+● 
+Set fleet cap and equity zone regulation and compliance rules to monitor over the 
+course of your mobility program  
+● 
+Geofence policy zone creation: create zones to restrict or encourage 
+parking/riding in specific geographic areas within your city 
+● 
+Trip path visualization by segment across your city based on the average daily 
+usage based on a monthly average  
+● 
+Bike network analysis: Compare trip paths compared to current bike infrastructure 
+to quickly identify key corridors of risk  
+● 
+Trip origin and destination: Understand where dockless trips start and end, based 
+on custom geographic areas  
+● 
+Overall program metrics: utilization, total trips per day, average distance, average 
+duration  
+● 
+Docked bikeshare support and key station metrics  
+● 
+Exports to CSV for further analysis  
+Customer 
+support? 
+ 
+Our Success Team brings years of design experience and works with you 
+to develop a customized Success Plan. Each plan has three parts: 
+1. 
+Onboard (First 60 Days): Identify a first project and work on it together. 
+-  Workshops, Project-Assisted Training, Individual Sessions, Video Guides 
+2. 
+Plan (Months 2+): Bring your plans to life with Remix. 
+-  Regular Check-ins, Best Practices Blog, Remix Webinars, Remix Conference 
+3. 
+Measure Results (Months 6+): Document your return on investment (ROI). 
+-  Develop ROI Report, Set Yearly Goals, Manage Renewal, Plan Ahead 
+Technical 
+requirements? 
+Remix is entirely web-based and software-as-a-service (SaaS). 
+● 
+Everything is in the cloud -- no installations or downloads. Can access from 
+anywhere. 
+● 
+Every user gets a login + password 
+● 
+Remix works on the latest version of any browser 
+● 
+Agency-wide annual subscription -- no maintenance fees.
+=== page 6 ===
+What do I get 
+with a Remix 
+Streets License 
+(Optional)? 
+ 
+A full street design platform for your entire city staff. It’s an annual 
+subscription for unlimited users, and includes: 
+● 
+Drag and drop editing, with an easy-to-learn graphic interface 
+● 
+Satellite, topographic, and sketch view to support sketching existing conditions  
+● 
+Sketch abilities for street design in plan and cross section view  
+● 
+Ability to sketch out multiple lane types: vehicle, turn lanes, bike lanes, bus lanes, 
+pedestrian infrastructure, crosswalks, and more  
+● 
+On the fly editing of right of way widths and curb-to-curb widths, including lane 
+measurements  
+● 
+Comment, call-out, and labeling features for public engagement and sharing  
+● 
+Custom street elements to visualize concepts (signs, lane symbols, street furniture, 
+etc.) 
+● 
+Editable street grid to modify or add existing street segments or intersections  
+● 
+Capacity estimates to approximate free flow capacity of each lane type  
+● 
+Unlimited custom data layers (polygon-based shapefiles) 
+● 
+Public engagement and share features 
+● 
+Consistent and regular product improvements / feature launches 
+● 
+Export to CAD   
+ 
+Customer 
+support? 
+ 
+Our Success Team brings years of design experience and works with you 
+to develop a customized Success Plan. Each plan has three parts: 
+1. 
+Onboard (First 60 Days): Identify a first project and work on it together. 
+-  Workshops, Project-Assisted Training, Individual Sessions, Video Guides 
+2. 
+Plan (Months 2+): Bring your plans to life with Remix. 
+-  Regular Check-ins, Best Practices Blog, Remix Webinars, Remix Conference 
+3. 
+Measure Results (Months 6+): Document your return on investment (ROI). 
+-  Develop ROI Report, Set Yearly Goals, Manage Renewal, Plan Ahead 
+Technical 
+requirements? 
+Remix is entirely web-based and software-as-a-service (SaaS). 
+● 
+Everything is in the cloud -- no installations or downloads. Can access from 
+anywhere. 
+● 
+Every user gets a login + password 
+● 
+Remix works on the latest version of any browser 
+● 
+Agency-wide annual subscription -- no maintenance fees.

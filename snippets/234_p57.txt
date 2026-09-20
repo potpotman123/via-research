@@ -1,0 +1,191 @@
+# source: https://legistar.granicus.com/LosAlamos/attachments/d4ed28e3-5da0-403c-aaa8-20fd558046f1.pdf
+# path: raw/cache/9e8dcba51a86916c33f88b1baedeefebe738b9ef.pdf
+# hit page: 57 of 81
+# terms: Spare Labs
+
+=== page 56 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+56 
+ Agreement Template Version: 04012024 
+Operability Performance Testing 
+We will work closely with Los Alamos County's project team to craft a 
+tailored end-to-end testing plan that ensures the service design and 
+Spare’s platform configurations align with Los Alamo’s objectives and 
+service goals. This will be set at the beginning of the project and will work 
+as the project’s North Star. 
+Testing can be done in the sandbox/testing and production environments, 
+based on the specific characteristics of what is being tested and Los 
+Alamos County’s desired testing approach. These are a few of the different 
+types of operability testing we do: 
+Desk testing. This involves booking fake trips with fake rider profiles and 
+fake driver duties/trips. This is completed by Los Alamos County’s project 
+team members. 
+ 
+Specific user workflow testing. This testing is done by the Admin, 
+Dispatcher/Scheduler, Driver, Customer Service Representative, and 
+Data Analyst. Similarly described in our Training section, this is 
+completed by specific end users to mirror real world operations. This 
+testing involves all the steps for: 
+● 
+Admin: Adding a platform user, adding admin notifications, adding 
+a custom field, editing a custom field, deleting a custom field, 
+creating a service, adding a new zone, adding service settings, 
+adding a stop zone, adding time rules, adding a fleet, creating a 
+new group/membership, creating an announcement, creating a fare 
+rule, adding a fixed fare rule, and adding a per rider (variable) fare 
+rule. 
+● 
+Dispatcher/Scheduler: Creating a duty, duplicating a duty, deleting a 
+duty, canceling a duty, changing a driver, changing a vehicle, 
+extending duty hours, changing a vehicle (down for maintenance), 
+simulating a vehicle incident (short term vehicle issue), simulating a 
+vehicle incident (long term vehicle issue), adding a driver, adding a 
+vehicle, adding a fleet, monitoring live requests, view requests by 
+hour, view requests by driver, and view requests by service. 
+● 
+Driver App: Creating a duty, downloading the Spare Driver App, 
+logging into Spare Driver, starting a duty, booking a request to your 
+duty, new requests, changing navigation view, viewing navigation by 
+directions, viewing rider/request details, canceling a trip, simulating 
+pick up, viewing all upcoming stops, and simulating a “no show”. 
+● 
+Customer Service Representative: Create a "leave as soon as 
+possible" request, cancel a trip, create a scheduled request, 
+create a return request, edit an existing request, arrive by request, 
+create a duplicate request, recurring trip, adding a rider, adding 
+default request preferences, adding a favorite location, adding a 
+membership, adding a payment method, lifting a rider ban early, 
+booking to the paratransit service, booking to the on-request 
+service, booking trips - troubleshooting, outside of the service 
+zone, rider not added to group, and ride requested outside of 
+service hours. 
+● 
+Rider App / Web Booker: Downloading the app, logging into the app 
+Attachment A
+=== page 57 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+57 
+ Agreement Template Version: 04012024 
+/ web booker, location settings, booking a trip, changing the trip type 
+(leave at / arrive by), change the amount of riders, adding 
+accessibility feature, adding a payment method, confirm booking, 
+finding upcoming trips, canceling a trip, updating your profile, 
+viewing past trips, adding a credit card, make payment type the 
+default, remove a credit card, add a favorite location, and signing 
+out. 
+End-to-end dry run testing. The holistic approach involves the vehicles on 
+the road with all user classes (e.g. dispatcher, reservationist, driver, etc.), 
+booking and completing live trips, though not necessarily with real riders. 
+This is essentially a soft launch of the services. Dry run testing involves: 
+● 
+Spare Rider App Testing 
+○ 
+Account 
+Creation 
+(Register 
+& 
+Verification 
+Code): 
+Registration, log in, log out, notification permission, 
+location permission, announcements. 
+○ 
+Booking Trips: Available services in the area, service 
+selection, finding and viewing trip destinations, booking 
+screen display, after requesting a ride. 
+○ 
+Post-Ride Experience: Leave a review and/or a tip. 
+○ 
+Extras: Edit profile, showing organization and 
+nearby available ones, fare passes, payments, 
+promos, past trips, group memberships, settings, 
+legal, sign out. 
+● 
+Spare Launch (Admin Panel) Testing 
+○ 
+Booking trips: Select a rider, set pickup and dropoff 
+locations, select the service, set the leave time, set Rider 
+and accessibility preferences, select payment method, 
+enter driver notes. 
+○ 
+Pausing Duties & Rematching Trips. 
+○ 
+Execute Vehicle Disruption Process: in the case of vehicle breakdown. 
+● 
+Spare Driver App Testing 
+○ 
+Perform the Pick-up & Drop-off of Riders. 
+○ 
+Viewing Rider Trip Notes. 
+○ 
+No-Shows & Cancellations. 
+If desired, Los Alamos County can soft launch Spare in a subsection of its 
+operating area and/or subsection of riders to work out any remaining kinks 
+before launching the full service. However, for paratransit services, this is 
+generally not recommended as there are risks associated with running two 
+systems in parallel. It would be difficult if the system is segmented into two 
+parts as users would need to use two systems. This would be prone to 
+errors, trips slipping through cracks, and can lead to poor efficiency as two 
+different software systems do not integrate nor speak with one another. 
+ 
+Attachment A
+=== page 58 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+58 
+ Agreement Template Version: 04012024 
+Applying Upgrades and Patches 
+Spare’s SaaS solution and technical infrastructure is hosted on the Google Cloud 
+Platform in North America. SaaS facilitates remote application hosting and 
+delivery, making this the key advantage of SaaS: painless application access. 
+Unlike legacy software platforms (i.e. used by paratransit), customers who use 
+SaaS have no hardware or software to install, maintain, or upgrade. Access to 
+these applications is easy and secure, requiring only an internet connection. All 
+of Spare’s information systems that process, store, or transmit confidential data 
+is defined in our Data Management Policy, and applies to all employees and 
+external parties with access to Spare’s engineering networks and system 
+resources. We closely follow our security policies, and with Spare being SOC 2 
+and HIPAA-compliant, we continue to strive to achieve the highest standards for 
+security compliance for all of our transit partners. 
+Clients receive new releases on a continuous basis–sometimes many times a 
+day, in line with our change management policy. These releases contain slight 
+adjustments made for better performance or for fixing a bug as an example. They 
+don’t contain new features. When a new feature is released, it’s first made 
+available in the test environment, with sufficient testing and training time for the 
+agency. Such releases occur less often–roughly one to two times per quarter. 
+All updates are communicated to agency staff by the project manager in real-
+time. If training is required for a large update that effects interaction with the 
+software, Spare's project manager will initiate training, as required, to get agency 
+staff up to speed. The structure would either be one-on-one, train-the-trainer 
+style–so that agency person can train others, or the project manager would train 
+multiple staff in one session. These training sessions will be recorded, distributed 
+to the agency staff for future reference, and stored on a Project Home Page 
+workspace shared between Spare and the agency project team. 
+Los Alamos County will always receive the latest version of Spare’s SaaS 
+platform throughout the entire contract duration. Spare does not operate on 
+warranty–we continuously deliver software updates to our customers. We do this 
+by only maintaining a single version of the software at any given time. By 
+reducing the maintenance burden, Spare is able to deliver software faster and 
+provide more value to our customers. These upgrades are included in our pricing 
+and come at no additional cost. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Attachment A

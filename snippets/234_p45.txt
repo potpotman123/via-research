@@ -1,0 +1,273 @@
+# source: https://legistar.granicus.com/LosAlamos/attachments/d4ed28e3-5da0-403c-aaa8-20fd558046f1.pdf
+# path: raw/cache/9e8dcba51a86916c33f88b1baedeefebe738b9ef.pdf
+# hit page: 45 of 81
+# terms: Spare Labs, Via+SaaS
+
+=== page 44 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+44 
+ Agreement Template Version: 04012024 
+STANDARD REQUIREMENT 
+Required or  
+Not Applicable (“N/A”) 
+ 
+Internet: 
+Collaboration 
+and Web 
+Publishing 
+(On-Premise 
+& Hosted) 
+Use of Internet apps or links shall be considered in 
+collaboration with the Los Alamos Information Management 
+Division Applications group for review to ensure that 
+compatibility and Internet publishing protocols have been 
+satisfied prior to formation of any agreement or installation. 
+N/A 
+Intranet: 
+Collaboration 
+and Web 
+Publishing 
+(On-Premise 
+& Hosted) 
+Microsoft SharePoint Online is the basis for the County’s 
+Intranet. Any products that shall integrate or utilize the 
+County’s Intranet site shall require a compatibility 
+consultation with IM Division before purchase and 
+implementation. Contractor software shall be maintained to 
+run on supported platform service levels as defined by 
+Microsoft and/or the Intranet site Contractor. Proposed 
+Intranet software products shall be accompanied by roadmap 
+for compatibility with MS SharePoint Online. 
+N/A 
+Productivity 
+Software 
+(On-Premise 
+& Hosted) 
+Los Alamos County uses Microsoft M365 Office Suite at its 
+most recent version and service pack. Contractor software 
+using the Office suite must be maintained to run on 
+supported platform service levels as defined by Microsoft. 
+N/A 
+Email 
+(On-Premise 
+& Hosted) 
+Microsoft M365 with hub transport for relay. If SMTP relay 
+access from on premise Contractor specific software is 
+necessary, permission to use the County Email exchange 
+shall be obtained prior to contracting or purchase of the 
+software or solution. If SMTP relay access from hosted 
+Contractor specific software is necessary, preference is for 
+SMTP relay to be hosted by Contractor. The Contractor 
+specific solution must be supported and maintained to relay 
+off County email domain and directed to hand off the email 
+message to another mail server that can get the message 
+closer to its intended recipient in accordance with service 
+levels as defined by Microsoft for 
+the M365 product. 
+N/A 
+Geographic 
+Information 
+Standards 
+(GIS) 
+(On-Premise 
+& Hosted) 
+The County uses strictly ArcGIS products by Esri for 
+GIS. Desktop software for end users includes ArcGIS 
+Desktop and ArcGIS Pro. GIS web services are provided as 
+REST endpoints from ArcGIS Server using Internet 
+Information Services (IIS). Our enterprise geodatabase is 
+managed using ArcSDE with Microsoft SQL Server. 
+Supported versions are one or two iterations behind the 
+latest ESRI-supported release. The preferred method for 
+applications to interact with GIS is via REST services. Web 
+applications must be hosted in either ArcGIS Online or 
+ArcGIS Portal. 
+N/A 
+ 
+Mobile Devices 
+Shall conform to Los Alamos County Mobile Policy 
+#1240. Mobile devices requiring Intranet access must be 
+secured through the County Mobile Device Management 
+System. 
+N/A 
+ 
+Security & SSL 
+(On-Premise & 
+Hosted) 
+Intranet devices must be capable of multi-factor 
+authentication (MFA) using the County’s current MFA 
+systems. Any requirements for access to ports from the 
+Internet into the County Network shall be approved via a 
+technical review by the IM Division before product(s) 
+purchase and implementation. Cisco Secure Endpoint 
+Antivirus and Antispyware Enterprise software are used on 
+all intranet computing devices; Contractor solutions shall 
+work in conjunction with stated antivirus products. 
+YES 
+Attachment A
+=== page 45 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+45 
+ Agreement Template Version: 04012024 
+STANDARD REQUIREMENT 
+Required or  
+Not Applicable (“N/A”) 
+ 
+SSL (Secure Socket Layer) encryption is required for both 
+internal and external facing web applications. 
+ 
+Enterprise-wide applications shall be capable of 
+Active Directory integration for user authentication 
+and utilize County’s MFA. 
+ 
+Devices requiring wireless access must a) be domain 
+integrated or b) can accept captive portal agreement (a web 
+page that the user of a public-access network is obliged to 
+view and interact with before access is 
+granted). 
+Records 
+Shall conform to Los Alamos County Records and Information 
+Governance Policy #0310 
+YES 
+E-Signature 
+Shall conform to Los Alamos County E-signature Policy 
+#1220. 
+YES 
+ 
+ 
+ 
+ 
+Hosted/Cloud 
+Based 
+Services 
+• 
+Los Alamos County is interested in taking advantage 
+of Anything as a Service (XaaS) opportunity available 
+through Cloud Service Providers (CSP), in 
+Government Cloud (GCC) where required. CSP data 
+centers must be located within the United States. 
+• 
+Enterprise-wide applications shall be capable of 
+Active Directory integration for user authentication 
+and utilize County’s MFA. 
+• 
+Data centers must be FedRAMP certified for SaaS 
+solutions procured by departments if they also store or 
+may store Los Alamos National Laboratory (LANL) 
+critical infrastructure data for County operations. 
+Departments must verify with LANL authority to confirm 
+that this requirement is applicable to the LANL 
+information to be stored 
+• 
+Ownership of County data held in the CSP solution 
+shall remain with the County of Los Alamos. County 
+may have on-demand access to the data for 
+export/download or have the data delivered by 
+request by the CSP with a maximum 48-hour 
+compliance window. Exports shall be in MS-SQL 
+format. 
+YES, WITH EXCEPTIONS 
+ 
+County acknowledges 
+Contractor uses industry 
+standard Google Cloud 
+infrastructure to host 
+services which are located 
+in the United States. 
+Contractor also supports 
+Active Directory via ADFS. 
+However, the specific data 
+center is not in the 
+government cloud or 
+FedRAMP certified. County 
+acknowledges that as of he 
+Effective date of this 
+Agreement, the Platform is 
+not currently intended to 
+store LANL data and GCC 
+data centers and 
+FedRAMP certification is 
+not a requirement  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Attachment A
+=== page 46 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+46 
+ Agreement Template Version: 04012024 
+Exhibit D 
+Confidential Information Disclosure Statement 
+AGR24-37 
+ 
+The Incorporated County of Los Alamos is a governmental entity subject to certain disclosure laws 
+including, but not limited to, the New Mexico Inspection of Public Records Act, NMSA 1978, §§ 14-2-
+1, et seq.  Nothing in this Agreement is intended to diminish or expand the application of any applicable 
+disclosure laws to any proprietary or confidential information. 
+This Confidential Information Disclosure Statement (“Statement”) defines obligations and waivers 
+related to Confidential Information disclosed pursuant to the above referenced Agreement between 
+County and Contractor.  County and Contractor agree to the following: 
+1. Statement Coordinator – Each party designates the following person as its Statement Coordinator 
+for coordinating the disclosure or receipt of Confidential Information: 
+ 
+Contractor 
+County 
+Name: 
+Kristoffer Vik Hansen 
+James Barela 
+Title: 
+CEO 
+Transit Manager 
+Address: 
+810-815 West Hastings Street 
+101 Camino Entrada, Building 1, Suite 200 
+City/State/Zip: 
+Vancouver, British Columbia 
+V6C1B4 
+Los Alamos, New Mexico 87544 
+Email: 
+kristoffer@spare.com 
+james.barela@lacnm.us 
+ 
+2. Definitions: 
+a) Confidential Information - any form of information, in any format, disclosed by the Discloser 
+to the Recipient and identified in writing as confidential.  
+b) Discloser - the party disclosing Confidential Information. 
+c) Exception – An exception is satisfied if the Confidential Information disclosed: (i) was in 
+Recipient’s possession prior to receipt from Discloser, (ii) is publicly known or readily 
+ascertainable by legal means, (iii) is lawfully received by Recipient from a third party without 
+a duty of confidentiality, (iv) is disclosed by Discloser to a third party without a duty of 
+confidentiality on the third party, (v) is independently developed or learned by Recipient, or 
+(vi) is disclosed by Recipient with Discloser’s prior written approval. 
+d) Recipient – the party receiving Confidential Information.    
+3. Obligations – Recipient shall protect and ensure its participating subcontractors, agents, or 
+associates shall protect all Confidential Information by using the same degree of care, but no less 
+than a reasonable degree of care, to prevent the unauthorized use, dissemination, or publication 
+of the Confidential Information as Recipient uses to protect its own information of a like nature. If 
+any person or entity requests or demands, by subpoena or otherwise, all or any portion of the 
+Confidential Information provided by one party to another, the party receiving such request shall 
+immediately notify the Discloser of such request or demand.  The party receiving the request or 
+demand shall independently determine whether the information sought is subject to disclosure 
+under applicable law including the New Mexico Inspection of Public Records Act.  If the party 
+receiving the request or demand determines that the information is subject to disclosure, it shall 
+notify the Discloser of its intent to permit the disclosure with sufficient time to permit the Discloser 
+to invoke the jurisdiction of an appropriate court or administrative body to raise any legitimate 
+objections or defenses it may have to the disclosure. In the absence of an appropriate order 
+prohibiting the disclosure, the party receiving the request or demand shall permit and proceed with 
+the disclosure without incurring any duty, obligation or liability to the Discloser. 
+Attachment A

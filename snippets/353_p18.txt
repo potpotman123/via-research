@@ -1,0 +1,186 @@
+# source: raw/bleecker_drive/2.0 TIPS Cooperative Agreement/240101_CONTRACT_Technology_Via_Transportation.pdf
+# path: raw/bleecker_drive/2.0 TIPS Cooperative Agreement/240101_CONTRACT_Technology_Via_Transportation.pdf
+# hit page: 18 of 42
+# terms: Via Mobility, Via Transportation, Via+fleet, Via+turnkey, Via+vehicles
+
+=== page 17 ===
+1
+7
+Secondary Contact Mobile
+Numbers only, no symbols or spaces (Ex. 8668398477). The system will auto-populate your entry with commas
+once submitted which is appropriate and expected (Ex. 8,668,398,477).
+No response
+1
+8
+Administration Fee Contact Name
+Please identify the individual who will be responsible for all payment, accounting, and other matters related to
+Vendor's TIPS Administration Fee due to TIPS for the duration of the contract.
+Joe Santarpia
+1
+9
+Administration Fee Contact Email
+Please enter a valid email address that will definitely reach the Administration Fee Contact.
+ap@ridewithvia.com
+2
+0
+Administration Fee Contact Phone
+Numbers only, no symbols or spaces (Ex. 8668398477). The system will auto-populate your entry with commas
+once submitted which is appropriate and expected (Ex. 8,668,398,477).
+7327717598
+2
+1
+Purchase Order and Sales Contact Name
+Please identify the individual who will be responsible for receiving and processing purchase orders and sales under
+the TIPS Contract.
+Greg Centini
+2
+2
+Purchase Order and Sales Contact Email
+Please enter a valid email address that will definitely reach the Purchase Order and Sales Contact.
+greg.centini@ridewithvia.com
+2
+3
+Purchase Order and Sales Contact Phone
+Numbers only, no symbols or spaces (Ex. 8668398477). The system will auto-populate your entry with commas
+once submitted which is appropriate and expected (Ex. 8,668,398,477).
+4349624835
+2
+4
+Company Website
+Company Website (Format - www.company.com)
+www.ridewithvia.com
+2
+5
+Entity D/B/A's and Assumed Names
+You must confirm that you are responding to this solicitation under your legal entity name.  Go now to your Supplier
+Profile in this eBid System and confirm that your profile reflects your "Legal Name" as it is listed on your W9.
+ 
+In this question, please identify all of your entity's assumed names and D/B/A's.  Please note that you will be
+identified publicly by the Legal Name under which you respond to this solicitation unless you organize otherwise with
+TIPS after award.
+Legal Name: "River North Transit, LLC" (A wholly owned subsidiary of Via Transportation, Inc.). D/B/A’s: “Via”
+2
+6
+Primary Address
+Primary Address
+114 5th Avenue, 17th Floor
+Vendor: Via Transportation Inc
+240101
+Page 7 of 31 pages
+=== page 18 ===
+2
+7
+Primary Address City
+Primary Address City
+New York
+2
+8
+Primary Address State
+Primary Address State (2 Digit Abbreviation)
+New York
+2
+9
+Primary Address Zip
+Primary Address Zip
+10011
+3
+0
+Search Words Identifying Vendor
+Please list all search words and phrases to be included in the TIPS database related to your entity.  Do not list
+words which are not associated with the bid category/scope (See bid title for general scope).  This will help users
+find you through the TIPS website search function.  You may include product names, manufacturers, specialized
+services, and other words associated with the scope of this solicitation.
+ 
+Via, Via Transportation, Via Mobility, Via Microtransit, Remix, software, technology, operations, turnkey, software-
+as-a-service, mobility-as-a-service, transportation-as-a-service, transportation, transit, transport, public
+transportation, transit tech, intermodal, multimodal, mobility, microtransit, on demand, demand response,
+paratransit, dial a ride, ADA transportation, wheelchair accessible vehicles, WAV, fixed route, deviated fixed route,
+student transportation, student transit, alternative student transportation, McKinney Vento transportation, MKV
+transportation, SPED transportation, special education transportation, campus shuttle, university shuttle, non
+emergency medical transportation, NEMT, electric vehicle, EV, hybrid vehicle, minivan, transportation planning,
+street design, transit consulting, scheduling, microtransit feasibility study, driver, rider, passenger, vehicle, fleet,
+dispatch, routing, dispatcher
+3
+1
+Certification of Vendor Residency (Required by the State of Texas)
+Does Vendor's parent company or majority owner:
+(A) have its principal place of business in Texas; or (B) employ at least 500 persons in Texas?
+ 
+Texas Education Code Section 44.031 requires that this information be considered in evaluation for certain
+contracts.  However, Vendor response does not affect points, scoring, or potential award.
+ 
+No
+3
+2
+Vendor's Principal Place of Business (City)
+In what city is Vendor's principal place of business located?
+New York
+3
+3
+Vendor's Principal Place of Business (State)
+In what state is Vendor's principal place of business located?
+New York
+3
+4
+Vendor's Years in Business
+How many years has the business submitting this proposal been operating in its current capacity and field of work?
+12
+Vendor: Via Transportation Inc
+240101
+Page 8 of 31 pages
+=== page 19 ===
+3
+5
+Certification Regarding Entire TIPS Agreement
+Vendor agrees that, if awarded, Vendor's final TIPS Contract will consist of the provisions set forth in the finalized
+TIPS Vendor Agreement, Vendor's responses to these attribute questions, and: (1) The TIPS solicitation document
+resulting in this Agreement; (2) Any addenda or clarifications issued in relation to the TIPS solicitation; (3) All
+solicitation information provided to Vendor by TIPS through the TIPS eBid System; (3) Vendor’s entire proposal
+response to the TIPS solicitation including all accepted required attachments, acknowledged notices and
+certifications, accepted negotiated terms, accepted pricing, accepted responses to questions, and accepted written
+clarifications of Vendor’s proposal, and; any properly included attachments to the TIPS Contract.
+ 
+Does Vendor agree?
+Yes, Vendor agrees
+3
+6
+Minimum Percentage Discount Offered to TIPS Members on all Goods and Services (READ
+CAREFULLY)
+Please read thoroughly and carefully as an error on your response can render your contract award
+unusable. 
+ 
+TIPS Members often turn to TIPS Contracts for ease of use and to receive discounted pricing. 
+ 
+What is the minimum percentage discount that you can offer TIPS Members off of all goods and service
+pricing (whether offered through Pricing Form 1, Pricing Form 2, or in another accepted format) that you
+offer?  Only limited goods/services specifically identified and excluded from this discount in Vendor’s
+original proposal may be excluded from this discount.  
+ 
+Vendor must respond with a percentage from 0%-100%. The percentage discount that you input below will be
+applied to your "Catalog Pricing", as defined in the solicitation, for all TIPS Sales made during the life of the
+contract. You cannot alter this percentage discount once the solicitation legally closes. You will always be required
+to discount every TIPS Sale by the percentage included below with the exception of limited goods/services
+specifically identified and excluded from this discount in Vendor’s original proposal.  If you add goods or services to
+your "Catalog Pricing" during the life of the contract, you will be required to sell those new items with this discount
+applied. 
+ 
+Example: In this example, you enter a 10% minimum percentage discount below.  In year-one of your TIPS
+Contract, your published "Catalog Pricing" (website/store/published pricing) for "Tablet A" is $100 and for "Tablet
+Set-Up Service" is $100.  In this example, you must sell those items under the TIPS Contract at the proposed 10%
+discounted price of: "Tablet A" - $90, "Tablet Set-Up Service" - $90.  In year two of your TIPS Contract, you update
+your "Catalog Pricing" with the market. You add "Tablet B" to your "Catalog Pricing" for $200 and have increased
+the price of "Tablet A" to $110 and the price of "Tablet Set-Up Service" to $110. In this example, after the "Catalog
+Pricing" update, you must still sell those items under the TIPS Contract at the proposed 10% discounted price
+of: "Tablet A" - $99, "Tablet Set-Up Service" - $99, and "Tablet B" - $180.00.
+ 
+With the exception of limited goods/services specifically identified and excluded from this discount in Vendor’s
+original proposal, if you cannot honor the discount on all goods and items now included or which may be added in
+the future with certainty, then you should offer a lesser discount percentage below.
+ 
+What is the minimum percentage discount that you can offer TIPS Members off of all goods and service
+pricing (whether offered through Pricing Form 1, Pricing Form 2, or in another accepted format) that you
+offer? 
+2%
+Vendor: Via Transportation Inc
+240101
+Page 9 of 31 pages

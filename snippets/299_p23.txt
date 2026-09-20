@@ -1,0 +1,166 @@
+# source: raw/bleecker_drive/0.0 OMNIA Cooperative Agreement/25-08_Via_Transportation_Response_Combined_2025_05_01_Redacted__1___1_.pdf
+# path: raw/bleecker_drive/0.0 OMNIA Cooperative Agreement/25-08_Via_Transportation_Response_Combined_2025_05_01_Redacted__1___1_.pdf
+# hit page: 23 of 191
+# terms: Via Transportation
+
+=== page 22 ===
+8
+9
+DEVIATIONS TO TERMS AND CONDITIONS
+Any Deviation from the RFP documents, including the General Terms and Conditions, Notice to Offeror, or any other
+document presented with terms for consideration by the proposer MUST be documented and presented on the
+Deviation Form and attached to this electronic bid event via an electronic upload to the "Response Attachments"
+tab. In addition to indicating the requested deviations on the form, additional pages may be provided to more
+thoroughly explain each deviation listed on the Deviation Form. 
+ I certify compliance with this attribute.
+9
+0
+FELONY CONVICTION NOTIFICATION
+State of Texas Legislative Senate Bill No. 1 Section 44.034, Notification of Criminal History, Subsection (a), states “a
+person or business entity that enters into an agreement with a school district must give advance notice to the
+district if the person or an owner or operator of the business entity has been convicted of a felony. The notice must
+include a general description of the conduct resulting in the conviction of a felony”.
+Subsection (b) states “a school district may terminate the agreement with a person or business entity if the district
+determines that the person or business entity failed to give notice as required by Subsection (a), or misrepresented
+the conduct resulting in the conviction. The district must compensate the person or business entity for services
+performed before the termination of the contract”.
+Subsection (c) states “this section does not apply to a publicly held corporation”.
+Use the list of values associated with this item to identify your status as it relates to this legal requirement.
+Non-Felon - person/owner IS NOT a convicted felon
+9
+1
+NAME OF FELON AND NATURE OF FELONY, IF APPLICABLE
+If response to previous attribute was "Felon - person/owner IS a convicted felon", vendor shall give the name of the
+felon and details of conviction.
+ 
+If you did not answer "Felon - person/owner IS a convicted felon" in the previous question, type "N/A" in the
+respective field.
+N/A
+9
+2
+CRIMINAL HISTORY RECORDS REVIEW OF CERTAIN CONTRACT EMPLOYEES
+Texas Education Code Chapter §22.0834 requires that criminal history records be obtained regarding covered
+employees of entities that contract with a school entity in Texas to provide services for that school entity
+(“Contractors”) and entities that contract with school entity contractors (“Subcontractors”). Covered employees with
+disqualifying criminal histories are prohibited from serving at a school entity. Contractors/Subcontractors contracting
+with a school entity shall (1) maintain compliance with the requirements of Texas Education Code Chapter 22 to the
+school entity; and (2) require that each of their subcontractors complies with the requirements of Texas Education
+Code Chapter 22. Contractors performing work at a school entity in Texas must comply with these statutes.
+Compliance includes providing or causing employees and sub-contractor employees to provide
+requested information and fingerprinting upon request.
+Covered employees: Employees of a Contractor/Subcontractor who have or will have continuing duties related to
+the service to be performed at a school entity and have or will have direct contact with students. The school entity
+will be the final arbiter of what constitutes continuing duties and direct contact with students at their school.
+ I certify compliance with this attribute.
+Vendor: Via Transportation Inc.
+25-08
+Page 19 of 32 pages
+=== page 23 ===
+9
+3
+HISTORICALLY UNDERUTILIZED BUSINESS (HUB) CERTIFICATION
+Businesses that have been certified by the Texas Building and Procurement Commission (TBPC) or other qualified
+agency as Historically Underutilized Business (HUB) entities are encouraged to indicate their HUB status when
+responding to this proposal invitation. The electronic catalogs will indicate HUB certifications for vendors that
+properly indicate and document their HUB certification on this form.
+Select one of the available options:
+ 
+OPTION A: My business has NOT been certified as HUB.
+OPTION B: I certify that my business has been certified as a Historically Underutilized Business (HUB), and I
+have/will upload the certification information into the "Response Attachments" Tab located in this online bidding
+event.
+OPTION A - Not HUB
+9
+4
+DISCLOSURE OF INTERESTED PARTIES
+Texas state law requires the Disclosure of Interested Parties be filed with a public entity, including regional service
+centers and school districts, for any contract which:
+(1) requires an action or vote by the governing body; or
+(2) has a value of $1 million or more; or
+(3) for any services provided that would require an individual to register as a lobbyist under TX Gov’t Code Chapter
+305.
+NOTE: This form is not required if the vendor is a publicly-traded business entity, including a wholly-owned
+subsidiary of the business entity (a company in which ownership is dispersed among the general public via shares
+of stock which are traded via at least one stock exchange or over-the-counter market).
+If you are required by law to submit this form, it must be completed online at the Texas Ethics Commission website.
+Obtain a numbered certificate and click the link below to access the instructions and to complete this required form.
+Upon completion, vendors required to submit the form must attach it to the proposal via the "Response
+Attachments" Tab.
+Click here to complete the form on the Texas Ethic Commission's 1295 Form webpage.
+Please note: The District must verify receipt of all required 1295 forms received within 30 days on the Texas Ethics
+Commission website. This verification does not indicate a contract award. Contract awards will be issued via direct
+communication from the AISD Purchasing Department. A contract requiring a Disclosure of Interested Parties form is
+voidable at any time if:
+(1) the governmental entity or state agency submits to the business entity written notice of the business entity's
+failure to provide the required disclosure; and
+(2) the business entity fails to submit to the governmental entity or state agency the required disclosure on or
+before the 10th business day after the date the business entity receives the written notice.
+IF UNDER LAW YOU ARE EXEMPT FROM SUBMITTING THIS 1295 FORM, PROPOSERS MUST SUBMIT A
+DOCUMENT THAT SHOWS PROOF OR PROVIDES EXPLANATION OF THIS EXEMPTION.
+THE FOLLOWING CONTRACTS ARE EXEMPT FROM THE REQUIREMENTS OF TEXAS DISCLOSURE OF
+INTERESTED PARTIES LAWS:
+• a sponsored research contract of an institution of higher education;
+• an interagency contract of a state agency or an institution of higher education;
+• a contract related to health and human services if:
+        • the value of the contract cannot be determined at the time the contract is executed; and
+        • any qualified vendor is eligible for the contract;
+• a contract with a publicly traded business entity, including a wholly owned subsidiary of the business entity;
+• a contract with an electric utility, as that term is defined by Section 31.002, Utilities Code; or
+• a contract with a gas utility, as that term is defined by Section 121.001, Utilities Code.
+ 
+ I certify compliance with this attribute.
+Vendor: Via Transportation Inc.
+25-08
+Page 20 of 32 pages
+=== page 24 ===
+9
+5
+CONFLICT OF INTEREST QUESTIONNAIRE
+Region 4 Education Service Center (Region 4) is required to comply with Texas Local Government Code Chapter
+176, Disclosure of Certain Relationships with Local Government Officers. House Bill 23 significantly changed
+Chapter 176 as well as the required disclosures and the corresponding forms. As of September 1, 2015, any
+vendor who does business with Region 4 or who seeks to do business with Region 4 must fill out the new Conflict of
+Interest Questionnaire (CIQ) if a conflict of interest exists. A conflict of interest exists in the following situations:
+ 
+1) If the vendor has an employment or other business relationship with a local government officer of Region 4 or a
+family member of the officer, as described by section 176.003(a)(2)(A) of the Texas Local Government Code; or
+2) If the vendor has given a local government officer of Region 4, or a family member of the officer, one or more
+gifts with the aggregate value of $100, excluding any gift accepted by the officer or a family member of the officer if
+the gift is: (a) a political contribution as defined by Title 15 of the Election Code; or (b) a gift of food accepted as a
+guest; or
+3) If the vendor has a family relationship with a local government officer of Region 4.
+ 
+“Vendor” means a person who enters or seeks to enter into a contract with a local governmental entity. The term includes an agent of a vendor. The term
+includes an officer or employee of a state agency when that individual is acting in a private capacity to enter into a contract. The term does not include a
+state agency except for Texas Correctional Industries. Texas Local Government Code 176.001(7).
+ 
+“Business relationship” means a connection between two or more parties based on commercial activity of one of the parties. The term does not include a
+connection based on: (A) a transaction that is subject to rate or fee regulation by a federal, state, or local governmental entity or an agency of a federal,
+state, or local governmental entity; (B) a transaction conducted at a price and subject to terms available to the public; or (C) a purchase or lease of goods or
+services from a person that is chartered by a state or federal agency and that is subject to regular examination by, and reporting to, that agency. Texas Local
+Government Code 176.001(3).
+ 
+“Family relationship” means a relationship between a person and another person within the third degree by consanguinity or the second degree by affinity,
+as those terms are defined by Subchapter B, Chapter 573, Government Code. Texas Local Government Code 176.001(2-a).
+ 
+“Local government officer” means: (A) a member of the governing body of a local governmental entity; (B) a director, superintendent, administrator,
+president, or other person designated as the executive officer of a local governmental entity; or (C) an agent of a local governmental entity who exercises
+discretion in the planning, recommending, selecting, or contracting of a vendor. Texas Local Government Code 176.001(4).
+ 
+Individuals serving as a Member of the Board of Directors, the Executive Director, Cabinet Members,
+and other local government officers may be found at: https://www.esc4.net/about/about-region-4.
+ 
+For additional information on Conflict of Interest Questionnaire, and the statutes that mandate it, please visit the
+following links:
+Texas Local Government Code, Section 176
+Texas House Bill 23
+ 
+A blank Conflict of Interest Questionnaire is available by clicking:
+https://www.ethics.state.tx.us/data/forms/conflict/CIQ.pdf.
+ 
+If your firm is required to return a completed Conflict of Interest Questionnaire with your proposal submission, use
+the "Response Attachments" Tab to upload the completed document. 
+ I certify compliance with this attribute.
+Vendor: Via Transportation Inc.
+25-08
+Page 21 of 32 pages

@@ -1,0 +1,185 @@
+# source: https://cityofcommerce.legistar1.com/cityofcommerce/attachments/2f95cf23-5c17-4113-bb02-656bbe5bd189.pdf
+# path: raw/cache/594b80e919b4d28aced5a31cea026b29bbd623ff.pdf
+# hit page: 9 of 29
+# terms: Via+vehicles
+
+=== page 8 ===
+launch 
+module
+4. Updated Price Proposal 
+Below, please ﬁnd an updated price proposal with waived hardware costs. 
+ 
+Installation Fee 
+ 
+ 
+One-time fee payable 50% at signing and 50% at launch 
+ 
+ 
+ 
+ 
+Localization for new zone 
+ 
+ 
+Optimize dynamic vehicle routing and real-time passenger 
+aggregation algorithm; conﬁgure backend (billing, 
+payment, and database); build detailed map; input traﬃc 
+model; deﬁne service zone, including pickup and dropoﬀ 
+points; update monitoring tools 
+Service design consulting 
+System design and simulation services 
+ 
+Co-brand rider app 
+Co-branded app, "Powered by Via" 
+Testing and quality assurance Remote and on-the-ground testing of all Via systems before 
+ 
+Develop service model 
+Build a launch plan and user acquisition strategy 
+Train personnel and oversee 
+launch 
+Instruction for drivers, dispatchers, and managers in Via‘s best 
+practices; onsite and remote launch support 
+ 
+Total Installation Fee (List 
+Price) 
+$50,000 
+Special Discount for the City of 
+Commerce 
+-60% 
+Total Installation Fee 
+(Discounted) 
+$20,000 
+ 
+Monthly Per Vehicle Fees (5 Vehicle Monthly Minimum 
+Per vehicle per month 
+ 
+Access to tech modules 
+Access to Via's tech stack, including rider, driver, and backend 
+ 
+Fleet optimization 
+Dynamic and predictive routing and supply rebalancing 
+Virtual bus stop architecture 
+Maintenance and update of optimal pick-up points 
+Automatic product upgrades   Receive regular software updates 
+Cloud hosting and third-party Amazon Web Services, Twilio, and analytics and communications 
+tools 
+software tools 
+Expert operations and growth Includes oﬀsite service optimization and data-driven marketing 
+support 
+consulting 
+DocuSign Envelope ID: 1081S57D-3SS8-4C31-9CF4-85D53991AS43
+=== page 9 ===
+Analytics and reporting 
+Robust real-time, periodic, and custom reporting 
+ 
+Year 1 Year 2 Year 3 
+ 
+Monthly Fee per Vehicle - 
+Vehicles 1-5 
+      
+Monthly Fee per Vehicle - 
+Vehicles 6-10 
+$550 $565 
+$580 
+$500 $515 
+$530 
+Monthly Fee per Vehicle - 
+Vehicles 11+ 
+$450 $465 
+$480 
+ 
+Per Ride Fees 
+Per ride, billed monthly 
+ 
+Fee per Ride 
+Waived 
+ 
+Illustrative Total Cost 
+5-vehicle ﬂeet 
+ 
+5 vehicles Includes discounted installation fee and 
+monthly per vehicle fees 
+5 vehicles Includes monthly per vehicle fees only 
+(inﬂation + innovation index applied) 
+5 vehicles Includes monthly per vehicle fees 
+only (inﬂation + innovation index 
+applied) 
+ 
+Incremental Hardware Costs (if applicable) 
+Please note Via’s hardware costs do not include 
+cellular data plans. Billed on a per unit basis 
+ 
+ 
+ 
+ 
+Note: Via's driver software is compatible with any recent iOS or Android 
+device, should Commerce prefer to use existing tablets. 
+ 
+C O N F I D E N T I A L 
+ 
+ 
+Year 
+Year 
+Year 
+Fee per Hardware Package 
+Includes android device (Galaxy Tab A 8.4" or similar), 
+case, mount, and installation 
+$476 
+WAIVED 
+for 5 
+vehicles 
+$53,000 
+$33,900 
+$34,800 
+DocuSign Envelope ID: 1081S57D-3SS8-4C31-9CF4-85D53991AS43
+=== page 10 ===
+EXHIBIT B -  GENERAL TERMS AND CONDITIONS 
+ 
+1. 
+Status as Independent Contractor. 
+ 
+ 
+A.  Consultant is, and shall at all times remain as to City, a wholly independent 
+contractor.  Consultant shall have no power to incur any debt, obligation, or liability on behalf 
+of the City of Commerce or otherwise act on behalf of Commerce as an agent.  Neither the 
+City of Commerce nor any of its agents shall have control over the conduct of Consultant or 
+any of Consultant's employees, except as set forth in this agreement.  Consultant shall not, 
+at any time, or in any manner, represent that it or any of its agents or employees are in any 
+manner agents or employees of the City of Commerce.   
+ 
+ 
+B.  Consultant agrees to pay all required taxes on amounts paid to Consultant under 
+this agreement, and to indemnify and hold City harmless from any and all taxes, 
+assessments, penalties, and interests asserted against City by reason of the independent 
+Consultant relationship created by this agreement.  In the event that City is audited by any 
+Federal or State agency regarding the independent status of Consultant and the audit in any 
+way fails to sustain the validity of a wholly independent Consultant relationship between City 
+and Consultant, then Consultant agrees to reimburse City for all costs, including accounting 
+and attorney's fees, arising out of such audit and any appeals relating thereto. 
+ 
+ 
+C.  Consultant shall fully comply with the workers' compensation law regarding 
+Consultant and Consultant's employees.  Consultant further agrees to indemnify and hold 
+City harmless from any failure of Consultant to comply with applicable worker's 
+compensation laws.  City shall have the right to offset against the amount of any fees due 
+to Consultant under this agreement any amount due to City from Consultant as a result of 
+Consultant's failure to promptly pay to City any reimbursement or indemnification arising 
+under this Section 1. 
+ 
+D.  Consultant represents to City, and City relies on Consultant's representations, 
+that Consultant shall serve solely in the capacity of an independent contractor to City. 
+Neither City nor any of its agents will have control over the conduct of Consultant or any 
+of Consultant's employees, except as otherwise set forth in the Agreement.  Consultant 
+may not, at any time or in any manner, represent that it or any of its agents or employees 
+are in any manner agents or employees of City.   City has no duty, obligation, or 
+responsibility to Consultant's agents or employees, including the Affordable Care Act 
+coverage requirements.  Consultant is solely responsible for any tax penalties associated 
+with the failure to offer affordable coverage to its agents and employees under the 
+Affordable Care Act with respect to Consultant's agents and employees.  Consultant 
+warrants and represents that City will not be responsible and will not be held liable for 
+issues related to Consultant's status as an independent contractor, including Consultant's 
+failure to comply with Consultant's duties, obligations, and responsibilities under the 
+Affordable Care Act.  Consultant further agrees to defend, indemnify, and hold City 
+harmless for any and all taxes, claims, and penalties against City related to Consultant's 
+obligations under the Affordable Care Act. 
+ 
+DocuSign Envelope ID: 1081S57D-3SS8-4C31-9CF4-85D53991AS43

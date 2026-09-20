@@ -1,0 +1,294 @@
+# source: raw/bleecker_drive/Lee County/RFP250034SML Via Mobility Executed.pdf
+# path: raw/bleecker_drive/Lee County/RFP250034SML Via Mobility Executed.pdf
+# hit page: 88 of 171
+# terms: Via Mobility, Via+per vehicle per month, Via+vehicles
+
+=== page 87 ===
+VER 06-12-24 
+ 
+51 RFP250034SML – LeeTran Paratransit Software Management 
+ 
+Form 1a – Bid/Proposal Form  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+ 
+  
+ 
+ 
+ 
+ 
+COMPANY NAME: 
+ 
+SOLICITATION: 
+  
+RFP250034SML – LeeTran Paratransit Software Management 
+ 
+ 
+This page serves as a header/placeholder only.  Please refer to the Excel document provided with the solicitation 
+for the complete schedule.  The Excel document contains formulas for convenience; however, it is the 
+Proposer’s responsibility to verify all pricing and calculations are CORRECT.  Lee County is not responsible 
+for errors in formulas or calculations contained within Excel documents(s). 
+ 
+REMINDER:  In the event there is a discrepancy between the total proposed amount, or the extended amounts 
+and the unit prices proposed, the unit prices will prevail, and the corrected sum will be considered the quoted 
+price. 
+ 
+The County will only accept proposals submitted on the proposal form provided by the County.  Proposals 
+submitted on other forms, other than those provided by the County, will deem Proposer as non-responsive and 
+ineligible for award. 
+ 
+Proposers may not adjust or modify data provided within the Bid/Proposal Form.  Proposals received with 
+modified data may deem the Proposer as non-responsive and ineligible for award. 
+ 
+ 
+PLEASE ENSURE you have provided a printed copy of the Bid/Proposal Form with your hard copy submission 
+packages and provided the excel version with your digital submission package. 
+ 
+EXHIBIT E - PROJECT FUNDING PACKAGE
+Lee County 
+.f'o«(h,t,Je,,r( fioM'rfa 
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7
+=== page 88 ===
+COMPANY NAME:
+SOLICITATION:
+Item
+Description
+Estimated
+Quantity
+Unit Price
+Annual Rate (1) /       
+Monthly Rate (12)
+Extended
+Amount
+1.1
+Software / Administrative User
+21
+0.00
+1 
+-
+ 
+ $                            
+1.2
+Paratransit Services - Set Up Fee
+1
+14,000.00
+1 
+14,000.00 
+ $                 
+1.3
+Vehicle Management Fee / License (per vehicle per month)
+42
+200.00
+12 
+100,800.00 
+ $               
+1.4
+Training Program Cost, if applicable
+1
+2,500.00
+1 
+2,500.00 
+ $                   
+1.5
+Intereactive Voice Response (IVR) Charges if Applicable
+1
+1,000.00
+1 
+1,000.00 
+ $                   
+118,300.00 
+ $               
+Item
+Description
+Estimated
+Quantity
+Unit Price
+Annual Rate (1) /       
+Monthly Rate (12)
+Extended
+Amount
+2.1
+Software / Administrative User
+21
+0.00
+1 
+-
+ 
+ $                            
+2.2
+Vehicle Management Fee / License (per vehicle per month)
+42
+200.00
+12 
+100,800.00 
+ $               
+2.3
+Training Program Cost, if applicable
+1
+0.00
+1 
+-
+ 
+ $                            
+2.4
+Intereactive Voice Response (IVR) Charges if Applicable
+1
+0.00
+1 
+-
+ 
+ $                            
+100,800.00 
+ $               
+Item
+Description
+Estimated
+Quantity
+Unit Price
+Annual Rate (1) /       
+Monthly Rate (12)
+Extended
+Amount
+3.1
+Software / Administrative User
+21
+0.00
+1 
+-
+ 
+ $                            
+3.2
+Vehicle Management Fee / License (per vehicle per month)
+42
+200.00
+12 
+100,800.00 
+ $               
+3.3
+Training Program Cost, if applicable
+0
+0.00
+0 
+-
+ 
+ $                            
+3.4
+Intereactive Voice Response (IVR) Charges if Applicable
+1
+0.00
+1 
+-
+ 
+ $                            
+100,800.00 
+ $               
+ $         319,900.00 
+(1.3, 2.2 & 3.2) Vehicle Management Fee will be based on the maximum vehicles used in any given month
+**Quantities are not guaranteed.  Final payment will be based on actual quantities.
+Inception (Year 1)
+SUBTOTAL:  YEAR 1 PARATRANSIT SERVICE
+Optional Renewal #1 - Year 2
+SUBTOTAL:  RENEWAL 1 - YEAR 2 PARATRANSIT SERVICE
+Optional Renewal #2 - Year 3
+SUBTOTAL:  RENEWAL 2 - YEAR 3 PARATRANSIT SERVICE
+PROJECT TOTAL (Year 1 + Renewal Year 2 + Renewal Year 3):
+RFP250034SML - LeeTran Paratransit Management Software 
+PROCUREMENT MANAGEMENT DEPARTMENT
+BID/PROPOSAL FORM
+Via Mobility, LLC (Via) 
+RFP250034SML - LeeTran Paratransit Management Software 
+Having carefully examined the Contract Documents, Contractor/Vendor proposes to furnish the following which meeting these specifications.
+PRICING                                                                                                                                                                                                                                                                                                                                                          
+Pricing shall be inclusive of all labor, equipment, supplies, overhead, profit, material, and any other incidental costs required to perform and complete all work as specified in the Contract Documents.   All Unit Prices will be bid 
+at the nearest whole penny.  The Excel document contains formulas for convenience, however it is the Contractor’s/Vendor's responsibility to verify all pricing and calculations are CORRECT.  Lee County is not responsible for 
+errors in formulas or calculations contained within Excel document(s).  
+LUMP SUM PRICING: The Contractor performing the work agrees to complete the project for a fixed amount – no more or less, as stated on the Bid/Price Proposal Form. The lump sum price shall be inclusive of all labor, 
+equipment, supplies, overhead, profit, materials, and any other incidental costs required to perform and complete all work, as specified within the scope, technical specifications, and construction documents. 
+In the event there is a discrepancy between a subtotal or total amount and the unit prices and extended amounts, the unit prices will prevail and the corrected extension(s) and total(s) will be considered the price.
+The County will only accept bids submitted on bid forms provided by the County.  Bids submitted on other forms, other than those provided by the County, will be deemed non-responsive and ineligible for award.
+**Bidders may not adjust or modify County-authored data as provided within the Bid Schedule.  Bids received with modified data may deem the Bidder as non-responsive and ineligible for award.**
+PLEASE ENSURE you have provided a printed copy of the Bid Schedule with your hard copy submission packages and provided the excel version with your digital submission package.
+Page 1 of 1
+EXHIBIT E - PROJECT FUNDING PACKAGE
+-
+LeeCounty 
+-
+.f.,t,-.tf"&nila ----------
+----,--------,--
+--~----~--------l 
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7
+=== page 89 ===
+EXHIBIT E - PROJECT FUNDING PACKAGE
+VER 06-12-24 
+Form 2 -Affidavit Certification of Immigration Laws 
+Lee County 
+!f.(k,,,,,t f"t-;I. 
+AFFIDAVIT CERTIFICATION IMMIGRATION LAWS 
+SOLICITATION NO.: RFP250034SML 
+SOLICITATION NAME: LeeTran Paratransit Software Management 
+LEE COUNTY WILL NOT INTENTIONALLY AW ARD COUNTY CONTRACTS TO ANY CONTRACTOR WHO KNOWINGLY 
+EMPLOYS UNAUTHORJZED ALIEN WORKERS, CONSTITUTING A VIOLATION OF THE EMPLOYMENT PROVISIONS CONTAINED 
+IN 8 U.S.C. SECTION 1324 a(e) {SECTION 274A(e) OF THE IMMJGRATION AND NATIONALITY ACT ("INA"). 
+LEE COUNTY MAY CONSIDER THE EMPLOYMENT BY ANY CONTRACTOR OF UNAUTHORJZED ALIENS A VIOLATION OF 
+SECTION 274A(e) OF THE INA SUCH VIOLATION BY THE RECIPIENT OF THE EMPLOYMENT PROVISIONS CONTAINED lN 
+SECTION 274A(e) OF THE lNA SHALL BE GROUNDS FOR UNILATERAL CANCELLATION OF THE CONTRACT BY LEE 
+COUNTY. 
+PROPOSER ATTESTS THAT THEY ARE FULLY COMPLIANT WITH ALL APPLICABLE IMMJGRA TION LAWS 
+(SPECIFICALLY TO THE 1986 IMMJGRATION ACT AND SUBSEQUENT AMENDMENTS). 
+BY REGISTERJNG AS A VENDOR, SUBMJTTING A RESPONSE TO A SOLICITATION, OR ENTERJNG INTO A CONTRACT, IF YOU 
+ARE OBLIGATED TO COMPLY WITH THE PROVISIONS OF SECTION 448.095, FLA STAT., "EMPLOYMENT ELIGIBILITY." 
+FURTHER, BY YOUR REGISTRATION AS A VENDOR, RESPONSE TO A SOLICITATION, ENTERJNG I TO A CONTRACT, YOU 
+AFFIRM AND REPRESENT THAT YOU ARE REGISTERED WITH THE E-VERJFY SYSTEM AND ARE USING SAME, AND WILL 
+CONTINUE TO USE SAME AS REQUIRED BY SECTION 448.095, F.S. COMPLIANCE WITH SECTION 448.095 INCLUDES, BUT IS NOT 
+LIMJTED TO, UTILIZATION OF THE E-VERJFY SYSTEM TO VERJFY THE WORK AUTHORJZATION STATUS OF ALL NEWLY 
+HlRED EMPLOYEES, AND REQUIRJNG ALL SUBCONTRACTORS TO PROVIDE AN AFFIDAVIT ATTESTING THAT THE 
+SUBCONTRACTOR DOES NOT EMPLOY, CONTRACT WITH, OR SUBCONTRACT WITH, AN UNAUTHORJZED ALIEN. FAILURE 
+TO COMPLY WILL LEAD TO TERMJNA TION AS A VENDOR, DISQUALIFYING YOU FOR AW ARD OF A SOLICITATION, DENIAL 
+OF ENTERJNG INTO A CONTRACT AND/OR, CANCELLATION OF AN ACTIVE CONTRACT, OR IF YOUR SUBCONTRACTOR 
+KNOWINGLY VIOLATES THE STATUTE, THE SUBCONTRACT MUST BE TERMJNATED IMMEDIATELY. ANY CHALLENGE TO 
+TERMJNATION UNDER THJS PROVISION MUST BE FILED WITH THE DEPARTMENT OF PROCUREMENT MA AGEMENT 
+0 
+LATER THAN 20 CALENDAR DAYS AFTER THE DATE OF TERMJNATION. IF TERMJNA TED FOR A VIOLA TIO 
+OF THE STATUTE 
+BY THE VENDOR, THE VENDOR MAY NOT BE ALLOWED TO DO BUSINESS WITH THE COUNTY OR BE AWARDED A 
+SOLICITATION OR CONTRACT FOR A PERJOD OF I YEAR AFTER THE DATE OF TERMJNATION. ALL COSTS INCURRED TO 
+INITIATE AND SUSTAIN T 
+AFOREMENTIONED PROGRAMS SHALL BE THE RESPONSIBILITY OF THE VENDOR. 
+Mana er 
+3/17/2025 
+Title 
+Date 
+ST A TE OF _ N_e_w_ Y_or_k __ _ 
+COUNTY OF _N_ew_Y_o_rk ___ 
+_ 
+The foregoing instrument was signed and acknowledged before me, by means of~ysical presence or D online notarization, this -13::__ 
+___ day of M=:e::4 
+20 ?r. by 
+( _\ t.-.rt... 
+tf.-•.-" 
+who has produced 
+~Qr-=u:'!>~w,..)~~\....,~ ~Ko~u~&=n~-+--o 
+__ 
+l\.l'-~e..._as identification. 
+(fype of Identification) 
+N~ic~ 
+PrintedJName of Notary Pub] ic 
+!H-
+()\ IN i;. (;JO 17 ')<»;}. l I I / '.5\2 \ '.JO'n 
+Notary Commission Number/Exp ation 
+(Print or Type Name) 
+The signee of this Affidavit guarantee, as evidenced by the sworn affidavit required herein, the truth and accuracy of this affidavit to interrogatories 
+hereinafter made. LEE COUNTY RESERVES THE RIGHT TO REQUEST SUPPORTING DOCUMENTATION, AS EVIDENCE OF 
+SERVICES PROVIDED, AT ANY TIME. 
+RFP250034SML - LeeTran Paratransit Software Management 
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7

@@ -1,0 +1,178 @@
+# source: raw/bleecker_drive/2.0 TIPS Cooperative Agreement/240101_CONTRACT_Technology_Via_Transportation.pdf
+# path: raw/bleecker_drive/2.0 TIPS Cooperative Agreement/240101_CONTRACT_Technology_Via_Transportation.pdf
+# hit page: 10 of 42
+# terms: River North Transit
+
+=== page 9 ===
+TIPS Vendor Agreement
+Page 9 
+music, or any other intellectual property (“Property”) or Vendor Data utilized, provided, or approved by Vendor during the course of 
+the joint marketing efforts are either the exclusive property of Vendor, or Vendor has all necessary rights, license, and permissions to 
+utilize said Property in the joint marketing efforts.  Vendor agrees that they shall indemnify and hold harmless TIPS and its employees, 
+officers, agents, representatives, contractors, assignees, designees, and TIPS Members from any and all claims, damages, and judgments 
+involving infringement of patent, copyright, trade secrets, trade or services marks, and any other intellectual or intangible property 
+rights and/or claims arising from the Vendor’s (including Vendor’s officers’, employees’, agents’, Authorized Resellers’, 
+subcontractors’, licensees’, or invitees’) unauthorized use or distribution of Vendor Data and Property.
+46. Tax Exempt Status of TIPS Members.  Most TIPS Members are tax exempt entities and the laws and regulations applicable to the 
+specific TIPS Member customer shall control.
+47. Automatic Renewal Limitation for TIPS Sales.  No TIPS Sale may incorporate an automatic renewal clause that exceeds month to 
+month terms with which the TIPS Member must comply. All renewal terms incorporated into a TIPS Sale Supplemental Agreement 
+shall only be valid and enforceable when Vendor received written confirmation of acceptance of the renewal term from the TIPS 
+Member for the specific renewal term.  The purpose of this clause is to avoid a TIPS Member inadvertently renewing an Agreement 
+during a period in which the governing body of the TIPS Member has not properly appropriated and budgeted the funds to satisfy the 
+Agreement renewal. Any TIPS Sale Supplemental Agreement containing an “Automatic Renewal” clause that conflicts with these 
+terms is rendered void and unenforceable.
+48. Choice of Law Limitation for TIPS Sales.  Vendor agrees that if any "Choice of Law" provision is included in any TIPS Sale 
+agreement/contract between Vendor and a TIPS Member, that clause must provide that the "Choice of Law" applicable to the TIPS
+Sale agreement/contract between Vendor and TIPS Member shall be the state where the TIPS Member operates unless the TIPS 
+Member expressly agrees otherwise. Any TIPS Sale Supplemental Agreement containing a “Choice of Law” clause that conflicts with 
+these terms is rendered void and unenforceable.
+49. Venue Limitation for TIPS Sales.  Vendor agrees that if any "Venue" provision is included in any TIPS Sale Agreement/contract 
+between Vendor and a TIPS Member, that clause must provide that the "Venue" for any litigation or alternative dispute resolution shall 
+be in the state and county where the TIPS Member operates unless the TIPS Member expressly agrees otherwise.  Any TIPS Sale 
+Supplemental Agreement containing a “Venue” clause that conflicts with these terms is rendered void and unenforceable.
+50. Indemnity Limitation for TIPS Sales.  Texas and other jurisdictions restrict the ability of governmental entities to indemnify others.  
+Vendor agrees that if any "Indemnity" provision which requires the TIPS Member to indemnify Vendor is included in any TIPS sales 
+agreement/contract between Vendor and a TIPS Member, that clause must either be stricken or qualified by including that such 
+indemnity is only permitted, "to the extent permitted by the laws and constitution of [TIPS Member's State]” unless the TIPS Member 
+expressly agrees otherwise.  Any TIPS Sale Supplemental Agreement containing an "Indemnity" clause that conflicts with these terms 
+is rendered void and unenforceable.
+51. Arbitration Limitation for TIPS Sales.  Vendor agrees that if any "Arbitration" provision is included in any TIPS Sale 
+agreement/contract between Vendor and a TIPS Member, that clause may not require that the arbitration is mandatory or binding.  
+Vendor agrees that if any "Arbitration" provision is included in any TIPS Sale agreement/contract between Vendor and a TIPS Member, 
+that clause provides for only voluntary and non-binding arbitration unless the TIPS Member expressly agrees otherwise. Any TIPS 
+Sale Supplemental Agreement containing a “Arbitration” clause that conflicts with these terms is rendered void and unenforceable.
+In Witness Whereof, the parties hereto, each acting under due and proper authority, have signed this Agreement.
+=== page 10 ===
+TIPS Vendor Agreement Signature Form
+Page 1
+TIPS VENDOR AGREEMENT SIGNATURE
+FORM TIPS RFP 7HFKQRORJ\6ROXWLRQV3URGXFWVDQG6HUYLFHV
+Vendor Name: _____________________________________________________________________________ 
+Vendor Address: ___________________________________________________________________________ 
+City: _____________________________________________ State: ____________ Zip Code: _____________
+Vendor Authorized Signatory Name: ___________________________________________________________
+Vendor Authorized Signatory Title: ____________________________________________________________
+Vendor Authorized Signatory Phone: ___________________________________________________________
+Vendor Authorized Signatory Email: ___________________________________________________________
+Vendor Authorized Signature: ________________________________________ Date: ___________________
+(The following is for TIPS completion only)
+TIPS Authorized Signatory Name: _____________________________________________________________
+TIPS Authorized Signatory Title: ______________________________________________________________
+TIPS Authorized Signature: ________________________________________ Date: ___________________
+City: ____________
+__
+_ ____
+____
+_____________________________ State: ____________ Zip Code: ______
+____
+____
+__
+_ ___
+Ve
+Vend
+nd
+ndor Authorized Signatory Name: _____________________________________
+_______________________
+_
+_
+_
+Vendor Authorized Signa
+natory Tititle: __________
+________________
+____
+____________________________________
+_
+Vendor
+or
+or Au
+Au
+Authorized Signatory Phone: ______________
+__
+____
+____________________________________
+____
+_________
+_
+Vendor
+or Au
+Au
+A ththor
+o ized Signatory Ema
+m il: _________________________________________
+____
+________
+____
+_ ______
+_
+__
+_
+Vendor Authorized Signaturer : ________________________________________ Date: ___________________
+_
+(Th
+Th
+Th
+Th
+The fofofofofollllllllow
+ow
+ow
+owing is for TIPS S co
+co
+c mp
+mp
+mpleleleleletition
+on
+on
+on
+o onlnly)
+TIPS Authorized Signatory Name: 
+River North Transit, LLC
+114 5th Avenue, FL 17
+New York
+10011
+Dillon Twombly
+Manager
+(888) 501-7511 Ext. 4
+procurement@ridewithvia.com
+Dr. David Fitts
+Executive Director
+NY
+DocuSign Envelope ID: 91668661-70D7-432A-8385-F96A51CCA0A0
+2/16/2024
+5/14/2024
+=== page 11 ===
+240101
+Via Transportation Inc
+Supplier Response
+Event Information
+Number:
+240101
+Title:
+Technology Solutions, Products, and Services
+Type:
+Request for Proposal
+Issue Date: 1/4/2024
+Deadline:
+2/16/2024 03:00 PM (CT)
+Notes:
+This is a solicitation issued by The Interlocal Purchasing System (TIPS), a department of
+Texas Region 8 Education Service Center.  It is an Indefinite Delivery, Indefinite Quantity
+("IDIQ") solicitation.  It will result in contracts that provide, through adoption/"piggyback"
+an indefinite quantity of supplies/services, during a fixed period of time, to TIPS public
+entity and qualifying non-profit "TIPS Members" throughout the nation.  Thus, there is no
+specific project or scope of work to review.  Rather this solicitation is issued as a
+prospective award for utilization when any TIPS Member needs the goods or services
+offered during the life of the agreement.
+ 
+IF YOU CURRENTLY HOLD ANY TIPS CONTRACT IN THE "TECHNOLOGY SOLUTIONS,
+PRODUCTS, AND SERVICES" CATEGORY, AND YOU ARE SATISFIED WITH IT, THERE IS
+NO NEED TO RESPOND TO THIS SOLICITATION.
+ 
+IF YOU HOLD AN EXISTING TIPS "TECHNOLOGY SOLUTIONS, PRODUCTS, AND
+SERVICES" CONTRACT AND YOU CHOOSE TO RESPOND HEREIN, YOUR EXISTING TIPS
+"TECHNOLOGY SOLUTIONS, PRODUCTS, AND SERVICES" CONTRACT WILL BE
+TERMINATED AND REPLACED BY THIS CONTRACT.
+ 
+Vendor: Via Transportation Inc
+240101
+Page 1 of 31 pages

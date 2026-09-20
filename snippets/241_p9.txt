@@ -1,0 +1,182 @@
+# source: https://douglascounty.legistar1.com/douglascounty/attachments/f881da66-e295-443f-8793-a75389fa9535.pdf
+# path: raw/cache/2e2d114850d5a0ab72dc95e81f3c53f185700cb2.pdf
+# hit page: 9 of 30
+# terms: River North Transit, Via Transportation, Via+drivers, Via+fleet, Via+vehicles
+
+=== page 8 ===
+8 
+ 
+Contractor’s advertising or public relations materials without first obtaining the written approval 
+of the Douglas County Public Affairs Director. Nothing herein, however, shall preclude the 
+transmittal of any information to officials of the County, including without limitation, the County 
+Manager, the Assistant Manager, and the Board of County Commissioners. 
+ 
+ 
+23. 
+PRIORITY OF PROVISIONS: In the event that any terms of this Contract and 
+any Exhibit, attachment, or other referenced document are inconsistent, the following order of 
+priority shall control: 
+ 
+ 
+ 
+1st 
+This Contract, Sections 1 through 28 
+ 
+ 
+2nd 
+Exhibit C - Insurance Requirements 
+ 
+ 
+3rd 
+Exhibit A - Scope of Services 
+ 
+ 
+4th 
+Exhibit B - Method of Payment 
+ 
+ 
+5th  
+Exhibit D - Data Sharing & Project Data  
+ 
+ 
+ 
+ 
+24. 
+HEADINGS; RECITALS: The headings contained in this Contract are for 
+reference purposes only and shall not in any way affect the meaning or interpretation of this 
+Contract. The Recitals to this Contract are incorporated herein. 
+ 
+ 
+25. 
+ENTIRE CONTRACT: The Parties acknowledge and agree that the provisions 
+contained herein constitute the Entire Contract and that all representations made by any 
+commissioner, official, officer, director, agent or employee of the respective Parties unless 
+included herein are null and void and of no effect. No alterations, amendments, changes or 
+modifications to this Contract, except those which are expressly reserved herein to the Authorized 
+Representative, shall be valid unless they are contained in writing and executed by all the Parties 
+with the same formality as this Contract. 
+ 
+ 
+26. 
+INSURANCE: The Contractor shall be required to maintain the insurance 
+requirements provided in Exhibit C, attached hereto and incorporated herein by reference. The 
+Contractor shall provide evidence that such requirements have been met and shall provide updated 
+information to the County in the event any changes are made to the Contractor’s insurance 
+coverage during the Term of this Contract. 
+ 
+ 
+27. 
+COUNTY EXECUTION OF CONTRACT: This Contract is expressly subject to 
+and shall not be or become effective or binding on the County, until execution by all signatories 
+of the County. 
+ 
+ 
+28. 
+FORCE MAJEURE: No Party shall be liable for failure to perform hereunder if the 
+failure is the result of force majeure. Any time limit shall be extended for the period of any delay 
+resulting from any force majeure, or this Contract may be terminated if such delay makes performance 
+of the Contract impossible or impracticable. Force majeure shall mean causes beyond the reasonable 
+control of a Party such as, but not limited to, weather conditions, acts of God, strikes, work stoppages, 
+unavailability of or delay in receiving labor or materials, faults by contractors, subcontractors, utility 
+companies or third parties, fire or other casualty or actions of government authorities. 
+ 
+(Remainder of Page Intentionally Blank) 
+2026 PCS with River North Transit, LLC 
+BCC Business Meeting - 2/24/2026 
+Page 8 of 30
+=== page 9 ===
+9 
+ 
+Exhibit A 
+SCOPE OF SERVICES 
+River North Transit, LLC (the “Contractor”) a wholly owned subsidiary of Via Transportation, 
+Inc. (“Via”) and Douglas County (the “County”) have agreed to initiate the County’s demand 
+response transit service in Highlands Ranch, CO (“The Western Zone”) and in unincorporated 
+Douglas County east of Parker and the Town of Parker, CO (“The Eastern Zone”). The Parties 
+acknowledge that the Western Zone service has already launched pursuant to the Public Contract 
+for Services entered into by the Parties on March 25, 2025, and agree to extend the duration of the 
+Western Zone service pursuant to the terms herein.   
+In accordance with the Contract, the Contractor shall provide services on behalf of the County to 
+effectuate the delivery of the microtransit project, with technology and technology-enabled 
+integration services (the “Project”). The Contractor will provide fleet managers, vehicle suppliers, 
+driver partners, background check providers, customer service support agencies, a payment 
+processor, and insurance brokers and underwriters.  
+The following are priorities for microtransit services: 
+• Passenger safety: all patrons must feel safe for the service to be successful, 
+particularly of the older adult, youth, and vulnerable populations. 
+• Interoperability with Link on Demand microtransit and the existing Link on Demand 
+rider application  
+• Connections to commercial areas along Highlands Ranch Parkway, County Line 
+Road for the Western Zone and the Park Meadows Retail Resort for both 
+employment and shopping 
+• Connections to local schools, parks, and recreation centers, local hospitals and medical 
+centers, social and human services, bus and light rail (specifically the RTD County Line 
+LRT and RTD Littleton/Mineral LRT stations for Western Zone). 
+• Trips that are competitive in trip time and cost to a single-occupancy vehicle.  
+ 
+The Contractor’s Services shall include: 
+• Localization of a proprietary cloud-based dynamic vehicle routing and real-time 
+passenger aggregation system; 
+• Access to the Via mobile rider application (available for iOS and Android) for 
+individuals using the County’s service (“Riders”) to reserve and pay for rides through a 
+smartphone; 
+• Access to reservations through a dedicated phone line for Riders who do not have 
+access to a smartphone; 
+• Access to the Via mobile driver application for drivers to route and service rides 
+through a smartphone or tablet; 
+• Established relationships with a vehicle rental company (“Vehicle Partner”) for access 
+to rental vehicles and independent contractor driver partners (“Driver Partners”) for 
+transportation services;  
+2026 PCS with River North Transit, LLC 
+BCC Business Meeting - 2/24/2026 
+Page 9 of 30
+=== page 10 ===
+10 
+ 
+• Accompanying technical and operational support service; 
+• Marketing and outreach initiatives as described herein; and 
+• Data sharing and reporting as described herein. 
+ 
+Duration & Launch Date 
+ 
+Western Zone: Upon service completion or termination of the Project, the Contractor will have 
+90 calendar days, or an earlier date as agreed upon by the parties, to submit to the County all final 
+performance reports, a certification of expenses incurred that implement the Contract, and the 
+necessary audit reports of the Contract.  
+Eastern Zone: The County will provide written notice to proceed to the Contractor at least four 
+(4) weeks prior to the service launch. The County may only provide written notice to proceed once 
+this Agreement, exhibits, and appendices are final and signed, and any necessary local and 
+regulatory approvals have been received or registrations completed. Upon receipt of such written 
+notice to proceed, the Contractor shall commence local preparation for launch. Upon service 
+completion or termination of the Project, the Contractor will have 90 calendar days, or an earlier 
+date as agreed upon by the parties, to submit to the County all final performance reports, a 
+certification of expenses incurred that implement the Contract, and the necessary audit reports of 
+the Contract.  
+Service Parameters 
+The Contractor shall provide access to a platform service (the “Platform”) through which Riders 
+will be able to reserve and pay for rides on a shared and on-demand basis and dedicated vehicles 
+will be offered by the Vehicle Provider to Driver Partners on a rental basis.  
+ 
+• 
+Geographic Coverage Zone 
+• 
+Western Zone: Approximately 24 square miles full-coverage zone in Highlands Ranch, 
+Colorado, with connections in to and out of the Lone Tree microtransit zone, the Park 
+Meadows Retail Resort, and the RTD County Line and Littleton/Mineral LRT Stations.  
+• 
+Eastern Zone: Approximately 30.7 square mile zone in Parker, Colorado, aligned to the 
+targeted zone outlined in the Douglas County Integrated Transit and Multimodal Study, 
+the Stonegate area in unincorporated Douglas County, and Link on Demand’s existing 
+Lone Tree zone. The initial service boundaries are proposed below. 
+ 
+• 
+Key Performance Indicators and Vehicle Hours:  
+• 
+Western Zone: The Contractor estimated that serving the entire Western Zone would 
+comprise of 2,200 - 2,400 weekly rides, once the service has matured, with an estimated 
+750 weekly vehicle hours, an optimum number of vehicles at peak hours, and about 2.5 – 
+3.0 rides per vehicle hour. These performance metrics should be included in reports by the 
+Contractor with the County’s Project Manager as set forth in Exhibit D. 
+2026 PCS with River North Transit, LLC 
+BCC Business Meeting - 2/24/2026 
+Page 10 of 30

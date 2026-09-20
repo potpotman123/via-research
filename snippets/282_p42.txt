@@ -1,0 +1,153 @@
+# source: raw/bleecker_drive/Arlington, Texas/Via_Contract_FINAL_Redacted.pdf
+# path: raw/bleecker_drive/Arlington, Texas/Via_Contract_FINAL_Redacted.pdf
+# hit page: 42 of 68
+# terms: Via+not to exceed, Via+not-to-exceed
+
+=== page 41 ===
+(41) 
+“Comprehensive Procurement Guideline for Products Containing Recovered Materials,” 
+40 C.F.R. part 247. 
+ 
+O. 
+Subcontractors 
+ 
+For the avoidance of doubt, none of the following shall be deemed to constitute 
+subcontractors or subcontractors of CONTRACTOR hereunder: (i) independent 
+contractor driver partners of CONTRACTOR; (ii) any vehicle supply partner of 
+CONTRACTOR offering vehicle leasing options to such driver partners; or (iii) any 
+third-party technology vendor offering solutions integrated by CONTRACTOR into its 
+technology solution or otherwise used by CONTRACTOR. 
+ 
+P. 
+Termination for Payment Default 
+ 
+If the CITY fails to make a payment to CONTRACTOR when due under the Scope of 
+Services, the CONTRACTOR may terminate this Contract for default if the CITY has 
+failed to cure such default for at least 15 days after being notified of such default by the 
+CONTRACTOR.  
+ 
+If the Services have reached the CITY’s budget, as set forth in Section II below, and no 
+additional funding has been obtained, CONTRACTOR may immediately cease all 
+Services and terminate this Contract by written notice to the CITY. 
+ 
+Q. 
+Cooperative Contracting (Assignability Clause) 
+ 
+In the Proposal, Contractor agreed to cooperative contracting.  Any public agency (i.e., 
+city, district, public authority, public agency, municipality, and other political subdivision 
+or any FTA-funded entity) in Texas shall have the option of participating in this Contract 
+at the same prices, terms, and conditions, except that the Parties may negotiate the scope 
+of work and service parameters and other contract terms, other than unit pricing, unless 
+service parameters and scope of work are determined to be materially different by 
+Contractor),     as may be agreed upon by the participating public agency and Contractor.  
+CITY reserves the right to assign all or any portion of the services awarded under this 
+Contract including option quantities to other public agencies under this provision.  Once 
+assigned the participating public agency will enter into its own contract with Contractor 
+and will be solely responsible to Contractor.  City’s right of assignment will remain in 
+force until completion of the Contract to include options, whichever occurs first.  City 
+shall incur no financial responsibility in connection with contracts issued by another 
+public agency.  The public agency shall accept sole responsibility for placing orders or 
+payments to Contractor.   
+ 
+II. 
+COMPENSATION TO CONTRACTOR 
+ 
+A. 
+     Initial Contract Amount
+=== page 42 ===
+(42) 
+CITY agrees to pay CONTRACTOR the amounts set forth in the Scope of Services, not to 
+exceed $26,247,642 (i.e., the total amount of funding obtained by the City as of the date 
+hereof) in the aggregate for the initial two-year period of this Contract, subject to the 
+following provisions. This total of $26,247,642 includes a maximum of $22,047,916 for 
+the standard Via service cost, $179,502 for the Arlington Student Transportation Program, 
+and $4,020,224 for the Arlington RAPID service.  
+ 
+B. 
+Additional Funding 
+ 
+CITY anticipates it may receive or provide additional funding for the Services to be used 
+to expand the service area into neighboring municipalities.  CITY also anticipates that 
+CONTRACTOR will collect additional service revenue pursuant to Section IV(C), below.  
+If the CITY enters into an interlocal agreement with other municipalities to expand the 
+service area into those municipalities, and the City receives or provides additional funding 
+to be used for such service area expansion, it may use those funds and any service revenue 
+collected pursuant to Section IV(C), to purchase on-demand service and/or operating hours 
+in accordance with the pricing set forth in Exhibit A. The total cost of the contract, 
+including the additional on-demand service and/or operating hours used to expand the 
+service area, shall not exceed $4,000,000 for the two-year term of this Contract.  Additional 
+on-demand service hours and/or operating hours shall not be added to the service pursuant 
+to this paragraph until the City Manager or his designee provides written approval of 
+additional hours and funding for service area expansion, and the addition of on-demand 
+service hours and/or operating hours and funding is approved by the Arlington City Council 
+if required by the Federal, State, or Private funding source. 
+ 
+C. 
+Service Revenue 
+ 
+CITY and CONTRACTOR covenant and agree that service revenue collected at the time 
+of service shall be collected by the CONTRACTOR through a separate payment processor 
+subaccount to be held in trust for the benefit of the CITY’s On-Demand Rideshare Service.  
+CONTRACTOR shall provide monthly statements detailing how much service revenue 
+was collected for the month, how the service revenue is being applied to the project and 
+any expenditures made and providing the remaining balance of the subaccount.  During the 
+term of the Renewal and Modification, the following distributions shall be made: 
+ 
+100% of all service revenue collected shall be retained by the CONTRACTOR and used 
+as a funding source for the Initial Contract Amount in Section II.A.  Service revenue shall 
+be applied towards Contractor fees, defined in Exhibit “A” Section 3, on a monthly basis.  
+Provided however, CITY shall have final determination on how the service revenue is used. 
+Service revenue collected and retained by the CONTRACTOR shall not be used or 
+distributed without written approval of the City Manager or his designee.  
+ 
+CONTRACTOR estimates that it will collect $4,263,964 in service revenue, specifically for 
+the Standard Via Service, during the two-year term of this Contract, which will be retained 
+by the CONTRACTOR for the purposes of growing the On-Demand Rideshare Service.
+=== page 43 ===
+(43) 
+Neither CITY nor CONTRACTOR shall be responsible or liable for any difference 
+between the estimated service revenue and the actual service revenue collected. 
+ 
+At the expiration or earlier termination of the Contract and any renewals, any unspent 
+service revenue remaining with the CONTRACTOR shall be distributed to the CITY.   
+ 
+D. 
+Advertising Revenue 
+ 
+CONTRACTOR shall provide monthly reports detailing the amount of advertising 
+revenue collected for the month and any fees and/or expenses due in respect of the 
+advertising solution procured as further detailed in Exhibit A.  During the term of the 
+Contract, the following distributions shall be made: 
+ 
+100% of all advertising revenue collected net of fees and expenses due in respect of the 
+advertising solution procured shall be distributed to the CITY on a monthly basis as a 
+credit to any amounts owed to CONTRACTOR; provided that 1) the CITY 
+acknowledges that advertising revenue collected (net of fees and expenses) in a particular 
+month shall be credited to the CITY in the invoice for the month in which 
+CONTRACTOR is paid by any third-party advertising platform and 2) all advertising 
+revenue credited to the CITY shall offset the not to exceed Initial Contract Amount by 
+the same amount.       
+ 
+III. 
+PARTNERSHIPS IN THE SERVICE AREA 
+ 
+From time to time, CONTRACTOR may enter into partnerships with organizations in the 
+Service Area to enable such organization’s clients or customer to book trips through the 
+same rider application used for the Service.  The CONTRACTOR shall be allowed to 
+enter into such partnerships so long as the CITY provides prior written approval (e-mail 
+being sufficient).  Any fee collected from the client or customer in respect of the rides 
+(whether per hour or per ride) will be treated as Service Revenue. 
+ 
+IV. 
+TERM 
+ 
+ 
+This Contract shall commence on December 11, 2022, upon receipt of written 
+Notice to Proceed from the City, unless otherwise mutually agreed by both parties, and 
+shall continue to December 31, 2024, unless terminated earlier in accordance herewith.  
+Upon City Council approval and mutual agreement of the parties, this Contract may be 
+extended for up to four (4) two-year periods, not to exceed a total of ten (10) years of 
+service overall, at payment terms to be mutually agreed. 
+ 
+V. 
+INDEMNIFICATION BY CITY

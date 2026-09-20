@@ -1,0 +1,147 @@
+# source: raw/bleecker_drive/Hillsborough County/Completed Contract File.pdf
+# path: raw/bleecker_drive/Hillsborough County/Completed Contract File.pdf
+# hit page: 102 of 199
+# terms: Via Mobility
+
+=== page 101 ===
+Sincerely,
+________________________________
+Authorized Corporate Officer:
+Authorized Contacts:
+Alex Lavoie
+Manager
+Via Transportation, Inc.
+Via Mobility, LLC
+Terence McPherson
+Partnerships, U.S.
+Via Transportation, Inc.
+terence.mcpherson@ridewithvia.com
+Daniel Lee
+Strategy Associate
+Via Transportation, Inc.
+Մ888Յ 501՞7511, ext. 4
+daniel.lee@ridewithvia.com
+RFP‐23‐24177
+DocuSign Envelope ID: 79A07B85-E043-4C74-9367-242EBF6241D4
+=== page 102 ===
+Proprietary and Confidential Information
+Please note that this document and any and all supporting documentation, appendices and
+attachments contain proprietary, confidential, and trade secret information of Via Mobility, LLC
+(“Via”), and is exempt from disclosure under Florida Statutes, Title X, Chapter 119 (the “Florida
+Public Records Law”), including under Florida Statutes § 815.045 (as the public and private harm in
+disclosing trade secrets significantly outweighs any public benefit derived from disclosure and the
+public’s ability to scrutinize and monitor agency action is not diminished by nondisclosure of trade
+secrets) and under Florida Statutes § 119.071Մ1)(c) (as financial statements required to be
+submitted in response to a proposal for a public works project). We request that your office
+maintain the confidentiality of these materials and provide Via with notice of any request for
+disclosure of this information prior to production by contacting compliance@ridewithvia.com.
+Below is our confidentiality table indicating pages that include proprietary and/or trade secret
+information. Please note that below page numbers correspond to those printed at the bottom right
+corner of our proposal.
+Section/Page
+Trade Secret Information
+Exempt under Florida Statutes §
+815.045
+Personally Identifying Information
+1. Qualifications, 1՞7
+X
+X
+2. Experience, 8՞10
+X
+X
+3. Technical Approach, 14, 16՞24,
+28՞46
+X
+4. Cost, 47՞50
+X
+Appendix, 52՞59, 61՞66
+X
+RFP‐23‐24177
+=== page 103 ===
+Table of Contents
+1. Qualifications
+1
+1.1 Via’s Qualifications
+1
+1.2 Financial Viability
+4
+1.3 Company History
+5
+1.4 Proposed Project Team
+5
+1.5 Understanding of Project and Requirements
+7
+2. Experience
+8
+2.1 Steps to Ensure Project Completion
+8
+2.2 References
+9
+3. Technical Approach
+14
+3.1 General System Requirements
+15
+3.2 Configuration of System
+18
+3.2.1 Via’s Advance Algorithm
+18
+3.2.2 Same Day Rolling Optimization
+18
+3.2.3 Integrated Overflow Capabilities for Taxis and Other Providers
+19
+3.3 Dispatching and Operations Management
+20
+3.3.1 Trip Scheduling and Real-time Performance Management
+20
+3.3.2. Profile & Eligibility Management
+21
+3.3.3 Service Log Management
+22
+3.3.4 Data and Reporting
+22
+3.4 Rider Access, Setup, and Booking
+25
+3.4.1 Trip Reservations
+25
+3.4.2 Full Network Connectivity and Requests for Bus Passes
+27
+3.4.4 User Communication
+28
+3.5 Driver Interface and Information
+28
+3.6 Implementation and Acceptance
+29
+3.6.1 Work Plan
+29
+3.6.2 Implementation Schedule
+30
+3.6.3 Data Conversion of Existing Database
+31
+3.6.4 Training
+33
+3.7 Maintenance and Customer Service
+35
+3.7.1 Service Maintenance Program
+35
+3.7.2 Quality Assurance
+36
+3.8 Security
+37
+3.8.1 Cloud-based Hosting
+37
+3.8.2 Cybersecurity
+40
+3.8.3 Access Control
+42
+3.8.4 Data Access
+44
+4. Cost
+47
+Appendix
+51
+A.1 Contract Exceptions
+51
+A.2 Proposed Software License Agreement
+51
+A.3 Required Forms
+60

@@ -1,0 +1,126 @@
+# source: raw/bleecker_drive/Arlington, Texas/FTA-Report-No-0244.pdf
+# path: raw/bleecker_drive/Arlington, Texas/FTA-Report-No-0244.pdf
+# hit page: 24 of 74
+# terms: Via+vehicles
+
+=== page 23 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+14
+SECTION  | 3 
+the May Mobility team were also considered, including the shift duration for 
+safety drivers, called autonomous vehicle operators (AVOs) and the need for the 
+vehicles to go out of service to charge and download data. Using these inputs, the 
+team established Monday to Friday, 7 a.m. to 7 p.m. as the RAPID service hours. 
+In keeping with the integration of the AV service into the city’s existing Via 
+rideshare service, it had been established that the fare structure on RAPID would 
+match that on Via rideshare. Fares range from $3.00 to $5.00, depending on 
+distance traveled, although due to the size of the RAPID service area, most fares 
+on RAPID would be $3.00. Via and UTA also worked closely to determine the best 
+method for creating free rides on RAPID for current UTA students. While several 
+methods were discussed, it was determined that the most effective method was 
+through email domain verification. UTA students would use their active student 
+email account to book rides, and Via configured its platform to recognize this 
+unique email domain and apply free fares for RAPID rides only. UTA students 
+would still be charged the standard fare for non-RAPID rides on the Via service. 
+With plans to launch the RAPID service during the COVID-19 pandemic, 
+health and safety concerns were top-of-mind for the entire project team. For 
+consistency with the existing Via rideshare service in Arlington, RAPID vehicles 
+were outfitted with partitions between the AVO and rider space in the vehicle, 
+daily vehicle cleaning was performed, and all AVOs and riders were required 
+to wear masks, per Federal Transit Administration (FTA) regulations for public 
+transit. The RAPID vehicles were also outfitted with UV-C lights2 to regularly 
+disinfect the interior of the vehicle. At the time of launch, the UV-C lights were 
+deployed between each ride (after dropping off a rider and before picking up 
+the next rider). The vehicle capacity was also limited to only one booking at a 
+time, to prevent close contact between unrelated groups of passengers. These 
+measures decreased the service’s capacity, due to lack of shared rides and 
+disinfecting time between each ride, but these measures were deemed prudent 
+at the time of launch. After launch, as vaccination rates increased and COVID-19 
+infection rates decreased in the region, the COVID-19 protocol was modified in 
+July 2021 to remove the vehicle partitions, use the UV-C light to disinfect during 
+vehicle shift changes rather than between every ride, and allow shared rides 
+with up to two bookings at a time. These changes increased service capacity in 
+line with increased demand, as discussed in the following section of this report. 
+The UTA campus operated in a largely virtual format for the 2020-2021 academic 
+year, with face-to-face enrollment at approximately 25-30 percent of traditional 
+on-campus enrollment in spring 2021. It was anticipated that this might 
+negatively affect ridership demand for the first several months of RAPID service, 
+but the expectation of a return to traditional campus operations for the fall 2021 
+semester was expected to positively affect ridership.
+2 The UV-C devices use light to break down chemical compounds in bacteria and viruses, including the 
+coronavirus, which prevents them from multiplying.
+=== page 24 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+15
+SECTION  | 3 
+Another key operational consideration was planning for any incidents that might 
+occur with the RAPID service. The project team established a clear process for 
+responding to any incidents, fully investigating the incident, and notification 
+and reporting to involved parties. This process is shown in Figure 3-4. While 
+the service did not experience any collisions, injuries, or safety accidents, there 
+were several minor curb rub events where an AV did not perform as expected. 
+These minor incidents, which are discussed in greater detail in the following 
+section of this report, followed the incident process for clear communication 
+and investigation to resolve and prevent future similar incidents. 
+Figure 3-4 RAPID Incident Process
+The final major operational element involved application programming 
+interface (API) integration between the Via and May Mobility platforms, as well 
+as testing of this integration in various settings, from a sandbox environment 
+to the actual route network. The API integration work began with defining 
+communication needs between the two platforms for riders, AVOs, the May 
+Mobility base station, and vehicle routing. Initial API connections were tested 
+starting in October 2020 to validate API connectivity and responsiveness using 
+an internal on-demand service demonstration route. By November 2020, 
+successful backend integration for all primary use scenarios was completed, 
+including scenarios such as linked rides, pooled rides, and ride cancellations. 
+The following month, Via used the latest information from May Mobility to 
+update its AV route network and stop location map. This allowed for additional 
+extended-use scenario testing. The full route integration was implemented, and 
+a successful on-vehicle field test was performed in December 2020.
+With this initial integration and testing complete, the team was able to move 
+into extensive API testing at its headquarters location in January 2021 using May 
+Mobility test vehicles. To test ride requests, ride proposals delivered to riders, 
+the booking process, and vehicle dispatching, a virtual staging environment 
+was created, including a copy of the Arlington Via rideshare service area and the 
+RAPID service area. A waiver was developed to be displayed and accepted by all 
+first-time RAPID AV riders in the Via system, and this process was finalized and 
+tested.
+=== page 25 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+16
+SECTION  | 3 
+With the completion of successful testing in the virtual staging environment and 
+in May Mobility’s headquarters test site, the team was ready for on-site testing 
+in Arlington from February 2021 to March 2021 in preparation for RAPID service 
+launch. This phase of testing included training AVOs on the vehicles, the route, 
+and the Via driver application. Testing was performed using both the Lexus AVs 
+and the Polaris WAV. Since the vehicles are a different size and have different 
+mechanical systems for operation, it was important to test both for performance 
+and consistency. During this time, Via created a reporting dashboard to share 
+RAPID service and ridership data with the team, and May Mobility created a 
+reporting dashboard to share RAPID autonomy performance data with the 
+team. Via also trained their customer service agents on the details of the RAPID 
+service, so they could assist riders in booking or requesting information about 
+the service. A soft launch took place March 15 – 22, 2021, which allowed live 
+booking and ride completion. A few minor adjustments were made to the 
+integration during the soft launch, including adjusting booking capacity. 
+Communications and Outreach 
+Educating the community and marketing the RAPID service leading up to the 
+demonstration involved several key elements, including branding, marketing 
+materials, press releases, social media posts, community outreach activities, 
+and a launch event. To guide this work, the City formed a communications 
+subcommittee with representation from all project partners and hosted the first 
+meeting in October 2020. With meetings every other week, this group worked 
+on developing plans for branding, marketing, communications, outreach, and 
+education for the project, including designing vehicle wraps, planning a launch 
+event, and continuing community outreach and education through the life of 
+the demonstration. The project team believed it was important for the RAPID 
+project to have its own brand, complementary to the existing Via rideshare 
+service in Arlington but also different enough to signal the unique nature of the 
+RAPID service. The RAPID logo is shown in Figure 3-5, and it combines elements 
+of the City of Arlington logo and the Via service logo. Once the RAPID logo and 
+brand was designed, the RAPID vehicle wraps were created to complement 
+the existing Via rideshare vehicle wraps while signaling the unique RAPID self-
+driving service. The vehicle wrap design and the actual Lexus vehicles and the 
+Polaris GEM vehicle used in the demonstration are shown in Figure 3-6.
+Figure 3-5 Arlington RAPID Logo

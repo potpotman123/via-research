@@ -1,0 +1,103 @@
+# source: raw/bleecker_drive/Arlington, Texas/FTA-Report-No-0244.pdf
+# path: raw/bleecker_drive/Arlington, Texas/FTA-Report-No-0244.pdf
+# hit page: 22 of 74
+# terms: Via+fleet, Via+vehicles
+
+=== page 21 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+12
+SECTION  | 3 
+Figure 3-2 Internal Route Network and Stop Map
+Figure 3-3 Public-Facing RAPID Service Area Map
+=== page 22 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+13
+SECTION  | 3 
+In summer 2020, the team transported a Polaris GEM automated vehicle 
+to Arlington for map data collection, which was used to build the service’s 
+localization map. The route network for RAPID was the largest route built by 
+May Mobility to date and additional time was required for the creation of the 
+localization map and route testing. Once the localization map was created 
+based on data gathered by the AV sensors on-site, the May Mobility team refined 
+it, which included adding the locations of lane markings, crosswalks, traffic 
+lights, stop locations, and drive edges into a semantic map that the vehicle uses 
+to navigate the service area. In November 2020 and December 2020, a Polaris 
+GEM automated vehicle and May Mobility team again traveled to Arlington to 
+test the refined localization map. This work involved verifying the localization 
+map and adjusting the locations of drive lanes, paint lines, crosswalks, and 
+traffic lights in the service area.
+In January 2021, the Lexus RX450 hybrid fleet vehicles for the RAPID service 
+began arriving in Arlington. This service was the first for May Mobility using 
+an auto-grade vehicle platform, which refers to a vehicle manufactured by 
+an original equipment manufacturer (OEM) for regular road use and driving 
+conditions. It was the first service for May Mobility that moved away from a 
+small, low-speed vehicle (the Polaris GEM e6 shuttle) to a conventional vehicle 
+(the Lexus RX450h SUV). Due to this change, additional testing was required to 
+adjust the route for the new vehicle platform. Extensive autonomy tuning was 
+performed, which included adjusting stop approach speed profiles, adjusting 
+stop locations, and refining steering parameters to ensure a comfortable 
+ride for passengers on the vehicles. As the Lexus SUV did not have the space 
+or configurability to accommodate passengers using wheelchairs, a Polaris 
+GEM WAV was added to the RAPID fleet. After the conclusion of the first year 
+of the RAPID demonstration, a shift was made to a new vehicle that could 
+accommodate both wheelchair and non-wheelchair passengers, a Toyota 
+Sienna. This will be discussed in greater detail below. The Polaris GEM WAV 
+was delivered to Arlington and tested during this period. Final testing and 
+adjustments, including for new construction on the route, were completed in 
+March 2021, in advance of service launch. 
+Operational Parameters 
+There were several operational elements that the RAPID project team needed 
+to define and establish prior to demonstration of the service, including service 
+hours, fare structure, payment integration to allow UTA students to ride 
+RAPID for free, COVID-19 health and safety protocols, and an internal incident 
+reporting plan. Additionally, work went into successfully completing integration 
+between the Via and May Mobility technology platforms, to allow for seamless 
+ride booking, payment, and ride dispatch between the two systems. 
+Using data from existing transportation services, the project team identified key 
+periods of peak demand for travel in the service area. Operational needs from
+=== page 23 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+14
+SECTION  | 3 
+the May Mobility team were also considered, including the shift duration for 
+safety drivers, called autonomous vehicle operators (AVOs) and the need for the 
+vehicles to go out of service to charge and download data. Using these inputs, the 
+team established Monday to Friday, 7 a.m. to 7 p.m. as the RAPID service hours. 
+In keeping with the integration of the AV service into the city’s existing Via 
+rideshare service, it had been established that the fare structure on RAPID would 
+match that on Via rideshare. Fares range from $3.00 to $5.00, depending on 
+distance traveled, although due to the size of the RAPID service area, most fares 
+on RAPID would be $3.00. Via and UTA also worked closely to determine the best 
+method for creating free rides on RAPID for current UTA students. While several 
+methods were discussed, it was determined that the most effective method was 
+through email domain verification. UTA students would use their active student 
+email account to book rides, and Via configured its platform to recognize this 
+unique email domain and apply free fares for RAPID rides only. UTA students 
+would still be charged the standard fare for non-RAPID rides on the Via service. 
+With plans to launch the RAPID service during the COVID-19 pandemic, 
+health and safety concerns were top-of-mind for the entire project team. For 
+consistency with the existing Via rideshare service in Arlington, RAPID vehicles 
+were outfitted with partitions between the AVO and rider space in the vehicle, 
+daily vehicle cleaning was performed, and all AVOs and riders were required 
+to wear masks, per Federal Transit Administration (FTA) regulations for public 
+transit. The RAPID vehicles were also outfitted with UV-C lights2 to regularly 
+disinfect the interior of the vehicle. At the time of launch, the UV-C lights were 
+deployed between each ride (after dropping off a rider and before picking up 
+the next rider). The vehicle capacity was also limited to only one booking at a 
+time, to prevent close contact between unrelated groups of passengers. These 
+measures decreased the service’s capacity, due to lack of shared rides and 
+disinfecting time between each ride, but these measures were deemed prudent 
+at the time of launch. After launch, as vaccination rates increased and COVID-19 
+infection rates decreased in the region, the COVID-19 protocol was modified in 
+July 2021 to remove the vehicle partitions, use the UV-C light to disinfect during 
+vehicle shift changes rather than between every ride, and allow shared rides 
+with up to two bookings at a time. These changes increased service capacity in 
+line with increased demand, as discussed in the following section of this report. 
+The UTA campus operated in a largely virtual format for the 2020-2021 academic 
+year, with face-to-face enrollment at approximately 25-30 percent of traditional 
+on-campus enrollment in spring 2021. It was anticipated that this might 
+negatively affect ridership demand for the first several months of RAPID service, 
+but the expectation of a return to traditional campus operations for the fall 2021 
+semester was expected to positively affect ridership.
+2 The UV-C devices use light to break down chemical compounds in bacteria and viruses, including the 
+coronavirus, which prevents them from multiplying.

@@ -1,0 +1,161 @@
+# source: raw/bleecker_drive/Arlington, Texas/FTA-Report-No-0244.pdf
+# path: raw/bleecker_drive/Arlington, Texas/FTA-Report-No-0244.pdf
+# hit page: 36 of 74
+# terms: Via+fleet, Via+vehicles
+
+=== page 35 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+26
+SECTION  | 3 
+As described above, the project team developed a detailed process for 
+responding to any incidents that might occur during service. The service 
+experienced no safety accidents or collisions of any kind, either in automated 
+or in manual mode, during the demonstration. However, there were five minor 
+incidents where the vehicles did not perform as expected in automated mode, 
+called optics events, which were thoroughly investigated even though they did 
+not result in any damage or injuries. A summary of each optic event is provided 
+in Table 3-2. 
+Table 3-2 Optics Events Details
+Date
+Riders
+Vehicle 
+Speed
+Autonomy 
+Status
+Details
+Sept. 3, 2021
+1
+<5 mph
+Auto
+Curb rub during a right-hand turn
+Oct. 11, 2021
+0
+<5 mph
+Auto
+Curb rub during a right-hand turn
+Nov. 22, 2021
+1
+22 mph
+Auto
+Curb strike while driving 
+Dec. 1, 2021
+1
+<5 mph
+Auto
+Curb rub due to AVO error at 
+passenger stop
+Jan. 31, 2022
+1
+<5 mph
+Auto
+Curb rub after passenger stop
+
+Immediately after each of these events, staff from the May Mobility engineering 
+and technical support teams reviewed vehicle logs and camera footage to 
+determine what occurred and how to address the incident. In most cases, the 
+events were due to the lane placement in the detailed route network map, and 
+the map was adjusted to ensure the vehicles were not permitted too close to 
+the curb in future turns. The one event due to AVO error was an opportunity for 
+retraining all AVOs on proper protocol at and around passenger stop locations. 
+Integration Performance Metrics 
+Strong integration between the Via and May Mobility platforms and services 
+was necessary for the RAPID service to succeed. During the demonstration, 
+the project team monitored and assessed integration performance using the 
+following metrics: 
+•	 Cloud and vehicle connectivity 
+•	 Vehicle task execution
+•	 Vehicle status updates
+•	 Performance of the Via system for booking and paying for AV rides, as well 
+as making AV rides free to eligible UTA students.
+Within each of these metrics, minor issues were noted and addressed during the 
+demonstration.
+=== page 36 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+27
+SECTION  | 3 
+Cloud and vehicle connectivity: 
+•	 Isolated incidents of connectivity between the May Mobility and Via 
+systems were experienced at times during the demonstration. Generally, 
+these issues were resolved by paying careful attention to the order of 
+operations when logging into the May Mobility vehicle and Via driver app. 
+Occasionally restarting an operator’s shift or the driver’s app was required. 
+•	 The WAV in the fleet did not always appear in the correct location when 
+parked in the office/garage because of the strength of signal connectivity 
+inside the facility. To solve this issue, the team drove the WAV more 
+frequently to bring it outside, allowing for better localization and signal 
+and thus readiness for service. 
+•	 An AVO leaving a location prior to being dispatched by the Via system 
+sometimes led to issues with connectivity and displaying the true location 
+of the vehicle for dispatch purposes. This was resolved by training the AVOs 
+to wait for dispatching before leaving their location.
+Vehicle Task Execution:
+•	 At the beginning of the demonstration, it was determined that the AV ETAs 
+were sometimes excessive, resulting in the AV arriving at pick up locations 
+several minutes before the Via driver app or rider app indicated the 
+vehicle’s arrival time. The Via and May Mobility teams investigated, and Via 
+adjusted the ETA algorithm to better sync with actual AV performance after 
+the launch of the service. 
+•	 Once shared rides began in July 2021, the project team realized there were 
+times when the AV routing was less than ideal or somewhat inefficient, likely 
+caused by parameters of the AV route network map — the subset of roads 
+safe for the Avs to travel on autonomously. Where practical, AVOs would at 
+times switch to manual mode to make pick up and drop off more convenient 
+for passengers. To advance a longer-term resolution, the Via and May 
+Mobility teams investigated these instances and made recommendations to 
+improve future pre-launch planning and service design processes. 
+•	 Construction in the service area also posed challenges for the vehicle 
+task execution, as new construction projects obstructing or partially 
+obstructing the route network required AVOs to switch to manual mode to 
+navigate around the construction obstructions. The May Mobility and Via 
+teams were able to update maps to accommodate construction projects, 
+allowing the vehicles to remain in automated mode more often. 
+•	 When the service was launched, the vehicles were not programmed to 
+return to the office/garage location at the end of a shift or end of the service, 
+which required AVOs to drive in manual mode, which reduced overall 
+autonomy performance. Via was able to add automated dispatching to the 
+office/garage base for the end of shifts and end of service in June 2021.
+=== page 37 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+28
+SECTION  | 3 
+Vehicle Status:
+•	 Riders noted that heat was coming from the rear of the vehicle, generated 
+in part by the computers in the trunk space of the vehicles. Challenges 
+caused by extreme weather, such as heat, are common across the AV 
+industry today. The engineering team at May Mobility designed a box and 
+ducting that collects the heat from the computers and vents it outside 
+through the rear passenger side wheel well. As COVID-19 conditions 
+improved, the project team also decided to remove the vehicle partition 
+between the AVO and rider in July 2021, which resulted in better air flow. 
+Both measures improved rider comfort in the vehicles.
+•	 Riders also noted sound coming from the rear of the vehicle, also 
+generated by the computers in the trunk. An engineering team of UTA 
+students, led by Dr. Yawen Wang, studied the issue and designed a 3D 
+printed, sound muffling box to fit around the ductwork attached to 
+the vehicle’s computer. The box made a measurable reduction in noise 
+reaching the passenger areas, and this solution was expanded to all fleet 
+vehicles. A student from Dr. Wang’s team won an award for this work. 
+The final integration performance metric was related to the performance 
+of the Via system for AV ride functions, including booking and paying for AV 
+rides and ensuring AV rides were free for eligible UTA students. All booking 
+and paying functions in the Via system functioned smoothly for the AV rides 
+– Via users received offers for AV rides when their ride request met the AV 
+service parameters, and users were able to select, book, and pay for AV rides 
+seamlessly in the Via app and through the Via call-in center. UTA students 
+eligible for free rides on RAPID received these free rides by using their UTA 
+student email address on their Via account. This information was made clear 
+in RAPID marketing and other information, but the project team did field some 
+questions from UTA students who did not receive free rides, and these students 
+were reminded to use their student email address. The project team also fielded 
+some questions from UTA students who were eligible for free rides but would 
+receive a ride charge if the student booked and then subsequently cancelled the 
+ride or did not show up for their ride. The project team discussed this situation 
+and decided that even though UTA students should receive free rides, they 
+should be subject to standard cancelation charges, as these behaviors decrease 
+overall service efficiency and impact the experience for other riders. 
+Rider Experience Metrics 
+Rider experience was tracked closely during the RAPID demonstration using 
+several methods, including informal comments to and discussions with May 
+Mobility AVOs, the Via in-app ride satisfaction rating, and survey responses. Any 
+issues or comments from riders that were shared with AVOs were discussed and 
+addressed by the project team, and these comments were generally positive.

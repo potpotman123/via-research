@@ -1,0 +1,137 @@
+# source: raw/bleecker_drive/Ben Franklin Transit/BFT_Board_Packet_-_2024-01-11b1.pdf
+# path: raw/bleecker_drive/Ben Franklin Transit/BFT_Board_Packet_-_2024-01-11b1.pdf
+# hit page: 61 of 65
+# terms: Via+per hour, Via+per revenue hour
+
+=== page 60 ===
+1 
+ 
+Memorandum 
+Date: January 11, 2024 
+ 
+To: 
+Rachelle Glazier, General Manager 
+ 
+From: Kevin Sliger, Chief Planning & Development Officer 
+ 
+RE: 
+Resolution 04-2024 authorizing the General Manager to increase budget of Associated 
+Supplemental Contracted Transportation Services Contract #1160 by $2.99 million and 
+approve Nomad Transit LLC, dba Via (VIA) to operate expansion services through the 
+end of the contract in April 2025 
+ 
+Background 
+At the November 2018 Special Board Meeting, the Ben Franklin Transit (BFT) Board of Directors 
+directed staff to prepare a Request for Proposals (RFP) for Contracted Services, with services to 
+begin in the fourth quarter of 2019. Contracted Services were intended to replace services lost 
+when the prior taxi company ceased operations, followed by the Board of Directors approving a 
+series of other measures on a demonstration (temporary/demonstration) basis to meet demand for 
+services previously provided by the taxi operator. At the end of the RFP process, Via was selected 
+as the operator and has provided on-demand microtransit services, CONNECT, since April 2020.  
+ 
+CONNECT has become a staple of BFT’s suite of transit services, and it has provided public 
+transportation access to many who do not live within walking distance of fixed route services or 
+are not eligible for ADA Dial-A-Ride. In March of 2023, BFT Board of Directors approved the 
+extension of the Contract #1160 service period for an additional two (2) years, which would allow 
+Via to operate the CONNECT on-demand service until April 30, 2025.  
+ 
+Service Expansion Overview 
+Current CONNECT services include general public, on-demand services in the Tri-Cities. BFT 
+staff is recommending that Contract #1160 be amended to include additional expansion services 
+that will allow Via to assist in providing ADA Dial-A-Ride overflow services, general public and 
+student focused on-demand services in Prosser and Benton City, and additional budget for new 
+on-demand services for the Tri-Cities Airport. Recommendations to include ADA Dial-A-Ride 
+overflow and Prosser and Benton City services are being put forth to address ongoing staffing 
+issues, service performance, and reduce operating costs. Tri-Cities Airport service will require an 
+additional budget increase, but the other two expansion service costs are expected to be offset by 
+savings from the Dial-A-Ride operating budget.  
+ 
+BFT has the right to contract these services due to the fact that these services, and other like 
+services, have been contracted out in the past. A brief description of the expansion services is 
+provided below: 
+ 
+1. Benton City & Prosser Service  
+Via would provide public and student-focused on-demand services in Benton and Prosser City. 
+This service would provide the current, BFT operated General Demand service in these areas. The
+=== page 61 ===
+2 
+ 
+main benefits of contracting these services out to Via are a reduction of costs and efficiency 
+improvements. 
+ 
+BFT assumes the Benton City and Prosser services will account for 35 trips/boardings per day, 
+80% of which will be prebooked school trips. This is estimated to account for ~650 vehicle hours 
+per month that Via will operate. These services will also require a higher caliber of Via driver, Via 
+has requested a higher vehicle hour rate of $57.50. The higher vehicle hour rate accounts for 
+additional driver training and call center support. 
+ 
+2. ADA Dial-A-Ride Overflow Trips 
+Via would provide ADA Dial-A-Ride overflow trips that cannot be provided by BFT staff, and 
+will also assist in providing unscheduled, same day trips. The benefits of having Via provide these 
+services are increased reliability for passengers, flexibility, and efficiency. This service will also 
+be more cost effective to provide by reducing cost per hour and the amount of overtime mandated 
+to provide overflow trips.  
+ 
+BFT assumes that Via will help provide up to 70 overflow DAR trips a day, or an estimated ~2,100 
+vehicle hours a month. This number is expected to fluctuate based on demand and BFT staff 
+availability. As with the Benton City and Prosser services, these services will also require a higher 
+caliber of Via driver, Via has requested a higher vehicle hour rate of $57.50.  
+ 
+3. Airport Service  
+Via would provide direct trips between designated BFT transit centers, park & rides and the Tri-
+Cities Airport. This service will be differentiated from the current general public on-demand 
+service in the Tri-Cities in that customers will be able to cross zone boundaries and book a direct 
+trip to and from the airport. BFT currently does not provide direct fixed route service to the airport, 
+staff believes providing the airport service option via CONNECT will create a cost-effective way 
+of offering public transit to and from the Tri-Cities Airport.  
+ 
+BFT assumes that Via will conduct anywhere from 30 to 40 trips per day to the airport, which can 
+be fulfilled with an estimated ~560 revenue hours per month. Via will charge BFT the same rate 
+as the standard CONNECT service, which is $50.16 per vehicle revenue ($51.66 starting May 
+2024). 
+ 
+Costs 
+Via’s current vehicle hour rate of $50.16 will be applied to the airport service. An increased vehicle 
+hour cost of $57.50 will be applied to ADA Dial-A-Ride overflow trips and school-focused 
+services. The total estimated costs of these services are $2.99 million (see Table 1). In reality, these 
+estimated costs are expected to be lower than $2.99 million due to the fact that the service may be 
+implemented later than January 2024. All costs associated with the ADA Dial-A-Ride overflow 
+and Prosser & Benton City services are expected to be covered by cost savings arising from not 
+operating the services directly. Currently, BFT estimates that operating these services in-house 
+costs approximately $145 per revenue hour.  
+ 
+BFT staff recommends contracting both the ADA Dial-A-Ride overflow and Prosser & Benton 
+City services out to significantly reduce operations costs and realize significant savings to the
+=== page 62 ===
+3 
+ 
+Agency funds over the course of the contract. The proposed airport service represents a newly 
+added service and should be considered a budget increase to the current CONNECT operating 
+budget.  
+ 
+Table 1 - Expansion Service Estimated Costs 
+ 
+ 
+Timeline 
+BFT plans to start implementing the Via expansion services the beginning in March 2024. Via will 
+need to ramp up and add drivers and vehicles, with full implementation expected by June 2024. 
+Prosser & Benton City student-focused services may be delayed until after the 2023-2024 school 
+year so as not to disrupt students’ transportation during the middle of the academic year.  
+ 
+Funding 
+Budgeted:  Partially 
+Budget Source: Operating Budget  
+Funding Source: Local 
+ 
+Recommendation 
+Approve Resolution 04-2024 and authorize the General Manager to increase the budget of 
+Associated Supplemental Contracted Transportation Services Contract #1160 by $2.99 million to 
+expand Via operated services to encompass Dial-A-Ride overflow as needed, Benton City and 
+Prosser on-demand services, and general public on demand service to the Tri-Cities Airport.  
+ 
+ 
+Forward as presented: 
+ 
+ 
+____________________________________________ 
+Rachelle Glazier, General Manager

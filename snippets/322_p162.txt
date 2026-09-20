@@ -1,0 +1,103 @@
+# source: raw/bleecker_drive/Hillsborough County/Completed Contract File.pdf
+# path: raw/bleecker_drive/Hillsborough County/Completed Contract File.pdf
+# hit page: 162 of 199
+# terms: Via Transportation
+
+=== page 161 ===
+Vehicles Table 
+●
+Vehicle ID
+●
+Active Status
+●
+Visual ID
+●
+Short Visual Identifier
+●
+Maker
+●
+Color
+●
+Vehicle Capacity
+●
+Max Capacity
+●
+Wheelchair Capacity
+NTD S-10 Report 
+Available upon 
+request for required 
+reporting to the 
+FTA. (United States 
+only) 
+●
+Service Date
+●
+Day of the Week
+●
+Vehicles Operated in Maximum Service (VOMS)
+●
+Actual Vehicle Hours
+●
+Actual Vehicle Miles
+●
+Vehicle Revenue Hours
+●
+Vehicle Revenue Miles
+●
+Unlinked Passenger Trips
+●
+Passenger Miles Traveled
+Proprietary, Confidential, and Trade Secret Information
+=== page 162 ===
+Appendix 2 to the Service Order 
+Sample Invoice
+CONFIDENTIAL 
+[VIA ENTITY NAME] 
+Via Transportation, Inc. 
+10 Crosby Street, Floor 2 
+New York NY 10013 United States 
+Bill To 
+[Partner] [Address] 
+Invoice 
+Date 
+Invoice # 
+Terms 
+Net 15 
+Due Date 
+PO # 
+Billing Period 
+Description 
+Rate 
+Quantity 
+Amount 
+[Description of the Fee: Vehicle Fees, Ride Fees and/or Total Vehicle Hours] 
+Tax Code Summary 
+Please make checks payable to: 
+[__] 
+P.O. Box 7410493  
+Chicago, IL 60674-0493 
+Wire Instructions: 
+Bank of America, N.A. 
+222 Broadway,  
+New York, NY 10038  
+Wire Routing # - 026009593 
+ACH Routing # - 021000322 
+Account # - 483065995955 
+Swift Code - BOFAUS3N 
+Total 
+Proprietary, Confidential, and Trade Secret Information
+=== page 163 ===
+A.3 Required Forms
+The following or separately attached are our completed and signed forms required by the RFP,
+including:
+●
+Vendor Security Outsourcing Questionnaire
+●
+Affirmations ՄQ՞39ISՅ
+●
+General Requirements ՄQ՞57ELՅ
+●
+Paratransit Scheduling Software System ՄBT՞37NVՅ
+●
+The above-named Proposer affirms and declares ՄQ՞01MTՅ
+RFP‐23‐24177 | 60

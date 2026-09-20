@@ -1,0 +1,64 @@
+# source: https://metro.legistar1.com/metro/attachments/9f76ef1b-961e-48fa-b2d1-e25b9b31e6bd.pdf
+# path: raw/cache/eec0526a1f7e29d0f38db83374997a6ffd3e379c.pdf
+# hit page: 4 of 6
+# terms: Spare Labs
+
+=== page 3 ===
+ISSUE
+Metro Micro Software Services Contract No. PS124278(2)000 was 
+awarded to Spare Labs, Inc. in the amount of $0.01 to configure and 
+customize an on-demand micro transit software platform supporting 
+Metro Micro operations with limited contract modification authority.  As 
+Metro continues to refine and improve the Metro Micro service model, 
+additional software configuration is required for deviated fixed routing 
+that will also support the World Cup Games Enhanced Transit 
+Services (WCGETS).
+Modification No. 2 seeks to enhance Metro Micro’s software to 1) 
+support predefined fixed routes, enabling a blended model of on-
+demand and fixed routing, 2) allow for integrated text and voice 
+communication, and for 3) a three-month software subscription for the 
+WCGETS fleet.  
+ISSUE AND DISCUSSION
+3
+=== page 4 ===
+•
+Metro Micro is an on-demand, shared ride transit service that 
+utilizes a mobile application for drivers and customers to provide 
+flexible point-to-point transportation based on customer demand.
+•
+The software Contract No. PS124278(2)000 was awarded to Spare 
+Labs, Inc. to provide a driver application, rider application, 
+operations dashboard, and KPI and reporting functions to support 
+Metro Micro operations. 
+•
+The Scope authorizes other types of additional work based on 
+emerging needs on a permanent or temporary basis, which may 
+require enhancements to the software platform.
+BACKGROUND
+4
+=== page 5 ===
+•
+The current Metro Micro software contract provides the following functions to 
+support  dynamic routing and scheduling:  
+1.
+Driver / Vehicle assignment management, dynamically adjusted in real time
+2.
+Turn-by-turn driver navigation based on dynamic routing
+3.
+Text communication between dispatch and drivers
+4.
+A dispatch control center to monitor and manage overall operations
+5.
+Performance dashboards to track KPIs and operational statistics
+•
+This contract modification enhances the operating model by adding predefined fixed 
+routes, enabling a blended on-demand and fixed-route service to better address recurring 
+high-demand periods, such as school start and dismissal times.
+•
+The Metro Micro software, with the predefined fixed route enhancement, provides the 
+necessary requirements for the WCGETS operations.
+•
+This modification also incorporates integrates voice communication; and expands the 
+software subscription to include the WCGETS fleet of 330 vehicles.
+DISCUSSION
+5

@@ -1,0 +1,99 @@
+# source: raw/bleecker_drive/Lee County/RFP250034SML Via Mobility Executed.pdf
+# path: raw/bleecker_drive/Lee County/RFP250034SML Via Mobility Executed.pdf
+# hit page: 1 of 171
+# terms: Via Mobility
+
+=== page 1 ===
+RFP250034SML 
+E1 Contract #  n/a 
+LeeTran Paratransit Software Management System 
+Via Mobility, LLC 
+AGREEMENT FOR LEETRAN PARATRANSIT SOFTWARE MANAGEMENT 
+SYSTEM 
+THIS AGREEMENT (“Agreement”) is made and entered into by and between Lee 
+County, a political subdivision of the State of Florida, hereinafter referred to as the 
+"County" and Via Mobility, LLC, a Delaware company authorized to do business in the 
+State of Florida, whose address is 114 5th Avenue, Floor 17, New York, NY 10011, and 
+whose federal tax identification number is 30-1031498, hereinafter referred to as 
+“Vendor." 
+WITNESSETH 
+WHEREAS, the County intends to purchase Paratransit Software Scheduling Services 
+from the Vendor in connection with “LeeTran Paratransit Software Management 
+System” (the “Purchase”); and, 
+WHEREAS, the County issued Solicitation No. RFP250034SML on February 4, 2025 
+(the “Solicitation”); and, 
+WHEREAS, the County evaluated the responses received and found the Vendor 
+qualified to provide the necessary products and services; and, 
+WHEREAS, the County posted a Notice of Intended Decision on May 6, 2025; and, 
+WHEREAS, the Vendor has reviewed the products and services to be supplied 
+pursuant to this Agreement and is qualified, willing and able to provide all such 
+products and services in accordance with its terms. 
+NOW, THEREFORE, the County and the Vendor, in consideration of the mutual 
+covenants contained herein, do agree as follows: 
+I.
+PRODUCTS AND SERVICES
+The Vendor agrees to diligently provide all products and services for the
+Purchase as stated in Exhibit A. Additionally, Vendor shall provide such services
+in compliance with all Federal terms, conditions, provisions, certifications,
+affidavits, and alike, as set forth in the Exhibit E, Project Funding Package,
+attached hereto and incorporated herein, which shall be inclusive of the original
+Solicitation with Vendor’s executed proposal documents, grant funding
+provision, and addenda. Unless otherwise provided in this Agreement, Vendor
+shall comply strictly with all of the terms and conditions of Solicitation No.
+RFP250034SML, as modified by its addenda, copies of which are on file with
+the County’s Department of Procurement Management and are deemed
+incorporated into this Agreement.
+II.
+TERM AND DELIVERY
+A. This Agreement shall commence immediately upon the effective date and
+shall continue for one (1) year with two (2) one (1) year renewal options
+Page 1 of 36 
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7
+=== page 2 ===
+Solicitation No. RFP250034SML 
+Page 2 of 36 
+based on the mutual written agreement of both parties. The increments of 
+renewal shall be at the sole discretion of the County as deemed in its best 
+interests. The effective date shall be the date the Lee County Board of 
+County Commissioners awarded the Solicitation to the Vendor. 
+B. A purchase order must be issued by the County before commencement of
+any work or purchase of any goods related to this Agreement.
+III.
+COMPENSATION AND PAYMENT
+A. The County shall pay the Vendor in accordance with the terms and
+conditions of this Agreement for providing all products and services as set
+forth in Exhibit A, and further described in Exhibit B, Fee Schedule, attached
+hereto and incorporated herein. Said total amount to be all inclusive of costs
+necessary to provide all products and services as outlined in this
+Agreement, and as supported by the Vendor’s submittal in response to the
+Solicitation, a copy of which is on file with the County’s Department of
+Procurement Management and is deemed incorporated into this Agreement.
+B. Notwithstanding the preceding, Vendor shall not make any deliveries or
+perform any services under this Agreement until receipt of written
+authorization from the County. Except as otherwise provided herein,
+Vendor acknowledges and agrees that no minimum order or amount of
+product or service is guaranteed under this Agreement and County may
+elect to request no products or services. If the County authorizes delivery
+of products or performance of services, the County reserves the right to
+amend, reduce, or cancel the authorization in accordance with the terms of
+this Agreement.
+C. All funds for payment by the County under this Agreement are subject to
+the availability of an annual appropriation for this purpose by the County.
+In the event of non-appropriation of funds by the County for the services
+provided under this Agreement, the County will terminate the contract,
+without termination charge or other liability, on the last day of the then
+current fiscal year or when the appropriation made for the then-current
+year for the services covered by this Agreement is spent, whichever event
+occurs first. If at any time funds are not appropriated for the continuance
+of this Agreement, cancellation shall be accepted by the Vendor on thirty
+(30) days’ prior written notice, but failure to give such notice shall be of no
+effect and the County shall not be obligated under this Agreement beyond
+the date of termination.
+IV.
+METHOD OF PAYMENT
+A. The County shall pay the Vendor in accordance with the Local Government
+Prompt Payment Act, Section 218.70, Florida Statutes, upon receipt of the
+Vendor’s invoice and written approval of same by the County indicating that
+the products and services have been provided in conformity with this
+Agreement.
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7

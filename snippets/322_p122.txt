@@ -1,0 +1,107 @@
+# source: raw/bleecker_drive/Hillsborough County/Completed Contract File.pdf
+# path: raw/bleecker_drive/Hillsborough County/Completed Contract File.pdf
+# hit page: 122 of 199
+# terms: Via+drivers
+
+=== page 121 ===
+3.2 Configuration of System
+Via’s system is fully capable of configuring multiple service types, including pre-booked,
+standing orders, and on-demand, on the same platform while accounting for Transportation
+Disadvantaged and other relevant obligations, such as wait times for pick-up and drop-off
+windows.
+3.2.1 Via’s Advance Algorithm
+Our proprietary routing, aggregation, and demand
+prediction algorithms (also called “ViaAlgo”) are the
+foundation of our platform. ViaAlgo uses predictive logic
+to make routing decisions based on historic and
+real-time traffic speeds and demand data. With machine
+learning and artificial intelligence, our algorithms
+become smarter over time, continuously optimizing
+pickups, drop-offs, and routing while dynamically
+updating riders, drivers, and administrators with
+real-time information.
+When a passenger requests a ride, the algorithm examines the request in relation to other riders
+traveling to the same general location. It then uses data leveraged from over 100 million trips to
+select the best single vehicle and virtual pickup spot and generate the most efficient route to
+transport the rider to their destination. The algorithms will dynamically update routes in response
+to real-time data related to changing traffic conditions. In deployments where customers have
+integrated our software with the existing public transport network, we can also provide routes to
+the rider that span multiple modes of transport (e.g., existing fixed route buses, metro services,
+and on-demand transport). The algorithms are configurable and can be adjusted on a per
+deployment and per service type level to accommodate a diverse and nuanced set of demands.
+3.2.2 Same Day Rolling Optimization
+The Via System supports both manual, user-initiated dynamic routing, and automated
+re-optimization/rolling optimization. ViaAlgo is responsible for monitoring all service activities while
+scanning for opportunities to improve schedules due to last-minute interruptions. While this is fully
+automated, our platform also provides the following heuristics (tools) for dispatchers to override
+the algorithm to make adjustments to fix scheduling issues that may arise.
+●
+On-time Performance ՄOTPՅ Heuristic: Identifies Early or Late trips and trips adjacent to
+early or late trips
+●
+Cancellation Heuristic: Looks for impacted trips due to cancellations, no shows, or
+reassignments from other shifts
+●
+Random Heuristic: Samples random rides for improvement and reassignment
+Proprietary, Confidential, and Trade Secret Information
+RFP‐23‐24177 | 18
+=== page 122 ===
+●
+End Shift Lateness Heuristic: Identifies rides that exceed or are planned within the last
+hour before shift end
+●
+Rides at Risk Heuristic: Finds rides that are not late but are prone to be late based on
+delay prediction tool
+●
+Long Empty Driver Heuristic: Finds long empty driver times to pickups (i.e. more than X
+minutes) or rides that are preceded by long empty drives
+●
+Long Duration Detour Heuristic: Identifies rides with long duration detour (i.e. onboard
+time), reassigns rides that can be moved to decrease detour times while not impacting
+other quality of service metrics
+●
+Long Distance Detour Heuristic: Finds rides with long distance detour (i.e. onboard
+distance), reassigns rides that can be moved to decrease detour distance while not
+impacting other quality of service metrics
+3.2.3 Integrated Overflow Capabilities for Taxis and Other Providers
+Our platform is also capable of utilizing additional vehicle supply to minimize trip rejections by
+leveraging our trip brokering specialized functionalities. We understand that the County dispatches
+a limited number of rides to a local taxi company. Via can provide overflow dispatch capabilities for
+any local taxi companies that the County chooses to partner with to help streamline overflow
+dispatching and we would be happy to work with the County to evaluate whether a TNC overflow
+partnership would be helpful to the service.
+Illustratively, across North America we manage integrations with several paratransit customers,
+including in Alexandria, Virginia; Hampton Roads, Virginia; and St. John’s, Canada. In Hampton
+Roads, we launched a trip brokering service to send overflow trips to independent contractor
+drivers, which now provide more than 20% of total trips and have helped to enable a 15% drop in
+per-ride costs.
+Via also has a partnership with Uber through which we provide
+software integration into an Uber API, which allows for overflow rides
+to be dispatched to the platform’s drivers. We would be happy to
+discuss this solution further if it is of interest to the County.
+Proprietary, Confidential, and Trade Secret Information
+RFP‐23‐24177 | 19
+=== page 123 ===
+3.3 Dispatching and Operations Management
+The Via Operations Center ՄVOCՅ is the central application designed to manage every aspect of an
+operator's daily workflow. The console features a set of sophisticated automations designed to
+minimize the amount of manual intervention necessary by dispatchers, while still preserving the
+flexibility they need to do their job. The VOC provides customers with best-in-class solutions for:
+3.3.1 Trip Scheduling and Real-time Performance Management
+The Via Hub and Ride Plan provides Hillsborough County staff a map-based interface to monitor
+and control their deployment in real-time. This interface displays real-time vehicle location, vehicle
+load, schedule adherence, driver status, and vehicle status. Notifications alert dispatchers to
+pending issues giving them the option to let the software automatically resolve the issue or to
+manually intervene.
+Our software leverages real-time speed and location data to continuously optimize for on-time
+performance. If the software recognizes that a vehicle is running late to a pickup, and there is
+another vehicle available to reach the pickup quicker, it will automatically reassign the trip and
+notify the riders and drivers.
+If the dispatcher wants to make a manual intervention, the tool provides a simple interface to
+communicate with riders and vehicle operators, access more information about a rider or trip, and
+adjust trip parameters as necessary. As an alternative to preset response options between the
+dispatcher and vehicle operator, the VOC also offers flexible and custom communication features
+that enables all necessary conversation while ensuring the safety of the vehicle’s operator while in
+motion.
+Proprietary, Confidential, and Trade Secret Information
+RFP‐23‐24177 | 20

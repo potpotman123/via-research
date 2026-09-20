@@ -1,0 +1,102 @@
+# source: raw/bleecker_drive/Hillsborough County/Completed Contract File.pdf
+# path: raw/bleecker_drive/Hillsborough County/Completed Contract File.pdf
+# hit page: 130 of 199
+# terms: Via+fleet
+
+=== page 129 ===
+1.
+Riders can type actual addresses into the map search bar at the
+top of the app screen and select from the search results.
+2.
+Riders can scroll across the map, zoom in on particular
+locations, and drop a pin.
+3.
+Riders can choose from a dynamically updated “Recents” list
+containing recently-used locations and saved, customizable
+“Favorites” that appear below the search bar.
+4.
+Riders can tap on a Point of Interest ՄPOIՅ on the map, such as a
+transit hub, hospital, grocery store, library, or other location, or
+bring up a list of POIs to select from.
+Paratransit riders will also have the option to indicate other specifics
+prior to booking, such as the need for a wheelchair accessible vehicle ՄWAVՅ, boarding assistance,
+or a bike rack. Our algorithm will take into account these requests to send a properly equipped
+vehicle.
+C. Pre-Booked Trip Proposal
+To pre-book a trip, riders input their requested trip date, and whether they would like to be picked
+up or dropped off by their requested time. If the rider wishes to book a standing order trip — for
+example, every weekday, every Tuesday and Thursday, etc. — they can easily do so with the
+“Recurring Ride” toggle. After inputting their preferences, the rider receives a trip proposal and can
+tap the “book ride” button to confirm. This flow is shown below. In addition, our system enables
+dispatchers to assign standing order/subscription trips to a regular designated route or vehicle.
+RFP‐23‐24177 | 26
+=== page 130 ===
+D. On-Demand Trip Proposal
+Once a rider completes a trip request, the Via algorithm performs
+thousands of calculations to match the request with available seats
+across the fleet, assigning the rider to a vehicle for a convenient
+personal trip that also optimizes for efficiency across the entire service.
+The rider may receive multiple trip proposals, each containing the
+following:
+1.
+The vehicle’s estimated time of arrival ՄETAՅ at the pickup
+location
+2.
+The pickup and drop-off addresses
+3.
+The trip fare (if applicable)
+4.
+The estimated drop-off time
+Once presented with potential rides, the customer will select an option
+and tap the “Book A Seat” button to confirm their ride.
+3.4.2 Full Network Connectivity and Requests for Bus Passes
+To best integrate the County’s Sunshine Line with HART’s fixed route system, we offer the County
+our integrated transit capabilities, including multimodal trip planning, as well as a configured
+operational integration for their bus pass distribution system.
+The Rider App searches for
+connections and offers an
+intermodal proposal.
+The rider can choose to book
+the intermodal proposal.
+The app then displays real-time
+trip information.
+RFP‐23‐24177 | 27
+=== page 131 ===
+Our platform can offer users multimodal trip planning through integrations with static or live GTFS
+feeds, overlays real-time bus schedules and routes, and provides customers with multimodal and
+multi-leg trip proposals (as shown below). We will work with the County to incorporate and
+maintain HART’s GTFS files in order to enable features that encourage riders to take fixed route
+services whenever possible.
+We also offer the County a custom operational and technical solution to support their bus pass
+distribution system using built-in features within the VOC. Whenever a dispatcher receives a
+request for a fixed route bus pass, they can easily record the request within a designated custom
+field within the specific Rider Profile for the requester. This will include entries for funding source,
+service type, and fare type. This solution will consolidate passes into the same system as all other
+paratransit trips, which will enable the County to track and analyze this data through our reporting
+suite and Direct Data Access ՄDDAՅ.
+3.4.4 User Communication
+Riders are able to provide real-time and post-trip feedback. A rider
+who requires immediate support can simply reply to the SMS message
+received when the vehicle is two minutes away, or the message
+received when the vehicle reaches the pickup point. The rider’s
+message immediately appears in the Via Operations Center’s live view,
+giving dispatchers the opportunity to resolve any issues using a set of
+configurable, pre-written responses or custom messages. Phone
+support is also available.
+After a trip, riders can reply to the same SMS messages or they can
+email service administrators. Additionally, after every trip, riders can
+assign a rating to their experience and choose from a menu of
+configurable, pre-selected descriptions correlated to the star rating
+(or manually input additional detail).
+Precise feedback will provide insight into rider preferences, not only enabling dispatchers to
+respond to particular issues, but also suggesting how the service model itself could be improved.
+Additionally, custom rider surveys can be deployed to understand specific and recurring rider
+concerns and gather qualitative data.
+3.5 Driver Interface and Information
+Our driver application has been developed to make drivers’ jobs safer and easier. The app provides
+a single interface that tracks vehicles using GPS (in lieu of an external Automatic Vehicle Location
+system) and provides drivers access to information they need before, during, and after their shifts.
+This includes turn-by-turn navigation, a dynamically updated rider manifest, automated
+notifications, and “one click” task acknowledgements. If a rider is added to a vehicle’s trip, the
+Proprietary, Confidential, and Trade Secret Information
+RFP‐23‐24177 | 28

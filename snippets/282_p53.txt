@@ -1,0 +1,138 @@
+# source: raw/bleecker_drive/Arlington, Texas/Via_Contract_FINAL_Redacted.pdf
+# path: raw/bleecker_drive/Arlington, Texas/Via_Contract_FINAL_Redacted.pdf
+# hit page: 53 of 68
+# terms: Via+not to exceed, Via+not-to-exceed, Via+turnkey, Via+vehicles
+
+=== page 52 ===
+(52) 
+CITY OF ARLINGTON, TEXAS 
+ 
+ 
+ 
+By: 
+ 
+ 
+ 
+ 
+ 
+ 
+Jennifer Wichmann 
+Deputy City Manager 
+ATTEST: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ALEX BUSKIN 
+City Secretary 
+ 
+APPROVED AS TO FORM: 
+MOLLY SHORTALL, City Attorney 
+ 
+ 
+ 
+By: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+THE STATE OF TEXAS 
+§ 
+CITY OF ARLINGTON, TEXAS 
+ 
+§ 
+Acknowledgment 
+COUNTY OF TARRANT 
+§ 
+ 
+ 
+BEFORE ME, the undersigned authority, a Notary Public in and for the State of 
+Texas, on this day personally appeared JENNIFER WICHMANN, known to me to be the 
+person whose name is subscribed to the foregoing instrument, and acknowledged to me 
+that he/she executed same for and as the act and deed of the CITY OF ARLINGTON, a 
+municipal corporation of Tarrant County, Texas, and as a Deputy City Manager thereof, 
+and for the purposes and consideration therein expressed, and in the capacity therein 
+expressed. 
+ 
+GIVEN UNDER MY HAND AND SEAL OF OFFICE on this the _______ day of 
+_____________________, 2022. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+____________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+Notary Public in and for  
+ 
+ 
+ 
+ 
+ 
+ 
+The State of Texas 
+ 
+_________________________ 
+ 
+____________________________________ 
+My Commission Expires 
+ 
+ 
+Notary’s Printed Name
+=== page 53 ===
+EXHIBIT A 
+ 
+ON-DEMAND RIDESHARE SERVICE SCOPE OF SERVICES 
+ 
+ 
+1. Purpose; Scope 
+ 
+Contractor will provide on-demand rideshare services as described below (the “Service”) for the 
+City and its residents and visitors. Contractor’s Services include: 
+ 
+● Access to Via’s fully localized dynamic vehicle routing and real-time passenger 
+aggregation system; 
+● Establishing relationship with vehicle rental company (“Vehicle Partner”) to provide 
+access to Vehicles on a rental basis to independent contractor driver partners; 
+● Accompanying technical and operational support services in order to provide a turnkey 
+solution; 
+● Data sharing and reporting as described under Section 9 below;  
+● Access to the Via mobile application for users to book rides from a smartphone;  
+● Integration of the Arlington Student Transportation Program as described under Section 
+10 below;  
+● Integration of the Arlington RAPID service as described under Section 11 below; and 
+● Advertising services as described under Section 12. 
+  
+2. Duration 
+ 
+The Service will begin on December 11, 2022, unless otherwise mutually agreed by both parties. 
+The Service shall operate until December 31, 2024, with the option of four 2-year renewals, 
+subject to earlier termination in accordance with the Contract. 
+ 
+3. Fees 
+ 
+A. Contractor Fees 
+ 
+The City agrees to pay Contractor the amounts below, not to exceed Thirty Million Two 
+Hundred Forty Seven Thousand Six Hundred Forty Two Dollars ($30,247,642) in the aggregate 
+for the term of this Contract.  
+ 
+This fee shall be on a cost per on-demand service hour basis, corresponding with the tasks 
+outlined in the contractor’s response to the RFP, as outlined below:
+=== page 54 ===

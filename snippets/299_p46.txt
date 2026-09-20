@@ -1,0 +1,80 @@
+# source: raw/bleecker_drive/0.0 OMNIA Cooperative Agreement/25-08_Via_Transportation_Response_Combined_2025_05_01_Redacted__1___1_.pdf
+# path: raw/bleecker_drive/0.0 OMNIA Cooperative Agreement/25-08_Via_Transportation_Response_Combined_2025_05_01_Redacted__1___1_.pdf
+# hit page: 46 of 191
+# terms: Via+fleet, Via+turnkey
+
+=== page 45 ===
+Operations Management 
+Via’s Operations team can oversee all or a portion of 
+operational aspects of fixed routes, paratransit, and 
+microtransit depending on the needs of participating 
+members. This includes driver recruitment and 
+training, fleet acquisition and maintenance, and 
+facility procurement and maintenance. A dedicated 
+local team will be on the ground to manage 
+day-to-day operations. 
+Software Infrastructure 
+With Via’s turnkey solutio, technology and 
+operations will work in tandem to maximize efficiency for participating members. Our 
+software design is informed by our experience as operators, and our operations are 
+designed around our software. Via will configure our software suite according to the 
+participating member’s unique parameters and deliver the following tools: 
+●
+A fully-accessible, white labeled Rider App that will create a seamless booking
+experience across fixed-route, microtransit, and/or paratransit services.
+●
+The Via Operations Center (VOC), which allows the local operations team to
+manage the service highly efficiently and in real-time.
+●
+An easy-to-use Driver App that ensures drivers have all the information they need
+to deliver a safe and outstanding customer experience.
+Integrated Transit 
+Via’s software also supports seamless integration across the entire public transit network. 
+Via’s Integrated Transit features offer riders choices between available transit modes and 
+can, based on the participating member’s preference, strategically direct passengers to 
+the most efficient and cost-effective mode of travel for the journey. 
+Marketing and Community Engagement 
+Via’s in-house Marketing team can work with participating members to design bespoke 
+and multi-channel brand and marketing programs to generate excitement and awareness 
+for the member’s services. Via has extensive expertise on how to drive rider engagement, 
+design and launch customer surveys, manage public relations, and develop creative 
+assets unique to our partner’s preferred branding. A dedicated Community Engagement 
+    RFP No. 25-08  |  10
+=== page 46 ===
+practice is available to foster strong partnerships with community organizations and drive 
+ridership to the entire network, particularly for those riders who have higher barriers to 
+entry. 
+Customer Support 
+Participating members will receive holistic support from a dedicated Partner Success 
+Manager, as well as 24/7 technical support. 
+Long-Term Fleet Planning 
+Through our network of vehicle leasing partners, we can support participating members 
+in flexibly and rapidly growing their fleets as the need arrives. Furthermore, we are 
+experienced in the process of fleet electrification and have the technology and 
+infrastructure in place to manage this transition. 
+Funding Support 
+We can leverage our extensive experience working with partners around the world to 
+identify and secure additional grant funding for participating members. We can also work 
+with members to design and implement revenue-generating advertising solutions tailored 
+to their unique goals. 
+FTA and NTD Reporting 
+The VOC provides easy-to-access analytics that streamline NTD and FTA reporting 
+requirements where applicable for participating members. 
+    RFP No. 25-08  |  11 
+In June 2021, Via conducted a full transit network redesign study 
+for Summit County, Utah as part of the launch of a new transit 
+agency, High Valley Transit (HVT). Our team recommended a 
+mixed service design plan including 6 high volume fixed routes 
+and a new microtransit service commingled with the agency’s 
+paratransit services.  
+In addition to supporting the new agency’s planning process, Via 
+now provides HVT with a fully turnkey service: the technology, 
+operations, and management services to run all aspects of the 
+HVT network. Since partnering with Via, HVT has improved 
+utilization by 60% through the efficient commingling of 
+microtransit and paratransit services.
+=== page 47 ===
+Microtransit, Paratransit, and Non-Emergency Medical 
+Transportation Software 
+Proprietary, Confidential, and Trade Secret Information​
+    RFP No. 25-08  |  12

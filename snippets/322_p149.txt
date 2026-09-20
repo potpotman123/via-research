@@ -1,0 +1,148 @@
+# source: raw/bleecker_drive/Hillsborough County/Completed Contract File.pdf
+# path: raw/bleecker_drive/Hillsborough County/Completed Contract File.pdf
+# hit page: 149 of 199
+# terms: Via+drivers
+
+=== page 148 ===
+●
+Usage Information: past routes, app activity, device details, etc. This is aggregated,
+de-personalized and used for research and optimization purposes.
+Further, we also collect information, such as anonymous usage statistics, by using cookies, server
+logs, and other similar technologies.
+Data Protection
+Via uses appropriate encryption technologies to protect data stored on our corporate and
+production servers, as well as sensitive client information in our databases. Via also encrypts all
+data transmissions containing sensitive data.
+Encryption Logs
+The Via Rider App captures and caches minimal data to authenticate a logged-in user, in order to
+save the user to log-in every single time the app is opened to streamline the service. In addition,
+the Rider App saves logs in order to better help research issues. Personal payment data or keys
+are never written to log unencrypted. All the app data is saved, encrypted, and protected with the
+best and latest industry standards.
+Encryption Protocols
+The following minimum encryption protocols will be implemented when creating, or storing or
+transmitting sensitive data:
+●
+Via uses 256-bit SSL when transmitting sensitive data over the internet.
+●
+Wireless network transmissions will be encrypted.
+●
+Audit logs that contain sensitive data will be sanitized or removed from the logs.
+●
+Encryption in motion: Communication is always encrypted (using HTTPSՅ, and self-signed
+certificates are not allowed.
+●
+Encryption Keys management: The Via system uses AWS Key Management Service ՄKMSՅ
+as the main KMS. AWS KMS is a secure and resilient service that uses FIPS 140՞2 validated
+hardware security modules to protect our keys. AWS KMS is integrated with AWS
+CloudTrail to provide audit logs of all key usage.
+●
+Endpoint encryption: All endpoints that connect to Via’s network are disk-encrypted using
+industry-standard encryption. Personal client information is never stored on the client-side
+device.
+●
+Via also uses this list of security tools:
+○
+IPS using WIZ + GuardDuty
+○
+WAF using Reblaze
+○
+Open Source scanning using Snyk
+○
+VPN using Proofpoint ZTNA
+○
+Cloud security and compliance using Wiz
+Third-Party Data Sharing
+Via will, over the course of a service, share data for operational and optimization purposes. Via
+does not sell user data under any circumstances.
+Proprietary, Confidential, and Trade Secret Information
+RFP‐23‐24177 | 45
+=== page 149 ===
+Often, this data sharing is to ensure the smooth operation of our service. For example, we share
+information with our riders or drivers (such as rider geolocation data or name) to facilitate pickups
+and drop-offs, and may share information in the context of a driver partner referral. Via will, as
+necessary, share information with insurance companies, government agencies, and law
+enforcement, or to comply with legal obligations.
+Third-Party Agreements
+To facilitate the provision of our services, Via shares data with third-party contractors based on a
+strict business need-to-know basis. When transferring user information to a third party, we ensure
+that the third party collects, processes, and discloses personal information only for limited and
+specified purposes. This includes, for example, information shared in order to process card
+payments, perform data analyses, or send or receive automated SMS text messages.
+Via does not rent, sell, or share user information with other people or non-affiliated companies for
+their direct marketing purposes unless we have explicit user permission.
+Before sharing any user information with third parties, Via will perform due diligence to assess
+information security risks arising from the engagement, and establish an agreement that includes:
+●
+A list of all data the provider may process, its purpose, and where it will be stored
+●
+A commitment from the third party to protect the confidentiality of all information
+●
+A requirement for the third party to develop an annual report on their implementation of
+necessary privacy regulations
+●
+A requirement for the third party to notify Via in case of a security incident
+●
+A process for how, at the conclusion of the agreement, the third party will return and/or
+destroy the data in their possession and report this to the database controller
+Data Lifecycle Management / Retention
+New data is submitted into the system through our user-facing applications — the Rider and Driver
+Apps. Once received, the data is encrypted and stored inside the AWS infrastructure, and analyzed
+and processed by the appropriate Via teams.
+Via’s data is archived by means of Amazon Web Services ՄAWSՅ S3 backups. All data is eventually
+expired and removed according to the Data Retention Policy. During the data retention period, our
+partners can access and restore any archived information in real time and without the need to shut
+down the database. The stored data will be time and date stamped, and contain all the information
+our partners need for selective sorting and retrieval.
+After the retention period expires, Via can provide the County all ridership data for their
+organizational use and data is completely deleted from Via’s cloud database and any associated
+backups. For security purposes, some data is anonymized with no traceback possibility and is
+stored in the database.
+Proprietary, Confidential, and Trade Secret Information
+RFP‐23‐24177 | 46
+=== page 150 ===
+4. Cost
+While Via offers Hillsborough County the most advanced paratransit scheduling software system
+and robust partner support services, we also acutely understand the financial consideration that
+the County must take when choosing software providers and are fully committed to providing the
+best value for money to the County. As such, we are offering a discounted proposal within the
+County’s Year 1 budget at a total price of $247,200. Our Software-as-a-Service solution includes
+two fee categories:
+●
+One-Time Fees:
+○
+Installation Fee: This one-time fee covers all technical tasks and start-up activities
+required to launch a successful paratransit scheduling software system, including
+training, technology configuration, testing, and quality assurance ՄQAՅ. Note that
+Via has included a web booking portal and Direct Data Access ՄDDAՅ in the base
+installation fee at no additional cost to the County. Pricing for GTFS integration is
+included in Via’s offer, and pricing for SSO integration can be provided upon
+request.
+○
+Mobile Data Computer ՄMDCՅ Fee: This one-time fee covers the entire MDC
+package for Year 1, including purchase of Samsung tablets, RAM mounts, power
+cords, rugged cases, shipping, and installation costs, as well as twelve months of
+data plans for the 68-vehicle fleet. Please note that we have priced two options for
+MDCs: one for 8” tablets, which are more cost effective and can also be suitable for
+this use case based on our prior experience, and another with ֜10” tablets as
+requested by the RFP.
+●
+Recurring Fees:
+○
+Monthly Per Vehicle Fees: After launch, our solution is priced as an all-inclusive
+monthly per-active vehicle fee, granting ongoing access to Via’s cloud-based
+software. This means that the County will only be charged for active vehicles
+during service hours, and not for every vehicle in their fleet. The fee also covers
+our reporting suite, Amazon Web Services cloud hosting, marketing support,
+technical support, and continuous software upgrades.
+○
+Ongoing MDC Fee ՄYears 2֡ Only): After the purchase of MDCs has been
+completed in Year 1, a $31,500 annual cost would apply in subsequent years to
+cover data plans and ongoing support & standard replacement needs for 68
+devices.
+Below is a summary of our cost proposal for 40 active vehicles. Please note that our pricing is
+based on the County’s 40 active vehicles (per Addendum 1Յ and that the County will only be
+charged for the maximum number of distinct active vehicles used concurrently during the course
+of a month:
+Proprietary, Confidential, and Trade Secret Information
+RFP‐23‐24177 | 47

@@ -1,0 +1,147 @@
+# source: https://baldwincountyal.legistar1.com/baldwincountyal/attachments/c546bf76-e248-4290-b9ab-90205959df7f.pdf
+# path: raw/cache/1fd3b22af3bb5741e9f713620d3a88d681264209.pdf
+# hit page: 2 of 41
+# terms: Via Mobility, Via+vehicles
+
+=== page 1 ===
+Via Mobility, LLC. 
+ATTN: Zachary Wasserman 
+IO Crosby Street, Floor 2 
+New York, NY 10013 
+COUNTY COMMISSION 
+BAL DW IN COUNTY 
+312 Cou rthouse Square , Su ite 1 2 
+BAY M IN ETTE, A LABAMA 36507 
+(251) 937-0264 
+Fax (251) 580-2500 
+www.b aldwincountyal .gov 
+September 21 , 2021 
+MEMBERS 
+DISTRICT 1. JAMES E. BALL 
+2. JOE DAVIS, Ill 
+3. BILLIE JO UNDERWOOD 
+4. CHARLES F. GRUBER 
+RE: 
+Extension and Amendment of Contract for Professional Services with Via Mobility, 
+LLC for Provision oflnnovative Software Services for BRATS 
+Dear Mr. Wassennan: 
+The Baldwin County Commission, during its regularly scheduled meeting held on 
+September 21, 2021, took the following actions: 
+1) Approved an Extension and Amendment of the Contract for Professional Services between the 
+Baldwin County Commission and Via Mobility, LLC originally approved June 16, 2020, for the 
+provision of innovative software services; and 
+2) Authorized me, as Chairman, to execute the Extension and Amendment of the Contract for 
+Professional Services and any other related documents. 
+The term of said Contract shall commence on October 1, 202 l , and shall terminate upon the 
+expiration of twelve (12) months. Amendments to the Contract include the reduction of the monthly fee 
+from $16,500.00 per month to $13,500.00 per month and the addition of the "Via Advertising Solution" 
+at no additional cost. 
+Enclosed is a fully executed original Contract for your files. 
+If you have any questions or need fu11her assistance, please do not hesitate to contact me at 
+(251) 990-4620 or Ann Simpson, Director ofTranspo11ation, at (251) 972-6817. 
+-~ 
+DA VIS, lll, Chairman 
+a dwin County Commission 
+JD/clc Item BDl 
+cc: 
+Asa K ing (via email only - asa.king@ridewithvia.com) 
+Ann Simpson 
+ENCLOSURE(S) 
+(BALDWIN COUNTY IS AN EQUAL OPPORTUNITY EMPLOYER M/F)
+=== page 2 ===
+DocuSign Envelope ID: 81 BD89FD-CD3F-41 BC-85BF-OBA2CE9591 FO 
+EXTENSION AND AMENDMENT OF THE CONTRACT FOR PROFESSIONAL SERVICES 
+J. Purpose; Scope 
+Each of Via Mobility LLC, a Delaware company with its principal office located at 10 Crosby 
+Street, Floor 2, New York, New York 100 I 3 ("Via"), and Baldwin County Commission 
+("Customer"), hereinafter the "Parties," entered into an agreement titled Contract for Professional 
+Services (the "Agreement") and a service order titled Baldwin County Deployment Service Order 
+(the "Original Order"), dated June 18, 2020. By this Extension and Amendment Agreement 
+("Extension") the pa11ies agree towards continued collaboration of operation of the services 
+provided under the Original Order. The Parties fu11her agree to amend the fees paid by Customer 
+to Via for the use of Via' s software, and that Via shall develop and deploy specific capabilities 
+within its software for Customer's benefit. 
+Amendment 
+2. Duration 
+This Extension shall extend the period of performance of the Agreement by a period of twelve 
+months, from October 1, 2021 until September 30, 2022 (inclusive). The Effective Date of this 
+Extension shall be October 1, 2021. 
+3. Fees 
+Sta11ing on October 1, 2021, and continuing through September 30, 2022, Customer shall pay to 
+Via the following Monthly Fees, reflecting a minimum of 25 vehicles at the rates detailed below: 
+Fee Catef!orv 
+Fee Per 
+Charf!es Per Month [nvoicinf! Terms 
+[Yehicle Per 
+Month 
+Monthly Fees (Per Vehicle) for $550 
+$11,000 
+Invoiced monthly by Via 
+vehicles 1-20, inclusive 
+Guaranteed) 
+Monthly Fees (Per Vehicle) for $500 
+$2,500 
+Invoiced monthly by Via 
+vehicles 21-25, inclusive 
+(Guaranteed) 
+Monthly Fees 
+$450 
+as used 
+Invoiced monthly by Via 
+(Per Vehicle) for any additional 
+vehicles above 25 (As used) 
+Total for 12 months 
+$162,000 (minimum, excluding additional vehicles above the 
+125-vehicle monthly minimum, and any additional services) 
+For the avoidance of doubt, (i) the number of vehicles per month for purposes of the above fees 
+shall be the maximum number of distinct vehicles input to service in the Deployment by Customer 
+that use the Via solution on any given day over the course of the applicable calendar month; and 
+(ii) in the event the duration of the Deployment does not exactly match calendar months, monthly 
+fees will be prorated for the first and/or last calendar months of the Deployment, as applicable, so 
+that Customer will only be charged for the po11ion of such months during which the Via solution 
+was available to be used for the Deployment. 
+1
+=== page 3 ===
+DocuSign Envelope ID: B1 BD89FD-CD3F-41 BC-B5BF-OBA2CE9591 FO 
+The above fees do not include any fees owed to the third party payment processor. Via 
+w ill facilitate an introduction to its recommended payment processor and Customer is 
+responsible for entering an agreement with such payment processor in order to be able to process 
+credit card payments. 
+4. Product Enhancements 
+Via commits to make all commercially reasonable effo1ts to deliver the following capabilities 
+within its software platform within the contract year. Via agrees to communicate with Customer 
+on an ongoing basis regarding the timeline for these capabilities, and to collaborate with Customer 
+regarding the prioritization of these capabilities as relevant. 
+• 
+Trip Editing: Edit the total number of passengers on a trip booking after the booking has 
+been made, without cancelling the original booking; 
+• 
+Fixed Routes: Provide recurring trips at fixed times, from predetermined locations, along 
+a fixed route, for students at designated private schools in Baldwin County; and along the 
+"Baylinc" route from eastern Baldwin County to a predetermined point in downtown 
+Mobile, Alabama; 
+• 
+Fixed/Flexible Driver Breaks: Designate driver breaks in the "Via Operations Center 
+(VOC)" as either "fixed" (system cannot change or edit break automatically) or "flexible" 
+(the system may change or edit the time of the break within established parameters so as 
+to make the Deployment function more efficiently). 
+5. Via Advertising Solution 
+During this period of the service, Customer and Via will implement an advertising program. Via 
+will make reasonable commercial efforts to generate revenue by selling advertising to be 
+displayed by various advertising manners, including but not limited to on or in vehicles utilized 
+during the Deployment. All advertising w ill be consistent with the Advertising Policy and 
+Guidelines as amended from time to time, which is attached hereto and made part hereof, in 
+Annex 1. 
+All advertising revenue collected by Via during the preceding calendar month will be credited 
+to Customer on the next invoice against any amounts owed to Via by Customer. Prior to making 
+the credit, Via will take a 15% management fee from the advertising revenue collected. 
+Via will collect revenue on behalf of Customer, from the display of any advertising and media 
+content, at the rates listed below: 
+A. In-vehicle screen: $72 per vehicle per month (net of Via's management fee); 
+B. Partial Vehicle wrap: rate will vary based on campaign length, design choice, seasonality, 
+number of vehicles participating in the campaign. 
+The rates set out above are subject to Customer ensuring that a vehicle averages 30 hours of 
+shift/screen time per month. Should a vehicle run for fewer hours, the rates shall apply pro rata. 
+In the event Customer receives an appeal of any decision not to run a specific advertisement, 
+Customer shall provide prior written notice (e-mail acceptable) to Via of the appeal and of its 
+ultimate decision.

@@ -1,0 +1,321 @@
+# source: https://denver.legistar1.com/denver/attachments/3b08e67e-403b-4049-933d-df19a44d8b1a.pdf
+# path: raw/cache/d9bbf72a447993ffe87373b22633daae189c3305.pdf
+# hit page: 21 of 112
+# terms: Via+vehicles
+
+=== page 20 ===
+EXHIBIT A 
+• 
+The Contractor shall be responsible for all vehicle wrapping consistent with the brand and wraps found 
+on the existing Connector service (image below). 
+                    
+ 
+• 
+With maximizing capacity & grouped rides, reliability, ease of repair & maintenance, top-notch safety 
+features and decarbonization in mind, the Plug-in Hybrid Chrysler Pacifica and Wheelchair-Accessible 
+Ford Transit shall be the initial fleet types for consideration at launch. 
+• 
+The Contractor commits to work in coordination with the City to update its fleet type beyond the hybrid 
+Chrysler Pacifica and Ford Transit Vans to more electrified vehicles. This would require the exchange 
+of existing fleet with newer offerings as they become commercially available and proven in similar 
+Microtransit services within other communities.  This would be accomplished within the existing fleet 
+replacement plan required of the Contractor to meet vehicle age and condition requirements and not 
+increase the overall value of the contract. 
+ 
+Parking & Fueling 
+• 
+The Contractor shall furnish a facility or facilities for Connector vehicles, staff and all associated 
+materials to conduct the operation at all times 
+• 
+The Contractor is solely responsible for providing all fuel and electricity for the Connector fleet at all 
+times 
+Data & Reporting 
+• 
+The contractor shall provide daily reporting on service utilization. 
+• 
+The City and Contractor shall develop and monitor Key Performance Indicators (KPI) for the Connector 
+which the Contractor shall provide periodic reporting at minimum on including: 
+o Total amount of service hours performed; 
+o Number of trips performed and passengers per vehicle carried, each per service hour; 
+o Average response time from trip booking to pickup/trip start; 
+Docusign Envelope ID: C130DEF8-ED45-45DB-8D9F-3099A1D21A35
+=== page 21 ===
+EXHIBIT A 
+o Average trip length in time and miles; and 
+o Shared trips as a percentage to total trips performed 
+• 
+The Contractor shall report high use trip origins and destination and summarize input from the 
+community where trips are desired but not currently served. 
+• 
+The Contractor shall provide the City the actual miles per gallon (mpg) of gasoline that Connector 
+vehicles are using to provide service on a mutually agreed upon interval for the purposes calculating 
+greenhouse gas emissions reduction. 
+• 
+The Contractor shall have the ability to furnish other data and create other reporting, as needed. 
+• 
+The Contractor shall create and maintain a record of customer feedback which can be queried for 
+reporting and analysis. 
+• 
+The Contractor shall furnish an API or commit to provide one to the City in an open data standard 
+format such as MDS or GTFS-FLEX 
+• 
+The Contractor shall provide reporting tools offer NTD data such as OD data, unlinked passenger trips, 
+vehicle revenue hours, and vehicle revenue miles, among other stats. 
+• 
+The Contractor shall furnish a client facing Admin Portal hosted offsite to generate data and reports at 
+any time. 
+o View Key Stats by Date 
+o Filter Rides from any Date 
+o Export Data from Customized Reports 
+• 
+All data specified in the RFP will be made available via within a reporting admin portal that the City 
+will have access to directly, and in monthly reports. 
+Docusign Envelope ID: C130DEF8-ED45-45DB-8D9F-3099A1D21A35
+=== page 22 ===
+EXHIBIT B 
+Fee & Rate Structure 
+ 
+ 
+ 
+Invoicing 
+The Contractor shall invoice the City monthly for variable cost items in the contract and once a quarter, that 
+invoice shall also include prorated fixed costs.  The first invoice shall be fixed costs only and be sent to the 
+City for payment in month zero of the contract. Variable cost items shall be invoiced at the conclusion of 
+the month that those services were rendered.  Variable costs shall be invoiced as the fully loaded driver rate 
+times (x) the number of hours of service provided.  The other variable cost item, fuel, shall be billed to the 
+City at the actual, incurred cost to the Contractor with receipts available to review upon request by the City. 
+Fixed costs are all other cost items required of the Contractor to deliver the scope provided in their proposal 
+to meet the requirements of the City. 
+ 
+Unit PriceUnit QuantityTotal Cost 
+Unit PriceUnit QuantityTotal Cost 
+Unit PriceUnit QuantityTotal Cost 
+Upfront set-up costs  
+Setup costs
+60,465
+   
+1
+                     
+60,465
+            
+5,164
+     
+1
+                     
+5,164
+               
+-
+          
+-
+                 
+-
+                   
+Fixed costs
+Local management payroll
+222,569
+ 
+1
+                     
+222,569
+          
+233,698
+ 
+1
+                     
+233,698
+          
+245,383
+ 
+1
+                     
+245,383
+          
+Vehicle lease
+284,400
+ 
+1
+                     
+284,400
+          
+307,200
+ 
+1
+                     
+307,200
+          
+307,200
+ 
+1
+                     
+307,200
+          
+Vehicle insurance
+75,900
+   
+1
+                     
+75,900
+            
+106,800
+ 
+1
+                     
+106,800
+          
+117,600
+ 
+1
+                     
+117,600
+          
+Vehicle maintenance
+103,940
+ 
+1
+                     
+103,940
+          
+116,640
+ 
+1
+                     
+116,640
+          
+121,428
+ 
+1
+                     
+121,428
+          
+Vehicle storage
+36,000
+   
+1
+                     
+36,000
+            
+37,800
+   
+1
+                     
+37,800
+            
+39,690
+   
+1
+                     
+39,690
+            
+Vehicle devices & rider call-in service
+33,840
+   
+1
+                     
+33,840
+            
+37,044
+   
+1
+                     
+37,044
+            
+38,896
+   
+1
+                     
+38,896
+            
+HR & health insurance
+29,962
+   
+1
+                     
+29,962
+            
+31,683
+   
+1
+                     
+31,683
+            
+33,268
+   
+1
+                     
+33,268
+            
+Management & technology fee
+150,000
+ 
+1
+                     
+150,000
+          
+150,000
+ 
+1
+                     
+150,000
+          
+150,000
+ 
+1
+                     
+150,000
+          
+Variable costs  
+Driver payroll
+28.11
+     
+28,939
+          
+813,475
+          
+29.50
+     
+31,025
+          
+915,238
+          
+30.97
+     
+31,025
+          
+960,844
+          
+Fuel
+2.23
+        
+28,939
+          
+64,534
+            
+2.53
+        
+31,025
+          
+78,493
+            
+2.66
+        
+31,025
+          
+82,527
+            
+1,875,085
+      
+2,019,760
+      
+2,096,836
+      
+3-YEAR BASE CONTRACT PRICING
+Annual Base Price Tota
+Annual Base Price Tota
+Annual Base Price Tota
+Year 1
+Year 2
+Year 3
+3 YEAR BASE PRICING TOTAL:
+5,991,681
+                           
+Docusign Envelope ID: C130DEF8-ED45-45DB-8D9F-3099A1D21A35

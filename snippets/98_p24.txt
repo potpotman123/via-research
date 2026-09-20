@@ -1,0 +1,230 @@
+# source: https://rideuta.legistar1.com/rideuta/attachments/fb76e18e-c5a9-44cf-83fc-a9480b0ccdff.pdf
+# path: raw/cache/3a887d3952ff4ec79eecce8bbfcade0e3456cfec.pdf
+# hit page: 24 of 43
+# terms: Via+SaaS
+
+=== page 23 ===
+Contractor makes a claim of confidentiality under Utah Code Annotated 63G-2-309.  Contract and Exhibits are claimed to 
+be Protected Records under Utah Code Annotated 63G-2-305 subsections (1) and (2). 
+ 
+23 
+ 
+• 
+Contractor to provide detailed specifications on driver app, safety technology (i.e. telematics or cameras), 
+and other relevant driver-facing interfaces. 
+ 
+2.4 Routing 
+• 
+A dynamic routing algorithm able to combine trips that generates pick-up and drop-off locations as well as 
+vehicle routing. 
+• 
+Ability to set parameters for either scheduled service points, virtual service points, or customer determined 
+service points within a service area or zone. 
+• 
+Ability to provide corner-to-corner service for customers to obtain operational efficiencies (requiring 
+customer to walk certain distances to meet a vehicle, to be determined by UTA). 
+• 
+Ability to provide curb-to-curb service from the nearest accessible building entrance for select customers 
+with mobility difficulties (to be determined by UTA). 
+• 
+Ability to add passengers to a route in progress. 
+• 
+Maximum time added based on reroute to pick-up passengers: Customer experience is not more than 5 
+minutes late from the quoted time.  
+• 
+Ability to integrate with UTA systems. 
+• 
+Ability to continuously improve routing and mapping based on customer feedback, safety concerns, etc. 
+ 
+2.5 Passenger Pick-Up 
+• 
+Safety for all users (including bicyclists and pedestrians) to be prioritized in all passenger pick-up locations 
+(vendors should not pick-up passengers in bike lanes or other areas that effect the safety of bicyclists or 
+pedestrians). 
+• 
+Maximum driver wait time for passenger pickup: 3 minutes. 
+• 
+Customers to see pick-up location and trip routing via smartphone app. 
+• 
+If necessary, customers to communicate directly with driver to coordinate pick-up. 
+ 
+2.6 Passenger Drop-Off 
+• 
+Safety for all users (including bicyclists and pedestrians) to be prioritized in all passenger drop-off locations 
+(vendors should not drop-off passengers in bike lanes or other areas that affect the safety of bicyclists or 
+pedestrians). 
+• 
+Customers to see drop-off location and trip routing via smartphone app. 
+ 
+2.7 Connections to Paratransit Services  
+• 
+Coordinated connections with UTA paratransit services which optimizes the customer experience and 
+minimizes wait times between on-demand and paratransit services. 
+• 
+Ability to integrate with UTA’s systems and applications such as Trapeze, to provide driver and/or 
+passenger information regarding their connecting service. 
+• 
+Ability to pre-schedule a connection to Paratransit services in advance. 
+• 
+Ability to pre-schedule recurring connections (subscription trips). 
+ 
+2.8 Fixed Route Bus and Vanpool Reservation Services 
+• 
+Using a reservation system, allow UTA customers to book a seat in advance on a bus they wish to take. The 
+customer should be able to track their vehicle in real-time prior to pick-up with an active driver app onboard 
+each bus or vanpool. 
+• 
+Advance ride booking features allowing customers to book their seat days or minutes in advance, as 
+determined by UTA.  
+DocuSign Envelope ID: 4C018591-1985-4583-8A02-F67CC844E13A
+=== page 24 ===
+Contractor makes a claim of confidentiality under Utah Code Annotated 63G-2-309.  Contract and Exhibits are claimed to 
+be Protected Records under Utah Code Annotated 63G-2-305 subsections (1) and (2). 
+ 
+24 
+ 
+• 
+Advanced ride booking features allowing customers to pay for their trip. 
+• 
+Ability to control the number of available seats or capacity limits on each vehicle in order to enable effective 
+and safe social distancing.  
+• 
+If a rider requests a ride on a bus that is at maximum capacity, they should be able to request a different 
+time.  
+ 
+2.9 Fare Payment 
+• 
+Inclusion of UTA electronic and paper fare products transferable to other UTA services and modes. 
+• 
+Ability to provide promotional or discounted fares. 
+• 
+Fare structure that accommodates customer-specific discounts (i.e. reduced senior rate). 
+• 
+Payment to be verified/validated via smartphone or a physical ticket. 
+• 
+Fare revenue remitted to the agency or deducted from monthly billing. 
+• 
+Auditable fare revenue collection process; flow of funds to be certified. 
+• 
+Ability to accept unbanked customers without access to debit or credit cards. 
+• 
+Payment Card Industry (PCI) compliance for credit card collection services. 
+• 
+Alternatives to cash fare collection (UTA currently collects cash on all its local services. The agency is 
+open to testing alternatives to cash collection). 
+ 
+2.10 
+Customer Support 
+• 
+If necessary, access to contractor’s customer support services to book on-demand and pay for ride services 
+though telephone or web-based services for customers without a smartphone. 
+ 
+3. MOBILITY AS A SERVICE (MaaS) SOLUTIONS 
+Ability to integrate TaaS and SaaS solutions with UTA and other mobility providers, public or private, which 
+enhance the overall transportation system along the Wasatch Front region: 
+• 
+MaaS requires open APIs that allow for integration flexibility. 
+• 
+Integration with existing UTA-preferred trip planning applications (currently these are Transit App, Google 
+Maps, and Trapeze). 
+• 
+Integration with UTA fare payment systems and technologies such as UTA’s smart card for fare payment 
+(FAREPAY) and mobile ticketing app Go Ride (currently operated by Passport). 
+• 
+Integrations with future UTA fare payment systems and 3rd party software providers. 
+• 
+The core intent of MaaS is to provide an option that is as reliable and as flexible as owning a private vehicle, 
+at a fraction of the cost. 
+ 
+4. FUTURE OPPORTUNITIES 
+As these requirements are not yet known, it is not possible to outline a scope of work for future opportunities. 
+Contractors should expect that UTA will surface new needs which require fresh scoping and cost estimates. 
+Contractor and UTA would then collaborate to develop a new scope of work agreement for additional pilots or 
+services. 
+5. SUPPORT SERVICES 
+ 
+5.1 Project Management and Support 
+• 
+On-demand and microtransit simulation services. 
+DocuSign Envelope ID: 4C018591-1985-4583-8A02-F67CC844E13A
+=== page 25 ===
+Contractor makes a claim of confidentiality under Utah Code Annotated 63G-2-309.  Contract and Exhibits are claimed to 
+be Protected Records under Utah Code Annotated 63G-2-305 subsections (1) and (2). 
+ 
+25 
+ 
+• 
+On-demand and microtransit planning and support.  
+• 
+Project management team and support. 
+• 
+Customer service support. 
+• 
+Data analytics support. 
+• 
+Marketing and communications services and support. 
+• 
+Other support as necessary.  
+ 
+5.2 Metrics 
+The following metrics will be used to evaluate a service or pilot, as applicable. Contractor should collaborate 
+with UTA to define or provide other relevant metrics which support the evaluation of project goals and 
+objectives if not listed below: 
+ 
+Service Metrics 
+• 
+Standard National Transit Database data 
+• 
+Number of customers  
+• 
+Number of customers per vehicle hour (utilization) 
+• 
+Number of unique users 
+• 
+Number of app downloads 
+• 
+Number of repeat users 
+• 
+Number of new UTA transit users 
+• 
+Percent of shared rides 
+• 
+Percent of trips to/from transit hubs (geofenced) 
+• 
+Number of vehicles in service by vehicle type 
+• 
+Other service metrics relevant to UTA contracted services such miles between accidents, avoidable vs. non-
+avoidable accidents, miles between breakdowns, customer complaints, etc. 
+ 
+Customer Experience Metrics 
+• 
+Average wait time as measured from the ride request to passenger pick up 
+• 
+On-time performance as measured from the quoted pick up time to the actual pick up time 
+• 
+Percent of ride requests completed v. cancelled due to lack of supply 
+• 
+Usage through app v. call center 
+• 
+Customer satisfaction rating 
+• 
+Usage of various UTA fare products  
+• 
+Equivalent service for customers requiring WAVs 
+• 
+Usage of WAVs or other accessible mobility options 
+• 
+Performance to customer service targets 
+• 
+Trip characteristics such as pick up time stamp, origin, and travel distance 
+ 
+Economic Metrics, as Applicable 
+• 
+Cost per rider 
+• 
+Cost per hour 
+• 
+Cost per vehicle-hour 
+• 
+Cost per vehicle 
+DocuSign Envelope ID: 4C018591-1985-4583-8A02-F67CC844E13A

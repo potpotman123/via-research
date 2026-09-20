@@ -1,0 +1,204 @@
+# source: https://cityofcommerce.legistar1.com/cityofcommerce/attachments/2f95cf23-5c17-4113-bb02-656bbe5bd189.pdf
+# path: raw/cache/594b80e919b4d28aced5a31cea026b29bbd623ff.pdf
+# hit page: 6 of 29
+# terms: Via+SaaS, Via+drivers
+
+=== page 5 ===
+Conﬁgure technology platform: 
+Localize the Via platform, 
+including the routing and 
+aggregation algorithms and 
+internal mapping system, to the 
+City of Commerce’s on-demand 
+transit service zone 
+● Localize front-end environment 
+as well as system messages, 
+emails, and other branded 
+communications 
+● Conﬁgure the Rider App, 
+Driver App, Admin tools, and 
+data dashboards 
+● Begin quality assurance testing 
+● Continue to 
+provide input on 
+desired service 
+characteristics 
+(e.g., content for 
+passenger 
+messages) 
+● Localized 
+software suite 
+● Quality 
+assurance and 
+internal 
+system testing 
+completed 
+ 
+STAGE 3: Testing & Training (Weeks 8 - 12) 
+Conduct system testing and training: 
+● Perform a broad spectrum of 
+functional tests using a fully 
+localized simulation 
+environment 
+● Conduct quality assurance 
+internal ﬁeld tests in zone with 
+real drivers and riders 
+● Install Via’s Driver App on in-
+vehicle tablets, and test with 
+drivers in vehicles 
+● Ensure the system experience 
+aligns with Commerce’s vision 
+● Conduct training workshops for 
+drivers and administrators 
+● Support pre-launch marketing 
+activities 
+● Attend relevant 
+training 
+workshops 
+● Attend 
+key pre-
+launch 
+marketing events 
+● Training 
+complet
+ed 
+● Continued 
+“Pilot” ﬁeld 
+tests* 
+● All pre-
+launch 
+marketing 
+completed 
+● Rider and 
+Driver Apps 
+available for 
+download 
+STAGE 4: Service Launch & Optimization (Week 12 - Ongoing) 
+Execute on launch plan: 
+● Provide hands-on support 
+to ensure a successful 
+launch 
+● Create an initial run 
+schedule to maximize 
+service eﬃciency and attract 
+new riders 
+● Gather feedback from initial 
+users and make service 
+adjustments as needed 
+● Provide 
+feedback on 
+service 
+performance 
+● Attend key 
+marketing 
+events 
+● Service go-live 
+● Ongoing 
+optimization 
+● Post-launch 
+marketing plan 
+initiated 
+DocuSign Envelope ID: 1081S57D-3SS8-4C31-9CF4-85D53991AS43
+=== page 6 ===
+Software Training 
+Via will ensure Commerce staﬀ are prepared to successfully utilize the on-demand transit 
+system with a comprehensive training program. Via has trained hundreds of system 
+operators and tens of thousands of drivers across our global deployments. Leveraging this 
+experience, we will curate a customized training program to ensure that all relevant 
+personnel, including Commerce system administrators, dispatchers, and drivers are 
+equipped to use the Via platform and operate the service successfully. 
+ 
+Via’s hands-on workshops will allow each trainee the opportunity to interact with all relevant 
+tools, run through scenarios, and ask questions. We will also provide a library of online and 
+oﬄine resources, including printed manuals, online troubleshooting guides, FAQs, and high-
+quality tutorial videos and webinars. Our training program will ensure that drivers can safely 
+operate the service using Via’s platform, and that Commerce staﬀ can expertly monitor 
+service operations, access data, and develop reports as needed. 
+ 
+Via typically spreads our live training program over two days, with dedicated Via team 
+members to lead the sessions. We are happy to adjust the timing and structure of the training 
+program upon request. Our hands-on training workshops include sessions on the following 
+topics: 
+ 
+• Systems Training: workshops for using the Driver App and Rider App (2 courses) 
+• Dispatch and Customer Service Training: workshop for all administrative 
+tools in Via’s Operations Center (2 courses) 
+• Advanced Administrative Tools: training for advanced administrative 
+functions, such as inputting road closure notices (1 course) 
+• Data Dashboards Training: workshop for understanding and leveraging 
+Via’s data dashboards and reports (1.5 courses) 
+• Marketing Training: consultation on service marketing strategies (2 courses) 
+ 
+We can also oﬀer two types of web-based training sessions: 
+• Operations Workshop: high-level overview of the Rider App, Driver App, and 
+administrative tools 
+• Service Optimization Workshop: overview of Via’s data dashboards and 
+reports, and best practices for marketing and growing the service 
+ 
+Please ﬁnd additional information regarding our training plan in proposal section 5.B.4., pp. 
+77). 
+ 
+3. Ongoing Support 
+For the life of our partnership, Commerce will have access to a dedicated Partner Success 
+Manager who will serve as Commerce’s primary point of contact, coordinating resources 
+within Via as necessary to provide analytical, consultative, and technical support to 
+ensure the ongoing optimization of the service. Our Partner Success Team will be 
+committed to the successful implementation of Commerce’s SaaS platform through the 
+following support services: 
+ 
+• Service success management. The Partner Success Manager will organize and 
+lead regular check-ins with Commerce to review performance, collect feedback, 
+and align on next steps for service growth and optimization. 
+• Ongoing service monitoring.  
+DocuSign Envelope ID: 1081S57D-3SS8-4C31-9CF4-85D53991AS43
+=== page 7 ===
+• The Partner Success Manager will monitor and analyze service performance 
+data on an ongoing basis, providing advice on how Commerce can improve 
+service quality, increase ridership, and transition between project phases. 
+• Technical support. The Partner Success Manager will work with Via’s technical 
+teams to answer Commerce’’s questions or address issues as necessary; we will 
+provide a transparent customer service platform powered by Zendesk, through 
+which Commerce can submit technical support questions and review the status of 
+each request as “Open,” “Awaiting Reply,” or “Solved.” 
+• Product updates and bespoke features. The Partner Success Manager will 
+provide notiﬁcations and training (if needed) on new product features, and 
+manage any requests for product enhancements or new features. 
+• Service growth and expansions. The Partner Success Manager will coordinate 
+internal Via resources needed to plan and execute on service expansions, such 
+as ﬂeet size increases or zone extensions. 
+ 
+Beyond day-to-day support, the Via team will oﬀer ongoing consultation based on the 
+operational best practices we have accumulated through over 200 global services. 
+Experts from our Partner Operations team will continuously analyze performance data, 
+providing advice on how Commerce can improve service quality and optimize ﬂeet 
+productivity. They will also use performance data from other Via services in order to 
+benchmark Commerce’s service against deployments of similar size and scope. These 
+data-driven insights will equip Commerce with a comparative understanding of 
+performance and strategies to grow the service. 
+ 
+Performance Evaluation 
+Via will give Commerce comprehensive visibility into all aspects of service delivery, 
+enabling the City to track agreed-upon milestones and performance standards. 
+Speciﬁcally, Via will provide: 
+ 
+• In-depth reporting. Via will provide comprehensive data reports to evaluate the 
+performance of Commerce’s microtransit program on a daily, weekly, and/or 
+monthly basis as requested by Commerce. Authorized users will be able access 
+data on a 24/7 basis directly through the Via Operation Center (VOC), our web-
+based administrative console, using their assigned credentials. All data from the 
+VOC can be exported into CSV and Excel formats for further analysis or to easily 
+upload data into separate systems as needed. Please ﬁnd additional information 
+regarding Via’s reporting suite in proposal section Appendix 5.A. Software 
+Overview. 
+• Quarterly business reviews. We will conduct in-depth, data-driven Quarterly 
+Business Reviews (QBRs) that analyze the service’s long-term performance along 
+speciﬁc, mutually-deﬁned key performance indicators (“KPIs”). Supported by Via’s 
+in-house Operations and Data Science teams, the Partner Success Manager will 
+schedule these quarterly review meetings with City stakeholders to assess system 
+performance and trends. 
+• Partner success services. In addition to regular reports and QBRs, Via will provide 
+performance evaluation on an ongoing basis through the Partner Success services 
+described in proposal section 3.A.2. Professional and Technical Qualiﬁcations. 
+ 
+ 
+DocuSign Envelope ID: 1081S57D-3SS8-4C31-9CF4-85D53991AS43

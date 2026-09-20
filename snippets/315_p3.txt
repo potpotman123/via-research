@@ -1,0 +1,256 @@
+# source: raw/bleecker_drive/Baldwin/Contract.pdf
+# path: raw/bleecker_drive/Baldwin/Contract.pdf
+# hit page: 3 of 7
+# terms: Spare Labs
+
+=== page 2 ===
+2 
+ 
+ 
+ 
+VII. 
+Legal Compliance.  PROVIDER shall at all times comply with all applicable Federal, State, 
+local and municipal laws and regulations. 
+ 
+VIII. 
+Independent Contractor.   PROVIDER acknowledges that it is an independent contractor, 
+and PROVIDER shall at all times remain as such in performing the services under this 
+Contract. PROVIDER is not an employee, servant, partner, or agent of the COUNTY and 
+has no authority, whether express or implied, to contract for or bind the COUNTY in any                     
+manner. The parties agree that PROVIDER shall be solely responsible for and shall have full 
+and unqualified control over developing and implementing its own means and methods, as it 
+deems necessary and appropriate in providing the aforementioned services, and that the                     
+COUNTY’s interests herein are expressly limited to the results of said services. PROVIDER 
+is not entitled to unemployment insurance benefits, and PROVIDER is responsible for and 
+obligated to pay any and all federal and state income tax on any monies paid pursuant to this 
+Contract. 
+ 
+IX. 
+No Agency Created.  It is neither the express nor the implied intent of PROVIDER or 
+COUNTY to create an agency relationship pursuant to this Contract.  Therefore, the 
+PROVIDER does not in any manner act on behalf of COUNTY and the creation of such a                      
+relationship is prohibited and void. 
+ 
+X. 
+Unenforceable Provisions.   If any one or more of the provisions contained herein shall, for 
+any reason, be held to be invalid, illegal or unenforceable in any respect, then such provision 
+or provisions shall be deemed severable from the remaining provisions hereof, and such 
+invalidity, illegality or unenforceability shall not affect any other provision hereof.  This 
+Contract shall be construed as if such invalid, illegal or unenforceable provision had never 
+been contained herein. 
+ 
+XI. 
+Entire Agreement.   This Contract represents the entire and integrated agreement between 
+COUNTY and PROVIDER and supersedes all prior negotiations, representations, or 
+agreements, either written or oral.  This Contract may be amended only by written instrument 
+signed by all parties. 
+ 
+XII. 
+Failure to Strictly Enforce Performance.   The failure of the COUNTY to insist upon the strict 
+performance of any of the terms, covenants, agreements and conditions of this Contract 
+shall not constitute, and shall never be asserted by PROVDIER as constituting, a default or 
+be construed as a waiver or relinquishment of the right of the COUNTY to thereafter enforce 
+any such term, covenant, agreement, or condition, but the same shall continue in full force 
+and effect.                                            
+                                                                     
+XIII. 
+Assignment.  This Contract or any interest herein shall not be assigned transferred or 
+otherwise encumbered by PROVIDER without the prior written consent of the COUNTY, 
+which may be withheld or granted in the sole discretion of the COUNTY.  
+ 
+XIV. 
+Ownership of Documents/Work.  The COUNTY shall be the owner of all copyright or other 
+intellectual property rights in reports, documents and deliverables produced and paid for 
+under this Contract, and to the extent permitted by Alabama law, any such material may be 
+reproduced and reused at the discretion of the COUNTY without payment of further 
+consideration.  PROVIDER shall not transfer, disclose, or otherwise use such information for                 
+any purpose other than in performance of the services hereunder, without the                            
+COUNTY’s prior written consent, which may be withheld or granted in the sole discretion                       
+of the COUNTY.                                                                                   
+ 
+Notwithstanding the foregoing, COUNTY acknowledges that PROVIDER shall retain all right, 
+title, and interest in and to (i) its pre-existing intellectual property, proprietary software, 
+platform, and all enhancements, modifications, and derivative works thereof; and (ii) 
+aggregated, anonymized, or de-identified data derived from the performance of the services 
+under this Contract (“Learning Data”). Nothing in this provision shall be construed to grant 
+COUNTY any ownership rights in PROVIDER’s platform, software, or proprietary technology.
+=== page 3 ===
+3 
+ 
+XV. 
+Notice.   Notice required herein shall be in writing, unless otherwise allowed, and said notice 
+shall be deemed effective when received at the following addresses: 
+ 
+ 
+ 
+PROVIDER: 
+ 
+Spare Labs, Inc. 
+ 
+ 
+ 
+ 
+ 
+Suite 810, 815 W Hastings St. 
+ 
+ 
+ 
+ 
+ 
+Vancouver, BC 
+V6C1B4 Canada 
+ 
+ 
+ 
+ 
+ 
+COUNTY: 
+ 
+Baldwin County Commission 
+ 
+ 
+ 
+ 
+ 
+c/o Chairman 
+ 
+ 
+ 
+ 
+ 
+312 Courthouse Square 
+ 
+ 
+ 
+ 
+ 
+Suite 12 
+ 
+ 
+ 
+ 
+ 
+Bay Minette, AL 36507 
+ 
+XVI. 
+Services to be Rendered.  PROVIDER is retained by the COUNTY as a                          
+professionally qualified Contractor.  The general scope of work for the                          
+services shall include all the terms and Conditions of “Request for Proposals”, the  
+same being expressly incorporated herein by reference, and without limitation will 
+encompass: 
+     
+“All provision and conditions and/or specifications listed/stated in the Request 
+for Proposals for MICROTRANSIT SOFTWARE FOR PUBLIC TRANSPORTATION 
+for the Baldwin County Commission”.                                                                                      
+ 
+A. PROVIDER will provide ongoing communications with COUNTY regarding this 
+service, including updates, emails, etc. as requested.  Additionally, PROVIDER will 
+meet with COUNTY as needed or requested. 
+ 
+B. PROVIDER is responsible for the professional quality, technical accuracy, timely 
+completion and coordination of all services furnished by or in relation to this 
+Contract.  
+ 
+C. PROVIDER represents and warrants that its services shall be performed within the 
+limits and standards provided by the COUNTY, in a manner consistent with the level 
+of care and skill ordinarily exercised by similar providers under similar circumstances 
+at the time the services are performed.  
+                                 
+ 
+XVII. 
+General Responsibilities of the COUNTY. 
+ 
+A. The COUNTY shall provide reasonable notice to PROVIDER whenever the 
+COUNTY actually observes or otherwise actually becomes aware of any 
+development that affects the scope or time of PROVIDER’s services hereunder or 
+any defect or nonconformance in the work of PROVIDER.  
+ 
+B. The COUNTY shall pay to PROVIDER the compensation as, and subject to the 
+terms set out below. 
+ 
+XVIII. 
+Termination of Services.  The COUNTY or PROVIDER may terminate this                           
+contract, with or without cause or reason, by giving thirty (30) days written                           
+notice of such to the other party. Upon receipt of such notices, PROVIDER                           
+shall discontinue its work to the extent specified in the notice.  
+ 
+In the event of termination, the COUNTY shall pay PROVIDER for all services satisfactorily 
+rendered, and for any expenses deemed by COUNTY to be a reimbursable expense incurred 
+pursuant to this Contract and prior to the date of termination.  
+ 
+XIX. 
+Compensation Limited. The compensation to be paid to the PROVIDER shall be                           
+the full compensation for all work performed by PROVIDER under this                           
+Contract.  Any and all additional expenditures or expenses of PROVIDER, not                           
+listed in full within this Contract, shall not be considered as a part of this                          
+Agreement and shall not be demanded by PROVIDER or paid by COUNTY.
+=== page 4 ===
+4 
+ 
+ 
+ 
+XX. 
+Direct Expenses. Compensation to the PROVIDER for the work shall be paid per 
+“ATTACHMENT A”.  Said compensation shall be all inclusive, including without limitation, 
+reimbursement of all costs, incidentals and operating expense associated with those directly 
+engaged in performance of the requested services. 
+ 
+XXI. 
+Method of Payment.  PROVIDER shall submit invoices to the COUNTY for                        
+payment for work performed.  Such invoice shall be accompanied by a detailed                       
+account of compensation to be paid PROVIDER. 
+ 
+Payment shall be made by the COUNTY within thirty (30) days of the approval of   the invoice 
+submitted by the PROVIDER. The COUNTY agrees to review and approve invoices submitted 
+for payment in a timely manner.  
+ 
+XXII. 
+Effective and Termination Dates. This Contract shall be effective for thirty-six (36) months 
+and commence immediately upon the same date as full execution.  Any successive 
+contract(s) must have the written approval of both the County and the Provider no later than 
+thirty (30) days prior to the expiration of the original contract.  [Nothing herein stated shall 
+prohibit the parties from otherwise terminating this Contract according to the provisions 
+herein.] 
+ 
+XXIII. 
+Force Majeure.    The Parties hereto shall incur no liability to the other if performance 
+becomes impossible or impracticable by reason on an event or effect that the parties could 
+neither have anticipated nor controlled.  This allowance shall include both an act of nature 
+and acts of third parties.  Any costs that would otherwise be incurred and/or necessitated by 
+the provisions herein shall be alleviated for either party by such event or effect.  
+ 
+XXIV. 
+Indemnification.  Provider shall indemnify, defend and hold County and its Commissioners, 
+affiliates, employees, agents, and representatives (collectively “County”) harmless from and 
+against any and all claims, demands, liabilities, damages, losses, judgments, costs, and 
+expenses including, without limitations, attorneys’ fees, for any and all personal injury 
+(including death) and property damage of any kind or nature whatsoever, incurred by, 
+asserted against, or imposed upon County, as a result of or in any manner related to 
+provision of services hereunder, or any act or omission, by Provider.  Contractor shall 
+provide the COUNTY with proof of general liability coverage including the COUNTY as an 
+additional insured.  This indemnification shall survive the expiration of this Contract. 
+ 
+NOTWITHSTANDING ANYTHING TO THE CONTRARY IN THIS AGREEMENT, 
+CONTRACTOR’S TOTAL AGGREGATE LIABILITY TO THE COUNTY FOR ALL CLAIMS 
+ARISING OUT OF OR RELATED TO THIS AGREEMENT, WHETHER IN CONTRACT, 
+TORT, OR OTHERWISE, SHALL NOT EXCEED AN AMOUNT EQUAL TO THE FEES PAID 
+BY THE COUNTY TO CONTRACTOR IN THE TWELVE (12) MONTHS IMMEDIATELY 
+PRECEDING THE EVENT GIVING RISE TO SUCH LIABILITY. IN NO EVENT SHALL 
+CONTRACTOR BE LIABLE FOR INDIRECT, CONSEQUENTIAL, SPECIAL, EXEMPLARY, 
+INCIDENTAL, OR PUNITIVE DAMAGES, INCLUDING LOST PROFITS OR REVENUE, 
+EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THIS LIMITATION 
+SHALL NOT APPLY TO: (I) DAMAGES ARISING FROM CONTRACTOR’S GROSS 
+NEGLIGENCE OR WILLFUL MISCONDUCT; (II) LIABILITY FOR DEATH OR PERSONAL 
+INJURY TO THE EXTENT CAUSED BY CONTRACTOR; (III) CONTRACTOR’S BREACH 
+OF ITS CONFIDENTIALITY OBLIGATIONS UNDER THIS AGREEMENT; OR (IV) 
+DAMAGES ARISING FROM CONTRACTOR’S INFRINGEMENT OR MISAPPROPRIATION 
+OF ANY THIRD-PARTY INTELLECTUAL PROPERTY RIGHTS. 
+          
+XXV. 
+Number of Originals.  This Contract shall be executed with three (3) originals, each of which 
+are equally valid as an original. 
+ 
+XXVI. 
+Governing Law.   This Contract in all respects, including without limitation its formation, 
+validity, construction, enforceability, and available remedies, shall be governed by the laws 
+of the State of Alabama, without regard to Alabama conflict of law principles.

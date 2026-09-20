@@ -1,0 +1,256 @@
+# source: raw/bleecker_drive/Hillsborough County/Completed Contract File.pdf
+# path: raw/bleecker_drive/Hillsborough County/Completed Contract File.pdf
+# hit page: 134 of 199
+# terms: Via+drivers, Via+vehicles
+
+=== page 133 ===
+In-Person Launch Support: We understand how challenging it can be to switch
+software providers, and we also recognize the importance of face to face
+conversations to facilitate trust in the new system. Via is pleased to commit to
+on-the-ground training and support for County staff during the immediate
+launch period from hand-picked Via staff members who are experts at
+migrating services over from Routematch. This in-person support will be
+supplemented by our robust partner support team, including a dedicated
+Partner Support Manager and 24/7 technical support.
+In the initial launch phases, we will continue to scope the County’s specific needs and we can
+gladly adjust our schedule should the County desire a modified implementation timeline. We look
+forward to discussing the program’s launch in further detail.
+3.6.2 Implementation Schedule
+Below is our six-step launch process, assuming a 12-week timeline beginning when we receive
+notice to proceed, along with the estimated length of time of each step, major deliverables, and
+both Via and the County’s responsibilities. We look forward to discussing the program’s launch
+timeline in further detail with the County.
+Project Stage
+Via + Hillsborough County Activities
+Milestones
+STAGE 1ր
+Initial System
+Assessment
+Weeks 1 - 3
+●
+Confirm goals for initial system/needs assessment
+●
+Analyze existing system and surrounding transit
+options in the region
+●
+Conduct simulations of different service models in the
+region
+●
+Scope data migration from Routematch
+Hillsborough County to provide existing ridership data
+●
+Project goals
+collaboratively
+established
+●
+Understanding of
+demand and travel
+patterns clarified
+●
+Pain points and
+opportunity areas
+identified
+STAGE 2ր
+Service
+Planning &
+Design
+Weeks 4 - 7
+●
+Confirm technical and any unique product
+requirements
+●
+Align on performance goals, service quality targets,
+and reporting requirements
+●
+Run simulations to test service performance under
+different service parameters
+The County to provide performance goals and / or KPIs, and
+preference regarding service parameters / simulation results;
+input on preferred outreach strategies
+●
+Project scope finalized
+●
+Service parameters
+established
+●
+Technical specifications
+confirmed
+●
+Data sharing plan
+finalized
+Proprietary, Confidential, and Trade Secret Information
+RFP‐23‐24177 | 30
+=== page 134 ===
+STAGE 3ր
+System
+Development
+& Internal
+Testing
+Weeks 8 - 9
+●
+Localize the Via platform, including the routing and
+aggregation algorithms and internal mapping system,
+to the service area
+●
+Localize front-end environment as well as system
+messages, emails, and other branded communications
+●
+Conduct data migration from Routematch
+●
+Configure Rider App, Driver App, Admin tools, and
+data dashboards
+●
+Begin quality assurance testing and debugging
+The County to provide access to data for migration
+●
+Software suite localized
+●
+Quality assurance and
+internal system testing
+completed
+●
+All required data
+migrated to the Via
+platform
+STAGE 4ր
+Testing &
+Training
+Weeks 10 - 11
+●
+Perform a broad spectrum of functional tests using a
+fully localized simulation environment
+●
+Conduct quality assurance internal field tests in zone
+with real drivers and riders
+●
+Install Via’s Driver App and in-vehicle tablets, and test
+with drivers in vehicles
+●
+Conduct training workshops for drivers, dispatchers,
+and administrators
+●
+Support pre-launch outreach activities
+County staff to attend required trainings and participate in
+pre-launch outreach
+●
+Training completed
+●
+Field testing continued
+●
+Rider and Driver Apps
+made available for
+download
+STAGE 5ր
+Operational
+Preparation
+Weeks 11 - 12
+●
+Ensure the system experience aligns with the County’s
+vision
+●
+Finalize any adjustments to service design resulting
+from functional and internal tests
+County staff to participate in any additional training activities
+●
+Field testing completed
+●
+Additional operational
+tests completed
+●
+All pre-launch marketing
+completed
+STAGE 6ր
+Service
+Launch &
+Optimization
+Week 12 -
+Ongoing
+●
+Provide hands-on support to ensure a successful
+launch
+●
+Create an initial run schedule to maximize service
+efficiency and attract new riders
+●
+Gather feedback from initial users and make
+adjustments as needed
+The County to provide feedback for ongoing optimization
+●
+Live service
+●
+Ongoing optimization
+●
+Post-launch outreach
+plan initiated
+3.6.3 Data Conversion of Existing Database
+As part of our launch process, we will migrate all data from Hillsborough County’s Routematch
+system into Via’s platform in order to enable access through the VOC for report and data
+generation. Via has proven expertise in managing complex migrations from Routematch and other
+platforms for other transportation providers, including:
+Proprietary, Confidential, and Trade Secret Information
+RFP‐23‐24177 | 31
+=== page 135 ===
+Routematch Migrations:
+●
+Peterborough, Ontario
+●
+Charlotte Area Transit System, NC
+●
+Intercity Transit, WA
+●
+Mountain Line, Montana
+●
+Flathead County, Montana
+●
+Tyler Transit, TX
+●
+St. John’s, Newfoundland and Labrador
+●
+Baldwin County, Alabama
+●
+Shasta County, California
+●
+Richland County, Montana
+●
+Alexandria, Virginia
+●
+Gloucester, Ohio
+●
+Dallas County, Iowa
+●
+Rochester, New York
+●
+Champaign-Urbana, Illinois
+●
+Salem, Oregon
+●
+Henry County, Georgia
+For a seamless transition from their legacy paratransit service, we can import data from the
+County’s existing Routematch databases into our system. Via’s in-house Data Science team will
+work directly with staff to conduct the following four-step data migration process:
+●
+Step 1 - Knowledge sharing & data scoping. We will perform extensive scoping to assess
+existing datasets to determine what data needs to be migrated. Via’s team is highly familiar
+with the process of obtaining data from the Routematch platform.
+●
+Step 2 - Data evaluation. We will evaluate data formatting, the speed of data imports, and
+the need for additional data fields and product features to support the migration. We have
+a fully-built internal tool to clean and convert Routematch data into a format compatible
+with Via’s system.
+●
+Step 3 - Initial data migration, quality assurance ՄQAՅ, and validation. We will upload an
+initial data set, and perform extensive QA to evaluate the success of the migration and
+confirm the system’s readiness for bulk uploads. Our team will also perform data validation
+to ensure the data makes sense (e.g., the geographic location of pickups).
+●
+Step 4 - Full migration, QA, validation, and field testing. We will upload the entire data set,
+perform QA and validation, as well as extensive live field testing.
+●
+Step 5 - Change Management and Training. We recognize that County staff may be used
+to working with data in a particular way within the Routematch system, such as manually
+geocoding new addresses or managing paper manifests. We offer change management
+workshops to train staff in Via’s automated systems and build trust in our various tools.
+This process will ensure a successful migration of data to the Via Platform, and enable us to
+convert the County’s service with minimal disruptions.
+Proprietary, Confidential, and Trade Secret Information
+RFP‐23‐24177 | 32

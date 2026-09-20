@@ -1,0 +1,140 @@
+# source: https://legistar1.granicus.com/McKinney/attachments/abb0b9be-9c15-4174-9e04-7b9d82941c25.pdf
+# path: raw/cache/5e92fe54da67feb112756b4c03bca94101b9439a.pdf
+# hit page: 32 of 50
+# terms: Spare Labs
+
+=== page 31 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+Recommendations 
+ 
+Summary of recommendations 
+ 
+●
+There is ​high potential for an excellent microtransit service ​in the study zone. 
+Low average waiting times and high efficiency are achievable with relatively few 
+vehicles, at a low-cost option that varies from $520,000 to $870,000 per year 
+depending on actual demand.  
+ 
+●
+The ​pooling​ rate (i.e. the proportion of trips that are shared between multiple 
+riders) is expected to range between 48% and 64% in a door-to-door model. This 
+implies vehicle hours could be significantly reduced compared to the current model 
+where no pooling exists, which would translate into equivalent cost savings for CCT. 
+Adopting a ‘great service’ model (by increasing the number of duties) would improve 
+the rider experience, but costs could almost double. 
+ 
+●
+As CCT begins its microtransit journey, it will have to consider several ​tradeoffs 
+between investing in great service or opting for a lower-cost option. A low-cost 
+solution could be as low as $520,000 per annum (p.a.), while a great-service solution 
+could be as high as $1.6 million p.a. A door-to-door service would offer the best 
+increase in performance per additional spend, but if costs need to be minimised, a 
+stop-to-stop service offers the best value for money. 
+ 
+●
+A ​stop-to-stop ​operational model would deliver the best value for money in Collin 
+County​. ​Stop-to-stop services tend to have better pooling and shorter wait times 
+than door-to-door services, and the familiarity of stops breeds more efficient 
+behaviour from drivers and riders. However, the target demographic for this service 
+(seniors and those with special mobility needs), combined with high temperatures in 
+Texas, may mean most – if not all – riders require a door-to-door service. Spare 
+Platform does allow for rider segmentation, whereby certain riders are given access 
+to a door-to-door service, while others are on a stop-to-stop service. 
+ 
+●
+Extending the service hours​ to 6am–12am would offer coverage for trips typically 
+undertaken for night-shift work and late night entertainment/recreation, thus 
+increasing ridership as well as spreading demand more evenly throughout the day. 
+Whilst this increased ridership would come at an elevated cost (both in terms of 
+annual costs but also costs per trip), it would advance CCT’s mission of providing 
+more equitable transit across the county. 
+ 
+●
+Right-sizing ​CCT’s microtransit service could help to cut costs because smaller 
+vehicles cost less to purchase, run, and maintain than the shuttle vans they 
+currently own and operate. 
+30
+=== page 32 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+ 
+●
+CCT could save on operating costs in the long-term by investing in​ two additional 
+dedicated vehicles​ to serve the majority of expected demand. Using a dedicated 
+fleet could result in savings of $7 per trip and annual savings of $140,000, assuming 
+a medium-demand, low-cost scenario.  
+ 
+Moving forward, there are clear steps to success for CCT: 
+ 
+●
+In the first instance, a ​pooled microtransit system​ will deliver modest cost savings. 
+Perhaps the most important benefit it will bring is a ​wealth of data​ that can be 
+used to better understand the demand for transit and optimize the system further. 
+ 
+●
+In subsequent phases, adding ​multiple operators ​to the service will help to create 
+operational efficiencies and introduce time- and location-specific rules such as 
+dynamic pricing. A ​mixed supply model​ could be rapidly scaled up across the 
+microtransit zone using the unique Spare Fleets feature.  
+ 
+●
+The eventual introduction of ​commingling​ between different service types 
+(microtransit, paratransit, NEMT, schools) would ensure a ​fully flexible system that 
+delivers both an amazing rider experience and unparalleled savings for CCT.  
+ 
+These recommendations are discussed in more detail in the rest of this section. 
+ 
+Cost tradeoffs when investing in greater service 
+ 
+When designing and implementing microtransit in Collin County, CCT will have to consider 
+the tradeoffs between the overall cost and quality of service to riders. The cost of running a 
+microtransit service can vary widely depending on a number of factors, including (but not 
+limited to) the local price of labor, vehicle types, fare structures, service/vehicle hours, 
+service configuration, and administrative and technology costs.  
+ 
+The annual cost estimates (excluding administrative or ancillary costs) for a low-cost system 
+range from $520,000 to $870,000 per annum (p.a.), while implementing a great-service 
+system would cost $950000 to $1.6 million  p.a. Extending the service hours by six 
+additional hours would result in annual costs of $780,000–$1.3 million p.a. for a low-cost 
+system, or $1.3–2.0 million p.a. for a great-service system. 
+ 
+Whether additional investment beyond the basic low-cost, normal-hours option is 
+worthwhile is a highly pertinent question for CCT, because it is a public agency and 
+therefore must ultimately provide value for money to the taxpayer.  
+ 
+To give CCT a better understanding of the tradeoffs when investing in service quality 
+improvements, we quantify the average effect on service performance of spending an 
+31
+=== page 33 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+additional $100,000 p.a. in the normal-hours option (FIgure 14). Positive changes include 
+average waiting times improving by 2–2.4 minutes per additional $100,000 p.a., and the 
+proportion of riders waiting < 15 mins increasing by 2.7–6.7 percentage points. However, 
+additional spending negatively impacts the efficiency of the system: PPVH decreases by 0.1 
+per additional $100,000 p.a., and pooling ratios decrease by 1.3–1.8 percentage points.  
+ 
+ 
+Figure 14. Changes in average performance metrics for every additional $100,000 p.a. spent on improving 
+service quality for riders, in the normal-hours scenario (i.e. excluding extended hours). 
+ 
+These results suggest the biggest performance-based return on investment would likely 
+occur in a door-to-door service. In other words, spending more in a stop-to-stop service 
+would not yield as much value in reduced waiting times for riders. It should be noted that 
+this ‘additional value’ analysis is only valid within the ranges of spending examined in this 
+report. Additional spending above the maximum costs presented here may not yield the 
+same value. 
+ 
+Extending the service hours to midnight would be beneficial to socio-economic groups that 
+have traditionally been underserved by transit in Collin County. Perhaps the biggest of 
+these groups is night-shift workers, who currently have no other option but to drive or 
+rideshare to work. Providing service late at night could therefore help to increase the equity 
+of CCT’s offering, although more in-depth analysis will be needed to ascertain the holistic 
+impact of such a strategy, which is beyond the scope of this report. 
+ 
+Door-to-door vs. Stop-to-stop 
+ 
+Door-to-door transit services are highly convenient for riders and therefore often 
+prioritized by transit agencies looking to provide value to their communities. However, in 
+some cases, a slightly less flexible stop-to-stop system can result in essentially the same 
+convenience for riders, while significantly boosting efficiencies for the operator (Figure 15).  
+ 
+32

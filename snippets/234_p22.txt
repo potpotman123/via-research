@@ -1,0 +1,172 @@
+# source: https://legistar.granicus.com/LosAlamos/attachments/d4ed28e3-5da0-403c-aaa8-20fd558046f1.pdf
+# path: raw/cache/9e8dcba51a86916c33f88b1baedeefebe738b9ef.pdf
+# hit page: 22 of 81
+# terms: Spare Labs
+
+=== page 21 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+21 
+ Agreement Template Version: 04012024 
+1.1. Annual Software Platform Fees. County shall pay Annual Software Platform fees for a 
+total not-to-exceed amount for the Term of this Agreement, as outlined in Exhibit A Table 
+2, in the amount of TWO HUNDRED FOURTEEN THOUSAND THREE HUNDRED 
+NINETY-SIX AND 00/100 DOLLARS ($214,396.00), which amount does not include 
+applicable NMGRT.  
+1.2. Maintenance and Support Fees.  County shall pay Maintenance and Support fees for a 
+total not-to-exceed amount for the Term of this Agreement, as outlined in Exhibit A Table 
+3, in the amount of ONE HUNDRED SIXTEEN THOUSAND SIXTY-FOUR AND 00/100 
+DOLLARS ($116,064.00) which amount does not include applicable NMGRT. 
+1.3. Project Implementation Fee. County shall pay one-time compensation for Project 
+Implementation Fees, as outlined in Exhibit A Table 4, following County’s written 
+acceptance of Project Implementation phases, as described herein, in the amount of FIVE 
+THOUSAND AND 00/100 DOLLARS ($5,000.00), which amount does not include 
+applicable NMGRT. 
+1.4. Annual Vehicle Fees. County shall pay Annual Vehicle fees for a total not-to-exceed 
+amount for the Term of this Agreement, as outlined in Exhibit A Table 5, in the amount of 
+FIVE HUNDRED EIGHTY-FIVE THOUSAND EIGHT HUNDRED FOUR AND 96/100 
+DOLLARS ($585,804.96), which amount does not include applicable NMGRT. 
+1.5. Optional Software and Services Fees. At any time during the term of this Agreement, 
+County may request additional and optional services and functionality, at County’s sole 
+option in accordance with the Compensation Rate Schedule in Exhibit A Table 6 in a total 
+not-to exceed amount for the term of this Agreement in the amount of ONE MILLION 
+EIGHT HUNDRED EIGHTY FIVE THOUSAND FIVE HUNDRED FIFTY AND 00/100 
+DOLLARS ($1,885,550.00), which amount does not include applicable NMGRT. 
+ 
+2. Total Not-to-Exceed Compensation Amount.  The Parties understand that County can only 
+utilize Contractor’s Services, as specified herein, throughout the term of this Agreement, in a 
+manner that does not surpass the total not-to-exceed compensation amount for Services 
+estimated by County and specified in Section E(1) herein, unless approved by Amendment to 
+this Agreement. Any increase to the not-to-exceed compensation amount provided herein 
+must be authorized by an Amendment to this Agreement, pursuant to Section AG.  This 
+provision shall not be construed to conflict with County’s discretion to determine when 
+Contractor’s optional Services are needed or to conflict with the agreed-upon rates stated 
+herein. It is the sole responsibility of Contractor to ensure that all work performed, inclusive of 
+all additional and optional services, does not exceed the not-to-exceed amount of this 
+Agreement or any subsequent Amendment.  Any work performed under this Agreement by 
+Contractor where the costs exceed the not-to-exceed amount is not a just and lawful debt 
+payable to Contractor. 
+3. Invoices.  Contractor shall submit itemized invoices to County Project Manager, no more 
+frequently than monthly, showing the amount of compensation due, amount of any NMGRT, 
+and total amount payable under this Agreement.  Contractor shall invoice Project 
+Implementation fees as described in Exhibit A Table 4. Contractor shall invoice Annual 
+Software Platform and fees for Year 1 of this Agreement as of the Effective Date of this 
+Agreement and annually on the anniversary of the Effective Date thereafter.  Contractor shall 
+invoice Maintenance and Support fees and Annual Vehicle fees for Year 1 of this Agreement 
+upon successful Launch, as defined herein, and shall subsequently invoice these fees 
+Attachment A
+=== page 22 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+22 
+ Agreement Template Version: 04012024 
+concurrently with the Annual Software Platform fees in Years 2 – 15. Payment of undisputed 
+amounts shall be due and payable thirty (30) days after County’s receipt of the invoice 
+ 
+SECTION F. TAXES:  Contractor shall be solely responsible for timely and correctly billing, 
+collecting and remitting all NMGRT levied on the amounts payable under this Agreement. 
+ 
+SECTION G. STATUS OF CONTRACTOR, STAFF, AND PERSONNEL:  This Agreement calls 
+for the performance of services by Contractor as an independent contractor. Contractor is not an 
+agent or employee of County and shall not be considered an employee of County for any purpose.  
+Contractor, its agents, or employees shall make no representation that they are County 
+employees, nor shall they create the appearance of being employees by using a job or position 
+title on a name plate, business cards, or in any other manner, bearing County’s name or logo.  
+Neither Contractor nor any employee of Contractor shall be entitled to any benefits or 
+compensation other than the compensation specified herein.  Contractor shall have no authority 
+to bind County to any agreement, contract, duty, or obligation.  Contractor shall make no 
+representations that are intended to, or create the appearance of, binding County to any 
+agreement, contract, duty, or obligation. Contractor shall have full power to continue any outside 
+employment or business, to employ and discharge its employees or associates as it deems 
+appropriate without interference from County; provided, however, that Contractor shall at all times 
+during the term of this Agreement maintain the ability to perform the obligations in a professional, 
+timely, and reliable manner. 
+  
+SECTION H. STANDARD OF PERFORMANCE:  Contractor agrees and represents that it has 
+and shall maintain the personnel, experience, and knowledge necessary to qualify it for the 
+particular duties to be performed under this Agreement.  Contractor shall perform the Services 
+described herein in accordance with a standard that meets the industry standard of care for 
+performance of the Services. 
+ 
+SECTION I. DELIVERABLES AND USE OF DOCUMENTS:    
+ 
+ 
+ 
+Notwithstanding anything to the contrary in this Agreement: 
+1. As between Contractor and County, County shall, respectively, own all right, title and interest 
+in and to the County Data, being all data entered by end users through the Contractor’s 
+Platform; 
+ 
+2. All Work Products developed, prepared or assembled by Contractor or obtained from others 
+by Contractor in connection with the services under this Agreement shall be the property of 
+Contractor. Contractor may use its own previously developed data, documentation, software, 
+concepts, materials, or information, in whatever form, or develop the Work Products in 
+performing its Services for County hereunder; 
+ 
+3. Contractor shall own and retain all right, title and interest in and to (i) the Platform and the 
+supporting Software, all improvements, enhancements or modifications thereto; (ii) any 
+Software, applications, inventions or other technology developed in connection with providing 
+the Platform or support; (iii) the Documentation; and (iv) all intellectual property rights related 
+to any of the foregoing. No rights are granted to County hereunder other than as expressly 
+set forth herein; 
+ 
+4. Notwithstanding any other provision to the contrary in this Agreement, Contractor shall have 
+the right to collect and analyze data and other information relating to the provision, use and 
+Attachment A
+=== page 23 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+23 
+ Agreement Template Version: 04012024 
+performance of various aspects of the Platform and related systems and technologies, 
+including, without limitation, Learning Data. Contractor shall hold all right, title and interest to 
+such data and other information and Learning Data and, without limiting such ownership, will 
+be free (during and after the term hereof) to (i) use such information and data to improve and 
+enhance the Platform or the Services and for other development, diagnostic and corrective 
+purposes in connection with the Platform and other Contractor offerings; and (ii) disclose such 
+data solely in aggregate and de-identified form in connection with its business (including 
+without limitation for marketing and sales purposes); 
+ 
+5. County hereby covenants that it will not, directly or indirectly, jointly or severally: (i) reverse 
+engineer, decompile, disassemble or otherwise attempt to discover the source code, object 
+code, or underlying structure, know-how or algorithms relevant to the services or any software, 
+Documentation or data related to the Platform (“Software”); (ii) modify, translate, or create 
+derivative works based on the Platform or any Software (except to the extent expressly 
+permitted in writing by Contractor or authorized within the Platform); (iii) use the Platform or 
+any Software for timesharing or service bureau purposes or otherwise for the benefit of a third 
+party; or (iv) remove any proprietary notices or labels; County shall, respectively, comply with 
+all applicable local, municipal, provincial, federal and foreign laws in using the Platform; and 
+ 
+6. County shall use commercially reasonable efforts to obtain the requisite permission, consent 
+or other lawful basis from or in respect of end users for the use, storage and processing of 
+their personal information by Contractor through the provision of the Platform or services, as 
+required by applicable laws. 
+7. Should the Platform or services become, or in Contractor’s opinion be likely to become, the 
+subject of a claim of infringement of any patent, copyright, trademark, trade name, trade 
+secret, or other proprietary or contractual right of any third party, Contractor will provide written 
+notice to County of the circumstances giving rise to such claim or likely claim. In the event that 
+County receives notice of a claim of infringement or is made a party to or is threatened with 
+being made a party to any claim of infringement related to the Platform or Services, County 
+will forthwith provide Contractor with notice of such claim or threat. Following receipt of such 
+notice, Contractor will either (at Contractor’s sole election) (i) procure for County the right to 
+continue to use the affected portion of the Platform or Services, or (ii) replace or otherwise 
+modify the affected portion of the Platform or Services to make them non-infringing, or obtain 
+a reasonable substitute product for the affected portion of the Platform or Services, provided 
+that any replacement, modification or substitution under this paragraph does not effect a 
+material change in the Platform or Services’ functionality. If none of the foregoing options is 
+reasonably acceptable to County, County will have the right to terminate the Agreement in 
+accordance with the provisions herein. 
+ 
+SECTION J. EMPLOYEES AND SUB-CONTRACTORS:  Contractor shall be solely responsible 
+for payment of wages, salary, or benefits to any and all employees or contractors retained by 
+Contractor in the performance of the Services.  Contractor agrees to indemnify, defend, and hold 
+harmless County for any and all claims that may arise from Contractor's relationship to its 
+employees and subcontractors. 
+ 
+SECTION K. INSURANCE: Contractor shall obtain and maintain insurance of the types and in 
+the amounts set out below throughout the term of this Agreement with an insurer acceptable to 
+County. Contractor shall assure that all subcontractors maintain like insurance. Compliance with 
+the terms and conditions of this Section is a condition precedent to County’s obligation to pay 
+compensation for the Services, and Contractor shall not provide any Services under this 
+Agreement unless and until Contractor has met the requirements of this Section.  County requires 
+Attachment A

@@ -1,0 +1,122 @@
+# source: raw/bleecker_drive/Bay Transit/REDACTED-Via-Mobility-LLC-Response_RFP-2024-01-Transit-Scheduling-Software.pdf
+# path: raw/bleecker_drive/Bay Transit/REDACTED-Via-Mobility-LLC-Response_RFP-2024-01-Transit-Scheduling-Software.pdf
+# hit page: 51 of 60
+# terms: Via Mobility
+
+=== page 50 ===
+Section 4: Attachments 
+4.1. Acknowledgement of RFP, Revision and/or Addenda 
+Bay Transit a Division of Bay Aging 
+RFP No. 
+2024-01 
+ACKNOWLEDGEMENT OF RFP, REVISION AND/OR ADDENDA 
+Acknowledgement shall be made of receipt of the Request for Proposal (RFP) and/or any and all revisions 
+and/or addenda pertaining to the above designated project which are issued by the Agency prior to the 
+Proposal date shown herein.  
+Failure to include this acknowledgement in the Proposal may result in the rejection of your RFP. By signing 
+this form, the Vendor acknowledges receipt of the RFP and/or following revisions and/or addenda to the 
+RFP for the above designated project which were issued under cover letter(s) of the date(s) shown hereon: 
+1. 
+Cover Letter of 
+ 
+2. 
+Cover Letter of 
+ 
+3. 
+Cover Letter of 
+ 
+Signature 
+Date 
+Printed Name 
+Title 
+Manager
+Alex Lavoie
+3/27/2024 - Addendum No. 2
+3/21/2024 - Addendum No. 1
+3/29/2024 - Addendum No. 3
+DocuSign Envelope ID: 067F5112-10D8-4FAF-8E81-E6AD8343D225
+4/15/2024
+Appendix: Forms
+RFP #2024՞01 Transit Scheduling Software | 48
+=== page 51 ===
+P.O. Box 610 • 5306 Old Virginia Street Urbanna, VA 23175 • 804-758-2386 • www.bayaging .org 
+HEALTH • HOUSING • TRANSPORTATION 
+March 21, 2024 
+TRANSIT SCHEDULING SOFTWARE 
+RFP No. 
+2024-01 
+ADDENDUM NO. 1 
+The purpose of this addendum is to respond to questions submitted by potential proposers for clarification 
+of the bid specifications: 
+QUESTION: 
+Could you consider extending the page limit and/or allow the proposers to attach the 
+responses to individual requirements as an Appendix to our proposals? 
+ANSWER: 
+Bay Transit hereby amends Section 3.1, Proposals, to allow up to 40-pages for 
+the technical proposal excluding the pricing proposal. Additionally, proposers 
+can submit up to 15-pages of marketing materials to supplement the written 
+response if it assists in demonstrating the functionality of the software. 
+All other conditions of this RFP remain the same. 
+Please acknowledge receipt of this addendum and include it with your submittal. 
+Signature: 
+Manual 
+Signature: 
+Company Name: 
+Typed or Printed 
+Address: 
+ 
+Date: 
+Addendum No. 1 ~ RFP 2024-01 
+Via Mobility, LLC
+Alex Lavoie
+114 5th Avenue, FL 17, New York, NY 10011
+DocuSign Envelope ID: 067F5112-10D8-4FAF-8E81-E6AD8343D225
+4/15/2024
+RFP #2024՞01 Transit Scheduling Software | 49
+=== page 52 ===
+P.O. Box 610 • 5306 Old Virginia Street Urbanna, VA 23175 • 804-758-2386 • www.bayaging.org 
+HEALTH • HOUSING • TRANSPORTATION 
+March 27, 2024 
+BAY TRANSIT, A DIVISION OF BAY AGING 
+TRANSIT SCHEDULING SOFTWARE 
+RFP No. 
+2024-01 
+ADDENDUM NO. 2 
+The purpose of this addendum is to respond to questions submitted by potential proposers for clarification 
+of the bid specifications: 
+QUESTION: 
+Section 3.5 Rejection Criteria mentions a “Qualification package signature page” and 
+a “Project Specific Reference” form. If these are required, can Bay Transit please 
+provide them to vendors, or identify where they can be found? 
+ANSWER: 
+Signature page is included as Appendix 4.1 Acknowledgement of RFP, 
+Revision, and/or Addenda 
+QUESTION: 
+Will Bay Transit accept electronic signatures on the forms, cover letter and addenda 
+acknowledgements? 
+ANSWER: 
+Yes, both scanned copies of signed forms and electronic signatures are 
+acceptable. 
+QUESTION: 
+We are unable to find any forms attached with the RFP. Can Bay Transit please 
+provide us with all the necessary forms that need to be completed and submitted 
+along with our proposal? 
+ANSWER: 
+Acknowledgement of RFP, Revision and/or Addenda form is included as 
+Appendix 4.1. 
+QUESTION: 
+Due to the tight timeline from the “Bay Transit responses and addenda issued” date 
+to the “Proposals due” date, we would like to request an extension of 1 week to the 
+submission deadline. 
+ANSWER: 
+The proposal due date has been extended to Monday, April 15th, at 5 PM EDT. 
+Bay Transit reserves the right to amend the award date as necessary. 
+QUESTION: 
+On page 22, Section 3.5 Rejection Criteria, it states the “Submittals may be rejected 
+if the Qualification package signature page is not properly executed”, can you 
+provide the page number of the “signature page”? 
+ANSWER: 
+Acknowledgement of RFP, Revision and/or Addenda form is included as 
+Appendix 4.1 on page number 33.  
+DocuSign Envelope ID: 067F5112-10D8-4FAF-8E81-E6AD8343D225
+RFP #2024՞01 Transit Scheduling Software | 50

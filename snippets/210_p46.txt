@@ -1,0 +1,184 @@
+# source: https://legistar1.granicus.com/McKinney/attachments/abb0b9be-9c15-4174-9e04-7b9d82941c25.pdf
+# path: raw/cache/5e92fe54da67feb112756b4c03bca94101b9439a.pdf
+# hit page: 46 of 50
+# terms: Spare Labs
+
+=== page 45 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+ 
+Figure A2. Distribution of historical trips by price paid by the rider (CCT pays the remaining 75%).  
+ 
+Only 55 trips were taken outside the MUTD zone (‘private pay’ trips), and most of them 
+were undertaken by only a few individuals. The exceptionally small proportion of 
+non-MUTD trips prevented us from reliably accounting for these in our model, so we only 
+model MUTD trips.  
+ 
+A major point of consideration in any ridership forecasting model is the differentiation of 
+trends for different trip lengths. Changes in demand will reflect the difference between the 
+new flat fare and the current price of a trip. For instance, if a trip’s price were to decrease 
+under the new pricing regime, the propensity of riders to take such a trip would differ to a 
+situation where a trip’s price would increase (this is explored in more detail in the following 
+sections).  
+ 
+To account for this, we divided trips into different price bands. In both scenarios, one price 
+band encompasses all trips that would cost ​more ​in the new regime (i.e. all trips <$2 in 
+scenario 1, and all trips <$3 in scenario 2). Of the remaining trips that would cost less in the 
+new regime, we defined a ‘low gains’ category (trips costing more than $2 but less than $4 
+in scenario 1, and trips costing more than $3 but less than $5 in scenario 2), a ‘medium 
+gains’ category (trips costing more than $4 but less than $9 in scenario 1, and trips costing 
+more than $5 but less than $9 in scenario 2), and finally a ‘big gains’ category (trips costing 
+more than $9 in both scenarios). These bands were defined according to the distribution of 
+trips displayed in Figure A2.  
+ 
+As shown in Table A2, almost 75% of all trips taken with CCT are short trips costing less 
+than $5. Under Scenario 1, a quarter of historical trips would end up paying more than they 
+44
+=== page 46 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+do currently, whereas under Scenario 2, almost half of historical trips would end up paying 
+more than they do currently.  
+ 
+Table A2. Statistics of trip price categories in each scenario. 
+ 
+Scenario 
+Trip price 
+category  
+(paid by 
+rider) 
+Average trip 
+price paid by 
+rider ($) 
+Average 
+number of 
+trips per 
+week 
+Proportion of 
+all trips (%) 
+Average trip 
+distance 
+(miles) 
+Scenario 1  
+($2 flat fare) 
+$2 or less 
+1.4 
+52 
+25 
+1.7 
+$2–$4 
+2.9 
+82 
+40 
+4.7 
+$4–$9 
+6.2 
+61 
+29 
+12.6 
+$9+ 
+10.2 
+14 
+6 
+19.7 
+Scenario 2 ($3 
+flat fare) 
+$3 or less 
+1.9 
+97 
+47 
+2.6 
+$3–$5 
+3.7 
+53 
+25 
+6.3 
+$5–$9 
+6.8 
+44 
+21 
+14.6 
+$9+ 
+10.2 
+14 
+6 
+19.7 
+ 
+The sensitivity of riders to transit pricing is traditionally measured using elasticities. 
+Elasticities are the percentage change in consumption resulting from a one-percent change 
+in price, all else held constant.  
+ 
+In the context of transit, a high elasticity value indicates that an individual’s choice to ride 
+transit ​is​ price-sensitive (i.e. a small change in price will dramatically affect how likely they 
+are to ride transit). A low elasticity value indicates that prices have relatively little effect on 
+ridership. Factors that affect transit elasticities include: 
+ 
+●
+User type 
+●
+Trip type 
+●
+Transit type 
+●
+Geography 
+●
+Type of price change 
+●
+Direction of price change 
+●
+Time period 
+ 
+While many of these are outside of the scope of this short study, we account for the 
+direction ​of price change and the ​time period​ of changes. For the ​direction of price change​, we 
+45
+=== page 47 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+note that price change elasticities are asymmetric: that is, an increase in fare will tend to 
+cause greater ridership reduction than the same size fare reduction will increase ridership. 
+We therefore choose asymmetric elasticities. For the ​time period​, we consider the price 
+impacts to be short-run (<2 years), as opposed to medium run (2–5 years) or long-run (5+ 
+years). Short-run impacts are usually estimated to half as severe as long-run impacts.  
+ 
+A wide range of elasticity values are used in transit planning and academic studies to 
+quantify the impact of price changes on transit. A comprehensive review of the literature is 
+provided by Litman (2019) , whose recommendations are summarised by market segment 
+4
+and time period in Table A3.  
+ 
+Table A3. Elasticity values recommended by Litman (2019) for modelling response to transit fare changes. 
+ 
+Market segment 
+Short-term 
+Long-term 
+Overall 
+–0.2 to –0.5 
+–0.6 to –0.9 
+Peak 
+–0.15 to –0.3 
+–0.4 to –0.6 
+Off-peak 
+–0.3 to –0.6 
+–0.8 to –1.0 
+Suburban commuters 
+–0.3 to –0.6 
+–0.8 to –1.0 
+ 
+For our model, we chose an elasticity value of -0.35 for trip categories that will experience 
+an ​increase​ in fare price, and a value of 0.25 for trip categories that will experience a 
+decrease​ in fare price. This assumes short-term impacts, and balances the fact that many 
+different trip types are taken on CCT, from commuting to recreation and socialising. This 
+also closely matches a frequently-used rule-of-thumb, known as the Simpson–Curtin rule, 
+which states that each 3% fare increase reduces ridership by 1%. 
+ 
+To calculate the impact of a fare change in ridership, we first consider the average trip price 
+in each price category as the ‘old price’ (e.g. any rides in the <$2 category are given an ‘old 
+price’ of $1.40, as shown in Table 1). Special care is required when calculating the impacts 
+of large price changes, because each subsequent change impacts a different base in a 
+compound way. Since this effect becomes significant when price changes exceed 50% 
+(which will occur often in CCT’s case), we compute elasticities using the appropriate ‘arc 
+elasticity’ method . As an example, a rise in average fare from $1.40 to $2 equates to a 42% 
+5
+increase; given an elasticity of -0.35, the arc elasticity is calculated as 1.42^(-0.35), multiplied 
+by the old ridership. This results in a 12.5% decrease in ridership.  
+ 
+4 Litman, T. (2019). ​https://www.vtpi.org/elasticities.pdf 
+5 Pratt, R. (2004). http://www.trb.org/TRBNet/ProjectDisplay.asp?ProjectID=1034 
+46

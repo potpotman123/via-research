@@ -1,0 +1,164 @@
+# source: https://cityofcommerce.legistar1.com/cityofcommerce/attachments/2f95cf23-5c17-4113-bb02-656bbe5bd189.pdf
+# path: raw/cache/594b80e919b4d28aced5a31cea026b29bbd623ff.pdf
+# hit page: 2 of 29
+# terms: Via Mobility
+
+=== page 1 ===
+PROFESSIONAL SERVICES AGREEMENT 
+ 
+ 
+ 
+This agreement ("Agreement") is made as of July 20, 2021 (“Effective Date”), by and 
+between the City of Commerce, a California municipal corporation ("City"), and Via Mobility a 
+New York limited liability Corporation ("Consultant").  City and Consultant are sometimes 
+hereinafter individually referred to as a "Party" and collectively referred to as the "Parties." 
+ 
+ 
+R E C I T A L S  
+ 
+ 
+WHEREAS, City desires to utilize the services of Consultant as an independent contractor 
+providing the services outlined in the Scope of Services attached hereto as Exhibit A; and 
+ 
+ 
+WHEREAS, the Consultant represents that it is fully qualified to perform such consulting 
+services by virtue of its experience and the training, education, and expertise of its principals and 
+employees. 
+ 
+ 
+NOW, THEREFORE, in consideration of the performance by the parties of the covenants 
+and conditions herein contained, the parties hereto agree as follows: 
+ 
+1. 
+Company's Scope of Services.  The nature and scope of the specific services to be 
+performed by the Consultant are as described in Exhibit A. 
+ 
+2. 
+Term of Agreement.  This agreement shall commence on July 20, 2021 (the 
+"Commencement Date") and shall remain and continue in effect until tasks described in Exhibit 
+A is completed, but in no event later than July 20, 2024, unless sooner terminated pursuant to the 
+provisions of this agreement.   
+ 
+3. 
+Compensation. 
+ 
+ 
+A.  City agrees to compensate Consultant for services under this Agreement in compliance 
+with the schedule outlined in Exhibit A.  Consultant shall submit invoices in the form and manner 
+specified by City.  Each invoice shall include a breakdown of all monthly services performed 
+together with the hours spent on each service.  Consultant shall maintain appropriate and 
+necessary documentation supporting the invoices detailing the type of service provided.  It shall 
+be available for review by City at all reasonable times upon request.   
+ 
+ 
+B.  Total payment to Consultant pursuant to this agreement shall not exceed One Hundred 
+Twenty-One Thousand Seven Hundred Dollars ($121,700).  
+ 
+ 
+C.  If at the request of City, Consultant is required to incur out of pocket expenses (including 
+but not limited to, out-of-town travel and lodging) which are above and beyond the ordinary costs 
+associated with the performance of this Agreement, Consultant shall be entitled to reimbursement 
+of such expenses.   
+ 
+Consultant shall only be reimbursed for those expenses which: (I) appear on Consultant's monthly 
+invoices; (II) are accompanied by a copy of City's written authorization for Consultant to incur such 
+expenses; and (III) receipts documenting such expenses. 
+ 
+ 
+DocuSign Envelope ID: 1081S57D-3SS8-4C31-9CF4-85D53991AS43
+=== page 2 ===
+4. 
+General Terms and Conditions.  The General Terms and Conditions outlined in Exhibit 
+B are incorporated as part of this Agreement. In the event of any inconsistency between the 
+General Terms and Conditions and any other exhibit to this agreement, the General Terms and 
+Conditions shall control unless it is clear from the context that both parties intend the provisions 
+of the other Exhibit (s) to control. 
+ 
+5. 
+Addresses. 
+ 
+City of Commerce 
+ 
+City of Commerce 
+2535 Commerce Way 
+Commerce, CA 90040 
+Attn:  Edgar P. Cisneros, City Manager 
+ 
+Company 
+ 
+Via Mobility, LLC 
+Attn:Erin Abrams, Manager 
+10 Crosby, Floor 2 
+New York, NY 10013 
+ 
+6. 
+Exhibits.  All exhibits referred to in this agreement are listed here and are incorporated 
+and made part of this agreement by this reference. 
+ 
+Exhibit A – Scope of Services and Compensation Schedule  
+Exhibit B – General Terms and Conditions 
+Exhibit C – Special Provisions Terms and Conditions 
+Exhibit D -  Federal Certification Forms 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DocuSign Envelope ID: 1081S57D-3SS8-4C31-9CF4-85D53991AS43
+=== page 3 ===
+EXHIBIT A – SCOPE OF SERVICES AND COMPENSATION SCHEDULE 
+ 
+1. Solution Overview 
+For Commerce, Via Mobility LLC (or “Via”) proposes to deliver our Software-as-a-Service 
+(SaaS) solution, a comprehensive On-Demand Transit platform that meets or exceeds 
+every requirement outlined in the City’s Request for Proposal (“RFP – On Demand 
+Transit Software Technology”). Powered by our backend algorithms for scheduling 
+shared rides and dynamically routing vehicles, our solution will deliver an exceptional 
+user experience for riders, drivers, and system administrators. Please ﬁnd additional 
+detail on each system component in our RFP. At a high level, Via’s SaaS solution includes 
+all of the features and support services outlined in the RFP: 
+ 
+ 
+2. Implementation Plan 
+From designing and launching over 200 on-demand transit services, Via understands 
+that exceptional project management is key to the success of any deployment. We 
+take an agile approach to both product development and project governance: we 
+rapidly test and iterate ideas, communicate frequently with our partners, and 
+incorporate feedback without causing downstream delays. Through productive 
+partner communication and nimble project management, our team meets deliverables 
+within agreed-upon timelines while maintaining the ﬂexibility to course-correct as 
+necessary. Backed by our team of 350 algorithm experts, product managers, systems 
+administrators and developers, along with 350 data scientists, operations and growth 
+marketing experts, and transportation planners, Via will provide Commerce with an 
+experienced launch team to oversee all implementation tasks: 
+• 
+Routing and matching algorithms for 
+automated trip scheduling and dynamic 
+vehicle routing, with parameters conﬁgurable 
+to Commerce’s preferences 
+• 
+Rider App and intuitive web portal for 
+customers to book and plan multimodal trips, 
+manage reservations, easily pay fares, and 
+receive service updates 
+• 
+Driver App that provides drivers with turn-
+by-turn navigation and seamless 
+communication 
+• 
+Administrative tools for overseeing 
+service operations and providing 
+customer support 
+• 
+Data reporting with granular trip data and 
+performance trends to support the City’s 
+planning 
+• 
+Ongoing Partner Success and technical 
+support services to ensure the successful 
+continued operation of our platform 
+DocuSign Envelope ID: 1081S57D-3SS8-4C31-9CF4-85D53991AS43

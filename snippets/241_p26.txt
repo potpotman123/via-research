@@ -1,0 +1,160 @@
+# source: https://douglascounty.legistar1.com/douglascounty/attachments/f881da66-e295-443f-8793-a75389fa9535.pdf
+# path: raw/cache/2e2d114850d5a0ab72dc95e81f3c53f185700cb2.pdf
+# hit page: 26 of 30
+# terms: River North Transit
+
+=== page 25 ===
+25 
+ 
+Primary Coverage. For any claims related to this contract, the CONSULTANT or 
+CONTRACTOR’s insurance coverage shall be primary insurance. Any insurance or self-
+insurance maintained by Douglas County, its officers, officials, employees, or volunteers shall be 
+excess and non- contributory to the CONSULTANT or CONTRACTOR’s insurance.  
+ 
+Notice of Cancellation. Each insurance policy required above shall state that coverage shall not 
+be canceled, except with notice to Douglas County.  
+ 
+Waiver of Subrogation. CONSULTANT or CONTRACTOR hereby grants to Douglas County 
+a waiver of any right to subrogation which any insurer of said CONSULTANT or 
+CONTRACTOR may acquire against Douglas County by virtue of the payment of any loss under 
+such insurance. CONSULTANT or CONTRACTOR agrees to obtain any endorsement that may 
+be necessary to affect this waiver of subrogation, but this provision applies regardless of whether 
+or not Douglas County has received a waiver of subrogation endorsement from the insurer.  
+ 
+Self-Insured Retentions, Deductibles and Coinsurance. The CONSULTANT or 
+CONTRACTOR agrees to be fully and solely responsible for any costs or expenses as a result of 
+a coverage deductible, coinsurance penalty, or self-insured retention. Douglas County may 
+require the CONSULTANT or CONTRACTOR to provide proof of ability to pay losses and 
+related investigations, claim administration, and defense expenses within the retention. The 
+policy language shall provide, or be endorsed to provide, that the self-insured retention may be 
+satisfied by either the named insured or Douglas County. The CONSULTANT or 
+CONTRACTOR will indemnify Douglas County, in full, for any amounts related to the above.  
+ 
+Acceptability of Insurers. Insurance is to be placed with insurers with a current A.M. Best’s 
+rating of no less than A:VII, unless otherwise acceptable to Douglas County.  
+ 
+Claims Made Policies. If any of the required policies provide coverage on a claims-made basis:  
+1. The Retroactive Date must be shown and must be before the date of the contract or the 
+beginning of contract work.  
+2. Insurance must be maintained, and evidence of insurance must be provided for at least 
+three (3) years after completion of the contract of work.  
+3. If coverage is canceled or non-renewed, and not replaced with another claims-made 
+policy form with a Retroactive Date prior to the contract effective date, the Consultant 
+must purchase “extended reporting” coverage for a minimum of three (3) years after 
+completion of contract work.  
+ 
+Verification of Coverage. CONSULTANT or CONTRACTOR shall furnish Douglas County 
+with original certificates and amendatory endorsements or copies of the applicable policy 
+language effecting coverage required by this clause. All certificates and endorsements are to be 
+received and approved by Douglas County before work commences. However, failure to obtain 
+the required documents prior to the work beginning shall not waive the CONSULTANT or 
+CONTRACTOR’s obligation to provide them. Douglas County reserves the right, but not the 
+obligation, to review and revise any insurance requirement, not limited to limits, coverage, and 
+endorsements. Additionally, Douglas County reserves the right, but not the obligation, to review 
+and reject any insurance policies failing to meet the criteria stated herein. Failure on the part of 
+2026 PCS with River North Transit, LLC 
+BCC Business Meeting - 2/24/2026 
+Page 25 of 30
+=== page 26 ===
+26 
+ 
+the CONSULTANT or CONTRACTOR to provide insurance policies within ten (10) working 
+days of receipt of the written request will constitute a material breach of contract upon which 
+Douglas County may immediately terminate this contract.  
+ 
+The completed certificates of insurance with additional insured endorsements and waivers of 
+subrogation and any notices, within 20 days of cancellation or termination will be sent via mail 
+or e-mail to:  
+Douglas County Government 
+Attn: Risk Management 
+100 Third Street 
+Castle Rock, Colorado 80104 
+risk@douglas.co.us 
+ 
+Subcontractors. Consultant shall require and verify that all subcontractors maintain insurance 
+meeting all the requirements stated herein, and CONSULTANT or CONTRACTOR shall ensure 
+Douglas County is an additional insured on insurance required from subcontractors. Any 
+subcontractors will not be required to maintain professional liability insurance if their scope of 
+work does not include any: (a) engineering or design; (b) construction inspection; or (c) survey 
+work.  
+ 
+Failure to Procure or Maintain Insurance. The CONTRACTOR will not be relieved of any 
+liability, claims, demands, or other obligations assumed by its failure to procure or maintain 
+insurance, or its failure to procure or maintain insurance in sufficient amounts, durations, or 
+types. Failure on the part of the CONTRACTOR to procure or maintain policies providing the 
+required coverage, conditions and minimum limits will constitute a material breach of contract 
+upon which Douglas County may immediately terminate this contract.  
+ 
+Governmental Immunity. The parties hereto understand and agree that Douglas County is 
+relying on, and does not waive or intend to waive by any provision of this Agreement, the 
+monetary limitations or any other rights, immunities, and protections provided by the Colorado 
+Governmental Immunity Act, C.R.S. §§ 24-10-101 et seq. as from time to time amended, or 
+otherwise available to Douglas County, its officers, or its employees  
+ 
+Special Risks or Circumstances.  
+Douglas County reserves the right to modify these requirements, including limits, based on the 
+nature of the risk, prior experience, insurer, coverage, or other special circumstances.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2026 PCS with River North Transit, LLC 
+BCC Business Meeting - 2/24/2026 
+Page 26 of 30
+=== page 27 ===
+27 
+ 
+EXHIBIT D 
+Data Sharing & Project Data 
+ 
+Authorized Users 
+The table below sets forth the members of the County’s “Core Team” who are designated 
+authorized users of the Via Solution and the Project Data. Any usage beyond the members of the 
+Core Team would be in violation of the confidentiality provisions in the Contract. 
+ 
+Core Team 
+• 
+Community Services Coordinator Ryan Arthur 
+• 
+Community Services Supervisor Allison Cutting 
+• 
+Assistant Director of Community Services Rand Clark 
+• 
+Assistant Public Works Director Engineering Zeke Lynch 
+• Parker, Assistant Director of Planning Bryce Matthews 
+• Parker, Senior Planner Mary Munekata 
+ 
+Data Sharing Plan 
+The Contractor shall provide data to the County for performance tracking and program 
+evaluation. The data shall be available in the Via Operations Center and only available to 
+members of the Core Team identified by the County to require access. Underlying data may not 
+be shared through any other method than the Via Operations Center access. The data is 
+considered trade secret by Via and is subject to the confidentiality and other protective 
+provisions set forth in the Contract. 
+The Consultant shall share data with the County’s Core Team including, but not limited to: 
+• 
+How new passengers learned about the service, made available through ad-hoc rider 
+surveys. 
+• 
+Passenger counts (per day, per hour, per month, per vehicle).  
+• Vehicle miles traveled, average trip length, on-time performance, and out of zone requests.  
+• Unique new passenger numbers and statistics on rider retention over time. 
+• Cancellation rates and how they may relate to other factors such as wait time (accounting 
+for weather). 
+• 
+Trip fulfillment response time (time from when a passenger makes a trip request to when 
+they are picked up), trip origin and destination pairs. 
+• Service utilization (passengers per hour) by time of day and day of week. 
+• Average distance required to walk from desired pick-up/drop-off locations to actual pick-
+up/drop-off locations. 
+• Customer satisfaction and feedback for improvements. 
+To protect Via’s intellectual property and the privacy of the Riders, the Contractor will provide 
+the following data tables and dashboards in the form of aggregated Via Operations Center reports 
+that shall be provided for the County’s access. These reports will be refreshed daily. The reports 
+are aggregated, de-identified, and do not include any personal information of the Riders. 
+2026 PCS with River North Transit, LLC 
+BCC Business Meeting - 2/24/2026 
+Page 27 of 30

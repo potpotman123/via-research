@@ -1,0 +1,109 @@
+# source: raw/bleecker_drive/Bay Transit/REDACTED-Via-Mobility-LLC-Response_RFP-2024-01-Transit-Scheduling-Software.pdf
+# path: raw/bleecker_drive/Bay Transit/REDACTED-Via-Mobility-LLC-Response_RFP-2024-01-Transit-Scheduling-Software.pdf
+# hit page: 21 of 60
+# terms: Via+drivers
+
+=== page 20 ===
+Software shall allow capability for all customer app/web portal information to be translated to Spanish.
+Software shall allow automated booking option for Spanish speakers in case Bay Transit cannot provide
+riders with Spanish speakers call takers.
+Software shall have the ability to provide riders with real-time alerts/notifications accessible to Spanish
+speakers.
+ADA Compliance
+Software’s customer app/web-based portal shall make all information accessible to visually impaired
+riders.
+1.
+Via’s ride booking window can be configured to allow demand response riders to schedule
+trips up to a single predefined number of days in advance of the requested trip date. Via's
+system does not allow for different booking windows for recurring versus one-time trips.
+4.2.2 Dispatcher Interface
+The Via Operations Center, or the VOC, is the central application designed for
+administrators and dispatchers to manage every aspect of the service in real time. The
+console features a set of sophisticated automations designed to minimize the amount of
+manual intervention necessary by dispatchers, while still preserving the flexibility they
+need to do their job. The VOC also provides streamlined reporting to help drive
+continuous service optimization and cost efficiency. The VOC is cloud-hosted, accessible
+on any browser and device from anywhere in the world, and allows multiple users to
+access it at once. For more details regarding administrative features in the VOC, see
+section 4.2.4 Administrator Interface.
+Real-time Performance Management
+The Via Hub and Ride Plan allow
+dispatchers to monitor and control service
+in real-time. Notifications alert dispatchers
+to pending issues giving them the option
+to let the software automatically resolve or
+to manually intervene. If dispatchers want
+to make a manual intervention, the tool
+provides a simple interface to
+communicate with riders and drivers,
+access more information about a rider or trip, and add, edit, or cancel trips as necessary.
+RFP #2024-01 Transit Scheduling Software | 18
+=== page 21 ===
+Our software uses up-to-date mapping technology and leverages real-time speed and
+location data to continuously optimize for on-time performance. Via’s mapping interfaces
+are updated every quarter, and road closures are updated live. Bay Transit can also
+update any closures manually in the VOC. If Bay Transit knows of any significant changes,
+Via can push a map update. If the software recognizes that a vehicle is running late to a
+pickup, and there is another vehicle available to reach the pickup quicker, it will
+automatically reassign the trip and notify the riders and drivers. The VOC also allows for
+specific parameter configurations, such as maximum wait times, to ensure high qualities
+of service that are in line with Bay Transit’s vision.
+Ride Booking
+The Via Operations Center has a
+streamlined dispatcher interface
+when manual ride booking is
+required. Designed to support riders
+who do not have smartphones or
+access to a web browser, or who
+simply prefer to book over the phone,
+the Booking Module enables
+dispatchers to seamlessly enter a
+rider’s requested pickup and drop-off locations, and record any relevant notes for the
+driver. Once all trip information is entered, dispatchers receive a set of trip proposals,
+which they can discuss with the rider before confirming the booking, and if required the
+dispatcher can automatically book a return trip.
+Rider Profile Management
+Our rider management features
+allow users to manage every
+aspect of a rider’s account
+details, from initial account
+creation to reviewing a
+passenger’s ride history. The
+VOC clearly displays all the
+necessary elements of a rider’s
+profile, including the rider’s
+status (active, inactive, suspended), trip history, future reserved trips, ADA accessibility
+and eligibility details, mobility equipment specifications, payment and contact information,
+RFP #2024-01 Transit Scheduling Software | 19
+=== page 22 ===
+and other relevant profile data. We can also configure custom fields based on Bay
+Transit’s needs, including Social Security Number, client ID, bus swipe card number, and
+other information not already included in the Rider Profile. Rider Profiles also allow
+administrators to see which programs a rider is eligible for and track rider-specific
+accommodations or “driver notes.”
+Authorized staff (based on assigned roles and permissions) can edit information in the
+customer database, such as adding ride credit or promo codes to waive fares for eligible
+riders, or add relevant comments to Rider Profiles at any time. Additionally, Bay Transit
+can set up parameters to automatically block riders from booking rides if they have
+excessive no-show rates or for other reasons as determined appropriate by Bay Transit.
+Bay Transit Requirement
+Via
+Scheduling
+The software shall be enabled for demand response and/or on-demand rides, including ride scheduling
+and dispatch.
+System shall provide configurable demand response service scheduling business rules, such as ride
+distance or advanced ride date restrictions.
+Software shall allow transit provider dispatchers to see all rides scheduled and dispatched.
+Software shall allow dispatchers to reschedule, cancel and/or reassign rides, as necessary.
+Software shall have the capabilities to flag riders that consistently no-show for rides, provide a
+list/notification of these riders to Bay Transit, and limit these riders’ access and ability to use the system.
+Software shall have the ability to identify operators’ and vehicles’ availability for scheduling (e.g.,
+operators on break and vehicles not active due to vehicle service/maintenance), to reduce potential for
+mis-scheduling a ride to an unavailable operator or vehicle.
+Software shall allow dispatchers to aggregate rides provided riders have a similar pick-up location or
+destination.
+Software shall allow dispatchers to schedule rides for riders that have subscriptions (standing orders).
+Software shall allow the ability to assign vehicles to multiple regions.
+Software shall update estimated time of arrival as well as the rider manifest based on ride requests and
+real-time travel information.
+RFP #2024-01 Transit Scheduling Software | 20

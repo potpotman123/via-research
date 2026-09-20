@@ -1,0 +1,129 @@
+# source: raw/bleecker_drive/High Valley Transit/Summit _04132021-2804.pdf
+# path: raw/bleecker_drive/High Valley Transit/Summit _04132021-2804.pdf
+# hit page: 24 of 64
+# terms: River North Transit, Via Transportation
+
+=== page 23 ===
+13 
+Section A: STANDARD REPORTING SET 
+Dashboard 
+Data Point 
+Level of Detail
+Vehicle Hours Reporting 
+Vehicle Revenue Hours 
+ Monthly 
+VOMS (Vehicles Operated in 
+Maximum Service) 
+  Monthly 
+VAMS (Vehicles Available in 
+Maximum Service) 
+Monthly 
+On Time Performance 
+% On Time (0-5 min late) 
+Overall for service 
+By line 
+By month 
+% Early (Any time before 
+communicated time) 
+Overall for service 
+By line 
+By month 
+% Late (Greater than 5 min) 
+Overall for service 
+By line 
+By month 
+Passenger Report3 
+Passengers by line and stop 
+-Date
+-Hour
+-Route
+-Boards (Passengers who got
+onto the bus)
+-Alights (Passengers who got
+off the bus)
+-Stop ID
+-Stop Name
+Overall for service 
+By line 
+By month 
+3 Will make available on a monthly basis starting September 1, 2021 
+Staff Report Page 23
+=== page 24 ===
+14 
+Exhibit 1. 
+VIA SOLUTION TERMS OF USE ACKNOWLEDGEMENT 
+This Via Solution Terms of Use Acknowledgment (the “Acknowledgement”) is made and 
+entered into as of April __, 2021 (the “Effective Date”) by and between River North Transit LLC 
+(“River North”), a Delaware limited liability company with its principal office located at 160 
+Varick St, New York, New York 10013 and a wholly owned subsidiary of Via Transportation Inc. 
+(together with River North, “Via”) and Summit County, a political subdivision of the State of Utah 
+(the “Customer,” and together with River North, the “Parties”). 
+WHEREAS, Via is the developer and owner of a proprietary technology platform and certain 
+related systems and methods used to establish, monitor, operate and/or manage transportation 
+networks, and has developed a cloud-based version of its platform and related systems and 
+methods to permit administrators to review and edit account information and to review data 
+concerning trips provided through the platform (collectively the “Via Solution”). 
+WHEREAS, the Parties have entered into the certain Master Services Agreement, dated 
+September 3, 2020, and its First Amendment, dated April __, 2021, (together, the “Master 
+Agreement”) and its accompanying Transit-as-a-Service (TAAS) Service Order for On-Demand 
+Transit, dated April __, 2021, and the Transit-as-a-Service (TAAS) Service Order for Fixed 
+Route Transit, dated April __, 2021 (together, the “Service Order”), through which River North 
+will provide Customer with technology and technology enabled integration services, acting as a 
+broker coordinating the services of third-party service providers to effectuate a transportation 
+network in High Valley Transit (the “Deployment”). 
+WHEREAS, Customer desires to access the Via Solution in order to participate in the 
+monitoring, operation and/or management of the Deployment. 
+WHEREAS, the Parties wish to enter into the agreements set forth herein in consideration for 
+Via allowing such access and to govern the terms of Customer’s access to the Via Solution. 
+1.
+CUSTOMER’S RIGHTS AND OBLIGATIONS
+1.1        Terms of Use. Customer agrees to use the Via Solution in accordance with the terms 
+and conditions set forth at https://ridewithvia.com/platform-terms-of-service/ (the “Terms”). 
+Customer’s right to access the Via Solution is subject to the Master Agreement,  Service Order 
+and the Terms, and Via is not granting Customer any additional independent rights hereunder. 
+1.2        Specific Customer Obligations.  Customer may not use its access to the Via Solution 
+for any purpose other than as needed for the monitoring, operation, and/or management of the 
+Deployment. Customer agrees not to collect, process, or disclose personal information 
+Staff Report Page 24
+=== page 25 ===
+15 
+accessible in the Via Solution except for the limited purpose of establishing, monitoring, 
+operating, or managing the Deployment. Customer acknowledges that the back-end tools and 
+data reporting platforms that are included within the Via Solution, including personal information 
+of riders and driver partners using transportation services in the Deployment, as well as trade 
+secrets and other Confidential Information (defined below) of Via. Customer shall cause all 
+individuals who receive log-in credentials to such tools and platforms to keep such credentials 
+confidential and not to share them with anyone else within Customer’s organization. Customer 
+shall ensure that access to the tools and platforms of the Via Solution are only accessible to 
+those individuals who (i) have a need to access the Via Solution for the operation of the 
+Deployment and (ii) who have specifically been granted access credentials by Via. Customer 
+warrants and covenants that such individuals are and will remain limited to those who need 
+such access for the purpose of the operation of the Deployment.  Customer shall put in place 
+information barriers and firewalls to ensure that, pursuant to its obligations under Section 2 
+below, Via’s Confidential Information is not shared with any employees, other than those who 
+have a need to know such information, nor with any competitors of Via. 
+1.3        Customer’s Rights: Customer’s right to access the Via Solution is subject to the above-
+mentioned Master Agreement, Service Order and Terms and Via is not granting Customer any 
+independent rights hereunder. 
+2.
+CONFIDENTIALITY
+2.1        Non-Disclosure Obligations. Confidential information means information, data or 
+materials in either tangible or intangible form that are trade secrets of, or proprietary and 
+confidential to Via, its affiliates, or its clients or business partners, including as may be so 
+designated by statute, regulation, common law, and privacy laws adopted under applicable law, 
+or which are marked as “Confidential” or which, by their nature and the context of their 
+disclosure, should reasonably be known to be confidential (together “Confidential 
+Information”). Confidential Information may be provided or disclosed by Via or its affiliates 
+orally, in writing or in graphical, machine-readable or other form to Customer. Customer shall 
+hold the Confidential Information in confidence and shall not make any use or disclosure of the 
+Confidential Information to any individual or entity during the entire term of the Master 
+Agreement and thereafter without the express written consent of Via or an affiliate in each 
+instance, except to those individuals who need to know such Confidential Information for 
+purposes of Deployment operations. Customer shall handle all Confidential Information received 
+with the same degree of care as it uses to maintain the confidentiality of its own confidential 
+information, which shall in no event be less than reasonable care. As between the Parties, all 
+Confidential Information shall remain the sole and exclusive property of Via and no disclosure or 
+permitted use of the Confidential Information under this Acknowledgement or the Master 
+Agreement shall be construed as the grant of any right, title or interest, by license or otherwise, 
+in or to the Confidential Information. The remedy at law for breach or threatened breach of this 
+Staff Report Page 25

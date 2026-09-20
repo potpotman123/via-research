@@ -1,0 +1,41 @@
+# source: https://legistar.granicus.com/ManhattanBeach/attachments/3edaaa5a-19df-43ad-ae35-a1ffafe7e358.pdf
+# path: raw/cache/46a5ce799d461d4a3864050942d4fb0a0e14c3f2.pdf
+# hit page: 1 of 13
+# terms: Downtowner
+
+=== page 1 ===
+Downtowner
++
+=== page 2 ===
+High Volume, Low Cost
+ More Analytics
+ Improve Existing Mobility
+ Less Infrastructure
+ Ease Parking & Trafﬁc
+More riders in less time equals the lowest 
+possible cost per passenger. Our algorithms are 
+constantly optimizing driver work ﬂow, picking up 
+riders in the smartest way possible.
+Understand when, where and how
+your city is moving. Our data analysis tools 
+provide cities with valuable insight into their 
+transit patterns.
+No need to lay down tracks, build stations or 
+wait months for expensive vehicles. We can be 
+operational within weeks for a fraction of the 
+cost. Our cost per passenger is consistently lower 
+than comparables such as busses or trolleys.
+We compliment existing ﬁxed route services, and 
+make them more usable by providing the ﬁrst 
+and last mile of transit.
+Door to door rides keep local cars in driveways 
+and out of valuable parking spots. Our algorithm 
+groups riders heading in the same direction, 
+cutting down on vehicle trafﬁc.
+Microtransit In Your City
+ Connect the Community
+Mobility drives local economy, increases 
+downtown livability and keeps visitors coming 
+back. We add value and convenience to living and 
+working in the downtown core and surrounding 
+neighborhoods.

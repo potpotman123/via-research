@@ -1,0 +1,127 @@
+# source: raw/bleecker_drive/Hillsborough County/Completed Contract File.pdf
+# path: raw/bleecker_drive/Hillsborough County/Completed Contract File.pdf
+# hit page: 32 of 199
+# terms: Via+drivers
+
+=== page 31 ===
+RFP‐23‐24177 – Addendum 2 
+Page 18 
+ 
+1.15.7.3.  Address notes or directions 
+ 
+1.15.7.4.  Assistance needs and mobility type 
+ 
+1.15.7.5.  Scheduled time and requested time 
+1.15.8.  All trip origin and destination addresses must be geocoded in a format such that these 
+addresses can be viewed on MDC map. 
+1.15.9.  Displaying trip addresses on a map and providing turn by turn directions from the 
+vehicle’s current location, including the option for voice navigation and visual display of trip 
+route and turn directions.  Drivers shall not have to enter destination address to use the map 
+navigation; the software will do this automatically.  Drivers will not have to start the map 
+navigation as a separate software application.  The navigation functionality will be integrated 
+into the in‐vehicle software application.  Proposer shall provide information on any integrated 
+3rd party navigation solution. 
+1.15.10.  When the driver completes the current trip, the MDC/Tablet unit shall automatically 
+remove it from the manifest screen.  
+1.15.11.  Automatic manifest updates:  
+1.15.11.1.  After the driver has logged on to the system and received a manifest, the 
+MDC shall dynamically update the manifest by inserting additional trips sent to it by the 
+dispatch system. Trip insertions must also display in ascending order of estimated stop 
+time. The MDC shall also dynamically update the manifest and delete all cancelled trips 
+as they are cancelled.  The System shall allow for changes made by Dispatch, including 
+trip cancellations, trip reassignments, changes to scheduled trip time or address, 
+additions of trips to the vehicle route, changes to scheduled breaks or route start and 
+end times, to be updated on the MDC in real time.  Such changes shall be indicated in a 
+way that easily notifies the driver that a change has been made. 
+1.15.11.2.  The System shall transmit and record the following from the MDC for each 
+trip: 
+ 
+1.15.11.2.1.  Pickup arrive 
+ 
+1.15.11.2.2.  Pickup depart 
+ 
+1.15.11.2.3.  Dropoff arrive 
+ 
+1.15.11.2.4.  Dropoff depart 
+ 
+1.15.11.2.5.  No‐show (when applicable) 
+1.15.11.2.6.  Automatic Vehicle Location (AVL) 
+1.15.11.3.  System shall provide vehicle GPS Location, including speed and direction to 
+dispatch and for AVL tracking history.
+=== page 32 ===
+RFP‐23‐24177 – Addendum 2 
+Page 19 
+1.15.11.4.  The driver must be able to access additional screens that provide additional 
+functionality via single keystrokes, use of function keys, or similar one‐stroke methods. 
+Access to additional screens must be restricted while the vehicle is in motion. 
+1.15.11.5.  Real‐time messaging between drivers and dispatch:  
+1.15.11.6.  The MDC shall receive text messages from the central system, alerting the 
+operator with an audible and visual signal when a new message has been received.  
+Driver must be able to acknowledge receipt of a message.  Driver must be able to send 
+text messages through the System application to dispatch, which must alert dispatch of 
+incoming messages from drivers. 
+1.15.12.  Troubleshooting and maintenance. 
+1.15.13.  It is the Contractor’s responsibility to determine the available and most appropriate 
+communication provider and service for use in mobile data communication.  The County prefers 
+wireless communication networks maintained by existing cellular carriers with sufficient service 
+coverage in the geographic area. 
+1.16.  Mapping:  
+1.16.1.  The System shall include Geographic Information System (GIS) based route mapping 
+tools as an integral part of trip reservations, scheduling, dispatch and AVL tracking.  The System 
+must incorporate GIS capabilities and allow user access to map views of the service area; 
+specific street address; or other specified user‐defined zoom levels. 
+1.16.2.  All addresses must be able to be geocoded for display on a map.  The System shall have 
+full geocoding capability allowing user to enter an address and locate the address on the map.  
+The System shall permit manual assignment of x‐ and y‐ coordinates in the event an address 
+cannot be geocoded.  The System shall be able to save commonly used addresses including an 
+address name. 
+1.16.3.  The System shall be able to display a current map of Hillsborough COUNTY, including all 
+major roadways and must be capable of zooming map sizes and level of detail.  The System must 
+be able to display on a map the current location of any vehicle in service.  The System shall be 
+able to display any client address, single trip pickup and drop‐off addresses, and single and 
+multiple vehicle routes on a map. 
+1.16.4.  It is desirable that the System maps shall incorporate real time traffic information for 
+dispatch and/or MDCs. 
+1.16.5.  The System shall be capable of exporting map data to other software platforms, at a 
+minimum providing address, longitude and latitude, enabling external GIS analyses.  The System 
+shall be capable of printing on‐screen maps to system printers. 
+1.16.6.  Maps must include local transit system (currently HART) fixed route information as 
+described below.
+=== page 33 ===
+RFP‐23‐24177 – Addendum 2 
+Page 20 
+1.17.  Bus Route Information 
+1.17.1.  The System maps shall include fixed route information for the local transit system, 
+currently Hillsborough Transit Authority (HART).  The Contractor is responsible for obtaining this 
+information and incorporating it into the System.  A bus route overlay view option must be 
+available to users when viewing the map from the client or trip record.   
+1.17.2.  The System shall be able to incorporate GTFS files from the local transit authority and 
+update this information in the System as new GTFS files are made available by the transit 
+authority.  These GTFS files are typically updated approximately quarterly or for any major 
+service update by the transit authority.  Based on this GTFS data, the System shall be able to 
+display transit service corridor information such that COUNTY staff can determine if an address 
+or trip is within the transit service corridor or not based on whether or not the address(es) is 
+within a defined distance from the bus route, and what fixed transit route is available for that 
+trip.   This would be similar to ADA service corridors, based on a specific distance from transit 
+service routes.  Fixed route service area boundary shall be readily identifiable sufficient to 
+determine if requested trip origins and destinations are within the service area. The ability to 
+edit service area boundaries and set custom geofencing should be included.  The Contractor 
+shall be responsible for obtaining current map data for the System and shall provide for 
+updating of map files as needed. 
+1.18.  Billing and Reporting 
+1.18.1.  The County bills for completed passenger trips and bus passes issued and does not bill 
+for no‐shows or cancelled trips.  The System shall provide for trips and passes to be billed to 
+funding agencies by the following units at a minimum:   
+1.18.1.1.  One‐way passenger trip based on trip type 
+1.18.1.2.  Per pass issued based on pass type 
+1.18.1.3.  Purchase cost (example: cab fare) plus administration  
+1.18.2.  The System shall be capable of specifying the funding source for each one‐way trip and 
+bus pass.  There may be more than one funding agency active during the same time period for a 
+client.  Certain funding agencies are restricted to specific trip purposes.  The System should 
+prevent the entry of a trip without an active funding source and trip types not allowed for a 
+specific funding source. 
+1.18.3.  The System shall allow multiple billing rates for each funding agency for different types 
+of trips or client eligibility (example: Aging Services single trip rate, Aging Services group trip 
+rate), and shall provide for different billing rates for different mobility types (ambulatory, 
+wheelchair, etc.) as defined by County staff.  Provider reimbursement rates shall allow separate 
+rates for ambulatory, wheelchair and escort trips.

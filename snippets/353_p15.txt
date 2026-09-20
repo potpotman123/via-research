@@ -1,0 +1,176 @@
+# source: raw/bleecker_drive/2.0 TIPS Cooperative Agreement/240101_CONTRACT_Technology_Via_Transportation.pdf
+# path: raw/bleecker_drive/2.0 TIPS Cooperative Agreement/240101_CONTRACT_Technology_Via_Transportation.pdf
+# hit page: 15 of 42
+# terms: Via Transportation, Via+drivers, Via+turnkey
+
+=== page 14 ===
+Vendor Agreement Signature Form
+River North Transit LLC - TIPS
+Vendor Agreement Signature
+Form.pdf
+The Vendor Agreement Signature Form must be downloaded from the “Attachments” section of the IonWave eBid
+System, reviewed, properly completed, and uploaded to this location. If Vendor has proposed deviations to the Vendor
+Agreement, Vendor may leave the signature line of this page blank and assert so in the Attribute Questions and those
+shall be addressed during evaluation.
+Certificates & Licenses (Supplemental Vendor Information Only)
+No response
+Optional. If Vendor would like to display any applicable certificates or licenses (including HUB certificates) for TIPS and
+TIPS Member Customer consideration, Vendor may upload those at this location. These supplemental documents
+shall not be considered part of the TIPS Contract. Rather, they are Vendor Supplemental Information for marketing
+and informational purposes only.
+Pricing Form 1
+River North Transit LLC - TIPS
+Pricing Form 1.xlsx
+Pricing Form 1 must be downloaded from the “Attachments” section of the IonWave eBid System, reviewed, properly
+completed as instructed, and uploaded to this location.
+Reference Form
+River North Transit LLC - TIPS
+Reference Form.xlsx
+The Reference Form must be downloaded from the “Attachments” section of the IonWave eBid System, reviewed,
+properly completed, and uploaded to this location. The Reference Form must be uploaded in Excel format.
+Pricing Form 2
+River North Transit LLC - TIPS
+Pricing Form 2.xlsx
+Pricing Form 2 must be downloaded from the “Attachments” section of the IonWave eBid System, reviewed, properly
+completed as instructed, and uploaded to this location.
+Vendor’s Warranties, Terms, and Conditions (Supplemental Vendor
+Information Only)
+No response
+Optional. If Vendor would like to display any standard warranties, terms, or conditions which are often applicable to
+their offerings for TIPS and TIPS Member Customer consideration, Vendor may upload those at this location. These
+supplemental documents shall not be considered part of the TIPS Contract. Rather, they are Vendor Supplemental
+Information for marketing and informational purposes only.
+Supplemental Vendor Information (Supplemental Vendor Information
+Only)
+River North Transit LLC - TIPS
+Catalog.pdf
+Optional. If Vendor would like to display or include any brochures, promotional documents, marketing materials, or
+other Vendor Information for TIPS and TIPS Member Customer consideration, Vendor may upload those at this
+location. ​ These supplemental documents shall not be considered part of the TIPS Contract. Rather, they are Vendor
+Supplemental Information for marketing and informational purposes only.
+Bid Attributes
+1
+Disadvantaged/Minority/Women Business & Federal HUBZone
+Some participating public entities are required to seek Disadvantaged/Minority/Women Business & Federal
+HUBZone ("D/M/WBE/Federal HUBZone") vendors.  Does Vendor certify that their entity is a D/M/WBE/Federal
+HUBZone vendor?
+ 
+If you respond "Yes," you must upload current certification proof in the appropriate "Response Attachments"
+location.
+NO
+Vendor: Via Transportation Inc
+240101
+Page 4 of 31 pages
+=== page 15 ===
+2
+Historically Underutilized Business (HUB)
+Some participating public entities are required to seek Historically Underutilized Business (HUB) vendors as defined
+by the Texas Comptroller of Public Accounts Statewide HUB Program.  Does Vendor certify that their entity is a HUB
+vendor?
+ 
+If you respond "Yes," you must upload current certification proof in the appropriate "Response Attachments"
+location.
+ 
+No
+3
+National Coverage
+Can the Vendor provide its proposed goods and services to all 50 US States?
+Yes - All 50 States
+4
+States Served
+If Vendor answered "No" to the question entitled "National Coverage," please list all states where vendor can
+provide the goods and services proposed directly below.  Your response may dictate which potential TIPS Member
+customers consider purchasing your offerings.
+ 
+N/A
+5
+Description of Vendor Entity and Vendor's Goods & Services
+If awarded, this description of Vendor and Vendor's goods and services will appear on the TIPS website for
+customer/public viewing.
+Via offers an end-to-end transportation technology platform and a turnkey operating model that allows partners of
+all sizes and levels of complexity to manage every aspect of public mobility. We offer innovative software and
+services that include student transportation, microtransit, ADA paratransit, senior transportation, and integrated
+trip planning and payment systems. To date, we have deployed transit solutions in partnership with over 700
+communities in over 40 countries around the world, powering over 140 million rides. As the direct operator of over
+75 transportation services around the globe, we deeply understand the day-to-day realities that public entities and
+nonprofits, including school districts, cities, counties, and regional agencies, face in delivering public transit. This
+first-hand experience directly informs our software products and operational models, allowing us to ensure that our
+offering is tailored to meet the specific needs of our partners and their communities. ​ ​ Since Via’s founding in
+2012, we have delivered exceptional service to our partners and have collaborated with them to improve
+accessibility for their communities. Along the way, we have heard countless stories about the positive impact of our
+services from Riders (“I am able to get to where I need, at a cost I can actually afford”), Drivers (“It feels good to be
+able to provide a service and help people accomplish the things they need to during the day”), and Partners (“This
+partnership with Via is the next generation of what public transportation can be”). Building upon our experience
+delivering large-scale transportation services around the world, we are proud to have built a strong reputation for
+providing transportation that is safe, reliable, and efficient, especially for the passengers that need it most.
+6
+Primary Contact Name
+Please identify the individual who will be primarily responsible for all TIPS matters and inquiries for the duration of
+the contract.
+Greg Centini
+7
+Primary Contact Title
+Primary Contact Title
+Director of Student Transit
+Vendor: Via Transportation Inc
+240101
+Page 5 of 31 pages
+=== page 16 ===
+8
+Primary Contact Email
+Please enter a valid email address that will definitely reach the Primary Contact.
+greg.centini@ridewithvia.com
+9
+Primary Contact Phone
+Numbers only, no symbols or spaces (Ex. 8668398477). The system will auto-populate your entry with commas
+once submitted which is appropriate and expected (Ex. 8,668,398,477).
+ 
+Please provide the accurate and current phone number where the individual who will be primarily responsible for all
+TIPS matters and inquiries for the duration of the contract can be reached directly.
+4349624835
+1
+0
+Primary Contact Fax
+Numbers only, no symbols or spaces (Ex. 8668398477). The system will auto-populate your entry with commas
+once submitted which is appropriate and expected (Ex. 8,668,398,477).
+No response
+1
+1
+Primary Contact Mobile
+Numbers only, no symbols or spaces (Ex. 8668398477). The system will auto-populate your entry with commas
+once submitted which is appropriate and expected (Ex. 8,668,398,477).
+No response
+1
+2
+Secondary Contact Name
+Please identify the individual who will be secondarily responsible for all TIPS matters and inquiries for the duration
+of the contract.
+Mike Vaccarino
+1
+3
+Secondary Contact Title
+Secondary Contact Title
+Vice President of Partnerships
+1
+4
+Secondary Contact Email
+Please enter a valid email address that will definitely reach the Secondary Contact.
+michael.vaccarino@ridewithvia.com
+1
+5
+Secondary Contact Phone
+Numbers only, no symbols or spaces (Ex. 8668398477). The system will auto-populate your entry with commas
+once submitted which is appropriate and expected (Ex. 8,668,398,477).
+ 
+Please provide the accurate and current phone number where the individual who will be secondarily responsible
+for all TIPS matters and inquiries for the duration of the contract can be reached directly.
+9149438478
+1
+6
+Secondary Contact Fax
+Numbers only, no symbols or spaces (Ex. 8668398477). The system will auto-populate your entry with commas
+once submitted which is appropriate and expected (Ex. 8,668,398,477).
+No response
+Vendor: Via Transportation Inc
+240101
+Page 6 of 31 pages

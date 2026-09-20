@@ -1,0 +1,175 @@
+# source: raw/bleecker_drive/Baldwin/20_1200_Draft_Exhibit_A_-_Via_Statement_of_Work.pdf
+# path: raw/bleecker_drive/Baldwin/20_1200_Draft_Exhibit_A_-_Via_Statement_of_Work.pdf
+# hit page: 6 of 9
+# terms: Via Mobility
+
+=== page 5 ===
+Confidential ∙ Page 5 of 9 
+ 
+ 
+Fee Category 
+Amount 
+Invoicing Terms 
+Installation Fee 
+$110,000 
+Via In-Kind Contribution 
+for Federal IMI Grant 
+$22,000 
+Installation Fee (with In-
+Kind) 
+$88,000 
+● First installment 
+ 
+50% ($44,000) 
+Payable upon signing of this 
+Order 
+● Second installment 
+50% ($44,000) 
+Payable upon launch of the 
+Deployment 
+Monthly Fees 
+$216,000 (minimum for 12 months) 
+Via In-Kind Contribution 
+for Federal IMI Grant 
+$18,000 
+Monthly Fees (with In-
+Kind) 
+$198,000 (minimum for 12 months) 
+● Per-Vehicle Fees 
+$16,500 minimum per calendar month, 
+with a minimum of $550 per vehicle per 
+month (i.e., 30-vehicles) 
+Invoiced monthly by Via 
+Total for 12 months 
+$286,000 (minimum excluding additional vehicles, Fees for any 
+Additional Services, and travel expenses) 
+ 
+For the avoidance of doubt, (i) the number of vehicles per month for purposes of the above fees 
+shall be the maximum number of distinct vehicles input by Customer that use the Via Solution (ii) 
+in the event the duration of the Deployment does not exactly match calendar months, monthly 
+fees will be pro-rated for the first and/or last calendar months of the Deployment, as applicable, 
+so that Customer will only be charged for the portion of such months during which the Via Solution 
+was available to be used for the Deployment. 
+ 
+The above fees do not include any fees owed to the third party payment processor. Via will 
+facilitate an introduction to its recommended payment processor and Customer is responsible for 
+entering an agreement with such payment processor in order to be able to process credit card 
+payments.   
+ 
+4. Branding  
+ 
+The Deployment will be branded as [Deployment Name] powered by Via. The “powered by Via” 
+banner must be used only in the exact format provided by Via, and will be prominent on all assets 
+promoting the Deployment, including (but not limited to) printed collateral, digital materials, 
+websites, and any vehicle wraps. The “powered by Via” banner will have equal prominence on all 
+marketing materials to any additional partner logos or trademarks. Via may provide pre-approved 
+brand assets and guidelines that must be complied with in all marketing communications 
+distributed by the Customer. 
+ 
+5. Marketing and Communications Planning and Execution 
+ 
+Customer will maintain a high level of communication across its own Marketing and 
+Communications/Public Relations teams, and the corresponding Via teams. 
+ 
+Customer and Via will work together in good faith on press announcements relating to the 
+Deployment. This will include a joint press release to be reviewed and approved by both parties
+=== page 6 ===
+Confidential ∙ Page 6 of 9 
+ 
+in advance of launch and/or service announcements. In the event it receives any inbound press 
+reach out relating to the Deployment, Customer will notify Via if it has spoken to or will be speaking 
+to media. Customer will direct any questions specifically about Via or the Via Solution directly to 
+the Via Press Office.  
+ 
+Customer shall work collaborate with Via in good faith toward the creation by Via of case study 
+relating to the Deployment, including by providing relevant information and quotes from relevant 
+personnel within four (4) months of the launch date. 
+ 
+ 
+6. Relationship Managers 
+ 
+● Via: [                      ]; additional Expansion Team members designated by Via (the 
+“Via Manager”) 
+● Customer: [                 ] (the “Customer Manager”) 
+ 
+ 
+ 
+VIA: VIA MOBILITY LLC 
+CUSTOMER: [                         ] 
+ 
+_________________________________________ 
+AUTHORIZED SIGNATURE  
+ 
+_________________________________________ 
+PRINTED NAME 
+ 
+_________________________________________ 
+TITLE 
+________________________________________ 
+AUTHORIZED SIGNATURE 
+_________________________________________ 
+PRINTED NAME 
+_________________________________________ 
+TITLE 
+ 
+________________________________________ 
+DATE SIGNED 
+________________________________________ 
+DATE SIGNED
+=== page 7 ===
+Confidential ∙ Page 7 of 9 
+ 
+Appendix 1 to Service Order 
+ 
+Data Sharing 
+ 
+ 
+Authorized Users - Contract 
+ 
+The below exhibit sets forth the members of the Customer’s “Core Team” who are designated authorized users of the 
+Via Solution and Deployment data. Any usage beyond the members of the Core Team would be in violation of the 
+confidentiality provisions in the Terms. 
+ 
+Exhibit 1. 
+Core Team 
+Title 
+Name 
+[Customer to fill out] 
+[Customer to fill out] 
+ 
+Authorized Operators 
+ 
+Customer may not provide access to the Via Solution to any third party except with Via’s prior written consent. In the 
+event that Customer wishes to engage a third-party operator (“Operator”) to operate the Deployment, Customer shall 
+provide to Via a copy of an Operator Acknowledgement Form in the form required by Via, duly executed by such 
+Operator, as a prerequisite for Via’s allowing the Operator access to the Via Solution. For the avoidance of doubt, no 
+Operator will be allowed access to the Via Solution without having signed the aforementioned Operator 
+Acknowledgement Form. 
+ 
+Data Sharing Plan - Appendix 
+ 
+As part of the Deployment, Via will make below data available to members of the Customer’s Core Team, for the 
+purpose of research and program evaluation. The data to be shared will be uploaded to a Tableau server and protected 
+by Via’s VPN. Each of the individuals listed as members of the Core Team will be provided their own VPN credentials 
+and team credentials for access to Tableau. Access to the Tableau server will be available through the VPN only and 
+might require appropriate software to connect. Underlying data may not be shared through any other method. The data 
+is considered trade secret by Via, and is subject to the confidentiality and other protective provisions set forth in the 
+Terms. 
+ 
+To protect Via’s intellectual property and the privacy of riders, Via will provide the following data tables and 
+dashboards in the form of aggregated Tableau reports that will be provided for Customer’s access. These reports will 
+be refreshed daily.  The reports are aggregated, deidentified and do not include any personal information of Riders. 
+ 
+In addition to the data outlined in this appendix, per the requirements for Federal IMI grant awardees, data under this 
+service will be subject to a Data Management Plan (DMP), which Via and Customer will finalize in partnership with 
+the Federal Transit Administration (FTA).  
+ 
+STANDARD REPORTING SET 
+Data Point 
+Level of Detail 
+rider ID 
+per request 
+ride ID 
+per request 
+request date + time 
+per request and truncated to minute

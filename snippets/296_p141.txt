@@ -1,0 +1,91 @@
+# source: raw/bleecker_drive/0.0 OMNIA Cooperative Agreement/R250802_Via_Transportation_MAD_Redacted_081825_01.pdf
+# path: raw/bleecker_drive/0.0 OMNIA Cooperative Agreement/R250802_Via_Transportation_MAD_Redacted_081825_01.pdf
+# hit page: 141 of 191
+# terms: Citymapper, Via+drivers, Via+fleet, Via+turnkey, Via+vehicles
+
+=== page 140 ===
+H. Principal Business Location/Employee Count
+Via’s headquarters are located in New York City. Across the United States, we employ 
+over 700 experts in engineering, operations, business development, transit planning, 
+launch, quality assurance, product, marketing, and more. 
+We do not employ 500 or more individuals in Texas. 
+    RFP No. 25-08  |  53
+=== page 141 ===
+I. Any Other Relevant Factor
+1. Provide any other relevant information.
+Over the past twelve years, we have developed the world’s most advanced transportation 
+technology system, offering a unique and fully integrated end-to-end public transit 
+solution for Region 4 and OMNIA participating entities. Our comprehensive software and 
+services package includes advanced route planning algorithms, a fleet management 
+module, and user-friendly applications for dispatchers, drivers, and riders, as well as all 
+necessary operating services (such as drivers, vehicles, maintenance, and system 
+management). 
+What sets us apart in the industry is our ability to seamlessly integrate a wide range of 
+services into a cohesive ecosystem. While each of our solutions—microtransit, 
+paratransit, turnkey operations, fixed route, NEMT, street design, transit planning, 
+consulting, and Citymapper (mobility-as-a-service)—can be implemented individually, our 
+unique advantage is the ability to combine all of these components into a single, fully 
+integrated transit network unlike anything else on offer in the market. This is a 
+transformative innovation for transit agencies, offering several key benefits: 
+●
+Unified Platform for Diverse Transit Modes: Microtransit, fixed route, paratransit,
+and NEMT services all operate seamlessly under a single platform, giving agencies
+real-time visibility and centralized control over their entire network. This unified
+system reduces operational silos and streamlines management, enabling agencies
+to balance resources efficiently across various service types.
+●
+Unified Technology and Operations: Via offers an all-in-one solution that
+combines advanced software with full operational support, eliminating the need for
+multiple providers. By managing both technology and day-to-day operations, we
+create a streamlined, highly efficient experience. This integrated approach
+provides consistent performance, rapid implementation, and simplified
+management across all transit modes.
+●
+Real-Time Data Sharing Across Services: Our solution allows for real-time data
+sharing between all service types. For example, insights from fixed-route
+schedules can inform microtransit and paratransit operations, enabling better
+coordination between these services. This enhances efficiency by minimizing
+service gaps, reducing wait times, and offering passengers a smoother transfer
+between different modes of transport.
+    RFP No. 25-08  |  54
+=== page 142 ===
+●
+Dynamic Route Optimization: With advanced AI and machine learning algorithms,
+our platform constantly optimizes routes across microtransit, NEMT, and
+paratransit services based on live demand. This ensures that resources are
+deployed efficiently, and ride times are minimized, helping agencies to cut costs
+and improve service delivery.
+●
+Integrated Planning and Scheduling: Our transit planning software works in
+tandem with fixed route scheduling, on-demand planning, and street design tools,
+allowing agencies to design, adjust, and implement route networks that align with
+real-world demand and urban development. The integration of planning software
+with operational tools ensures that transit systems are not only well-planned but
+are also responsive to changes in rider demand, traffic conditions, or other
+external factors.
+●
+Intermodal MaaS Capabilities: With our Citymapper MaaS platform, riders can
+easily navigate between different modes of transport—whether it is public transit,
+microtransit, bike-sharing, or ride-hailing—all from a single app. This integrated
+mobility approach ensures that riders have maximum flexibility and convenience,
+while agencies benefit from increased ridership and better data on multimodal
+travel patterns.
+●
+Efficient Resource Allocation: The platform enables transit agencies to
+dynamically allocate vehicles and staff between different service types. For
+instance, during off-peak times, vehicles typically used for fixed routes could be
+redeployed to serve on-demand microtransit or NEMT trips, maximizing fleet
+utilization and ensuring that no vehicles sit idle.
+●
+Single Point of Accountability: Since all services and software tools are integrated
+under one platform, there’s a single point of accountability for operations,
+reporting, and troubleshooting. This eliminates the challenges that often arise from
+managing multiple vendors or systems, reducing operational complexity and
+ensuring smooth communication across all services.
+Via’s software solutions’ level of interoperability transforms how transit agencies manage 
+their operations, offering unparalleled coordination, improved operational efficiency, 
+reduced costs, and enhanced user experiences for riders, drivers, and agency staff. Our 
+exceptional track record in recruiting and retaining qualified drivers, combined with 
+flexible vehicle sourcing options, enables rapid deployment while ensuring high quality 
+and safety standards. Ultimately, our unique combination of technologies and services 
+    RFP No. 25-08  |  55

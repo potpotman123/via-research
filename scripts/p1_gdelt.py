@@ -15,8 +15,8 @@ for q in QUERIES:
     r = get(s, "https://api.gdeltproject.org/api/v2/doc/doc",
             params={"query": q, "mode": "artlist", "maxrecords": 250, "format": "json",
                     "startdatetime": "20170101000000", "enddatetime": "20260920235959", "sourcecountry": "US"},
-            timeout=120)
-    time.sleep(6)
+            timeout=180)
+    time.sleep(16)
     if not r or r.status_code != 200:
         log(f"{q}: status {r.status_code if r else None} {(r.text[:120] if r else '')}")
         continue

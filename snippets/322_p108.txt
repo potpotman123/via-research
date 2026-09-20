@@ -1,0 +1,179 @@
+# source: raw/bleecker_drive/Hillsborough County/Completed Contract File.pdf
+# path: raw/bleecker_drive/Hillsborough County/Completed Contract File.pdf
+# hit page: 108 of 199
+# terms: Via+fleet
+
+=== page 107 ===
+The team is fully committed to meeting all of Hillsborough’s needs and ensuring the success of the
+service. Our team will ensure that all dispatchers, operators, and other Sunshine Line staff are
+trained and prepared to successfully use the system on the first day of live service. Our
+administrative console is built with dispatchers in mind — we will act as a true partner to
+Hillsborough County, taking staff feedback to continue improving our platform.
+“The level of convenience Via brings to our Transportation Disadvantaged riders
+far exceeds the previous standard. We’ve heard from many satisfied
+customers.”
+- Seth Kling, Sarasota County Area Transit ՄSCATՅ Paratransit & Transit Services
+Manager
+Deep Commitment to Florida
+Via maintains a strong presence across Florida, and our project team is deeply familiar with the
+operational environment, regulatory requirements, and other aspects of powering demand
+response services in the state. Via currently powers mobility services in Miami-Dade County, Key
+West, Palm Beach County, Sarasota County, and St. Lucie County, collectively serving over
+855,000 trips. Below are snapshots of several of our partnerships in Florida:
+Palm Beach County
+By replacing their legacy
+dial-a-ride program, Via helped
+the County reduce average wait
+times in half for both
+pre-scheduled and on-demand
+trips.
+Miami-Dade County
+Via launched “Go Connect” in Miami,
+Florida to help residents connect to
+existing transit hubs and key nearby
+locations. Our connecting services
+have provided riders with 3X shorter
+walking distances to transit.
+St. Lucie County
+Since Via replaced St. Lucie
+County’s legacy provider, riders
+have been deeply satisfied with
+their technology experience, rating
+our app 4.9 out of 5 on average and
+doubling in ridership since launch.
+1.2 Financial Viability
+Via is financially viable for this project, with a strong record of stable and ongoing growth. Since
+our founding, Via has raised more than $1 billion from leading mobility and technology investors.
+Major investments by leading investment firms such as Exor (with significant ownership stakes in
+Stellantis, Ferrari, and The Economist), Janus Henderson, Blackrock, and several leading venture
+capital and strategic investors, are a strong testament to our financial health and bright future. We
+have no conditions that will impede our ability to complete this project.
+Proprietary, Confidential, and Trade Secret Information
+RFP‐23‐24177 | 4
+=== page 108 ===
+1.3 Company History
+Via has been in business for eleven years (since 2012Յ. We envision a future where efficient,
+affordable, and sustainable transportation is available to all. We believe that access to mobility
+promotes human connections, creates economic opportunity, and fosters more equitable
+communities.
+Over the past eleven years, we have built a suite of software designed to allow cities and transit
+agencies to transform their legacy transportation systems into smart, data-driven, technology-
+enabled networks and manage every aspect of public mobility. We offer solutions for microtransit,
+ADA paratransit, senior transportation, integrated trip planning and payment systems, electric
+vehicle ՄEVՅ charge management, autonomous vehicle ՄAVՅ fleet management, school bus routing,
+fixed route planning and scheduling through Remix, and dynamic road-usage charging ՄRUCՅ. To
+date, our software is used by over 650 cities and transit agencies in nearly 50 countries and we
+have powered over 100 million rides around the world.
+1.4 Proposed Project Team
+Via’s dedicated Hillsborough County Project Team will manage, supervise, and advise on every
+aspect of service design and delivery, leveraging their experience launching and optimizing Via
+services and Routematch transitions similar to Hillsborough County’s.
+Further, we believe that enhanced coordination will enable a smooth transition for the County and
+have therefore emphasized dedicated team members, highly experienced paratransit and system
+migration professionals, and on-the-ground presence to ensure the success of the implementation
+and the service overall.
+Our Project Team includes:
+Paratransit Technology Expert and
+Relationship Manager:
+Chris Campbell will closely guide
+pre-launch, contracting, and launch
+efforts to ensure a successful
+service. Chris benefits from his
+unique understanding of both
+Routematch and Via’s software
+platforms and is fully committed to a
+seamless platform transition.
+About Chris:
+Chris is an expert in paratransit
+technology with:
+●
+24 years of professional
+experience
+●
+22 years as the Regional
+VP at Routematch
+●
+2 years as the Global
+Director of Partnerships at
+Via
+Proprietary, Confidential, and Trade Secret Information
+RFP‐23‐24177 | 5
+=== page 109 ===
+Paratransit Operations Expert:
+Alex Lavoie will be personally
+involved in the service design and
+operations outcomes of
+Hillsborough’s paratransit service.
+Alex Lavoie is one of the country’s
+most experienced operators of
+tech-enabled demand-response and
+paratransit services. He has launched
+and operated services that
+successfully move millions of
+passengers every year.
+About Alex:
+Alex is the Chief of Operations at
+Via with:
+●
+13 years of professional
+experience
+●
+9 years in an executive
+role at Via
+●
+More than 200 services
+launched and managed
+Dedicated Project Manager:
+Rachel Birnbaum is a recognized
+expert in paratransit technology and
+operations. Rachel will be the
+County’s dedicated Project Manager,
+as we believe that successful
+implementations depend on high
+touch, on-the-ground involvement
+and change management support.
+About Rachel:
+Rachel leads Via’s launch team
+across North America and
+Canada with:
+●
+12 years of professional
+experience
+●
+Over 60 services
+launched including 30
+paratransit services and 8
+routematch replacements
+In-Person Launch Manager:
+We are committed to providing
+dedicated, on-the-ground training
+and support for Hillsborough County’s
+staff. Via’s dedicated launch team will
+be led by Jahan Nanji and will deliver
+a customized, hands-on training
+program to ensure that all relevant
+Hillsborough County personnel are
+equipped to use the Via platform and
+operate the service successfully.
+Jahan specializes in data migration
+from legacy systems and will ensure
+a seamless transition of existing
+account and trip information.
+About Jahan:
+Jahan is a seasoned Principal on
+our Launch team with:
+●
+5 years of professional
+experience
+●
+Over 30 services,
+including 10֡ paratransit
+services, launched
+●
+Over 15 successful data
+migrations led, including
+the migration of Hampton
+Roads Transit’s 8,000֡
+rider accounts
+Proprietary, Confidential, and Trade Secret Information
+RFP‐23‐24177 | 6

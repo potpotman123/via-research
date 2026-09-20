@@ -1,0 +1,250 @@
+# source: raw/bleecker_drive/Howard County/20240425142522337 RFP 07-2024 Cost File Final.pdf
+# path: raw/bleecker_drive/Howard County/20240425142522337 RFP 07-2024 Cost File Final.pdf
+# hit page: 2 of 4
+# terms: Via+hourly rate, Via+per hour
+
+=== page 1 ===
+Request for Proposals No. 07-2024 
+$_____________ 
+COST FILE 
+ 
+PRICE PROPOSAL COVER PAGE 
+(Must be submitted separately from the Technical portion of the proposal) 
+ 
+ 
+COMPANY NAME: 
+ 
+TITLE: Howard County Micro Transit Pilot 
+ 
+NIGP CODE/PRODUCT CODE: 95891 Transit Management Services 
+ 
+ 
+ 
+ 
+ITEM 
+COMMODITY/SERVICE 
+ESTIMATED 
+UNIT PRICE 
+EXTENDED 
+NO. 
+DESCRIPTION 
+ANNUAL 
+U/M 
+(2 Decimal 
+PRICE 
+QUANTITY 
+Places Only*) 
+ 
+ITEM 1 
+Implementation and Integration 
+Fee 
+1 
+ea 
+ITEM 2 
+Monthly Management Fee 
+12 
+month 
+ITEM 3 
+Monthly Microtransit Software 
+License 
+12 
+month 
+ITEM 4 
+Hourly rate per revenue vehicle 
+5000 
+Hour 
+ITEM 5 
+Software Training - Startup 
+1 
+Lump sum 
+ITEM 6 
+Additional Software Training 
+1 
+Per hour 
+ITEM 7 
+Onboard Hardware per vehicle 
+4 
+ea 
+TOTAL 
+$ 
+ 
+$ 
+ 
+TOTAL PROPOSAL PRICE $ 
+ 
+ 
+ 
+* Please note that prices shall only have TWO DECIMAL PLACES. The County’s financial system will not allow more than two 
+decimal places, adjust responses accordingly. 
+ 
+INVOICE PROCEDURE FOR SUCCESSFUL CONTRACTORS: 
+ 
+In order to facilitate prompt payment, invoices must contain the above commodity and/or service descriptions and pricing. Invoices 
+failing to contain the required line item detail, including contract line number and unit pricing, may be returned for correction. Please 
+submit a sample invoice with the response. 
+ 
+ 
+SIGNATURE:  
+ DATE: 
+ 
+PRINTED NAME:  
+ TITLE:
+=== page 2 ===
+Request For Proposals No. 07-2024 
+ 
+Information on Howard County, Maryland’s Living Wage Requirement 
+Basics of the Howard County Living Wage Legislation 
+In 2007, the Howard County Council passed legislation requiring a minimum “living wage” for employees of certain 
+contractors and subcontractors of Howard County. A Contractor that is defined as a “Covered Employer” under Howard 
+County Code Section 4.122A shall pay each employee an hourly rate sufficient to at least equal 125% of the federal poverty 
+guidelines for a family of four individuals calculated on the basis of a 40-hour work week for 52 weeks. 
+Howard County Code Sec. 4.122A applies to service contracts estimated to be over $100,000.00 per year. The code does 
+not apply to commodities contracts, contractors who employ fewer than 5 employees during the contract term, public 
+entities, non-profit organizations, or contracts awarded under emergency, or expedited procedures. Other contractors may 
+also be exempt; see the complete list of exemptions in Section 1 on the front of this form. 
+The living wage requirements do not apply to an employee: 
+• 
+who performs no measurable work related to any contract with the County 
+• 
+who participates in a government-operated or government-sponsored program that restricts the earnings of or wages 
+paid to employees to a level below the wage required under the law 
+• 
+who participates for not longer than 120 days in a calendar year in a government-operated or government-sponsored 
+summer youth employment program 
+• 
+for whom a different wage rate is expressly set in a collective bargaining agreement, or 
+• 
+for whom a higher wage is required by a federal, state, or County law. 
+This form serves as written certification to the County of your firm’s intent to comply with the County’s wage requirements 
+during this term and any subsequent renewals. A Covered Employer shall not subdivide a contract; pay an employee through 
+a third party; or treat an employee as a subcontractor or independent Contractor to avoid the imposition of any requirement 
+under this law. Failure to comply with this requirement at any time during the initial term and subsequent renewals may be 
+sufficient cause for termination for default. A violation of this law is a Class A civil offense; in addition to a fine, the County 
+may suspend or debar the violator under Howard County Code Sec. 4.117. 
+ 
+Current Living Wage Rate in Howard County 
+As of January 12, 2024, the Living Wage Rate is $18.75 per hour. 
+ 
+How the Living Wage Rate is Calculated 
+The Howard County Living Wage Rate is calculated by taking 125% of the Federal Poverty Guideline for a family of 4, 
+then using this amount to determine the hourly rate based on 40 hours/week. On January 12, 2024, the Federal HHS Poverty 
+Guideline was published as $31,200 for a family of 4 (see https://aspe.hhs.gov/poverty-guidelines). 
+ 
+125% of $31,200 = $39,000.00 
+$39,000.00 ÷ 52 weeks ÷ 40 hrs/week = $18.75 per hour 
+This hourly rate must be paid to employees (full-time or part-time) during the time the employees actually provide services 
+to the County. The current Living Wage remains in effect until new federal poverty guidelines are published, which is 
+usually the following January. If there is a change, the Office of Procurement and Contract Administration will attempt to 
+notify all current contractors via email using the email address provided on this form. The current rate is posted on our 
+website at https://www.howardcountymd.gov/procurement-contract-administration. It is the contractor’s responsibility to 
+ascertain the current rate. 
+ 
+Since the rate is subject to change annually, you must ensure that your bid pricing is sufficient to cover the cost of 
+any increases during the term of the contract, including subsequent renewals. All prices shall take the current wage 
+rate, and subsequent increases in the wage rate, if any, into account and there shall be no unit price adjustment for future 
+wage rate increases during the initial term of this agreement and any subsequent renewals thereof. Future wage rate increases 
+are hereby defined as any new rates approved by the County that take effect after and supersede the rate shown in this 
+solicitation. 
+If you have questions about the Living Wage Requirement or how to complete this form, please contact the 
+Office of Procurement and Contract Administration at purchasing@howardcountymd.gov or 410-313-6370.
+=== page 3 ===
+Request For Proposals No. 07-2024 
+ 
+Section 3: 
+Contact Information 
+Provide your contact information in the space below, then sign and date this form and submit it 
+with your bid. 
+ 
+ 
+ 
+ 
+Prime 
+ Sub- 
+Contr. 
+Contr. 
+Howard County, Maryland Wage Rate Requirements for Service Contracts 
+Exemption Status Subtitle 1, Howard County Code Section 4.122A(b)(2) 
+□ 
+□ 
+Contractor or Subcontractor employs fewer than 5 employees at any time during the contract term. 
+□ 
+□ 
+Contractor or Subcontractor received less than $100,000 from the County in the most recent 12-month period 
+prior to the start date, and will be entitled to receive less than $100,000 from the County within the next 12-month 
+period. 
+□ 
+□  Contractor or Subcontractor is a nonprofit organization that has qualified for an exemption from federal income 
+taxes under Section 501(c)(3) of the Internal Revenue Code. 
+□ 
+□  Contractor or Subcontractor is expressly precluded from complying with Howard County Code Sec. 4.122A by 
+the terms of any federal, state, or County law, federal or state contract or grant, and the contract falls within that 
+preclusion. 
+□ 
+□ 
+Contractor or Subcontractor is a public entity. 
+□ 
+□ 
+Contractor or Subcontractor participates in a contract awarded under Howard County Code Secs. 4.111 
+(Emergency), or 4.112 (Expedited). 
+□ 
+□ 
+Contractor or Subcontractor is a regulated public utility. 
+□ 
+□ 
+Contract was awarded under a cooperative procurement with another government or organization of 
+governments. 
+Check here □ if none of the above statements are applicable to your company or the Subcontractor, then continue to Section 2. 
+ 
+Section 2: 
+Certifications 
+• 
+If you checked any exemptions in Section 1, skip this section and continue to Section 3. 
+• 
+If you did not check any exemptions in Section 1, check each box in Section 2 that applies to your 
+company, then complete Section 3 below. 
+I do hereby certify that I have read and understand the provisions of Section 4.122A of the Howard County Code, that I am an authorized 
+representative of the Contractor named below, and that: 
+□ 
+As a “covered employer,” the Contractor and all Subcontractors will comply with the County’s Wage Rate Requirements 
+for Service Contracts (Howard County Code Sec. 4.122A) and will pay all employees not exempt under the wage 
+requirements, and who perform direct measurable work for the County, the applicable wage requirements at the time the work 
+is performed. The Contractor will keep the records necessary to show compliance and will submit such records to the 
+Purchasing Agent on request of the Purchasing Agent; and will publicize the requirements of this law to any employees who 
+may be covered by the law. The Contractor’s proposed pricing is sufficient to meet the current living wage rate requirements 
+during the initial term of the agreement and any increases applicable to subsequent renewals. 
+□ 
+If health insurance is provided to employees, the per employee hourly cost of the premium for health insurance to an 
+employee who provides services to the County that appears in the bid or proposal is correct. 
+ 
+Contractor Name  
+  Vendor Federal ID Number  
+ 
+Address  
+   Phone Number  
+  
+ 
+    Email Address  
+  
+Authorized Signature  
+   Date  
+  
+Print Name of Signatory  
+  Title of Signatory  
+ 
+ 
+To be 
+completed 
+by the 
+Buyer 
+Contract Title: 
+Buyer’s 
+Initials: 
+Contract #: 
+Contract Term: 
+Capital Project No: 
+Renewal #: 
+rev 01-12-2024 
+Section 1: 
+Exemptions 
+Check all that apply, then continue to Section 2. If none of these statements apply to your 
+company or the Subcontractor, check the last box in this section and continue to Section 2.

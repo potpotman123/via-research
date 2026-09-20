@@ -1,0 +1,97 @@
+# source: raw/bleecker_drive/Lee County/RFP250034SML Via Mobility Executed.pdf
+# path: raw/bleecker_drive/Lee County/RFP250034SML Via Mobility Executed.pdf
+# hit page: 16 of 171
+# terms: Via+fleet, Via+vehicles
+
+=== page 15 ===
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7
+8/20/2025 | 6:28 PM EDT
+Chair
+Kevin Ruane
+=== page 16 ===
+Solicitation No. RFP250034SML 
+Page 16 of 36 
+EXHIBIT A 
+SCOPE OF WORK 
+SCOPE OF WORK 
+1. Demand-Response Rideshare Service
+1.1 
+The Vendor shall provide a paratransit service software management system for a
+scheduled, dynamic mobility service that can primarily book and schedule trips. 
+The software system provided by the Vendor shall utilize an online platform 
+application accessible via mobile devices that can communicate in English, 
+Spanish, and Haitian-Creole. 
+1.2 
+The Vendor’s system shall be dynamic in terms of its ability to adapt and adjust in 
+real-time and based on current conditions. 
+1.3 
+The Vendor’s system shall include but is not limited to ‘Self-dispatch’ solutions that 
+provide customers a direct portal to personally book transportation for door-to-door, 
+transportation requests. 
+1.4 
+The Vendor’s system shall include continuous dynamic optimizing of trips to the 
+best vehicle/route throughout the day to ensure on-time performance of all requested 
+rides. 
+2. Services
+2.1 
+The Vendor’s System must include a payment process formatted for reporting 
+delivery method (API Integration) for passengers to utilize the app for payment or 
+paying cash on the vehicle. 
+2.2 
+The Vendor’s system must provide LeeTran the ability to book a trip on behalf of 
+Agency Users who do not have the App. 
+2.3 
+The Vendor’s System shall have a shared rider matching algorithm to improve 
+subsidy per ride and data reporting. 
+2.4 
+The Vendor’s System shall have a Fleet Tool - Real-time tracking of Agency’s fleet 
+(CAD/AVL) of transit vehicles and ability to communicate in real-time with fleet 
+driver/operators. 
+2.5 
+The Vendor’s System shall have access to Agency specific customization and 
+configurability options, including driver management, driver performance, vehicle 
+management, live map/dispatching, and driver communication tools. 
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7
+=== page 17 ===
+Solicitation No. RFP250034SML 
+Page 17 of 36 
+2.6 
+The Vendor’s System shall be accessible to persons with disabilities through a 
+website portal and mobile application. 
+3. Access to Technology Platforms for Transit Agencies
+3.1 
+The Vendor’s System shall provide LeeTran’s User Administration to add or 
+remove authorized users to LeeTran Agency Account. 
+3.2 
+The Vendor’s System shall have an agency specific data and dashboard information 
+to better understand rider travel patterns to include customization and 
+configurability features for the Fleet Tool and other operational tools. 
+3.3 
+The Vendor’s System must enable real time rider feedback on quality issues via 
+mobile application and access to book trips via an app, provided any time of day 
+(24 hours/7 days a week, 365 days a year) and solution must be fully functional via 
+Chrome, pre-scheduling trips with a turn-key product. If another browser is 
+essential to system operation, Vendor must indicate required browser to be used. 
+3.4 
+The Vendor’s System must provide Administrative and Dispatcher user interface 
+and shall be simple, intuitive, and easy to use. A LeeTran Administrator, as 
+determined by LeeTran, shall have the ability to create new accounts for instant 
+login. 
+3.5 
+The Vendor’s system shall provide at least three (3) account privileges 
+(dispatcher/scheduler, viewer, administrator, etc.) with a minimum of twenty-five 
+(25) staff, requiring access to the system and support concurrent logins with no
+degradation of performance.
+3.6 
+The Vendor’s System shall be backed-up and protected for a minimum of five years 
+post contract date. Data shall include but is not limited to: 
+3.6.1 All software configuration settings 
+3.6.2 All LeeTran provided data that has been modified for use by the software 
+3.6.3 New data that has been produced by the software itself 
+3.6.4 All data shall continue to be accessible in the event the contract is 
+terminated during this period of time. 
+3.7 
+The Vendor’s System shall be the current version and compatible with the LeeTran 
+Android tablets. System must ensure that LeeTran is utilizing the latest approved 
+and beta-tested software version available. 
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7

@@ -1,0 +1,105 @@
+# source: raw/bleecker_drive/Baldwin/22_1480_Via_Mobility_LLC_-_First_Extension_and_Amendment_t.pdf
+# path: raw/bleecker_drive/Baldwin/22_1480_Via_Mobility_LLC_-_First_Extension_and_Amendment_t.pdf
+# hit page: 9 of 41
+# terms: Via Mobility
+
+=== page 8 ===
+
+=== page 9 ===
+DocuSign Envelope ID: 46D7BA63-9178-46AF-89F7-BA6A63C7B28B 
+State of Alabama 
+) 
+County of Baldwin 
+CONTRACT FOR PROFESSIONAL SERVICES 
+This CONTRACT FOR PROFESSIONAL SERVICES (the "Contract") is made and entered 
+into by and between Baldwin County, Alabama, acting by and through its governing body, the Baldwin 
+County Commission (hereinafter, "CUSTOMER"), and Via Mobility, LLC, a Delaware limited liability 
+company with its principal office located at 160 Varick Street, Floor 4, New York, New York 10013 
+(hereinafter, "VIA"). 
+WITNESSETH: 
+Whereas, the CUSTOMER manages the Baldwin Regional Area Transit System (BRA TS), 
+which is a federally funded public transportation provider; and 
+Whereas, the CUSTOMER was awarded funding from the Federal Transit Administration 
+(FTA) for participation in the Integrated Mobility Innovation (1Ml) Program to create one of the nation's 
+first rural, fully on-demand public transit system (hereinafter refe1Ted to as "PROJECT") which will 
+involve testing and deploying technology to accommodate long-distance interzone trips; and 
+Whereas, the PROJECT will deploy cutting edge, on-demand technology that will require 
+configuration for CUSTOMER's specific needs for utilization in the BRA TS service area; and 
+Whereas, the PROJECT will require the technical services of a person or persons who possess 
+a computer engineering degree, or who are considered to be computer engineers based on their technical 
+knowledge or skill; and 
+Whereas, the requirements of the PROJECT are such that it is not possible to competitively 
+bid out these professional services using technical specifications, and any specifications that could be 
+generated would not be sufficiently definite to allow potential bidders to prepare bids intelligently or 
+for the CUSTOMER to adequately compare the bids received; and 
+Whereas, the !Ml Program permits applicants to name "Key Partners" who are essential to the 
+project and allows for a noncompetitive award under the federal procurement requirements for the 
+services provided by the Key Partners; and 
+Whereas, Via is an industry leader in mobility on demand ridesharing technology, whose team 
+of software engineers and project managers has guided public and private partners around the world 
+through complex mobility on demand transit software deployments, desires to partner with the 
+CUSTOMER as a Key Partner on the Project to create one of the first fully on demand rural transit 
+systems in the United States and provide access to the necessary technology for such a system 
+("Services"); and 
+Whereas, the CUSTOMER finds that the PROJECT requires essential professional computer 
+and engineering services that meet one or more of the requirements of ALA. CODE § 41-16-51 which 
+governs contracts for which competitive bidding is not required. 
+NOW, THEREFORE, in consideration of the premises and the mutual covenants contained 
+herein, the sufficiency of which is hereby acknowledged, Via and CUSTOMER agree as follows:
+=== page 10 ===
+DocuSign Envelope ID: 46D7BA63-9178-46AF-89F7-BA6A63C7B28B 
+1. 
+Services. The CUSTOMER hereby retains, and VIA agrees to perform for the 
+CUSTOMER, the Services including but not limited to, the Via Solution and the support and ongoing 
+services as hereinafter set forth and as described in the Baldwin County Deployment Service Order, 
+attached hereto as Exhibit A VIA shall immediately commence perfomrnnce of the Services outlined 
+herein upon full execution of this Contract. All work shaU be commenced and completed in a timely 
+maimer as, and at the times, herein set out. 
+A 
+The Via Solution is comprised of driver and rider software applications (each, 
+an "Application") and certain system management tools and may also include certain additional 
+software, data, data feeds, or other content owned by and licensed from third parties. 
+While 
+all the Applications are cloud-based, certain of them are deployed via download to handheld 
+mobile devices used by riders or drivers, while others are installed on devices field-deployed 
+by Customer to personnel and vehicles. 
+B. 
+Subject to the terms and conditions herein, VIA will provide the Services, as 
+set forth herein and in the Baldwin County Deployment Service Order attached hereto as 
+Exhibit A (the "Service Order"). The Services will include all related services, functions or 
+responsibilities not specifically described in this Contract, but that are required or reasonably 
+necessary for the proper performance of the Via Solution in connection with Customer's fully 
+on-demand rural public transportation network that Customer intends to operate, for the benefit 
+of prospective and actual riders, using vehicles, equipment and services (including 
+telecommunications and/or dispatch equipment and services), personnel, routes and other 
+infrastructure it owns or otherwise controls. VIA will grant CUSTOMER, access, and use rights 
+for the specific Applications and deployment types identified in the Service Order attached 
+hereto. 
+C. 
+VIA shall provide ongoing communications with CUSTOMER regarding 
+Services provided hereunder, including, but not limited to, regular updates, emails, calls and 
+reports. Additionally, VIA will meet with CUSTOMER as needed or requested. 
+D. 
+VIA is responsible for the professional quality, technical accuracy, timely 
+completion and coordination of all Services furnished by or in relation to this Contract, per 
+CUSTOMER's cooperation. 
+2. 
+Representations of VIA. VIA is retained by the CUSTOMER as a professionally-
+qualified contractor and VIA represents and warrants as follows: 
+A 
+VIA represents and warrants to the CUSTOMER that it possesses the 
+professional, technical, and administrative personnel with the specific experience and training 
+necessary to provide the Services described in this Contract and the Service Order attached 
+hereto as Exhibit A and future service orders, if any. 
+B. 
+VIA represents and warrants that its services shall be performed within the 
+limits and standards provided by the CUSTOMER, in a manner consistent with the level of care 
+and skill ordinarily exercised by similar providers under similar circumstances at the time the 
+services are performed. 
+C. 
+VIA represents and warrants that VIA is presently certified, licensed and 
+otherwise permitted under all necessary and applicable laws and regulations to perform the 
+Services. VIA further represents and warrants that it shall renew, maintain, and otherwise 
+ensure that all such certifications, licenses, and permits are current and valid, without 
+interruption, for and through completion of Services. 
+Page 2 of9

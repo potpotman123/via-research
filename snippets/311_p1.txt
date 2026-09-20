@@ -1,0 +1,106 @@
+# source: raw/bleecker_drive/Baldwin/Legislation Details (With Text).pdf
+# path: raw/bleecker_drive/Baldwin/Legislation Details (With Text).pdf
+# hit page: 1 of 3
+# terms: Spare Labs, Via Transportation
+
+=== page 1 ===
+Baldwin County Commission
+Legislation Details (With Text)
+File #:
+ Version:
+1
+25-0669
+Status:
+Type:
+Consent
+Passed
+File created:
+In control:
+4/1/2025
+Baldwin County Commission Regular
+On agenda:
+Final action:
+4/15/2025
+4/15/2025
+Title:
+Agreement with Spare Labs, Inc., through Stripe Payment Processing, for Online Digital Credit / Debit
+Card Payment Processing for BRATS
+Indexes:
+Attachments:
+1. Stripe Connected Account Agreement, 2. Stripe Services Agreement-United States, 3. Stripe User
+Bank Account Debit Authorizations, 4. Stripe Privacy Policy, 5. Stripe E-Sign Disclosure
+Action By
+Date
+Action
+Result
+Ver.
+Approved as part of the Consent Agenda
+Baldwin County Commission
+Regular
+4/15/2025
+1
+Meeting Type:  BCC Regular Meeting
+Meeting Date: 4/15/2025
+Item Status:
+New
+From: Ann Simpson, Director of Transportation; Frank Lundy, County Engineer
+Submitted by: Ann Simpson, Director of Transportation
+______________________________________________________________________
+ITEM TITLE
+Agreement with Spare Labs, Inc., through Stripe Payment Processing, for Online Digital Credit /
+Debit Card Payment Processing for BRATS
+STAFF RECOMMENDATION
+Related to the authorization to replace BRATS’ current credit / debit card payment processor,
+Braintree, with Spare Labs, Inc., through Stripe Payment Processing, take the following actions:
+1) Approve the following agreements and documents:
+• Stripe Connected Account Agreement
+• Stripe Services Agreement - United States
+• Stripe User Bank Account Debit Authorizations
+• Stripe Privacy Policy; and
+• Stripe E-Sign Disclosure
+2) Authorize the Baldwin County Commission Finance / Accounting Department to electronically
+accept the above referenced agreements and related documents and provide all other information
+necessary and permitted by law, as part of the Stripe Payment Processing account setup process.
+BACKGROUND INFORMATION
+Background:  Since 2020, through an agreement with Via Transportation, BRATS has utilized
+Baldwin County Commission
+Printed on 12/9/2025
+Page 1 of 3
+powered by Legistar™
+=== page 2 ===
+File #: 25-0669, Version: 1
+Braintree to process passenger credit / debit card payments. BRATS is transitioning from Via
+Transportation to a new micro-transit software provider, Spare Labs, Inc (Spare). Spare is integrated
+with Stripe Payment Processing (Stripe) for online digital payment processing.
+There are no set-up fees associated with establishing a Stripe Payment Services account. Stripe will
+deduct the payment processing fees from the fares paid by the passenger and remit the remaining
+fare balance to BCC / BRATS. Stripe is Payment Card Industry Data Security Standard (PCI DSS)
+compliant, to protect cardholder data, ensuring secure processing, storage, and transmission of
+credit card information.
+Under the Payment Services Agreement, customers paying through the Spare Labs, Inc. mobile app
+utilizing Stripe will pay a maximum 2.9% +$.30 per transaction depending on the issuer of the card.
+This is the same pricing and fee structure under the current agreement with Via Transportation and
+Braintree.
+Previous Commission action/date:
+March 5, 2025 - Approved the award of contract for micro-transit software for public transportation
+services to Spare Labs, Inc.
+August 4, 2020 - Authorized the BCC Finance/Accounting Department to establish a credit card
+processing account with Via Transportation’s integrated credit card processing provider, Braintree.
+FINANCIAL IMPACT
+Total cost of recommendation:  $0
+Budget line item(s) to be used:  N/A
+If this is not a budgeted expenditure, does the recommendation create a need for funding?
+N/A
+LEGAL IMPACT
+Is legal review necessary for this staff recommendation and related documents?
+N/A
+Reviewed/approved by:  N/A
+Additional comments:  N/A
+ADVERTISING REQUIREMENTS
+ ..
+Is advertising required for this recommendation?  N/A
+If the proof of publication affidavit is not attached, list the reason: N/A
+Baldwin County Commission
+Printed on 12/9/2025
+Page 2 of 3
+powered by Legistar™

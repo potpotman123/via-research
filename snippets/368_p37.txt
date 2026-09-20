@@ -1,0 +1,61 @@
+# source: raw/bleecker_drive/Bay Transit/REDACTED-Via-Mobility-LLC-Response_RFP-2024-01-Transit-Scheduling-Software.pdf
+# path: raw/bleecker_drive/Bay Transit/REDACTED-Via-Mobility-LLC-Response_RFP-2024-01-Transit-Scheduling-Software.pdf
+# hit page: 37 of 60
+# terms: Via+drivers
+
+=== page 36 ===
+4.5.4 Marketing Plan
+Via is the industry leader in marketing all types of transit services, including
+demand-response services. Our 20+ person in-house team — including marketing,
+creative, and community engagement experts — specializes in all facets of innovative
+transit marketing
+. These materials will be customized to Bay
+Transit’s name, logo, colors, and service details.
+Utilizing these materials will enable Bay Transit to raise awareness among passengers,
+promote app usage, and highlight the benefits of the new scheduling system. This will
+lead to increased equity and accessibility across the Northern Neck and Middle Peninsula
+regions, especially for riders with higher barriers to entry, while driving operational cost
+savings as ridership grows and vehicle utilization increases.
+RFP #2024-01 Transit Scheduling Software | 34
+=== page 37 ===
+4.6 Technical Support
+From our experience as operators of transit services, we understand that consistent
+service delivery is incredibly important for Bay Transit riders, drivers, and staff. Our
+software has been designed to function with minimal intervention so that our partners can
+focus more on innovating their transit systems and less on solving technical problems. To
+deliver on this promise, our global staff includes over 500 software engineers who are
+committed to building reliable, user-friendly software. The result is a highly available
+and consistent platform for our partners, delivering 99.9% uptime. In the event that Bay
+Transit riders, drivers, and staff need support, we have developed robust materials and
+processes to ensure prompt incident response and resolution:
+4.6.1 Written Materials and Guides
+As a part of the implementation and training
+process, Via works with our partners to
+build a suite of tailored materials regarding
+the use of the platform and various features
+(for more details, see section 4.5.3 Training
+Plan). Bay Transit will continue to have easy
+access to these materials afterwards, so
+that staff may quickly reference them at any
+time when they have questions.
+4.6.2 24/7 Technical Support
+Bay Transit will have access to 24/7 technical assistance through our support platform. A
+rotating team of support engineers is on call at all times to resolve any problems that may
+arise. Incidents are escalated using a predefined alert protocol, which instantly notifies
+the on-call member of the team. The technical team member will immediately examine
+the issue to begin the process of issue resolution and resource allocation. All issues will
+be resolved based on their level of severity and associated response times, and Via will
+provide Bay Transit with regular status updates on resolution.
+4.6.3 Partner Success Support
+will continue to serve as Bay Transit’s Partner Success Manager, the main
+point of contact for technical support, troubleshooting, and ongoing training.
+will be
+available to support the Bay Transit team via email and phone during regular business
+hours. She will also train new staff members, offer refresher sessions, and provide
+training after significant software updates.
+RFP #2024-01 Transit Scheduling Software | 35
+=== page 38 ===
+5. Timeline
+Via can work with Bay Transit to transition the demand-response services onto the Via
+Platform according to a convenient timeline.
+RFP #2024-01 Transit Scheduling Software | 36

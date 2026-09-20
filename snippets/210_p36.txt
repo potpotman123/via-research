@@ -1,0 +1,113 @@
+# source: https://legistar1.granicus.com/McKinney/attachments/abb0b9be-9c15-4174-9e04-7b9d82941c25.pdf
+# path: raw/cache/5e92fe54da67feb112756b4c03bca94101b9439a.pdf
+# hit page: 36 of 50
+# terms: Spare Labs
+
+=== page 35 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+●
+Side of road:​ Stops must be placed on roadsides that are most optimal for onward 
+travel and which maximize the potential of pooling as many passengers as possible. 
+This is especially important to consider for passengers with ambulatory issues. 
+●
+Points of interest and land use:​ Stops must be placed as close as possible to POIs 
+and take into account restrictions linked to certain forms of land use.  
+ 
+Stop-based services are simple for administrators to design, manage, and run using the 
+sophisticated Spare Launch Admin Panel. There is also a very low barrier to entry for riders 
+to navigate a stop-based system in the Spare Rider app. Clear written and schematic 
+instructions guide riders to walk a few blocks to meet their driver (Figure 16). User reviews 
+and feedback on the Spare Rider app are constantly monitored to improve the product. 
+The response from riders in stop-based Spare-run services has been consistently excellent.  
+ 
+Manageable walking distances for most mobile individuals is often a beneficial tradeoff for 
+lower average wait times. CCT could consider implementing a tailored system, whereby 
+certain riders with mobility issues have access to a fully door-to-door service, while most 
+other riders access a stop-to-stop service. The flexible nature of Spare Platform makes this 
+complex task easy to design and operate. 
+ 
+Figure 16. Example layout of stops in the Admin Panel of Spare Launch, and instructions in the Spare Rider 
+app for reaching a ‘virtual stop’. 
+ 
+The importance of right-sizing CCT’s vehicle fleet  
+ 
+In all the simulations undertaken by Spare, vehicle occupancy never exceeded 4 
+passengers (Figure 17): in other words, the maximum vehicle size required to service the 
+zone would be a 4-passenger vehicle.  
+ 
+34
+=== page 36 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+Right-sizing transit vehicles (i.e. purchasing and/or using vehicles that are appropriately 
+sized for servicing the actual demand) can substantially lower transit agency costs, because 
+smaller vehicles cost less to purchase, run, and maintain than traditionally sized buses. 
+Smaller vehicles also tend to have lower licensing requirements than commercial transit 
+vehicles, meaning that the labor pool from which CCT could recruit drivers will be larger 
+and cheaper.  
+ 
+Since CCT currently makes use of taxis from Irving Holdings, many of the vehicles are 
+presumably smaller and therefore right-sized for this particular zone. However, CCT could 
+save on costs if they invested in new dedicated shuttle vehicles that were fit for purpose.  
+ 
+ 
+Figure 17. Maximum simulated vehicle occupancy in all simulations 
+ 
+The financial model underpinning the figures in this report assumes that CCT makes full 
+use of its three dedicated vehicles, with one vehicle being mainly reserved for the use of 
+low-mobility riders, while being used for general microtransit during idle periods. Any 
+additional vehicles are assumed to be supplied as non-dedicated taxis by an operator such 
+as Irving Holdings.  
+ 
+However, the annual and per-trip costs would ultimately decrease if CCT were to run the 
+entire service solely using dedicated vehicles. This is because running a dedicated vehicle at 
+a cost of $50 per hour is cheaper than employing a taxi to serve long (10–15 mile) trips at 
+$2.40 per mile. CCT’s recently approved $3 flat fare is expected to incentivize riders to take 
+slightly longer trips than before (when a variable fare had been in place), and the inclusion 
+of Parker Road LRT station in the zone will increase average trip distances. Therefore, a 
+dedicated fleet with a unit cost per hour is likely to pay off in the long run for CCT. The table 
+below shows that using a dedicated fleet to meet the majority of demand could result in 
+savings of $7 per trip and $140,000 annually under a medium-demand, low-cost scenario. 
+ 
+ 
+35
+=== page 37 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+ 
+2 dedicated vehicles + 
+2 non-dedicated vehicles 
+(Medium demand, 4 duties) 
+4 dedicated vehicles + 
+occasional non-dedicated trips 
+(Medium demand, 4 duties) 
+Cost per trip 
+$43 
+$36 
+Annual cost 
+$830,000 
+$690,000 
+ 
+CCT could therefore consider purchasing one or two additional vehicles to meet the 
+capacity needed to cover a medium demand scenario, and only use non-dedicated taxis to 
+cover any additional demand at peak times. This is easily achieved through the innovative 
+Spare Fleets trip brokering feature. 
+ 
+CCT’s new vehicles would not have to be large shuttle vans; instead, they could purchase 
+smaller 5-person vehicles that are cheaper to maintain, insure, fuel and staff. Replacing one 
+of CCT’s three existing cutaway vehicles with another smaller vehicle that is more fit for 
+purpose would also deliver additional savings over the lifetime of the service. 
+ 
+In any case, the potential savings of using smaller vehicles should be weighed against 
+regulations and passenger preferences for accessible, comfortable, and safe vehicles. Many 
+of CCT’s riders on this service may have medical and/or ambulatory issues. In Spare’s 
+experience, riders can be apprehensive about climbing into a small vehicle with strangers, 
+especially seniors and those with ambulatory difficulties, although most riders soon 
+become accustomed.  
+ 
+An advantage of Spare Platform is that it can restrict which vehicle types are assigned to 
+certain riders depending on need or preference. Riders who have issues with smaller 
+vehicles could therefore be seamlessly matched with more adequately sized vehicles for 
+their needs, with zero or minimal coordination from CCT’s operations team. 
+ 
+ 
+ 
+36

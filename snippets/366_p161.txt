@@ -1,0 +1,249 @@
+# source: raw/bleecker_drive/Lee County/RFP250034SML Via Mobility Executed.pdf
+# path: raw/bleecker_drive/Lee County/RFP250034SML Via Mobility Executed.pdf
+# hit page: 161 of 171
+# terms: Via+drivers, Via+subscription, Via+vehicles
+
+=== page 160 ===
+Yes
+The Via System captures 
+dispatching effectiveness data and 
+performance evaluation reports 
+including pull in/out date and time, 
+pick up arrival time, boarding 
+time, passenger count, lateness or 
+no-shows, cancellations, and more.
+Yes
+Via provides a graphic, map-based 
+display of individual routes in the 
+VOC's Hub, allowing dispatchers 
+to visualize live vehicle location, 
+pick-ups, drop-offs, and staff 
+breaks.
+Yes
+Via's platform automatically 
+adjusts services for no-shows, 
+cancellations, and service 
+interruptions as the system 
+identifies these. Our system will 
+also allow LeeTran to book will-
+call trips. 
+Yes
+Our system identifies scheduled 
+departure and arrival times, as well 
+as actual departure and arrival 
+times. 
+Yes
+The Via System provides the 
+ability to monitor live vehicle 
+location and status in the Hub, the 
+VOC's real-time overview of 
+service in a map-based interface. 
+Via's Ride Plan also allows our 
+partners to monitor service in real 
+time using a schedule-based view 
+of service. 
+Yes
+Clients can be continuously kept 
+up-to-date on the status of their 
+ride (en route, arrived, etc) via 
+SMS text messaging or automated 
+calls, depending on their 
+preference. For current rides, these 
+updates contain information about 
+how many minutes the vehicle is 
+away.
+Yes
+Within the VOC, dispatch can 
+easily search for specific clients, 
+drivers, and vehicles to quickly 
+identify their location and status 
+on the map, as well as other key 
+performance indicators such as 
+number of passengers, scheduled 
+arrival time, estimated time of 
+arrival, and any other special 
+circumstances.
+Does your system have the ability to provide dispatching 
+effectiveness and performance evaluation reports?
+Does your system have a graphic display of individual routes 
+with easily identifiable pick-ups, drop-offs, and staff breaks?
+Does your system have the ability to identify and assign open 
+returns (will call trips) and identify and adjust service for no-
+shows, cancellations, and service interruptions?
+Does your system have the ability to identify scheduled and 
+actual arrival times?
+Does your system have the ability to monitor service in real time?
+Does your system have the ability to notify client by SMS text 
+messaging and automated phone notification when vehicles are in 
+route prior to arrival and once arrived at pick-up location?
+Does your system have the ability to allow dispatch access to run 
+itineraries based on run number, vehicle number, or client name? 
+Is your system capable of displaying the run number, number of 
+passengers on the run, scheduled arrival time, estimated time of 
+arrival, and any special circumstances?
+9
+EXHIBIT E - PROJECT FUNDING PACKAGE
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7
+=== page 161 ===
+Yes
+Via’s Shift Manager is a one-stop-
+shop to manage driver shifts and 
+scheduling. Dispatchers can create 
+driver shifts on an ad hoc or bulk 
+basis and either assign drivers to a 
+specific shift or leave the shift 
+unassigned for claim at the start of 
+the shift. 
+Yes
+Client needs such as vehicle 
+requirements, in-vehicle space 
+capacity, and load/unload times 
+based on mobility needs will 
+automatically factor into 
+automated scheduling decisions to 
+always ensure sufficient 
+wheelchair capacity.
+Yes
+Dispatchers have the flexibility to 
+take actions at the individual ride 
+or shift level to update assigned 
+vehicles in the event that a vehicle 
+is pulled from service.
+Yes
+When a a late cancellation or no-
+show occurs, Via's algorthim 
+automatically updates relevant 
+driver manifests to reflect any 
+changes to their shift assignments. 
+Additionally, the Via system 
+records no-shows and late 
+cancellations in each client's Rider 
+Profile.
+Yes
+Should a vehicle be deemed unfit 
+for service (such as in the event of 
+a vehicle breakdown or driver call-
+out), the VOC easily allows 
+dispatchers to reassign impacted 
+trips to a new vehicles.
+Yes
+Via's system has the ability to 
+prcoess subscription, reservations, 
+and same-day trip orders. 
+Yes
+Via's system uses list boxes for 
+easy access and slection of 
+cusomers. Reservation staff can 
+search for and select clients to then 
+enter their requested pickup and 
+drop-off locations, or select pick-
+up/drop-off addresses within a 
+map view and record any notes for 
+the driver.
+Yes
+Via's system is capable of 
+automatically generating trip 
+reversals or booking the return trip 
+from the originating trip 
+destination. 
+Does your system have the ability to program vehicle 
+substitutions for affected runs if advised that a vehicle is not fit 
+for service?
+Does your system have the ability to process both subscription 
+and reservation trips? Is the system capable of processing same 
+day trip orders?
+Does your system us pop-up windows or list boxes for easy 
+access and selection of customers? 
+Is your system capable of automatically generating trip reversals 
+or booking the return trip from the originating trip destination?
+Does your system have the ability of assigning drivers to runs?
+Does your system have the ability to manage the mobility needs 
+and preferences of all customers to always ensure sufficient 
+wheelchair capacity?
+Does your system have real time updating of assigned vehicles to 
+account for any vehicles pulled from service?
+Does your system have the ability to allow dispatch to process 
+late cancellations and no-shows?
+10
+EXHIBIT E - PROJECT FUNDING PACKAGE
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7
+=== page 162 ===
+Yes
+Via's system contacts clients 
+through their primary phone 
+number, using IVR to 
+automatically send clients calls 
+and texts the night before their trip. 
+Clients do not need to confirm the 
+trip, but may use this functionality 
+to cancel the trip should they so 
+desire. 
+Yes
+Via's data is developer-friendly, 
+and our platform is deeply 
+extensible. We are pleased to offer 
+LeeTran an integration between 
+our paratransit Rider App and 
+LeeTran's existing fixed routes. 
+We are also excited to offer 
+LeeTran our microtransit module 
+at no extra cost, which will allow 
+for a seamless integration between 
+paratransit and Mobility-on-
+Demand services. Riders will only 
+need one app — the Via Rider 
+App — to book both microtransit 
+and paratransit services, and 
+LeeTran will be able to control and 
+commingle both services on our 
+unified backend.
+Yes
+User/dispatchers will be able to 
+identify live vehicle location and 
+status and locate trips in proximity 
+in the Hub, the VOC's real-time 
+overview of service in a map-based 
+interface. The GPS signal from the 
+Via Driver App feeds directly into 
+the Hub every 2 seconds, 
+displaying real-time vehicle 
+location, map with service 
+boundaries, vehicle load, on-time 
+performance, and driver and 
+vehicle status.
+Yes
+The VOC’s Map Editor enables 
+dispatchers to view the service’s 
+underlying mapping infrastructure, 
+including the service area 
+boundary of each program. 
+LeeTran administrators can use the 
+Map Editor to determine whether a 
+client's requested trip origins and 
+destinations are within the 
+designated service zone. An 
+intuitive system of alerts and 
+notifications prohibits users from 
+booking trips to locations that are 
+outside of the specific service area.
+Does your system have the ability to contact clients through their 
+primary phone numbers using an automated system including 
+Interactive Voice Response (IVR) for notification reminders of 
+scheduled trips for the next day and ability for clients to confirm 
+or cancel trip?
+Does your system have the ability to connect with the fixed-route 
+system and Ultra Mobility on Demand (MoD) services to include 
+a Mobility Data Management (MDM) option?
+Does your system utilize GPS to provide automatic vehicle 
+location (AVL) in conjunction with mapping that allows 
+users/dispatchers to identify current vehicle locations? If so, does 
+it have the ability to automatically refresh at a minimum of every 
+fifteen seconds according to event or rule GPS reporting?
+Does your systems map display have the ability to clearly 
+identify the service area boundary of each program? Does the 
+system provide for graphic or query functionality to determine if 
+client's address or requested trip origins and destinations are 
+within the program specific service area?
+11
+EXHIBIT E - PROJECT FUNDING PACKAGE
+Docusign Envelope ID: AA3859DA-2F56-4131-8DD4-9B53C6782CB7

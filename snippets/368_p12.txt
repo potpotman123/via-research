@@ -1,0 +1,60 @@
+# source: raw/bleecker_drive/Bay Transit/REDACTED-Via-Mobility-LLC-Response_RFP-2024-01-Transit-Scheduling-Software.pdf
+# path: raw/bleecker_drive/Bay Transit/REDACTED-Via-Mobility-LLC-Response_RFP-2024-01-Transit-Scheduling-Software.pdf
+# hit page: 12 of 60
+# terms: Via+drivers, Via+fleet
+
+=== page 11 ===
+2. Relevant Experience
+At Via, we believe that access to mobility promotes human connections, creates
+economic opportunity, and fosters more equitable communities. To advance this vision,
+we build innovative software enabling our partners to transform legacy transportation
+systems into user-friendly, technology-enabled networks. Using our software, our
+partners achieve an enhanced level of visibility over their operations, simultaneously
+lowering operating costs and increasing quality of service for riders. We offer innovative
+solutions for microtransit, ADA paratransit, workforce enablement, senior transportation,
+integrated trip planning and payment systems, autonomous vehicle (AV) fleet
+management, and school bus routing.
+We are also more than a technology company:
+we operate many demand-response services
+ourselves, which means we understand the
+day-to-day realities of delivering equitable and
+accessible public transit.
+Our
+response to this RFP is informed by our deep
+experience as both operators and software
+providers of demand-response services.
+2.1 Via and Bay Transit
+Via is deeply committed to supporting Bay Transit’s vision of
+expanding transit access across the Northern Neck and
+Middle Peninsula regions. Since June of 2021, we have
+partnered with Bay Transit to power Bay Transit Express in
+the Gloucester Courthouse Area, the region’s first on
+demand service.
+Proprietary, Confidential, and Trade Secret Information
+RFP #2024-01 Transit Scheduling Software | 9
+=== page 12 ===
+As Bay Transit’s proven on-demand partner, we are excited at the opportunity to
+leverage our local knowledge and infrastructure to support Bay Transit’s
+demand-response offerings through a single integrated technology platform.
+2.2 Experience Replacing Routematch and Legacy Systems
+In many of our partner services, Via has been chosen to replace other demand-response
+providers whose offerings were not ultimately able to support the scale or product
+capabilities necessary for ensuring long-term success. In others, Via has worked with
+partners to transition from pen-and-paper systems onto a technology-enabled
+scheduling and dispatch system for the first time.
+Via is the undisputed leader in successfully transitioning transit agencies off of
+Routematch software —
+—
+making us well-equipped to support Bay Transit in updating its scheduling and dispatch
+software. We have developed reliable and thorough processes for moving partners from
+Routematch to our platform, including data migration and easy-to-follow training sessions
+for drivers and dispatchers. By replacing Routematch with Via, the selection of partners
+listed below have improved fleet productivity while enhancing the rider experience.
+Proprietary, Confidential, and Trade Secret Information
+RFP #2024-01 Transit Scheduling Software | 10
+=== page 13 ===
+3. References
+Below, we have included 3 references where we currently provide transit scheduling
+software, followed by descriptions of the services provided.
+Proprietary, Confidential, and Trade Secret Information
+RFP #2024-01 Transit Scheduling Software | 11

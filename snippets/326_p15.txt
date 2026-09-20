@@ -1,0 +1,191 @@
+# source: raw/bleecker_drive/1.0 791 Cooperative Agreement/RFP_791_2023_09_002_Mobility_As_A_Service.pdf
+# path: raw/bleecker_drive/1.0 791 Cooperative Agreement/RFP_791_2023_09_002_Mobility_As_A_Service.pdf
+# hit page: 15 of 97
+# terms: Via+fleet, Via+vehicles
+
+=== page 14 ===
+791 PURCHASING COOPERATIVE  
+ 
+ 
+Lead Agency: Central Texas Council of Governments 
+RFP #791_2023_09_002 Mobility As A Service and Solutions 
+ 
+Page 14 of 44 
+would be able to choose the specific service that they want to use that day. The system shall also allow rides 
+to be shared by multiple client types. 
+24. 
+The system shall allow the booking clerk to edit the number of travelers per booking. 
+25. 
+During each trip booking, the system shall display the map locations for the pick-up and drop-off. 
+26. 
+Once all other trip booking information has been entered, the system shall indicate to the booking 
+clerk any applicable fare(s) to be paid by the client, attendant, and any companions. 
+27. 
+The system shall be capable of accepting trip bookings up to a certain number of (admin defined) 
+days in advance. This limit shall be configurable. 
+28. 
+The system shall allow the definition of recurring-trip bookings (subscription trips), with flexible 
+options to specify exceptions. At minimum, the system shall support selection of a recurring weekly day (e.g., 
+every Tuesday), a recurring monthly day (e.g., every 2nd Wednesday), a recurring monthly date (e.g., the 4th 
+of every month), and recurring weekly days (e.g., every Tuesday and Friday). 
+29. 
+The system shall allow the booking clerk to temporarily suspend a particular recurring-trip booking 
+(subscription trips) and provide exclusion dates for the recurring trips. 
+30. 
+The system shall allow the agency to designate trips to a third-party contractor (e.g. taxis or other 
+TNC). This dispatching should be done automatically and based on service criteria and business rules. 
+31. 
+The system shall allow the agency to differentiate fleet types between dedicated vehicles and non-
+dedicated vehicles. 
+32. 
+The system shall have automation in trip brokering based on an intelligent algorithm that will allow 
+for dispatching to multiple dedicated fleets, and also to contracted non-dedicated TNCs in cases of overage 
+in demand. Fleet priorities may be set by the agency. 
+33. 
+The system shall enable automated brokering for each day, taking into consideration the recurring 
+trip bookings and scheduled trips. The system shall optimize for the highest shared-ride ridership, the least 
+distance traveled, and/or the least travel time, based on actual mapping and GIS data stored in the system. 
+34. 
+The system should allow for on-demand trips to be booked through the mobile app or by calling into 
+the agency’s call center. If it is the first time they have used the service, the scheduler and the app should be 
+able to create a profile within the same window. 
+35. 
+The system should be able to combine (commingle) different demand-response transportation 
+services into one or more fleets, so that, for example, Microtransit customers can also be put on 
+ADA/paratransit vehicles. 
+36. 
+Solutions provider shall demonstrate the ability to plan, book, and pay for travel across different 
+modes and online platforms. 
+37. 
+When services are pooled and/or commingled, the service should automatically broker this 
+functionality. The Administrator should have the capability to change the criteria around how efficient the 
+system is, (for example, how important short trips and passenger experience is), and define the service to fit 
+their specific requirements around public service offerings. 
+38. 
+When commingling, the service must be able to have specific criteria for flexibility around the ETA 
+approximated to adjust how flexible the system can be when scheduling passenger pickups. For example, if 
+picking up a Demand Response passenger (Microtransit) would cause a special needs passenger 
+(ADA/paratransit) to miss their ETA beyond the point of the flexibility allotted, then that Demand Response 
+passenger should not be picked up first, but rather they should wait for the next vehicle. This should all be
+=== page 15 ===
+791 PURCHASING COOPERATIVE  
+ 
+ 
+Lead Agency: Central Texas Council of Governments 
+RFP #791_2023_09_002 Mobility As A Service and Solutions 
+ 
+Page 15 of 44 
+automatic so not to jeopardize the criteria of multiple services that are being offered. 
+39. 
+The system shall automatically produce a driver schedule for each operator run, indicating the driver 
+pickup and drop off. Any trips that come in during these runs should be added to the driving schedule 
+according to the algorithm criteria. Notification of changes to a driver’s manifest should be immediate. In 
+instances where pooling/shared rides are allowed, it should occur automatically. 
+40. 
+Passenger requests shall have several options to indicate each pick-up and drop-off, including the 
+street address, point of interest and name of stop, as well as times for pickup and drop-off. 
+41. 
+The ride requests shall be transmitted to the Driver app in their assigned vehicle using the mobile 
+data communications system. Once a driver has logged in to that mobile device, the manifest will be 
+automatically updated. 
+42. 
+Adjustments (i.e., for insertions, changes, cancellations, or no-shows) during vehicle operation shall 
+be immediately transmitted to and from vehicles using the mobile data communications system. 
+43. 
+The central dispatching/monitoring system shall display the most recently reported location of all 
+vehicles on the map in real-time. 
+44. 
+The map display shall provide the following information via vehicle icon shape, color coding, and/or 
+overlays: 
+   • Network connection status; 
+   • Fleet; 
+   • Service state (e.g. in-service, not in service); 
+   • On-time state (e.g. running behind schedule, slack time) 
+45. 
+The map display for dispatchers shall provide more information about any vehicle via the icon text 
+and an available popup window when clicked over the icon. Such information shall include at a minimum: 
+   • Vehicle Number; 
+   • Operator; 
+   • Driver; 
+   • Logon status; 
+   • Upcoming Pick-up/Drop-off location (or a list of next events); 
+   • Trip and passenger information; 
+   • Current speed 
+46. 
+The central dispatch/monitoring system shall present a tabular display that presents the schedule 
+times for events currently assigned to each vehicle. 
+47. 
+The system shall allow historical trip information to be reviewed by the agency. 
+48. 
+The system shall allow all logged data to be retrieved, even if it has been archived. 
+49. 
+The historical map shall provide replay controls to view the entire sequence of reported locations 
+from the beginning of the time period through the sequence of events. 
+50. 
+The system shall allow selection of any time period for access to the historical data. 
+51. 
+All system data shall be owned by the agency, with the rights and ability to access all data, export it
+=== page 16 ===
+791 PURCHASING COOPERATIVE  
+ 
+ 
+Lead Agency: Central Texas Council of Governments 
+RFP #791_2023_09_002 Mobility As A Service and Solutions 
+ 
+Page 16 of 44 
+to other applications, and allow access to third parties for integration purposes on a perpetual royalty-free 
+basis. 
+52. 
+The platform shall be a cloud-based MaaS platform with no specialized hardware/infrastructure from 
+the agency unless approved in advance with cost being absorbed by the software vendor. 
+53. 
+Continuous optimization - The system shall continuously optimize by moving trips (if required) so 
+driver manifests are updated in real time, and trips may be moved between vehicles for maximum efficiency 
+when conditions change. Trips must also be able to manually be moved and altered to make up for the 
+dispatching system’s shortcomings. The system must be able to compensate for trip cancellation when a 
+driver is already in-route so that unrealistic pickup times aren’t possible. 
+54. 
+Trip brokering: System can seamlessly allocate trips to TNCs, taxi companies, and/or ride hailing 
+operations with varying priorities so trips are allocated in special conditions to non-dedicated vehicles. 
+55. 
+Trip brokering: All trips to dedicated or non-dedicated vehicles are recorded and tracked for 
+reporting purposes. It shall further separate and track costs from different fare-media and service type and 
+pull all data necessary to fulfill applicable Federal Reporting Requirements such as (but not limited to) the 
+National Transit Database (NTD) and the Texas Department of Transportation (TxDOT) PTN-128 
+requirements. 
+56. 
+Trip brokering: Trips should flow seamlessly to third-party fleets, including TNCs and taxis, based on 
+time rules set by the agency in order to avoid overloading the system. 
+57. 
+Automatic alerts should inform staff about driver overtime, stranded riders, excessive ride length, 
+late pickups and/or drop-offs, and any other issues that need to be addressed operationally in a timely 
+fashion. 
+58. 
+Custom fields should be available for rider data capture. 
+59. 
+Custom fields should be available in trip request and shall be able to be used for reporting purposes. 
+60. 
+Onboard driver-facing electronics should have the capability to capture signatures from client types 
+that require them. 
+61. 
+The platform shall be able to dynamically assign driver breaks that consider company policy, labor 
+rules and trip pattern. 
+62. 
+For NEMT reasons, the platform must allow for manual assignment of trips. It should also allow 
+tracking of the reason for such changes through the recording of comments and/or notes attached to the trip 
+log. 
+63. 
+The software shall be able to predict On-Time Performance prior to the date of service as well as 
+throughout the day. 
+64. 
+The software shall automatically adjust trips so they are close to the originally scheduled time when 
+cancellations occur. 
+65. 
+It is preferred (but not necessarily required) that any telecommunication devices utilize “FirstNet” as 
+the communication provider company. 791 COOP currently contracts with FirstNet who provides high priority 
+mobile connectivity equivalent to that of First Responders (such as Law Enforcement, Fire Department and 
+EMT Services). Contractor must provide evidence that the selected service provider is able to operate in 
+remote areas in rural counties. 
+66. 
+It is preferred (but not necessarily required) that any platform software be compatible with Dallas 
+Area Rapid Transit’s (DART) “Go Pass” mobile app. 791 COOP prefers GoPass due to its growing usage

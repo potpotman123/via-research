@@ -1,0 +1,41 @@
+# source: raw/bleecker_drive/0.0 OMNIA Cooperative Agreement/25-08_EVAL.pdf
+# path: raw/bleecker_drive/0.0 OMNIA Cooperative Agreement/25-08_EVAL.pdf
+# hit page: 1 of 1
+# terms: Via Transportation
+
+=== page 1 ===
+25-08 - ON-DEMAND TRANSPORTATION (RIDESHARE), MEALS, AND LOGISTICS SOLUTIONS
+  Supplier
+  Rank
+  Score
+EVALUATION 
+CRITERIA AND 
+WEIGHTS
+Purchase Price
+Reputation of Vendor 
+and Goods/Services
+Quality
+Meet Region 4 needs
+Long-term Cost
+100
+35.00
+5.00
+20.00
+30.00
+10.00
+Uber Technologies, Inc.
+1
+91.00
+31.00
+5.00
+17.50
+28.00
+9.50
+Via Transportation Inc.
+2
+84.50
+28.50
+5.00
+17.00
+26.00
+8.00

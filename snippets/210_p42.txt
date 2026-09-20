@@ -1,0 +1,158 @@
+# source: https://legistar1.granicus.com/McKinney/attachments/abb0b9be-9c15-4174-9e04-7b9d82941c25.pdf
+# path: raw/cache/5e92fe54da67feb112756b4c03bca94101b9439a.pdf
+# hit page: 42 of 50
+# terms: Spare Labs
+
+=== page 41 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+‘game rules’. For example, dynamic pricing could be introduced, whereby riders pay slightly 
+more as a function of demand, to help CCT recoup costs at particular times of day, and to 
+encourage a flattening out of demand peaks, which can put a strain on on-demand 
+systems. 
+ 
+Another option could be to create stricter time rules in certain parts of a larger zone. For 
+instance, pickups from smaller population centres connecting with main road arteries may 
+be restricted to once an hour, which would ensure much higher pooling and more 
+predictable (and therefore optimizable) vehicle patterns. For instance, this could be applied 
+to the region within Collin County that is outside of the MUTD zone.  
+ 
+This level of flexibility and dynamism is simply not possible without a digitally run transit 
+platform. Digitization will empower CCT to eventually create a transit system that is highly 
+tailored to ​Collin County, where a mix of optimized fixed bus lines operate in harmony with 
+more nimble on-demand shuttles. Public transit would then exist along the entire spectrum 
+between a highly personalised taxi service to a predictable fixed-route system. 
+ 
+Phase 4: Commingling helps to share resources across services 
+ 
+Traditionally-operated public transit suffers from the static allocation of resources to 
+specific specialized services. For example, a paratransit vehicle usually cannot receive 
+non-paratransit trips, even when it is idle and could be put to work elsewhere in the 
+system. Similarly, two trips going to and from similar locations at similar times may be 
+allocated to separate vehicles because the riders are accessing different services.  
+ 
+The Spare Fleets feature throws out this outdated model and allows different services to 
+maintain their distinctive nature while sharing vehicle resources with each other. This 
+approach, which is known as ‘commingling’, respects different service configurations, rules 
+and rider groupings, and continues to provide the same quality of service expected by each 
+rider. Commingling is a hallmark of efficiency in the airline and logistics industries, but its 
+application to the transit industry is groundbreaking. 
+ 
+Implementing full-scale commingling would require working with multiple government 
+departments (e.g. those responsible for paratransit, school transportation, senior 
+communities), which may face political and bureaucratic hurdles. However, there is 
+massive potential for a fully flexible system such as this to deliver unparalleled savings to 
+CCT, and simultaneously create amazing service for riders.  
+ 
+We therefore recommend that CCT should consider implementing Spare Fleets in Collin 
+County. CCT may only see true differences in cost and efficiency between their new 
+microtransit system and the existing taxi service if they deploy a truly flexible solution such 
+as commingling. Spare would be glad to advise further on this option. 
+ 
+40
+=== page 42 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+Meeting CCT’s objectives 
+ 
+It is important to us at Spare that we revisit the objectives of this project to reflect on how 
+our analysis and recommendations help CCT to achieve its goals.  
+ 
+Boost efficiency 
+ 
+●
+Microtransit helps to increase coverage while lowering costs and increasing 
+ridership. Efficiencies will only keep improving if CCT moves through the phases 
+outlined in this report. 
+●
+Having a fully digitized transit platform will allow CCT to use data far more 
+effectively to identify inefficiencies and opportunities for improvement. It helps 
+create a vastly configurable system that can be adjusted in real time. 
+●
+A feature like Spare Fleets, which facilitates fleet sharing across different services, 
+will help CCT optimize the use of its resources for further efficiency gains.  
+ 
+Improve accessibility 
+ 
+●
+Microtransit will help make CCT’s transit offering more rider-centric: it will allow 
+riders to access convenient and sustainable transport which is transparent and 
+provides them with real-time information. 
+●
+A fully digitized on-demand platform empowers riders to search for, plan, and book 
+trips independently and to suit their needs. 
+ 
+Innovate for resilience 
+ 
+●
+In partnering with Spare to explore the possibilities of microtransit, CCT is 
+demonstrating it is prepared to try new things and push the boundaries of transit. 
+●
+Through the use of innovative technology, CCT will have the ability to gather and 
+analyze vast amounts of mobility data, to allow it to respond more quickly and 
+comprehensively to a changing environment and rider behaviour. The COVID-19 
+crisis is a good example of where this would be useful. 
+●
+Microtransit will launch CCT on the road to truly flexible transit. It will empower CCT 
+not only to respond to rider demand today, but also to future-proof its operations 
+for years to come. Riders and CCT win in the long-term! 
+ 
+ 
+41
+=== page 43 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+Appendices 
+ 
+Appendix 1: Census data acquisition 
+Census data were downloaded from the US Census Bureau’s 2016 American Community 
+Survey, via SafeGraph (​https://www.safegraph.com/open-census-data​). Jobs data were 
+downloaded from the US Longitudinal Employer-Household Dynamics Origin-Destination 
+Employment Statistics (LODES) survey for 2017 (​https://lehd.ces.census.gov/data/​). 
+ 
+All data were downloaded at the Census Block Group (CBG) level, the ​smallest standard 
+geographic unit available to join both datasets. The respective tabular sources and 
+calculations are summarised in Table A1. 
+ 
+Table A1. Summary of demographic variables, their respective census tables, and calculations. 
+ 
+Variable 
+Source (ASC / LODES) 
+Calculation 
+Total population 
+Table B02001e1 
+- 
+Median household income 
+Table B19013e1 
+- 
+Poverty level 
+Tables B17021e2, B17021e1 
+[Individuals below poverty 
+level] / [Total individuals 
+assessed for poverty] 
+Non-white population 
+Tables B02001e1, B02001e2 
+[Total population] - [White only 
+population] 
+Zero vehicle ownership 
+Tables B25044e10,  B25044e3, 
+B25044e1 
+([No. of occupied renter units 
+with zero vehicles] + [No. of 
+occupied owner units with 
+zero vehicles]) / [Total 
+occupied units] 
+High-school education or less 
+Tables B15003e10 to 
+B15003e18, B15003e1 
+[educational attainment until 
+end of high school for people 
+aged 25, including GED] / 
+[Total population aged 25+] 
+Total number of jobs  
+Michigan Workplace Area 
+Characteristics (WAC) Table 
+MI_WAC_S000_JT_2017 
+- 
+ 
+ 
+ 
+ 
+42

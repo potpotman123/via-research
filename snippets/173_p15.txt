@@ -1,0 +1,118 @@
+# source: https://legistar.granicus.com/cupertino/attachments/ede09967-ba4f-4ddb-a90c-84a5e475d1c8.pdf
+# path: raw/cache/385d4496299bca08f633b9a36d334b979bf30f3f.pdf
+# hit page: 15 of 28
+# terms: Via+drivers, Via+fleet, Via+vehicles
+
+=== page 14 ===
+ordering and tracking). The Consultant will provide as a feature of the Pilot service a phone 
+number and a dedicated dispatcher to book and coordinate rides for users without smartphones. 
+A phone booking option will be available as part of the Pilot service no later than the  
+Launch Date.  
+Customer Service  
+The Consultant shall provide high-quality customer service to both Pilot customers and driver 
+partners during the course of the Pilot. If an issue arises for a customer or driver before, during, 
+or after a ride, parties will be able to reach Consultant staff by text message in real time, or by 
+submitting an email ticket, which will be replied to promptly by Consultant staff. Riders who 
+booked using the dedicated phone line will be able to receive phone support as required.  
+Hours of Operation  
+The Pilot will operate Monday through Saturday, excluding holidays, for which a mutual decision 
+whether to operate will be made between the City and Consultant. The Consultant estimates the 
+Pilot service will operate from 6am – 8pm Monday – Friday, and 9am-5pm Saturdays, subject to 
+change based on demand data gathered during the initial launch period and subject to mutual 
+decision between the Consultant and City.  
+The Pilot goal will be to provide operating hours as extensive and consistent as possible within 
+the reasonable cost, as mutually agreed upon between the Consultant and City. As it is the 
+intent of the Pilot to provide a reliable and predictable service, the Consultant shall seek to limit 
+adjustments to the Hours of Operation to those changes deemed necessary or intended to grow 
+ridership or enhance service.  
+Fare Structure  
+It is the intent of the Program to provide a consistent, flat-fare transportation service that 
+enables community members of all incomes to access a convenient, high quality mobility  
+option. The consumer cost to take a ride using the Program shall be as follows in the fare 
+structure below, unless otherwise mutually agreed upon by Consultant and the City Project 
+Manager:  
+Regular Fare (per trip): $5.00, with the option to reduce post launch as low as $2, as it relates to 
+demand generation and rider acquisition tactics and targets.  
+Rider +friends (additional riders added onto a users’ trip request): Half the regular per trip fare 
+per-person, up to a maximum of four (4) riders under one (1) reservation.  
+Weekly ViaPass: Set price per week, starting the first day of the first trip used. Offers up to a set 
+number of trips per-day, each operational day of the week.  
+Senior/Disabled Pass (ages 65 and over)/Low-income/De Anza College students discounted 
+rate passes: Riders who are eligible for and submit necessary documentation to receive this 
+discount shall receive 50% off all standard fares, including Weekly ViaPass.  
+Consultant will work with City staff to determine appropriate fares for mutually agreed-upon out 
+of zone destinations, listed in Cupertino Service Area Map, Exhibit C.
+=== page 15 ===
+Consultant will work with City staff on developing additional fare packages, such as a monthly 
+pass, and other ways to maximize fare-box recovery and increase ridership.  
+The City will be responsible for verifying whether riders qualify for discounted fares. The City will 
+identify simple methods of verification, such as student ID’s for the student fare, or cards 
+demonstrating that riders qualify for existing low-income programs to simplify the verification 
+process to the maximum extent feasible.  
+Any changes to base ride cost will be made in response to Pilot service data, and with the 
+intention of making the Pilot as efficient and cost-effective as possible while retaining service 
+accessibility. The City will retain full authority to approve any changes to the base ride cost 
+range described above.  
+Fare payment options shall include payment by credit card submitted electronically through the 
+Rider App or submitted through the Via system when booking is made for a rider over the 
+phone.  
+Fleet/Vehicles  
+Dedicated vehicles will be offered by the Consultant’s chosen third party vehicle provider 
+(“Vehicle Provider”) to Driver Partners on a rental basis.  The Vehicle Provider will offer a fleet of 
+up to ten (10) branded, licensed and insured vehicles (“Fleet Vehicles”), all of which can fit a 
+minimum of 6 passengers and as many as two bicycles.  The Fleet Vehicles shall include one 
+Wheelchair Accessible Vehicle (WAV) (approximately 10% of the total Fleet Vehicles) to be 
+made available to independent contractor Driver Partners, who will be able to gain access to 
+these vehicles after being registered onto the Platform.  Consultant will ensure Vehicle Provider 
+keeps vehicles clean and maintained in a preventive maintenance program for vehicles used in 
+this pilot program.  For the avoidance of doubt, the Vehicle Provider shall not be deemed a 
+“subcontractor” for the purposes of Section 5 of the Agreement. 
+Drivers  
+Qualified and accredited independent contractor drivers will be able to gain access to the Fleet 
+Vehicles after being registered onto the Via system, enabling these individuals to sign up for 
+specific daily slots or longer periods of work. Consultant shall establish driver registration and 
+certification protocols designed to ensure compliance with applicable laws, regulations, or terms 
+of project funding sources. Consultant shall ensure drivers are aware of the pilot program and 
+can articulate to riders pilot program basics, including how to get additional program information. 
+For the avoidance of doubt, independent contractor driver partners shall not be deemed 
+“subcontractors” for the purposes of Section 5 of the Agreement.  
+Smartphone App  
+Consultant shall work closely with the City to provide a co-branded splash page in the Via 
+Smartphone App. The ultimate appearance of the app will be built upon Via’s proprietary rider
+=== page 16 ===
+application to provide a tailored user experience. As mutually agreed upon, the app may 
+suggest locations to customers, or present service announcements, promotions, or discounted 
+pricing through in-app messages or push notifications.  
+Technology Platform  
+Via will leverage its powerful suite of apps, real-time operations and administrative tools, and 
+data analysis and reporting features to power the Pilot service. This platform will be the same 
+one used to manage each Via service around the world. The Consultant will provide use of the 
+Via technology platform that in real time aggregates riders travelling from multiple origins to 
+multiple destinations efficiently, while optimizing the balance between vehicle utilization fleet-
+wide and a high quality of service. The Via system has fully automated ride proposal, booking, 
+and dispatch services, and is accessible by mobile application and, as required, phone 
+bookings. In order to serve those users who do not have a smartphone or may require 
+additional technology assistance, the Consultant shall provide the option for account creation by 
+phone for at least 10 hours per week (pre-set hours to be determined as part of launch 
+planning).  Should Via have the capacity for web-based booking, it shall be made available as 
+an option to the City at no additional cost.  
+Deliverables:  
+Final Launch Plan  
+Additional documentation of Parameters, as mutually agreed upon by Consultant and City 
+Task 2.3 Technology Localization & Back-end Systems Setup  
+Consultant shall localize all infrastructure technology, including mapping and real-time routing 
+systems, specifically for the Pilot, taking into account local geography and any algorithmic 
+adjustments required in order to achieve system and service efficiency. Back-end operational 
+systems, including those required for driver registration and supply monitoring, will be fully 
+localized and maintained over the course of the Pilot.  
+Deliverables:  
+Completion of Technology Localization & Back-end Systems Setup 
+Task 2.4 Driver Acquisition & On-Boarding  
+Consultant shall source independent contractor drivers from the community and surrounding 
+areas if possible and shall verify that drivers possess all data and documentation to satisfy Via’s 
+standards as well as local and State requirements. Independent contractor drivers will go 
+through registration, which includes an introduction to Via’s system, customer service 
+expectations, and customer and driver safety protocol and policies. Drivers will be subject to 
+comprehensive background checks as required by local and State law.  
+Deliverables: Drivers fully registered to drive on the Via platform 
+Task 2.5 Vehicle Delivery & Branding

@@ -1,0 +1,103 @@
+# source: https://legistar1.granicus.com/McKinney/attachments/abb0b9be-9c15-4174-9e04-7b9d82941c25.pdf
+# path: raw/cache/5e92fe54da67feb112756b4c03bca94101b9439a.pdf
+# hit page: 8 of 50
+# terms: Spare Labs
+
+=== page 7 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+Overview and context 
+ 
+The City of McKinney, the McKinney Urban Transit District (MUTD) and the Denton County 
+Transportation Authority (DCTA) provide Collin County Transit (CCT), a ​subsidized taxi 
+voucher program​. Participating cities include Celina, Lowry Crossing, McKinney, Melissa, 
+Princeton and Prosper (Figure 2). CCT is seeking to maintain the same coverage, whilst 
+improving efficiencies and reducing costs by running the system on a sophisticated trip 
+matching and dispatching on-demand platform. 
+ 
+In the proposed system, trips would be permitted to start and end anywhere in the six 
+participant cities for a set fare ($3 for trips starting and ending within the six cities, and $5 
+for trips ending in the wider county). No trips would be permitted to start from outside the 
+MUTD cities. A special provision would allow trips to start or end at the Parker Road Light 
+Rail Station in the City of Plano, to improve connection with the Dallas-Fort Worth region via 
+the Dallas Area Rapid Transit (DART) system. 
+ 
+The target demographic for this system is senior citizens and those with mobility issues, 
+although the system will remain open to anybody. This report touches on the benefits of 
+opening up the service to a wider demographic through extended service hours.  
+ 
+ 
+Figure 2. Primary zone for McKinney Urban Transportation District (MUTD) participating cities and Parker 
+Road LRT Station (including a connection corridor), where on-demand trips can start or end. The wider 
+Collin County area, where trips can end but not originate, is also shown.  
+ 
+6
+=== page 8 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+Project objectives 
+ 
+The Spare team and CCT representatives worked together to outline some key objectives 
+for the wider microtransit project. These can be summarized as: 
+ 
+1.
+Boost efficiency​: increase ridership and spending productivity 
+ 
+2.
+Improve​ ​accessibility​: connect people to fixed routes and POIs in an affordable 
+way, focusing on underserved communities 
+ 
+3.
+Innovate​: propel Collin County’s transit provision into the future 
+ 
+Together, CCT and Spare outlined target average waiting time for microtransit of 15-30 
+minutes, with no waiting times exceeding 60 minutes. This helped to shape Spare’s 
+experimental setup and duty provisioning (i.e. driver and vehicle shift) scenarios. 
+ 
+CCT currently spends approximately $360,000 per annum (p.a.) on running their subsidised 
+taxi service. They have access to approximately $900,000 p.a. for operating the new 
+proposed on-demand service, although this is fairly flexible given CCT’s funding source for 
+2020/2021. These financial constraints were used to inform realistic duty levels in our 
+simulations.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7
+=== page 9 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+Methodology  
+1
+ 
+Data sources 
+ 
+We modelled demand as the volume and distribution of ride requests over a given period 
+of time. Model inputs included origin-destination trip data provided by CCT for the existing 
+taxi service that covers the region, open-source census and jobs data, and 
+demand/performance data from other similar services run by Spare (Figure 3). We outline 
+our use of these datasets in the following sections. 
+ 
+ 
+Figure 3. Data sources for deriving estimates of demand volume and distribution. 
+ 
+Spare’s framework for simulating microtransit demand 
+ 
+Spare has a tried-and-tested methodological framework for simulating the dynamics of a 
+microtransit service. It involves a multi-stage approach to analyze ​where​ a microtransit 
+system should operate, ​whom ​it is likely to serve and therefore impact, during ​which times​ it 
+should operate, the ​service model​ it should follow (stop-to-stop, door-to-door), and its 
+potential ​costs and returns​.  
+ 
+The four main stages of the approach (Figure 4) are: 
+ 
+1. Estimate trip volume (i.e. total number of expected trips in a zone); 
+2. Estimate trip distribution; 
+a.
+Assign trip types (e.g. work, recreational, medical) ; 
+1 ​The “Methodology” section contains trade secrets of Spare Labs Inc. that are not to be shared with outside parties, even in 
+the case of a Freedom of Information Act Request  - as prescribed by law. 
+8

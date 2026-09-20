@@ -1,0 +1,173 @@
+# source: https://legistar.granicus.com/LosAlamos/attachments/d4ed28e3-5da0-403c-aaa8-20fd558046f1.pdf
+# path: raw/cache/9e8dcba51a86916c33f88b1baedeefebe738b9ef.pdf
+# hit page: 3 of 81
+# terms: Spare Labs
+
+=== page 2 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+2 
+ Agreement Template Version: 04012024 
+2. “Administrator” means a member of County staff with the highest level of Platform permissions 
+and decision and approval authority as it relates to the Platform. 
+ 
+3. “API” means Application Programming Interfaces. 
+ 
+4. “App” means an application downloaded by a user to a computer or mobile device. 
+ 
+5. “Business Intelligence Tools” means software applications that are used to collect, process, 
+analyze, sort, filter, and report large quantities of data from internal and external systems for 
+the purpose of transforming raw data into useful information for business purposes.   
+ 
+6. “CEO” means Chief Executive Officer. 
+ 
+7. “Contractor Project Manager” means the Contractor employee assigned by Contractor to 
+represent Contractor to serve as a primary point of contact to manage the overall Project 
+Implementation, help coordinate Project Implementation tasks, and maintenance of the 
+Platform. 
+ 
+8. “County Data” means all data entered by end users through the Contractor’s Platform.  
+ 
+9. “County Project Manager” means the County employee or designee assigned by County to 
+represent County to serve as a primary point of contact to manage the overall Project 
+Implementation, help coordinate Project Implementation tasks and maintenance of the 
+Platform. 
+ 
+10. “County User” means County and its agents, employees, contractors, and members, or any 
+other person designated by County to have an account to use the Platform for County’s 
+governmental purposes.  
+ 
+11. “CSV” means Comma-Separated Values file. 
+12. “Defect” means any element of the Platform deemed unacceptable by County upon testing. 
+ 
+13. “Documentation” means any online or written documentation related to the use or functionality 
+of the Software that Contractor provides or otherwise makes available to County, including 
+instructions, user guides, manuals and other training or self-help documentation. 
+ 
+14. “FTA” means Federal Transit Administration. 
+ 
+15. “HIPAA” means the Health Insurance Portability and Accountability Act.  
+ 
+16. “Hosted” means a website or other data that is stored on a server or other computer so that it 
+can be accessed over the internet.  
+ 
+17. “IM” means Information Management. 
+ 
+18. “IP” means Internet Protocol.  
+ 
+19. “KPI” means key performance indicators. 
+ 
+Attachment A
+=== page 3 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+3 
+ Agreement Template Version: 04012024 
+20. “Launch” means the Platform is fully configured, implemented, and functioning properly; 
+Platform becomes operational and available to the Public; and County has provided written 
+approval that all County-identified Platform issues have been corrected, and Project 
+implementation tasks are completed to the County’s reasonable satisfaction. 
+ 
+21. “Learning Data” means aggregated or anonymized information derived from County Data. 
+ 
+22. “Microtransit” means an on-demand service available to the public that uses app-enabled trip 
+request functions. 
+ 
+23. “MSSQL” means Microsoft SQL Server. 
+ 
+24. “NMDOT” means New Mexico Department of Transportation. 
+ 
+25. “Notice to Proceed” means the Agreement has been approved by County Council and both 
+Parties have received an approved copy of the Agreement signed by both Parties. 
+ 
+26. “NTD” means National Transit Database Requirements.  
+ 
+27. “NTE” means Not to Exceed. 
+ 
+28. “Paratransit” means transportation service that supplements larger public transit systems by 
+providing individualized rides without fixed routes or timetables and are intended for 
+individuals who, because of their differing abilities, may be unable to use the general larger 
+public transit systems. 
+ 
+29. “PCI” means Payment Card Industry. 
+ 
+30. “Platform” means Contractor’s cloud-based, Hosted SaaS, developed, owned, and operated 
+by Contractor to provide Microtransit and Paratransit scheduling and reporting Services to the 
+County, and any related interfaces, portals, and product upgrades, as set forth herein and 
+licensed by Contractor to County through this Agreement. May also be referred to herein as 
+“System.” 
+ 
+31. “Portal” means the web-based interface through which Riders and end-users of the Platform 
+can access the Platform to request rides and manage their accounts.  
+ 
+32. “Project Plan and Schedule” means the mutually agreed-upon details of Project 
+Implementation that conforms substantially with the Project Implementation and Training 
+described in Section C(19) that includes, at a minimum, items discussed for inclusion during 
+the Project initiation meeting, due dates for deliverables, Project phases, and milestones, 
+subject to County Project Manager’s approval. 
+ 
+33. “Project Team” means the County and Contractor employees assigned to assist with Project 
+Implementation. 
+ 
+34. “Project” means all implementation services, meetings, training, set-up, configuration, testing, 
+and issue resolution required to complete a successful Launch of County’s instance of the 
+Platform, as described herein. 
+ 
+Attachment A
+=== page 4 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+4 
+ Agreement Template Version: 04012024 
+35. “Registration Information” means information collected from end-users of the Platform, 
+including but not limited to, user name, account name, telephone number, and email address. 
+ 
+36. “Rider” means members of the public and end-users who may use Contractor’s front-end 
+public-user-facing Microtransit and Paratransit services through the Platform.  
+ 
+37. “SaaS” means Software as a Service. 
+ 
+38. “Service” means the collective term used for Contractor's Platform, Support, and all other 
+Project implementation services provided, as described herein. 
+ 
+39. “SOC 2 Type II” means a report generated as a result of a third-party audit that focuses on 
+the American Institute of Certified Public Accountants Trust Service Criteria, which examines 
+a service provider’s internal controls and systems related to security, availability, process 
+integrity, confidentiality, and privacy of data. 
+ 
+40. “Software” means the source code, object code, or underlying structure, ideas, know-how or 
+algorithms relevant to the Services or any software, documentation or data related to the 
+Platform.  
+ 
+41. “Support Hours” means Support provided by Contractor on a twenty-four (24) hour, seven (7) 
+days a week basis.  
+ 
+42. “Support” means general maintenance services and technical support in respect of the 
+Platform provided by Contractor throughout the Term of this Agreement. 
+ 
+43. “System” has the same definition as “Platform.” 
+ 
+44. “Title VI” means Title VI of the Civil Rights Act of 1964. 
+ 
+45. “TLS” means Transport Layer Security. 
+ 
+46. “Work Products” means all drawings, designs, specifications, manuals, reports, studies, 
+surveys, models, software (including source code), and any other documents, materials, data 
+(other than County Data) and products.  
+ 
+47. “XLSX” means a Microsoft Excel spreadsheet file. 
+ 
+SECTION B. EXHIBITS: The following Exhibits listed here relate to the Services described herein, 
+are referenced throughout, and are attached hereto and made a part hereof for all purposes.  In 
+the event there is any conflict or ambiguity between a provision in this Agreement and any of the 
+Exhibits hereto, this Agreement shall govern.   
+ 
+1. Exhibit A – Compensation Rate Schedule 
+2. Exhibit B – Platform and Software Functional Specifications 
+3. Exhibit C – County Technology Standards 
+4. Exhibit D – Confidential Information Disclosure Statement 
+5. Exhibit E – Contractor’s Privacy Policy 
+6. Exhibit F – Contractor’s Backup and Recovery Procedures 
+7. Exhibit G – Contractor’s Procedures for Integration Testing, System Acceptance Testing, 
+Operability Performance Testing and Applying Upgrades and Patches 
+Attachment A

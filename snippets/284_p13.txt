@@ -1,0 +1,107 @@
+# source: raw/bleecker_drive/Arlington, Texas/FTA-Report-No-0244.pdf
+# path: raw/bleecker_drive/Arlington, Texas/FTA-Report-No-0244.pdf
+# hit page: 13 of 74
+# terms: Via+fleet, Via+vehicles
+
+=== page 12 ===
+Section 1 
+	
+FEDERAL TRANSIT ADMINISTRATION 	
+3
+RAPID Project Introduction
+The Arlington Rideshare, Automation, and Payment Integration Demonstration 
+(RAPID) project is an integration of a shared, dynamically routed, Level 4 
+automated vehicle (AV) fleet into an existing public microtransit system in 
+Arlington, Texas. The City of Arlington, working with Via Transportation, Inc. 
+(Via), May Mobility, Inc., and the University of Texas at Arlington (UTA), led the 
+demonstration from March 23, 2021, to March 18, 2022, in a one-square-mile 
+area that included Arlington’s Downtown and the UTA campus. Over the one-
+year RAPID demonstration, a total of 28,140 rides were provided with no safety 
+incidents or accidents.
+This final project report is organized in five main sections, as follows:
+•	 RAPID Project Description: this section provides background and context 
+for the project and describes the demonstration goals, challenges 
+addressed by the project team, and the objectives of the project. 
+•	 RAPID Project Evolution: this section provides detailed information about 
+the work done by the project team in preparation for demonstration 
+and during the demonstration itself. The project addressed several key 
+elements during the preparation phase, including defining the service 
+area; route mapping; establishing operational parameters; planning for 
+communications and outreach about the service; and research activities 
+that informed the demonstration. Key elements addressed during 
+the demonstration phase included tracking ridership, autonomy, and 
+integration performance metrics; tracking rider experience metrics; 
+installing software updates; making necessary operational changes; 
+continued communication and education about the service; and research 
+activities to analyze the service itself. This section also discusses the 
+evolution of key challenges during the project, including COVID-19 impacts, 
+rider experience, wheelchair accessible vehicle use, and integration 
+between the partner platforms for the service.
+•	 RAPID Project Evaluation: this section evaluates key RAPID project 
+objectives, including increased access for senior citizens, students, and 
+individuals with disabilities; improved equity and accessibility to public 
+transit; improved safety and efficiency; demonstration of automation on 
+an existing public transportation system; demonstration of integrated 
+ride booking and payment between modes; and the use of public-private 
+partnerships for demonstration, data sharing, and knowledge transfer. 
+•	 RAPID Project Conclusions and Recommendations: this section highlights 
+the key lessons learned from the RAPID project, recommendations based 
+on lessons learned, and next steps for the RAPID project and team.
+=== page 13 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+4
+SECTION  |  1 
+Overall, the RAPID project successfully demonstrated the integration of a 
+fleet of automated, on-demand, shared vehicles with an existing on-demand 
+rideshare public transportation service. The service provided increased 
+access for individuals within the service area, and survey results show that 
+many riders had low income levels and lacked access to a personal vehicle. 
+The RAPID service also provided a consistently safe and efficient service for 
+the full duration of the one-year demonstration, with no safety accidents 
+or collisions and high quality-of-service ratings, including wait times and 
+on-time performance. Automated performance improved over the course of 
+the demonstration, suggesting significant learning and improvement by the 
+automation technology and vehicles. Integration between the Via and May 
+Mobility platforms was also robust, and riders were able to use the Via app to 
+book and pay for rides delivered by the May Mobility AVs. The public-private 
+partnership team worked efficiently to provide and evaluate the service and to 
+share lessons learned widely.
+=== page 14 ===
+Section 2 
+	
+FEDERAL TRANSIT ADMINISTRATION 	
+5
+RAPID Project Description
+Context and Project Overview
+Arlington, Texas is in the middle of the Dallas-Fort Worth metropolitan region, 
+one of the fastest growing regions in the United States. It is the 50th largest 
+city in the country, with a population of nearly 400,000 residents in an area of 
+99 square miles. Over the past few decades, Arlington has transitioned from a 
+bedroom community to a core city, with the growing UTA campus and major 
+employers, such as General Motors and Texas Health Resources, as well as a 
+thriving entertainment district that attracts over 15 million visitors to Arlington 
+each year.
+In December 2017, Arlington launched a comprehensive, fully on-demand 
+microtransit service, powered by Via, which uses a fleet of six-passenger vans 
+to provide shared rides anywhere within the city limits. The service operates 
+Monday through Friday from 6:00 a.m. to 9:00 p.m. and Saturday from 9:00 am 
+to 9:00 p.m. Riders without a smartphone can call a local telephone number 
+to book a ride with a customer service agent. Fares range between $3.00 and 
+$5.00, depending on distance traveled, and are paid with a credit or debit card. 
+Prepaid cards are accepted for riders who are not traditionally banked. Via has 
+wheelchair accessible vehicles (WAV) operating on the platform, and riders can 
+request a WAV and door-to-door service, as necessary. 
+Arlington has also completed two AV pilot programs, which operated in the 
+entertainment district using SAE Level 4 vehicles. Both services were open to 
+the public and free to ride, allowing residents, visitors, and City staff to learn 
+more about AV technology. The first pilot was called Milo and used two EasyMile 
+vehicles on an off-street route connecting remote parking lots to stadium 
+destinations within the entertainment district. The Milo pilot operated from 
+August 2017 to August 2018 as an event service during events at the stadiums. 
+The pilot also operated for public demos and special group tours. The second 
+pilot was a partnership with Drive.ai operating on-street in mixed traffic at 
+speeds up to 35 mph in the entertainment district. From October 2018 to May 
+2019, the Drive.ai pilot operated a circulator route Monday through Friday from 
+11:00 a.m. to 4:00 p.m., as well as during some events at the stadium. More 
+information about Arlington’s AV program can be found here. 
+A summary of Arlington’s microtransit and AV services is shown in Figure 2-1.

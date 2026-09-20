@@ -1,0 +1,97 @@
+# source: raw/bleecker_drive/Hillsborough County/Completed Contract File.pdf
+# path: raw/bleecker_drive/Hillsborough County/Completed Contract File.pdf
+# hit page: 151 of 199
+# terms: Via+vehicles
+
+=== page 150 ===
+4. Cost
+While Via offers Hillsborough County the most advanced paratransit scheduling software system
+and robust partner support services, we also acutely understand the financial consideration that
+the County must take when choosing software providers and are fully committed to providing the
+best value for money to the County. As such, we are offering a discounted proposal within the
+County’s Year 1 budget at a total price of $247,200. Our Software-as-a-Service solution includes
+two fee categories:
+●
+One-Time Fees:
+○
+Installation Fee: This one-time fee covers all technical tasks and start-up activities
+required to launch a successful paratransit scheduling software system, including
+training, technology configuration, testing, and quality assurance ՄQAՅ. Note that
+Via has included a web booking portal and Direct Data Access ՄDDAՅ in the base
+installation fee at no additional cost to the County. Pricing for GTFS integration is
+included in Via’s offer, and pricing for SSO integration can be provided upon
+request.
+○
+Mobile Data Computer ՄMDCՅ Fee: This one-time fee covers the entire MDC
+package for Year 1, including purchase of Samsung tablets, RAM mounts, power
+cords, rugged cases, shipping, and installation costs, as well as twelve months of
+data plans for the 68-vehicle fleet. Please note that we have priced two options for
+MDCs: one for 8” tablets, which are more cost effective and can also be suitable for
+this use case based on our prior experience, and another with ֜10” tablets as
+requested by the RFP.
+●
+Recurring Fees:
+○
+Monthly Per Vehicle Fees: After launch, our solution is priced as an all-inclusive
+monthly per-active vehicle fee, granting ongoing access to Via’s cloud-based
+software. This means that the County will only be charged for active vehicles
+during service hours, and not for every vehicle in their fleet. The fee also covers
+our reporting suite, Amazon Web Services cloud hosting, marketing support,
+technical support, and continuous software upgrades.
+○
+Ongoing MDC Fee ՄYears 2֡ Only): After the purchase of MDCs has been
+completed in Year 1, a $31,500 annual cost would apply in subsequent years to
+cover data plans and ongoing support & standard replacement needs for 68
+devices.
+Below is a summary of our cost proposal for 40 active vehicles. Please note that our pricing is
+based on the County’s 40 active vehicles (per Addendum 1Յ and that the County will only be
+charged for the maximum number of distinct active vehicles used concurrently during the course
+of a month:
+Proprietary, Confidential, and Trade Secret Information
+RFP‐23‐24177 | 47
+=== page 151 ===
+Option 1
+8" Tablets
+Option 2
+֜10" Tablets
+Year 1
+One-Time Fees
+Installation Fee ՄIncl.
+GTFS Integration)
+$35,000
+$35,000
+MDC Fee
+$42,490
+$99,400
+Recurring Fees
+Monthly Per-Vehicle
+Fees Մ40 Active
+Vehicles)
+$112,800
+$112,800
+Total Cost - Year 1
+$190,290
+$247,200
+Years 2՞5
+Recurring Fees
+Monthly Per-Vehicle
+Fees Մ40 Active
+Vehicles)
+$120,000
+$120,000
+Ongoing MDC Fees
+$17,850
+$31,500
+Ongoing Total Annual Cost
+$137,850
+$151,500
+Via’s fee structure is fully flexible and we welcome further discussion to determine a pricing
+strategy in line with the County’s goals and needs. For example, we can adjust our fee structure to
+charge more in upfront costs to reduce ongoing support fees, or vice versa.
+Below is our completed Cost Proposal Form, as required by the RFP, which provides additional
+details on the breakdown of our cost proposal for both hardware options.
+Proprietary, Confidential, and Trade Secret Information
+RFP‐23‐24177 | 48
+=== page 152 ===
+Proprietary, Confidential, and Trade Secret Information
+RFP‐23‐24177 | 49

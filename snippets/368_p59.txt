@@ -1,0 +1,97 @@
+# source: raw/bleecker_drive/Bay Transit/REDACTED-Via-Mobility-LLC-Response_RFP-2024-01-Transit-Scheduling-Software.pdf
+# path: raw/bleecker_drive/Bay Transit/REDACTED-Via-Mobility-LLC-Response_RFP-2024-01-Transit-Scheduling-Software.pdf
+# hit page: 59 of 60
+# terms: Via Mobility
+
+=== page 58 ===
+P.O. Box 610 • 5306 Old Virginia Street Urbanna, VA 23175 • 804-758-2386 • www.bayaging.org 
+HEALTH • HOUSING • TRANSPORTATION 
+March 29, 2024 
+BAY TRANSIT, A DIVISION OF BAY AGING 
+TRANSIT SCHEDULING SOFTWARE 
+RFP No. 
+2024-01 
+ADDENDUM NO. 3 
+The purpose of this addendum is to respond to questions submitted by potential proposers for clarification 
+of the bid specifications: 
+QUESTION: 
+Will Bay Transit please address the number of vehicles that are used daily, on 
+average? 
+ANSWER: 
+30 
+QUESTION: 
+Being that Bay Transit operates in multiple counties, does reporting need to be 
+separated by county? 
+ANSWER: 
+Yes 
+QUESTION: 
+Will Bay Transit please address if the on-demand vehicles are co-mingled with the 
+demand response vehicles or are there dedicated vehicles for each service? 
+ANSWER: 
+Currently they are dedicated because they operate on different platforms.  We 
+are interested in co-mingling when this RFP is awarded. 
+QUESTION: 
+Will Bay Transit please address if the 2 seasonal trolleys, 2 fixed routes, and the 
+urbana trolley are included in your vehicle count? 
+ANSWER: 
+Fixed routes are included, trolleys are not. 
+QUESTION: 
+Will Bay Transit accept a proposal through a dropbox link if submitted digitally? 
+ANSWER: 
+Yes, assuming the vendor provides us the access we need to view/download 
+the document. 
+QUESTION: 
+Will Bay Transit accept digital signatures? 
+ANSWER: 
+Yes 
+QUESTION: 
+Does Bay Transit contract with any Medicaid Trip Brokers in the state (ie; 
+ModivCare, MTM, Access 2 Care)?   
+DocuSign Envelope ID: 067F5112-10D8-4FAF-8E81-E6AD8343D225
+RFP #2024՞01 Transit Scheduling Software | 56
+=== page 59 ===
+ANSWER: 
+Bay Transit has a contract with ModivCare, but provides very limited service. 
+QUESTION: 
+Will Bay Transit please address how many office staff will need access to the 
+software? 
+ANSWER: 
+Approximately 25-30 
+All other conditions of this RFP remain the same. 
+Please acknowledge receipt of this addendum and include it with your submittal. 
+Signature: 
+Manual 
+Signature: 
+Company Name: 
+Typed or Printed 
+Address: 
+ 
+Date: 
+Alex Lavoie
+Via Mobility, LLC
+114 5th Avenue, FL 17, New York, NY 10011
+DocuSign Envelope ID: 067F5112-10D8-4FAF-8E81-E6AD8343D225
+4/15/2024
+RFP #2024՞01 Transit Scheduling Software | 57
+=== page 60 ===
+Proprietary and Confidential Information
+Via Mobility, LLC’s (“Via”) response and all supporting documentation, including
+associated exhibits and appendices, contain confidential information exempt from
+disclosure under the Virginia Freedom of Information Act and Virginia Public Procurement
+Act. The confidential materials include, but are not limited to, information relating to the
+pricing of Via's services, back-end application processes, proprietary algorithms, unique
+business methodologies, entity officer and member details, market positioning, third party
+reference letters, compliance efforts, and sensitive information on key performance
+indicators. This information is exempt from disclosure under several provisions of Virginia
+Freedom of Information Act, including but not limited to Va. Code Ann. § 2.2-4342(F) (as
+trade secret and proprietary information submitted in connection with a procurement).
+Such information includes confidential, commercial, proprietary, and trade secret
+information and personal information concerning identifiable individuals. Accordingly, we
+request that your office maintain the confidentiality of Via’s response and provide Via with
+timely notice of any third party’s request for these materials prior to production by
+contacting compliance@ridewithvia.com.
+Intellectual Property
+Via maintains a robust global portfolio of patents to protect our proprietary technology.
+For a list of these patents, please refer to the following site:
+https://ridewithvia.com/legal/patents.
+RFP #2024՞01 Transit Scheduling Software | 58

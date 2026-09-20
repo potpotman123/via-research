@@ -1,0 +1,102 @@
+# source: raw/bleecker_drive/Arlington, Texas/FTA-Report-No-0244.pdf
+# path: raw/bleecker_drive/Arlington, Texas/FTA-Report-No-0244.pdf
+# hit page: 47 of 74
+# terms: Via+vehicles
+
+=== page 46 ===
+Section 4
+	
+FEDERAL TRANSIT ADMINISTRATION 	
+37
+RAPID Project Evaluation
+Evaluation of the RAPID project can be achieved through comparison of the 
+information presented in the previous chapter to the stated project objectives 
+listed in the Project Description chapter and established at the outset of 
+the RAPID project. Additionally, as sharing of lessons learned from this 
+demonstration was a key goal, this chapter will also provide an evaluation of the 
+knowledge transfer activities performed by the RAPID project team. 
+Evaluation of Project Objectives
+There are six project objectives that were established for the RAPID project, and 
+each will be evaluated in turn: 
+•	 Increased access for senior citizens, students, and individuals with 
+disabilities 
+•	 Improved equity and accessibility to public transit
+•	 Improved safety and efficiency
+•	 Demonstration of automation on an existing public transportation system
+•	 Demonstration of integrated ride booking and payment between modes
+•	 Use of public-private partnerships for demonstration, data sharing, and 
+knowledge transfer
+Increased Access for Senior Citizens, Students, 
+and Individuals with Disabilities 
+Ridership data and survey results were used to evaluate how RAPID increased 
+access for all, with an emphasis on underserved groups including senior 
+citizens, students, and individuals with limited personal mobility. While 
+demographic data were not collected on all riders, survey responses can serve 
+as a proxy for some conclusions about general RAPID rider characteristics. 
+Figure 4-1 shows the age distribution of survey respondents, which reveals 
+that the majority of riders were 18 to 24 years old (54.5 percent of survey 
+respondents) and only 0.4 percent of survey respondents were 65 years or older, 
+suggesting that senior citizens were not a key rider group for RAPID. However, 
+we do see that most RAPID riders were UTA students, with a total of 98.5 percent 
+of all rides on RAPID taken by UTA students. 
+Regarding RAPID providing service to individuals with disabilities, this metric 
+was evaluated in two ways. The first evaluation used by the project team relates 
+to individuals with a disability that limits their mobility. While the wheelchair 
+accessible AV was not used to complete rides for individuals requiring this 
+mode, it is quite possible that the provision of RAPID allowed riders with a 
+mobility disability that did not require a WAV to access destinations more easily 
+and conveniently within the busy service area. For some additional context, it is
+=== page 47 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+38
+SECTION  | 4
+important to note that senior citizens and individuals with disabilities may have 
+been less likely to travel during the time of the RAPID demonstration due to 
+increased risk from COVID-19 health concerns. Additionally, the City of Arlington 
+has an established ADA complementary paratransit service available for eligible 
+persons whose disabilities prevent them from independently using the fixed 
+route busy system. Finally, while ADA accessible vehicles are provided on the 
+City of Arlington’s broader Via rideshare service, data from the first one and 
+half years of city-wide service shows that only about 4 percent of all rides taken 
+were from riders needing WAVs. As the RAPID service was part of the broader 
+rideshare service, it is reasonable that there would also be low demand for WAV 
+rides on RAPID.
+A second evaluation regards access to modes of transportation to meet the 
+needs of individuals. RAPID rider survey results show that 47.3 percent of 
+respondents do not have access to a personal vehicle at all, while an additional 
+32.8 percent of respondents have one vehicle available to their household. 
+Income can also be a proxy for personal mobility, and survey results show 
+that 73.8 percent of RAPID riders had an annual household income of less than 
+$35,000 (Figure 4-2). It is clear that the RAPID service increased access for riders 
+in the service area, especially for UTA students and for individuals with limited 
+access to other forms of personal mobility. 
+Figure 4-1 Age Distribution of RAPID Riders, Based on Survey Responses (n= 262)
+=== page 48 ===
+FEDERAL TRANSIT ADMINISTRATION 	
+39
+SECTION  | 4
+Figure 4-2 Annual Household Income Distribution of RAPID Riders, Based on Survey Responses 
+(n= 248)
+Improved Equity and Accessibility to Public Transit 
+Evaluation of how RAPID improved equity and accessibility to public transit was 
+also performed using ridership data and survey responses. Given the dramatic 
+increase in ridership over the course of the RAPID demonstration and the average 
+of close to 200 riders per day taken on RAPID during November 2021, it is clear 
+that the RAPID service provided a needed transportation option for individuals 
+in the service area. For context, the Via microtransit service in Arlington also 
+saw significant growth during this time period, with a 9 percent compound 
+monthly growth rate in 2021 that led from an average of 16,500 monthly rides to 
+an average of 48,300 monthly rides over the course of the year. Additionally, 25 
+percent of monthly rides in 2021 were from riders new to the service. It is also 
+clear that RAPID riders used a variety of other transportation modes to meet their 
+needs. As described in the previous chapter, RAPID riders also used the broader 
+Via rideshare service, personal vehicles, walking or biking, UTA campus shuttles, 
+and private ride-hailing services (Figure 3-12). By introducing a new mode, RAPID 
+provided another option, and, for UTA students, RAPID was also a free option, 
+helping to increase equitable transportation for this underserved group.  
+More broadly, the RAPID service sought to ensure equity and accessibility 
+by providing a wheelchair accessible AV in the fleet, both a smart phone 
+application with accessibility tools and a call center for booking rides or getting 
+information, and accepting pre-paid credit cards that riders can purchase with 
+cash to make fare payments. More details can be found in the RAPID Equity and 
+Accessibility Plan approved by FTA.

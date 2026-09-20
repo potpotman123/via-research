@@ -1,0 +1,155 @@
+# source: raw/bleecker_drive/Arlington, Virginia/e-1-des-transit-questions.pdf
+# path: raw/bleecker_drive/Arlington, Virginia/e-1-des-transit-questions.pdf
+# hit page: 2 of 3
+# terms: Via+fleet, Via+turnkey, Via+vehicles
+
+=== page 1 ===
+Subject:   Transit Questions  
+Related Department:  DES 
+FY 2025 Proposed Budget 
+Budget Work Session Follow-up 
+ 
+4/84/8/2024 
+ 
+The following information is provided in response to a request made by Mr. de Ferranti and Mr. 
+Karantonis at the work session on March 12, 2024, regarding the following question: 
+ 
+How can micro-transit be used to make up for demand along eliminated routes, and how are 
+ridership numbers on ART Route 72 in the context of the micro-transit pilot?  
+**************************************************************************************************** 
+Arlington Microtransit Plan 
+On-demand microtransit is a transportation service that complies with regulations similar to 
+traditional public transit but with a more flexible and dynamic route structure. Unlike fixed-route 
+buses or trains, on-demand microtransit allows passengers to request rides from specific pick-up and 
+drop-off locations using a mobile app or other booking method.  To optimize efficiency and reduce 
+costs, microtransit services combine rides with multiple passengers heading in the same direction 
+grouped together. For this reason, routes with low ridership, like the proposed reductions, could be 
+good contenders for microtransit options instead of fixed routes.  
+ 
+While DES would prefer to implement a microtransit pilot option in conjunction with the proposed 
+reductions, that will not be feasible given the additional planning and implementation work that must 
+be completed to implement a pilot.  The earliest pilot start date is fall of CY 2025; additional details on 
+the planning effort and timeline are provided in Attachment A. 
+ 
+ART 72 & Microtransit 
+The recently adopted Arlington Transit Strategic Plan (TSP) recommended microtransit in areas where 
+demand and access to service is low.  DES does not recommend microtransit along ART Route 72 at 
+this time due to the importance the route plays as a north/south connecting route linking 
+Marymount, Ballston and Shirlington.  Currently the ART 72 meets performance standards, which 
+were revised with the adoption of the TSP, with monthly averages of 7,829 passengers, 10 passengers 
+per trip and 9 passengers per hour for the first six months of the fiscal year. The ART service standard 
+for “connector” routes, like the 72, is 10 passengers per trip and 9 passenger per hour. While the ART 
+72 is meeting our performance standard, DES will continue to monitor performance. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0
+2,000
+4,000
+6,000
+8,000
+10,000
+ART 72 FY 24 YTD Passengers
+0
+2
+4
+6
+8
+10
+12
+14
+ART 72 FY 24 YTD Ridership Stats
+Passengers per Trip
+Passengers per Hour
+=== page 2 ===
+Subject:  Transit Questions 
+ 
+ 
+Attachment A 
+FY 2025 Microtransit Plan  
+The Arlington Transit Strategic Plan 2023-2032 (ATSP) (see Chapter 3, page 4) recommends the 
+implementation of the on-demand microtransit project in FY 2026 in conjunction with a handful of 
+other service recommendations.  The recommendation in the ATSP for on-demand microtransit is a 
+single-zone pilot area that encompasses the north/western part of the County bound by N Glebe Rd 
+to the east, Route 29/Langston Blvd to the south and the County line to the west and north.  The 
+service recommendation is a “curb-to-hub” model where customers can schedule trips from defined 
+pick-up locations for transport to defined drop-off locations at Metrorail stations or bus stops with 
+multiple transit services where they can connect to the high-frequency transit network.  
+ 
+The County is undertaking a project in FY 2025 to study on-demand microtransit in the County.  The 
+study will address the logistics of pilot implementation and program operation.  Following the study, a 
+pilot would begin in the fall of calendar year 2025.  Issues addressed by the study include:  
+ 
+Cost:  Start-up implementation; ongoing operation cost  
+ 
+Zones:  Confirm geographic pilot zone and define potential expansion zones  
+ 
+Operation:  Verify “curb-to-hub” operation or suggest alternative  
+ 
+Operational Hours:  All day, midday, evening, late night, weekends  
+ 
+Contracting Model:  Turnkey; service provider contract; partnerships with 
+Transportation Network Companies  
+ 
+Vehicles: Fleet size, type, propulsion, storage, maintenance, ADA accessibility  
+ 
+Technology:  Mobile apps; web-based app; call center; fare payment  
+ 
+Branding  
+ 
+Fare/Price Structure and Elasticity  
+ 
+Vehicle Demonstration  
+Demonstrations with cutaway buses, passenger vans, and shared cars are crucial for assessing the 
+optimal transportation solutions based on versatility, capacity, maneuverability, and specific service 
+demands, considering the propulsion type's impact on efficiency and environmental footprint.  
+ 
+Cutaway buses, which are smaller buses that seat approximately 20, offer unparalleled flexibility, 
+suitable for flex-route services and ADA-compliant transit due to their seating capacity and 
+adaptability. However, their higher operating costs and inefficiency in low-demand periods suggest a 
+need for alternative solutions during off-peak hours or in low-density areas.  
+ 
+Passenger vans, offering lower capacity but increased maneuverability, can enhance service efficiency 
+by reducing the risk of damage in tight spaces and are preferable for areas where larger vehicles like 
+cutaway buses are less practical. Yet, their limited capacity poses challenges during peak demand 
+periods, underscoring the need for a balanced fleet that includes higher-capacity vehicles for such 
+times.  
+ 
+Taxis, or partnership with transportation network companies like Uber, Lyft, or Via, present a flexible, 
+on-demand solution that complements the existing fleet by catering to specific needs such as
+=== page 3 ===
+Subject:  Transit Questions 
+ 
+ 
+accessibility and direct transportation to critical destinations. Evaluating these three vehicle types in 
+conjunction with considering propulsion types—such as electric or hybrid engines—can lead to a more 
+sustainable, efficient, and tailored transit service that meets varied mobility needs.  
+ 
+Implementation Timeline  
+ 
+Feasibility Plan & Recommendations (Now - December 2024)  
+• Existing Service analysis  
+• Literature review  
+• Evaluation of existing models/best practices  
+• Technology analysis  
+• Contracting models/Service provider analysis (turnkey; operations contract; County 
+provided; TAC partnerships)  
+• Budget 
+• Capital set-up (Vehicles; Operations facility)  
+• Operations and maintenance  
+• Insurance   
+• Driver training  
+• Public engagement  
+• Vehicle Demonstrations  
+• Branding/Marketing  
+ 
+Microtransit Implementation (Eight months; January 2025 - October 2025)  
+• Contract Procurement  
+• Vehicle acquisition (depending on contract model)  
+• Facility Identification and acquisition (depending on contract model)  
+• Operator hiring and training (depending on contract model)  
+• Service implementation

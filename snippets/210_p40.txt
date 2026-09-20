@@ -1,0 +1,127 @@
+# source: https://legistar1.granicus.com/McKinney/attachments/abb0b9be-9c15-4174-9e04-7b9d82941c25.pdf
+# path: raw/cache/5e92fe54da67feb112756b4c03bca94101b9439a.pdf
+# hit page: 40 of 50
+# terms: Spare Labs, Via+vehicles
+
+=== page 39 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+parameters in the service configuration to increase pooling. The ‘Detour Flexibility’ 
+parameter can be set to low, medium or high, depending on how much CCT is willing to 
+deviate a given rider for the sake of overall system efficiency.  
+ 
+The per-trip costs presented in this report may seem relatively high compared to current 
+trip costs incurred through the non-dedicated service with Irving Holdings. However, on 
+average they are significantly cheaper than the average trip cost of $94 incurred using 
+CCT’s dedicated fleet. Pooling reduces the amount of vehicle hours required to service a 
+given demand, so Phase 1 is expected to deliver some initial savings. However, this is just 
+the beginning: by pursuing subsequent phases and unlocking their potential across Collin 
+County, CCT could see much bigger savings whilst maintaining, if not exceeding, the current 
+levels of service.  
+ 
+One of the other main benefits of introducing microtransit will be the wealth of data it 
+produces. At the moment, CCT suffers from not having instant access in a digestible way 
+for it to make quick decisions when they are required. This lack of data also makes it 
+difficult to conduct rigorous long-term transit planning. By digitizing transit in the region, 
+the Spare Platform would empower CCT to collect, analyze, and take action on huge 
+mobility datasets. 
+ 
+At Spare, we operate on the principle that ​microtransit can ‘flip transit on its head’​. Many 
+transit agencies design their fixed bus routes on the basis of ​imprecise historical data, 
+anecdotal evidence, or even gut feeling by planners. By introducing microtransit in different 
+areas, transit agencies can far better understand rider needs, and can use that knowledge 
+to redesign their fixed routes.  
+ 
+The rich datasets collected by Spare Platform can be used to identify where demand exists 
+for more fixed-route transit - for example, along commuter routes to major towns. This 
+data helps identify the best locations and timings for fixed bus routes, and to nudge riders 
+to adapt to more rigid schedules if needed. In areas where the volume or reliability of 
+demand is high enough to run a fixed route, it might not be the cheapest option to 
+maintain on-demand microtransit, and Spare would recommend launching timetabled 
+buses or hybrid systems such as deviated fixed lines. But without the initial rich data 
+provided by microtransit, it will be incredibly difficult for CCT to pinpoint exactly where 
+microtransit and fixed routes make most sense in ​Collin County. 
+Phase 2: A mixed-supply model drastically cuts costs 
+ 
+The biggest contributor to the operational cost of a microtransit service is the cost and 
+allocation of labor. Dedicated, specialized, unionized labor often cannot compete on price 
+with independent contractors, while independent contractors, such as taxis and 
+38
+=== page 40 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+Transportation Network Companies (TNCs), often cannot compete with the reliability and 
+consistency of dedicated labor.  
+ 
+By involving multiple operators, CCT could begin to unlock true savings in public transit 
+provision. A mixed supply model, where dedicated labor is used for the majority of demand 
+while independent or non-dedicated labor is used during periods of peak demand, can 
+offer the same high service quality expected by customers, but allocates labor more 
+efficiently across the demand spectrum. Instead of providing enough dedicated labor to 
+always accommodate all demand in a timely fashion, CCT could maintain enough capacity 
+to meet the majority of demand with a single provider, while brokering trips to other 
+providers when required (Figure 19).  
+ 
+ 
+Figure 19. How a mixed-supply model enables transit agencies to slightly under-supply for any given 
+demand, by brokering trips to other non-dedicated operators when needed. 
+ 
+If CCT were to adopt a mixed supply model, its transit system could dynamically respond to 
+demand spikes without having to pay higher capacity throughout the day. Spare enables 
+such mixed supply systems via its Spare Fleets feature, which allows dedicated and 
+non-dedicated vehicles to be combined in a dynamic and automated way. 
+ 
+Spare Fleets is a far more equitable solution than a ride-hailing platform like Uber or Lyft, 
+because – unlike those private platforms – it is all-inclusive and does not arbitrarily lock out 
+other operators. The main motivation in this phase is ramping up efficiency, and providing 
+riders with options whenever they need them. 
+ 
+Phase 3: Defining your rules in a thriving transit ecosystem 
+ 
+As the number of operators increases so that trips can be brokered out to any vehicle, 
+regardless of whether it is dedicated or non-dedicated, CCT will be able to set sophisticated 
+39
+=== page 41 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+‘game rules’. For example, dynamic pricing could be introduced, whereby riders pay slightly 
+more as a function of demand, to help CCT recoup costs at particular times of day, and to 
+encourage a flattening out of demand peaks, which can put a strain on on-demand 
+systems. 
+ 
+Another option could be to create stricter time rules in certain parts of a larger zone. For 
+instance, pickups from smaller population centres connecting with main road arteries may 
+be restricted to once an hour, which would ensure much higher pooling and more 
+predictable (and therefore optimizable) vehicle patterns. For instance, this could be applied 
+to the region within Collin County that is outside of the MUTD zone.  
+ 
+This level of flexibility and dynamism is simply not possible without a digitally run transit 
+platform. Digitization will empower CCT to eventually create a transit system that is highly 
+tailored to ​Collin County, where a mix of optimized fixed bus lines operate in harmony with 
+more nimble on-demand shuttles. Public transit would then exist along the entire spectrum 
+between a highly personalised taxi service to a predictable fixed-route system. 
+ 
+Phase 4: Commingling helps to share resources across services 
+ 
+Traditionally-operated public transit suffers from the static allocation of resources to 
+specific specialized services. For example, a paratransit vehicle usually cannot receive 
+non-paratransit trips, even when it is idle and could be put to work elsewhere in the 
+system. Similarly, two trips going to and from similar locations at similar times may be 
+allocated to separate vehicles because the riders are accessing different services.  
+ 
+The Spare Fleets feature throws out this outdated model and allows different services to 
+maintain their distinctive nature while sharing vehicle resources with each other. This 
+approach, which is known as ‘commingling’, respects different service configurations, rules 
+and rider groupings, and continues to provide the same quality of service expected by each 
+rider. Commingling is a hallmark of efficiency in the airline and logistics industries, but its 
+application to the transit industry is groundbreaking. 
+ 
+Implementing full-scale commingling would require working with multiple government 
+departments (e.g. those responsible for paratransit, school transportation, senior 
+communities), which may face political and bureaucratic hurdles. However, there is 
+massive potential for a fully flexible system such as this to deliver unparalleled savings to 
+CCT, and simultaneously create amazing service for riders.  
+ 
+We therefore recommend that CCT should consider implementing Spare Fleets in Collin 
+County. CCT may only see true differences in cost and efficiency between their new 
+microtransit system and the existing taxi service if they deploy a truly flexible solution such 
+as commingling. Spare would be glad to advise further on this option. 
+ 
+40

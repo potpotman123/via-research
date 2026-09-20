@@ -1,0 +1,81 @@
+/Users/kwu/Documents/VIA/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Traceback (most recent call last):
+  File "/Users/kwu/Documents/VIA/.venv/lib/python3.9/site-packages/urllib3/connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+  File "/Users/kwu/Documents/VIA/.venv/lib/python3.9/site-packages/urllib3/connectionpool.py", line 1093, in _validate_conn
+    conn.connect()
+  File "/Users/kwu/Documents/VIA/.venv/lib/python3.9/site-packages/urllib3/connection.py", line 796, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+  File "/Users/kwu/Documents/VIA/.venv/lib/python3.9/site-packages/urllib3/connection.py", line 975, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+  File "/Users/kwu/Documents/VIA/.venv/lib/python3.9/site-packages/urllib3/util/ssl_.py", line 483, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "/Users/kwu/Documents/VIA/.venv/lib/python3.9/site-packages/urllib3/util/ssl_.py", line 527, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/ssl.py", line 500, in wrap_socket
+    return self.sslsocket_class._create(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/ssl.py", line 1040, in _create
+    self.do_handshake()
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/ssl.py", line 1309, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/kwu/Documents/VIA/.venv/lib/python3.9/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+  File "/Users/kwu/Documents/VIA/.venv/lib/python3.9/site-packages/urllib3/connectionpool.py", line 488, in _make_request
+    raise new_e
+urllib3.exceptions.SSLError: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/kwu/Documents/VIA/.venv/lib/python3.9/site-packages/requests/adapters.py", line 644, in send
+    resp = conn.urlopen(
+  File "/Users/kwu/Documents/VIA/.venv/lib/python3.9/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+  File "/Users/kwu/Documents/VIA/.venv/lib/python3.9/site-packages/urllib3/util/retry.py", line 535, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='scworks.org', port=443): Max retries exceeded with url: /employer/employer-programs/risk-closing/layoff-notification-reports (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/kwu/Documents/VIA/./.venv/bin/warn-scraper", line 6, in <module>
+    sys.exit(main())
+  File "/Users/kwu/Documents/VIA/.venv/lib/python3.9/site-packages/click/core.py", line 1161, in __call__
+    return self.main(*args, **kwargs)
+  File "/Users/kwu/Documents/VIA/.venv/lib/python3.9/site-packages/click/core.py", line 1082, in main
+    rv = self.invoke(ctx)
+  File "/Users/kwu/Documents/VIA/.venv/lib/python3.9/site-packages/click/core.py", line 1443, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/Users/kwu/Documents/VIA/.venv/lib/python3.9/site-packages/click/core.py", line 788, in invoke
+    return __callback(*args, **kwargs)
+  File "/Users/kwu/Documents/VIA/.venv/lib/python3.9/site-packages/warn/cli.py", line 75, in main
+    runner.scrape(scrape)
+  File "/Users/kwu/Documents/VIA/.venv/lib/python3.9/site-packages/warn/runner.py", line 52, in scrape
+    data_path = state_mod.scrape(self.data_dir, self.cache_dir)
+  File "/Users/kwu/Documents/VIA/.venv/lib/python3.9/site-packages/warn/scrapers/sc.py", line 40, in scrape
+    r = utils.get_url(
+  File "/Users/kwu/Documents/VIA/.venv/lib/python3.9/site-packages/decorator/__init__.py", line 247, in fun
+    return caller(func, *(extras + args), **kw)
+  File "/Users/kwu/Documents/VIA/.venv/lib/python3.9/site-packages/retry/api.py", line 90, in retry_decorator
+    return __retry_internal(partial(f, *args, **kwargs), exceptions, tries, delay, max_delay, backoff, jitter,
+  File "/Users/kwu/Documents/VIA/.venv/lib/python3.9/site-packages/retry/api.py", line 35, in __retry_internal
+    return f()
+  File "/Users/kwu/Documents/VIA/.venv/lib/python3.9/site-packages/warn/utils.py", line 305, in get_url
+    response = requests.get(url, **kwargs)
+  File "/Users/kwu/Documents/VIA/.venv/lib/python3.9/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "/Users/kwu/Documents/VIA/.venv/lib/python3.9/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/kwu/Documents/VIA/.venv/lib/python3.9/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/kwu/Documents/VIA/.venv/lib/python3.9/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/kwu/Documents/VIA/.venv/lib/python3.9/site-packages/requests/adapters.py", line 675, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='scworks.org', port=443): Max retries exceeded with url: /employer/employer-programs/risk-closing/layoff-notification-reports (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)')))

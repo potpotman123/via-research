@@ -1,0 +1,36 @@
+# source: https://metro.legistar1.com/metro/attachments/9f76ef1b-961e-48fa-b2d1-e25b9b31e6bd.pdf
+# path: raw/cache/eec0526a1f7e29d0f38db83374997a6ffd3e379c.pdf
+# hit page: 6 of 6
+# terms: Spare Labs
+
+=== page 5 ===
+•
+The current Metro Micro software contract provides the following functions to 
+support  dynamic routing and scheduling:  
+1.
+Driver / Vehicle assignment management, dynamically adjusted in real time
+2.
+Turn-by-turn driver navigation based on dynamic routing
+3.
+Text communication between dispatch and drivers
+4.
+A dispatch control center to monitor and manage overall operations
+5.
+Performance dashboards to track KPIs and operational statistics
+•
+This contract modification enhances the operating model by adding predefined fixed 
+routes, enabling a blended on-demand and fixed-route service to better address recurring 
+high-demand periods, such as school start and dismissal times.
+•
+The Metro Micro software, with the predefined fixed route enhancement, provides the 
+necessary requirements for the WCGETS operations.
+•
+This modification also incorporates integrates voice communication; and expands the 
+software subscription to include the WCGETS fleet of 330 vehicles.
+DISCUSSION
+5
+=== page 6 ===
+Upon Board Approval, Metro will execute Modification No. 2 
+with Spare Labs, Inc.
+NEXT STEPS
+8

@@ -1,0 +1,185 @@
+# source: https://denver.legistar1.com/denver/attachments/3b08e67e-403b-4049-933d-df19a44d8b1a.pdf
+# path: raw/cache/d9bbf72a447993ffe87373b22633daae189c3305.pdf
+# hit page: 47 of 112
+# terms: Downtowner
+
+=== page 46 ===
+Policy No. 
+CPS8016441 
+)  SCOTTSDALE INSURANCE COMPANY ® 
+SCHEDULE OF FORMS AND ENDORSEMENTS 
+Effective Date 08/29/2024
+-------------
+12:01 A.M. Standard Time 
+Named Insured 
+ASPEN DOWNTOWNER GROUP, LLC; 
+Agent No. _:0:....::5:....::0:.--=2:.--=2+ __________ _
+COMMON POLICY 
+UTS-244L 
+UTS-126L 
+UTS-SP-2 
+06-92
+10-93
+12-95
+COMMERCIAL LIABILITY 
+GLS-104L 
+CG 20 12 
+CG 24 04 
+UTS-SP-2 (12-95) 
+06-92
+12-19
+12-19
+CHANGE ENDORSEMENT FORM 
+SCHEDULE OF TAXES, SURCHARGES OR FEES 
+SCHEDULE OF FORMS AND ENDORSEMENTS 
+SCHEDULE OF GENERAL LIABILITY CHANGES 
+ADDITIONAL INSURED-STATE OR GOVERNMENTAL AGENCY OR 
+SUBDIVISION OR POLITICAL SUBDIVISION-PERMITS OR 
+AUTHORIZATIONS 
+WAIVER OF TRANSFER OF RIGHTS OF RECOVERY AGAINST OTHERS TO 
+US (WAIVER OF SUBROGATION) 
+Docusign Envelope ID: C130DEF8-ED45-45DB-8D9F-3099A1D21A35
+=== page 47 ===
+)" SCOTTSDALE INSURANCE COMPANY ® 
+SCHEDULE OF GENERAL LIABILITY CHANGES 
+Policy No.: 
+CPS8016441 
+Named Insured: 
+ASPEN DOWNTOWNER GROUP, LLC; 
+Effective Date: 
+08/29/2024 
+12:01 A.M., Standard Time 
+Agent No.: 
+05022 
+CLASS CODE INFORMATION AFFECTED BY THIS CHANGE IS ADDED, DELETED OR CHANGED AS INDICATED. 
+THE FOLLOWING CLASS CODE INFORMATION IS: 
+ADDED 
+Code No. 
+Premium Basis 
+Premises/Operations 
+49950 
+INCLUDED 
+Premises 
+Exposure 
+5 
+Rate 
+Premium 
+Classification: 
+INCLUDED 
+INCLUDED 
+ADDITIONAL INSURED - STATE OR GOVERNMENTAL AGENCY OR 
+Products/Completed Operations 
+SUBDIVISION OR POLITICAL SUBDIVISION - PERMITS OR 
+AUTHORIZATIONS (OCP) PER FORM CG 20 12 
+Rate 
+Premium 
+THE FOLLOWING CLASS CODE INFORMATION IS: 
+ADDED 
+Code No. 
+Premium Basis 
+Premises/Operations 
+44444 
+INCLUDED 
+Premises 
+Exposure 
+2 
+Rate 
+Premium 
+Classification: 
+INCLUDED 
+INCLUDED 
+WAIVER OF TRANSFER OF RIGHTS OF RECOVERY AGAINST OTHERS TO US 
+Products/Completed Operations 
+(WAIVER OF SUBROGATION) PER FORM CG 24 04 
+Rate 
+Premium 
+THE FOLLOWING CLASS CODE INFORMATION IS: 
+Code No. 
+Premium Basis 
+Premises/Operations 
+Premises 
+Exposure 
+Rate 
+Premium 
+Classification: 
+Products/Completed Operations 
+Rate 
+Premium 
+THE FOLLOWING CLASS CODE INFORMATION IS: 
+Code No. 
+Premium Basis 
+Premises/Operations 
+Premises 
+Exposure 
+Rate 
+Premium 
+Classification: 
+Products/Completed Operations 
+Rate 
+Premium 
+GLS-104L (6-92) 
+Docusign Envelope ID: C130DEF8-ED45-45DB-8D9F-3099A1D21A35
+=== page 48 ===
+POLICY NUMBER: CPS8016441 
+COMMERCIAL GENERAL LIABILITY 
+CG 20121219 
+THIS ENDORSEMENT CHANGES THE POLICY. PLEASE READ IT CAREFULLY. 
+ADDITIONAL INSURED - STATE OR GOVERNMENTAL 
+AGENCY OR SUBDIVISION OR POLITICAL 
+SUBDIVISION - PERMITS OR AUTHORIZATIONS 
+This endorsement modifies insurance provided under the following: 
+COMMERCIAL GENERAL LIABILITY COVERAGE PART 
+SCHEDULE 
+State Or Governmental Agency Or Subdivision Or Political Subdivision: 
+Regional Transportation District 1600 Blake St Denver, CO 80202 
+Information reQuired to complete this Schedule, if not shown above, will be shown in the Declarations. 
+A. Section II - Who Is An Insured is amended to
+include as an additional insured any state or
+governmental agency or subdivision or political
+subdivision shown in the Schedule, subject to the
+following provisions:
+1. This insurance applies only with respect to
+operations performed by you or on your behalf
+for which the state or governmental agency or
+subdivision or political subdivision has issued a
+permit or authorization.
+However:
+a. The insurance afforded to such additional
+insured only applies to the extent permitted
+by law; and
+b. If coverage provided to the additional
+insured is required by a contract or
+agreement, the insurance afforded to such
+additional insured will not be broader than
+that which you are required by the contract
+or agreement to provide for such additional
+insured.
+2. This insurance does not apply to:
+a. "Bodily 
+injury", 
+"property 
+damage" 
+or
+"personal and advertising injury" arising out
+of operations performed for the federal
+government, state or municipality; or
+b. "Bodily injury" or "property damage" included
+within the "products-completed operations
+hazard".
+B. With respect to the insurance afforded to these
+additional insureds, the following is added to
+Section 111- Limits Of Insurance:
+If coverage provided to the additional insured is
+required by a contract or agreement, the most we
+will pay on behalf of the additional insured is the
+amount of insurance:
+1. Required by the contract or agreement; or
+2. Available under the applicable limits of
+insurance;
+whichever is less. 
+This endorsement shall not increase the applicable 
+limits of insurance. 
+CG 20121219 
+© Insurance Services Office, Inc., 2018 
+Page 1 of1 
+Docusign Envelope ID: C130DEF8-ED45-45DB-8D9F-3099A1D21A35

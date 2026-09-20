@@ -1,0 +1,159 @@
+# source: raw/bleecker_drive/Arlington, Texas/Via_Contract_FINAL_Redacted.pdf
+# path: raw/bleecker_drive/Arlington, Texas/Via_Contract_FINAL_Redacted.pdf
+# hit page: 3 of 68
+# terms: Via+vehicles
+
+=== page 2 ===
+(2) 
+ 
+4. 
+Contractor’s Proposal Response to the RFP (hereinafter referred to as the 
+“Proposal”) 
+ 
+All of the documents referred to above are made a part hereof for all purposes as though 
+each were written word for word herein; provided that in the case of conflict in the language 
+of any of the documents listed above, priority of interpretation shall be given in the order 
+listed above with this Contract taking priority.  All of the above documents are hereinafter 
+referred to collectively as the “Contract Documents.” 
+ 
+In addition, the parties agree as follows: 
+ 
+A. 
+Data Sharing and Dashboard Services 
+THAT the CONTRACTOR and CITY, as outlined in the attached Scope of Services, shall 
+co-own all customer data input by end users into the technology solution for purposes of 
+the Services and that CONTRACTOR shall make data available to the CITY as set forth 
+in the Scope of Services. Notwithstanding the foregoing, CONTRACTOR shall own all 
+de-identified, anonymized and/or aggregated data, which it may use for any purpose, 
+including to improve its product and services offering, including the Services. For the 
+avoidance of doubt, (1) all data shared pursuant to the Contract Documents (including co-
+owned data) shall be subject to the confidentiality provisions set forth herein and (2) 
+CONTRACTOR agrees that it will not sell any data to third parties that contains personally 
+identifiable information. 
+ 
+B. 
+Performance Monitoring 
+THAT the CONTRACTOR shall, as outlined in the attached Scope of Services, provide 
+Weekly Staff Briefings (reporting the service data, performance standards, safety data, and 
+customer service data set forth in Section 9 of the Scope of Services on a weekly basis), 
+shall provide Monthly Business Reviews (reporting the content set forth in Section 9 of the 
+Scope of Services on a monthly basis) within twenty (20) business days of the last day of 
+the month for service during the previous month, shall provide Quarterly Business Reviews 
+(reporting the content set forth in Section 9 of the Scope of Services on a quarterly basis) 
+within twenty (20) business days of the last day of the month after every three (3) months 
+of service, and shall provide Annual Business Reviews (reporting the content set forth in 
+Section 9 of the Scope of Services on an annual basis) within twenty (20) business days of 
+the last day of the month after every twelve (12) months of service. Upon request by CITY, 
+CONTRACTOR shall provide daily ridership information. 
+ 
+C. 
+Performance Standards 
+ 
+THAT the CONTRACTOR shall use commercially reasonable efforts to meet the 
+following performance standards goals on a monthly basis. CONTRACTOR and the CITY 
+may mutually agree to revise the targets for these KPIs depending on the growth of the
+=== page 3 ===
+(3) 
+service and market conditions, and such KPIs will be jointly reevaluated and updated on a 
+regular basis by the parties:  
+i. 
+Actual pick-up time no more than 3 minutes earlier or later on average than ETA 
+indicated to rider 
+ii. 
+Average technical up time percentage of no less than 98% 
+iii. 
+Average monthly seat unavailable percentage of no more than 10% 
+iv. 
+Average monthly wait time for customer service to answer a call of less than 1.25 
+minutes 
+v. 
+Average of one or less FTA-qualifying incident per 100k miles  
+vi. 
+Safety monitoring through the use of telematics  
+vii. 
+Monthly cleaning audit performed by Via illustrates scoring with no less than 90% 
+cleaning schedule adherence 
+viii. 
+Average monthly ride experience rating at or above 4.6 
+ 
+Notwithstanding the foregoing, the CITY acknowledges that changes to the area of service, 
+hours of service or other parameters of the On-Demand Rideshare Service may result in a 
+need to reevaluate and adjust such performance standards goals accordingly. Performance 
+standards stated above are conditional on request volume being below 115,000 requests 
+per month.  
+D. 
+Federal Transit Administration (FTA) Drug and Alcohol Testing 
+CONTRACTOR has developed and shall maintain an FTA drug and alcohol testing 
+program in compliance with 49 CFR Part 40 and 49 CFR Part 655. 
+E. 
+FTA Maintenance and Required Inspections 
+ 
+THAT the CONTRACTOR shall design and implement an action plan for the maintenance 
+and inspection of all vehicles operated as part of the On-Demand Rideshare Service in 
+compliance with FTA regulations and in coordination with the CITY and the retained FTA 
+expert. CONTRACTOR shall make vehicle inspection reports available upon request by 
+CITY and, if required by the FTA, shall use its reasonable best efforts to cause its 
+independent contractor driver partners to make their vehicle maintenance records available 
+upon request by CITY. CONTRACTOR shall use its reasonable best efforts to cause its 
+independent contractor driver partners to make their vehicles available for in-person 
+inspection by CITY upon request. 
+ 
+F. 
+Insurance 
+THAT proof of valid insurance shall be submitted by the CONTRACTOR in accordance 
+with the requirements outlined in the underlying RFP.  A new insurance certificate shall be 
+provided to CITY within ten (10) days of a request throughout the term of this agreement. 
+ 
+G. 
+Service Area 
+THAT the CONTRACTOR shall provide an On-Demand Rideshare Service that serves all 
+locations located within the city limits, the CentrePort Trinity Railway Express (TRE)
+=== page 4 ===
+(4) 
+commuter rail station and the Trinity Metro bus stops that may be directly accessed off of 
+Eastchase Parkway.   
+ 
+The service area may be revised and/or expanded upon request of the CITY and mutual 
+agreement of the parties. If service areas are non-contiguous, riders shall be able to travel 
+within (if applicable) and between all service areas.  
+ 
+H. 
+Service Parameters 
+THAT initial service hours shall match those included in Exhibit “A”, Scope of Services. 
+Service hours may change based on demand and resources and will be jointly reevaluated 
+and updated on a regular basis by the parties and mutually agreed upon. Service options 
+shall be made available for those without access to a smart phone or internet connection. 
+Payment options shall be made available for those without access to a credit card.   
+I. 
+Vehicles 
+ 
+THAT the CONTRACTOR shall use commercially reasonable efforts to monitor its 
+independent contractor driver partners to ensure the safe operation of the vehicles and the 
+commercially reasonable protection of its passengers and bystanders while operations are 
+being conducted.   
+ 
+The CONTRACTOR shall provide service using the vehicle fleet described in the Scope 
+of Services. ADA service needs must be met per FTA ADA regulations, but the type and 
+number of vehicles used to provide ADA service will be dependent upon demand and 
+change over the life of the service. CONTRACTOR shall use commercially reasonable 
+efforts to monitor its independent contractor driver partners to ensure all vehicles used for 
+the provision of service are cleaned and maintained in accordance with City and FTA 
+standards and requirements.  CONTRACTOR shall use commercially reasonable efforts 
+for vehicles used for the provision of service to be six (6) years or less in age, have less 
+than 150,000 miles and have passed the required inspection. This requirement may be 
+adjusted if CITY and CONTRACTOR mutually agree that an inadequate supply of 
+vehicles satisfy such criteria. Vehicles shall meet all EPA standards. At least fifty percent 
+of the non-ADA fleet shall be hybrid or electric at contract start, and one hundred percent 
+of the non-ADA fleet shall be hybrid or electric by the start of the second year of the 
+contract term. All vehicles in use in the fleet shall be cleaned, both in the interior and on 
+the exterior, at least twice a week.  
+      
+J. 
+Approved Operators 
+ 
+THAT the CONTRACTOR shall on a monthly basis provide CITY with a list of approved 
+operators who have been appropriately screened, background checked and drug and 
+alcohol tested to comply with all relevant federal, state and local regulations, with the first 
+list to be provided to City no less than five (5) days prior to the Rideshare Service start 
+date. Operators added to the list after such initial list is provided shall be made subject to 
+the same screenings, background checks and drug and alcohol tests referenced above.

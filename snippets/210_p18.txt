@@ -1,0 +1,111 @@
+# source: https://legistar1.granicus.com/McKinney/attachments/abb0b9be-9c15-4174-9e04-7b9d82941c25.pdf
+# path: raw/cache/5e92fe54da67feb112756b4c03bca94101b9439a.pdf
+# hit page: 18 of 50
+# terms: Spare Labs
+
+=== page 17 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+ 
+Figure 9. Modelled time distributions for each major trip type, based on travel survey data and known 
+distributions in similar microtransit services operated by Spare.  
+ 
+CCT’s current operations run from 6am to 6pm on weekdays and 8am to 6pm on 
+Saturdays, and are set as a function of dispatcher shifts. There are no services on Sundays. 
+CCT’s travel survey suggests that 10–20% of respondents tend to travel after 6pm, either 
+for night shift work or from entertainment and dining venues. Given the vast 
+improvements offered by Spare Platform in administrative and operational functions, it is 
+possible to run these services for longer hours at a proportional lower operational cost. We 
+therefore ran a separate set of simulations assuming extended service hours, from 6am to 
+midnight (12am).  
+ 
+In this report we present results from simulations of both current weekday service hours 
+(6am–6pm) and extended service hours (6am–12am). Based on the travel survey data, we 
+estimate that running longer service hours will boost service utilization by 15%, so the total 
+ridership in these simulations is adjusted accordingly (Table 3). 
+ 
+Table 3. Estimated daily ridership for different demand scenarios, assuming extended service hours. 
+ 
+ 
+Low demand 
+Medium demand 
+High demand 
+Total trips 
+(6am–12am) 
+60 
+75 
+98 
+ 
+ 
+ 
+ 
+ 
+ 
+16
+=== page 18 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+Stage 3: Simulation setup in Spare Realize 
+ 
+Simulation matrix 
+ 
+Spare uses a matrix-based approach to structure the simulation experiments. The matrix is 
+designed to evaluate system performance and related operational costs at different 
+demand levels, as well as different service provisions (ranging from a cheaper, more 
+efficient service to a more rider-centric service that is more expensive to run): 
+ 
+ 
+ 
+Figure 10. Simulation matrix showing experimental setup in Spare Realize (three demand scenarios, each 
+run under two duty scenarios, with three simulation repeats per combination). 
+ 
+Three repeat simulations were conducted for each combination of duty level and demand, 
+and for both door-to-door and stop-to-stop models. This allowed us to replicate random 
+service variability in our analyses. We assumed door-to-door and stop-to-stop models for 
+‘normal’ service hours (6am–6pm), and only door-to-door for extended service hours 
+(6am–12am). In total, 54 individual simulations were run for this report. 
+ 
+Input parameters 
+ 
+Each simulation in Spare Realize can be fully customized to suit the needs of the study. 
+Pulling the levers on various parameters allows us to investigate the impact of different 
+service structures and operational models in high detail. Adaptable parameters include: 
+ 
+17
+=== page 19 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+ 
+Figure 11. Parameters that were varied for each batch of Spare Realize simulations. 
+ 
+A few key parameters were kept stable throughout all simulations: the base boarding time 
+(the amount of time the system adds to its estimates for each pickup/dropoff stop) was set 
+at 60 seconds, the per-passenger boarding time (the additional amount of time, per 
+passenger, the system adds to its estimates for each pickup/dropoff stop) to 15 seconds, 
+and the pickup flexibility (the time a rider can be made to wait for a pickup from their initial 
+estimate) was set at 10 minutes. These are standard parameter settings in Spare’s services.  
+ 
+In all simulations, the impact of traffic congestion on travel times was integrated by pulling 
+from the Google Traffic API. 
+ 
+Operational model 
+ 
+We ran simulations assuming two operational models, on CCT’s request: 
+ 
+1. Door-to-door model, where riders get pickup and dropped off as close to possible to 
+their chosen location (for both normal and extended service hours); 
+2. Stop-to-stop model, where riders get picked up and dropped off at optimally 
+selected ‘virtual stops’ (for normal service hours only). 
+ 
+Stop-to-stop operations usually require riders to walk some distance, but the advantage is 
+that it generally reduces waiting and travel times, increases system efficiency, and reduces 
+costs.  
+ 
+62% of all respondents to CCT’s transit survey stated that the walking distance from a 
+transit stop to a destination was one of the most important components of public 
+transportation. Since the on-demand service is designed to cater primarily to senior 
+citizens and those with mobility issues, and daytime temperatures can be very high in 
+Collin County, a stop-to-stop model would always have to be paired with a door-to-door 
+model for those who need it most.  
+ 
+To simulate a stop-to-stop model across the microtransit zone, we designated stops based 
+on the highest weightings in each of the home-based, work-based, recreation-based and 
+healthcare-based demand maps. The resulting collection of points were mapped and 
+18

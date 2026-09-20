@@ -1,0 +1,654 @@
+# source: raw/bleecker_drive/0.0 OMNIA Cooperative Agreement/25-08_Via_Transportation_Response_Combined_2025_05_01_Redacted__1___1_.pdf
+# path: raw/bleecker_drive/0.0 OMNIA Cooperative Agreement/25-08_Via_Transportation_Response_Combined_2025_05_01_Redacted__1___1_.pdf
+# hit page: 75 of 191
+# terms: Remix Technologies
+
+=== page 74 ===
+94
+3Y-T1-Inst1-OT
+Remix Technologies LLC
+First Remix Product - 3Y Contract - Installation Fee: 0-50 Buses or 
+Population 0 - 50,000
+2%
+$5,600.000
+$5,488.00
+95
+3Y-T2-Inst1-OT
+Remix Technologies LLC
+First Remix Product - 3Y Contract - Installation Fee: 51-100 Buses or 
+Population 50,001 - 100,000
+2%
+$8,500.000
+$8,330.00
+96
+3Y-T3-Inst1-OT
+Remix Technologies LLC
+First Remix Product - 3Y Contract - Installation Fee: 101-500 Buses or 
+Population 100,001 - 250,000
+2%
+$11,400.000
+$11,172.00
+97
+3Y-T4-Inst1-OT
+Remix Technologies LLC
+First Remix Product - 3Y Contract - Installation Fee: 501+ Buses or 
+Population 250,001+
+2%
+$14,300.000
+$14,014.00
+98
+5Y-T1-Inst1-OT
+Remix Technologies LLC
+First Remix Product - 5Y Contract - Installation Fee: 0-50 Buses or 
+Population 0 - 50,000
+2%
+$5,500.000
+$5,390.00
+99
+5Y-T2-Inst1-OT
+Remix Technologies LLC
+First Remix Product - 5Y Contract - Installation Fee: 51-100 Buses or 
+Population 50,001 - 100,000
+2%
+$8,300.000
+$8,134.00
+100
+5Y-T3-Inst1-OT
+Remix Technologies LLC
+First Remix Product - 5Y Contract - Installation Fee: 101-500 Buses or 
+Population 100,001 - 250,000
+2%
+$11,000.00
+$10,780.00
+101
+5Y-T4-Inst1-OT
+Remix Technologies LLC
+First Remix Product - 5Y Contract - Installation Fee: 501+ Buses or 
+Population 250,001+
+2%
+$13,900.00
+$13,622.00
+102
+1Y-T1-RTNO-RR
+Remix Technologies LLC
+Remix Planning for Org Not Operating Buses - 1Y Contract - Fee per Bus 
+per Year: 0-50 Buses, Subject Always to a $18,690 Annual Minimum
+2%
+$204.00
+$199.92
+103
+1Y-T2-RTNO-RR
+Remix Technologies LLC
+Remix Planning for Org Not Operating Buses - 1Y Contract - Fee per Bus 
+per Year: 51-100 Buses, Subject Always to a $18,690 Annual Minimum
+2%
+$201.00
+$196.98
+104
+1Y-T3-RTNO-RR
+Remix Technologies LLC
+Remix Planning for Org Not Operating Buses - 1Y Contract - Fee per Bus 
+per Year: 101-500 Buses, Subject Always to a $18,690 Annual Minimum
+2%
+$196.00
+$192.08
+105
+1Y-T4-RTNO-RR
+Remix Technologies LLC
+Remix Planning for Org Not Operating Buses - 1Y Contract - Fee per Bus 
+per Year: 501+ Buses, Subject Always to a $18,690 Annual Minimum
+2%
+$192.00
+$188.16
+106
+3Y-T1-RTNO-RR
+Remix Technologies LLC
+Remix Planning for Org Not Operating Buses - 3Y Contract - Fee per Bus 
+per Year: 0-50 Buses, Subject Always to a $18,690 Annual Minimum
+2%
+$200.00
+$196.00
+107
+3Y-T2-RTNO-RR
+Remix Technologies LLC
+Remix Planning for Org Not Operating Buses - 3Y Contract - Fee per Bus 
+per Year: 51-100 Buses, Subject Always to a $18,690 Annual Minimum
+2%
+$195.00
+$191.10
+108
+3Y-T3-RTNO-RR
+Remix Technologies LLC
+Remix Planning for Org Not Operating Buses - 3Y Contract - Fee per Bus 
+per Year: 101-500 Buses, Subject Always to a $18,690 Annual Minimum
+2%
+$191.00
+$187.18
+109
+3Y-T4-RTNO-RR
+Remix Technologies LLC
+Remix Planning for Org Not Operating Buses - 3Y Contract - Fee per Bus 
+per Year: 501+ Buses, Subject Always to a $18,690 Annual Minimum
+2%
+$186.00
+$182.28
+110
+5Y-T1-RTNO-RR
+Remix Technologies LLC
+Remix Planning for Org Not Operating Buses - 5Y Contract - Fee per Bus 
+per Year: 0-50 Buses, Subject Always to a $18,690 Annual Minimum
+2%
+$194.00
+$190.12
+111
+5Y-T2-RTNO-RR
+Remix Technologies LLC
+Remix Planning for Org Not Operating Buses - 5Y Contract - Fee per Bus 
+per Year: 51-100 Buses, Subject Always to a $18,690 Annual Minimum
+2%
+$188.00
+$184.24
+112
+5Y-T3-RTNO-RR
+Remix Technologies LLC
+Remix Planning for Org Not Operating Buses - 5Y Contract - Fee per Bus 
+per Year: 101-500 Buses, Subject Always to a $18,690 Annual Minimum
+2%
+$185.00
+$181.30
+113
+5Y-T4-RTNO-RR
+Remix Technologies LLC
+Remix Planning for Org Not Operating Buses - 5Y Contract - Fee per Bus 
+per Year: 501+ Buses, Subject Always to a $18,690 Annual Minimum
+2%
+$180.00
+$176.40
+114
+1Y-T1-ROdPNO-RR
+Remix Technologies LLC
+Remix On-Demand Planning (Requires Planning Contract) for Org Not 
+Operating Buses- 1Y Contract - Fee per Bus per Year: 0-50 Buses, Subject 
+Always to a $5,500 Annual Minimum
+2%
+$71.00
+$69.58
+115
+1Y-T2-ROdPNO-RR
+Remix Technologies LLC
+Remix On-Demand Planning (Requires Planning Contract) for Org Not 
+Operating Buses- 1Y Contract - Fee per Bus per Year: 51-100 Buses, 
+Subject Always to a $5,500 Annual Minimum
+2%
+$70.00
+$68.60
+116
+1Y-T3-ROdPNO-RR
+Remix Technologies LLC
+Remix On-Demand Planning (Requires Planning Contract) for Org Not 
+Operating Buses- 1Y Contract - Fee per Bus per Year: 101-500 Buses, 
+Subject Always to a $5,500 Annual Minimum
+2%
+$68.00
+$66.64
+117
+1Y-T4-ROdPNO-RR
+Remix Technologies LLC
+Remix On-Demand Planning (Requires Planning Contract) for Org Not 
+Operating Buses- 1Y Contract - Fee per Bus per Year: 501+ Buses, Subject 
+Always to a $5,500 Annual Minimum
+2%
+$66.00
+$64.68
+118
+3Y-T1-ROdPNO-RR
+Remix Technologies LLC
+Remix On-Demand Planning (Requires Planning Contract) for Org Not 
+Operating Buses- 3Y Contract - Fee per Bus per Year: 0-50 Buses, Subject 
+Always to a $5,500 Annual Minimum
+2%
+$69.00
+$67.62
+119
+3Y-T2-ROdPNO-RR
+Remix Technologies LLC
+Remix On-Demand Planning (Requires Planning Contract) for Org Not 
+Operating Buses- 3Y Contract - Fee per Bus per Year: 51-100 Buses, 
+Subject Always to a $5,500 Annual Minimum
+2%
+$68.00
+$66.64
+120
+3Y-T3-ROdPNO-RR
+Remix Technologies LLC
+Remix On-Demand Planning (Requires Planning Contract) for Org Not 
+Operating Buses- 3Y Contract - Fee per Bus per Year: 101-500 Buses, 
+Subject Always to a $5,500 Annual Minimum
+2%
+$66.00
+$64.68
+121
+3Y-T4-ROdPNO-RR
+Remix Technologies LLC
+Remix On-Demand Planning (Requires Planning Contract) for Org Not 
+Operating Buses- 3Y Contract - Fee per Bus per Year: 501+ Buses, Subject 
+Always to a $5,500 Annual Minimum
+2%
+$65.00
+$63.70
+122
+5Y-T1-ROdPNO-RR
+Remix Technologies LLC
+Remix On-Demand Planning (Requires Planning Contract) for Org Not 
+Operating Buses- 5Y Contract - Fee per Bus per Year: 0-50 Buses, Subject 
+Always to a $5,500 Annual Minimum
+2%
+$67.00
+$65.66
+123
+5Y-T2-ROdPNO-RR
+Remix Technologies LLC
+Remix On-Demand Planning (Requires Planning Contract) for Org Not 
+Operating Buses- 5Y Contract - Fee per Bus per Year: 51-100 Buses, 
+Subject Always to a $5,500 Annual Minimum
+2%
+$66.00
+$64.68
+124
+5Y-T3-ROdPNO-RR
+Remix Technologies LLC
+Remix On-Demand Planning (Requires Planning Contract) for Org Not 
+Operating Buses- 5Y Contract - Fee per Bus per Year: 101-500 Buses, 
+Subject Always to a $5,500 Annual Minimum
+2%
+$65.00
+$63.70
+125
+5Y-T4-ROdPNO-RR
+Remix Technologies LLC
+Remix On-Demand Planning (Requires Planning Contract) for Org Not 
+Operating Buses- 5Y Contract - Fee per Bus per Year: 501+ Buses, Subject 
+Always to a $5,500 Annual Minimum
+2%
+$64.00
+$62.72
+126
+1Y-T1-RSchNO-RR
+Remix Technologies LLC
+Remix Scheduling for Org Not Operating Buses - 1Y Contract - Fee per Bus 
+per Year: 0-50 Buses, Subject Always to a $28,930 Annual Minimum
+2%
+$736.00
+$721.28
+127
+1Y-T2-RSchNO-RR
+Remix Technologies LLC
+Remix Scheduling for Org Not Operating Buses - 1Y Contract - Fee per Bus 
+per Year: 51-100 Buses, Subject Always to a $28,930 Annual Minimum
+2%
+$728.00
+$713.44
+128
+1Y-T3-RSchNO-RR
+Remix Technologies LLC
+Remix Scheduling for Org Not Operating Buses - 1Y Contract - Fee per Bus 
+per Year: 101-500 Buses, Subject Always to a $28,930 Annual Minimum
+2%
+$720.00
+$705.60
+129
+1Y-T4-RSchNO-RR
+Remix Technologies LLC
+Remix Scheduling for Org Not Operating Buses - 1Y Contract - Fee per Bus 
+per Year: 501+ Buses, Subject Always to a $28,930 Annual Minimum
+2%
+$713.00
+$698.74
+130
+3Y-T1-RSchNO-RR
+Remix Technologies LLC
+Remix Scheduling for Org Not Operating Buses - 3Y Contract - Fee per Bus 
+per Year: 0-50 Buses, Subject Always to a $28,100 Annual Minimum
+2%
+$715.00
+$700.70
+131
+3Y-T2-RSchNO-RR
+Remix Technologies LLC
+Remix Scheduling for Org Not Operating Buses - 3Y Contract - Fee per Bus 
+per Year: 51-100 Buses, Subject Always to a $28,100 Annual Minimum
+2%
+$708.00
+$693.84
+132
+3Y-T3-RSchNO-RR
+Remix Technologies LLC
+Remix Scheduling for Org Not Operating Buses - 3Y Contract - Fee per Bus 
+per Year: 101-500 Buses, Subject Always to a $28,100 Annual Minimum
+2%
+$698.00
+$684.04
+133
+3Y-T4-RSchNO-RR
+Remix Technologies LLC
+Remix Scheduling for Org Not Operating Buses - 3Y Contract - Fee per Bus 
+per Year: 501+ Buses, Subject Always to a $28,100 Annual Minimum
+2%
+$691.00
+$677.18
+134
+5Y-T1-RSchNO-RR
+Remix Technologies LLC
+Remix Scheduling for Org Not Operating Buses - 5Y Contract - Fee per Bus 
+per Year: 0-50 Buses, Subject Always to a $27,300 Annual Minimum
+2%
+$694.00
+$680.12
+RFP 25-08   |  39
+=== page 75 ===
+135
+5Y-T2-RSchNO-RR
+Remix Technologies LLC
+Remix Scheduling for Org Not Operating Buses - 5Y Contract - Fee per Bus 
+per Year: 51-100 Buses, Subject Always to a $27,300 Annual Minimum
+2%
+$686.00
+$672.28
+136
+5Y-T3-RSchNO-RR
+Remix Technologies LLC
+Remix Scheduling for Org Not Operating Buses - 5Y Contract - Fee per Bus 
+per Year: 101-500 Buses, Subject Always to a $27,300 Annual Minimum
+2%
+$677.00
+$663.46
+137
+5Y-T4-RSchNO-RR
+Remix Technologies LLC
+Remix Scheduling for Org Not Operating Buses - 5Y Contract - Fee per Bus 
+per Year: 501+ Buses, Subject Always to a $27,300 Annual Minimum
+2%
+$670.00
+$656.60
+138
+1Y-T1-RStTA-RR
+Remix Technologies LLC
+Remix Streets for Transit Agencies - 1Y Contract - Fee per Person per Year: 
+Population 0-50,000, Subject Always to a $18,000 Annual Minimum
+2%
+$0.09
+$0.09
+139
+1Y-T2-RStTA-RR
+Remix Technologies LLC
+Remix Streets for Transit Agencies - 1Y Contract - Fee per Person per Year: 
+Population 50,001-100,000, Subject Always to a $18,000 Annual 
+Minimum
+2%
+$0.09
+$0.09
+140
+1Y-T3-RStTA-RR
+Remix Technologies LLC
+Remix Streets for Transit Agencies - 1Y Contract - Fee per Person per Year: 
+Population 100,001-250,000, Subject Always to a $18,000 Annual 
+Minimum
+2%
+$0.09
+$0.09
+141
+1Y-T4-RStTA-RR
+Remix Technologies LLC
+Remix Streets for Transit Agencies - 1Y Contract - Fee per Person per Year: 
+Population 250,001-500,000, Subject Always to a $18,000 Annual 
+Minimum
+2%
+$0.09
+$0.09
+142
+1Y-T5-RStTA-RR
+Remix Technologies LLC
+Remix Streets for Transit Agencies - 1Y Contract - Fee per Person per Year: 
+Population 500,001-1,000,000, Subject Always to a $18,000 Annual 
+Minimum
+2%
+$0.07
+$0.07
+143
+1Y-T6-RStTA-RR
+Remix Technologies LLC
+Remix Streets for Transit Agencies - 1Y Contract - Fee per Person per Year: 
+Population 1,000,001+, Subject Always to a $18,000 Annual Minimum
+2%
+$0.02
+$0.02
+144
+3Y-T1-RStTA-RR
+Remix Technologies LLC
+Remix Streets for Transit Agencies - 3Y Contract - Fee per Person per Year: 
+Population 0-50,000, Subject Always to a $18,000 Annual Minimum
+2%
+$0.09
+$0.09
+145
+3Y-T2-RStTA-RR
+Remix Technologies LLC
+Remix Streets for Transit Agencies - 3Y Contract - Fee per Person per Year: 
+Population 50,001-100,000, Subject Always to a $18,000 Annual 
+Minimum
+2%
+$0.09
+$0.09
+146
+3Y-T3-RStTA-RR
+Remix Technologies LLC
+Remix Streets for Transit Agencies - 3Y Contract - Fee per Person per Year: 
+Population 100,001-250,000, Subject Always to a $18,000 Annual 
+Minimum
+2%
+$0.09
+$0.09
+147
+3Y-T4-RStTA-RR
+Remix Technologies LLC
+Remix Streets for Transit Agencies - 3Y Contract - Fee per Person per Year: 
+Population 250,001-500,000, Subject Always to a $18,000 Annual 
+Minimum
+2%
+$0.09
+$0.09
+148
+3Y-T5-RStTA-RR
+Remix Technologies LLC
+Remix Streets for Transit Agencies - 3Y Contract - Fee per Person per Year: 
+Population 500,001-1,000,000, Subject Always to a $18,000 Annual 
+Minimum
+2%
+$0.072
+$0.07
+149
+3Y-T6-RStTA-RR
+Remix Technologies LLC
+Remix Streets for Transit Agencies - 3Y Contract - Fee per Person per Year: 
+Population 1,000,001+, Subject Always to a $18,000 Annual Minimum
+2%
+$0.021
+$0.02
+150
+5Y-T1-RStTA-RR
+Remix Technologies LLC
+Remix Streets for Transit Agencies - 5Y Contract - Fee per Person per Year: 
+Population 0-50,000, Subject Always to a $18,000 Annual Minimum
+2%
+$0.082
+$0.08
+151
+5Y-T2-RStTA-RR
+Remix Technologies LLC
+Remix Streets for Transit Agencies - 5Y Contract - Fee per Person per Year: 
+Population 50,001-100,000, Subject Always to a $18,000 Annual 
+Minimum
+2%
+$0.082
+$0.08
+152
+5Y-T3-RStTA-RR
+Remix Technologies LLC
+Remix Streets for Transit Agencies - 5Y Contract - Fee per Person per Year: 
+Population 100,001-250,000, Subject Always to a $18,000 Annual 
+Minimum
+2%
+$0.082
+$0.08
+153
+5Y-T4-RStTA-RR
+Remix Technologies LLC
+Remix Streets for Transit Agencies - 5Y Contract - Fee per Person per Year: 
+Population 250,001-500,000, Subject Always to a $18,000 Annual 
+Minimum
+2%
+$0.082
+$0.08
+154
+5Y-T5-RStTA-RR
+Remix Technologies LLC
+Remix Streets for Transit Agencies - 5Y Contract - Fee per Person per Year: 
+Population 500,001-1,000,000, Subject Always to a $18,000 Annual 
+Minimum
+2%
+$0.072
+$0.07
+155
+5Y-T6-RStTA-RR
+Remix Technologies LLC
+Remix Streets for Transit Agencies - 5Y Contract - Fee per Person per Year: 
+Population 1,000,001+, Subject Always to a $18,000 Annual Minimum
+2%
+$0.021
+$0.02
+156
+T1-RCS-HR
+Remix Technologies LLC
+Fee per Hour for Consulting Services
+2%
+$271.000
+$265.58
+157
+1Y-T1-ROps-RR
+Remix Technologies LLC
+Remix Operations Module - 1Y Contract - Fee per Bus per Year: 0-50 
+Buses (Requires Remix Planning + Scheduling License)
+2%
+$315.000
+$308.70
+158
+1Y-T2-ROps-RR
+Remix Technologies LLC
+Remix Operations Module - 1Y Contract - Fee per Bus per Year: 51-100 
+Buses (Requires Remix Planning + Scheduling License)
+2%
+$312.000
+$305.76
+159
+1Y-T3-ROps-RR
+Remix Technologies LLC
+Remix Operations Module - 1Y Contract - Fee per Bus per Year: 101-500 
+Buses (Requires Remix Planning + Scheduling License)
+2%
+$309.000
+$302.82
+160
+1Y-T4-ROps-RR
+Remix Technologies LLC
+Remix Operations Module - 1Y Contract - Fee per Bus per Year: 500+ 
+Buses (Requires Remix Planning + Scheduling License)
+2%
+$305.000
+$298.90
+161
+3Y-T1-ROps-RR
+Remix Technologies LLC
+Remix Operations Module - 3Y Contract - Fee per Bus per Year: 0-50 
+Buses (Requires Remix Planning + Scheduling License)
+2%
+$307.000
+$300.86
+162
+3Y-T2-ROps-RR
+Remix Technologies LLC
+Remix Operations Module - 3Y Contract - Fee per Bus per Year: 51-100 
+Buses (Requires Remix Planning + Scheduling License)
+2%
+$303.000
+$296.94
+163
+3Y-T3-ROps-RR
+Remix Technologies LLC
+Remix Operations Module - 3Y Contract - Fee per Bus per Year: 101-500 
+Buses (Requires Remix Planning + Scheduling License)
+2%
+$300.000
+$294.00
+164
+3Y-T4-ROps-RR
+Remix Technologies LLC
+Remix Operations Module - 3Y Contract - Fee per Bus per Year: 500+ 
+Buses (Requires Remix Planning + Scheduling License)
+2%
+$297.000
+$291.06
+165
+5Y-T1-ROps-RR
+Remix Technologies LLC
+Remix Operations Module - 5Y Contract - Fee per Bus per Year: 0-50 
+Buses (Requires Remix Planning + Scheduling License)
+2%
+$298.000
+$292.04
+166
+5Y-T2-ROps-RR
+Remix Technologies LLC
+Remix Operations Module - 5Y Contract - Fee per Bus per Year: 51-100 
+2%
+$294.000
+$288.12
+167
+5Y-T3-ROps-RR
+Remix Technologies LLC
+Remix Operations Module - 5Y Contract - Fee per Bus per Year: 101-500 
+2%
+$290.000
+$284.20
+168
+5Y-T4-ROps-RR
+Remix Technologies LLC
+Remix Operations Module - 5Y Contract - Fee per Bus per Year: 500+ 
+2%
+$286.000
+$280.28
+RFP 25-08   |  40
+=== page 76 ===
+RFP 25-08 
+Proprietary and Confidential Information 
+Via Transportation, Inc.’s (“Via”) response and all supporting documentation, including 
+associated exhibits and appendices, contain confidential information exempt from 
+disclosure under Tex. Gov’t Code § 552. The confidential materials include, but are not 
+limited to, information relating to back-end application processes, proprietary algorithms, 
+unique business methodologies, third party references, and sensitive information on key 
+performance indicators. This information is exempt from disclosure under several 
+provisions of Tex. Gov’t Code § 552, including but not limited to Tex. Gov't Code § 552.110 
+(as trade secrets and confidential commercial and financial information) and Tex. Gov't 
+Code § 552.1101 (as proprietary information submitted by a potential vendor or contractor 
+in response to a bid, proposal, or qualification that would reveal an individual approach to 
+work, organizational structure, staffing, internal operations, processes, or pricing 
+methodology, and would give advantage to a competitor if released). Accordingly, we 
+request that your office maintain the confidentiality of Via’s response and provide Via with 
+timely notice of any third party’s request for these materials prior to production by 
+contacting compliance@ridewithvia.com. 
+ 
+Please see the table on the following pages for the specific information we declare to be a 
+trade secret or proprietary and exempt from disclosure under the Public Information Act. 
+ 
+ 
+Proprietary, Confidential, and Trade Secret Information​
+       RFP No. 25-08  |  1

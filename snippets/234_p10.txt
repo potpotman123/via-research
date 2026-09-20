@@ -1,0 +1,194 @@
+# source: https://legistar.granicus.com/LosAlamos/attachments/d4ed28e3-5da0-403c-aaa8-20fd558046f1.pdf
+# path: raw/cache/9e8dcba51a86916c33f88b1baedeefebe738b9ef.pdf
+# hit page: 10 of 81
+# terms: Spare Labs
+
+=== page 9 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+9 
+ Agreement Template Version: 04012024 
+interactive file format such as CSV tables or MSXLS. The Platform shall also 
+differentiate general public on-demand service and paratransit trip data as needed 
+and have the ability to filter data to create custom reports for urban and rural services. 
+ 
+10.3. 
+ADA and Title VI.  Contractor and Contractor’s Platform shall, throughout the Term 
+of this Agreement, comply with any and all applicable provisions with the ADA and 
+Title VI as they apply to this Agreement. 
+ 
+10.4. 
+WCAG2.1 AA Standards.  Contractor’s Platform shall adhere to Web Content 
+Accessibility Guidelines (WCAG) 2.1 AA or equivalent standards throughout the Term 
+of this Agreement.  
+ 
+10.5. 
+SOC 2 Type II. Contractor shall maintain SOC 2 Type II compliance, as further 
+outlined in Exhibit E, specifying how organizations shall manage customer data based 
+on the following minimum Trust Customer Criteria: security, availability, processing 
+integrity, confidentiality, privacy, and legality.  
+ 
+10.6. 
+HIPAA. Contractor and Contractor’s Platform shall maintain HIPAA compliance, as 
+further outlined in Exhibit E throughout the Term of this Agreement, which includes 
+but is not limited to maintaining the following HIPAA-compliant security practices and 
+features to prevent unauthorized or accidental disclosure, alteration or destruction of 
+data: 
+ 
+10.6.1. 
+Hosting at a HIPAA-compliant facility; 
+10.6.2. 
+Enforcing TLS for connections used in transferring data and encrypting it while 
+it is on disk.  
+10.6.3. 
+Ensuring all user data, including passwords, are encrypted using proven 
+encryption algorithms in the database.  
+10.6.4. 
+Authentication for site access; 
+10.6.5. 
+The ability to set user groups and their access and editing privileges; 
+10.6.6. 
+The ability to monitor users and maintain an audit trail; 
+10.6.7. 
+The ability for multiple organizations to use the Platform and have unique logins 
+with a unique audit trail.   
+ 
+10.7. 
+Payment Processor PCI Level 1. Contractor shall ensure that any third-party 
+payment processor contractor utilizes and offers to County, for County to collect fares, 
+shall at a minimum, be a certified PCI Level 1 Service Provider, or equivalent.   
+ 
+11. Data Security. 
+11.1. 
+Data Security. County acknowledges and agrees that Contractor utilizes third-party 
+service providers to Host and provide the Services and store County Data, and the 
+protection of such County Data shall be in accordance with such third-party’s 
+safeguards for the protection and the security and confidentiality of County’s Data.  At 
+a minimum, Contractor shall maintain privacy, security, and disaster recovery 
+protocols as described in Exhibits E and F and all Hosting and County data and 
+backups shall be located within the United States. 
+11.2. 
+Notification in the Event of a Security Breach.  In the event of a security breach, 
+the following policies apply and the following notification measures shall be taken for 
+Contractor to notify County:  
+Attachment A
+=== page 10 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+10 
+ Agreement Template Version: 04012024 
+11.2.1. 
+Suspected and reported events and incidents shall be documented by 
+Contractor. 
+11.2.2. 
+Suspected incidents shall be assessed and classified as either an event or an 
+incident. 
+11.2.3. 
+Incident response shall be performed by Contractor according to Section C(8.3) 
+and any associated procedures. 
+11.2.4. 
+All incidents shall be formally documented and a documented root cause 
+analysis shall be performed. 
+11.2.5. 
+Suspected and confirmed unauthorized access events shall be reviewed by 
+Contractor’s Incident Response Team. Breach determinations shall only be 
+made by Contractor’s CEO and legal counsel in coordination with Contractor’s 
+executive management. 
+11.2.6. 
+Contractor shall promptly and properly notify County, customers, partners, 
+users, affected parties, and regulatory agencies of relevant incidents or 
+breaches in accordance with Contractor’s policies, contractual commitments, 
+and regulatory requirements. 
+ 
+12. Data Ownership. 
+ 
+12.1. 
+As between Contractor and County, County shall own all right, title and interest in and 
+to the County Data. County Data shall include all data entered by end users through 
+the Service.  Contractor shall hold a non-exclusive right to all Registration Information 
+of such end users.  Contractor reserves, owns and retains all right, title and interest 
+in and to (a) the Services and Platform, all improvements, enhancements or 
+modifications thereto, (b) any software, applications, inventions or other technology 
+developed in connection with Implementation Services or support, and (c) all 
+intellectual property rights related to any of the foregoing. 
+12.2. 
+Notwithstanding anything to the contrary, Contractor shall have the right to collect and 
+analyze County Data and other information relating to the provision, use and 
+performance of various aspects of the Services and related systems and technologies 
+including, without limitation, Learning Data. Contractor shall hold all right, title and 
+interest to Learning Data and, without limiting such ownership, will be free (during and 
+after the term hereof) to (i) use such information and data to improve and enhance 
+the Services and for other development, diagnostic and corrective purposes in 
+connection with the Services and other Contractor offerings, and (ii) disclose such 
+data solely in aggregate or other de-identified form in connection with its business 
+(including without limitation for marketing and sales purposes). No rights or licenses 
+are granted except as expressly set forth herein. 
+13. Data Extract.  
+13.1. 
+Upon County’s request, Contractor shall provide a data extract of County’s Data in 
+various formats including, but not limited to, CSV or MSSQL.  Contractor shall provide 
+the requested County Data to County within a minimum of forty-eight (48) business 
+hours of County’s request, unless County specifies a longer turnaround time. County 
+shall have full access to export County Data from the Platform independently through 
+Contractor’s reporting suite in CSV and XLSX formats.  Upon County request, and at 
+the rates outlined in Exhibit A, Contractor shall work with County to use Contractor’s 
+open API to extract raw County Data to build custom reports and dashboards or 
+integrate the extracted County Data into County’s Business Intelligence Tools. 
+Attachment A
+=== page 11 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+11 
+ Agreement Template Version: 04012024 
+13.2. 
+Contractor shall also timely provide any other records requested by County for 
+response to Inspection of Public Records (“IPRA”) requests under NMSA 1978, 
+Chapter 14, Article 2.  In the context of County responding to an IPRA request for 
+information, portions of Contractor’s records which have been disclosed to County 
+that have been clearly marked as proprietary and confidential and contain details that 
+are considered trade secrets, may be withheld from disclosure under NMSA 1978, 
+Section 14-2-1(F) Trade Secrets. Should County receive any external requests to 
+disclose this information, Contractor is prepared to collaborate closely with County. 
+Contractor can assist in identifying the sensitive sections that should be redacted to 
+protect Parties’ mutual interests and maintain confidentiality. This proactive approach 
+ensures that Parties safeguard valuable intellectual property while complying with 
+transparency obligations. 
+14. Data Turnover. 
+ 
+14.1. 
+Data Retrieval and Format Transformation. Upon termination of this Agreement, 
+all County Data shall be comprehensively compiled and converted into either CSV or 
+MSSQL formats as specified by County. If requested by County, Contractor shall 
+adapt to a different mutually agreed-upon format. 
+14.2. 
+Provision of Data Readers and Access Tools. To ensure County personnel can 
+effectively utilize the turned-over County Data, Contractor shall provide detailed 
+documentation on the data structure and necessary reader tools. This documentation 
+shall include guidelines on accessing and interpreting the County Data efficiently. 
+15. Data Destruction. 
+ 
+15.1. 
+Secure Data Deletion. After County Data turnover, Contractor shall ensure the 
+thorough destruction of any remaining County Data from its system, which shall, at a 
+minimum, adhere to security policies outlined in Exhibit E, and shall ensure complete 
+erasure of County Data using industry-standard methods such as cryptographic 
+wiping and physical destruction of any non-reusable media.  
+15.2. 
+Certification of Data Destruction. After the completion of the data destruction 
+process, Contractor shall provide to County Certificate of Destruction which certifies 
+that all data related to the County has been securely erased from Contractor’s 
+systems and confirms that Contractor retains no copies, thereby mitigating any 
+potential data leakage risks. 
+ 
+16. Training. Contractor shall provide training to County staff during Project implementation and 
+throughout the term of this Agreement, upon County request, in accordance with the rates 
+outlined in Exhibit A.  Training shall include, but not be limited to, the Training Modules, 
+System Knowledge Base, Guides, and Help Documents outlined in Exhibit H. 
+17. Project Initiation Meeting. Following the Notice to Proceed, Contractor shall, within ten (10) 
+business days from the Effective Date of this Agreement, schedule a Project initiation meeting 
+with the County Project Manager and the Project Team at a date, time, and virtual format to 
+be agreed upon by both Parties. Contractor shall provide any deliverables to be prepared in 
+advance, and a proposed agenda with any additional topics to be addressed during the Project 
+initiation meeting.  Prior to the Project initiation meeting, Contractor shall review any pertinent 
+documents provided by County and draft a Project Schedule and Plan that substantially 
+Attachment A

@@ -1,0 +1,134 @@
+# source: raw/bleecker_drive/Hillsborough County/Completed Contract File.pdf
+# path: raw/bleecker_drive/Hillsborough County/Completed Contract File.pdf
+# hit page: 146 of 199
+# terms: Via+drivers
+
+=== page 145 ===
+Tenancy and Compartmentalization
+All parts of the system will run on dedicated hosts; no virtualization will be used. Production and
+development/testing environments are physically segregated to ensure the separation of live
+customer information from development/testing accounts and the environment. Security tiers are
+segregated between the systems.
+System Scans
+Via performs annual scans of the production and testing environments. Via’s information
+technology and information security teams are responsible for implementing controls and
+performing remediation activities to eliminate any identified vulnerabilities. The vulnerability
+management process will consist of the following high-level steps:
+●
+Discovery of network assets using an approved third-party scanning tool
+●
+Scanning for vulnerabilities on discovered network assets
+●
+Remediation for identified vulnerabilities
+On an annual basis, Via works with a third-party vendor to perform a network and application
+penetration test across the entire system. The penetration tests will include, but not be limited to,
+the following:
+●
+External and internal assessments
+●
+Web application testing
+●
+Infrastructure scanning
+Escalation
+Any breach in the security of Via’s data — which would be unprecedented — would be escalated to
+a 24/7 on-call team for immediate response. Should we discover any vulnerabilities or software
+bugs, we will report the incident to the team immediately and provide a proposed mitigation
+strategy within 48 hours.
+3.8.3 Access Control
+While a variety of users require partial access to various parts of the Via system, maintaining the
+right access controls is vital to overall system security. Via employs the following user access
+management practices to protect the system:
+Secure System Connections
+●
+Partners connect to the Via system through a single user login that connects them to all
+tools and resources appropriate to their role. Our system uses AWS Cognito to
+authenticate, authorize, and audit each user through a multi-factor authentication process.
+●
+The system relies on multi-tier architecture to separate the network into private and public
+layers.
+●
+Partners connect to the web-based Via system over RestAPI on the public internet using a
+secure HTTPS connection, going through a Reblaze Web Application Firewall ՄWAFՅ, which
+examines each request.
+Proprietary, Confidential, and Trade Secret Information
+RFP‐23‐24177 | 42
+=== page 146 ===
+●
+Incoming partner traffic flows through at least two load-balancers ՄELBՅ, which mask
+internal IP address allocation.
+Role-Based Security
+Via will only grant access to information assets (including, but not limited to, rider and driver
+personal information) to authorized individual users. Access is based on a need-to-know and least
+privilege principle, ensuring that a user receives only the access minimally required for their role or
+job function. Authorized users of Via’s system must be uniquely identifiable within the information
+system; generic, shared, or group user accounts (IDs) for general user access are not permitted.
+Additionally, our system maintains an activity log that records login activity that can be made
+accessible to authorized system administrators.
+Internally, Via uses Okta for SSO ՄSingle Sign On), authentication and authorization processes. All
+access to Via information systems is done with MFA ՄMulti Factor Authentication) and using ZTNA
+ՄZero Trust Network Access) processes and technologies.
+Via’s system administrator tools limit user access by utilizing a personal permissions list for each
+user or group of users. For every user, the County and the Via project team will establish user
+permission levels that will grant access to the appropriate set of information and system
+components.
+Sample permission levels include:
+●
+Agent. View live service and conduct live actions: e.g., waiving the cost of a trip, marking a
+vehicle as unavailable, or reassigning a passenger to another vehicle
+●
+Operators. In addition to all Agent permissions, Operators can create new customers or
+drivers as well as edit operational parameters such as pricing or communications
+campaigns.
+●
+Administrator. Access to all systems.
+Proprietary, Confidential, and Trade Secret Information
+RFP‐23‐24177 | 43
+=== page 147 ===
+Employees requiring administrative or privileged accounts must use separate user accounts from
+those of normal business accounts. A formal process is in place for granting and revoking
+employee access to all information systems and services. User access to business systems must
+be approved by the system owner or Via, as appropriate. Immediately upon termination of a user’s
+relationship, access to Via’s systems and data will be immediately revoked.
+Password Management
+Via has an established standard for the creation of strong passwords, the protection of those
+passwords, and the frequency of change. All employees and contractors with access to Via’s
+systems or information must conform to the following requirements:
+●
+Do not share Via passwords with anyone, including colleagues or managers. All passwords
+are to be treated as sensitive and confidential Via information.
+●
+Do not write passwords down or store them in hardcopy anywhere in the office.
+●
+Avoid using a local administrator account with a shared password on multiple machines.
+●
+Hash and salt all client passwords before storing on the network.
+3.8.4 Data Access
+Data protection and safeguarding of confidential client information is a top priority at Via. As we
+work with many public partners and collect, manage, and store a wide variety of data, we have the
+necessary processes in place to ensure that confidential information is internally shared on a
+strictly need-to-know basis and is protected from being distributed to other clients and partners.
+Via provides clear guidelines for team members around confidentiality, physical, and digital
+material security, incident management protocols and primary point of contact for security and
+privacy questions. These guidelines and specific processes meet the highest standards and can be
+tailored further to the specific client or project requirements. Further, Via complies with all
+applicable data protection laws in the geographies in which we operate and all regulatory
+requirements agreed upon with our partners. For the full policy, follow this link:
+https://ridewithvia.com/privacy-policy/
+Data Collection
+Via collects user data (including riders and drivers) in order to successfully operate our services.
+We collect data on individual users when they:
+●
+Register to use the service;
+●
+Use the service; and
+●
+Communicate with Via.
+Via collects the following user data in order to provide an efficient service:
+●
+Personal information: Name, phone number, email address, location data etc.
+●
+Financial Information: this information is collected for billing purposes but is stored and
+processed by a third-party vendor. Via only stores the last four digits of the credit card for
+identification.
+Proprietary, Confidential, and Trade Secret Information
+RFP‐23‐24177 | 44

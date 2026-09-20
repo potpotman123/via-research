@@ -1,0 +1,98 @@
+# source: raw/bleecker_drive/Arlington, Texas/Redacted_Contract_-_Amendment_to_Incorporate_Paratransit_Software_Services.pdf
+# path: raw/bleecker_drive/Arlington, Texas/Redacted_Contract_-_Amendment_to_Incorporate_Paratransit_Software_Services.pdf
+# hit page: 12 of 12
+# terms: Via+drivers, Via+vehicles
+
+=== page 11 ===
+Appendix 3
+ 
+Additional Legal Terms 
+ 
+In order to reflect the nature of the services being provided under this Order, namely the fact that under this Order, 
+Via is providing access to technology only, the parties hereby agree to the following:  
+ 
+1. Applicability of the Terms.  
+a. 
+The services provided under this Order are not governed by the Scope of Services set forth as Exhibit 
+A to the Terms.  
+b. Any provisions of the Terms, Request for Proposal 22-0031, or Contractor’s Proposal Response to 
+the RFP that are not appropriate for technology-only services do not apply to this Order, including 
+but not limited to the following: 
+i. I(C)-(L), all of which relate to operational aspects that Via is not responsible for under this 
+Order;  
+c. 
+Exhibit E and Appendices 1 -3 apply only to the deployment of Via Software and VOC for use 
+in Customer’s Handitran Paratransit Services.  Notwithstanding anything to the contrary in 
+this Exhibit E or Appendices 1-3, nothing herein amends Exhibit A or the Terms as they apply 
+to the on-demand rideshare services provided under the Terms and Exhibit A.   
+2. Services Provided 
+a. 
+The parties acknowledge that the services provided under this Order are strictly for access and use 
+rights to Via’s proprietary technology solution, which Customer intends to utilize for its Handitran 
+paratransit services, and not for any ancillary services that are provided under the Terms. Without 
+limiting the foregoing, the parties acknowledge that Via will not be contracting with any drivers or 
+taking any responsibility for the day-to-day operation of the Handitran paratransit services.  
+b. Subject to the terms and conditions herein, Via will provide the Services, as defined herein. The 
+Services will include all related services, functions or responsibilities not specifically described in 
+this Agreement, but that are required or reasonably necessary for the proper performance of the Via 
+Solution in connection with the Handitran paratransit transportation services Customer provides (the 
+“Customer Transportation Service”), for the benefit of prospective and actual clients (collectively, 
+“Clients”), using vehicles, equipment and services (including telecommunications and/or dispatch 
+equipment and services), personnel, routes and other infrastructure it owns or otherwise controls 
+(the “Customer Infrastructure”). Via hereby grants Customer subscription, access, and use rights 
+(“Use Rights”) to the Via Solution as described in the Order. 
+c. 
+As between Customer and Via hereunder, all intellectual property rights of any type in and to the 
+Via Solution and all of their derivative works and improvements are owned by, and are proprietary 
+to Via.  Except for the Use Rights granted herein (a) no right, title or interest in or to the Via 
+Solution or any portion thereof is or shall be granted or transferred to Customer under this 
+Agreement, whether by license or otherwise; and (b) Customer acknowledges and agrees that it 
+shall have no right to use, reproduce, distribute, sublicense, modify or otherwise provide to third 
+parties, the Via Solution, in whole or in part, except as explicitly granted herein.  The Customer 
+shall not directly or indirectly disassemble, decrypt, scan, decompile or otherwise reverse engineer 
+in any manner any components or elements of the Via Solution or assist a third-party to do so. In 
+the event that Via provides Customer with any hard-copy or electronic copies of materials 
+containing Via’s Confidential Information, including information pertaining to the Via Solution 
+and its operation, and Customer retains copies of such materials in accordance with its general 
+procurement rules following the termination of this Agreement, Customer acknowledges that all 
+intellectual property rights relating to the Via Solution and all of their derivative works and 
+improvements remain the sole property of Via. 
+3. Liability 
+a. 
+TO THE MAXIMUM EXTENT PERMITTED BY LAW: (a) EACH PARTY EXPRESSLY 
+DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, OR STATUTORY 
+(INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR PURPOSE AND 
+NON-INFRINGEMENT); AND (b) VIA DOES NOT WARRANT THAT THE VIA SOLUTION 
+MEETS CUSTOMER’S REQUIREMENTS, OPERATES WITHOUT INTERRUPTION, OR IS 
+ERROR FREE.  Notwithstanding anything to the contrary express or implied in the Terms of this 
+Order, Via shall have no liability to Customer or any Client (including no duty to defend, 
+indemnify or hold Customer harmless) for any Transport Incident related to the Customer operated 
+Handitran Paratransit Transportation  where “Transport Incident” means any accident, incident or 
+other situation involving any Client (including negligent, willful and/or criminal acts and 
+omissions), any package or goods transported and/or handled by Customer and/or any employee 
+or agent of Customer on behalf of Customer and/or any Client, any communications devise,
+=== page 12 ===
+vehicle or equipment employed by Customer in the use, provision or servicing of the Customer 
+Operated Handitran Paratransit Transportation Service and/or any employee or agent of Customer 
+operating such vehicle, device or equipment or otherwise acting on behalf of Customer (including 
+the acts and omissions of such employees or agents while using the Via Solution or associated 
+applications or viewing or using any device from which such application is displayed).  Transport 
+Incidents include actual or alleged violations of applicable laws by Customer or any third parties it 
+contracts with. Notwithstanding anything to the contrary in this Exhibit E or Appendices 1-3, 
+nothing in this section applies to the on-demand rideshare services described in Attachment A, or 
+in any instance where Via operates vehicles or contracts with drivers to operate vehicles as part of 
+a service provided to Customer.  Furthermore, this limitation of liability shall not affect the 
+Customer’s right of indemnification as provided in Section 4. 
+b. The parties acknowledge that Via’s auto liability insurance required under the Terms does not 
+extend to any rides under this Exhibit E or Appendices 1-3, for which Contractor or its relevant 
+subcontractors will be responsible for providing the required insurance.  
+ 
+4. Indemnification 
+a. 
+Via agrees to defend, settle, and pay damages (including reasonable attorneys’ fees) relating 
+to any third party claim, demand, cause of action, or proceedings (whether threatened, 
+asserted, or filed) (“Claims”) against Customer to the extent that such Claim is based upon 
+Via’s proprietary Products (excluding Professional Services and Third Party Products) 
+directly infringing a United States patent, registered United States copyright, or registered 
+United States trademark, provided that the Via Solution is used in compliance with this 
+Agreement.

@@ -1,0 +1,121 @@
+# source: raw/bleecker_drive/Hillsborough County/Completed Contract File.pdf
+# path: raw/bleecker_drive/Hillsborough County/Completed Contract File.pdf
+# hit page: 113 of 199
+# terms: Via+fleet, Via+vehicles
+
+=== page 112 ===
+●
+System stability and security. Successful paratransit platforms depend on secure and
+stable software systems. Our platform is highly available, meaning we provide uptime
+exceeding 99.9%. Servers and cloud services dedicated to this deployment will be
+monitored together with all other Via servers, and a rotating technical manager will be on
+call to respond to any issues 24/7. Via ensures security with robust data protection and
+safeguarding protocols, and is fully certified in ISO 27001, an international standard for risk
+management.
+2.2 References
+Via’s software solution and comprehensive support are unmatched, delivering everything needed
+for transitioning the County’s Sunshine Line from the Routematch platform and implementing a
+high-quality, operationally efficient service. As proof that our platform is the best solution for
+Hillsborough County, we offer the contact information of three partners within the past five years
+with similar size and scope to the County’s Sunshine Line. Below, please find detailed case studies
+of our references with summaries of services provided, service outcomes, and core metrics.
+Partner
+Contact and Service Information
+Charlotte Area Transit
+System ՄCATSՅ
+ՄCharlotte, NCՅ
+Description of Project: Via worked with CATS to transition their
+legacy Routematch paratransit service to the Via Platform, including
+all technical implementations, data migrations, and staff training.
+Using our technology, CATS set a record for on-time performance,
+while greatly minimizing the need for dispatcher scheduling and
+intervention throughout service hours.
+Time Period of Project Implementation: 12 weeks
+Length of Time in Operation: 1 year
+Project Manager Name and Title: Jeffrey McClellan, Paratransit
+Supervisor
+Address: 600 East 4th Street, Charlotte, North Carolina 28202
+Phone number: Մ704Յ 336՞7600
+Email address: jeffrey.mcclellan@charlottenc.gov
+Proprietary, Confidential, and Trade Secret Information
+RFP‐23‐24177 | 9
+=== page 113 ===
+Sarasota County Area
+Transit ՄSCATՅ
+ՄSarasota, FLՅ
+Description of Project: Via replaced Trapeze as a paratransit
+scheduling software provider for SCAT and introduced the ability to
+commingle their ADA paratransit and two demand-responsive
+programs. Doing so enables the Agency to efficiently serve both
+pre-booked trips for Transit Disadvantaged riders and on-demand
+trips for veterans across a 600֡ square mile area.
+Time Period of Project Implementation: 6 weeks
+Length of Time in Operation: 2 years
+Project Manager Name and Title: Jane Grogg, Director
+Address: 1001 Sarasota Center Blvd, Sarasota, Florida 34240
+Phone number: Մ941Յ 861՞5507
+Email address: jgrogg@scgov.net
+St. John's
+Transportation
+Commission
+ՄSt. John's, Canada)
+Description of Project: By replacing Routematch and Tripspark, Via’s
+technology has promoted significant efficiency and quality of service
+gains for Metrobus in St. John’s. Our algorithm optimizes routing for
+the agency’s fleet of 18 vehicles, as well as two unique solutions for
+utilizing taxi partners for overflow trips. Our algorithm enables the
+Agency to better account for detours, boarding times, and dynamic
+capacity for passengers’ accessibility devices.
+Time Period of Project Implementation: 12 weeks
+Length of Time in Operation: 2 years
+Project Manager Name and Title: Judy Powell, General Manager
+Address: 25 Messenger Drive, St. John's, Newfoundland and
+Labrador, Canada
+Phone number: Մ709Յ 570՞2131
+Email address: judy.powell@metrobus.com
+Proprietary, Confidential, and Trade Secret Information
+RFP‐23‐24177 | 10
+=== page 114 ===
+Partner Challenges
+Charlotte Area Transit System (CATS), one of the largest 
+transit agencies in the U.S., wanted to improve its 
+paratransit service’s on-time performance (OTP), reduce 
+compliance risk and boost overall network efficiency. In 
+January 2022, CATS chose Via to optimize the service, 
+replacing RouteMatch, its legacy provider.
+Via Solution
+In the fastest launch in CATS history, Via configured the 
+new paratransit solution, trained agency staff, and 
+migrated all data in just 16 weeks. CATS quickly saw an 
+increased OTP, which is currently at its highest level in 
+years, compared to the previous service’s 73% OTP 
+record. Amid the backdrop of a shrunken driver 
+workforce, Via’s enhanced automated scheduling and 
+dispatching minimized the need for dispatchers to 
+schedule rides throughout the day.
+Charlotte Area Transit
+Technology to improve efficiency of one of the 
+largest ADA paratransit services in the US
+Partner:
+Charlotte Area 
+Transit (CATS)
+Location:
+Charlotte, NC
+Service Type:
+Paratransit
+First software developer for paratransit who 
+instills a sense of integrity and pride in their 
+product. Not willing to compromise if it 
+compromises the principles of the product they 
+are developing. It is refreshing.”  
+— CATS Paratransit Senior Manager
+“
+80%
+Decrease in daily 
+unassigned rides
+5K+
+Migrated rider 
+accounts
+10%
+Immediate 
+improvement in OTP

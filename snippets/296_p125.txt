@@ -1,0 +1,60 @@
+# source: raw/bleecker_drive/0.0 OMNIA Cooperative Agreement/R250802_Via_Transportation_MAD_Redacted_081825_01.pdf
+# path: raw/bleecker_drive/0.0 OMNIA Cooperative Agreement/R250802_Via_Transportation_MAD_Redacted_081825_01.pdf
+# hit page: 125 of 191
+# terms: Citymapper, Via+drivers
+
+=== page 124 ===
+Proprietary, Confidential, and Trade Secret Information​
+    RFP No. 25-08  |  37
+=== page 125 ===
+iii. Are there different platforms for the products, services, and solutions being
+offered? If so, describe in detail the features of your personal and business
+plans including how users switch between platforms.
+Via’s tech-enabled solutions span three distinct but integrated platforms, offering partners
+a comprehensive and continuously evolving tech stack. We have configured our
+technology to enable a seamless flow of data between Via’s demand-response software
+(including interfaces for riders, drivers, schedulers, dispatchers, and administrators),
+Remix’s planning platform (for transit planners), and Citymapper’s intuitive journey
+planning app (with a rider-facing app as well as an administrative dashboard),
+empowering our customers to create a truly multi- and intermodal network where
+fixed-route transit and demand-response services work together to provide
+traveler-centric, flexible mobility options. This deep integration between software
+platforms significantly expands access and discoverability for riders, while providing
+backend users with an unprecedented level of insight into travel behavior.
+Proprietary, Confidential, and Trade Secret Information​
+    RFP No. 25-08  |  38
+=== page 126 ===
+11. Customer Service
+i. Please describe in detail your customer service policies and approach.
+From our experience as both operators and software providers for transit services around
+the world, we understand that high-quality customer service and technical support is
+incredibly important for our on-demand transit riders, drivers, and partners. We provide
+full-spectrum customer support, covering all operational and technical assistance needs:
+Day-to-Day Rider Support 
+In collaboration with our customers, we develop 
+hyper-local customer service strategies to directly 
+address the needs of riders. Our booking agents within 
+our Call Centers are available during all service hours to 
+assist riders via phone and email queues in multiple 
+languages, and will be available during 100% of 
+scheduled service. Agents are able to provide support 
+with booking rides, troubleshooting service issues, documenting customer feedback, and 
+other rider needs as necessary. Agents are trained to know local points of interest based 
+on community needs. Customer Service performance is regularly monitored to ensure 
+compliance, and all agents are subject to random quality assurance checks. We have 
+developed predefined escalation procedures to ensure that all concerns are addressed 
+with the appropriate level of support and oversight, and that all relevant parties are kept 
+apprised of updates and resolution timelines. The Via Platform offers a reliable clock 
+which is automatically synchronized with the Coordinated Universal Time (UTC) to ensure 
+consistent support operations. The Call Center phone number will be published on all 
+methods of service-centric communication and any voicemails will be returned within 30 
+minutes. 
+24/7 Technical Support for Customers 
+Our customers have access to 24/7 technical assistance through our support platform. A 
+rotating team of support engineers is on call at all times to resolve any problems that may 
+arise. Incidents are escalated using a predefined alert protocol, which instantly notifies 
+the on-call member of the team. The technical team member will immediately examine the 
+issue to begin the process of issue resolution and resource allocation. All issues will be 
+resolved based on their level of severity and associated response times, and Via will 
+provide the customer with regular status updates on resolution. 
+    RFP No. 25-08  |  39

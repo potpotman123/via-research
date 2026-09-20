@@ -1,0 +1,344 @@
+# source: https://legistar.granicus.com/LosAlamos/attachments/d4ed28e3-5da0-403c-aaa8-20fd558046f1.pdf
+# path: raw/cache/9e8dcba51a86916c33f88b1baedeefebe738b9ef.pdf
+# hit page: 34 of 81
+# terms: Spare Labs
+
+=== page 33 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+33 
+ Agreement Template Version: 04012024 
+decreased Vehicle Fee shall be reflected in the next annual invoice for Annual Vehicle Fees.  County agrees that 
+should County decrease its number of Active Vehicles to less than three (3) Active Vehicles, County’s minimum 
+Vehicle Fee shall be calculated as the then current Total NTE Fee Per Vehicle X 3. Vehicle Fees are based on 
+the net number of vehicles in service.  County may replace vehicles as needed due to wrecks, obsolescence, or 
+other events requiring replacements. 
+ 
+2. 
+Temporary Increases to Active Vehicles.  Notwithstanding the foregoing, County may, at County’s sole option, 
+temporarily increase its number of Active Vehicles for up to a forty-eight (48) hour period, at no additional charge 
+to County and with no additional notification to Contractor, for special circumstances, including but not limited to, 
+inclement weather events and special County sponsored events. For temporary Active Vehicle increases 
+exceeding a forty-eight (48) hour period, the County Project Manager shall notify Contractor of such an increase 
+in writing via e-mail.  In that case, Contractor may then either waive, in writing, additional Active Vehicle fees for 
+a temporary increase in the number of Active Vehicles or may charge County for an increase in Active Vehicles, 
+as described herein. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(This section intentionally left blank) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Attachment A
+=== page 34 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+34 
+ Agreement Template Version: 04012024 
+Table 6. Optional Platform and Software Fees and Other Optional Services 
+ 
+Optional Platform and 
+Software Fees: 
+Items to Be Included in Project 
+Implementation as of the 
+Effective Date of this Agreement. 
+These do not require an 
+Amendment to include during 
+initial Project Implementation.  
+Description 
+Base Unit 
+Fee 
+ 
+Years 2 – 15 
+Per Unit CPI 
+8% Increase 
+Cap 
+ 
+1 
+Spare Engage - 
+Annual Cost 
+Additional module  
+ $10,500.00  
+ $11,340.00  
+2 
+Spare Engage - Per 
+Rider Case Fee  
+Additional case fee with a minimum of 100 
+cases 
+ $10.00  
+ $10.80  
+3 
+Spare IVR  
+Per minute with a minimum commitment 
+of 500 per month 
+ $0.95  
+ $1.03  
+4 
+Activity Log + 
+Per Active Vehicle per year 
+ $200.00  
+ $216.00  
+5 
+Duty Time Travel + 
+Per Active Vehicle per year 
+ $200.00  
+ $216.00  
+6 
+Admin Single Sign On  
+Per Active Vehicle per year 
+ $200.00  
+ $216.00  
+7 
+Data Reconciliation 
+Per Active Vehicle per year 
+ $200.00  
+ $216.00  
+8 
+Driver Trip History  
+Per Active Vehicle per year 
+ $100.00  
+ $108.00  
+9 
+Show All Stops to 
+Drivers 
+Per Active Vehicle per year 
+ $100.00  
+ $108.00  
+10 
+GTFS Real Time and 
+Multi-Modal trip 
+planning 
+Per Active Vehicle per year 
+ $700.00  
+ $756.00  
+11 
+Scheduled Global 
+Optimization Pro  
+Per Active Vehicle per year 
+ $200.00  
+ $216.00  
+12 
+Live Global 
+Optimization 
+Per Active Vehicle per year 
+ $200.00  
+ $216.00  
+13 
+Dynamic Driver Breaks  Per Active Vehicle per year 
+ $200.00  
+ $216.00  
+14 
+Targeted Optimization  
+Per Active Vehicle per year 
+ $200.00  
+ $216.00  
+15 
+Rider Single Sign On 
+Per Active Vehicle per year 
+ $200.00  
+ $216.00  
+16 
+Ride Reviews 
+Per Active Vehicle per year 
+ $200.00  
+ $216.00  
+17 
+In-app 
+Announcements  
+Per Active Vehicle per year 
+ $100.00  
+ $108.00  
+18 
+Spare Rider App - 
+Walking Directions 
+Per Active Vehicle per year 
+ $100.00  
+ $108.00  
+Optional Platform and 
+Software Fees: 
+Items to Be Included Only by 
+Execution of an Amendment to 
+Description 
+Base Unit 
+Fee  
+Years 2 – 15 
+Per Unit CPI 
+8% Increase 
+Cap 
+ 
+Attachment A
+=== page 35 ===
+Services Agreement No. AGR24-37 
+Spare Labs Inc. 
+35 
+ Agreement Template Version: 04012024 
+this Agreement Upon County 
+Request 
+19 
+AI Scan  
+Per year 
+ $5,250.00  
+ $5,670.00  
+20 
+AI Voice Tier 1 500 - 
+1000 Minutes Monthly 
+Per minute with a minimum commitment 
+of 500 minutes 
+ $ 2.56  
+ $2.76  
+21 
+AI Voice Tier 2 1001 - 
+5000 Minutes Monthly 
+Per minute  
+ $2.36  
+ $2.55  
+22 
+AI Voice Tier 3 5001+ 
+Minutes Monthly 
+Per minute 
+ $2.16  
+ $2.33  
+23 
+AI Voice Overages Per 
+Month 
+Per minute per month 
+ $2.83  
+ $3.06  
+24 
+Data Residency 
+Per Active Vehicle per year 
+ $200.00  
+ $216.00  
+25 
+Driver Tipping 
+Per Active Vehicle per year 
+ $100.00  
+ $108.00  
+26 
+Optimization Insights  
+Per Active Vehicle per year 
+ $200.00  
+ $216.00  
+27 
+Fare Passes 
+Per Active Vehicle per year 
+ $200.00  
+ $216.00  
+28 
+Open Fleets 
+Per year.  Requires third-party agreement 
+with Contractor’s TNC partners. 
+ $12,000.00  
+ $12,960.00  
+29 
+API integration support 
+Per year for existing integrations.   
+ $12,000.00  
+ $12,960.00  
+Optional Service Fees: 
+Items to Be Included Only by 
+Execution of an Amendment to 
+this Agreement Upon County 
+Request 
+Description 
+Base Unit 
+Fee  
+Years 2 – 15 
+Per Unit CPI 
+8% Increase 
+Cap 
+ 
+30 
+ 
+Travel for On-Site 
+Professional Services 
+and Training 
+Per person per day flat rate. 
+$1,500.00 
+$1,620.00 
+31 
+Spare Realize Transit 
+Planning and 
+Simulation Project 
+Services to be provided to County upon 
+County request as described in Exhibit J. 
+$10,000.00 
+$10,800.00 
+32 
+Materials and Other 
+Reimbursables 
+(CPI increases do not 
+apply 
+Pass-through at cost to County with a 
+copy of the supplier’s invoice to 
+substantiate charges to County. 
+N/A – 
+Charged at 
+cost. 
+N/A – Charged 
+at cost. 
+33 
+Hourly Rates  
+(CPI increases do not 
+apply) 
+For API Integrations and other 
+professional services, unless otherwise 
+already specified herein. 
+ Year 1 
+Hourly Rate 
+NTE $200.00 
+Years 2 – 15 
+Hourly Rate 
+UP TO NTE 
+$415.80 
+34 
+Other Additional 
+Optional Functionality 
+and Services 
+County, at County’s sole option, reserves the right to 
+request from Contractor optional functionality and services 
+not specifically named herein to enhance or improve 
+County’s Microtransit and Paratransit services through the 
+Platform as those services and functionality become 
+available throughout the Term of this Agreement, for which 
+there may be additional fees, including but not limited to, 
+implementation fees, licensing fees, or other professional 
+services fees. 
+ Years 1 – 15 
+Compensation 
+Cap 
+ $40,000.00 
+Attachment A

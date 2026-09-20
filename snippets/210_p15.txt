@@ -1,0 +1,91 @@
+# source: https://legistar1.granicus.com/McKinney/attachments/abb0b9be-9c15-4174-9e04-7b9d82941c25.pdf
+# path: raw/cache/5e92fe54da67feb112756b4c03bca94101b9439a.pdf
+# hit page: 15 of 50
+# terms: Spare Labs
+
+=== page 14 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+ 
+Figure 6. Spatial distribution of expected demand for homes/visits, jobs, recreation and healthcare across 
+the six participating MUTD cities. Demand for DART connection is represented in our model by a single 
+origin/destination at Parker Road LRT Station. 
+ 
+To estimate the home locations from which trips would originate (and also the home 
+locations for visits to friends/relatives), each random point in a zone was matched to its 
+Census Block Group (CBG) and relevant census data acquired. Based on a rigorous review 
+of the academic literature , , we isolated four main demographic features to include in our 
+2 3
+home demand model: 
+ 
+●
+Poverty status (% individuals in poverty, as defined locally by the US census) 
+●
+Non-white population 
+●
+Vehicle ownership (% of households owning zero vehicles) 
+●
+Highest level of education (high-school education or less) 
+ 
+2 Berrebi & Watkins (2018), ‘Who’s ditching the bus?’ 
+https://arxiv.org/ftp/arxiv/papers/2001/2001.02200.pdf 
+3 Giuliano (2005), ‘Low income, public transit, and mobility.’ 
+https://journals.sagepub.com/doi/abs/10.1177/0361198105192700108 
+13
+=== page 15 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+We assume that neighborhoods with high proportions of low-income, non-white, carless, 
+high-school-educated residents are the most likely to have high demand for (micro)transit.  
+ 
+To model the ‘attractiveness’ of a location for jobs, each random point was also matched to 
+total jobs data at the CBG level from the US Longitudinal Employer-Household Dynamics 
+Origin-Destination Employment Statistics (LODES) survey.  
+ 
+To model the attractiveness of a location for recreation, the number of shopping and 
+entertainment points of interest (POIs) available within a 500 m radius of each random 
+point was calculated using a services mapping API. The same was done for healthcare 
+locations (hospitals and clinics) to estimate healthcare demand.  
+ 
+Finally, origins and destinations were randomly paired together, based on the weightings 
+produced by the Demand Generator tool. We added a ‘trip distance’ weighting to reflect the 
+distribution of trip lengths typically taken on the CCT taxi service. Figure 7 displays the 
+relative distribution trips by distance, which was used to weight the distance of each trip 
+appropriately to ensure mostly shorter trips would randomly occur in our model. We 
+limited the maximum trip distance to 30 miles for all trip types except DART connections, to 
+prevent unrealistically long trips occurring by chance in our trip distribution model. 
+DART-connecting trips were capped at 60 miles in the model, which essentially allows any 
+rider in the MUTD zone to connect with Parker Road Station. 
+ 
+Thousands of O-D pairs were generated in this way, which were then fed into the Spare 
+Realize platform. 
+ 
+ 
+Figure 7.The distribution of trip distances in the CCT service, which was used to weight the likelihood of 
+each randomly generated O-D pair. 
+ 
+14
+=== page 16 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+Distributing trips temporally 
+ 
+To distribute simulated trip requests realistically, we estimated the distribution of each trip 
+type throughout a typical day. Most trips in Collin County are undertaken by car, owing to 
+the lack of public transportation options. CCT’s travel survey asked respondents at which 
+times they were most likely to travel on each day of the week, which gives some indication 
+about demand throughout a typical day.  
+ 
+Figure 8 shows the relative distribution of travel occurring throughout the day in both cars 
+and ‘other’ modes (principally on-demand such as ride-hailing and taxis, cycling and 
+walking). Peak travel happens between the hours of 3pm and 6pm, and the least busy 
+travel period is from 12pm to 3pm. 
+ 
+ 
+Figure 8.The distribution of transport modes (car vs other) at different times of day in Collin County. 
+ 
+By disaggregating the stated travel times from the survey by trip type where possible, and 
+combining the data with that of Spare-run microtransit services in similar cities, it is 
+possible to derive approximate distributions of likely travel times across a day in Collin 
+County. The distributions shown in Figure 9  were used to assign realistic (yet randomized) 
+travel times to each trip in the O-D generation step. 
+ 
+ 
+15

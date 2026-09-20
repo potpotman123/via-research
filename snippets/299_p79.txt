@@ -1,0 +1,250 @@
+# source: raw/bleecker_drive/0.0 OMNIA Cooperative Agreement/25-08_Via_Transportation_Response_Combined_2025_05_01_Redacted__1___1_.pdf
+# path: raw/bleecker_drive/0.0 OMNIA Cooperative Agreement/25-08_Via_Transportation_Response_Combined_2025_05_01_Redacted__1___1_.pdf
+# hit page: 79 of 191
+# terms: Citymapper
+
+=== page 78 ===
+Question 48: 
+Past litigation, 
+bankruptcy, 
+reorganization, 
+state 
+investigations 
+ 
+X 
+X 
+ 
+This contains confidential 
+sensitive information 
+regarding Via's eligibility 
+status and related 
+disclosures. Via takes efforts 
+to limit the sharing of this 
+company information, and 
+such information constitutes 
+confidential commercial 
+information that would reveal 
+sensitive details to 
+competitors if disclosed. 
+Question 76: Top 
+10 Public 
+Agency 
+Customers 
+X 
+X 
+X 
+X 
+This contains confidential 
+information about Via’s other 
+partners and details 
+regarding the Via services 
+they purchase. This list of 
+references and the way in 
+which each uses Via’s 
+services is maintained 
+confidentially by Via and 
+constitutes proprietary trade 
+secret information. 
+ 
+This also contains 
+personally identifying 
+information of individuals, 
+the disclosure of which 
+would constitute an 
+inappropriate invasion of 
+personal privacy. 
+"Products and Pricing" Attachment 
+Product Catalog; 
+"Microtransit, 
+Paratransit, and 
+Non-Emergency 
+Medical 
+Transportation 
+Software" 
+Section; "Via 
+Operations 
+Center (VOC)" 
+Subsection 
+(Page 12, line 10 
+X 
+ 
+ 
+ 
+This contains images and 
+information relating to Via’s 
+proprietary console; detailed 
+descriptions of the scope of 
+its software capabilities; and 
+descriptions of back-end 
+application and software 
+processes. This information 
+is maintained confidentially 
+by Via and constitutes 
+proprietary trade secret 
+information. 
+Proprietary, Confidential, and Trade Secret Information​
+       RFP No. 25-08  |  3
+=== page 79 ===
+- Page 17) 
+Product Catalog, 
+"Transit Planning 
+Software", 
+"Fixed-Route 
+Transportation 
+Scheduling 
+Software", 
+"On-Demand 
+Transportation 
+Planning 
+Software", 
+"Street Design 
+Software" 
+Sections (Page 
+20, line 23 - 
+Page 30, line 5) 
+X 
+ 
+ 
+ 
+This contains images and 
+information relating to Via’s 
+proprietary console; detailed 
+descriptions of the scope of 
+its software capabilities; and 
+descriptions of back-end 
+application and software 
+processes. This information 
+is maintained confidentially 
+by Via and constitutes 
+proprietary trade secret 
+information. 
+Product Catalog, 
+"Mobility-as-a-​
+Service 
+(Citymapper for 
+Cities)” Section, 
+"Unparalleled 
+data insights 
+from a unified 
+suite of tools" 
+Subsection 
+(Page 31, line 31 
+- Page 32, line 
+17) 
+X 
+ 
+ 
+ 
+This contains images and 
+information relating to Via’s 
+proprietary console; detailed 
+descriptions of the scope of 
+its software capabilities; and 
+descriptions of back-end 
+application and software 
+processes. This information 
+is maintained confidentially 
+by Via and constitutes 
+proprietary trade secret 
+information. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Proprietary, Confidential, and Trade Secret Information​
+       RFP No. 25-08  |  4
+=== page 80 ===
+"Other Attachments": Proposal 
+Section B.3, 
+Customer 
+References 
+(Page 13) 
+X 
+ 
+X 
+X 
+This contains confidential 
+information about Via’s other 
+partners and details 
+regarding the Via services 
+they purchase. This list of 
+references and the way in 
+which each uses Via’s 
+services is maintained 
+confidentially by Via and 
+constitutes proprietary trade 
+secret information. 
+ 
+This also contains 
+personally identifying 
+information of individuals, 
+the disclosure of which 
+would constitute an 
+inappropriate invasion of 
+personal privacy. 
+Section C.5, 
+Service Levels 
+(Page 19, line 26 
+- Page 20, line 
+16) 
+X 
+ 
+X 
+ 
+This contains details 
+regarding Via’s processes 
+for responding to issues. 
+This information is 
+maintained confidentially by 
+Via and constitutes 
+proprietary trade secret and 
+confidential commercial 
+information 
+Section C.9.ii, 
+Data Protection 
+(Page 27, line 13 
+- Page 28, line 
+12) 
+ 
+ 
+ 
+ 
+This contains details 
+regarding Via’s backend 
+information security 
+processes and protocols. It 
+is maintained confidentially 
+by Via and constitutes trade 
+secret and confidential 
+commercial information. 
+Section C.10.i, 
+Features and 
+Capabilities of 
+User Interface 
+(Page 34, line 9 - 
+Page 36, line 11) 
+X 
+ 
+X 
+ 
+This contains 
+comprehensive 
+characterizations of product 
+features, including details 
+about service capabilities 
+and backend features. This 
+information is maintained 
+confidentially by Via and 
+constitutes proprietary trade 
+Proprietary, Confidential, and Trade Secret Information​
+       RFP No. 25-08  |  5

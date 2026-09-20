@@ -1,0 +1,153 @@
+# source: https://legistar1.granicus.com/McKinney/attachments/abb0b9be-9c15-4174-9e04-7b9d82941c25.pdf
+# path: raw/cache/5e92fe54da67feb112756b4c03bca94101b9439a.pdf
+# hit page: 12 of 50
+# terms: Spare Labs
+
+=== page 11 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+The historical and predicted total weekly ridership (omitting the effect of the price changes) 
+is shown in Figure 5. On average, baseline ridership is expected to grow to 192 trips per 
+week. The 80% confidence intervals generated in the forecasting model were used to 
+define ‘low’ and ‘high’ demand scenarios (see next section). 
+ 
+ 
+Figure 5. Historical and predicted weekly total on-demand transit ridership in Collin County, omitting price 
+change effects.  Historical data (black dots), weekly trends (projected using the Prophet model), and 80% 
+confidence intervals are shown. 
+ 
+We then combined this baseline growth scenario with price elasticity analysis to estimate 
+the additional expected change in ridership due to the planned change in fare model. 
+Spare undertook this analysis as a separate project on behalf of CCT, and the methodology 
+is summarised in Appendix 3. Spare predicted the new $3 flat fare would result in 270 
+weekly trips (45 trips on average assuming a 6-day-a-week service), which ​represents a 
+~30% increase compared with the previous variable-fare service.  
+ 
+On top of the 45 daily trips expected from baseline demand for CCT’s taxi service, we 
+expect additional demand owing to the service’s planned connection to Parker Road 
+Station in Plano. DART ridership data shows there were ~3,400 trips on an average 
+weekday at Parker Road Station. Separately, a survey conducted by CCT in 2011 to explore 
+commuters’ appetite for a bus shuttle suggests that 41% (309) of the respondents would 
+use a service connecting the City of McKinney to Parker Road Station 4–5 times a week. It is 
+difficult to interpret how representative this survey is of the wider community, and how 
+many commuters would actually switch from commuting with their cars to using 
+on-demand transit. Nevertheless, there is clearly an appetite for connecting with Parker 
+Road Station, so we conservatively estimate an additional daily demand of 20 daily riders 
+from the transit station connection.  
+10
+=== page 12 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+ 
+Combining the anticipated impact of the fare change and the inclusion of Parker Road 
+Station brings the predicted total daily ridership to 65 riders. We use this number as our 
+baseline demand volume for on-demand microtransit across CCT. The number of trips 
+expected to have an origin or destination ​outside​ of Collin County is very low: over the 
+fourteen months of taxi ridership data available to Spare, only a few dozen trips took place 
+outside Collin County. We therefore consider the demand from outside the zone to be 
+negligible in our simulations.  
+ 
+ 
+Accounting for uncertainty of demand 
+ 
+There will always be some uncertainty about the precise volume demand that can be 
+expected from a newly introduced microtransit service. The taxi data used to drive our 
+demand model may not be fully representative of ‘real’ passenger behaviour because of 
+biases or missing data. Riders’ awareness of a new microtransit service will directly affect 
+demand volume, and can be influenced by marketing or information campaigns. 
+ 
+To reflect this uncertainty, we calculated a range of expected demand. The baseline 
+calculation provided the ‘medium demand’ scenario, a  ‘low demand’ scenario was 20% 
+lower than baseline, and a ‘high demand’ scenario was 30% higher than baseline. These 
+percentage changes were informed by the confidence intervals in our forecasting model. 
+ 
+The final estimates for low, medium and high demand are shown in Table 1​.  
+ 
+Table 1. Estimated daily ridership for different demand scenarios, assuming normal service hours. 
+ 
+ 
+Low demand 
+Medium demand 
+High demand 
+Standard trips 
+36 
+45 
+59 
+DART connection trips 
+16 
+20 
+26 
+Total trips 
+(6am–6pm) 
+52 
+65 
+85 
+ 
+ 
+Stage 2: Estimating distribution of demand 
+ 
+Once the total volume of demand was estimated, it was necessary to distribute that 
+demand by different purposes throughout the day. We assume a large majority of trips 
+either start or end from a home location, and define four main trip ‘purposes’:  
+ 
+●
+Work: commuting trips or travel to college/university; 
+11
+=== page 13 ===
+SPARE LABS INC. CONFIDENTIAL PROPERTY 
+●
+Recreation: shopping, dining, entertainment and leisure trips; 
+●
+Healthcare: trips to healthcare facilities such as clinics and hospitals; 
+●
+DART connection: trips to Parker Road Light Rail Transit Station; 
+●
+Visiting others: a home location to visit friends or relatives. 
+ 
+ 
+Assigning trip purposes 
+ 
+A travel survey conducted by CCT in 2011 provided data on trip purposes undertaken in the 
+county. 514 respondents were asked to select what activities they would use public transit 
+for, if it were accessible to them (multiple reasons could be given). This question is not the 
+same as asking travellers ​why​ they are currently travelling, but gives some indication of the 
+rough split in trip types that might be undertaken with CCT’s on-demand service.  
+ 
+The majority of respondents said they would use public transportation for work, medical or 
+recreational trips (Table 2). Only 3% claimed they would want to use it to connect to DART, 
+but responses to the community travel survey, combined with data on DART ridership, 
+suggests that a relatively high number of trips could start or end at Parker Road LRT 
+station. The proportions recorded in the survey were used to allocate different trip 
+purposes realistically when running simulations in Spare Realize, with DART-connecting 
+trips being given a higher weighting to reflect expected demand.  
+ 
+Table 2. Breakdown of CCT travel survey by trip purpose. ‘Other’ includes trips to the airport and church. 
+Respondents could choose multiple categories, which explains why the percentages do not sum to 100%. 
+ 
+Work 
+Recreation 
+Healthcare 
+Connecting 
+to DART 
+Visiting 
+relatives 
+Other 
+52% 
+44% 
+45% 
+3% 
+3% 
+3% 
+ 
+Distributing trips spatially 
+ 
+To distribute demand in the most spatially realistic way possible, Spare’s ‘Demand 
+Generator’ tool generates trip origins and destinations based on the five main purposes 
+identified above: ​work, recreation, healthcare​, ​DART connection ​and ​visiting friends/relatives 
+trips. 
+ 
+The Demand Generator tool randomly generates a set number of points per hectare in 
+each zone, and snaps these points to actual roads, to ensure realistic trip request locations. 
+Each randomly generated point is then matched to relevant datasets to contribute to 
+overall home, work and recreation demand metrics. The spatial distribution of each metric 
+across the six MUTD cities is shown in Figure 6. 
+ 
+12

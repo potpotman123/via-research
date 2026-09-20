@@ -1,0 +1,87 @@
+# source: raw/bleecker_drive/Hillsborough County/Completed Contract File.pdf
+# path: raw/bleecker_drive/Hillsborough County/Completed Contract File.pdf
+# hit page: 101 of 199
+# terms: Via Mobility, Via Transportation
+
+=== page 100 ===
+Via Mobility, LLC
+(a wholly owned subsidiary of Via Transportation, Inc.)
+10 Crosby Street, Floor 2
+New York, NY 10013
+Subject: Request for Proposals ՄRFPՅ for Paratransit Scheduling Software System Մ23‐24177Յ
+To: The Hillsborough County Board of County Commissioners
+Attn: Israel Segarra, Chief Procurement Analyst
+Dear Ms. Segarra,
+We are excited to propose our paratransit scheduling software system for Hillsborough County’s
+Sunshine Line. Hillsborough County and Via share a similar vision: one where effective transit relies
+on innovative technology that enables flexible service, enhanced rider experience, and meaningful
+coordination across all local transit networks. As such, we leverage our modernized technology to
+improve efficiency, rider experience, and accessibility, while providing intuitive scheduling and
+dispatching tools, support, and reporting features to our partners. The result is more trips served
+for eligible riders using fewer vehicles, with fewer miles traveled and fewer dollars spent.
+Via is the world’s leading provider of TransitTech solutions, including paratransit, microtransit, and
+senior transportation. We partner with more than 650 cities and transit agencies across the globe,
+including over 25 in the State of Florida across urban, suburban, and rural communities. We have
+significant on-the-ground experience across the State, including a unique partner success
+approach that provides dedicated attention and support for partners like Hillsborough. Further, we
+are the undisputed leader in successfully transitioning transit agencies, cities, and counties off of
+the Routematch software with 15 transitions completed over the past 12 months making Via the
+ideal partner to support Hillsborough County in the next phase of its paratransit software journey.
+In the pages that follow, we provide detailed information about our proposed solution for
+Hillsborough County. We hope this response demonstrates our enthusiasm to partner with the
+County and welcome any future opportunities to further discuss our proposal.
+RFP‐23‐24177
+=== page 101 ===
+Sincerely,
+________________________________
+Authorized Corporate Officer:
+Authorized Contacts:
+Alex Lavoie
+Manager
+Via Transportation, Inc.
+Via Mobility, LLC
+Terence McPherson
+Partnerships, U.S.
+Via Transportation, Inc.
+terence.mcpherson@ridewithvia.com
+Daniel Lee
+Strategy Associate
+Via Transportation, Inc.
+Մ888Յ 501՞7511, ext. 4
+daniel.lee@ridewithvia.com
+RFP‐23‐24177
+DocuSign Envelope ID: 79A07B85-E043-4C74-9367-242EBF6241D4
+=== page 102 ===
+Proprietary and Confidential Information
+Please note that this document and any and all supporting documentation, appendices and
+attachments contain proprietary, confidential, and trade secret information of Via Mobility, LLC
+(“Via”), and is exempt from disclosure under Florida Statutes, Title X, Chapter 119 (the “Florida
+Public Records Law”), including under Florida Statutes § 815.045 (as the public and private harm in
+disclosing trade secrets significantly outweighs any public benefit derived from disclosure and the
+public’s ability to scrutinize and monitor agency action is not diminished by nondisclosure of trade
+secrets) and under Florida Statutes § 119.071Մ1)(c) (as financial statements required to be
+submitted in response to a proposal for a public works project). We request that your office
+maintain the confidentiality of these materials and provide Via with notice of any request for
+disclosure of this information prior to production by contacting compliance@ridewithvia.com.
+Below is our confidentiality table indicating pages that include proprietary and/or trade secret
+information. Please note that below page numbers correspond to those printed at the bottom right
+corner of our proposal.
+Section/Page
+Trade Secret Information
+Exempt under Florida Statutes §
+815.045
+Personally Identifying Information
+1. Qualifications, 1՞7
+X
+X
+2. Experience, 8՞10
+X
+X
+3. Technical Approach, 14, 16՞24,
+28՞46
+X
+4. Cost, 47՞50
+X
+Appendix, 52՞59, 61՞66
+X
+RFP‐23‐24177

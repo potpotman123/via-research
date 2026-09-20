@@ -1,0 +1,108 @@
+# source: raw/bleecker_drive/Arlington, Texas/Via_Contract_Renewal_redacted.pdf
+# path: raw/bleecker_drive/Arlington, Texas/Via_Contract_Renewal_redacted.pdf
+# hit page: 5 of 13
+# terms: Via+not to exceed, Via+not-to-exceed, Via+turnkey, Via+vehicles
+
+=== page 4 ===
+“Microtransit Services Fleet Cap”) and (ii) the number of vehicles in the Handitran 
+Transportation Service shall not exceed thirty-four (34) vehicles  (the “SaaS Services Fleet Cap”, 
+together with the Microtransit Services Fleet Cap, the “Fleet Cap”).  Contractor and City may 
+temporarily adjust the Microtransit Services Fleet Cap and/or the SaaS Services Fleet Cap upon 
+written agreement via email. City shall not pay for any costs of vehicles or services provided with 
+vehicles exceeding the Microtransit Services Fleet Cap as such cap may be amended in accordance 
+with this provision.  City shall be solely responsible for monitoring the SaaS Services Fleet Cap.  
+ 
+5.  Amendment. Exhibit A of the Contract is deleted in its entirety and replaced with the Exhibit 
+A attached to this Renewal, which is incorporated herein by reference as if written word for word. 
+ 
+6. Change Order Limitations.  The Parties hereby acknowledge and agree that if this Contract 
+was awarded through a competitive procedure as required by Section 252.021 of the Texas Local 
+Government Code, any change order or cumulative change orders shall not exceed the statutory 
+limits as described in Section 252.048 of the Texas Local Government Code. Any change order 
+submitted to or authorized by CITY exceeding the statutory limit is void. CONTRACTOR hereby 
+acknowledges and agrees that CITY shall hold no responsibility to pay for any work started or 
+completed if the work was unauthorized or the change order or invoice is in excess of statutory 
+limits.   
+ 
+7. Conflicts, Use of Terms, Governing Law. Capitalized terms used but not defined herein have 
+the meanings set forth in the Contract. Except as expressly provided herein, the terms and 
+conditions of the Contract remain unchanged. This Renewal will be governed by the same law as 
+the Contract and is effective as of January 1, 2025. 
+ 
+ 
+RIVER NORTH TRANSIT LLC 
+ 
+ 
+CITY OF ARLINGTON, TX  
+ 
+By: 
+ 
+ 
+ 
+ 
+ 
+ 
+By: 
+ 
+Name:  
+ 
+ 
+ 
+ 
+ 
+Name: 
+ 
+Title: 
+ 
+ 
+ 
+ 
+ 
+ 
+Title: 
+ 
+Date: 
+ 
+ 
+ 
+ 
+ 
+ 
+Date:
+=== page 5 ===
+EXHIBIT A 
+RIDESHARE SERVICES SCOPE OF SERVICES 
+ 
+1. Purpose; Scope 
+Contractor will provide rideshare services as described below (the “Service”) for the City and its residents 
+and visitors. Contractor's Services include: 
+ Access to Via's fully localized dynamic vehicle routing and real-time passenger aggregation 
+system; 
+ Establishing relationship with vehicle rental company ("Vehicle Partner") to provide access to 
+Vehicles on a rental basis to independent contractor driver partners; 
+ Accompanying technical and operational support services in order to provide a turnkey solution; 
+ A series of service development meetings to refine service scope for a supplemental microtransit 
+service that operates during peak hours to maximize efficiency across modes and improve quality 
+of service (the “Dynamic Direct Route”); 
+ Data sharing and reporting as described under Section 9 below; 
+ Access to the Via mobile application for users to book rides from a smartphone; 
+ Integration of the Arlington Student Transportation Program as described under Section 10 
+below; 
+ Integration of the Arlington RAPID service as described under Section 11 below; and 
+ Advertising services as described under Section 12 
+ 
+2. Duration 
+The Project Scope will begin on January 1, 2025, unless otherwise mutually agreed by both parties. The 
+Service shall operate through December 31, 2026, with the option to renew in accordance with the 
+Contract. 
+3. Fees 
+A. Contractor Fees 
+ 
+The City agrees to pay Contractor the amounts below, not to exceed $20,791,648.32 in the aggregate for 
+the term of this Contract. 
+ 
+The fees for rideshare services shall be on a cost per on-demand service hour basis, corresponding with 
+the tasks outlined in the Contractor's response to the RFP, as outlined below. The fees for the Dynamic 
+Direct Route portion of the Services shall be on fixed costs and a cost per on-demand service hour basis, 
+corresponding with the tasks outlined below.
+=== page 6 ===

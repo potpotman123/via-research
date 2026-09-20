@@ -1,0 +1,117 @@
+# source: https://erie.legistar1.com/erie/attachments/18897325-3951-4898-866c-b88da61e73dc.pdf
+# path: raw/cache/64cc9799c9c06de84758ced21eba2c2affae5de1.pdf
+# hit page: 75 of 83
+# terms: Downtowner
+
+=== page 74 ===
+74  
+It is also projected that the average response time (or the time between when a passenger reserves a ride 
+and when the vehicle arrives) will be less than 30 minutes. The service vendor will be able to provide a 
+response time by passenger trip. If it is found that the average response time is 30 minutes or more or 
+more than 10% of trips have a response time over 30 minutes, then changes to the service area size may 
+be needed in order to improve response times or promotional materials may need to be changed to set 
+more accurate rider expectations for typical response times. 
+Tracking User Experience 
+While metrics like ridership can convey system productivity, more qualitative indicators are also important. 
+The experiences of early riders should be captured in order to learn about any unanticipated issues with 
+service provision. Rider feedback can be captured through customer service star ratings provided through 
+the smartphone app after each ride is completed (this is automatic after each ride) and by logging 
+customer feedback received via email or through call-ins. More comprehensive post-trip surveys 
+regarding more detailed service or trip characteristics could be distributed either electronically or using 
+paper copies by the service vendor. In order to ensure the highest response rate possible, it is 
+recommended the survey be brief and focus primarily on multiple choice responses with just one open-
+ended response.  
+Since the service vendor will track the quantitative aspects of each trip, like response time and time in 
+vehicle, the survey can be used to assess ease of use of the reservation system, whether riders find the 
+vehicles comfortable, whether riders have positive interactions with vehicle operators, and whether the 
+rider travel experience has improved when comparing to their pre-microtransit travel.  
+The surveys should be offered to each rider during the first six months of service in English and Spanish. 
+Following a survey response evaluation period, surveying should then be conducted at regular intervals to 
+be determined by Town staff and for passenger samples instead of all riders. 
+Tracking Rider Demographics 
+To fulfill grant funding obligations and ensure the service is serving the transportation needs of vulnerable 
+populations, the Town is interested in tracking demographic characteristics of riders, such as age, race, 
+and/or income status. This information will need to be provided voluntarily. One way to do that would be 
+to conduct an annual rider survey linked from the app to an external survey site.
+=== page 75 ===
+Erie Microtransit Service Plan 
+ 75 
+Evaluating Service Area Scope 
+The initial service zone has been drawn based on the travel market assessment and stakeholder input. It is 
+possible that some portions of the service area may be 
+disproportionately heavy trip generators or popular destinations. 
+Monitoring the origin and destinations patterns by trip will allow the 
+Town to understand whether the service area needs to be modified 
+or if there are particular origin-destination pairs and routes that are 
+utilized at a high rate. The selected vendor should be able to provide 
+visualizations of trip patterns like the example shown in Figure 38 to 
+help Town staff evaluate service utilization and potentially adjust, 
+such as narrowing the service area or establishing fixed pick-
+up/drop-off locations that serve popular destinations. 
+Track “Un-serviceable” Trip Requests 
+Initially, transit users can request trips within the microtransit zone, and people who attempt to request a 
+trip originating or terminating outside of the zone will not be serviced. These trip requests need to be 
+tracked in order to understand if there are patterns in “un-serviceable” areas, as they can reveal where 
+service changes need to be made based on user demand. 
+Determining Service Changes 
+While this service plan seeks to meet the needs of the Town of Erie travel market, it is possible that in 
+practice the performance outcomes may differ from goals outlined here. The Town should be prepared to 
+collaborate with the selected operating vendor on making service adjustments on an as-needed basis to 
+ensure the microtransit service is providing efficient service and filling a mobility need. It is recommended 
+that Town staff complete a thorough review of the performance metrics described in this service 
+monitoring plan along with initial responses to rider surveys after the first three months of service. If any 
+goals are unmet or if initial rider satisfaction is low, then targeted service adjustments may be required. 
+Implementation Timeline 
+Figure 39 illustrates the timeline for pre-launch and post launch actions for the three months prior and 12 
+months following launch of the service. A turn-key operator should be identified at least three months 
+prior to launch. Other pre-launch actions include identifying a name, logo, and brand, marketing and 
+promotion of the service, vinyl wrapping of vehicles, and testing. Post-launch the focus will be on 
+advertising service, monitoring service over the first year, and planning for minor adjustments to the 
+service operating characteristics as needed. 
+Figure 38: Simulation of Origin-
+Destination Patterns (source: 
+Downtowner)
+=== page 76 ===
+76  
+Figure 39: Erie Microtransit Implementation Timeline 
+ 
+ 
+Finalize program management and oversight
+Select turn-key service operator and associated vehicle fleet
+Finalize budget and associated operating hours
+Select program name, logo, and brand
+3 months before launch
+Develop marketing materials and advertising plan
+Formalize promotional partnerships with community groups
+Work with microtransit vendor on service plan adjustments
+Install electric vehicle charging stations
+2 months before launch
+Install vehicle brand graphics (vinyl wraps)
+Begin intensive advertising and promotion of program launch
+Coordinate with program partners and electeds about launch
+Test microtransit technology and dry-run service
+1 month before launch
+Final planning, promotion, and coordination for launch event
+Determine performance monitoring program
+Launch event
+Intensive advertising and promotion of service
+Launch of operations
+Daily service quality monitoring
+Responsiveness to passenger complaints or input
+Weekly evaulation of performance metrics
+Intensive advertising and promotion of service
+Month 1
+Review lessons learned in first month with vendor
+Intensive advertising and promotion of service
+Ongoing evaluation/monitoring/customer responsiveness
+Month 2
+Implementation of possible service adjustments 
+Ongoing advertising and promotion of service
+Ongoing evaluation/monitoring/customer responsiveness
+Report to electeds and community partners on early results
+Months 3-6
+Plan for Year 2 of service and develop necessary resources
+Ongoing advertising and promotion of service
+Ongoing evaluation/monitoring/customer responsiveness
+Review and report on final pilot results
+Months 7+
