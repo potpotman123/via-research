@@ -51,6 +51,13 @@ generic Via marketing deck, an unrelated "Downtowner" saloon), write NO row and 
 - notes: the signing legal entity (River North Transit LLC, NoMad Transit LLC, Via Mobility LLC, Remix Technologies LLC...),
   the exact pricing-table lines you relied on (quote them), page numbers, and anything that made classification hard.
 
+## Via's contracting entities (FY2025 10-K Exhibit 21.1): a contract with ANY of these is a Via contract
+River North Transit LLC (most common); Via Mobility, LLC (note the comma and LLC); NoMad Transit LLC; Crosby Street Transit LLC;
+Flatiron Transit LLC; Greenpoint Transit LLC; Port City Transit LLC (Mobile, AL operations); Tidewater Transit LLC (Hampton Roads and
+Trinity Metro operations); Sioux Falls Transit LLC; Via Transit Twin Cities LLC; Via Transit East LLC; Via Transit (USA) LLC;
+Remix Technologies LLC; Citymapper; Downtowner Transportation LLC / Downtowner App LLC and the town Downtowner LLCs listed below.
+"Via Transportation, Inc." is the parent. If a document names one of these, it is Via: never skip it as an unrelated third party.
+
 ## Downtowner and cooperative contracts (read carefully)
 - Downtowner LLCs ARE Via companies. Via acquired Downtowner on 2025-12-12; its 10-K lists Downtowner Transportation LLC, Downtowner App LLC
   and town LLCs (Aspen Downtowner Group, Basalt, Carbondale, CB/Crested Butte, Glenwood, Leadville, Steamboat, Montbello/Denver Connector,

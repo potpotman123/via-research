@@ -28,9 +28,13 @@ def num(v):
         return None
 
 
+EXCL = []
+if (SHARDS / "_exclusions.csv").exists():
+    EXCL = list(csv.DictReader(open(SHARDS / "_exclusions.csv")))
+
 rows, rejects = [], []
 for p in sorted(SHARDS.glob("*.csv")):
-    if p.name == "HEADER.csv":
+    if p.name in ("HEADER.csv", "_exclusions.csv"):
         continue
     with open(p, newline="", encoding="utf-8") as f:
         rd = csv.DictReader(f)
@@ -41,6 +45,9 @@ for p in sorted(SHARDS.glob("*.csv")):
             r = {k: (v or "").strip() for k, v in r.items()}
             r["_shard"] = f"{p.name}:{i}"
             reasons = []
+            for e in EXCL:
+                if e["agency_contains"].lower() in r["agency"].lower():
+                    reasons.append(f"excluded: {e['entity_or_reason'][:80]}")
             if not r["agency"]:
                 reasons.append("no agency")
             if r["scope_type"] not in SCOPES:
