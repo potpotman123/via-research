@@ -1,2 +1,5 @@
 agency_contains,contract_action,award_or_approval_date,field,new_value,reason
 New Braunfels,award,2025-10-13,annual_value_usd,1146000,"Source staff report (File 25-1233) reads $1,146,000,000 for year-1 NTE; 3-yr total NTE $3,680,000 makes $1,146,000 the only consistent reading (typo in source)"
+City of Sunnyvale,award,2026-02-11,scope_type,Turnkey,"Service Order (Legistar attachment a9e16984, 35pp) p8 'Vehicles driven by independent contractor driver partners', p17 '[VENDOR] shall provide qualified and accredited independent Contractor drivers', p25/p31 'The City shall be responsible for monthly ongoing fees per vehicle hour' -> Via-supplied drivers billed per vehicle hour"
+City of Sunnyvale,award,2026-02-11,pricing_basis,per vehicle hour,"Service Order p25/p31: monthly ongoing fees per vehicle hour"
+City of Sunnyvale,award,2026-02-11,drivers_supplied_by,Via subcontractor,"Service Order p8/p17: independent contractor driver partners provided by vendor"
