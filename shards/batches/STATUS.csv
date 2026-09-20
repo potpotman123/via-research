@@ -42,7 +42,7 @@ tier2b_sonnet_33,sonnet,done
 tier2_sonnet_14,sonnet,done
 tier2_sonnet_15,sonnet,done
 p3leads_00,haiku,rejected
-gap_p12_03,sonnet,running
+gap_p12_03,sonnet,done
 tier2_sonnet_16,sonnet,done
 tier2_sonnet_17,sonnet,done
 p3leads_00,sonnet,done
@@ -52,3 +52,4 @@ tier2_sonnet_19,sonnet,running
 tier2_sonnet_20,sonnet,running
 tier2_sonnet_21,sonnet,running
 p3leads_02,sonnet,running
+gap_p12_04,sonnet,running
