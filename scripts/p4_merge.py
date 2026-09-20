@@ -52,18 +52,26 @@ for p in sorted(SHARDS.glob("*.csv")):
                 reasons.append("bad signed_after flag")
             (rejects if reasons else rows).append(dict(r, _reason="; ".join(reasons)))
 
-seen, deduped = {}, []
+seen, deduped, conflicts = {}, [], {}
 for r in rows:
     k = (r["agency"].lower(), r["contract_action"].lower(), r["award_or_approval_date"])
     if k in seen:
-        # keep the row with more filled numeric fields
         old = seen[k]
-        if sum(num(r[c]) is not None for c in NUMERIC) > sum(num(old[c]) is not None for c in NUMERIC):
+        if r["scope_type"] != old["scope_type"] and "Unknown" not in (r["scope_type"], old["scope_type"]):
+            conflicts.setdefault(k, {old["scope_type"], }).add(r["scope_type"])
+        # keep the row with more filled numeric fields; a classified row beats Unknown
+        better = (sum(num(r[c]) is not None for c in NUMERIC) + (r["scope_type"] != "Unknown")) > \
+                 (sum(num(old[c]) is not None for c in NUMERIC) + (old["scope_type"] != "Unknown"))
+        if better:
             deduped[deduped.index(old)] = r
             seen[k] = r
         continue
     seen[k] = r
     deduped.append(r)
+for r in deduped:
+    k = (r["agency"].lower(), r["contract_action"].lower(), r["award_or_approval_date"])
+    if k in conflicts:
+        r["_scope_conflict"] = "/".join(sorted(conflicts[k]))
 
 with open(OUT / "via_contract_census.csv", "w", newline="", encoding="utf-8") as f:
     w = csv.DictWriter(f, fieldnames=HEADER, extrasaction="ignore")
@@ -90,6 +98,10 @@ for r in deduped:
         fl.append("no date")
     if r["scope_type"] == "Turnkey" and r["pricing_basis"] in ("", "not stated") and r["drivers_supplied_by"] in ("", "not stated"):
         fl.append("Turnkey without pricing basis or driver source stated")
+    if r.get("_scope_conflict"):
+        fl.append(f"scope conflict across shards: {r['_scope_conflict']}")
+    if r["scope_type"] == "Unknown" and (t or 0) >= 1_000_000:
+        fl.append("Unknown scope on a >= $1mm action: adjudicate")
     if fl:
         flagged.append(dict(r, _flags="; ".join(fl)))
 with open(OUT / "qa_flags.csv", "w", newline="", encoding="utf-8") as f:
