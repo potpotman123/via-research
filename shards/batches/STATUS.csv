@@ -25,5 +25,7 @@ skip_audit_00,sonnet,done
 skip_audit_01,sonnet,running
 tier2_sonnet_06,sonnet,running
 tier2_sonnet_07,sonnet,running
-redo_downtowner_omnia,sonnet,running
+redo_downtowner_omnia,sonnet,done
 gap_p12_01,sonnet,running
+tier2_sonnet_08,sonnet,running
+tier2_sonnet_09,sonnet,running
