@@ -87,9 +87,46 @@ for p in sorted(SHARDS.glob("*.csv")):
                 reasons.append("bad signed_after flag")
             (rejects if reasons else rows).append(dict(r, _reason="; ".join(reasons)))
 
+# agency canonicalization: strip parentheticals and slashes, apply alias table, so dedupe and per-agency views line up
+ALIASES = {
+    "los angeles metropolitan transportation authority": "Los Angeles County Metropolitan Transportation Authority",
+    "los angeles county metropolitan transportation authority": "Los Angeles County Metropolitan Transportation Authority",
+    "fresno": "City of Fresno", "volusia county": "County of Volusia", "town of wilson": "City of Wilson",
+    "trinity metro": "Trinity Metro (Fort Worth Transportation Authority)",
+    "douglas county board of county commissioners": "Douglas County", "douglas county": "Douglas County",
+    "regional metropolitan transit authority of omaha": "Regional Metropolitan Transit Authority of Omaha (Metro)",
+    "region 4 education service center": "Region 4 Education Service Center (OMNIA Partners lead agency)",
+    "utah transit authority": "Utah Transit Authority", "metropolitan council": "Metropolitan Council (Metro Transit)",
+    "capital metropolitan transportation authority": "Capital Metropolitan Transportation Authority (CapMetro)",
+    "denton county transportation authority": "Denton County Transportation Authority (DCTA)",
+    "district department of transportation": "District Department of Transportation (DDOT)",
+    "imperial county transportation commission": "Imperial County Transportation Commission (ICTC)",
+    "maryland transit administration": "Maryland Transit Administration", "stark area regional transit authority": "Stark Area Regional Transit Authority (SARTA)",
+    "state of north dakota": "State of North Dakota", "city of fargo": "City of Fargo (Metropolitan Area Transit)",
+    "sacramento regional transit district": "Sacramento Regional Transit District (SacRT)",
+}
+
+
+def agency_key(name):
+    base = re.sub(r"\(.*?\)", "", name).split(" / ")[0].split(" & ")[0]
+    base = re.sub(r"[^a-z0-9 ]", " ", base.lower())
+    return re.sub(r"\s+", " ", base).strip()
+
+
+for r in rows:
+    k = agency_key(r["agency"])
+    if k in ALIASES:
+        r["agency"] = ALIASES[k]
+    # deterministic relabel: rows whose notes identify a competitor's contract are competitor awards
+    if r["contract_action"] != "competitor-award" and re.search(r"\bcompetitor\b|RideCo, Inc\.|Spare Labs, Inc\.", r["notes"]) \
+            and not re.search(r"NoMad|Nomad|River North|Via Mobility, LLC|Crosby|Tidewater|Port City", r["notes"][:400]) \
+            and re.search(r"RideCo|Spare", r["notes"][:300]):
+        r["notes"] = f"[relabeled competitor-award from {r['contract_action']}] " + r["notes"]
+        r["contract_action"] = "competitor-award"
+
 seen, deduped, conflicts = {}, [], {}
 for r in rows:
-    k = (r["agency"].lower(), r["contract_action"].lower(), r["award_or_approval_date"])
+    k = (agency_key(r["agency"]), r["contract_action"].lower(), r["award_or_approval_date"])
     if k in seen:
         old = seen[k]
         if r["scope_type"] != old["scope_type"] and "Unknown" not in (r["scope_type"], old["scope_type"]):
@@ -104,7 +141,7 @@ for r in rows:
     seen[k] = r
     deduped.append(r)
 for r in deduped:
-    k = (r["agency"].lower(), r["contract_action"].lower(), r["award_or_approval_date"])
+    k = (agency_key(r["agency"]), r["contract_action"].lower(), r["award_or_approval_date"])
     if k in conflicts:
         r["_scope_conflict"] = "/".join(sorted(conflicts[k]))
 
