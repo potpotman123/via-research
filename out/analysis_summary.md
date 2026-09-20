@@ -1,16 +1,16 @@
 # VIA contract census: analysis summary
 
-Generated from out/via_contract_census.csv: 404 rows = 312 Via contract actions (7 Downtowner pre-acquisition) + 30 competitor awards + 62 app-only observations.
+Generated from out/via_contract_census.csv: 405 rows = 313 Via contract actions (7 Downtowner pre-acquisition) + 30 competitor awards + 62 app-only observations.
 
 ## 1. Scope mix (Via contract actions, excl. Downtowner pre-acquisition)
 
 | Scope | Actions (count) | Distinct agencies | Rows with $ | Annualized $mm (rows with $) |
 |---|---|---|---|---|
-| Turnkey | 136 | 65 | 74 | 268.7 |
+| Turnkey | 138 | 65 | 74 | 268.7 |
 | Hybrid | 9 | 8 | 2 | 23.7 |
 | Software-only | 110 | 68 | 53 | 7.4 |
-| Unknown | 50 | 44 | 8 | 12.4 |
-| **Total** | **305** | **158** | | **312.2** |
+| Unknown | 49 | 44 | 8 | 12.4 |
+| **Total** | **306** | **158** | | **312.2** |
 
 Dollar-weighted shares among rows with a value and a known scope (annualized; NTE ceilings treated as annual where the document gave only a ceiling and a term, so this overstates spend): Turnkey 90%, Hybrid 8%, Software-only 2%
 
@@ -99,6 +99,7 @@ Post-report mix by count: {'Turnkey': 11, 'Software-only': 2, 'Unknown': 4, 'Hyb
 | 2024-09-23 | Metropolitan Council (Metro Transit) | MN | competitor-award | Software-only | 852100 | Competitor award (Spare Labs, Inc.), no Via entity involved. Quote (p.3): '5. 2024-216 SW: Microtransit Software, Contract 24P015. It was moved by Car |
 | 2024-09-25 | Metropolitan Council (Metro Transit) | MN | competitor-award | Software-only | 852100 | Contracting entity Spare Labs, Inc. (Via competitor). Quote: "That the Metropolitan Council authorize the Regional Administrator to negotiate and exec |
 | 2024-11-07 | Stark Area Regional Transit Authority (S | OH | termination | Unknown |  | Same SARTA Connect project sheet (p.25). Quote: 'Effective November 7, 2024, Via was officially notified of SARTA's desire to end the SARTA Connect se |
+| 2024-12-11 | Stark Area Regional Transit Authority (S | OH | termination | Turnkey |  | Tier-3 manual row from SARTA Board Meeting 12/11/2024 packet p53 (corpus doc 512): resolution to 'End The SARTA Connect Pilot Effective December 28, 2 |
 | 2024-12-16 | City of Santa Rosa | CA | competitor-award | Software-only |  | Competitor award: Remix Technologies LLC (Delaware LLC). Professional Services Agreement F002920 for transit scheduling and planning software, integra |
 | 2025-01-01 | Baldwin County Commission | AL | termination | Software-only |  | Via Mobility LLC; mutual termination agreement; original contract approved June 16, 2020 |
 | 2025-01-31 | Baldwin County Commission | AL | competitor-award | Software-only |  | Spare Labs, Inc. (competitor). Microtransit Software contract. Year 1: Base $19,200 + $2,800/vehicle (1-30) + $3,300/vehicle (30+) + $12,000 service/m |

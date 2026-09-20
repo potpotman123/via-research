@@ -24,3 +24,6 @@ Trinity Metro,pilot,2018-12-17,scope_type,Turnkey,"NTD Contractual Relationship 
 County of Volusia,award,2023-10-03,scope_type,Turnkey,"NTD Contractual Relationship RY2024: County of Volusia purchased-transportation contractor 'Via Transportation Inc.' (DR/PT, 10 VOMS, $1,679,640)"
 Utah Transit Authority,amendment,2024-03-07,scope_type,Turnkey,"NTE increase to a Service Order under MSA 20-03399; MSA documents (corpus doc 405): Via sources independent contractor Driver Partners and rents them vehicles; service orders priced per driver hour"
 Utah Transit Authority,amendment,2024-12-17,scope_type,Turnkey,"NTE increase to a Service Order under MSA 20-03399; same evidence as 2024-03-07 and 2024-04-17 amendments"
+Stark Area Regional Transit Authority,award,2023-12-13,scope_type,Turnkey,"SARTA board packet 6-26-24 (Bleecker Drive, corpus doc 511 p6): 'Via will provide software, vehicles, and drivers as a turnkey solution in Stark County'; contract awarded by Resolution #72 (2023)"
+Stark Area Regional Transit Authority,award,2023-12-13,drivers_supplied_by,Via,"doc 511 p6"
+Stark Area Regional Transit Authority,award,2023-12-13,vehicles_supplied_by,Via,"doc 511 p6"
