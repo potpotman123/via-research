@@ -323,7 +323,7 @@ filings (sections 1 and 6). Rejected as primary builds: the whole-book vehicle P
 vehicle-year), the top-down TAM of section 3 (kept as a ceiling check), and any count-based scaling of the census.
 
 **Why this one.**
-- Feasible: every input exists today. Totals and segment costs are in the 10-K and 10-Qs; the top ~40 operations contracts have documented ceilings, start
+- Feasible: every input exists today. Totals and segment costs are in the 10-K and 10-Qs; the 52 priced operations contracts (15 NTD-paid, 37 census-priced; $135mm of 2025 US services after haircut) have documented ceilings, start
   dates, terms and often rates; NTD gives actual payments for 15 of them and a 0.80 ceiling-to-spend haircut; the funding calendar is in the census.
 - Precise: few free parameters, each bounded. Services gross margin (22%-30%) is the only assumption that moves the split, and it moves it by +/-4 points. The
   contract layer is dated events, not rates. The census supplies composition and calibration; the filings supply the denominators, so nothing is

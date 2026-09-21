@@ -25,7 +25,7 @@ Defaults produce services 64% / 67% / 70% / 71% of revenue for 2023 / 2024 / 202
 Software cost of revenue = IT + 50% of launch/support (default); implied software GM check should land 70%-80%.
 
 ## Tab 3: Services engine (US contract layer + plugs)
-Rows: one per large documented operations contract from `out/us_revenue_build.csv` layers 1-2 (about 40 rows). Columns: agency, entity, scope, start,
+Rows: one per large documented operations contract from `out/us_revenue_build.csv` layers 1-2 (52 rows: 15 NTD-paid, 37 census-priced, $135.4mm in 2025 after haircut; layer 3 adds 29 documented-but-unpriced contracts imputed at $43.5mm). Columns: agency, entity, scope, start,
 term end, ceiling or NTD payment, haircut (0.80 on ceilings, 1.00 on NTD payments), rate escalator (3%-4%), funding tag (local / federal formula /
 federal one-time / state / unknown), competitive hazard (turnkey <1%), funding hazard (by tag, section 11), downsell rate (2%-4% locally funded),
 2024A-2028E revenue. Plugs: (a) other US services = services revenue (Tab 2, US share) - contract layer, grown with the layer's organic rate; (b) Downtowner
