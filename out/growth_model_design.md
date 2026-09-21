@@ -145,3 +145,37 @@ layers set conservatively, and agencies outside Legistar, NTD and the app store.
 scenario, because the split is exactly the services-versus-software question: if Germany is mostly operations, US services revenue implied by the
 $223.5mm services cost is about $200mm, close to the build's $190mm for 2025, and the residual is software; if Germany is software, the residual is
 undocumented operations.
+
+## 7. The P x Q structure (added 2026-09-21)
+
+**Operations segment: revenue = contracted vehicles x service hours per vehicle-year x all-inclusive rate per vehicle hour.**
+
+| Driver | Anchor from the documents | Source |
+|---|---|---|
+| P: rate per vehicle hour | Microtransit contracts 2022-2026: $52.23 (West Sacramento), $53.89 and $57.50 (Ben Franklin), $55.23-$68.33 (UTA service orders), $61.10 (Addison 2026), $70.19 (Douglas 2025), $70.00 (Wilmington); paratransit $98.73 (Milwaukee); fixed route $147.32 (Summit County). OMNIA list: microtransit $50.47-$80.75, paratransit $60.56-$100.94, fixed route $90.85-$141.32. Median stated rate ~$60. Escalation: UTA $55.97 (2022) to $68.33 (2024), about 10% a year on that account; assume 3%-4% generally. | census hourly_rate_usd; text/enum/omnia_price_schedule.csv |
+| Q1: vehicles under contract | NTD RY2024: 304 vehicles under Via purchased-transportation contracts at 15 full-reporting agencies. Census fleet sizes on 40 turnkey rows sum to 712 (Trinity 80, Arlington 65-68, SacRT 42, UTA 35, Wilson 26). | text/enum/ntd_contractual_hits.csv (VOMS Under Contract); census fleet_size |
+| Q2: hours per vehicle-year | Arlington 2,755 (192,845 DR/PT hours / 70 vehicles), BFT 3,525, HRT ~4,400 for 7-day service. Design range: 2,080 (8 hours weekdays) to 4,380 (12 hours daily). | text/enum/ntd_monthly_via_agencies.csv |
+| Composite | NTD 2024: $42.7mm / 304 vehicles = about $140,000 of revenue per contracted vehicle-year. BFT check: $3.32mm / 59,921 hours = $55.40 per hour against a $53.89-$57.50 contract rate. | arithmetic |
+
+Implied scale: US operations revenue of about $190mm in 2025 corresponds to roughly 1,350 contracted vehicle-years at $140k each. Growth
+decomposes into vehicles added (new awards and zone expansions, less lost contracts), hours per vehicle (7-day and evening expansions), and rate
+escalators. 2026 additions visible in documents: Rochester (five-year, $15.6mm a year from September), Mobile ($12.1mm a year, full year), Plano
+(~$8mm annualized), Sunnyvale, Douglas County (+$1.5mm), Addison (12,916 hours x $61.10 in the first six months), Grand Prairie, Grand County (up to
+12 vehicles). Together roughly +200 to +300 vehicle-equivalents, or +15% to +20% on Q, plus 3%-4% on P.
+
+**Software segment: revenue = vehicles (or buses) on the platform x price per vehicle per month, plus named large accounts.**
+
+| Driver | Anchor | Source |
+|---|---|---|
+| Small microtransit/paratransit SaaS | Customers ~450-550 US public agencies x ~10 vehicles x ~$400 per vehicle per month (OMNIA tiers run $1,514 for vehicle 1 down to $303 for vehicles 21+; a 10-vehicle fleet lists at $4,290 a month). Documented ACVs: median $43k (Key West $54k, Fargo $54k, Whatcom $22k, Doral $11k). | omnia_price_schedule.csv; census software_fee rows |
+| Remix planning/scheduling | ~250-350 cities x $200-$900 per bus per year with $18,690-$28,930 annual minimums; documented Remix fees $11k-$84k. | OMNIA lines 34-147; census Remix rows |
+| Large named accounts | NYC DOE $7.2mm a year (five-year $36mm; ~9,000 buses implies ~$800 per bus-year, in line with OMNIA's $901.60 Remix scheduling rate); RTC Southern Nevada $927k; Miami-Dade $960k; King County (to price). | census; Chalkbeat/Comptroller |
+| Residual | US 2025 revenue $310mm less operations ~$190mm less identified software ~$45mm leaves ~$75mm unexplained; allocate by scenario between undocumented operations and unfound large software accounts. | reconciliation |
+
+**Implementation fees**: ~3% of revenue (10-K); OMNIA install $27,758.50-$47,946.50 per launch; model as a percentage of new ARR.
+
+**International**: Germany $83.5mm (2025) falling ~9% in 2026 after Berlin's Muva ended 2026-02-28; other countries $41mm growing ~35%. Carry as its
+own line; classify Germany as operations unless documents show otherwise.
+
+**Outputs**: revenue by segment 2024-2028, growth by driver (vehicles, hours, rate, customers, price, churn), segment gross margin (operations 24%-28%,
+software 70%-80%), blended gross margin, then the income statement and the SOTP.
