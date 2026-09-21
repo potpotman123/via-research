@@ -158,368 +158,345 @@ print(f"contract rows: {len(contracts)}; tags {collections.Counter(c['tag'] for 
 
 # ---------- open workbook ----------
 wb = openpyxl.load_workbook(SRC)
-rb = wb["Revenue Build (KW)"]; ts = wb["Three Statements (KW)"]; cover = wb["Cover"]
-# preserve reported values already on the sheet
+rb = wb["Revenue Build (KW)"]; ts = wb["Three Statements (KW)"]; cover = wb["Cover"]; summ = wb["Summary"]
+# reported quarterly/annual values come from the untouched baseline copy of the sheet (stable positions)
+base = openpyxl.load_workbook(f"{ROOT}/model/KW VIA MODEL v1 baseline 2026-09-21.xlsx")["Revenue Build (KW)"]
 keep = {}
 for r in (8, 12, 16, 20, 25, 26, 30, 36, 37, 38):
     for p in PER:
-        v = rb[f"{COL[p]}{r}"].value
+        v = base[f"{COL[p]}{r}"].value
         if v is not None and not (isinstance(v, str) and v.startswith("=")): keep[(r, p)] = v
-# clear sheet
+keep[(20, "1Q25A")] = keep[(8, "1Q25A")] + keep[(12, "1Q25A")] + keep[(16, "1Q25A")]
+GEO_HIST = {(8, "FY2023A"): 167.558, (8, "FY2024A"): 221.003, (12, "FY2023A"): 43.815, (12, "FY2024A"): 78.527, (16, "FY2023A"): 37.481, (16, "FY2024A"): 38.100}
+keep.update(GEO_HIST)
+# clear the sheet
 for rng in list(rb.merged_cells.ranges): rb.unmerge_cells(str(rng))
 rb.delete_rows(1, rb.max_row + 5)
 for col in range(3, 28): rb.column_dimensions[L(col)].width = 11
-rb.column_dimensions["A"].width = 58; rb.column_dimensions["B"].width = 8; rb.column_dimensions["AB"].width = 90
+rb.column_dimensions["A"].width = 74; rb.column_dimensions["B"].width = 8; rb.column_dimensions["AB"].width = 95
 rb.freeze_panes = "C5"; rb.sheet_view.showGridLines = False
+for a, b in (("E", "H"), ("J", "M"), ("O", "R")): rb.column_dimensions.group(a, b, hidden=True, outline_level=1)
 
-def header(ws, title, subtitle, years=True):
-    put(ws, "A1", title, bold=True, size=14); put(ws, "A2", subtitle, GREY, italic=True)
-    if years:
-        put(ws, "A3", "Fiscal Year", bold=True, size=14); put(ws, "B3", "Historical", bold=True, size=14, align="center"); put(ws, f"{COL['3Q26E']}3", "Projected", bold=True, size=14, align="center")
-        put(ws, "B4", "Units", align="right", border_b=True)
-        for p in PER: put(ws, f"{COL[p]}4", p, align="right", border_b=True)
-        put(ws, "AB4", "Notes / sources", GREY, italic=True, border_b=True)
-
-header(rb, "VIA, Revenue Projection Model", "Filings-anchored segment split, contract-level services engine, software engine, margin bridge and checks  |  $ in millions unless noted  |  rebuilt 2026-09-21")
-
+R = dict(seg_hdr=6, svc=7, svc_g=8, svc_sh=9, sw=10, sw_g=11, sw_sh=12, tot=13, tot_g=14, tot_chk=15, us=16, intl=17,
+         gp_hdr=19, gm_svc=20, gp_svc=21, gm_sw=22, gp_sw=23, uplift=24, gp_tot=25, gm_blend=26, cogs=27,
+         se_hdr=29, svc_hard=30, svc_new=31, svc_dt=32, svc_plug=33, svc_us=34, svc_intl=35, svc_tot=36, memo_split=37, memo_imp=38,
+         sw_hdr=40, sw_named=41, sw_small=42, sw_us=43, sw_intl=44, sw_tot=45, sw_acv=46,
+         cu_hdr=48, cust_tk=49, cust_sw=50, cust_dt=51, cust_tot=52, cust_g=53, cust_org=54, rpo=55, nrr=56, grr=57,
+         in_hdr=59, in_sgm=60, in_sgm_chg=61, in_uplift=62, in_intl_share=63, in_2h_us=64, in_2h_intl=65, in_intl_g=66, in_plug_g=67, in_dt26=68, in_dt_g=69,
+         in_sw26=70, in_logo=71, in_exp=72, in_churn=73, in_doe=74, in_tk_adds=75, in_tk_base=76, in_fade_svc=77, in_fade_sw=78, in_alloc=79,
+         gd_hdr=81, gd_low=82, gd_high=83, gd_vs=84,
+         ap_hdr=86, a_cost=87, a_other=88, a_ls=89, a_loaded=90, a_svc=91, a_sw=92, a_swcost=93, a_swgm=94, a_chk=95,
+         br_hdr=97, chk_hdr=110)
+CL_TOT_HARD = 6 + len(contracts) + 2
+CL_TOT_NEW = CL_TOT_HARD + 33
+CLY = {"FY2024A": "S", "FY2025A": "T", "FY2026E": "U", "FY2027E": "V", "FY2028E": "W", "FY2029E": "X", "FY2030E": "Y"}
+HIST3 = ("FY2023A", "FY2024A", "FY2025A"); PROJ = [p for p in ANN if p.endswith("E")]; ENGP = ["FY2026E", "FY2027E", "FY2028E", "FY2029E", "FY2030E"]
+N_ = COL["FY2026E"]
+def IN(key): return f"${N_}${R[key]}"
 def label(ws, row, text, units="", bold=False, italic=False, color=BLACK, size=12):
     put(ws, f"A{row}", text, color, bold, italic, size=size)
     if units: put(ws, f"B{row}", units)
+def growth(ws, row, base_row=None):
+    base_row = base_row or row - 1
+    for p in ANN:
+        if p == "FY2023A": continue
+        c, pc = COL[p], COL[PREV[p]]
+        put(ws, f"{c}{row}", f"=IF({pc}{base_row}=0,0,{c}{base_row}/{pc}{base_row}-1)", italic=True, fmt=FMT_PCT)
+def share(ws, row, base_row, tot_row):
+    for p in ANN: put(ws, f"{COL[p]}{row}", f"=IF({COL[p]}{tot_row}=0,0,{COL[p]}{base_row}/{COL[p]}{tot_row})", italic=True, fmt=FMT_PCT)
 
-# ---------- Section A: revenue by geography (rows 6-22) ----------
-label(rb, 6, "Revenue Projection Model", bold=True, size=14)
-label(rb, 7, "Revenue by Geography (drives Total Revenue; annual projections come from the engines below)", bold=True)
-GEO = {8: ("United States", {"FY2023A": 167.558, "FY2024A": 221.003}), 12: ("Germany", {"FY2023A": 43.815, "FY2024A": 78.527}), 16: ("All Other Countries", {"FY2023A": 37.481, "FY2024A": 38.100})}
-# engine row numbers (defined below) referenced here
-R = dict(svc_hard=64, svc_new=65, svc_dt=66, svc_plug=67, svc_us=68, svc_de=69, svc_oth=70, svc_tot=71, svc_us_split=72, memo_imputed=73,
-         in_sgm=77, in_de_share=78, in_oth_share=79, in_dt26=80, in_dt_g=81, in_plug_g=82, in_2h_us=83, in_2h_de=84, in_2h_oth=85, in_us_fade=86,
-         sw_tot=89, sw_de=90, sw_oth=91, sw_named=92, sw_small=93, sw_us=94, sw_g=95, sw_acv=96, in_logo=98, in_exp=99, in_churn=100, in_doe_p=101, in_sw26=102,
-         cust_tk=104, cust_sw=105, cust_dt=106, cust_tot=107, in_tk_adds=108,
-         gm_svc=112, gm_sw=113, gm_blend=114, gm_svc_share=115, gm_cogs=116, gm_uplift=117,
-         br_hdr=119, chk_hdr=134)
-for r, (name, hist) in GEO.items():
-    label(rb, r, name, "$mm", bold=True)
-    label(rb, r + 1, "% Growth (YoY)", "%", italic=True); label(rb, r + 2, "% of Total Revenue", "%", italic=True)
-    for p in PER:
-        c = COL[p]; ref = f"{c}{r}"
-        if p in hist: put(rb, ref, hist[p], BLUE, bold=True, fmt=FMT_MM)
-        elif (r, p) in keep: put(rb, ref, keep[(r, p)], BLUE, bold=True, fmt=FMT_MM)
-        elif p == "FY2025A": put(rb, ref, f"=SUM({COL['1Q25A']}{r}:{COL['4Q25A']}{r})", bold=True, fmt=FMT_MM)
-        elif p == "FY2026E":
-            g2h = {8: R["in_2h_us"], 12: R["in_2h_de"], 16: R["in_2h_oth"]}[r]
-            put(rb, ref, f"={COL['1Q26A']}{r}+{COL['2Q26A']}{r}+({COL['3Q25A']}{r}+{COL['4Q25A']}{r})*(1+${COL['FY2026E']}${g2h})", bold=True, fmt=FMT_MM)
-        elif p == "FY2027E": put(rb, ref, {8: f"={c}{R['svc_us']}+{c}{R['sw_us']}", 12: f"={COL['FY2026E']}{r}*(1+{c}{r+1})", 16: f"={COL['FY2026E']}{r}*(1+{c}{r+1})"}[r], bold=True, fmt=FMT_MM)
-        elif p in ("FY2028E", "FY2029E", "FY2030E"): put(rb, ref, {8: f"={c}{R['svc_us']}+{c}{R['sw_us']}", 12: f"={COL[PREV[p]]}{r}*(1+{c}{r+1})", 16: f"={COL[PREV[p]]}{r}*(1+{c}{r+1})"}[r], bold=True, fmt=FMT_MM)
-        elif p in FADE: put(rb, ref, f"={COL[PREV[p]]}{r}*(1+{c}{r+1})", bold=True, fmt=FMT_MM)
-        elif p in QTR26:
-            g, h = COL["3Q25A"], COL["4Q25A"]; me = COL[p == "3Q26E" and "3Q25A" or "4Q25A"]
-            put(rb, ref, f"=({COL['FY2026E']}{r}-{COL['1Q26A']}{r}-{COL['2Q26A']}{r})*{me}{r}/({g}{r}+{h}{r})", bold=True, fmt=FMT_MM)
-        elif p in QTR27:
-            q = Q25[QTR27.index(p)]; put(rb, ref, f"={COL['FY2027E']}{r}*{COL[q]}{r}/{COL['FY2025A']}{r}", bold=True, fmt=FMT_MM)
-        # growth row
-        gref = f"{c}{r+1}"
-        if r == 8 and p in FADE: put(rb, gref, {"FY2031E": 0.08, "FY2032E": 0.07, "FY2033E": 0.06, "FY2034E": 0.05, "FY2035E": 0.05}[p], RED, italic=True, fmt=FMT_PCT)
-        elif r == 12 and p in ("FY2027E", "FY2028E", "FY2029E", "FY2030E") + tuple(FADE): put(rb, gref, {"FY2027E": -0.05, "FY2028E": 0.0, "FY2029E": 0.0, "FY2030E": 0.0}.get(p, 0.0), RED, italic=True, fmt=FMT_PCT)
-        elif r == 16 and p in ("FY2027E", "FY2028E", "FY2029E", "FY2030E") + tuple(FADE): put(rb, gref, {"FY2027E": 0.20, "FY2028E": 0.15, "FY2029E": 0.10, "FY2030E": 0.08}.get(p, 0.06), RED, italic=True, fmt=FMT_PCT)
-        elif p in ANN and p != "FY2023A": put(rb, gref, f"=IF({COL[PREV[p]]}{r}=0,0,{c}{r}/{COL[PREV[p]]}{r}-1)", italic=True, fmt=FMT_PCT)
-        elif p in ("1Q26A", "2Q26A", "3Q26E", "4Q26E"): put(rb, gref, f"=IF({COL[Q25[['1Q26A','2Q26A','3Q26E','4Q26E'].index(p)]]}{r}=0,0,{c}{r}/{COL[Q25[['1Q26A','2Q26A','3Q26E','4Q26E'].index(p)]]}{r}-1)", italic=True, fmt=FMT_PCT)
-        elif p in QTR27: put(rb, gref, f"=IF({COL[['1Q26A','2Q26A','3Q26E','4Q26E'][QTR27.index(p)]]}{r}=0,0,{c}{r}/{COL[['1Q26A','2Q26A','3Q26E','4Q26E'][QTR27.index(p)]]}{r}-1)", italic=True, fmt=FMT_PCT)
-        put(rb, f"{c}{r+2}", f"=IF({c}20=0,0,{c}{r}/{c}20)", italic=True, fmt=FMT_PCT)
-note(rb, 8, "FY2023A-FY2025A and quarters: 10-K FY2025 Note 'Revenue by geographic area' (p.101) and 10-Qs. FY2026E-FY2030E = US services engine + US software engine (rows below). 3Q/4Q26E split by 2025 3Q/4Q shares; 2027 quarters by 2025 quarterly shares. FY2031E+ fade inputs (red).")
-note(rb, 12, "Germany: Muva (Berlin, ~EUR10mm ViaVan operations contract) ended 2026-02-28; 2Q26 -12% YoY. Growth inputs red; services share of Germany set in the inputs block (default 75%: not disclosed).")
-note(rb, 16, "All other countries: +41% in 1H26 off a small base; growth inputs red; services share default 50% (not disclosed).")
-label(rb, 20, "Total Revenue", "$mm", bold=True); label(rb, 21, "% Growth (YoY)", "%", italic=True); label(rb, 22, "Check vs. Three Statements revenue (should be 0)", "$mm", italic=True, color=GREY)
-for p in PER:
-    c = COL[p]; put(rb, f"{c}20", f"={c}8+{c}12+{c}16", bold=True, fmt=FMT_MM)
-    if p in ANN and p != "FY2023A": put(rb, f"{c}21", f"=IF({COL[PREV[p]]}20=0,0,{c}20/{COL[PREV[p]]}20-1)", italic=True, fmt=FMT_PCT)
-    elif p in ("1Q26A", "2Q26A", "3Q26E", "4Q26E"): put(rb, f"{c}21", f"=IF({COL[Q25[['1Q26A','2Q26A','3Q26E','4Q26E'].index(p)]]}20=0,0,{c}20/{COL[Q25[['1Q26A','2Q26A','3Q26E','4Q26E'].index(p)]]}20-1)", italic=True, fmt=FMT_PCT)
-    elif p in QTR27: put(rb, f"{c}21", f"=IF({COL[['1Q26A','2Q26A','3Q26E','4Q26E'][QTR27.index(p)]]}20=0,0,{c}20/{COL[['1Q26A','2Q26A','3Q26E','4Q26E'][QTR27.index(p)]]}20-1)", italic=True, fmt=FMT_PCT)
-    put(rb, f"{c}22", f"=ROUND({c}20-{TS}!{c}7,3)", GREEN, italic=True, fmt=FMT_MM1)
-note(rb, 20, "Total = sum of geographies in every period (the earlier version grew the total off its own 26.7% input). Three Statements row 7 links here.")
+put(rb, "A1", "VIA, Revenue Projection Model: sum-of-the-parts build", bold=True, size=14)
+put(rb, "A2", "Revenue and gross profit by segment (services vs. software) feeding the income statement  |  $ in millions unless noted  |  quarterly columns are grouped (click + to expand)  |  rebuilt 2026-09-21", GREY, italic=True)
+put(rb, "A3", "Fiscal Year", bold=True, size=14); put(rb, "B3", "Historical", bold=True, size=14, align="left"); put(rb, f"{N_}3", "Projected", bold=True, size=14, align="center")
+put(rb, "B4", "Units", align="right", border_b=True)
+for p in PER: put(rb, f"{COL[p]}4", p, align="right", border_b=True)
+put(rb, "AB4", "Notes / sources", GREY, italic=True, border_b=True)
 
-# ---------- Section B: customer type memo and KPIs (rows 24-38; row 30 = customers, referenced by Summary) ----------
-label(rb, 24, "Revenue by Customer Type (memo)", bold=True)
-label(rb, 25, "Government / Public Sector", "$mm"); label(rb, 26, "Commercial", "$mm"); label(rb, 27, "Government % of Revenue", "%", italic=True)
+# ---------- 1. Revenue by segment ----------
+label(rb, R["seg_hdr"], "Revenue by Segment", bold=True, size=14)
+label(rb, R["svc"], "Services revenue (turnkey, hybrid and labor-only operations)", "$mm", bold=True)
+label(rb, R["svc_g"], "% Growth (YoY)", "%", italic=True); label(rb, R["svc_sh"], "% of Total Revenue", "%", italic=True)
+label(rb, R["sw"], "Software revenue (subscriptions, Remix, named accounts)", "$mm", bold=True)
+label(rb, R["sw_g"], "% Growth (YoY)", "%", italic=True); label(rb, R["sw_sh"], "% of Total Revenue", "%", italic=True)
+label(rb, R["tot"], "Total Revenue (feeds Three Statements row 7)", "$mm", bold=True)
+label(rb, R["tot_g"], "% Growth (YoY)", "%", italic=True); label(rb, R["tot_chk"], "Check vs. Three Statements revenue (should be 0)", "$mm", italic=True, color=GREY)
+label(rb, R["us"], "Memo: United States revenue (reported; FY2026E anchored to 1H26A)", "$mm", italic=True)
+label(rb, R["intl"], "Memo: International revenue, Germany + all other (reported)", "$mm", italic=True)
 for p in PER:
+    c = COL[p]; tot = R["tot"]
+    if p in HIST3:
+        put(rb, f"{c}{R['svc']}", f"={c}{R['a_svc']}", bold=True, fmt=FMT_MM1); put(rb, f"{c}{R['sw']}", f"={c}{R['a_sw']}", bold=True, fmt=FMT_MM1)
+    elif p in PROJ:
+        put(rb, f"{c}{R['svc']}", f"={c}{R['svc_tot']}", bold=True, fmt=FMT_MM1); put(rb, f"{c}{R['sw']}", f"={c}{R['sw_tot']}", bold=True, fmt=FMT_MM1)
+    # total revenue
+    if p in ("FY2023A", "FY2024A", "1Q25A", "2Q25A", "3Q25A", "4Q25A", "1Q26A", "2Q26A"): put(rb, f"{c}{tot}", keep[(20, p)], BLUE, bold=True, fmt=FMT_MM1)
+    elif p == "FY2025A": put(rb, f"{c}{tot}", f"=SUM({COL['1Q25A']}{tot}:{COL['4Q25A']}{tot})", bold=True, fmt=FMT_MM1)
+    elif p in QTR26:
+        me = COL["3Q25A" if p == "3Q26E" else "4Q25A"]
+        put(rb, f"{c}{tot}", f"=({N_}{tot}-{COL['1Q26A']}{tot}-{COL['2Q26A']}{tot})*{me}{tot}/({COL['3Q25A']}{tot}+{COL['4Q25A']}{tot})", bold=True, fmt=FMT_MM1)
+    elif p in QTR27: put(rb, f"{c}{tot}", f"={COL['FY2027E']}{tot}*{COL[Q25[QTR27.index(p)]]}{tot}/{COL['FY2025A']}{tot}", bold=True, fmt=FMT_MM1)
+    else: put(rb, f"{c}{tot}", f"={c}{R['svc']}+{c}{R['sw']}", bold=True, fmt=FMT_MM1)
+    put(rb, f"{c}{R['tot_chk']}", f"=ROUND({c}{tot}-{TS}!{c}7,3)", GREEN, italic=True, fmt=FMT_MM1)
+    # US memo
+    u = R["us"]
+    if p in ("FY2023A", "FY2024A", "1Q25A", "2Q25A", "3Q25A", "4Q25A", "1Q26A", "2Q26A"): put(rb, f"{c}{u}", keep[(8, p)], BLUE, italic=True, fmt=FMT_MM1)
+    elif p == "FY2025A": put(rb, f"{c}{u}", f"=SUM({COL['1Q25A']}{u}:{COL['4Q25A']}{u})", italic=True, fmt=FMT_MM1)
+    elif p == "FY2026E": put(rb, f"{c}{u}", f"={COL['1Q26A']}{u}+{COL['2Q26A']}{u}+({COL['3Q25A']}{u}+{COL['4Q25A']}{u})*(1+{IN('in_2h_us')})", italic=True, fmt=FMT_MM1)
+    elif p in PROJ: put(rb, f"{c}{u}", f"={c}{R['svc_us']}+{c}{R['sw_us']}", italic=True, fmt=FMT_MM1)
+    # International memo
+    i_ = R["intl"]
+    if p in ("FY2023A", "FY2024A", "1Q25A", "2Q25A", "3Q25A", "4Q25A", "1Q26A", "2Q26A"): put(rb, f"{c}{i_}", round(keep[(12, p)] + keep[(16, p)], 3), BLUE, italic=True, fmt=FMT_MM1)
+    elif p == "FY2025A": put(rb, f"{c}{i_}", f"=SUM({COL['1Q25A']}{i_}:{COL['4Q25A']}{i_})", italic=True, fmt=FMT_MM1)
+    elif p == "FY2026E": put(rb, f"{c}{i_}", f"={COL['1Q26A']}{i_}+{COL['2Q26A']}{i_}+({COL['3Q25A']}{i_}+{COL['4Q25A']}{i_})*(1+{IN('in_2h_intl')})", italic=True, fmt=FMT_MM1)
+    elif p in ENGP: put(rb, f"{c}{i_}", f"={COL[PREV[p]]}{i_}*(1+{c}{R['in_intl_g']})", italic=True, fmt=FMT_MM1)
+    elif p in FADE: put(rb, f"{c}{i_}", f"={c}{R['svc_intl']}+{c}{R['sw_intl']}", italic=True, fmt=FMT_MM1)
+growth(rb, R["svc_g"], R["svc"]); growth(rb, R["sw_g"], R["sw"]); growth(rb, R["tot_g"], R["tot"])
+for p in ("1Q26A", "2Q26A", "3Q26E", "4Q26E"): put(rb, f"{COL[p]}{R['tot_g']}", f"=IF({COL[Q25[['1Q26A','2Q26A','3Q26E','4Q26E'].index(p)]]}{R['tot']}=0,0,{COL[p]}{R['tot']}/{COL[Q25[['1Q26A','2Q26A','3Q26E','4Q26E'].index(p)]]}{R['tot']}-1)", italic=True, fmt=FMT_PCT)
+for p in QTR27: put(rb, f"{COL[p]}{R['tot_g']}", f"=IF({COL[['1Q26A','2Q26A','3Q26E','4Q26E'][QTR27.index(p)]]}{R['tot']}=0,0,{COL[p]}{R['tot']}/{COL[['1Q26A','2Q26A','3Q26E','4Q26E'][QTR27.index(p)]]}{R['tot']}-1)", italic=True, fmt=FMT_PCT)
+share(rb, R["svc_sh"], R["svc"], R["tot"]); share(rb, R["sw_sh"], R["sw"], R["tot"])
+note(rb, R["svc"], "FY2023A-FY2025A from the cost-of-revenue identity (appendix below): services revenue = loaded services cost / (1 - services GM). FY2026E+ from the services engine. Via does not report segments; this is the model's split.")
+note(rb, R["sw"], "Residual of total revenue less services. Grew ~+23% a year 2024-25; FY2026E carries a 20% anchored rate, then logos + expansion - churn.")
+note(rb, R["tot"], "Reported quarters and years in blue. 3Q26E/4Q26E = FY2026E less 1H26A, split by 2025's 3Q/4Q shares; 2027 quarters by 2025 quarterly shares (approximation, quarterly columns grouped).")
+note(rb, R["us"], "10-K Note 'Revenue by geographic area' and 10-Qs. 1H26 US +35.1% YoY. Kept as a memo because the FY2026E anchor and the undocumented-services plug are US figures.")
+note(rb, R["intl"], "Germany $83.5mm + all other $41.1mm in 2025. Muva (Berlin) ended 2026-02-28; Germany 2Q26 -12%, other countries 1H26 +41%. Blended 2H26 input default +5%.")
+
+# ---------- 2. Gross profit by segment ----------
+label(rb, R["gp_hdr"], "Gross Profit by Segment (feeds Three Statements cost of revenue)", bold=True, size=14)
+label(rb, R["gm_svc"], "Services gross margin (loaded basis)", "%")
+label(rb, R["gp_svc"], "Services gross profit", "$mm", bold=True)
+label(rb, R["gm_sw"], "Software gross margin (implied 2023A-2025A; held at FY2025A)", "%")
+label(rb, R["gp_sw"], "Software gross profit", "$mm", bold=True)
+label(rb, R["uplift"], "Non-recurring margin uplift (implementation fees), points of revenue", "%", italic=True)
+label(rb, R["gp_tot"], "Total gross profit", "$mm", bold=True)
+label(rb, R["gm_blend"], "Blended gross margin", "%", bold=True)
+label(rb, R["cogs"], "Cost of revenue as % of revenue (to Three Statements row 11)", "%", italic=True, color=GREY)
+for p in ANN:
     c = COL[p]
-    if (25, p) in keep: put(rb, f"{c}25", keep[(25, p)], BLUE, fmt=FMT_MM); put(rb, f"{c}26", keep[(26, p)], BLUE, fmt=FMT_MM); put(rb, f"{c}27", f"=IF({c}20=0,0,{c}25/{c}20)", italic=True, fmt=FMT_PCT)
-    elif p == "FY2025A": put(rb, f"{c}25", f"=SUM({COL['1Q25A']}25:{COL['4Q25A']}25)", fmt=FMT_MM); put(rb, f"{c}26", f"=SUM({COL['1Q25A']}26:{COL['4Q25A']}26)", fmt=FMT_MM); put(rb, f"{c}27", f"=IF({c}20=0,0,{c}25/{c}20)", italic=True, fmt=FMT_PCT)
-    elif p in ("FY2026E", "FY2027E"): put(rb, f"{c}25", f"=SUM({COL['1Q26A' if p=='FY2026E' else '1Q27E']}25:{COL['4Q26E' if p=='FY2026E' else '4Q27E']}25)", fmt=FMT_MM); put(rb, f"{c}26", f"=SUM({COL['1Q26A' if p=='FY2026E' else '1Q27E']}26:{COL['4Q26E' if p=='FY2026E' else '4Q27E']}26)", fmt=FMT_MM); put(rb, f"{c}27", f"=IF({c}20=0,0,{c}25/{c}20)", italic=True, fmt=FMT_PCT)
-    else: put(rb, f"{c}27", 0.935, RED, italic=True, fmt=FMT_PCT); put(rb, f"{c}25", f"={c}20*{c}27", fmt=FMT_MM); put(rb, f"{c}26", f"={c}20-{c}25", fmt=FMT_MM)
-note(rb, 26, "10-K/10-Q 'Revenue by customer type'. Commercial was $26.6mm / $26.6mm / $27.9mm in 2023-25: flat. The undocumented software base is therefore not a growing private-sector book.")
-label(rb, 29, "Key Performance Indicators", bold=True)
-label(rb, 30, "Customers (period-end, distinct legal entities generating Platform revenue)", "#", bold=True); label(rb, 31, "% Growth (YoY)", "%", italic=True)
-label(rb, 32, "Organic customers (ex-Downtowner's 94)", "#", italic=True); label(rb, 33, "Platform Annual Run-Rate Revenue (quarterly revenue x 4)", "$mm", italic=True)
-label(rb, 34, "Annualized Revenue per Average Customer", "$000", italic=True)
-label(rb, 36, "Platform Net Revenue Retention (as reported)", "%"); label(rb, 37, "Gross Revenue Retention (as reported)", "%"); label(rb, 38, "Remaining Performance Obligations", "$mm")
-Q26 = ["1Q26A", "2Q26A", "3Q26E", "4Q26E"]
-for p in PER:
-    c = COL[p]
-    if (30, p) in keep: put(rb, f"{c}30", keep[(30, p)], BLUE, bold=True, fmt=FMT_INT)
-    elif p in ("FY2026E", "FY2027E", "FY2028E", "FY2029E", "FY2030E"): put(rb, f"{c}30", f"=ROUND({c}{R['cust_tot']},0)", bold=True, fmt=FMT_INT)
-    elif p in FADE: put(rb, f"{c}30", f"=ROUND({COL[PREV[p]]}30*(1+{c}31),0)", bold=True, fmt=FMT_INT); put(rb, f"{c}31", 0.05, RED, italic=True, fmt=FMT_PCT)
-    elif p == "3Q26E": put(rb, f"{c}30", f"=ROUND({COL['2Q26A']}30+({COL['FY2026E']}30-{COL['2Q26A']}30)/2,0)", bold=True, fmt=FMT_INT)
-    elif p == "4Q26E": put(rb, f"{c}30", f"={COL['FY2026E']}30", bold=True, fmt=FMT_INT)
-    elif p in QTR27: k = QTR27.index(p) + 1; put(rb, f"{c}30", f"=ROUND({COL['FY2026E']}30+({COL['FY2027E']}30-{COL['FY2026E']}30)*{k}/4,0)", bold=True, fmt=FMT_INT)
-    if p not in FADE:
-        if p in ANN and p != "FY2023A": put(rb, f"{c}31", f"=IF({COL[PREV[p]]}30=0,0,{c}30/{COL[PREV[p]]}30-1)", italic=True, fmt=FMT_PCT)
-        elif p in Q26: put(rb, f"{c}31", f"=IF({COL[Q25[Q26.index(p)]]}30=0,0,{c}30/{COL[Q25[Q26.index(p)]]}30-1)", italic=True, fmt=FMT_PCT)
-        elif p in QTR27: put(rb, f"{c}31", f"=IF({COL[Q26[QTR27.index(p)]]}30=0,0,{c}30/{COL[Q26[QTR27.index(p)]]}30-1)", italic=True, fmt=FMT_PCT)
-    if p in ("FY2025A", "4Q25A") or p >= "1Q26A" and p not in ("FY2023A", "FY2024A"): pass
-    dtc = 94 if (p in ("4Q25A", "FY2025A") or PER.index(p) >= PER.index("1Q26A")) else 0
-    put(rb, f"{c}32", f"={c}30-{dtc}", italic=True, fmt=FMT_INT)
-    if p not in ANN: put(rb, f"{c}33", f"={c}20*4", italic=True, fmt=FMT_MM)
-    if p in ANN and p != "FY2023A": put(rb, f"{c}34", f"=IF(AVERAGE({COL[PREV[p]]}30,{c}30)=0,0,{c}20/AVERAGE({COL[PREV[p]]}30,{c}30)*1000)", italic=True, fmt=FMT_INT)
-    for r in (36, 37, 38):
-        if (r, p) in keep: put(rb, f"{c}{r}", keep[(r, p)], BLUE, fmt=FMT_PCT if r < 38 else FMT_MM1)
-note(rb, 30, "10-K/10-Q KPI: 665 (Dec-24), 689 (Jun-25), 821 (Dec-25, incl. 94 from Downtowner), 847 (Jun-26). Projections from the customer engine (turnkey + software + Downtowner) below; quarters interpolated.")
-note(rb, 32, "Organic growth 9.3% (Jun-26 vs Jun-25) is total-count growth. Operations customers (~15%-20% of the count) grew faster, so software net logo growth is ~6%-7%.")
-note(rb, 38, "RPO $294.4mm at Dec-25 (60% recognized in 2026, 27% in 2027); $318.3mm at Jun-26 (37% due in 2027).")
-label(rb, 40, "Guidance Check", bold=True)
-label(rb, 41, "Revenue Guidance - Low", "$mm"); label(rb, 42, "Revenue Guidance - High", "$mm"); label(rb, 43, "Model vs. Guidance Midpoint", "%", italic=True)
-for p in ("FY2026E",):
-    c = COL[p]; put(rb, f"{c}41", f"={SC}!{c}22", GREEN, italic=True, fmt=FMT_MM1); put(rb, f"{c}42", f"={SC}!{c}23", GREEN, italic=True, fmt=FMT_MM1)
-    put(rb, f"{c}43", f"=IF(AVERAGE({c}41,{c}42)=0,0,{c}20/AVERAGE({c}41,{c}42)-1)", italic=True, fmt=FMT_PCT)
-note(rb, 41, "8-K 2026-08-06: FY2026 revenue $550mm-$553mm; adjusted EBITDA $(12.5)mm-$(7.5)mm.")
+    if p in HIST3: put(rb, f"{c}{R['gm_svc']}", f"={IN('in_sgm')}", italic=True, fmt=FMT_PCT); put(rb, f"{c}{R['gm_sw']}", f"={c}{R['a_swgm']}", italic=True, fmt=FMT_PCT)
+    elif p == "FY2026E": put(rb, f"{c}{R['gm_svc']}", f"={IN('in_sgm')}", fmt=FMT_PCT); put(rb, f"{c}{R['gm_sw']}", f"=${COL['FY2025A']}${R['a_swgm']}", fmt=FMT_PCT)
+    elif p in ENGP: put(rb, f"{c}{R['gm_svc']}", f"={COL[PREV[p]]}{R['gm_svc']}+{c}{R['in_sgm_chg']}", fmt=FMT_PCT); put(rb, f"{c}{R['gm_sw']}", f"={COL[PREV[p]]}{R['gm_sw']}", fmt=FMT_PCT)
+    else: put(rb, f"{c}{R['gm_svc']}", f"={COL[PREV[p]]}{R['gm_svc']}", fmt=FMT_PCT); put(rb, f"{c}{R['gm_sw']}", f"={COL[PREV[p]]}{R['gm_sw']}", fmt=FMT_PCT)
+    put(rb, f"{c}{R['gp_svc']}", f"={c}{R['svc']}*{c}{R['gm_svc']}", bold=True, fmt=FMT_MM1)
+    put(rb, f"{c}{R['gp_sw']}", f"={c}{R['sw']}*{c}{R['gm_sw']}", bold=True, fmt=FMT_MM1)
+    if p in PROJ: put(rb, f"{c}{R['uplift']}", f"={c}{R['in_uplift']}", italic=True, fmt=FMT_PCT)
+    put(rb, f"{c}{R['gp_tot']}", f"={c}{R['gp_svc']}+{c}{R['gp_sw']}" + (f"+{c}{R['uplift']}*{c}{R['tot']}" if p in PROJ else ""), bold=True, fmt=FMT_MM1)
+    put(rb, f"{c}{R['gm_blend']}", f"=IF({c}{R['tot']}=0,0,{c}{R['gp_tot']}/{c}{R['tot']})", bold=True, fmt=FMT_PCT)
+    if p in PROJ: put(rb, f"{c}{R['cogs']}", f"=1-{c}{R['gm_blend']}", GREEN, italic=True, fmt=FMT_PCT)
+note(rb, R["gm_svc"], "Input (inputs block). Bleecker's 26%; identity band 20%-32%; drifts by the red annual change from FY2027E. Management: FY2024 and 1Q26 declines 'attributable to a revenue mix shift towards certain lower gross margin contracts'.")
+note(rb, R["gm_sw"], "Derived in the appendix (software cost = IT and other + software share of launch/support). Override by typing over the FY2026E cell.")
+note(rb, R["uplift"], "10-Q 2Q26: margin rose to 41% 'primarily attributable to a higher percentage of non-subscription revenue' (implementation fees ~5% of revenue vs ~2%). Worth 2-3 points while launches run hot; +2.0 pts FY2026E, +0.5 FY2027E, zero after.")
+note(rb, R["gm_blend"], "Historical years reproduce reported gross margin exactly (identity). Each 5-point mix shift toward services costs ~2.5 points of blended margin; the 50% long-term target needs software to be most of revenue.")
 
-# ---------- Section C: segment split (rows 45-58) ----------
-SP = dict(cost=46, other=47, loaded=48, gm=49, svc=50, sw=51, svc_sh=52, sw_sh=53, svc_g=54, sw_g=55, sw_cost=56, sw_gm=57, alloc=58, ls_share=59, chk=60)
-label(rb, 45, "Segment Split: services vs. software from the cost-of-revenue identity (annual)", bold=True, size=14)
-label(rb, SP["cost"], "Technology-enabled services cost (drivers, fleet, customer support)", "$mm")
-label(rb, SP["other"], "Other cost of revenue (launch/support personnel + IT and other) = total cost of revenue - services cost", "$mm")
-label(rb, SP["loaded"], "Loaded services cost = services cost + services share of launch/support personnel", "$mm")
-label(rb, SP["gm"], "Services gross margin, loaded basis (input; identity band 20%-32%)", "%", italic=True)
-label(rb, SP["svc"], "Services revenue = loaded services cost / (1 - services GM)", "$mm", bold=True)
-label(rb, SP["sw"], "Software revenue (residual = total - services)", "$mm", bold=True)
-label(rb, SP["svc_sh"], "Services % of revenue", "%", italic=True); label(rb, SP["sw_sh"], "Software % of revenue", "%", italic=True)
-label(rb, SP["svc_g"], "Services revenue growth", "%", italic=True); label(rb, SP["sw_g"], "Software revenue growth", "%", italic=True)
-label(rb, SP["sw_cost"], "Software cost of revenue = IT and other + software share of launch/support personnel", "$mm")
-label(rb, SP["sw_gm"], "Implied software gross margin", "%", italic=True)
-label(rb, SP["alloc"], "Launch/support personnel allocated to software (input)", "%", italic=True)
-label(rb, SP["ls_share"], "Launch/support personnel as a share of other cost of revenue (FY2025: $25.8mm of $39.1mm)", "%", italic=True)
-label(rb, SP["chk"], "Check: services GP + software GP - reported gross profit (should be 0)", "$mm", italic=True, color=GREY)
-SVC_COST = {"FY2023A": 117.5, "FY2024A": 167.7, "FY2025A": 223.5}
-A_, LS_ = f"${COL['FY2025A']}${SP['alloc']}", f"${COL['FY2025A']}${SP['ls_share']}"
-for p in ("FY2023A", "FY2024A", "FY2025A"):
-    c = COL[p]; put(rb, f"{c}{SP['cost']}", SVC_COST[p], BLUE, fmt=FMT_MM1)
-    put(rb, f"{c}{SP['other']}", f"={TS}!{c}10-{c}{SP['cost']}", GREEN, italic=True, fmt=FMT_MM1)
-    put(rb, f"{c}{SP['loaded']}", f"={c}{SP['cost']}+(1-{A_})*{LS_}*{c}{SP['other']}", fmt=FMT_MM1)
-    put(rb, f"{c}{SP['gm']}", f"=${COL['FY2026E']}${R['in_sgm']}", italic=True, fmt=FMT_PCT)
-    put(rb, f"{c}{SP['svc']}", f"={c}{SP['loaded']}/(1-{c}{SP['gm']})", bold=True, fmt=FMT_MM1); put(rb, f"{c}{SP['sw']}", f"={c}20-{c}{SP['svc']}", bold=True, fmt=FMT_MM1)
-    put(rb, f"{c}{SP['svc_sh']}", f"={c}{SP['svc']}/{c}20", italic=True, fmt=FMT_PCT); put(rb, f"{c}{SP['sw_sh']}", f"={c}{SP['sw']}/{c}20", italic=True, fmt=FMT_PCT)
-    if p != "FY2023A": put(rb, f"{c}{SP['svc_g']}", f"={c}{SP['svc']}/{COL[PREV[p]]}{SP['svc']}-1", italic=True, fmt=FMT_PCT); put(rb, f"{c}{SP['sw_g']}", f"={c}{SP['sw']}/{COL[PREV[p]]}{SP['sw']}-1", italic=True, fmt=FMT_PCT)
-    put(rb, f"{c}{SP['sw_cost']}", f"={c}{SP['other']}-({c}{SP['loaded']}-{c}{SP['cost']})", fmt=FMT_MM1)
-    put(rb, f"{c}{SP['sw_gm']}", f"=1-{c}{SP['sw_cost']}/{c}{SP['sw']}", italic=True, fmt=FMT_PCT)
-    put(rb, f"{c}{SP['chk']}", f"=ROUND(({c}{SP['svc']}-{c}{SP['loaded']})+({c}{SP['sw']}-{c}{SP['sw_cost']})-({TS}!{c}7-{TS}!{c}10),3)", GREEN, italic=True, fmt=FMT_MM1)
-c = COL["FY2025A"]
-put(rb, f"{c}{SP['alloc']}", 0.5, RED, italic=True, fmt=FMT_PCT); put(rb, f"{c}{SP['ls_share']}", 25.8 / 39.1, BLUE, italic=True, fmt=FMT_PCT)
-note(rb, SP["cost"], "10-K FY2025 MD&A: cost of revenue $262.5mm = $223.5mm technology-enabled services + $25.8mm launch and support personnel + $13.3mm IT and other. 2024 and 2023 from the MD&A change sentences (+$55.8mm; +$50.2mm). 1H26 est. $137.5mm (10-Q deltas +$18.0mm 1Q, +$13.6mm 2Q on a pro-rated 1H25).")
-note(rb, SP["other"], "Other cost of revenue was $31.9mm / $39.1mm / $39.0mm in 2023-25: flat, so software cost of revenue is not growing with software revenue.")
-note(rb, SP["gm"], "Loaded basis (Bleecker's 26% is on this basis; on technology-enabled services cost alone the same split is ~30%). Default 26%: it is the value at which the documented US operations book (NTD $96.8mm + census-priced contracts) fits inside the split with a positive undocumented plug. Cases 22% / 30%.")
-note(rb, SP["svc"], "The split ties to reported totals by construction; its implications (services share, implied software GM, implied ACV, the US plug) are what the checks test.")
-note(rb, SP["sw_gm"], "Should land 70%-80%. Corner cases fail: all launch/support on software at 80% GM implies services at 6% margin.")
-
-# ---------- Section D: services engine (rows 62-73) + inputs (75-85) ----------
-label(rb, 62, "Services Engine (annual; contract-level detail on 'Contract Layer (KW)')", bold=True, size=14)
-label(rb, 63, "United States", bold=True)
-label(rb, R["svc_hard"], "Documented contracts: NTD-paid + census-priced (57 rows incl. signed 2025-26 wins), after haircut, hazards and expiries", "$mm")
-label(rb, R["svc_new"], "Unsigned new wins (vehicle-equivalent vintages, ramped)", "$mm")
+# ---------- 3. Services engine ----------
+label(rb, R["se_hdr"], "Services Engine (contract-level detail on 'Contract Layer (KW)')", bold=True, size=14)
+label(rb, R["svc_hard"], "US documented contracts (26 NTD-paid + 33 census-priced; Contract Layer)", "$mm")
+label(rb, R["svc_new"], "US unsigned new wins (vehicle-equivalent vintages x $153k, ramped)", "$mm")
 label(rb, R["svc_dt"], "Downtowner (acquired 2025-12-12; revenue undisclosed)", "$mm")
-label(rb, R["svc_plug"], "Undocumented and unpriced US services (plug = US services from the split - documented, then grown)", "$mm")
+label(rb, R["svc_plug"], "US undocumented and unpriced services (plug; by subtraction to FY2026E)", "$mm")
 label(rb, R["svc_us"], "US services revenue", "$mm", bold=True)
-label(rb, R["svc_de"], "Germany services (= Germany revenue x services share)", "$mm")
-label(rb, R["svc_oth"], "Other international services (= other revenue x services share)", "$mm")
-label(rb, R["svc_tot"], "Total services revenue (engine)", "$mm", bold=True)
-label(rb, R["svc_us_split"], "Memo: US services implied by the split (services revenue - international services)", "$mm", italic=True)
-label(rb, R["memo_imputed"], "Memo: imputed value of 22 documented-but-unpriced US operators ($0.9mm each) + app-only agencies (30% x $0.8mm x 108) - a floor for the plug", "$mm", italic=True)
-CLY = {"FY2024A": "S", "FY2025A": "T", "FY2026E": "U", "FY2027E": "V", "FY2028E": "W", "FY2029E": "X", "FY2030E": "Y"}   # Contract Layer year columns
-CL_TOT_HARD = 6 + len(contracts) + 2   # Contract Layer: contracts start row 6, totals two rows after the last contract
-CL_TOT_NEW = CL_TOT_HARD + 33           # inputs (+4), hazard table (+10), vintages (+12), total (+7); asserted below
+label(rb, R["svc_intl"], "International services (= international revenue x services share)", "$mm")
+label(rb, R["svc_tot"], "Total services revenue", "$mm", bold=True)
+label(rb, R["memo_split"], "Memo: US services implied by the identity (less international services)", "$mm", italic=True, color=GREY)
+label(rb, R["memo_imp"], "Memo: imputed floor for the plug (unpriced operators + app-only agencies)", "$mm", italic=True, color=GREY)
 for p in ENG:
-    c = COL[p]; y = CLY[p]
+    c = COL[p]; y = CLY[p]; pc = COL[PREV[p]]
     put(rb, f"{c}{R['svc_hard']}", f"={CL}!{y}{CL_TOT_HARD}", GREEN, italic=True, fmt=FMT_MM1)
     put(rb, f"{c}{R['svc_new']}", f"={CL}!{y}{CL_TOT_NEW}", GREEN, italic=True, fmt=FMT_MM1)
     if p == "FY2024A": put(rb, f"{c}{R['svc_dt']}", 0, fmt=FMT_MM1)
-    elif p == "FY2025A": put(rb, f"{c}{R['svc_dt']}", f"={COL['FY2026E']}{R['in_dt26']}*19/365", fmt=FMT_MM1)
-    elif p == "FY2026E": put(rb, f"{c}{R['svc_dt']}", f"={c}{R['in_dt26']}", fmt=FMT_MM1)
-    else: put(rb, f"{c}{R['svc_dt']}", f"={COL[PREV[p]]}{R['svc_dt']}*(1+${COL['FY2026E']}${R['in_dt_g']})", fmt=FMT_MM1)
-    if p in ("FY2024A", "FY2025A"): put(rb, f"{c}{R['svc_plug']}", f"={c}{R['svc_us_split']}-{c}{R['svc_hard']}-{c}{R['svc_dt']}", fmt=FMT_MM1)
+    elif p == "FY2025A": put(rb, f"{c}{R['svc_dt']}", f"={IN('in_dt26')}*19/365", fmt=FMT_MM1)
+    elif p == "FY2026E": put(rb, f"{c}{R['svc_dt']}", f"={IN('in_dt26')}", fmt=FMT_MM1)
+    else: put(rb, f"{c}{R['svc_dt']}", f"={pc}{R['svc_dt']}*(1+{IN('in_dt_g')})", fmt=FMT_MM1)
+    if p in ("FY2024A", "FY2025A"): put(rb, f"{c}{R['svc_plug']}", f"={c}{R['memo_split']}-{c}{R['svc_hard']}-{c}{R['svc_dt']}", fmt=FMT_MM1)
     elif p == "FY2026E": put(rb, f"{c}{R['svc_plug']}", f"={c}{R['svc_us']}-{c}{R['svc_hard']}-{c}{R['svc_new']}-{c}{R['svc_dt']}", fmt=FMT_MM1)
-    else: put(rb, f"{c}{R['svc_plug']}", f"={COL[PREV[p]]}{R['svc_plug']}*(1+{c}{R['in_plug_g']})", fmt=FMT_MM1)
-    if p == "FY2026E": put(rb, f"{c}{R['svc_us']}", f"={c}8-{c}{R['sw_us']}", bold=True, fmt=FMT_MM1)
+    else: put(rb, f"{c}{R['svc_plug']}", f"={pc}{R['svc_plug']}*(1+{c}{R['in_plug_g']})", fmt=FMT_MM1)
+    if p == "FY2026E": put(rb, f"{c}{R['svc_us']}", f"={c}{R['us']}-{c}{R['sw_us']}", bold=True, fmt=FMT_MM1)
     else: put(rb, f"{c}{R['svc_us']}", f"={c}{R['svc_hard']}+{c}{R['svc_new']}+{c}{R['svc_dt']}+{c}{R['svc_plug']}", bold=True, fmt=FMT_MM1)
-    put(rb, f"{c}{R['svc_de']}", f"={c}12*${COL['FY2026E']}${R['in_de_share']}", fmt=FMT_MM1)
-    put(rb, f"{c}{R['svc_oth']}", f"={c}16*${COL['FY2026E']}${R['in_oth_share']}", fmt=FMT_MM1)
-    put(rb, f"{c}{R['svc_tot']}", f"={c}{R['svc_us']}+{c}{R['svc_de']}+{c}{R['svc_oth']}", bold=True, fmt=FMT_MM1)
-    if p in ("FY2024A", "FY2025A"): put(rb, f"{c}{R['svc_us_split']}", f"={c}{SP['svc']}-{c}{R['svc_de']}-{c}{R['svc_oth']}", italic=True, fmt=FMT_MM1)
-put(rb, f"{COL['FY2024A']}{R['memo_imputed']}", 19.8 + 25.9, BLUE, italic=True, fmt=FMT_MM1); put(rb, f"{COL['FY2025A']}{R['memo_imputed']}", 19.8 + 25.9, BLUE, italic=True, fmt=FMT_MM1)
+    put(rb, f"{c}{R['svc_intl']}", f"={c}{R['intl']}*{IN('in_intl_share')}", fmt=FMT_MM1)
+    put(rb, f"{c}{R['svc_tot']}", f"={c}{R['svc_us']}+{c}{R['svc_intl']}", bold=True, fmt=FMT_MM1)
+    if p in ("FY2024A", "FY2025A"): put(rb, f"{c}{R['memo_split']}", f"={c}{R['a_svc']}-{c}{R['svc_intl']}", italic=True, fmt=FMT_MM1); put(rb, f"{c}{R['memo_imp']}", 45.7, BLUE, italic=True, fmt=FMT_MM1)
 for p in FADE:
     c = COL[p]; pc = COL[PREV[p]]
-    for r in (R["svc_hard"], R["svc_new"], R["svc_dt"], R["svc_plug"]): put(rb, f"{c}{r}", f"={pc}{r}*(1+{c}9)", fmt=FMT_MM1)
-    put(rb, f"{c}{R['svc_us']}", f"={c}{R['svc_hard']}+{c}{R['svc_new']}+{c}{R['svc_dt']}+{c}{R['svc_plug']}", bold=True, fmt=FMT_MM1)
-    put(rb, f"{c}{R['svc_de']}", f"={c}12*${COL['FY2026E']}${R['in_de_share']}", fmt=FMT_MM1); put(rb, f"{c}{R['svc_oth']}", f"={c}16*${COL['FY2026E']}${R['in_oth_share']}", fmt=FMT_MM1)
-    put(rb, f"{c}{R['svc_tot']}", f"={c}{R['svc_us']}+{c}{R['svc_de']}+{c}{R['svc_oth']}", bold=True, fmt=FMT_MM1)
-note(rb, R["svc_hard"], "26 NTD-paid agencies (actual RY2024 payments, agency fiscal years) + 31 census-priced contracts (ceiling or rate x 0.8 haircut) + Sunnyvale and Highland Park (flagged assumptions). Each row carries start, end, escalator, funding tag, hazards and renewal probability.")
-note(rb, R["svc_new"], "Vintages of unsigned wins in vehicle-equivalents x $153k revenue per contracted vehicle-year (NTD RY2024: $96.8mm / 632 vehicles), 50% ramp in the first year, turnkey hazards after. Signed 2026 contracts (Rochester, Plano, Addison, Grand County, Sunnyvale) are in the documented layer, so the 2026 vintage is small.")
-note(rb, R["svc_dt"], "10-K: Downtowner purchase 2025-12-12, 94 customers, pro forma 'not material'. Revenue undisclosed; $15mm-$35mm range, default $25mm.")
-note(rb, R["svc_plug"], "2024A/2025A by subtraction (US services from the split less documented contracts and Downtowner); FY2026E by subtraction from the anchored US total less US software. A negative plug means the documented book exceeds what the split allows (raise services GM or lower international services shares). FY2027E+ grown at red inputs.")
-note(rb, R["memo_imputed"], "From out/us_revenue_build.csv layers 3-4 (documented turnkey agencies with no price: BJCTA 0.59, Worcester 0.61, Norman 0.70, Valdosta 0.86 per NTD -> $0.9mm median). If the plug is below this, the split is too small.")
-label(rb, 75, "Services engine inputs", bold=True)
-INP = [(R["in_sgm"], "Services gross margin, loaded basis (base; 22% / 26% / 30% cases)", 0.26, FMT_PCT, "Loaded basis = services cost plus the services share of launch/support personnel. Bleecker: 26%. Identity band 20%-32% at software GM 70%-80%. Reconciles the documented US operations book with a positive plug (see checks)."),
-       (R["in_de_share"], "Germany: services share of revenue", 0.75, FMT_PCT, "Not disclosed. Muva was a ViaVan operations contract; other German deployments run with operator partners. Bear/bull: 100% / 50%."),
-       (R["in_oth_share"], "Other international: services share of revenue", 0.50, FMT_PCT, "Not disclosed."),
-       (R["in_dt26"], "Downtowner FY2026E revenue ($mm)", 25.0, FMT_MM1, "Range $15mm-$35mm (10-K: not material pro forma; 94 customers, resort-town shuttles)."),
-       (R["in_dt_g"], "Downtowner growth after 2026", 0.04, FMT_PCT, "Escalators only."),
-       (R["in_plug_g"], "Undocumented US services growth (FY2027E+ inputs; FY2026E by subtraction from the anchored US total)", None, FMT_PCT, "The plug grew +27% in 2025 and faster in 2026 (it holds 2026 wins that are documented but unpriced: Citilink Fort Wayne paratransit, TCATA, Highland Park). Base decays 20% / 15% / 12% / 10%; bear 10% flat; bull 25%."),
-       ]
-for r, text, val, fmt, nt in INP:
-    label(rb, r, text, "", italic=True)
-    if val is not None: put(rb, f"{COL['FY2026E']}{r}", val, RED, italic=True, fmt=fmt)
-    note(rb, r, nt)
-for p, v in zip(("FY2027E", "FY2028E", "FY2029E", "FY2030E"), (0.20, 0.15, 0.12, 0.10)): put(rb, f"{COL[p]}{R['in_plug_g']}", v, RED, italic=True, fmt=FMT_PCT)
-put(rb, f"{COL['FY2026E']}{R['in_plug_g']}", "by subtraction", GREY, italic=True, align="right")
-for r, text, val, nt in [(R["in_2h_us"], "2H26 YoY revenue growth, United States (FY2026E = 1H26A + 2H25A x (1 + this))", 0.35, "1H26 US grew +35.1% YoY (+35% incl. Downtowner from 2025-12-12). Holding that rate for 2H26 lands FY2026E at the guidance midpoint; the differentiated view starts in 2027."),
-                         (R["in_2h_de"], "2H26 YoY revenue growth, Germany", -0.12, "2Q26 -12% YoY after Muva ended 2026-02-28."),
-                         (R["in_2h_oth"], "2H26 YoY revenue growth, all other countries", 0.35, "1H26 +41% off a small base.")]:
-    label(rb, r, text, "", italic=True); put(rb, f"{COL['FY2026E']}{r}", val, RED, italic=True, fmt=FMT_PCT); note(rb, r, nt)
-label(rb, R["in_us_fade"], "Germany and other-international growth FY2027E+: rows 13 and 17 (red). US growth FY2031E-FY2035E: row 9 (red); services and software fade at the same rate.", "", italic=True, color=GREY)
+    put(rb, f"{c}{R['svc_us']}", f"={pc}{R['svc_us']}*(1+{c}{R['in_fade_svc']})", bold=True, fmt=FMT_MM1)
+    put(rb, f"{c}{R['svc_intl']}", f"={pc}{R['svc_intl']}*(1+{c}{R['in_fade_svc']})", fmt=FMT_MM1)
+    put(rb, f"{c}{R['svc_tot']}", f"={c}{R['svc_us']}+{c}{R['svc_intl']}", bold=True, fmt=FMT_MM1)
+note(rb, R["svc_hard"], "Actual NTD RY2024 payments (agency fiscal years) and census ceilings x 0.8 haircut. Each row carries start, end, escalator (4%), volume expansion (5%/4%/3%/3% from 2027), funding tag, hazards and renewal probability. Signed 2025-26 wins (Mobile, Rochester, Plano, Sunnyvale, Addison, Grand County) are rows here.")
+note(rb, R["svc_new"], "Vintages 50 / 150 / 100 / 100 / 100 vehicle-equivalents (2026-30) x $153k revenue per contracted vehicle-year (NTD RY2024: $96.8mm / 632 vehicles), 50% first-year ramp. 2026 signings ran +200 to +300 vehicle-equivalents.")
+note(rb, R["svc_dt"], "10-K: 94 customers, pro forma 'not material'. Range $15mm-$35mm; default $25mm.")
+note(rb, R["svc_plug"], "Holds what documents cannot price: agencies below approval thresholds, app-only deployments, and 2026 wins with no stated price (Citilink Fort Wayne paratransit, TCATA, Highland Park). Grew +27% in 2025 and faster in 2026; base decays 20% / 15% / 12% / 10%.")
+note(rb, R["svc_tot"], "FY2031E+ fade at the services growth inputs (contract detail ends 2030).")
 
-# ---------- Section E: software engine (rows 87-101) ----------
-label(rb, 87, "Software Engine (annual)", bold=True, size=14)
-label(rb, R["sw_tot"], "Total software revenue (2023A-2025A from the split; projections from the engine)", "$mm", bold=True)
-label(rb, R["sw_de"], "Germany software (= Germany revenue x (1 - services share))", "$mm")
-label(rb, R["sw_oth"], "Other international software", "$mm")
-label(rb, R["sw_named"], "US named large accounts: NYC DOE ($36mm / 5 yrs = $7.2mm, 2019-2024 base term; renewal probability applies from 2030)", "$mm")
-label(rb, R["sw_small"], "US small-subscription base (residual): grows at (1 + net logo growth) x (1 + expansion) x (1 - competitive churn)", "$mm")
+# ---------- 4. Software engine ----------
+label(rb, R["sw_hdr"], "Software Engine", bold=True, size=14)
+label(rb, R["sw_named"], "US named account: NYC DOE ($7.2mm/yr; renewal probability from FY2030E)", "$mm")
+label(rb, R["sw_small"], "US small-subscription base (residual; logos, expansion, churn from FY2027E)", "$mm")
 label(rb, R["sw_us"], "US software revenue", "$mm", bold=True)
-label(rb, R["sw_g"], "Total software growth", "%", italic=True)
-label(rb, R["sw_acv"], "Memo: implied average ACV of the US small-subscription base per software customer ($000; documented median $43k)", "$000", italic=True)
-for p in ANN:
-    c = COL[p]
-    if p == "FY2023A": put(rb, f"{c}{R['sw_tot']}", f"={c}{SP['sw']}", bold=True, fmt=FMT_MM1); continue
-    put(rb, f"{c}{R['sw_de']}", f"={c}12*(1-${COL['FY2026E']}${R['in_de_share']})", fmt=FMT_MM1)
-    put(rb, f"{c}{R['sw_oth']}", f"={c}16*(1-${COL['FY2026E']}${R['in_oth_share']})", fmt=FMT_MM1)
-    if p in ("FY2024A", "FY2025A"):
-        put(rb, f"{c}{R['sw_named']}", 7.2, BLUE, fmt=FMT_MM1)
-        put(rb, f"{c}{R['sw_small']}", f"={c}{SP['sw']}-{c}{R['sw_de']}-{c}{R['sw_oth']}-{c}{R['sw_named']}", fmt=FMT_MM1)
-        put(rb, f"{c}{R['sw_tot']}", f"={c}{SP['sw']}", bold=True, fmt=FMT_MM1)
-    else:
-        pc = COL[PREV[p]]
-        put(rb, f"{c}{R['sw_named']}", f"={pc}{R['sw_named']}*IF({c}$4=\"FY2030E\",${COL['FY2026E']}${R['in_doe_p']},1)" if p in ENG else f"={pc}{R['sw_named']}", fmt=FMT_MM1)
-        if p == "FY2026E": put(rb, f"{c}{R['sw_small']}", f"={pc}{R['sw_small']}*(1+${COL['FY2026E']}${R['in_sw26']})", fmt=FMT_MM1)
-        elif p in ENG: put(rb, f"{c}{R['sw_small']}", f"={pc}{R['sw_small']}*(1+${COL['FY2026E']}${R['in_logo']})*(1+${COL['FY2026E']}${R['in_exp']})*(1-${COL['FY2026E']}${R['in_churn']})", fmt=FMT_MM1)
-        else: put(rb, f"{c}{R['sw_small']}", f"={pc}{R['sw_small']}*(1+{c}9)", fmt=FMT_MM1)
-        put(rb, f"{c}{R['sw_tot']}", f"={c}{R['sw_us']}+{c}{R['sw_de']}+{c}{R['sw_oth']}", bold=True, fmt=FMT_MM1)
-    put(rb, f"{c}{R['sw_us']}", f"={c}{R['sw_named']}+{c}{R['sw_small']}", bold=True, fmt=FMT_MM1)
-    put(rb, f"{c}{R['sw_g']}", f"=IF({COL[PREV[p]]}{R['sw_tot']}=0,0,{c}{R['sw_tot']}/{COL[PREV[p]]}{R['sw_tot']}-1)", italic=True, fmt=FMT_PCT)
-    if p in ENG and p != "FY2024A": put(rb, f"{c}{R['sw_acv']}", f"=IF({c}{R['cust_sw']}=0,0,{c}{R['sw_small']}/{c}{R['cust_sw']}*1000)", italic=True, fmt=FMT_INT)
-note(rb, R["sw_named"], "Census: NYC DOE $36mm five-year software contract (2019-08). Other documented software accounts are all under $1mm (Miami-Dade $0.32mm, El Paso $0.25mm, MTA Maryland $0.22mm) and sit in the residual.")
-note(rb, R["sw_small"], "Residual software grew about +21% / +17% (2024 / 2025 at the default split). Net logo growth is 6%-7% (customer count ex-Downtowner and ex-turnkey), so 10-14 points of history were expansion or large accounts; the engine carries expansion explicitly (red).")
-note(rb, R["sw_acv"], "Denominator = organic customers less turnkey customers (row below), which still includes international software customers, so the true US ACV is higher than shown. A figure far above the $43k documented median means the software residual is too large (services GM too low).")
-label(rb, 97, "Software engine inputs", bold=True)
-for r, text, val, nt in [(R["in_logo"], "Net software logo growth", 0.06, "Customer count grew 9.3% organically; operations customers (~15%-20% of count) grew ~15%-20%, leaving ~6%-7% for software. Bull 9%."),
-                         (R["in_exp"], "Expansion at existing software accounts (price, seats, modules)", 0.07, "Historic residual growth less logos = 10-14 pts; carry 7% base, 3% bear, 9% bull."),
-                         (R["in_churn"], "Competitive churn (Spare, RideCo displacements)", 0.035, "6-7 documented displacements since 2024 out of ~70 documented software relationships = 3%-4% a year."),
-                         (R["in_doe_p"], "NYC DOE renewal probability at the 2030 re-bid", 0.70, "Judgment; the contract is the single largest software account."),
-                         (R["in_sw26"], "US small-subscription software growth, FY2026E (anchored year)", 0.20, "The software residual grew +23% in 2025 and about the same in 1H26; the engine's decelerated rate (logos + expansion - churn) applies from FY2027E.")]:
-    label(rb, r, text, "", italic=True); put(rb, f"{COL['FY2026E']}{r}", val, RED, italic=True, fmt=FMT_PCT); note(rb, r, nt)
-
-# ---------- Section F: customers (rows 103-108) ----------
-label(rb, 103, "Customer Engine (annual, period-end)", bold=True, size=14)
-label(rb, R["cust_tk"], "Operations (turnkey/hybrid) customers, organic", "#"); label(rb, R["cust_sw"], "Software customers, organic (= organic total - operations)", "#")
-label(rb, R["cust_dt"], "Downtowner customers", "#"); label(rb, R["cust_tot"], "Total customers (feeds row 30)", "#", bold=True)
-label(rb, R["in_tk_adds"], "Net new operations customers per year (input)", "#", italic=True)
+label(rb, R["sw_intl"], "International software (= international revenue x (1 - services share))", "$mm")
+label(rb, R["sw_tot"], "Total software revenue", "$mm", bold=True)
+label(rb, R["sw_acv"], "Memo: implied ACV of the US small base per software customer ($000)", "$000", italic=True, color=GREY)
+put(rb, f"{COL['FY2023A']}{R['sw_tot']}", f"={COL['FY2023A']}{R['a_sw']}", bold=True, fmt=FMT_MM1)
 for p in ENG:
+    c = COL[p]; pc = COL[PREV[p]]
+    if p in ("FY2024A", "FY2025A"): put(rb, f"{c}{R['sw_named']}", 7.2, BLUE, fmt=FMT_MM1)
+    elif p == "FY2030E": put(rb, f"{c}{R['sw_named']}", f"={pc}{R['sw_named']}*{IN('in_doe')}", fmt=FMT_MM1)
+    else: put(rb, f"{c}{R['sw_named']}", f"={pc}{R['sw_named']}", fmt=FMT_MM1)
+    put(rb, f"{c}{R['sw_intl']}", f"={c}{R['intl']}*(1-{IN('in_intl_share')})", fmt=FMT_MM1)
+    if p in ("FY2024A", "FY2025A"): put(rb, f"{c}{R['sw_small']}", f"={c}{R['a_sw']}-{c}{R['sw_intl']}-{c}{R['sw_named']}", fmt=FMT_MM1)
+    elif p == "FY2026E": put(rb, f"{c}{R['sw_small']}", f"={pc}{R['sw_small']}*(1+{IN('in_sw26')})", fmt=FMT_MM1)
+    else: put(rb, f"{c}{R['sw_small']}", f"={pc}{R['sw_small']}*(1+{IN('in_logo')})*(1+{IN('in_exp')})*(1-{IN('in_churn')})", fmt=FMT_MM1)
+    put(rb, f"{c}{R['sw_us']}", f"={c}{R['sw_named']}+{c}{R['sw_small']}", bold=True, fmt=FMT_MM1)
+    put(rb, f"{c}{R['sw_tot']}", f"={c}{R['sw_us']}+{c}{R['sw_intl']}", bold=True, fmt=FMT_MM1)
+    if p != "FY2024A": put(rb, f"{c}{R['sw_acv']}", f"=IF({c}{R['cust_sw']}=0,0,{c}{R['sw_small']}/{c}{R['cust_sw']}*1000)", italic=True, fmt=FMT_INT)
+for p in FADE:
+    c = COL[p]; pc = COL[PREV[p]]
+    put(rb, f"{c}{R['sw_named']}", f"={pc}{R['sw_named']}", fmt=FMT_MM1)
+    put(rb, f"{c}{R['sw_small']}", f"={pc}{R['sw_small']}*(1+{c}{R['in_fade_sw']})", fmt=FMT_MM1)
+    put(rb, f"{c}{R['sw_us']}", f"={c}{R['sw_named']}+{c}{R['sw_small']}", bold=True, fmt=FMT_MM1)
+    put(rb, f"{c}{R['sw_intl']}", f"={pc}{R['sw_intl']}*(1+{c}{R['in_fade_sw']})", fmt=FMT_MM1)
+    put(rb, f"{c}{R['sw_tot']}", f"={c}{R['sw_us']}+{c}{R['sw_intl']}", bold=True, fmt=FMT_MM1)
+note(rb, R["sw_named"], "Census: five-year $36mm NYC DOE contract (2019-08). All other documented software accounts are under $1mm a year (Miami-Dade $0.32mm, El Paso $0.25mm, MTA Maryland $0.22mm) and sit in the residual.")
+note(rb, R["sw_small"], "Net logo growth 6% (customer count ex-Downtowner grew 9.3%, operations customers faster), expansion 7%, churn 3.5% (6-7 Spare/RideCo displacements out of ~70 documented software relationships).")
+note(rb, R["sw_acv"], "Denominator = organic customers less operations customers (still includes international software customers, so the true US ACV is higher). Far above $43k means the software residual is too large, i.e. services GM too low.")
+
+# ---------- 5. Customers ----------
+label(rb, R["cu_hdr"], "Customers (period-end; distinct legal entities with Platform revenue)", bold=True, size=14)
+label(rb, R["cust_tk"], "Operations (turnkey/hybrid) customers, organic", "#"); label(rb, R["cust_sw"], "Software customers, organic (= organic total - operations)", "#")
+label(rb, R["cust_dt"], "Downtowner customers", "#"); label(rb, R["cust_tot"], "Total customers (feeds Summary)", "#", bold=True)
+label(rb, R["cust_g"], "% Growth (YoY)", "%", italic=True); label(rb, R["cust_org"], "Organic customers (ex-Downtowner's 94)", "#", italic=True)
+label(rb, R["rpo"], "Remaining performance obligations (reported)", "$mm"); label(rb, R["nrr"], "Platform net revenue retention (reported)", "%"); label(rb, R["grr"], "Gross revenue retention (reported)", "%")
+for p in PER:
     c = COL[p]
-    if p == "FY2024A": put(rb, f"{c}{R['cust_tk']}", 105, RED, italic=True, fmt=FMT_INT); put(rb, f"{c}{R['cust_sw']}", f"={c}32-{c}{R['cust_tk']}", fmt=FMT_INT); put(rb, f"{c}{R['cust_dt']}", 0, fmt=FMT_INT)
-    elif p == "FY2025A": put(rb, f"{c}{R['cust_tk']}", 120, RED, italic=True, fmt=FMT_INT); put(rb, f"{c}{R['cust_sw']}", f"={c}32-{c}{R['cust_tk']}", fmt=FMT_INT); put(rb, f"{c}{R['cust_dt']}", 94, BLUE, fmt=FMT_INT)
-    else:
+    if (30, p) in keep: put(rb, f"{c}{R['cust_tot']}", keep[(30, p)], BLUE, bold=True, fmt=FMT_INT)
+    if p in ("FY2024A", "FY2025A"):
+        put(rb, f"{c}{R['cust_tk']}", f"={c}{R['in_tk_base']}", fmt=FMT_INT)
+        put(rb, f"{c}{R['cust_sw']}", f"={c}{R['cust_org']}-{c}{R['cust_tk']}", fmt=FMT_INT); put(rb, f"{c}{R['cust_dt']}", 94 if p == "FY2025A" else 0, BLUE if p == "FY2025A" else BLACK, fmt=FMT_INT)
+    elif p in ENGP:
         pc = COL[PREV[p]]
-        put(rb, f"{c}{R['cust_tk']}", f"={pc}{R['cust_tk']}+{c}{R['in_tk_adds']}", fmt=FMT_INT); put(rb, f"{c}{R['in_tk_adds']}", 15, RED, italic=True, fmt=FMT_INT)
-        put(rb, f"{c}{R['cust_sw']}", f"={pc}{R['cust_sw']}*(1+${COL['FY2026E']}${R['in_logo']}-${COL['FY2026E']}${R['in_churn']})", fmt=FMT_INT)
-        put(rb, f"{c}{R['cust_dt']}", f"={pc}{R['cust_dt']}", fmt=FMT_INT)
-    put(rb, f"{c}{R['cust_tot']}", f"={c}{R['cust_tk']}+{c}{R['cust_sw']}+{c}{R['cust_dt']}", bold=True, fmt=FMT_INT)
-note(rb, R["cust_tk"], "Census: 78 US agencies ever turnkey/hybrid + 26 NTD-paid (overlapping) + a share of 62 app-only agencies + international operations customers: ~105 (2024), ~120 (2025). Assumption.")
+        put(rb, f"{c}{R['cust_tk']}", f"={pc}{R['cust_tk']}+{IN('in_tk_adds')}", fmt=FMT_INT)
+        put(rb, f"{c}{R['cust_sw']}", f"={pc}{R['cust_sw']}*(1+{IN('in_logo')}-{IN('in_churn')})", fmt=FMT_INT); put(rb, f"{c}{R['cust_dt']}", f"={pc}{R['cust_dt']}", fmt=FMT_INT)
+        put(rb, f"{c}{R['cust_tot']}", f"=ROUND({c}{R['cust_tk']}+{c}{R['cust_sw']}+{c}{R['cust_dt']},0)", bold=True, fmt=FMT_INT)
+    elif p in FADE: put(rb, f"{c}{R['cust_tot']}", f"=ROUND({COL[PREV[p]]}{R['cust_tot']}*(1+{IN('in_logo')}-{IN('in_churn')}),0)", bold=True, fmt=FMT_INT)
+    if p in ANN:
+        dtc = 94 if p >= "FY2025A" and p != "FY2023A" and p != "FY2024A" else 0
+        put(rb, f"{c}{R['cust_org']}", f"={c}{R['cust_tot']}-{dtc}", italic=True, fmt=FMT_INT)
+    for r_, k_ in ((R["rpo"], 38), (R["nrr"], 36), (R["grr"], 37)):
+        if (k_, p) in keep: put(rb, f"{c}{r_}", keep[(k_, p)], BLUE, fmt=FMT_MM1 if k_ == 38 else FMT_PCT)
+growth(rb, R["cust_g"], R["cust_tot"])
+note(rb, R["cust_tot"], "10-K/10-Q KPI: 665 (Dec-24), 689 (Jun-25), 821 (Dec-25, incl. 94 from Downtowner), 847 (Jun-26). Organic growth 9.3%.")
+note(rb, R["cust_tk"], "Census: 78 US agencies ever turnkey/hybrid, 26 NTD-paid (overlapping), a share of 62 app-only agencies, plus international operations customers: ~105 (2024), ~120 (2025); inputs.")
+note(rb, R["rpo"], "RPO $294.4mm at Dec-25 (60% recognized in 2026, 27% in 2027); $318.3mm at Jun-26 (37% due in 2027).")
 
-# ---------- Section G: margin bridge (rows 110-116) ----------
-label(rb, 110, "Margin Bridge (blended gross margin from segment mix; feeds Three Statements cost of revenue)", bold=True, size=14)
-label(rb, R["gm_svc"], "Services gross margin", "%"); label(rb, R["gm_sw"], "Software gross margin", "%")
-label(rb, R["gm_blend"], "Blended gross margin (engine)", "%", bold=True); label(rb, R["gm_svc_share"], "Services share of revenue (engine)", "%", italic=True)
-label(rb, R["gm_cogs"], "Cost of revenue % of revenue -> Three Statements row 11 (projected periods)", "%", italic=True, color=GREY)
-GM_PATH = {"FY2026E": None, "FY2027E": -0.005, "FY2028E": -0.005, "FY2029E": -0.005, "FY2030E": -0.005}
-for p in ANN:
+# ---------- 6. Inputs ----------
+label(rb, R["in_hdr"], "Inputs (red): single values in the FY2026E column; by-year inputs under their year", bold=True, size=14)
+INPUTS = [
+    ("in_sgm", "Services gross margin, loaded basis (22% / 26% / 30% cases)", {"FY2026E": 0.26}, FMT_PCT, "26% is the value at which the documented US operations book (NTD $96.8mm + priced contracts) fits inside the split with a positive undocumented plug; Bleecker's figure; identity band 20%-32%."),
+    ("in_sgm_chg", "Annual change in services gross margin (wage inflation vs escalators)", {p: -0.005 for p in ("FY2027E", "FY2028E", "FY2029E", "FY2030E")}, FMT_PCT, "Base -0.5 pt a year; bear -1.0; bull 0."),
+    ("in_uplift", "Non-recurring margin uplift (implementation fees), points of revenue", {"FY2026E": 0.02, "FY2027E": 0.005, **{p: 0.0 for p in ("FY2028E", "FY2029E", "FY2030E") + tuple(FADE)}}, FMT_PCT, "2Q26 non-subscription revenue ~5% of revenue vs ~2% run-rate."),
+    ("in_intl_share", "International revenue: services share", {"FY2026E": 0.67}, FMT_PCT, "Not disclosed. Germany (Muva was a ViaVan operations contract) ~75% services, other countries ~50%: blended 67%. Bear 85% / bull 50%."),
+    ("in_2h_us", "2H26 YoY growth, United States", {"FY2026E": 0.35}, FMT_PCT, "1H26 US +35.1% YoY. Holding the rate lands FY2026E on the guidance midpoint; the differentiated view starts in 2027."),
+    ("in_2h_intl", "2H26 YoY growth, International", {"FY2026E": 0.05}, FMT_PCT, "Germany 2Q26 -12% (Muva ended), other countries +41%: blend ~+5%."),
+    ("in_intl_g", "International revenue growth, by year", {"FY2027E": 0.06, "FY2028E": 0.07, "FY2029E": 0.05, "FY2030E": 0.04}, FMT_PCT, "Germany -5% then flat; other countries +20% / +15% / +10% / +8%: blended."),
+    ("in_plug_g", "US undocumented services growth, by year (FY2026E by subtraction)", {"FY2027E": 0.20, "FY2028E": 0.15, "FY2029E": 0.12, "FY2030E": 0.10}, FMT_PCT, "Grew +27% in 2025; decays. Bear 10% flat; bull 25%."),
+    ("in_dt26", "Downtowner FY2026E revenue ($mm)", {"FY2026E": 25.0}, FMT_MM1, "Range $15mm-$35mm (10-K: not material pro forma; 94 resort-town customers)."),
+    ("in_dt_g", "Downtowner growth after FY2026E", {"FY2026E": 0.04}, FMT_PCT, "Escalators only."),
+    ("in_sw26", "US small-subscription software growth, FY2026E (anchored year)", {"FY2026E": 0.20}, FMT_PCT, "Residual software grew ~+23% in 2025 and about the same in 1H26."),
+    ("in_logo", "Net software logo growth (FY2027E+)", {"FY2026E": 0.06}, FMT_PCT, "Customer count ex-Downtowner +9.3%; operations customers (~15%-20% of count) grew ~15%-20%, leaving ~6%-7% for software. Bull 9%."),
+    ("in_exp", "Expansion at existing software accounts (FY2027E+)", {"FY2026E": 0.07}, FMT_PCT, "Historic residual growth less logos = 10-14 pts; base 7%, bear 3%, bull 9%."),
+    ("in_churn", "Competitive software churn (Spare, RideCo)", {"FY2026E": 0.035}, FMT_PCT, "6-7 displacements since 2024 out of ~70 documented software relationships."),
+    ("in_doe", "NYC DOE renewal probability at the FY2030E re-bid", {"FY2026E": 0.70}, "0.00", "Judgment; single largest software account."),
+    ("in_tk_adds", "Net new operations customers per year", {"FY2026E": 15}, FMT_INT, "2025-26 pace: Mobile, TCATA, Rochester, Plano, Addison, Highland Park, Grand County, Sunnyvale, Citilink."),
+    ("in_tk_base", "Operations customers, FY2024A and FY2025A (under their year)", {"FY2024A": 105, "FY2025A": 120}, FMT_INT, "Census + NTD count; assumption."),
+    ("in_fade_svc", "Services revenue growth FY2031E-FY2035E (under their year)", {"FY2031E": 0.08, "FY2032E": 0.07, "FY2033E": 0.06, "FY2034E": 0.05, "FY2035E": 0.05}, FMT_PCT, "Contract detail ends 2030; fade to GDP-plus."),
+    ("in_fade_sw", "Software revenue growth FY2031E-FY2035E (under their year)", {"FY2031E": 0.08, "FY2032E": 0.07, "FY2033E": 0.06, "FY2034E": 0.05, "FY2035E": 0.05}, FMT_PCT, "Same fade as services by default."),
+    ("in_alloc", "Launch/support personnel allocated to software (identity)", {"FY2026E": 0.50}, FMT_PCT, "Half of the $25.8mm launch and support cost sits with software; the identity table in growth_model_design.md section 9 shows the corners.")]
+for key, text, vals, fmt, nt in INPUTS:
+    label(rb, R[key], text, "", italic=True)
+    for p, v in vals.items(): put(rb, f"{COL[p]}{R[key]}", v, RED, italic=True, fmt=fmt)
+    note(rb, R[key], nt)
+
+# ---------- 7. Guidance ----------
+label(rb, R["gd_hdr"], "Guidance Check (FY2026E)", bold=True)
+label(rb, R["gd_low"], "Revenue guidance - low", "$mm"); label(rb, R["gd_high"], "Revenue guidance - high", "$mm"); label(rb, R["gd_vs"], "Model vs. guidance midpoint", "%", italic=True)
+put(rb, f"{N_}{R['gd_low']}", f"={SC}!{N_}22", GREEN, italic=True, fmt=FMT_MM1); put(rb, f"{N_}{R['gd_high']}", f"={SC}!{N_}23", GREEN, italic=True, fmt=FMT_MM1)
+put(rb, f"{N_}{R['gd_vs']}", f"=IF(AVERAGE({N_}{R['gd_low']},{N_}{R['gd_high']})=0,0,{N_}{R['tot']}/AVERAGE({N_}{R['gd_low']},{N_}{R['gd_high']})-1)", italic=True, fmt=FMT_PCT)
+note(rb, R["gd_low"], "8-K 2026-08-06: FY2026 revenue $550mm-$553mm; adjusted EBITDA $(12.5)mm-$(7.5)mm.")
+
+# ---------- 8. Appendix: historical split ----------
+label(rb, R["ap_hdr"], "Appendix: historical segment split from the cost-of-revenue identity", bold=True, size=14)
+label(rb, R["a_cost"], "Technology-enabled services cost (drivers, fleet, customer support)", "$mm")
+label(rb, R["a_other"], "Other cost of revenue (launch/support + IT) = total COGS - services cost", "$mm")
+label(rb, R["a_ls"], "Launch/support share of other cost of revenue (FY2025: 25.8 of 39.1)", "%", italic=True)
+label(rb, R["a_loaded"], "Loaded services cost = services cost + services share of launch/support", "$mm")
+label(rb, R["a_svc"], "Services revenue = loaded services cost / (1 - services GM)", "$mm", bold=True)
+label(rb, R["a_sw"], "Software revenue = total revenue - services revenue", "$mm", bold=True)
+label(rb, R["a_swcost"], "Software cost of revenue = other COGS - launch/support kept in services", "$mm")
+label(rb, R["a_swgm"], "Implied software gross margin", "%", italic=True)
+label(rb, R["a_chk"], "Check: services GP + software GP - reported gross profit (= 0)", "$mm", italic=True, color=GREY)
+SVC_COST = {"FY2023A": 117.5, "FY2024A": 167.7, "FY2025A": 223.5}
+LS_ = f"${COL['FY2025A']}${R['a_ls']}"
+put(rb, f"{COL['FY2025A']}{R['a_ls']}", 25.8 / 39.1, BLUE, italic=True, fmt=FMT_PCT)
+for p in HIST3:
     c = COL[p]
-    if p in ("FY2023A", "FY2024A", "FY2025A"):
-        put(rb, f"{c}{R['gm_svc']}", f"={c}{SP['gm']}", italic=True, fmt=FMT_PCT)
-        put(rb, f"{c}{R['gm_sw']}", f"={c}{SP['sw_gm']}", italic=True, fmt=FMT_PCT)
-    elif p == "FY2026E": put(rb, f"{c}{R['gm_svc']}", f"=${COL['FY2026E']}${R['in_sgm']}", fmt=FMT_PCT); put(rb, f"{c}{R['gm_sw']}", f"=${COL['FY2025A']}${SP['sw_gm']}", fmt=FMT_PCT)
-    elif p in ENG: put(rb, f"{c}{R['gm_svc']}", f"={COL[PREV[p]]}{R['gm_svc']}+{c}{R['gm_svc']+6}", fmt=FMT_PCT); put(rb, f"{c}{R['gm_sw']}", f"={COL[PREV[p]]}{R['gm_sw']}", fmt=FMT_PCT)
-    else: put(rb, f"{c}{R['gm_svc']}", f"={COL[PREV[p]]}{R['gm_svc']}", fmt=FMT_PCT); put(rb, f"{c}{R['gm_sw']}", f"={COL[PREV[p]]}{R['gm_sw']}", fmt=FMT_PCT)
-    svc = f"{c}{R['svc_tot']}" if p != "FY2023A" else f"{c}{SP['svc']}"; sw = f"{c}{R['sw_tot']}"
-    put(rb, f"{c}{R['gm_blend']}", f"=IF({c}20=0,0,({svc}*{c}{R['gm_svc']}+{sw}*{c}{R['gm_sw']})/{c}20)+{c}{R['gm_uplift']}", bold=True, fmt=FMT_PCT)
-    if p in ("FY2026E", "FY2027E"): put(rb, f"{c}{R['gm_uplift']}", {"FY2026E": 0.02, "FY2027E": 0.005}[p], RED, italic=True, fmt=FMT_PCT)
-    elif p not in ("FY2023A", "FY2024A", "FY2025A"): put(rb, f"{c}{R['gm_uplift']}", 0.0, RED, italic=True, fmt=FMT_PCT)
-    put(rb, f"{c}{R['gm_svc_share']}", f"=IF({c}20=0,0,{svc}/{c}20)", italic=True, fmt=FMT_PCT)
-    put(rb, f"{c}{R['gm_cogs']}", f"=1-{c}{R['gm_blend']}", italic=True, fmt=FMT_PCT)
-label(rb, R["gm_uplift"], "Non-recurring margin uplift: implementation fees above the ~2%-of-revenue run-rate (input, fades)", "%", italic=True)
-note(rb, R["gm_uplift"], "10-Q 2Q26: gross margin rose to 41% 'primarily attributable to a higher percentage of non-subscription revenue' (implementation fees ~5% of revenue vs ~2% normally). At ~90% margin that is worth ~2-3 points while launches run hot; carried +2.0 pts in FY2026E, +0.5 in FY2027E, zero after.")
-label(rb, R["gm_svc"] + 6, "Annual change in services gross margin (input; driver wage inflation and self-insured incident costs vs 3%-4% escalators)", "", italic=True)
-for p, v in GM_PATH.items():
-    if v is not None: put(rb, f"{COL[p]}{R['gm_svc']+6}", v, RED, italic=True, fmt=FMT_PCT)
-note(rb, R["gm_svc"], "2023A-2025A = the split's input; FY2026E = input; then drifts by the red annual change. Management: FY2024 and 1Q26 margin declines were 'attributable to a revenue mix shift towards certain lower gross margin contracts'; 2Q26's rise came from non-subscription (implementation) fees.")
-note(rb, R["gm_sw"], "Default = implied 2025 software GM from the identity at the launch/support allocation in row 55.")
-note(rb, R["gm_blend"], "Each 5-point mix shift toward services costs ~2.3 points of blended margin at these segment margins. 50% long-term target requires software to be most of revenue.")
+    put(rb, f"{c}{R['a_cost']}", SVC_COST[p], BLUE, fmt=FMT_MM1)
+    put(rb, f"{c}{R['a_other']}", f"={TS}!{c}10-{c}{R['a_cost']}", GREEN, italic=True, fmt=FMT_MM1)
+    put(rb, f"{c}{R['a_loaded']}", f"={c}{R['a_cost']}+(1-{IN('in_alloc')})*{LS_}*{c}{R['a_other']}", fmt=FMT_MM1)
+    put(rb, f"{c}{R['a_svc']}", f"={c}{R['a_loaded']}/(1-{IN('in_sgm')})", bold=True, fmt=FMT_MM1)
+    put(rb, f"{c}{R['a_sw']}", f"={c}{R['tot']}-{c}{R['a_svc']}", bold=True, fmt=FMT_MM1)
+    put(rb, f"{c}{R['a_swcost']}", f"={c}{R['a_other']}-({c}{R['a_loaded']}-{c}{R['a_cost']})", fmt=FMT_MM1)
+    put(rb, f"{c}{R['a_swgm']}", f"=1-{c}{R['a_swcost']}/{c}{R['a_sw']}", italic=True, fmt=FMT_PCT)
+    put(rb, f"{c}{R['a_chk']}", f"=ROUND(({c}{R['a_svc']}-{c}{R['a_loaded']})+({c}{R['a_sw']}-{c}{R['a_swcost']})-({TS}!{c}7-{TS}!{c}10),3)", GREEN, italic=True, fmt=FMT_MM1)
+note(rb, R["a_cost"], "10-K FY2025 MD&A: cost of revenue $262.5mm = $223.5mm technology-enabled services + $25.8mm launch and support personnel + $13.3mm IT and other; 2024 and 2023 from the MD&A change sentences (+$55.8mm; +$50.2mm).")
+note(rb, R["a_other"], "Was $31.9mm / $39.1mm / $39.0mm in 2023-25: flat, so software cost of revenue is not growing with software revenue.")
+note(rb, R["a_swgm"], "Should land 70%-80%. Corner cases fail: all launch/support on software at 80% GM would imply services at 6% margin.")
 
-# ---------- Section H: growth bridge (rows 119-131) ----------
-label(rb, R["br_hdr"], "Growth Bridge (annual change in revenue, $mm, by driver)", bold=True, size=14)
-BR = [("Total revenue change", lambda c, pc: f"={c}20-{pc}20", True),
-      ("Documented contracts (annualization of signed wins, escalators, expansions, expiries, churn)", lambda c, pc: f"={c}{R['svc_hard']}-{pc}{R['svc_hard']}", False),
-      ("Unsigned new wins", lambda c, pc: f"={c}{R['svc_new']}-{pc}{R['svc_new']}", False),
-      ("Undocumented US services", lambda c, pc: f"={c}{R['svc_plug']}-{pc}{R['svc_plug']}", False),
-      ("Downtowner (acquisition)", lambda c, pc: f"={c}{R['svc_dt']}-{pc}{R['svc_dt']}", False),
-      ("Germany (total)", lambda c, pc: f"={c}12-{pc}12", False),
-      ("Other international (total)", lambda c, pc: f"={c}16-{pc}16", False),
-      ("US software", lambda c, pc: f"={c}{R['sw_us']}-{pc}{R['sw_us']}", False),
-      ("Check: components - total (should be 0)", lambda c, pc: f"=ROUND(SUM({c}{R['br_hdr']+2}:{c}{R['br_hdr']+8})-{c}{R['br_hdr']+1},3)", False),
-      ("Share of growth from acquisition + unsigned new wins", lambda c, pc: f"=IF({c}{R['br_hdr']+1}=0,0,({c}{R['br_hdr']+3}+{c}{R['br_hdr']+5})/{c}{R['br_hdr']+1})", False),
-      ("Organic growth ex-Downtowner", lambda c, pc: f"=IF({pc}20=0,0,({c}20-{c}{R['svc_dt']}+{pc}{R['svc_dt']})/{pc}20-1)", False)]
-for i, (text, f, bold) in enumerate(BR):
-    r = R["br_hdr"] + 1 + i; label(rb, r, text, "$mm" if i < 9 else "%", bold=bold, italic=(i >= 8), color=GREY if i == 8 else BLACK)
+# ---------- 9. Growth bridge ----------
+label(rb, R["br_hdr"], "Growth Bridge (annual change in revenue by driver, $mm)", bold=True, size=14)
+BR = [("Total revenue change", lambda c, pc: f"={c}{R['tot']}-{pc}{R['tot']}", True, FMT_MM1),
+      ("US documented contracts (signed wins, escalators, expansion, expiries)", lambda c, pc: f"={c}{R['svc_hard']}-{pc}{R['svc_hard']}", False, FMT_MM1),
+      ("US unsigned new wins", lambda c, pc: f"={c}{R['svc_new']}-{pc}{R['svc_new']}", False, FMT_MM1),
+      ("US undocumented services", lambda c, pc: f"={c}{R['svc_plug']}-{pc}{R['svc_plug']}", False, FMT_MM1),
+      ("Downtowner (acquisition)", lambda c, pc: f"={c}{R['svc_dt']}-{pc}{R['svc_dt']}", False, FMT_MM1),
+      ("International (services + software)", lambda c, pc: f"={c}{R['intl']}-{pc}{R['intl']}", False, FMT_MM1),
+      ("US software", lambda c, pc: f"={c}{R['sw_us']}-{pc}{R['sw_us']}", False, FMT_MM1),
+      ("Check: components - total (should be 0)", lambda c, pc: f"=ROUND(SUM({c}{R['br_hdr']+2}:{c}{R['br_hdr']+7})-{c}{R['br_hdr']+1},3)", False, FMT_MM1),
+      ("Share of growth from acquisition + unsigned new wins", lambda c, pc: f"=IF({c}{R['br_hdr']+1}=0,0,({c}{R['br_hdr']+3}+{c}{R['br_hdr']+5})/{c}{R['br_hdr']+1})", False, FMT_PCT),
+      ("Organic growth ex-Downtowner", lambda c, pc: f"=IF({pc}{R['tot']}=0,0,({c}{R['tot']}-{c}{R['svc_dt']}+{pc}{R['svc_dt']})/{pc}{R['tot']}-1)", False, FMT_PCT)]
+for i, (text, f, bold, fmt) in enumerate(BR):
+    r = R["br_hdr"] + 1 + i; label(rb, r, text, "$mm" if fmt == FMT_MM1 else "%", bold=bold, italic=(i >= 7), color=GREY if i == 7 else BLACK)
     for p in ("FY2025A", "FY2026E", "FY2027E", "FY2028E", "FY2029E", "FY2030E"):
-        c, pc = COL[p], COL[PREV[p]]; put(rb, f"{c}{r}", f(c, pc), GREEN if i == 8 else BLACK, bold=bold, italic=(i >= 8), fmt=FMT_PCT if i >= 9 else FMT_MM1)
-note(rb, R["br_hdr"] + 1, "FY2025A components use the engine's 2024A/2025A rows (documented layer actuals and the by-subtraction plug), so the 2025 bridge shows how much of reported growth the documented book explains.")
+        c, pc = COL[p], COL[PREV[p]]; put(rb, f"{c}{r}", f(c, pc), GREEN if i == 7 else BLACK, bold=bold, italic=(i >= 7), fmt=fmt)
+note(rb, R["br_hdr"] + 1, "FY2025A components use the engine's 2024A/2025A rows, so the 2025 bridge shows how much of reported growth the documented book explains.")
+R_ORG = R["br_hdr"] + 10; R_BRCHK = R["br_hdr"] + 8
 
-# ---------- Section I: checks (rows 134-150) ----------
+# ---------- 10. Checks ----------
 label(rb, R["chk_hdr"], "Checks (PASS / FAIL)", bold=True, size=14)
-c26, c27, c25, c24 = COL["FY2026E"], COL["FY2027E"], COL["FY2025A"], COL["FY2024A"]
-CHK = [("Geography sums equal reported revenue, FY2023A-FY2025A and 1H26A", f"=IF(AND(ROUND({COL['FY2023A']}22,1)=0,ROUND({c24}22,1)=0,ROUND({c25}22,1)=0,ROUND({COL['1Q26A']}22,1)=0,ROUND({COL['2Q26A']}22,1)=0),\"PASS\",\"FAIL\")"),
-       ("Segment split reconciles to reported gross profit (check row = 0)", f"=IF(ABS({c25}{SP['chk']})<0.5,\"PASS\",\"FAIL\")"),
-       ("Services gross margin input inside the identity band 20%-32%", f"=IF(AND({c26}{R['in_sgm']}>=0.20,{c26}{R['in_sgm']}<=0.32),\"PASS\",\"FAIL\")"),
-       ("Implied software gross margin within 70%-85%", f"=IF(AND({c25}{SP['sw_gm']}>=0.70,{c25}{SP['sw_gm']}<=0.85),\"PASS\",\"FAIL\")"),
-       ("Undocumented US services plug is positive in 2024A and 2025A", f"=IF(AND({c24}{R['svc_plug']}>0,{c25}{R['svc_plug']}>0),\"PASS\",\"FAIL\")"),
-       ("Plug covers at least half the imputed value of unpriced and app-only agencies (2025A)", f"=IF({c25}{R['svc_plug']}>=0.5*{c25}{R['memo_imputed']},\"PASS\",\"FAIL\")"),
-       ("FY2026E revenue inside guidance $550mm-$553mm", f"=IF(AND({c26}20>={c26}41,{c26}20<={c26}42),\"PASS\",\"FAIL\")"),
-       ("FY2026E organic growth ex-Downtowner within 19%-24%", f"=IF(AND({c26}{R['br_hdr']+11}>=0.19,{c26}{R['br_hdr']+11}<=0.24),\"PASS\",\"FAIL\")"),
-       ("FY2027E services revenue at least covers RPO due in 2027 ($318.3mm x 37% = $117.8mm)", f"=IF({c27}{R['svc_tot']}>=318.3*0.37,\"PASS\",\"FAIL\")"),
-       ("FY2026E blended gross margin within 39%-42%", f"=IF(AND({c26}{R['gm_blend']}>=0.39,{c26}{R['gm_blend']}<=0.42),\"PASS\",\"FAIL\")"),
-       ("FY2026E adjusted EBITDA (Three Statements) within $3mm of guidance $(12.5)mm-$(7.5)mm", f"=IF(AND({TS}!{c26}52>=-15.5,{TS}!{c26}52<=-4.5),\"PASS\",\"FAIL\")"),
-       ("Implied US software ACV below 3x the documented $43k median", f"=IF({c25}{R['sw_acv']}<129,\"PASS\",\"FAIL\")"),
-       ("Growth bridge components sum to the total change (all years)", f"=IF(SUMPRODUCT(ABS({c25}{R['br_hdr']+9}:{COL['FY2030E']}{R['br_hdr']+9}))<0.01,\"PASS\",\"FAIL\")")]
+c25, c24, c27 = COL["FY2025A"], COL["FY2024A"], COL["FY2027E"]
+CHK = [("Total revenue equals reported revenue, FY2023A-FY2025A and 1H26A", f"=IF(AND(ROUND({COL['FY2023A']}{R['tot_chk']},1)=0,ROUND({c24}{R['tot_chk']},1)=0,ROUND({c25}{R['tot_chk']},1)=0,ROUND({COL['1Q26A']}{R['tot_chk']},1)=0,ROUND({COL['2Q26A']}{R['tot_chk']},1)=0),\"PASS\",\"FAIL\")"),
+       ("Segment split reconciles to reported gross profit (appendix check = 0)", f"=IF(ABS({c25}{R['a_chk']})<0.5,\"PASS\",\"FAIL\")"),
+       ("Services gross margin input inside the identity band 20%-32%", f"=IF(AND({N_}{R['in_sgm']}>=0.20,{N_}{R['in_sgm']}<=0.32),\"PASS\",\"FAIL\")"),
+       ("Implied software gross margin (FY2025A) within 70%-85%", f"=IF(AND({c25}{R['a_swgm']}>=0.70,{c25}{R['a_swgm']}<=0.85),\"PASS\",\"FAIL\")"),
+       ("Undocumented services plug positive (FY2024A-FY2026E)", f"=IF(AND({c24}{R['svc_plug']}>0,{c25}{R['svc_plug']}>0,{N_}{R['svc_plug']}>0),\"PASS\",\"FAIL\")"),
+       ("Plug covers at least half the imputed floor (FY2025A)", f"=IF({c25}{R['svc_plug']}>=0.5*{c25}{R['memo_imp']},\"PASS\",\"FAIL\")"),
+       ("FY2026E revenue inside guidance $550mm-$553mm", f"=IF(AND({N_}{R['tot']}>={N_}{R['gd_low']},{N_}{R['tot']}<={N_}{R['gd_high']}),\"PASS\",\"FAIL\")"),
+       ("FY2026E organic growth ex-Downtowner within 19%-24%", f"=IF(AND({N_}{R_ORG}>=0.19,{N_}{R_ORG}<=0.24),\"PASS\",\"FAIL\")"),
+       ("FY2027E services revenue covers RPO due in 2027 ($117.8mm)", f"=IF({c27}{R['svc_tot']}>=318.3*0.37,\"PASS\",\"FAIL\")"),
+       ("FY2026E blended gross margin within 39%-42%", f"=IF(AND({N_}{R['gm_blend']}>=0.39,{N_}{R['gm_blend']}<=0.42),\"PASS\",\"FAIL\")"),
+       ("FY2026E adj. EBITDA within $3mm of guidance $(12.5)mm-$(7.5)mm", f"=IF(AND({TS}!{N_}52>=-15.5,{TS}!{N_}52<=-4.5),\"PASS\",\"FAIL\")"),
+       ("Implied US software ACV below 3x the documented $43k median (FY2025A)", f"=IF({c25}{R['sw_acv']}<129,\"PASS\",\"FAIL\")"),
+       ("Growth bridge components sum to the total change (all years)", f"=IF(SUMPRODUCT(ABS({c25}{R_BRCHK}:{COL['FY2030E']}{R_BRCHK}))<0.01,\"PASS\",\"FAIL\")")]
 for i, (text, f) in enumerate(CHK):
-    r = R["chk_hdr"] + 1 + i; label(rb, r, text, "", italic=True); put(rb, f"{c26}{r}", f, GREEN, italic=True, align="right")
+    r = R["chk_hdr"] + 1 + i; label(rb, r, text, "", italic=True); put(rb, f"{N_}{r}", f, GREEN, italic=True, align="right")
 r_flag = R["chk_hdr"] + 1 + len(CHK)
 label(rb, r_flag, "All checks", "", bold=True)
-put(rb, f"{c26}{r_flag}", f"=IF(COUNTIF({c26}{R['chk_hdr']+1}:{c26}{r_flag-1},\"FAIL\")=0,\"ALL PASS\",COUNTIF({c26}{R['chk_hdr']+1}:{c26}{r_flag-1},\"FAIL\")&\" FAIL\")", GREEN, bold=True, align="right")
-note(rb, R["chk_hdr"] + 4, "This is the reconciliation between the census/NTD book and the filings. It fails when the services GM input is too low for the documented US operations revenue.")
-note(rb, R["chk_hdr"] + 11, "Adjusted EBITDA flows from the Three Statements opex assumptions, which were not changed in this rebuild; the tolerance covers that.")
+put(rb, f"{N_}{r_flag}", f"=IF(COUNTIF({N_}{R['chk_hdr']+1}:{N_}{r_flag-1},\"FAIL\")=0,\"ALL PASS\",COUNTIF({N_}{R['chk_hdr']+1}:{N_}{r_flag-1},\"FAIL\")&\" FAIL\")", GREEN, bold=True, align="right")
+note(rb, R["chk_hdr"] + 5, "The reconciliation between the census/NTD book and the filings: fails when the services GM input is too low for the documented US operations revenue.")
+note(rb, R["chk_hdr"] + 11, "Adjusted EBITDA flows from the Three Statements opex assumptions, which this rebuild did not change; the tolerance covers that.")
 label(rb, r_flag + 2, "Notes", bold=True)
-NOTES = ["Architecture: filings define totals and the services/software split (one assumption: services GM); the contract layer dates the services book; software is the residual grown by logos, expansion and churn; margin follows mix. See via-research repo docs: growth_model_design.md sections 8-12, rpm_spec.md, rpm_walkthrough.md.",
+NOTES = ["Architecture: filings set totals and the historical services/software split (one assumption, services GM); the contract layer dates the services book; software is the residual grown by logos, expansion and churn; gross margin follows mix. See via-research repo: growth_model_design.md sections 8-12, rpm_spec.md, rpm_walkthrough.md.",
          "Colour legend as on the Cover: blue reported input, red assumption, black formula, green cross-sheet link or check.",
-         "Quarterly projections are derived from annual engine outputs (3Q/4Q26 by 2025 3Q/4Q shares; 2027 quarters by 2025 quarterly shares): an approximation, since contracts are dated annually.",
-         "NTD report year is each agency's fiscal year; RY2025 (published ~Oct 2026) will replace the 2025 growth assumptions on the NTD rows.",
-         "Known gaps carried as labelled inputs: Downtowner revenue, Germany and other-international services shares, services GM, software customer count (derived), Sunnyvale term, Highland Park scope."]
+         "Quarterly cells (grouped columns) exist only for total revenue and are derived from annual totals by 2025 seasonality; the Three Statements pull them for 3Q26E-4Q27E.",
+         "NTD report year is each agency's fiscal year; RY2025 (published ~Oct 2026) will replace the 2025 volume assumptions on the NTD rows.",
+         "Known gaps carried as labelled inputs: Downtowner revenue, international services share, services GM, software customer count (derived), Sunnyvale term, Highland Park scope."]
 for i, t in enumerate(NOTES): label(rb, r_flag + 3 + i, t, "", italic=True, color=GREY)
-
 # ---------- Contract Layer sheet ----------
 if "Contract Layer (KW)" in wb.sheetnames: del wb["Contract Layer (KW)"]
 cl = wb.create_sheet("Contract Layer (KW)", index=wb.sheetnames.index("Revenue Build (KW)") + 1)
@@ -650,60 +627,111 @@ put(nd, f"A{rr+2}", "Reading: payments rose $2.0mm (RY2019) -> $9.7mm -> $17.6mm
 
 # ---------- SOTP sheet ----------
 if "SOTP (KW)" in wb.sheetnames: del wb["SOTP (KW)"]
-so = wb.create_sheet("SOTP (KW)", index=wb.sheetnames.index("DCF + EPS (KW)") + 1); so.sheet_view.showGridLines = False
-so.column_dimensions["A"].width = 58; so.column_dimensions["B"].width = 8
-for c in "CDEFGHI": so.column_dimensions[c].width = 12
-put(so, "A1", "VIA, Sum-of-the-Parts on FY2027E segment gross profit", bold=True, size=14)
-put(so, "A2", "Services (labor-intensive operations) valued on a transit-operator / rideshare gross-profit multiple; software on a vertical-SaaS gross-profit multiple. Links to the Revenue Build engine and to the WACC sheet's share count and cash.", GREY, italic=True)
-S = [("FY2027E services revenue", f"={RB}!{c27}{R['svc_tot']}", FMT_MM1, GREEN), ("Services gross margin (FY2027E)", f"={RB}!{c27}{R['gm_svc']}", FMT_PCT, GREEN), ("Services gross profit", "=C5*C6", FMT_MM1, BLACK),
-     ("FY2027E software revenue", f"={RB}!{c27}{R['sw_tot']}", FMT_MM1, GREEN), ("Software gross margin (FY2027E)", f"={RB}!{c27}{R['gm_sw']}", FMT_PCT, GREEN), ("Software gross profit", "=C8*C9", FMT_MM1, BLACK),
-     ("Services EV / gross profit multiple (input)", 2.2, FMT_X, RED), ("Software EV / gross profit multiple (input)", 10.0, FMT_X, RED),
-     ("Services enterprise value", "=C7*C11", FMT_MM1, BLACK), ("Software enterprise value", "=C10*C12", FMT_MM1, BLACK), ("Total enterprise value", "=C13+C14", FMT_MM1, BLACK),
-     ("(+) Cash & short-term investments (6/30/2026)", f"={WC}!D16+{WC}!D17", FMT_MM1, GREEN), ("(-) Total debt", f"={WC}!D15", FMT_MM1, GREEN), ("Equity value", "=C15+C16-C17", FMT_MM1, BLACK),
-     ("Fully diluted shares (mm)", f"={WC}!D13", FMT_MM1, GREEN), ("SOTP value per share", "=C18/C19", '"$"#,##0.00', BLACK), ("Current share price", f"={WC}!D6", '"$"#,##0.00', GREEN), ("Implied upside / (downside)", "=C20/C21-1", FMT_PCT, BLACK),
-     ("Market-implied software multiple at the current price (EV less services EV, over software GP)", f"=({WC}!D18-C13)/C10", FMT_X, BLACK)]
-for i, (t, f, fmt, colr) in enumerate(S):
-    r = 5 + i; put(so, f"A{r}", t, bold=(t.startswith(("Total", "Equity", "SOTP")))); put(so, f"C{r}", f, colr, italic=(colr in (GREEN, RED)), fmt=fmt)
-put(so, "E11", "Lyft trades ~2.2x 2027E gross profit (Bleecker); transit operators (Transdev, Keolis) lower. Sensitivity 1.5x-4.0x.", GREY, italic=True); put(so, "E12", "Vertical SaaS peers 8x-15x GP; sensitivity below.", GREY, italic=True)
-put(so, "A25", "Sensitivity: SOTP value per share  |  rows: services gross margin applied to FY2027E services revenue; columns: software EV / gross profit multiple", bold=True)
-put(so, "A26", "Services GM \\ Software multiple", bold=True, size=11, border_b=True)
-mults = [6, 8, 10, 12, 15]; gms = [0.26, 0.28, 0.30, 0.32, 0.34]
-for j, m in enumerate(mults): put(so, f"{L(3+j)}26", m, RED, italic=True, fmt=FMT_X, border_b=True, align="center")
-for i, g in enumerate(gms):
-    r = 27 + i; put(so, f"A{r}", g, RED, italic=True, fmt=FMT_PCT)
-    for j in range(len(mults)):
-        col = L(3 + j); put(so, f"{col}{r}", f"=(($C$5*$A{r})*$C$11+$C$10*{col}$26+$C$16-$C$17)/$C$19", fmt='"$"#,##0.00')
-put(so, "A33", "Note: the sensitivity holds FY2027E segment revenues fixed and varies the services margin as a margin on services revenue; in the engine a different services GM also changes the historical split. Use the Revenue Build input for the full effect.", GREY, italic=True)
+so = wb.create_sheet("SOTP (KW)"); so.sheet_view.showGridLines = False
+so.column_dimensions["A"].width = 72; so.column_dimensions["B"].width = 8
+for c in "CDEFG": so.column_dimensions[c].width = 13
+so.column_dimensions["I"].width = 90
+put(so, "A1", "VIA, Sum-of-the-Parts: services and software valued on segment gross profit", bold=True, size=14)
+put(so, "A2", "Segment revenue and gross profit link to the Revenue Build; share count, cash and price link to the WACC sheet. Services = labor-intensive operations (transit-operator / rideshare gross-profit multiples); software = vertical SaaS gross-profit multiples.", GREY, italic=True)
+put(so, "B4", "Units", align="right", border_b=True)
+for j, p in enumerate(("FY2026E", "FY2027E", "FY2028E")): put(so, f"{L(3+j)}4", p, bold=True, align="right", border_b=True)
+put(so, "I4", "Notes", GREY, italic=True, border_b=True)
+SEGROWS = [("Services revenue", R["svc"], FMT_MM1, True), ("Services gross margin", R["gm_svc"], FMT_PCT, False), ("Services gross profit", R["gp_svc"], FMT_MM1, True),
+           ("Software revenue", R["sw"], FMT_MM1, True), ("Software gross margin", R["gm_sw"], FMT_PCT, False), ("Software gross profit", R["gp_sw"], FMT_MM1, True),
+           ("Total revenue", R["tot"], FMT_MM1, True), ("Total gross profit (incl. non-recurring uplift)", R["gp_tot"], FMT_MM1, True), ("Blended gross margin", R["gm_blend"], FMT_PCT, False)]
+for i, (t, rr, fmt, bold) in enumerate(SEGROWS):
+    r = 5 + i; put(so, f"A{r}", t, bold=bold); put(so, f"B{r}", "$mm" if fmt == FMT_MM1 else "%")
+    for j, p in enumerate(("FY2026E", "FY2027E", "FY2028E")): put(so, f"{L(3+j)}{r}", f"={RB}!{COL[p]}{rr}", GREEN, italic=True, bold=bold, fmt=fmt)
+# valuation on FY2027E (column D of the table above)
+put(so, "A15", "Valuation on FY2027E segment gross profit", bold=True, size=14)
+V = [("Services EV / gross profit multiple (input)", 2.2, FMT_X, RED, "Lyft trades ~2.2x 2027E gross profit (Bleecker); transit operators (Transdev, Keolis, MV) lower. Sensitivity below 1.5x-4.0x."),
+     ("Software EV / gross profit multiple (input)", 10.0, FMT_X, RED, "Vertical SaaS peers ~8x-15x gross profit; sensitivity below."),
+     ("Services enterprise value", "=D7*C16", FMT_MM1, BLACK, ""), ("Software enterprise value", "=D10*C17", FMT_MM1, BLACK, ""),
+     ("Enterprise value", "=C18+C19", FMT_MM1, BLACK, ""),
+     ("(+) Cash and short-term investments (6/30/2026)", f"={WC}!D16+{WC}!D17", FMT_MM1, GREEN, ""), ("(-) Total debt", f"={WC}!D15", FMT_MM1, GREEN, ""),
+     ("Equity value", "=C20+C21-C22", FMT_MM1, BLACK, ""), ("Fully diluted shares (mm)", f"={WC}!D13", FMT_MM1, GREEN, ""),
+     ("SOTP value per share", "=C23/C24", '"$"#,##0.00', BLACK, ""), ("Current share price", f"={WC}!D6", '"$"#,##0.00', GREEN, ""), ("Implied upside / (downside)", "=C25/C26-1", FMT_PCT, BLACK, ""),
+     ("Memo: DCF blended value per share (DCF + EPS sheet)", "='DCF + EPS (KW)'!D81", '"$"#,##0.00', GREEN, "The DCF runs off the same revenue and gross-profit path with the Three Statements opex assumptions."),
+     ("Memo: SOTP enterprise value / FY2027E revenue", "=C20/D11", FMT_X, BLACK, "")]
+for i, (t, f, fmt, colr, nt) in enumerate(V):
+    r = 16 + i; put(so, f"A{r}", t, bold=t in ("Enterprise value", "Equity value", "SOTP value per share")); put(so, f"C{r}", f, colr, italic=(colr in (GREEN, RED)), bold=t in ("Enterprise value", "Equity value", "SOTP value per share"), fmt=fmt)
+    if nt: put(so, f"I{r}", nt, GREY, italic=True)
+put(so, "A31", "What the current share price implies", bold=True, size=14)
+M = [("Market enterprise value (WACC sheet)", f"={WC}!D18", FMT_MM1, GREEN), ("(-) Services enterprise value at the input multiple", "=C18", FMT_MM1, BLACK),
+     ("Implied software enterprise value", "=C32-C33", FMT_MM1, BLACK), ("Implied software EV / FY2027E software gross profit", "=IF(D10=0,0,C34/D10)", FMT_X, BLACK),
+     ("Implied software EV / FY2027E software revenue", "=IF(D8=0,0,C34/D8)", FMT_X, BLACK),
+     ("Services multiple needed to justify the price with software at the input multiple", "=IF(D7=0,0,(C32-C19)/D7)", FMT_X, BLACK)]
+for i, (t, f, fmt, colr) in enumerate(M):
+    r = 32 + i; put(so, f"A{r}", t, bold=(i in (2, 3))); put(so, f"C{r}", f, colr, italic=(colr == GREEN), bold=(i in (2, 3)), fmt=fmt)
+put(so, "I34", "The market pays a SaaS multiple for a gross-profit pool that is ~half services at a ~26% margin.", GREY, italic=True)
+put(so, "A39", "Scenarios (FY2027E gross profit; value per share)", bold=True, size=14)
+for j, h in enumerate(("Services x GP", "Software x GP", "Enterprise value", "Value per share", "vs. current price")): put(so, f"{L(3+j)}40", h, bold=True, align="right", border_b=True, size=11)
+put(so, "A40", "Scenario", bold=True, border_b=True, size=11)
+for k, (name, sm, wm) in enumerate((("Bear", 1.5, 6.0), ("Base", 2.2, 10.0), ("Bull", 4.0, 15.0))):
+    r = 41 + k; put(so, f"A{r}", name); put(so, f"C{r}", sm, RED, italic=True, fmt=FMT_X); put(so, f"D{r}", wm, RED, italic=True, fmt=FMT_X)
+    put(so, f"E{r}", f"=$D$7*C{r}+$D$10*D{r}", fmt=FMT_MM1); put(so, f"F{r}", f"=(E{r}+$C$21-$C$22)/$C$24", fmt='"$"#,##0.00'); put(so, f"G{r}", f"=F{r}/$C$26-1", fmt=FMT_PCT)
+put(so, "A46", "Sensitivity: value per share  |  rows: services EV / gross profit  |  columns: software EV / gross profit", bold=True, size=14)
+put(so, "A47", "Services multiple  \\  Software multiple", bold=True, border_b=True, size=11)
+for j, m in enumerate((6, 8, 10, 12, 15)): put(so, f"{L(3+j)}47", m, RED, italic=True, fmt=FMT_X, border_b=True, align="right")
+for i, sm in enumerate((1.5, 2.2, 3.0, 4.0)):
+    r = 48 + i; put(so, f"A{r}", sm, RED, italic=True, fmt=FMT_X)
+    for j in range(5): put(so, f"{L(3+j)}{r}", f"=($D$7*$A{r}+$D$10*{L(3+j)}$47+$C$21-$C$22)/$C$24", fmt='"$"#,##0.00')
+put(so, "A53", "Sensitivity: value per share  |  rows: services gross margin applied to FY2027E services revenue (services at the input multiple)  |  columns: software EV / gross profit", bold=True, size=14)
+put(so, "A54", "Services gross margin  \\  Software multiple", bold=True, border_b=True, size=11)
+for j, m in enumerate((6, 8, 10, 12, 15)): put(so, f"{L(3+j)}54", m, RED, italic=True, fmt=FMT_X, border_b=True, align="right")
+for i, g in enumerate((0.22, 0.24, 0.26, 0.28, 0.30)):
+    r = 55 + i; put(so, f"A{r}", g, RED, italic=True, fmt=FMT_PCT)
+    for j in range(5): put(so, f"{L(3+j)}{r}", f"=(($D$5*$A{r})*$C$16+$D$10*{L(3+j)}$54+$C$21-$C$22)/$C$24", fmt='"$"#,##0.00')
+put(so, "A61", "The margin sensitivity holds FY2027E segment revenues fixed; changing the services GM input on the Revenue Build also moves the historical split and the software residual.", GREY, italic=True)
 
-# ---------- Three Statements: re-point cost of revenue % ----------
-for p in ("3Q26E", "4Q26E"): put(ts, f"{COL[p]}11", f"={RB}!{COL['FY2026E']}{R['gm_cogs']}", GREEN, italic=True, fmt=FMT_PCT)
-for p in QTR27: put(ts, f"{COL[p]}11", f"={RB}!{COL['FY2027E']}{R['gm_cogs']}", GREEN, italic=True, fmt=FMT_PCT)
-for p in ("FY2028E", "FY2029E", "FY2030E") + tuple(FADE): put(ts, f"{COL[p]}11", f"={RB}!{COL[p]}{R['gm_cogs']}", GREEN, italic=True, fmt=FMT_PCT)
-ts["AB11"].value = (ts["AB11"].value or "") + " | Rebuilt 2026-09-21: projected cost of revenue % links to the Revenue Build margin bridge (segment mix x segment margins) instead of the 59% constant."
-ts["AB11"].font = font(GREY, italic=True)
-
-# ---------- Cover: TOC entries and checks flag ----------
-merges = [str(m) for m in cover.merged_cells.ranges]
-low = min(int(re.search(r"\d+", m).group(0)) for m in merges) if merges else 999
-if all(int(re.findall(r"\d+", m)[-1]) < 12 for m in merges):
+# ---------- re-point Three Statements (revenue row 7, cost of revenue % row 11) ----------
+for p in QTR26 + QTR27 + ["FY2028E", "FY2029E", "FY2030E"] + FADE:
+    c = COL[p]; put(ts, f"{c}7", f"={RB}!{c}{R['tot']}", GREEN, italic=True, bold=True, fmt=FMT_MM1)
+for p in QTR26: put(ts, f"{COL[p]}11", f"={RB}!{N_}{R['cogs']}", GREEN, italic=True, fmt=FMT_PCT)
+for p in QTR27: put(ts, f"{COL[p]}11", f"={RB}!{COL['FY2027E']}{R['cogs']}", GREEN, italic=True, fmt=FMT_PCT)
+for p in ("FY2028E", "FY2029E", "FY2030E") + tuple(FADE): put(ts, f"{COL[p]}11", f"={RB}!{COL[p]}{R['cogs']}", GREEN, italic=True, fmt=FMT_PCT)
+ts["AB7"].value = "Projected periods link to the Revenue Build total (row %d), 2026-09-21." % R["tot"]; ts["AB7"].font = font(GREY, italic=True)
+ts["AB11"].value = "Projected cost of revenue %% links to the Revenue Build gross-profit block (row %d): segment mix x segment margins, plus a fading implementation-fee uplift (2026-09-21)." % R["cogs"]; ts["AB11"].font = font(GREY, italic=True)
+# ---------- re-point Summary customers (row 21) ----------
+for sc_, rc_ in (("D", "C"), ("E", "D"), ("F", "I"), ("G", "N"), ("H", "S"), ("I", "T"), ("J", "U"), ("K", "V")):
+    cell = summ[f"{sc_}21"]; cell.value = f"={RB}!{rc_}{R['cust_tot']}"
+# ---------- Cover: TOC entries, description, checks flag ----------
+toc_names = {str(cover.cell(r, 5).value): r for r in range(5, 40) if cover.cell(r, 5).value}
+if "Contract Layer (KW)" not in toc_names:
+    merges = [str(m) for m in cover.merged_cells.ranges]
+    def shift(rng, at, n):
+        m = re.match(r"([A-Z]+)(\d+):([A-Z]+)(\d+)", rng); c1, r1, c2, r2 = m.group(1), int(m.group(2)), m.group(3), int(m.group(4))
+        return f"{c1}{r1+n if r1>=at else r1}:{c2}{r2+n if r2>=at else r2}"
+    for m in merges: cover.unmerge_cells(m)
+    heights = {r: cover.row_dimensions[r].height for r in range(1, cover.max_row + 1) if cover.row_dimensions[r].height}
     cover.insert_rows(12, 3)
+    for m in merges: cover.merge_cells(shift(m, 12, 3))
+    for r, h in sorted(heights.items(), reverse=True): cover.row_dimensions[r + 3 if r >= 12 else r].height = h
     for k, (name, desc) in enumerate([("Contract Layer (KW)", "Contract-level services engine: 59 documented US operations contracts with dates, funding tags, hazards; unsigned-win vintages"),
-                                      ("NTD Data", "FTA NTD purchased-transportation payments to Via entities, RY2019-RY2024 (evidence for the services book)"),
-                                      ("SOTP (KW)", "Sum-of-the-parts on FY2027E segment gross profit with market-implied software multiple and sensitivity")]):
-        r = 12 + k; src = cover["E11"]
-        c = cover[f"E{r}"]; c.value = name; c.font = copy(src.font); c.hyperlink = Hyperlink(ref=f"E{r}", location=f"'{name}'!A1", display=name)
-        d = cover[f"F{r}"]; d.value = desc; d.font = copy(cover["F11"].font)
+                                      ("NTD Data", "FTA NTD purchased-transportation payments to Via entities, RY2019-RY2024 (evidence base for the services book)"),
+                                      ("SOTP (KW)", "Sum-of-the-parts on FY2027E segment gross profit, market-implied software multiple, scenarios and sensitivities")]):
+        r = 12 + k; c = cover[f"E{r}"]; c.value = name; c.font = copy(cover["E11"].font); c.alignment = copy(cover["E11"].alignment)
+        c.hyperlink = Hyperlink(ref=f"E{r}", location=f"'{name}'!A1", display=name)
+        d = cover[f"F{r}"]; d.value = desc; d.font = copy(cover["F11"].font); d.alignment = copy(cover["F11"].alignment)
         cover.row_dimensions[r].height = cover.row_dimensions[11].height
-    put(cover, "B25", "Revenue model checks (Revenue Build)", bold=False); cover["B25"].font = copy(cover["B24"].font) if cover["B24"].value else font()
-    put(cover, "C25", f"={RB}!{c26}{r_flag}", GREEN, italic=True)
-else:
-    put(cover, "B25", "Revenue model checks (Revenue Build)"); put(cover, "C25", f"={RB}!{c26}{r_flag}", GREEN, italic=True)
-    put(cover, "E25", "Contract Layer (KW) | NTD Data | SOTP (KW): added 2026-09-21", GREY, italic=True)
+    for col in "EF":
+        b11 = copy(cover[f"{col}11"].border); cover[f"{col}14"].border = copy(b11)
+        cover[f"{col}11"].border = Border(left=b11.left, right=b11.right, top=b11.top)
+        for r in (12, 13): cover[f"{col}{r}"].border = Border(left=b11.left, right=b11.right)
+    toc_names = {str(cover.cell(r, 5).value): r for r in range(5, 40) if cover.cell(r, 5).value}
+cover[f"F{toc_names['Revenue Build (KW)']}"].value = "Revenue build by segment (services / software): contract-level services engine, software engine, gross profit by segment, growth bridge, checks"
+flag_row = next((r for r in range(5, 45) if str(cover.cell(r, 2).value).startswith("Revenue model checks")), None)
+if flag_row is None:
+    flag_row = max(r for r in range(5, 45) if cover.cell(r, 2).value) + 1
+    put(cover, f"B{flag_row}", "Revenue model checks (Revenue Build)"); cover[f"B{flag_row}"].font = copy(cover[f"B{flag_row-1}"].font)
+cover[f"C{flag_row}"].value = f"={RB}!{N_}{r_flag}"; cover[f"C{flag_row}"].font = font(GREEN, italic=True)
+for r in range(5, 45):
+    v = cover.cell(r, 5).value
+    if isinstance(v, str) and "added 2026-09-21" in v: cover.cell(r, 5).value = None
 
-# reorder: Contract Layer and NTD Data right after Revenue Build; SOTP after DCF
+# ---------- order and save ----------
 for name in ("Contract Layer (KW)", "NTD Data"):
     ws = wb[name]; wb._sheets.remove(ws); wb._sheets.insert(wb.sheetnames.index("Revenue Build (KW)") + (1 if name.startswith("Contract") else 2), ws)
 ws = wb["SOTP (KW)"]; wb._sheets.remove(ws); wb._sheets.insert(wb.sheetnames.index("DCF + EPS (KW)") + 1, ws)
-
 for o in OUT: wb.save(o)
-print("saved:", OUT, "| checks flag cell:", f"{c26}{r_flag}", "| contract rows:", n, "| CL totals rows:", CL_TOT_HARD, CL_TOT_NEW)
+print("saved:", OUT, "| checks flag:", f"{N_}{r_flag}", "| contract rows:", len(contracts), "| CL totals rows:", CL_TOT_HARD, CL_TOT_NEW)
