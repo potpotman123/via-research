@@ -28,8 +28,11 @@ Reading:
   delivered under contracts with no committed minimum. The word "subscription" in the filings (97% of revenue) describes recurring hourly billing.
 - Downtowner is undisclosed. The 10-K says its post-acquisition revenue was "not material" for the 19 days it was owned and presents no pro forma.
   Its annual revenue must be estimated: known contracts (Denver Connector $5.99mm/yr, Placer TART $3.5mm NTD 2024, Salisbury $2.9mm NTE, Lake County
-  $1.4mm) plus Truckee (30 vehicles, 108 drivers per FMCSA), Aspen, Park City, Jackson, Big Sky and others suggest $25mm-$45mm (est.). At $30mm it is
-  about 5.5 points of 2026 growth, leaving organic growth near 21%.
+  $1.4mm) plus Truckee (30 vehicles, 108 drivers per FMCSA), Aspen, Park City, Jackson, Big Sky and others suggest $15mm-$35mm (est.). Two filings facts
+  bound it: the 10-K omits ASC 805 pro forma revenue because 'the impact of pro forma adjustments is not material' (a 5% lens on $434mm is $22mm; 10% is $43mm),
+  and neither 10-Q discloses a Downtowner revenue contribution. Audit (2026-09-21): at $15mm/$25mm/$35mm of Downtowner revenue, 2026E organic growth is
+  23.5%/21.2%/18.9% against the 27.0% guide midpoint, and 1H26 organic US growth is 30%/26%/23% against the reported 35% (and 40% for FY25, before Downtowner).
+  The 'not material' language argues for the lower end, so the defensible statement is 'organic growth in the low-to-mid 20s, not 27%', not a point estimate of 21%.
 
 ## 2. The growth algebra for 2027
 
