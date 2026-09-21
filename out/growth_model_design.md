@@ -243,3 +243,43 @@ local wages and utilization; it cannot plausibly leave 50%, which is the real co
 
 Model treatment: carry services GM as an input with 22% / 26% / 30% cases. It moves the services share by only about +/-4 points, so the split conclusion
 is robust; it moves segment gross profit and hence the SOTP value of the services piece, which is where the sensitivity belongs.
+
+## 10. Decomposing growth into macro, acquisition and organic components (added 2026-09-21)
+
+**Exposure of the documented US run-rate by funding type** (latest priced action per agency, $182mm; funding as stated in the documents):
+local/recurring 45% (general fund, sales tax, farebox, operating budget) · unknown 20% · mixed federal one-time + formula 9% · mixed state grant + local 8% ·
+mixed federal formula + local 8% · other 7% · pure state grant 2% · pure federal <1%. Grant-linked dollars (any federal or state component) are about 30% of the
+documented base; purely one-time federal money (ARPA, CRRSAA, CARES, demonstration grants) is a small slice concentrated in pilots. The premise "70% of
+revenue is grant-funded" is not what the documents show; and most federal exposure is formula money (Section 5307/5310/5311), which continues under continuing
+resolutions when an authorization lapses and is at risk of level cuts, not disappearance.
+
+**Survival evidence.** The census cannot measure renewal rates cleanly: of 56 relationships first documented before mid-2023, 24 show a later renewal or
+extension, 3 show an explicit ending, and 29 show no later action at all, because administrative renewals below approval thresholds leave no agenda item.
+Two better sources: (a) NTD contractor tables 2019-2024, where every Via turnkey operator that appears in one year appears in every later year (Ben Franklin,
+Hampton Roads, Arlington from 2020; Sarasota, Muskegon from 2021; Placer from 2022; Pierce, Worcester, Suffolk, Valdosta, Grand Prairie from 2023), so
+documented turnkey survival through 2024 is effectively 100%; (b) the loss list, which is almost entirely software (Baldwin, Hillsborough, Met Council, Ben
+Franklin paratransit software, El Paso) plus grant-funded or budget-squeezed pilots (SacRT SmaRT Ride, SARTA Connect, Palo Alto downsized, Milwaukee cut).
+
+**Recommended method: exposure x (1 - continuation probability) x share expiring in the model year, by funding category, applied to the run-rate.**
+
+| Funding category | Share of documented $ | Continuation probability (assumption, with basis) | Typical expiry timing |
+|---|---|---|---|
+| Local / recurring | 45% | 90%-95%: budget cuts happen (Milwaukee, Jersey City) but are the exception | contract term, 1-5 yrs |
+| Federal formula (5307/5310/5311) | ~15% incl. mixed | 85%-95%: formula programs persist under CRs; risk is a level cut after IIJA lapses 2026-09-30 | annual appropriations |
+| Federal one-time (ARPA/CRRSAA/demonstration) | ~5% | 50%-60% conversion to local money (Arlington converted; Palo Alto partially; SacRT replaced by a smaller service; SARTA ended) | ARPA spend deadline 2026-12-31 |
+| State grants (TIRCP, CPUC, UDOT, NCDOT) | ~10% | 60%-75%: multi-year awards renew at program discretion; Cupertino renewed, Palo Alto's VTA grant sunset | grant term, 2-4 yrs |
+| Unknown | 20% | allocate pro rata, or treat as half grant-linked in the bear case | |
+
+Illustrative result: grant-linked ~30% of base, of which roughly half comes up within 12 months, at 55%-70% continuation, puts 5%-7% of the run-rate at risk
+from funding in the first year; local budget risk adds 3%-4%; the unknown bucket adds 2%-4% in a bear case. Total first-year dollar churn risk of roughly 10%-15%
+of the base, versus a reported GRR of 98% by customer count. The difference is the point: losses are lumpy and dollar-weighted, so GRR understates them.
+
+**Acquisition confounding.** 2023-2025 growth (+36%, +29%) contained no material acquisition (Citymapper, March 2023, was small); it was organic. 2026 growth
+of 27% includes Downtowner at an undisclosed $15mm-$35mm (see section 1), so organic 2026 growth is roughly 19%-24%. Remix (2021, $100mm) sits in the 2021-22 base.
+
+**Macro confounding of organic growth.** Tag each contract in the bridge with its enabling condition: federal one-time money (2020-23 pilots), IIJA formula growth,
+state programs, the North Texas DART-exit cluster (Plano, Addison, Highland Park, Grand Prairie, all 1H26, locally funded), paratransit cost substitution
+(TARTA, Milwaukee, Volusia, Suffolk, HRT, Via Assist), operator outsourcing (Mobile, Sioux Falls, Rochester, TCATA), and German public funding (Muva, ended). Sum by
+tag for each year's growth to show how much of the increase came from conditions that have since expired or are one-off.
+
+**Geographic layer.** US (organic +40% 2025, +35% 1H26 including Downtowner), Germany (+6% 2025, -12% 2Q26 after Muva), all other (+8% 2025, +41% 1H26 off a small base).
