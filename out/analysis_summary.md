@@ -1,6 +1,6 @@
 # VIA contract census: analysis summary
 
-Generated from out/via_contract_census.csv: 417 rows = 327 Via contract actions (7 Downtowner pre-acquisition) + 28 competitor awards + 62 app-only observations.
+Generated from out/via_contract_census.csv: 418 rows = 328 Via contract actions (7 Downtowner pre-acquisition) + 28 competitor awards + 62 app-only observations.
 
 ## 1. Scope mix (Via contract actions, excl. Downtowner pre-acquisition)
 
@@ -8,9 +8,9 @@ Generated from out/via_contract_census.csv: 417 rows = 327 Via contract actions 
 |---|---|---|---|---|
 | Turnkey | 145 | 67 | 79 | 304.1 |
 | Hybrid | 9 | 8 | 2 | 23.7 |
-| Software-only | 113 | 70 | 54 | 7.4 |
+| Software-only | 114 | 70 | 55 | 7.5 |
 | Unknown | 53 | 47 | 8 | 12.4 |
-| **Total** | **320** | **164** | | **347.7** |
+| **Total** | **321** | **164** | | **347.7** |
 
 Dollar-weighted shares among rows with a value and a known scope (annualized; NTE ceilings treated as annual where the document gave only a ceiling and a term, so this overstates spend): Turnkey 91%, Hybrid 7%, Software-only 2%
 
@@ -181,7 +181,8 @@ n=22, min 35.83, median 61.10, max 147.32. OMNIA R250802 list: microtransit turn
 | District Department of Transportation (D | DC |  | 109500 | per year |  |  | Software-only |
 | Hillsborough County | FL | 2023-12-20 | 235 | per vehicle per month (Y | 35000 |  | Software-only |
 | Lake Havasu City | AZ | 2023-09-19 | 3000 | per vehicle per month (f | 35000 |  | Software-only |
-| LakeXpress (Lake County Board of County  | FL |  | 31000 | per year, based on total | 2000 | 6.45 | Software-only |
+| LakeXpress (Lake County Board of County  | FL | 2024-03-28 | 33450 | per year, escalating (20 |  |  | Software-only |
+| LakeXpress (Lake County Board of County  | FL | 2021-06-22 | 31000 | per year, based on total | 2000 | 6.45 | Software-only |
 | Lee County (LeeTran) | FL |  | 200 | per vehicle per month | 14000 | 11.8 | Software-only |
 | MET Transit |  | 2023-04-10 | 41166 | per year average |  |  | Software-only |
 | North County Transit District | CA |  | 362643.01 | not stated |  |  | Software-only |

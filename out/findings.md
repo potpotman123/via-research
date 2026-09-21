@@ -64,8 +64,12 @@ revenue does not.
 ## Limits
 - Coverage: 62 agencies with a Via-branded app have no located procurement document; 17 gap agencies rest on news only; 53 actions are Unknown
   scope. NTD covers full-reporting agencies only and lags a year; LA Metro's operations contract is not yet in NTD.
-- Dollar mix understates software because most subscriptions fall below public approval thresholds. The count mix is the fairer view of the customer
-  base by number; the dollar mix is the fairer view of revenue.
+- Dollar mix understates software because most subscriptions fall below public approval thresholds. Sizing the hidden tail: raising software's share of
+  documented US run-rate from 2% to 12% would take $20mm-$26mm of undocumented subscriptions, i.e., roughly 500 at the documented $43k median or
+  800-1,050 at Remix-minimum fees of $19k-$29k. Several hundred such customers are plausible (Remix alone claimed 350+ cities in 2021), so the fair
+  statement is that software is a single-digit to low-teens share of documented US contract dollars, and turnkey plus hybrid roughly 80%-85%.
+  The count mix is the fairer view of the customer base by number; the dollar mix is the fairer view of revenue. The 10-K's tech-enabled-services
+  cost (51% of revenue) is the unbiased anchor and points to the same place.
 - Ceilings are treated as annual values when a document states them per year; actual spend is usually lower.
 - Downtowner rows dated before 2025-12-12 (Denver, Placer/TART, Salisbury, Lake County) are flagged and excluded from the organic view.
 - All classifications rest on document language about who supplies drivers and vehicles and how Via is billed; 31 Tier-3 corrections are logged
