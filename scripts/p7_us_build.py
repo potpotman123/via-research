@@ -7,18 +7,18 @@ import csv, re
 from collections import defaultdict
 from common import ROOT, log
 
-HAIRCUT = 0.80          # NTD payments / census ceiling, median of same-period pairs (Arlington 0.75, BFT 0.80, Grand Prairie 0.93)
+HAIRCUT = 0.80          # NTD payments / census ceiling; re-estimate from the overlap pairs printed at the end (2026-09-21: 26 NTD agencies)
 ESC = 0.04              # annual escalator on operations contracts (UTA per-hour rates rose $55.23 -> $68.33 over 2022-24)
 NTD_GROWTH_2025 = 0.10  # NTD Via agencies' DR/PT hours grew ~10% median 2024->2025 (Sarasota +12%, Volusia +29%, HRT +10%, Suffolk +3%)
 NTD_GROWTH_2026 = 0.08  # Jan-Jul 2026 vs 2025 median across the same agencies (range -29% to +78%)
-IMPUTE_OPS_NO_PRICE = 1_500_000   # documented turnkey agency, no stated price (small operators: Valdosta $0.86mm, Norman $0.64mm, Muskegon $1.05mm per NTD)
+IMPUTE_OPS_NO_PRICE = 900_000     # documented turnkey agency, no stated price: median of small NTD-paid operators RY2024 (BJCTA 0.59, Worcester 0.61, Norman 0.70, Valdosta 0.86, Muskegon 1.05, Volusia 1.68, Suffolk 1.70, Green Bay 1.91)
 APPONLY_P_TURNKEY = 0.30          # share of app-only agencies assumed Via-operated (documented app agencies ~45% turnkey; undocumented skew small/software)
 APPONLY_OPS_SIZE = 800_000        # small operations contract
 APPONLY_SW_SIZE = 60_000          # small software subscription
 SW_IMPUTE_ACV = 60_000            # documented software agency without a stated fee
 REMIX_UNENUMERATED = 250          # Remix said 350+ cities in 2021; ~60 Remix/software agencies are documented; remainder assumed still active
 REMIX_ACV = 30_000                # OMNIA Remix annual minimums $18,690-$28,930; documented Remix fees $11k-$84k
-DOWNTOWNER = (25_000_000, 45_000_000)
+DOWNTOWNER = (15_000_000, 35_000_000)   # undisclosed; 10-K: pro forma not material; spec base 25
 
 def num(v):
     s = (v or "").replace("$", "").replace(",", "").strip(); m = re.search(r"\d+(?:\.\d+)?", s); return float(m.group(0)) if m else None
@@ -46,24 +46,39 @@ for r in via:
     elif r["scope_type"] == "Software-only" or (r["scope_type"] == "Unknown" and a < 200_000):
         if k not in sw_latest or d > sw_latest[k][0]: sw_latest[k] = (d, a, r)
 
-ntd = defaultdict(float); ntd_name = {}
+ntd = defaultdict(float); ntd_name = {}; ntd_months = {}; ntd_voms = defaultdict(float)
+VOMS_CAP = 160_000      # cap on annualizing partial-year NTD rows: revenue per contracted vehicle-year (NTD RY2024: $96.8mm / 632 VOMS = $153k)
 for h in csv.DictReader(open(ROOT / "text/enum/ntd_contractual_hits.csv")):
     op = (h.get("Contractee Operator Name") or h.get("Contractee Company Name") or "")
-    if h["year"] == "2024" and re.search(r"river north|nomad|via transportation|via mobility, llc|via transit|sioux falls transit|tidewater transit|port city", op, re.I):
-        ntd[h["Agency Name"].strip()] += float(h.get("Direct Payment/Agency Subsidy") or 0); ntd_name[h["Agency Name"].strip()] = op
+    if h["year"] == "2024" and h.get("seller_kind") == "via" and not re.search(r"downtowner", op, re.I):   # Downtowner is layer 7
+        ag = h["Agency Name"].strip(); ntd[ag] += float(h.get("Direct Payment/Agency Subsidy") or 0); ntd_name[ag] = op
+        m = int(float(h.get("Months Seller Operated in FY") or 12) or 12); ntd_months[ag] = max(ntd_months.get(ag, 0), m); ntd_voms[ag] += float(h.get("VOMS Under Contract") or 0)
 NTD_MAP = {"City of Arlington": "city of arlington", "Sarasota County": "sarasota county", "Ben Franklin Transit": "ben franklin transit",
            "Pierce County Transportation Benefit Area Authority": "pierce transit", "Transportation District Commission of Hampton Roads": "hampton roads transit",
            "City of Grand Prairie": "city of grand prairie", "County of Volusia": "county of volusia", "City of Sioux Falls": "sioux falls", "Suffolk County": "suffolk county",
            "Lorain County": "lorain county", "City of Valdosta": "city of valdosta", "County of Muskegon": "muskegon", "Worcester Regional Transit Authority": "worcester",
-           "City of Norman": "city of norman", "Snohomish County Public Transportation Benefit Area Corporation": "community transit"}
+           "City of Norman": "city of norman", "Snohomish County Public Transportation Benefit Area Corporation": "community transit",
+           "Denton County Transportation Authority": "denton county", "Utah Transit Authority": "utah transit", "King County": "king county",
+           "Bi-State Development Agency of the Missouri-Illinois Metropolitan District": "bi-state", "Capital Area Transit System": "capital area transit",
+           "Toledo Area Regional Transit Authority": "toledo", "City of Green Bay": "green bay", "Stark Area Regional Transit Authority": "stark area",
+           "Birmingham-Jefferson County Transit Authority": "birmingham", "Milwaukee County": "milwaukee county", "Ann Arbor Area Transportation Authority": "ann arbor"}
+l1_tokens = set(NTD_MAP.values())
 out = []
 def add(**k): out.append(k)
 used = set()
 # Layer 1: NTD-paid operators
 for ag, paid in sorted(ntd.items(), key=lambda x: -x[1]):
     key = NTD_MAP.get(ag, ag.lower()); hit = next(((k, v) for k, v in ops_latest.items() if key in k), None)
-    y25 = paid * (1 + NTD_GROWTH_2025); y26 = y25 * (1 + NTD_GROWTH_2026); y27 = y26 * (1 + ESC)
+    for k in scopes:                       # any census row for this agency is now covered by layer 1 (prevents layers 3/4 re-adding it)
+        if key in k: used.add(k)
+    months = ntd_months.get(ag, 12); base = paid
     note = f"NTD RY2024 direct payment to {ntd_name[ag]}"
+    if 0 < months < 12:
+        base = min(paid * 12 / months, ntd_voms[ag] * VOMS_CAP) if ntd_voms[ag] else paid * 12 / months
+        note += f"; {months} months in FY, annualized to {base:,.0f} (capped at VOMS x {VOMS_CAP:,.0f})"
+    y25 = base * (1 + NTD_GROWTH_2025); y26 = y25 * (1 + NTD_GROWTH_2026); y27 = y26 * (1 + ESC)
+    if any(r["agency"].lower().find(key) >= 0 and r["contract_action"] in ("termination", "non-renewal") for r in via):
+        y25 = y26 = y27 = 0.0; note += "; census termination -> zero from 2025"
     if hit:
         used.add(hit[0]); d, a, r = hit[1]
         # if a newer, larger contract exists (e.g., HRT 10/2025 $2.95mm), let it lift 2026-27
@@ -76,8 +91,9 @@ for k, (d, a, r) in sorted(ops_latest.items(), key=lambda x: -x[1][1]):
     frac26 = 1.0
     if start[:4] == "2026" and len(start) >= 7: frac26 = max(0.0, (12 - int(start[5:7]) + 1) / 12)
     y25 = rr if start < "2025-07" else (rr * 0.5 if start < "2026" else 0.0)
+    frac24 = 1.0 if start[:4] < "2024" else (max(0.0, (12 - int(start[5:7]) + 1) / 12) if start[:4] == "2024" and len(start) >= 7 else 0.0)
     add(layer="2 census-priced operations", agency=r["agency"], state=r["state"], scope=r["scope_type"],
-        basis=f"census {r['contract_action']} {d}: run-rate {a:,.0f} x haircut {HAIRCUT}; start {start or 'n/a'}", y2024=(rr if start < "2025" else 0.0), y2025=y25, y2026=rr * frac26, y2027=rr * (1 + ESC), p=1.0)
+        basis=f"census {r['contract_action']} {d}: run-rate {a:,.0f} x haircut {HAIRCUT}; start {start or 'n/a'}", y2024=rr * frac24, y2025=y25, y2026=rr * frac26, y2027=rr * (1 + ESC), p=1.0)
     used.add(k)
 # Layer 3: documented turnkey agencies with no usable price
 for k, s in scopes.items():
@@ -105,7 +121,7 @@ for k, s in scopes.items():
 # Layer 4: app-only agencies (from targets with no document)
 t = list(csv.DictReader(open(ROOT / "text/enum/targets.csv")))
 def documented(ag):
-    a = ag.lower(); return any(a[:20] in k or k[:20] in a for k in scopes)
+    a = ag.lower(); return any(a[:20] in k or k[:20] in a for k in scopes) or any(tok in a for tok in l1_tokens)
 apponly = [x for x in t if not documented(x["agency"]) and x["state"]]
 for x in apponly:
     exp = APPONLY_P_TURNKEY * APPONLY_OPS_SIZE + (1 - APPONLY_P_TURNKEY) * APPONLY_SW_SIZE
@@ -139,3 +155,11 @@ sw = {y: G[y] - ops[y] for y in ops}
 log(f"of which operations (turnkey+hybrid+app-only ops share): 2024 {ops['y2024']/1e6:.1f} | 2025 {ops['y2025']/1e6:.1f} | 2026E {ops['y2026']/1e6:.1f} | 2027E {ops['y2027']/1e6:.1f}")
 log(f"of which software:                                      2024 {sw['y2024']/1e6:.1f} | 2025 {sw['y2025']/1e6:.1f} | 2026E {sw['y2026']/1e6:.1f} | 2027E {sw['y2027']/1e6:.1f}")
 log("Anchors: US revenue 2024 $221.0mm, 2025 $309.7mm (10-K); 2026E US ~$420mm if international ~+6% (est.). Services revenue (global) ~$302mm 2025 at 26% GM (est. from $223.5mm services COGS).")
+
+# overlap pairs for haircut re-estimation: NTD RY2024 (annualized) vs census annual run-rate at the same agency
+log("Haircut pairs (NTD RY2024 annualized / census annual run-rate):")
+for ag, paid in sorted(ntd.items(), key=lambda x: -x[1]):
+    key = NTD_MAP.get(ag, ag.lower()); hit = next(((k, v) for k, v in ops_latest.items() if key in k), None)
+    m = ntd_months.get(ag, 12); ann = paid * 12 / m if 0 < m < 12 else paid
+    if hit: d, a, r = hit[1]; log(f"  {ag[:45]:45} NTD {ann/1e6:6.2f} | census {a/1e6:6.2f} ({r['contract_action']} {d}) | ratio {ann/a:4.2f}")
+    else: log(f"  {ag[:45]:45} NTD {ann/1e6:6.2f} | no priced census ops row")

@@ -30,7 +30,7 @@ term end, ceiling or NTD payment, haircut (0.80 on ceilings, 1.00 on NTD payment
 federal one-time / state / unknown), competitive hazard (turnkey <1%), funding hazard (by tag, section 11), downsell rate (2%-4% locally funded),
 2024A-2028E revenue. Plugs: (a) other US services = services revenue (Tab 2, US share) - contract layer, grown with the layer's organic rate; (b) Downtowner
 2026 = $15-35mm (default 25), then +4%; (c) Germany services (default: all of Germany) -9% 2026, -5% 2027, 0% after; (d) other international +30% / +20% / +15%.
-New wins: vehicle-equivalents x $140k per vehicle-year (NTD 2024: $42.7mm / 304 vehicles), 6-9 month ramp; default 250 (2026) / 150 (2027) / 100 (2028);
+New wins: vehicle-equivalents x $153k per vehicle-year (NTD RY2024: $96.8mm / 632 vehicles under contract; corrected 2026-09-21), 6-9 month ramp; default 250 (2026) / 150 (2027) / 100 (2028);
 bear 250 / 100 / 60; bull 250 / 220 / 200.
 
 ## Tab 4: Software engine

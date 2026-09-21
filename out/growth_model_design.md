@@ -132,7 +132,7 @@ NYC Department of Education: five-year $36mm routing/tracking contract announced
 
 ### Bottom-up US build (`scripts/p7_us_build.py` -> `out/us_revenue_build.csv`)
 Stratified by evidence quality, with each layer's assumption written into the row:
-1. NTD-paid operators: actual RY2024 payments ($42.7mm, 15 agencies), grown 10% for 2025 and 8% for 2026 (NTD hours), 4% escalator after.
+1. NTD-paid operators: actual RY2024 payments ($96.8mm, 26 agencies; corrected 2026-09-21), grown 10% for 2025 and 8% for 2026 (NTD hours), 4% escalator after.
 2. Census-priced operations not in NTD: ceiling x 0.80 (NTD payments ran 0.75-0.93 of documented ceilings for Arlington, BFT, Grand Prairie),
    prorated by start date; concurrent same-day awards summed (LA Metro North + South = $22.5mm x 0.8).
 3. Documented operators with no stated price: $1.5mm each (small operators in NTD run $0.6mm-$1.1mm).
@@ -156,9 +156,9 @@ undocumented operations.
 | Driver | Anchor from the documents | Source |
 |---|---|---|
 | P: rate per vehicle hour | Microtransit contracts 2022-2026: $52.23 (West Sacramento), $53.89 and $57.50 (Ben Franklin), $55.23-$68.33 (UTA service orders), $61.10 (Addison 2026), $70.19 (Douglas 2025), $70.00 (Wilmington); paratransit $98.73 (Milwaukee); fixed route $147.32 (Summit County). OMNIA list: microtransit $50.47-$80.75, paratransit $60.56-$100.94, fixed route $90.85-$141.32. Median stated rate ~$60. Escalation: UTA $55.97 (2022) to $68.33 (2024), about 10% a year on that account; assume 3%-4% generally. | census hourly_rate_usd; text/enum/omnia_price_schedule.csv |
-| Q1: vehicles under contract | NTD RY2024: 304 vehicles under Via purchased-transportation contracts at 15 full-reporting agencies. Census fleet sizes on 40 turnkey rows sum to 712 (Trinity 80, Arlington 65-68, SacRT 42, UTA 35, Wilson 26). | text/enum/ntd_contractual_hits.csv (VOMS Under Contract); census fleet_size |
+| Q1: vehicles under contract | NTD RY2024: 632 vehicles under Via purchased-transportation contracts at 26 agencies (corrected 2026-09-21; was 304 at 15). Census fleet sizes on 40 turnkey rows sum to 712 (Trinity 80, Arlington 65-68, SacRT 42, UTA 35, Wilson 26). | text/enum/ntd_contractual_hits.csv (VOMS Under Contract); census fleet_size |
 | Q2: hours per vehicle-year | Arlington 2,755 (192,845 DR/PT hours / 70 vehicles), BFT 3,525, HRT ~4,400 for 7-day service. Design range: 2,080 (8 hours weekdays) to 4,380 (12 hours daily). | text/enum/ntd_monthly_via_agencies.csv |
-| Composite | NTD 2024: $42.7mm / 304 vehicles = about $140,000 of revenue per contracted vehicle-year. BFT check: $3.32mm / 59,921 hours = $55.40 per hour against a $53.89-$57.50 contract rate. | arithmetic |
+| Composite | NTD RY2024: $96.8mm / 632 vehicles = about $153,000 of revenue per contracted vehicle-year (corrected 2026-09-21; earlier $140,000). BFT check: $3.32mm / 59,921 hours = $55.40 per hour against a $53.89-$57.50 contract rate. | arithmetic |
 
 Implied scale: US operations revenue of about $190mm in 2025 corresponds to roughly 1,350 contracted vehicle-years at $140k each. Growth
 decomposes into vehicles added (new awards and zone expansions, less lost contracts), hours per vehicle (7-day and evening expansions), and rate
@@ -297,7 +297,7 @@ by stated funding type plus 69 unknown).
 | Parameter | Estimate | Basis (census, NTD) |
 |---|---|---|
 | Competitive loss, software | 3%-4% a year | 6 existing software relationships displaced by Spare/RideCo in ~2.5 years (Baldwin, Hillsborough, Met Council, Ben Franklin paratransit software, El Paso, LA Metro software) out of ~70 |
-| Competitive loss, turnkey | <1% a year (dollar-lumpy) | 1 case in ~5 years: Hampton Roads 2021 (NTD payments $7.05mm -> $0.57mm as operations moved to another contractor; Via re-won an $8.9mm contract in 10/2025) |
+| Competitive loss, turnkey | <1% a year (dollar-lumpy) | No competitive turnkey loss found in NTD RY2019-24 (corrected 2026-09-21: the apparent Hampton Roads 2021 drop was the seller name changing to "VIA, North River Transit"; HRT payments ran $5.5mm, $5.7mm, $8.8mm, $11.2mm for RY2021-24). Turnkey exits in the census are budget decisions (SacRT, SARTA, Palo Alto, Milwaukee, Jersey City) |
 | Funding loss, local/recurring | ~2% a year, plus downsell | 2 endings in 32 stated over ~3 years; downsizes at Palo Alto, Milwaukee, Montgomery County, SacRT |
 | Funding loss, federal formula | 5%-15% level-cut risk after 2026-09-30 | no funding-driven ending on record; judgment, label as such |
 | Funding loss, federal one-time (at grant expiry) | 40%-50% | roughly half to 60% of one-time-funded pilots continued intact (Arlington converted; Cupertino renewed; Palo Alto and SacRT continued smaller; SARTA ended; Milwaukee cut) |
@@ -313,6 +313,8 @@ Resulting cells (annual, or at-expiry where marked):
 Two refinements: (1) turnkey's common bad outcome is downsizing, so carry a dollar downsell rate of 2%-4% a year on locally funded turnkey separately from
 logo loss; (2) one-time and state-grant hazards are event probabilities applied in the grant's expiry year, so they require the contract calendar
 (`out/short_case_clock.md`), not an annual rate.
+
+Note (2026-09-21): the NTD seller-name match was widened (plain "VIA", "River North (VIA)", "VIA, North River Transit", "Via / River North LLC", "Via (RiverNorth Transit)"), adding DCTA, UTA, Hampton Roads, King County, Bi-State, CATS Baton Rouge, Green Bay, Toledo, SARTA, BJCTA, Milwaukee and Ann Arbor. RY2024 payments are $96.8mm across 26 agencies (was $42.7mm / 15); the series is 2.0 / 9.7 / 17.6 / 37.2 / 58.6 / 96.8 for RY2019-24; VOMS under Via contracts 632. Every added agency is continuous through RY2024 except SARTA (budget termination 11/2024), so the funding-survival evidence above strengthens. Two reconciliation tensions follow and are carried into the workbook: (a) the corrected US operations build (layers 1-4, $168mm in 2024) exceeds the US services revenue implied by the filings at 26% services GM ($110mm-$148mm depending on how much of other-international is services), which points to services GM nearer 30% or to Germany carrying software; (b) the 10-K revenue-by-customer-type note shows commercial revenue flat at $26.6mm / $26.6mm / $27.9mm for 2023-25, so the undocumented software base cannot be a growing private-sector book.
 
 ## 12. Decision: the architecture to build (added 2026-09-21)
 

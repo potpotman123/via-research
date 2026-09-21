@@ -27,8 +27,8 @@ software at a few hundred dollars per vehicle per month and turnkey operations a
 12 hours a day, software is 1.4% to 2.3% of first-year cost and the $27,758.50 installation fee is 54% of first-year software fees; Bleecker's
 31%-153% implementation range is exactly this schedule from 20 vehicles down to 1. Claims 2 through 5 are reproduced, not merely supported.
 
-**3. Growth is real, and it is turnkey.** NTD purchased-transportation payments to Via entities by full-reporting agencies rose from $9.4mm
-(RY2020) to $42.7mm (RY2024), before LA Metro's operations contract ($135.0mm over the base and options, awarded 2024-10) enters the data.
+**3. Growth is real, and it is turnkey.** NTD purchased-transportation payments to Via entities by full-reporting agencies rose from $9.7mm
+(RY2020) to $96.8mm (RY2024, 26 agencies; corrected 2026-09-21 after widening the seller-name match, which had missed rows entered as plain "VIA"), before LA Metro's operations contract ($135.0mm over the base and options, awarded 2024-10) enters the data.
 Since 2024 Via has become the operator of entire transit systems: Sioux Falls ($11.2mm RY2024), Mobile ($12.1mm a year from 2025-09), TCATA
 (2025-12), Rochester MN ($77.8mm over five years, 2026-07). Of 20 contract actions dated after the Bleecker report, 12 are Turnkey and 1 Hybrid;
 the documented software-only new business has no stated price. NTD monthly revenue hours at most Via turnkey agencies were still rising in the

@@ -1,0 +1,84 @@
+year,agency,seller,mode,pay,fares_by,ptfare,voms,months
+2019,Fort Worth Transportation Authority,nan | River North Transit LLC dba VIA,DR/PT,145280.0,Seller,196.0,5,3
+2019,City of Arlington,nan | VIA Transportation Inc.,DT/PT,1812418.0,Seller,372414.0,30,12
+2020,Ben Franklin Transit,"Via Transportation, LLC",DR/PT,379951.0,Buyer,0.0,13,9
+2020,Transportation District Commission of Hampton Roads,"VIA, T/A River North Transit",DR/PT,7051309.0,Buyer,595583.0,91,12
+2020,Transportation District Commission of Hampton Roads,"VIA, North River Transit",DR/TN,1322.0,Buyer,111.0,4,2
+2020,Transportation District Commission of Hampton Roads,"VIA, North River Transit",DR/TX,283914.0,Buyer,26464.0,20,6
+2020,City of Green Bay,VIA,DR/PT,43525.0,Seller,274906.0,7,9
+2020,City of Arlington,VIA Transportation Inc.,DR/TN,1979033.0,Seller,427692.0,40,12
+2021,Ben Franklin Transit,"Via Transportation, LLC",DR/PT,978343.0,Buyer,2526.0,12,12
+2021,Transportation District Commission of Hampton Roads,"VIA, North River Transit",DR/PT,5504799.0,Buyer,679066.0,65,12
+2021,Transportation District Commission of Hampton Roads,"VIA, T/A River North Transit",DR/TN,342534.0,Buyer,30451.0,10,12
+2021,Transportation District Commission of Hampton Roads,"VIA, T/A River North Transit",DR/TX,231322.0,Buyer,14580.0,7,12
+2021,Sarasota County ,River North Transit LLC,DR/PT,897415.0,Seller,25960.0,19,4
+2021,City of Green Bay,VIA - MICRO,DR/PT,477456.0,Seller,8597.0,6,5
+2021,City of Green Bay,VIA - PARA,DR/PT,283000.0,Seller,273901.0,6,12
+2021,County of Muskegon,River North Transit LLC,DR/PT,233957.0,Buyer,12046.0,5,4
+2021,City of Arlington,VIA Transportation Inc.,DR/TN,6064956.0,Seller,821482.0,67,12
+2021,Denton County Transportation Authority,VIA,DR/PT,402054.0,Seller,3360.0,20,1
+2021,Utah Transit Authority,VIA,DR/PT,2232999.0,Buyer,59707.0,20,4
+2022,Ben Franklin Transit,"Via Transportation, LLC",DR/PT,2337076.0,Buyer,20727.0,12,12
+2022,Transportation District Commission of Hampton Roads,"VIA, North River Transit",DR/PT,5700528.0,Buyer,868370.0,70,12
+2022,Transportation District Commission of Hampton Roads,"VIA, T/A River North Transit",DR/TN,662920.0,Buyer,90789.0,21,12
+2022,Transportation District Commission of Hampton Roads,"VIA, T/A River North Transit",DR/TX,194487.0,Buyer,24886.0,4,12
+2022,Sarasota County ,River North Transit LLC,DR/PT,3801397.0,Seller,230501.0,29,12
+2022,City of Green Bay,VIA - MICRO,DR/PT,1060258.0,Seller,14622.0,6,12
+2022,City of Green Bay,VIA - PARA,DR/PT,305149.0,Seller,241519.0,6,12
+2022,County of Muskegon,River North Transit LLC,DR/PT,833142.0,Buyer,120349.0,5,12
+2022,Capital Area Transit System,Via / River North LLC,DR/PT,892386.0,Buyer,7076.0,5,7
+2022,City of Arlington,VIA Transportation Inc.,DR/TN,7993191.0,Seller,2008390.0,75,12
+2022,Denton County Transportation Authority,VIA,DR/PT,7551216.0,Seller,371439.0,57,12
+2022,Utah Transit Authority,VIA,DR/PT,5822818.0,Buyer,109817.0,45,12
+2022,County of Placer,Tahoe Downtowner LLC,DR/PT,2715525.0,Buyer,0.0,11,12
+2023,King County,Via,DR/PT,5891419.0,Seller,47614.0,31,10
+2023,Pierce County Transportation Benefit Area Authority,Via Transportation Inc,DR/PT,211799.0,Buyer,460.0,2,2
+2023,Ben Franklin Transit,"Via Transportation, LLC",DR/PT,2907293.0,Buyer,14418.0,12,12
+2023,Worcester Regional Transit Authority,River North Transit LLC,DR/PT,586807.0,Buyer,49474.0,4,12
+2023,Suffolk County ,"VIA Mobility, LLC.",DR/PT,185666.0,Buyer,12491.0,5,3
+2023,Transportation District Commission of Hampton Roads,"VIA, North River Transit",DR/PT,8831912.0,Buyer,768821.0,65,12
+2023,Transportation District Commission of Hampton Roads,"VIA, T/A River North Transit",DR/TN,2676578.0,Buyer,270461.0,32,12
+2023,Transportation District Commission of Hampton Roads,"VIA, T/A River North Transit",DR/TX,500493.0,Buyer,35146.0,2,12
+2023,Birmingham-Jefferson County Transit Authority,River North,DR/PT,474314.0,Buyer,17250.0,12,10
+2023,Sarasota County ,River North Transit LLC,DR/PT,4321719.0,Seller,486083.0,29,12
+2023,City of Valdosta,River North Transit LLC,DR/PT,1018559.0,Seller,137291.0,10,12
+2023,City of Green Bay,VIA - MICRO,DR/PT,1678322.0,Seller,21071.0,6,12
+2023,City of Green Bay,VIA - PARA,DR/PT,284142.0,Seller,227356.0,6,12
+2023,County of Muskegon,River North Transit LLC,DR/PT,1031621.0,Buyer,200416.0,7,12
+2023,Capital Area Transit System,Via / River North LLC,DR/PT,1287069.0,Buyer,15678.0,6,12
+2023,City of Arlington,VIA Transportation Inc.,DR/TN,9299919.0,Seller,1999400.0,80,12
+2023,City of Grand Prairie ,River North Transit LLC,DR/PT,3232683.0,Buyer,295579.0,17,12
+2023,Denton County Transportation Authority,VIA,DR/PT,7720750.0,Seller,890197.0,61,12
+2023,Utah Transit Authority,VIA,DR/PT,6421789.0,Buyer,389600.0,43,12
+2023,County of Placer,Tahoe Downtowner LLC,DR/PT,3392644.0,Buyer,0.0,11,12
+2024,King County,Via,DR/PT,8797221.0,Seller,38957.0,40,12
+2024,Pierce County Transportation Benefit Area Authority,Via Transportation Inc,DR/PT,2577497.0,Buyer,218.0,8,12
+2024,Ben Franklin Transit,"Via Transportation, LLC",DR/PT,3319553.0,Buyer,14810.0,17,12
+2024,Snohomish County Public Transportation Benefit Area Corporation,"Via Transportation, Inc",DR/PT,428610.0,Buyer,977.0,13,1
+2024,Worcester Regional Transit Authority,River North Transit LLC,DR/PT,607076.0,Buyer,51799.0,4,12
+2024,Suffolk County,"VIA Mobility, LLC.",DR/PT,1699855.0,Buyer,48991.0,10,12
+2024,Transportation District Commission of Hampton Roads,"VIA, North River Transit",DR/PT,11246249.0,Buyer,789983.0,71,12
+2024,Transportation District Commission of Hampton Roads,"VIA, T/A River North Transit",DR/TN,1212143.0,Buyer,372840.0,44,12
+2024,Transportation District Commission of Hampton Roads,"VIA, T/A River North Transit",DR/TX,334544.0,Buyer,15871.0,2,12
+2024,County of Volusia,Via Transportation Inc.,DR/PT,1679640.0,Buyer,88353.0,10,12
+2024,Birmingham-Jefferson County Transit Authority,River North,DR/PT,591903.0,Buyer,36100.0,12,12
+2024,Sarasota County,River North Transit LLC,DR/PT,5061490.0,Seller,645089.0,34,12
+2024,City of Valdosta,River North Transit LLC,DR/PT,855187.0,Seller,110935.0,12,12
+2024,City of Green Bay,VIA - PARA,DR/PT,235722.0,Seller,234765.0,5,12
+2024,City of Green Bay,VIA - MICRO,DR/PT,1677364.0,Seller,21483.0,6,12
+2024,Milwaukee County,VIA,DR/PT,313834.0,Buyer,310.0,1,5
+2024,Stark Area Regional Transit Authority,VIA,DR/PT,716612.0,Buyer,4174.0,8,6
+2024,Toledo Area Regional Transit Authority,River North (VIA),DR/TX,1828538.0,Seller,63525.0,16,8
+2024,County of Muskegon,River North Transit LLC,DR/PT,1049097.0,Buyer,233373.0,7,12
+2024,Ann Arbor Area Transportation Authority,Via / River North,DR/PT,129429.0,Seller,4803.0,5,1
+2024,Lorain County,Via River North Transit,DR/PT,988396.0,Seller,44723.0,14,7
+2024,Capital Area Transit System,Via / River North LLC,DR/PT,4555598.0,Buyer,72871.0,18,12
+2024,City of Arlington,VIA Transportation Inc.,DR/TN,7750303.0,Seller,1495066.0,70,12
+2024,City of Grand Prairie,River North Transit LLC,DR/PT,3268039.0,Buyer,314010.0,18,12
+2024,Denton County Transportation Authority,VIA,DR/PT,8154214.0,Seller,986926.0,67,12
+2024,City of Norman,"Via Transportation, Inc.",DR/PT,643601.0,Buyer,6989.0,5,11
+2024,Bi-State Development Agency of the Missouri-Illinois Metropolitan District,Via (RiverNorth Transit),DR/PT,5680132.0,Seller,267304.0,32,12
+2024,Utah Transit Authority,VIA,DR/PT,10150519.0,Buyer,496852.0,47,12
+2024,City of Sioux Falls,Sioux Falls Transit LLC,DR/PT,4217493.0,Buyer,162331.0,18,12
+2024,City of Sioux Falls,Sioux Falls Transit LLC,MB/PT,7012966.0,Buyer,256102.0,18,12
+2024,County of Placer,Tahoe Downtowner LLC,DR/PT,3545267.0,Buyer,0.0,11,12

@@ -1,23 +1,33 @@
 layer,agency,state,scope,basis,y2024,y2025,y2026,y2027,p
+1 NTD-paid operations,Transportation District Commission of Hampton Roads,,Turnkey,"NTD RY2024 direct payment to VIA, T/A River North Transit",12792936,14072230,15198008,15805928,1
 1 NTD-paid operations,City of Sioux Falls,,Turnkey,NTD RY2024 direct payment to Sioux Falls Transit LLC,11230459,12353505,13341785,13875457,1
+1 NTD-paid operations,Utah Transit Authority,,Turnkey,NTD RY2024 direct payment to VIA,10150519,11165571,12058817,12541169,1
+1 NTD-paid operations,King County,,Turnkey,NTD RY2024 direct payment to Via,8797221,9676943,10451099,10869142,1
+1 NTD-paid operations,Denton County Transportation Authority,,Turnkey,NTD RY2024 direct payment to VIA,8154214,8969635,9687206,10074694,1
 1 NTD-paid operations,City of Arlington,,Turnkey,NTD RY2024 direct payment to VIA Transportation Inc.,7750303,8525333,9207360,9575654,1
+1 NTD-paid operations,Bi-State Development Agency of the Missouri-Illinois Metropolitan District,,Turnkey,NTD RY2024 direct payment to Via (RiverNorth Transit),5680132,6248145,6747997,7017917,1
 1 NTD-paid operations,Sarasota County,,Turnkey,NTD RY2024 direct payment to River North Transit LLC,5061490,5567639,6013050,6253572,1
+1 NTD-paid operations,Capital Area Transit System,,Turnkey,NTD RY2024 direct payment to Via / River North LLC,4555598,5011158,5412050,5628532,1
 1 NTD-paid operations,Ben Franklin Transit,,Turnkey,"NTD RY2024 direct payment to Via Transportation, LLC",3319553,3651508,3943629,4101374,1
 1 NTD-paid operations,City of Grand Prairie,,Turnkey,NTD RY2024 direct payment to River North Transit LLC,3268039,3594843,3882430,4037728,1
 1 NTD-paid operations,Pierce County Transportation Benefit Area Authority,,Turnkey,NTD RY2024 direct payment to Via Transportation Inc,2577497,2835247,3062066,3184549,1
+1 NTD-paid operations,City of Green Bay,,Turnkey,NTD RY2024 direct payment to VIA - MICRO,1913086,2104395,2272746,2363656,1
+1 NTD-paid operations,Toledo Area Regional Transit Authority,,Turnkey,"NTD RY2024 direct payment to River North (VIA); 8 months in FY, annualized to 2,560,000 (capped at VOMS x 160,000)",1828538,2816000,3041280,3162931,1
 1 NTD-paid operations,Suffolk County,,Turnkey,"NTD RY2024 direct payment to VIA Mobility, LLC.",1699855,1869841,2019428,2100205,1
 1 NTD-paid operations,County of Volusia,,Turnkey,NTD RY2024 direct payment to Via Transportation Inc.,1679640,1847604,1995412,2075229,1
-1 NTD-paid operations,Transportation District Commission of Hampton Roads,,Turnkey,"NTD RY2024 direct payment to VIA, T/A River North Transit; census award 2025-10 run-rate 2,954,393 x 0.8 lifts 2026-27",1546687,1701356,2363514,2458055,1
 1 NTD-paid operations,County of Muskegon,,Turnkey,NTD RY2024 direct payment to River North Transit LLC,1049097,1154007,1246327,1296180,1
-1 NTD-paid operations,Lorain County,,Turnkey,"NTD RY2024 direct payment to Via River North Transit; census extension 2025-07-01 run-rate 2,200,000 x 0.8 lifts 2026-27",988396,1087236,1760000,1830400,1
+1 NTD-paid operations,Lorain County,,Turnkey,"NTD RY2024 direct payment to Via River North Transit; 7 months in FY, annualized to 1,694,393 (capped at VOMS x 160,000)",988396,1863832,2012939,2093457,1
 1 NTD-paid operations,City of Valdosta,,Turnkey,NTD RY2024 direct payment to River North Transit LLC,855187,940706,1015962,1056601,1
-1 NTD-paid operations,City of Norman,,Turnkey,"NTD RY2024 direct payment to Via Transportation, Inc.",643601,707961,764598,795182,1
+1 NTD-paid operations,Stark Area Regional Transit Authority,,Turnkey,"NTD RY2024 direct payment to VIA; 6 months in FY, annualized to 1,280,000 (capped at VOMS x 160,000); census termination -> zero from 2025",716612,0,0,0,1
+1 NTD-paid operations,City of Norman,,Turnkey,"NTD RY2024 direct payment to Via Transportation, Inc.; 11 months in FY, annualized to 702,110 (capped at VOMS x 160,000)",643601,772321,834107,867471,1
 1 NTD-paid operations,Worcester Regional Transit Authority,,Turnkey,NTD RY2024 direct payment to River North Transit LLC,607076,667784,721206,750055,1
-1 NTD-paid operations,Snohomish County Public Transportation Benefit Area Corporation,,Turnkey,"NTD RY2024 direct payment to Via Transportation, Inc",428610,471471,509189,529556,1
-2 census-priced operations,Los Angeles County Metropolitan Transportation Authority,CA,Turnkey,"census award 2024-10-03: run-rate 22,503,253 x haircut 0.8; start 2024-12-16",18002602,18002602,18002602,18722707,1
-2 census-priced operations,Trinity Metro (Fort Worth Transportation Authority),TX,Hybrid,"census award 2024-02-20: run-rate 15,876,000 x haircut 0.8; start 2024-06-01",12700800,12700800,12700800,13208832,1
+1 NTD-paid operations,Birmingham-Jefferson County Transit Authority,,Turnkey,"NTD RY2024 direct payment to River North; census renewal 2025-09-23 run-rate 2,500,000 x 0.8 lifts 2026-27",591903,651093,2000000,2080000,1
+1 NTD-paid operations,Snohomish County Public Transportation Benefit Area Corporation,,Turnkey,"NTD RY2024 direct payment to Via Transportation, Inc; 1 months in FY, annualized to 2,080,000 (capped at VOMS x 160,000)",428610,2288000,2471040,2569882,1
+1 NTD-paid operations,Milwaukee County,,Turnkey,"NTD RY2024 direct payment to VIA; 5 months in FY, annualized to 160,000 (capped at VOMS x 160,000)",313834,176000,190080,197683,1
+1 NTD-paid operations,Ann Arbor Area Transportation Authority,,Turnkey,"NTD RY2024 direct payment to Via / River North; 1 months in FY, annualized to 800,000 (capped at VOMS x 160,000)",129429,880000,950400,988416,1
+2 census-priced operations,Los Angeles County Metropolitan Transportation Authority,CA,Turnkey,"census award 2024-10-03: run-rate 22,503,253 x haircut 0.8; start 2024-12-16",1500217,18002602,18002602,18722707,1
+2 census-priced operations,Trinity Metro (Fort Worth Transportation Authority),TX,Hybrid,"census award 2024-02-20: run-rate 15,876,000 x haircut 0.8; start 2024-06-01",7408800,12700800,12700800,13208832,1
 2 census-priced operations,City of Mobile,AL,Turnkey,"census award 2025-09-16: run-rate 12,100,000 x haircut 0.8; start 2025-09-16",0,4840000,9680000,10067200,1
-2 census-priced operations,Denton County Transportation Authority (DCTA),TX,Turnkey,"census award 2025-09-24: run-rate 11,876,205 x haircut 0.8; start 2025-10-01",0,4750482,9500964,9881003,1
 2 census-priced operations,City of Plano,TX,Turnkey,"census award 2026-02-23: run-rate 8,000,000 x haircut 0.8; start 2026-02-23",0,0,5866667,6656000,1
 2 census-priced operations,Miami-Dade County,FL,Turnkey,"census amendment 2023-09-01: run-rate 7,891,583 x haircut 0.8; start 2023-09-01",6313267,6313267,6313267,6565797,1
 2 census-priced operations,Suburban Mobility Authority for Regional Transportation (SMART),MI,Turnkey,"census other 2024-01-25: run-rate 7,795,000 x haircut 0.8; start 2023-12-13",6236000,6236000,6236000,6485440,1
@@ -25,16 +35,13 @@ layer,agency,state,scope,basis,y2024,y2025,y2026,y2027,p
 2 census-priced operations,City of Jersey City,NJ,Turnkey,"census renewal : run-rate 7,700,000 x haircut 0.8; start n/a",6160000,6160000,6160000,6406400,1
 2 census-priced operations,City of Cupertino,CA,Turnkey,"census award 2023-03-07: run-rate 4,232,821 x haircut 0.8; start 2023-03-07",3386257,3386257,3386257,3521707,1
 2 census-priced operations,City of West Sacramento,CA,Turnkey,"census amendment 2023-06-07: run-rate 3,301,372 x haircut 0.8; start 2023-06-07",2641098,2641098,2641098,2746742,1
-2 census-priced operations,Toledo Area Regional Transit Authority,OH,Turnkey,"census award 2024-02-15: run-rate 3,245,000 x haircut 0.8; start 2024-02-15",2596000,2596000,2596000,2699840,1
 2 census-priced operations,Douglas County,CO,Turnkey,"census award 2025-03-25: run-rate 2,901,410 x haircut 0.8; start 2025-03-25",0,2321128,2321128,2413973,1
 2 census-priced operations,County of Placer,CA,Turnkey,"census renewal : run-rate 2,685,526 x haircut 0.8; start n/a",2148421,2148421,2148421,2234358,1
 2 census-priced operations,Grand County,UT,Turnkey,"census award 2026-08-04: run-rate 2,640,841 x haircut 0.8; start 2026-09-01",0,0,704224,2197180,1
-2 census-priced operations,Birmingham-Jefferson County Transit Authority (BJCTA),AL,Turnkey,"census renewal 2025-09-23: run-rate 2,500,000 x haircut 0.8; start 2025-09-23",0,1000000,2000000,2080000,1
-2 census-priced operations,Lorain County Board of Commissioners,OH,Turnkey,"census pilot 2024-03-26: run-rate 2,124,500 x haircut 0.8; start 2024-07-08",1699600,1699600,1699600,1767584,1
-2 census-priced operations,City and County of Denver,CO,Turnkey,"census award 2024-10-29: run-rate 1,997,227 x haircut 0.8; start 2024-10-29",1597782,1597782,1597782,1661693,1
-2 census-priced operations,City of Gastonia,NC,Turnkey,"census award 2024-01-03: run-rate 1,650,000 x haircut 0.8; start 2024-07-01",1320000,1320000,1320000,1372800,1
+2 census-priced operations,City and County of Denver,CO,Turnkey,"census award 2024-10-29: run-rate 1,997,227 x haircut 0.8; start 2024-10-29",399445,1597782,1597782,1661693,1
+2 census-priced operations,City of Gastonia,NC,Turnkey,"census award 2024-01-03: run-rate 1,650,000 x haircut 0.8; start 2024-07-01",660000,1320000,1320000,1372800,1
 2 census-priced operations,Town of Addison,TX,Turnkey,"census award 2026-03-24: run-rate 1,609,530 x haircut 0.8; start 2026-04-27",0,0,965718,1339129,1
-2 census-priced operations,County of Passaic,NJ,Turnkey,"census award 2024-10-22: run-rate 1,599,543 x haircut 0.8; start 2024-10-22",1279634,1279634,1279634,1330820,1
+2 census-priced operations,County of Passaic,NJ,Turnkey,"census award 2024-10-22: run-rate 1,599,543 x haircut 0.8; start 2024-10-22",319909,1279634,1279634,1330820,1
 2 census-priced operations,City of Wilson,NC,Turnkey,"census award 2020-09-01: run-rate 1,464,300 x haircut 0.8; start 2020-09-01",1171440,1171440,1171440,1218298,1
 2 census-priced operations,Regional Metropolitan Transit Authority of Omaha (Metro),NE,Turnkey,"census award : run-rate 1,385,259 x haircut 0.8; start n/a",1108207,1108207,1108207,1152536,1
 2 census-priced operations,City of Rosemead,CA,Turnkey,"census award 2025-05-13: run-rate 1,373,353 x haircut 0.8; start 2025-07-01",0,549341,1098683,1142630,1
@@ -42,44 +49,35 @@ layer,agency,state,scope,basis,y2024,y2025,y2026,y2027,p
 2 census-priced operations,City of Norwalk,CA,Turnkey,"census pilot : run-rate 1,220,185 x haircut 0.8; start n/a",976148,976148,976148,1015194,1
 2 census-priced operations,Tahoe Truckee Area Regional Transportation (TART),CA,Turnkey,"census award 2023-11-28: run-rate 1,212,121 x haircut 0.8; start 2024-01-01",969697,969697,969697,1008485,1
 2 census-priced operations,New Braunfels Urban Transit District,TX,Turnkey,"census award 2025-10-13: run-rate 1,146,000 x haircut 0.8; start 2025-10-13",0,458400,916800,953472,1
-2 census-priced operations,Cobb County (CobbLinc),GA,Turnkey,"census award 2024-10-29: run-rate 1,100,000 x haircut 0.8; start 2024-10-29",880000,880000,880000,915200,1
+2 census-priced operations,Cobb County (CobbLinc),GA,Turnkey,"census award 2024-10-29: run-rate 1,100,000 x haircut 0.8; start 2024-10-29",220000,880000,880000,915200,1
 2 census-priced operations,City of Palo Alto,CA,Turnkey,"census extension 2025-06-17: run-rate 1,100,000 x haircut 0.8; start 2025-06-17",0,880000,880000,915200,1
 2 census-priced operations,City of San Diego,CA,Turnkey,"census pilot 2025-08-12: run-rate 950,000 x haircut 0.8; start 2025-08-12",0,380000,760000,790400,1
 2 census-priced operations,"City of Brighton, Colorado",CO,Turnkey,"census award 2025-08-05: run-rate 800,000 x haircut 0.8; start 2025-08-05",0,320000,640000,665600,1
-2 census-priced operations,Milwaukee County,WI,Turnkey,"census pilot 2024-08: run-rate 660,000 x haircut 0.8; start 2024-08",528000,528000,528000,549120,1
-2 census-priced operations,Lake County,CO,Turnkey,"census award 2024-07-16: run-rate 460,249 x haircut 0.8; start 2024-07-16",368199,368199,368199,382927,1
-2 census-priced operations,Utah Transit Authority,UT,Turnkey,"census amendment 2025-02-12: run-rate 400,437 x haircut 0.8; start 2025-01-01",0,320350,320350,333164,1
+2 census-priced operations,Lake County,CO,Turnkey,"census award 2024-07-16: run-rate 460,249 x haircut 0.8; start 2024-07-16",184100,368199,368199,382927,1
 2 census-priced operations,Washoe County,NV,Turnkey,"census extension 2023-08-24: run-rate 400,000 x haircut 0.8; start 2024-01-01",320000,320000,320000,332800,1
 2 census-priced operations,Tacoma Public Schools (Tacoma School District),WA,Turnkey,"census award : run-rate 266,667 x haircut 0.8; start n/a",213333,213333,213333,221867,1
-"3 documented operations, no price",County of Volusia,FL,Turnkey,"imputed 1,500,000 (small documented operator)",1500000,1500000,1560000,1622400,1
-"3 documented operations, no price",Sarasota County,FL,Turnkey,"imputed 1,500,000 (small documented operator)",1500000,1500000,1560000,1622400,1
-"3 documented operations, no price",City of Valdosta,GA,Turnkey,"imputed 1,500,000 (small documented operator)",1500000,1500000,1560000,1622400,1
-"3 documented operations, no price",Twin Cities Area Transportation Authority (TCATA),MI,Turnkey,"imputed 1,500,000 (small documented operator)",1500000,1500000,1560000,1622400,1
-"3 documented operations, no price",City of Salisbury,NC,Turnkey,"imputed 1,500,000 (small documented operator)",1500000,1500000,1560000,1622400,1
-"3 documented operations, no price",New Jersey Transit Corporation MicroLink Bergen zone,NJ,Turnkey,"imputed 1,500,000 (small documented operator)",1500000,1500000,1560000,1622400,1
-"3 documented operations, no price",Union County,NJ,Turnkey,"imputed 1,500,000 (small documented operator)",1500000,1500000,1560000,1622400,1
-"3 documented operations, no price",City of Moab,UT,Turnkey,"imputed 1,500,000 (small documented operator)",1500000,1500000,1560000,1622400,1
-"3 documented operations, no price",Snohomish County Public Transportation Benefit Area Corporation (Community Transit),WA,Turnkey,"imputed 1,500,000 (small documented operator)",1500000,1500000,1560000,1622400,1
-"3 documented operations, no price",San Francisco Municipal Transportation Agency (SFMTA),CA,Turnkey,"imputed 1,500,000 (small documented operator)",1500000,1500000,1560000,1622400,1
-"3 documented operations, no price",City of Chandler,AZ,Turnkey,"imputed 1,500,000 (small documented operator)",1500000,1500000,1560000,1622400,1
-"3 documented operations, no price",Imperial County Transportation Commission (ICTC),CA,Turnkey,"imputed 1,500,000 (small documented operator)",1500000,1500000,1560000,1622400,1
-"3 documented operations, no price","Roaring Fork region towns (Aspen, Basalt, Carbondale, Glenwood Springs)",CO,Turnkey,"imputed 1,500,000 (small documented operator)",1500000,1500000,1560000,1622400,1
-"3 documented operations, no price",ATL Airport Community Improvement Districts (AACIDs),GA,Turnkey,"imputed 1,500,000 (small documented operator)",1500000,1500000,1560000,1622400,1
-"3 documented operations, no price",Citilink (Fort Wayne Public Transportation Corporation),IN,Turnkey,"imputed 1,500,000 (small documented operator)",1500000,1500000,1560000,1622400,1
-"3 documented operations, no price",Charlottesville Area Transit / Albemarle County,VA,Turnkey,"imputed 1,500,000 (small documented operator)",1500000,1500000,1560000,1622400,1
-"3 documented operations, no price",Region 4 Education Service Center (OMNIA Partners lead agency),TX,Turnkey,"imputed 1,500,000 (small documented operator)",1500000,1500000,1560000,1622400,1
-"3 documented operations, no price",Metropolitan Council (Metro Transit),MN,Turnkey,"imputed 1,500,000 (small documented operator)",1500000,1500000,1560000,1622400,1
-"3 documented operations, no price",City of Sunnyvale,CA,Turnkey,"imputed 1,500,000 (small documented operator)",1500000,1500000,1560000,1622400,1
-"3 documented operations, no price",Pierce Transit,WA,Turnkey,"imputed 1,500,000 (small documented operator)",1500000,1500000,1560000,1622400,1
-"3 documented operations, no price",Adams County,CO,Turnkey,"imputed 1,500,000 (small documented operator)",1500000,1500000,1560000,1622400,1
-"3 documented operations, no price",791 Purchasing Cooperative (Central Texas Council of Governments),TX,Turnkey,"imputed 1,500,000 (small documented operator)",1500000,1500000,1560000,1622400,1
-"3 documented operations, no price",City of Wilmington,NC,Turnkey,"imputed 1,500,000 (small documented operator)",1500000,1500000,1560000,1622400,1
-"3 documented operations, no price",City of Norman,OK,Turnkey,"imputed 1,500,000 (small documented operator)",1500000,1500000,1560000,1622400,1
-"3 documented operations, no price",Summit County,UT,Turnkey,"imputed 1,500,000 (small documented operator)",1500000,1500000,1560000,1622400,1
-"3 documented operations, no price",City of Springfield,OH,Turnkey,"imputed 1,500,000 (small documented operator)",1500000,1500000,1560000,1622400,1
-"3 documented operations, no price",City of Manhattan Beach,CA,Turnkey,"imputed 1,500,000 (small documented operator)",1500000,1500000,1560000,1622400,1
-"3 documented operations, no price",Kalamazoo Metro Transit (CCTA/KCTA),MI,Turnkey,"imputed 1,500,000 (small documented operator)",1500000,1500000,1560000,1622400,1
-"3 documented operations, no price",City of Sioux Falls / Sioux Area Metro (SAM),SD,Turnkey,"imputed 1,500,000 (small documented operator)",1500000,1500000,1560000,1622400,1
+"3 documented operations, no price",Twin Cities Area Transportation Authority (TCATA),MI,Turnkey,"imputed 900,000 (small documented operator)",900000,900000,936000,973440,1
+"3 documented operations, no price",City of Salisbury,NC,Turnkey,"imputed 900,000 (small documented operator)",900000,900000,936000,973440,1
+"3 documented operations, no price",New Jersey Transit Corporation MicroLink Bergen zone,NJ,Turnkey,"imputed 900,000 (small documented operator)",900000,900000,936000,973440,1
+"3 documented operations, no price",Union County,NJ,Turnkey,"imputed 900,000 (small documented operator)",900000,900000,936000,973440,1
+"3 documented operations, no price",City of Moab,UT,Turnkey,"imputed 900,000 (small documented operator)",900000,900000,936000,973440,1
+"3 documented operations, no price",San Francisco Municipal Transportation Agency (SFMTA),CA,Turnkey,"imputed 900,000 (small documented operator)",900000,900000,936000,973440,1
+"3 documented operations, no price",City of Chandler,AZ,Turnkey,"imputed 900,000 (small documented operator)",900000,900000,936000,973440,1
+"3 documented operations, no price",Imperial County Transportation Commission (ICTC),CA,Turnkey,"imputed 900,000 (small documented operator)",900000,900000,936000,973440,1
+"3 documented operations, no price","Roaring Fork region towns (Aspen, Basalt, Carbondale, Glenwood Springs)",CO,Turnkey,"imputed 900,000 (small documented operator)",900000,900000,936000,973440,1
+"3 documented operations, no price",ATL Airport Community Improvement Districts (AACIDs),GA,Turnkey,"imputed 900,000 (small documented operator)",900000,900000,936000,973440,1
+"3 documented operations, no price",Citilink (Fort Wayne Public Transportation Corporation),IN,Turnkey,"imputed 900,000 (small documented operator)",900000,900000,936000,973440,1
+"3 documented operations, no price",Charlottesville Area Transit / Albemarle County,VA,Turnkey,"imputed 900,000 (small documented operator)",900000,900000,936000,973440,1
+"3 documented operations, no price",Region 4 Education Service Center (OMNIA Partners lead agency),TX,Turnkey,"imputed 900,000 (small documented operator)",900000,900000,936000,973440,1
+"3 documented operations, no price",Metropolitan Council (Metro Transit),MN,Turnkey,"imputed 900,000 (small documented operator)",900000,900000,936000,973440,1
+"3 documented operations, no price",City of Sunnyvale,CA,Turnkey,"imputed 900,000 (small documented operator)",900000,900000,936000,973440,1
+"3 documented operations, no price",Adams County,CO,Turnkey,"imputed 900,000 (small documented operator)",900000,900000,936000,973440,1
+"3 documented operations, no price",791 Purchasing Cooperative (Central Texas Council of Governments),TX,Turnkey,"imputed 900,000 (small documented operator)",900000,900000,936000,973440,1
+"3 documented operations, no price",City of Wilmington,NC,Turnkey,"imputed 900,000 (small documented operator)",900000,900000,936000,973440,1
+"3 documented operations, no price",Summit County,UT,Turnkey,"imputed 900,000 (small documented operator)",900000,900000,936000,973440,1
+"3 documented operations, no price",City of Springfield,OH,Turnkey,"imputed 900,000 (small documented operator)",900000,900000,936000,973440,1
+"3 documented operations, no price",City of Manhattan Beach,CA,Turnkey,"imputed 900,000 (small documented operator)",900000,900000,936000,973440,1
+"3 documented operations, no price",Kalamazoo Metro Transit (CCTA/KCTA),MI,Turnkey,"imputed 900,000 (small documented operator)",900000,900000,936000,973440,1
 5 documented software (priced),City of Santa Fe (Santa Fe Trails),NM,Software-only,"census award 2018-06-19: annualized fee 38,000",38000,38000,39140,40314,1
 5 documented software (priced),LakeXpress (Lake County Board of County Commissioners),FL,Software-only,"census renewal 2024-03-28: annualized fee 33,450",33450,33450,34454,35487,1
 5 documented software (priced),City of Doral,FL,Software-only,"census award : annualized fee 11,000",11000,11000,11330,11670,1
@@ -139,7 +137,6 @@ layer,agency,state,scope,basis,y2024,y2025,y2026,y2027,p
 5 documented software (imputed),City of Commerce,CA,Software-only,"imputed ACV 60,000",60000,60000,60000,60000,1
 5 documented software (imputed),City of Los Angeles (Department of Transportation / LADOT),CA,Software-only,"imputed ACV 60,000",60000,60000,60000,60000,1
 4 app-only (probability-weighted),Arlington County,VA,Unknown,"30% x 800,000 ops + 70% x 60,000 software",282000,282000,282000,282000,0
-4 app-only (probability-weighted),County of Muskegon,MI,Unknown,"30% x 800,000 ops + 70% x 60,000 software",282000,282000,282000,282000,0
 4 app-only (probability-weighted),Oregon State University,OR,Unknown,"30% x 800,000 ops + 70% x 60,000 software",282000,282000,282000,282000,0
 4 app-only (probability-weighted),Marquette University,WI,Unknown,"30% x 800,000 ops + 70% x 60,000 software",282000,282000,282000,282000,0
 4 app-only (probability-weighted),Columbia University,NY,Unknown,"30% x 800,000 ops + 70% x 60,000 software",282000,282000,282000,282000,0
@@ -169,7 +166,6 @@ layer,agency,state,scope,basis,y2024,y2025,y2026,y2027,p
 4 app-only (probability-weighted),City of Topeka (Topeka Metro),KS,Unknown,"30% x 800,000 ops + 70% x 60,000 software",282000,282000,282000,282000,0
 4 app-only (probability-weighted),City of Tampa,FL,Unknown,"30% x 800,000 ops + 70% x 60,000 software",282000,282000,282000,282000,0
 4 app-only (probability-weighted),City of Beverly Hills,CA,Unknown,"30% x 800,000 ops + 70% x 60,000 software",282000,282000,282000,282000,0
-4 app-only (probability-weighted),Capital Area Transit System (CATS),LA,Unknown,"30% x 800,000 ops + 70% x 60,000 software",282000,282000,282000,282000,0
 4 app-only (probability-weighted),City of Frisco,TX,Unknown,"30% x 800,000 ops + 70% x 60,000 software",282000,282000,282000,282000,0
 4 app-only (probability-weighted),City of Largo,FL,Unknown,"30% x 800,000 ops + 70% x 60,000 software",282000,282000,282000,282000,0
 4 app-only (probability-weighted),City of Oceanside,CA,Unknown,"30% x 800,000 ops + 70% x 60,000 software",282000,282000,282000,282000,0
@@ -193,9 +189,7 @@ layer,agency,state,scope,basis,y2024,y2025,y2026,y2027,p
 4 app-only (probability-weighted),Connect Transit (Bloomington-Normal Public Transit System),IL,Unknown,"30% x 800,000 ops + 70% x 60,000 software",282000,282000,282000,282000,0
 4 app-only (probability-weighted),City of Durango,CO,Unknown,"30% x 800,000 ops + 70% x 60,000 software",282000,282000,282000,282000,0
 4 app-only (probability-weighted),Town of Crested Butte,CO,Unknown,"30% x 800,000 ops + 70% x 60,000 software",282000,282000,282000,282000,0
-4 app-only (probability-weighted),Ann Arbor Area Transportation Authority (TheRide),MI,Unknown,"30% x 800,000 ops + 70% x 60,000 software",282000,282000,282000,282000,0
 4 app-only (probability-weighted),Florida State University,FL,Unknown,"30% x 800,000 ops + 70% x 60,000 software",282000,282000,282000,282000,0
-4 app-only (probability-weighted),Green Bay Metro / City of Green Bay,WI,Unknown,"30% x 800,000 ops + 70% x 60,000 software",282000,282000,282000,282000,0
 4 app-only (probability-weighted),Golden Empire Transit District,CA,Unknown,"30% x 800,000 ops + 70% x 60,000 software",282000,282000,282000,282000,0
 4 app-only (probability-weighted),City of Idaho Falls,ID,Unknown,"30% x 800,000 ops + 70% x 60,000 software",282000,282000,282000,282000,0
 4 app-only (probability-weighted),Greater Lynchburg Transit Company (GLTC),VA,Unknown,"30% x 800,000 ops + 70% x 60,000 software",282000,282000,282000,282000,0
@@ -212,7 +206,6 @@ layer,agency,state,scope,basis,y2024,y2025,y2026,y2027,p
 4 app-only (probability-weighted),Mountain Express Transit,CO,Unknown,"30% x 800,000 ops + 70% x 60,000 software",282000,282000,282000,282000,0
 4 app-only (probability-weighted),Greater Portland Transit District (METRO),ME,Unknown,"30% x 800,000 ops + 70% x 60,000 software",282000,282000,282000,282000,0
 4 app-only (probability-weighted),Central Arkansas Transit Authority (Rock Region METRO),AR,Unknown,"30% x 800,000 ops + 70% x 60,000 software",282000,282000,282000,282000,0
-4 app-only (probability-weighted),King County Metro Transit,WA,Unknown,"30% x 800,000 ops + 70% x 60,000 software",282000,282000,282000,282000,0
 4 app-only (probability-weighted),Southwest Ohio Regional Transit Authority (SORTA / Metro),OH,Unknown,"30% x 800,000 ops + 70% x 60,000 software",282000,282000,282000,282000,0
 4 app-only (probability-weighted),City of Omaha (Metro),NE,Unknown,"30% x 800,000 ops + 70% x 60,000 software",282000,282000,282000,282000,0
 4 app-only (probability-weighted),City of Raleigh (GoRaleigh),NC,Unknown,"30% x 800,000 ops + 70% x 60,000 software",282000,282000,282000,282000,0
@@ -252,4 +245,4 @@ layer,agency,state,scope,basis,y2024,y2025,y2026,y2027,p
 4 app-only (probability-weighted),"JAUNT, Inc. (Central Virginia Transportation District)",VA,Unknown,"30% x 800,000 ops + 70% x 60,000 software",282000,282000,282000,282000,0
 4 app-only (probability-weighted),City of Steamboat Springs,CO,Unknown,"30% x 800,000 ops + 70% x 60,000 software",282000,282000,282000,282000,0
 6 Remix/unenumerated software,~250 Remix cities not in census,,Software-only,"250 x 30,000",7500000,7500000,7500000,7500000,0
-7 Downtowner (acquired 2025-12-12),Downtowner LLCs (~94 towns),,Turnkey,"range 25,000,000-45,000,000; pre-acquisition revenue not Via's",0,1821918,35000000,36400000,1
+7 Downtowner (acquired 2025-12-12),Downtowner LLCs (~94 towns),,Turnkey,"range 15,000,000-35,000,000; pre-acquisition revenue not Via's",0,1301370,25000000,26000000,1

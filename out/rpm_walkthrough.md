@@ -24,7 +24,7 @@ H. Checks and backtests.
 Why this shape and not the alternatives considered in the design doc:
 - Census count scaling (rejected): the census is size-biased toward public, large, turnkey actions; scaling 329 actions to 847 customers would
   extrapolate that bias. The filings give the denominators, so the census is used for composition, calendar, rates and hazards only.
-- Whole-book vehicle P x Q (rejected as driver, kept for new-win sizing): no fleet count exists; NTD covers 304 vehicles at 15 agencies.
+- Whole-book vehicle P x Q (rejected as driver, kept for new-win sizing): no fleet count exists; NTD covers 632 vehicles at 26 agencies (RY2024, corrected 2026-09-21).
 - Top-down TAM (kept as ceiling only): says how big the market could be, not what Via wins next year.
 - Filings-anchored split (chosen): one assumption (services GM) bounded by an identity; every other input is disclosed or dated.
 
@@ -49,17 +49,17 @@ Why this shape and not the alternatives considered in the design doc:
 | B | Services GM | 26% base; 22% / 30% cases; identity band 20%-32% | design doc section 9 (cost-of-revenue identity with software GM 70%-80%) |
 | B | Services revenue at 26% | 158.8 / 226.6 / 302.0 (2023-25); 185.8 1H26 | arithmetic on A |
 | B | Software residual at 26% | 90.1 / 111.0 / 132.3; 77.3 1H26 | arithmetic on A |
-| C | NTD payments to Via entities | 42.7 (RY2024) across 15 agencies; 2.0 / 9.4 / 8.7 / 15.8 / 26.0 for RY2019-23 | FTA NTD contractual relationship tables, `docs/ntd_turnkey_summary.md` |
+| C | NTD payments to Via entities | 96.8 (RY2024) across 26 agencies; 2.0 / 9.7 / 17.6 / 37.2 / 58.6 for RY2019-23 (agency fiscal years; corrected 2026-09-21 after widening the seller-name match) | FTA NTD contractual relationship tables, `docs/ntd_turnkey_summary.md` |
 | C | Census-priced operations | 37 contracts, 88.4 in 2025 after haircut | `out/via_contract_census.csv`, `out/us_revenue_build.csv` layer 2 |
 | C | Ceiling-to-spend haircut | 0.80 (Arlington 0.75, BFT 0.80, Grand Prairie 0.93) | census ceilings vs NTD payments at overlap agencies |
 | C | Unpriced documented operations | 29 contracts, 43.5 imputed | build layer 3 |
 | C | Rate per vehicle hour | $52-$70 microtransit; median ~$60; OMNIA list $50.47-$80.75 | census hourly_rate_usd; `text/enum/omnia_price_schedule.csv` |
-| C | Revenue per contracted vehicle-year | ~$140k | NTD RY2024 $42.7mm / 304 vehicles |
+| C | Revenue per contracted vehicle-year | ~$153k | NTD RY2024 $96.8mm / 632 vehicles |
 | C | Hours per vehicle-year | 2,755 (Arlington) to ~4,400 (HRT) | NTD monthly module |
 | C | Escalator | 3%-4% a year (UTA account ran ~10%) | census rate history |
 | C | 2026 signed wins | Rochester $15.6mm/yr from Sep-26; Mobile $12.1mm/yr; Plano ~$8mm; Sunnyvale $8.358mm total; Douglas +$1.5mm; Addison; Grand Prairie; Grand County | `out/post_bleecker_analysis.md` |
 | C | New-win volume | 250 / 150 / 100 vehicle-equivalents 2026-28 base | judgment anchored on 2026 signings (+200 to +300) |
-| C | Competitive hazard | software 3%-4%/yr (6 displacements since 2024); turnkey <1%/yr (HRT 2021) | competitor-award rows; loss list |
+| C | Competitive hazard | software 3%-4%/yr (6 displacements since 2024); turnkey: no competitive loss found in NTD RY2019-24 (the apparent HRT 2021 drop was a seller-name change in the table); exits are budget decisions | competitor-award rows; loss list; NTD |
 | C | Funding hazard | local ~2%/yr + downsell 2%-4%; federal formula 5%-15% level-cut judgment; one-time federal 40%-50% at expiry; state grant 25%-35% at expiry | design doc sections 10-11 |
 | C | Funding exposure | local ~45%, grant-linked ~30%, unknown ~20% of documented dollars | census funding_source |
 | C | Germany | 83.5 in 2025; -9% 2026 (Muva ~EUR10mm ended 2026-02-28; 2Q26 -12%); -5% 2027; flat after | 10-Q; BVG/press |
@@ -94,7 +94,7 @@ The split ties to reported totals by construction, so the tests are on the engin
 1. Walk-forward 2024 to 2025 (the primary backtest). Freeze the contract layer at 2024 (NTD RY2024 payments, census contracts signed by
    2024-12-31), roll to 2025 with escalators, annualization of 2024 signings, 2025 signings with actual start months, and realized losses (SARTA
    2024-11, Palo Alto reduction). Compare the layer's growth to the filings-derived services growth of +33%. Preliminary result from the current build:
-   the priced layer grew 17% (115.3 to 135.4) and the documented layer 13% (158.8 to 178.9), against +33% for services and +6% for Germany. The gap must
+   the priced layer grew 17% and the documented layer 13% on the pre-correction build; on the corrected build (2026-09-21) the NTD layer is 96.8 to 109.7 (+13%, an assumed hours growth) and layers 1-3 sum to 158.9 (2024, with mid-year starts prorated) to 207.0 (2025), +30%, against +33% for services and +6% for Germany. Layer-1 2025 values are still NTD x assumed growth until RY2025 publishes. The gap must
    be explained before the 2026-28 engine is trusted. Candidate explanations to test in order: (a) layer 1 uses NTD RY2024 x escalator for 2025 and so
    misses volume expansions at NTD agencies (fix: use NTD monthly revenue hours through July 2026 to update 2025-26 volumes per agency); (b) partial-year
    timing of Mobile (Sep-25) and DCTA (Sep-25) understates their 2025 run-rate contribution relative to the filings' quarterly recognition; (c) the

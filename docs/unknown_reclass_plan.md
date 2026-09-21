@@ -22,7 +22,7 @@ construction. 17 of the 53 carry a dollar figure; none carries an hourly rate; o
 | Signing entity "Via Transportation, Inc." | 36 Turnkey, 18 Software-only, 3 Hybrid: no rule | 17 (unresolved by entity) |
 | Annual value >= $1mm at a single city or county, no hourly rate | Documented software median $43k; largest ex-NYC DOE under $1mm | 8 (Bi-State, New Haven, Chandler, Norwalk, Passaic, Highland Park, Pace, Middlesex) |
 | Sibling-row inheritance (same agency, same program) | n/a | ~17 |
-| NTD contractual table (Via entity as purchased-transportation seller) | definitional | 3 (Suffolk, Valdosta, Lorain; all also covered by inheritance) |
+| NTD contractual table (Via entity as purchased-transportation seller) | definitional | 3 under the old narrow match; after widening the seller match (2026-09-21) NTD also resolves Bi-State ($5.68mm PT payments RY2024, 32 vehicles: Turnkey), SARTA, Milwaukee, Toledo, UTA and the other new layer-1 agencies |
 | Via press-release wording ("Via will operate", "driver partners", "Via's fleet" vs "powered by Via", "using Via's technology") | to be measured on classified rows before use | most of the 22 news-only rows and the 62 app-only rows |
 | Via driver-recruiting market list (ridewithvia.com drive pages, plus Wayback history) | to be measured | news-only and app-only rows |
 
