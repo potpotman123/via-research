@@ -208,3 +208,35 @@ gross margin contracts'.
 Implication for the RPM: take the segment split from this table (services 66%-73% depending on the margin assumption, 70% at 26%), grow services with the
 documented contract events and software with logo growth less displacement, and use the census only for (a) the contract-level layer inside services,
 (b) rate and ACV anchors, (c) the expiry and funding calendar, and (d) the post-report mix. Do not build the segment totals up from vehicles.
+
+## 9. Where the services gross margin comes from (added 2026-09-21)
+
+Not disclosed. FY2025 cost of revenue is $262.5mm = $223.5mm technology-enabled services (drivers, fleet, customer support) + $25.8mm launch and support
+personnel + $13.3mm IT and hosting. Software cost of revenue is IT plus some share (a) of launch/support; services cost is the rest. Given an assumed
+software gross margin (w), software revenue = software cost / (1 - w), services revenue is the residual, and the services margin follows. The table
+solves that identity for FY2025:
+
+| Launch/support allocated to software (a) | Software GM assumed (w) | Software revenue $mm (share) | Services revenue $mm (share) | Implied services GM |
+|---|---|---|---|---|
+| 0% | 70% | 44 (10%) | 390 (90%) | 36.1% |
+| 0% | 75% | 53 (12%) | 381 (88%) | 34.6% |
+| 0% | 80% | 67 (15%) | 368 (85%) | 32.2% |
+| 50% | 70% | 87 (20%) | 347 (80%) | 31.9% |
+| 50% | 75% | 105 (24%) | 330 (76%) | 28.3% |
+| 50% | 80% | 131 (30%) | 303 (70%) | 22.1% |
+| 100% | 70% | 130 (30%) | 304 (70%) | 26.5% |
+| 100% | 75% | 156 (36%) | 278 (64%) | 19.6% |
+| 100% | 80% | 196 (45%) | 239 (55%) | 6.4% |
+
+Reading: with software at 70%-80% gross margin and launch/support split between the two, the implied services margin falls between about 20% and 32%,
+and the services share of revenue between 64% and 80%. Bleecker's 26% (22% excluding support staff) sits inside that band: it corresponds to roughly
+half of launch/support on the services side and software near 75%-80%. Corner cases fail a sanity check: all launch/support on software with software
+at 80% GM implies services at 6% margin (a business Via would not expand into whole-system operations), and no launch/support on software with software
+at 70% implies software of only $53mm (below the identified US software accounts plus international).
+
+Sanity check from unit economics (illustrative, not a documented figure): an all-inclusive $60 per vehicle hour must cover the driver's pay and payroll
+costs, the vehicle lease or depreciation, fuel, maintenance, self-insured accident costs and dispatch/support. Whether that leaves 20% or 30% depends on
+local wages and utilization; it cannot plausibly leave 50%, which is the real content of the assumption.
+
+Model treatment: carry services GM as an input with 22% / 26% / 30% cases. It moves the services share by only about +/-4 points, so the split conclusion
+is robust; it moves segment gross profit and hence the SOTP value of the services piece, which is where the sensitivity belongs.
