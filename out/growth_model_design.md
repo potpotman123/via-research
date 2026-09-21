@@ -283,3 +283,33 @@ state programs, the North Texas DART-exit cluster (Plano, Addison, Highland Park
 tag for each year's growth to show how much of the increase came from conditions that have since expired or are one-off.
 
 **Geographic layer.** US (organic +40% 2025, +35% 1H26 including Downtowner), Germany (+6% 2025, -12% 2Q26 after Muva), all other (+8% 2025, +41% 1H26 off a small base).
+
+## 11. Factorized survival model for churn and downsell (added 2026-09-21)
+
+The census cannot support eight independent segment-by-funding probabilities (cells hold 2-9 agencies each, most censored). Treat the two axes as
+independent hazards and multiply:
+
+    survival(segment, funding, year) = (1 - competitive_loss[segment]) x (1 - funding_loss[funding type, year])
+
+Six parameters produce all eight cells, each estimated on the axis where observations pool (~70 software and ~72 turnkey relationships; 32/13/8/8 agencies
+by stated funding type plus 69 unknown).
+
+| Parameter | Estimate | Basis (census, NTD) |
+|---|---|---|
+| Competitive loss, software | 3%-4% a year | 6 existing software relationships displaced by Spare/RideCo in ~2.5 years (Baldwin, Hillsborough, Met Council, Ben Franklin paratransit software, El Paso, LA Metro software) out of ~70 |
+| Competitive loss, turnkey | <1% a year (dollar-lumpy) | 1 case in ~5 years: Hampton Roads 2021 (NTD payments $7.05mm -> $0.57mm as operations moved to another contractor; Via re-won an $8.9mm contract in 10/2025) |
+| Funding loss, local/recurring | ~2% a year, plus downsell | 2 endings in 32 stated over ~3 years; downsizes at Palo Alto, Milwaukee, Montgomery County, SacRT |
+| Funding loss, federal formula | 5%-15% level-cut risk after 2026-09-30 | no funding-driven ending on record; judgment, label as such |
+| Funding loss, federal one-time (at grant expiry) | 40%-50% | roughly half to 60% of one-time-funded pilots continued intact (Arlington converted; Cupertino renewed; Palo Alto and SacRT continued smaller; SARTA ended; Milwaukee cut) |
+| Funding loss, state grant (at grant expiry) | 25%-35% | Cupertino and SacRT renewed; Palo Alto's VTA grant sunset |
+
+Resulting cells (annual, or at-expiry where marked):
+
+| | Local recurring | Federal formula | Federal one-time (at expiry) | State grant (at expiry) |
+|---|---|---|---|---|
+| Turnkey | ~97% | ~90%-95% | ~55% | ~70% |
+| Software | ~93% | ~87%-91% | ~52% | ~66% |
+
+Two refinements: (1) turnkey's common bad outcome is downsizing, so carry a dollar downsell rate of 2%-4% a year on locally funded turnkey separately from
+logo loss; (2) one-time and state-grant hazards are event probabilities applied in the grant's expiry year, so they require the contract calendar
+(`out/short_case_clock.md`), not an annual rate.
