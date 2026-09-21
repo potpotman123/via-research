@@ -179,3 +179,32 @@ own line; classify Germany as operations unless documents show otherwise.
 
 **Outputs**: revenue by segment 2024-2028, growth by driver (vehicles, hours, rate, customers, price, churn), segment gross margin (operations 24%-28%,
 software 70%-80%), blended gross margin, then the income statement and the SOTP.
+
+## 8. The split from the filings alone (added 2026-09-21)
+
+Cost of revenue is disclosed with a 'technology-enabled services' component (driver management, fleet management, customer support), and each
+MD&A gives its year-over-year change: FY2025 $223.5mm; +$55.8mm vs 2024; +$50.2mm 2024 vs 2023; +$23.7mm 1H25 vs 1H24; +$18.0mm 1Q26; +$13.6mm 2Q26; +$31.6mm 1H26.
+Services revenue = services cost / (1 - services gross margin). One assumption, bounded by contract economics (all-inclusive hourly rates against
+driver, vehicle and insurance cost; transit operators run 15%-25% gross margins; Bleecker uses 26%). 1H25 services cost is pro-rated from FY2025 (est.).
+
+| $mm | 2023 | 2024 | 2025 | 1H25 (est.) | 1H26 (est.) |
+|---|---|---|---|---|---|
+| Total revenue | 248.9 | 337.6 | 434.3 | 205.8 | 263.1 |
+| Tech-enabled services cost | 117.5 | 167.7 | 223.5 | 105.9 | 137.5 |
+| Services revenue at 22% GM | 150.6 (61%) | 215.0 (64%) | 286.5 (66%) | 135.8 (66%) | 176.3 (67%) |
+| Software revenue (residual) at 22% | 98.2 | 122.6 | 147.8 | 70.0 | 86.9 |
+| Services revenue at 26% GM | 158.8 (64%) | 226.6 (67%) | 302.0 (70%) | 143.1 (70%) | 185.8 (71%) |
+| Software revenue (residual) at 26% | 90.1 | 111.0 | 132.3 | 62.7 | 77.3 |
+| Services revenue at 30% GM | 167.9 (67%) | 239.6 (71%) | 319.3 (74%) | 151.3 (74%) | 196.4 (75%) |
+| Software revenue (residual) at 30% | 81.0 | 98.1 | 115.1 | 54.5 | 66.7 |
+
+Growth at 26% services GM: services revenue +43% (2024), +33% (2025), +30% (1H26); software residual +23% (2024), +19% (2025), +23% (1H26). Services share rises from 64% to 71%.
+
+Management's own margin commentary matches the mix shift: 1Q26 gross margin fell to 39% 'attributable to a revenue mix shift towards certain lower gross
+margin contracts'; 2Q26's rise to 41% was 'primarily attributable to a higher percentage of non-subscription revenue' (implementation fees, 5% of revenue
+vs 2%), i.e., one-time launch fees rather than structural improvement. FY2024's decline to 39% was also 'due to the revenue mix shift towards certain lower
+gross margin contracts'.
+
+Implication for the RPM: take the segment split from this table (services 66%-73% depending on the margin assumption, 70% at 26%), grow services with the
+documented contract events and software with logo growth less displacement, and use the census only for (a) the contract-level layer inside services,
+(b) rate and ACV anchors, (c) the expiry and funding calendar, and (d) the post-report mix. Do not build the segment totals up from vehicles.
