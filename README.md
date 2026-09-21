@@ -184,3 +184,12 @@ Pipeline is rerunnable: `p1_*` enumerators -> `p2_fetch/extract/ocr/snippets/pac
 Batch ledger: `shards/batches/STATUS.csv`. Tier-3 adjudications are logged with reasons in `shards/_corrections.csv`.
 Known gaps: 62 app-only agencies without documents (`shards/apponly_observed.csv`), GDELT unusable (rate-limited), WARN covered 30 states with no Via hits,
 NTD RY2025 (LA Metro operations) not yet published, Spare's LA Metro price and Springfield's fee exhibit not located.
+
+## Model (added 2026-09-21)
+`model/KW VIA MODEL.xlsx` is Kendall's three-statement / DCF workbook with the revenue projection model built in by `scripts/m2_build_workbook.py`
+(the pre-rebuild copy is `model/KW VIA MODEL v1 baseline 2026-09-21.xlsx`; `model/baseline_outputs.csv` records its outputs). The script rewrites the
+'Revenue Build (KW)' tab in place (rows 20 and 30 stay where Three Statements and Summary expect them), adds 'Contract Layer (KW)' (59 documented US
+operations contracts with dates, funding tags, hazards and unsigned-win vintages), 'NTD Data' and 'SOTP (KW)', re-points Three Statements row 11
+(cost of revenue %) to the margin bridge, and adds the new tabs to the Cover with a checks flag. Rerun: `.venv/bin/python scripts/m2_build_workbook.py`
+(reads `out/via_contract_census.csv`, `out/us_revenue_build.csv`, `text/enum/ntd_contractual_hits.csv`); verify with a LibreOffice headless recalc.
+Design: `docs/model_build_plan.md`, `out/rpm_spec.md`, `out/growth_model_design.md` section 12.
