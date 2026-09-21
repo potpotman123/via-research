@@ -313,3 +313,43 @@ Resulting cells (annual, or at-expiry where marked):
 Two refinements: (1) turnkey's common bad outcome is downsizing, so carry a dollar downsell rate of 2%-4% a year on locally funded turnkey separately from
 logo loss; (2) one-time and state-grant hazards are event probabilities applied in the grant's expiry year, so they require the contract calendar
 (`out/short_case_clock.md`), not an annual rate.
+
+## 12. Decision: the architecture to build (added 2026-09-21)
+
+**Chosen: a filings-anchored two-segment model with a contract-level services engine and factorized churn.** Sections 8 and 9 set the totals and the
+services/software split; section 4 defines the segments; the contract layer of section 6 (large documented operations contracts only) drives services growth
+and the calendar; section 11's hazards drive churn and downsell; section 10's funding and macro tags decompose the growth bridge; geography comes from the
+filings (sections 1 and 6). Rejected as primary builds: the whole-book vehicle P x Q of section 7 (kept only to size new wins at ~$140k per contracted
+vehicle-year), the top-down TAM of section 3 (kept as a ceiling check), and any count-based scaling of the census.
+
+**Why this one.**
+- Feasible: every input exists today. Totals and segment costs are in the 10-K and 10-Qs; the top ~40 operations contracts have documented ceilings, start
+  dates, terms and often rates; NTD gives actual payments for 15 of them and a 0.80 ceiling-to-spend haircut; the funding calendar is in the census.
+- Precise: few free parameters, each bounded. Services gross margin (22%-30%) is the only assumption that moves the split, and it moves it by +/-4 points. The
+  contract layer is dated events, not rates. The census supplies composition and calibration; the filings supply the denominators, so nothing is
+  extrapolated from a size-biased sample.
+- Accurate where it can be checked: the build reconciles to 2024 US revenue within 9% and to NTD payments per agency; segment growth implied by services
+  cost (+43%, +33%, +30%) matches the contract wins; management's margin commentary matches the mix-shift mechanism.
+- Differentiated: the street has the totals and the guide. It does not have the contract calendar (DCTA, Arlington, Jersey City, LA Metro 2028), the
+  dollar-weighted hazard model (turnkey downsells that GRR cannot see), the funding-expiry exposure, the Berlin loss, or the mix-shift arithmetic that ties
+  27% growth to a flat 40% margin. Those are the pitch.
+
+**The two mandatory assumptions, encoded.**
+
+1. Growth decelerates because the 2026 tailwinds do not repeat.
+   Services_t = Services_{t-1} x survival (section 11 hazards, by funding tag) x (1 + rate escalator 3%-4%) - dollar downsell (2%-4% of locally funded
+   turnkey) + annualization of signed contracts (contract layer: Rochester, Mobile, Plano, Sunnyvale, Douglas, Addison, Grand Prairie, Grand County)
+   + new wins (vehicle-equivalents x $140k, 250 in 2026 fading to 150 in 2027 and 100 in 2028 in the base case) + Downtowner (2026 only, $15mm-$35mm).
+   Software_t = Software_{t-1} x (1 + logo growth 4%-9% + upsell 3%-5% - competitive churn 3%-4%) with Germany's software/operations decline carried
+   explicitly. Base-case output: total growth ~27% in 2026 (matches guide), 16%-22% in 2027, 12%-18% in 2028; organic ex-Downtowner 2026 ~21%-24%.
+
+2. Gross margin stays flat or falls because growth is services growth.
+   Blended GM_t = share_services_t x GM_services_t + share_software_t x GM_software_t + implementation-fee effect. GM_services: 26% base, flat to -0.5 pt a year
+   (driver wage inflation and self-insured incident costs run at or above the 3%-4% rate escalators); GM_software: 75% flat. With the services share rising
+   from 70% toward 75%, blended GM drifts from 40%-41% to 39%-40% by 2027-28, against a 50% long-term target; each 5-point mix shift toward services costs
+   about 2.5 points of blended margin. Below the line: SBC 11%-12% of revenue, so adjusted EBITDA can reach breakeven in 4Q26 while GAAP operating loss stays
+   near $80mm-$90mm a year.
+
+**Outputs.** Revenue by geography (US, Germany, other) and by segment (services, software) 2023A-2028E; growth bridge by driver and by macro tag; blended and
+segment gross margin; income statement to GAAP and adjusted EBITDA; SOTP with market-implied software multiple; scenario table (bear/base/bull) on 2027
+growth, services GM, and the software multiple; a reconciliation panel against 10-K 2025 actuals, 2026 guidance, RPO coverage, and NTD payments.
