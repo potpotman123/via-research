@@ -1,6 +1,6 @@
 # VIA contract census: analysis summary
 
-Generated from out/via_contract_census.csv: 418 rows = 328 Via contract actions (7 Downtowner pre-acquisition) + 28 competitor awards + 62 app-only observations.
+Generated from out/via_contract_census.csv: 419 rows = 329 Via contract actions (7 Downtowner pre-acquisition) + 28 competitor awards + 62 app-only observations.
 
 ## 1. Scope mix (Via contract actions, excl. Downtowner pre-acquisition)
 
@@ -8,11 +8,11 @@ Generated from out/via_contract_census.csv: 418 rows = 328 Via contract actions 
 |---|---|---|---|---|
 | Turnkey | 145 | 67 | 79 | 304.1 |
 | Hybrid | 9 | 8 | 2 | 23.7 |
-| Software-only | 114 | 70 | 55 | 7.5 |
+| Software-only | 115 | 70 | 56 | 14.7 |
 | Unknown | 53 | 47 | 8 | 12.4 |
-| **Total** | **321** | **164** | | **347.7** |
+| **Total** | **322** | **164** | | **354.9** |
 
-Dollar-weighted shares among rows with a value and a known scope (annualized; NTE ceilings treated as annual where the document gave only a ceiling and a term, so this overstates spend): Turnkey 91%, Hybrid 7%, Software-only 2%
+Dollar-weighted shares among rows with a value and a known scope (annualized; NTE ceilings treated as annual where the document gave only a ceiling and a term, so this overstates spend): Turnkey 89%, Hybrid 7%, Software-only 4%
 
 Caveats: the table above sums every action, so an agency with eight renewals counts eight times. It shows where the documented dollars sit, not a run-rate. Many software rows carry no dollar value (fees under council approval thresholds).
 
@@ -20,13 +20,13 @@ Caveats: the table above sums every action, so an agency with eight renewals cou
 
 | Scope | Agencies | Annualized $mm | Share of $ | Median $mm |
 |---|---|---|---|---|
-| Turnkey | 38 | 135.7 | 78% | 2.12 |
-| Hybrid | 2 | 23.7 | 14% | 15.88 |
-| Software-only | 34 | 2.9 | 2% | 0.05 |
-| Unknown | 7 | 11.7 | 7% | 0.88 |
-| **Total** | **81** | **173.9** | | |
+| Turnkey | 38 | 135.7 | 75% | 2.12 |
+| Hybrid | 2 | 23.7 | 13% | 15.88 |
+| Software-only | 35 | 10.1 | 6% | 0.05 |
+| Unknown | 7 | 11.7 | 6% | 0.88 |
+| **Total** | **82** | **181.1** | | |
 
-Excluding Unknown: Turnkey 84%, Hybrid 15%, Software-only 2%
+Excluding Unknown: Turnkey 80%, Hybrid 14%, Software-only 6%
 
 Method: annual_value_usd if stated, else total_value_usd / term_years_incl_options; rows lacking both are excluded, so this understates the software tail (small subscriptions often lack a stated term). Ceilings (NTE) are treated as the annual figure when the document states them per year, which overstates actual spend.
 
@@ -44,11 +44,11 @@ Top 15 agencies by run-rate:
 | Suburban Mobility Authority for Regional | MI | Turnkey | 2024-01-25 | 7.8 | not stated |
 | Rochester Public Transit | MN | Hybrid | 2026-07-06 | 7.8 | not stated |
 | City of Jersey City | NJ | Turnkey |  | 7.7 | not stated |
+| New York City Department of Education | NY | Software-only | 2019-08-01 | 7.2 |  |
 | Bi-State Development Agency (Metro Trans | MO | Unknown | 2025-04-18 | 6.3 | not stated |
 | City of Cupertino | CA | Turnkey | 2023-03-07 | 4.2 | not stated |
 | Ben Franklin Transit | WA | Turnkey | 2024-11-14 | 4.1 | per vehicle hour |
 | City of Grand Prairie | TX | Turnkey | 2026-07-21 | 3.5 | not stated |
-| City of West Sacramento | CA | Turnkey | 2023-06-07 | 3.3 | per vehicle hour |
 
 ## 2. Actions dated after 2025-12-16 (Bleecker report date)
 

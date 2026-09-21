@@ -104,3 +104,44 @@ GAAP EBITDA, and the implied price under each SOTP.
 4. Quarterly customer counts and NRR/GRR from each 10-Q, to model expansion and churn by quarter.
 5. LA Metro RY2025 NTD payments (publish ~October 2026), to anchor the largest operations contract.
 6. Street 2027 revenue and margin expectations, to define what "the market extrapolates" means numerically.
+
+## 6. Addendum (2026-09-21): geography by quarter, Berlin, NYC DOE, and the bottom-up US build
+
+Quarterly geographic revenue (10-Qs, $ thousands):
+
+| | 1Q25 | 1Q26 | 2Q25 | 2Q26 | 1H25 | 1H26 |
+|---|---|---|---|---|---|---|
+| United States | 69,520 | 94,343 (+36%) | 76,759 | 103,347 (+35%) | 146,279 | 197,690 (+35%) |
+| Germany | 19,805 | 20,464 (+3%) | 20,737 | 18,280 (-12%) | 40,542 | 38,744 (-4%) |
+| All other | 9,317 | 12,627 (+36%) | 9,637 | 14,080 (+46%) | 18,954 | 26,707 (+41%) |
+| Total | 98,642 | 127,434 | 107,133 | 135,707 | 205,775 | 263,141 |
+
+Germany turned negative in 2Q26. BVG's Muva on-demand service in Berlin, operated under a contract with ViaVan worth about EUR 10 million, ceased
+operations on 2026-02-28 and was replaced by a taxi-based Senate service (VBB-BAV) from 2026-01-01; BVG's chief called Muva "a business disaster" at
+about 160 riders a day (taxi-times.com; BVG; VBB press release). The $2.5mm year-over-year decline in 2Q26 German revenue is consistent with that
+contract's size. The 10-K does not name Berlin; it refers to "several contracts in Germany." Recurring subscription fees fell to 95% of revenue in 2Q26
+(98% a year earlier) as implementation fees from new launches rose.
+
+RPO: $275.5mm (3/31/26), $318.3mm (6/30/26); 45% due in the rest of 2026 and 37% ($118mm) in 2027, about 17% of a 2027 revenue base grown 27%.
+
+NYC Department of Education: five-year $36mm routing/tracking contract announced summer 2019; cumulative awards $51.7mm; Software-only (Chalkbeat
+2026-05-18; NYC Comptroller). Added to the census as a manual row; it is the largest US software account found.
+
+### Bottom-up US build (`scripts/p7_us_build.py` -> `out/us_revenue_build.csv`)
+Stratified by evidence quality, with each layer's assumption written into the row:
+1. NTD-paid operators: actual RY2024 payments ($42.7mm, 15 agencies), grown 10% for 2025 and 8% for 2026 (NTD hours), 4% escalator after.
+2. Census-priced operations not in NTD: ceiling x 0.80 (NTD payments ran 0.75-0.93 of documented ceilings for Arlington, BFT, Grand Prairie),
+   prorated by start date; concurrent same-day awards summed (LA Metro North + South = $22.5mm x 0.8).
+3. Documented operators with no stated price: $1.5mm each (small operators in NTD run $0.6mm-$1.1mm).
+4. App-only agencies: 30% probability of a $0.8mm operations contract, 70% of a $60k subscription.
+5. Documented software: stated fee, else $60k.
+6. Remix cities not enumerated: 250 x $30k.
+7. Downtowner: $25mm-$45mm, midpoint.
+
+Result vs the 10-K anchors: the build explains $202mm of $221mm US revenue in 2024 (91%) and $224mm of $310mm in 2025 (72%); it projects $286mm for
+2026 against roughly $420mm implied by guidance if international is flat, and $303mm for 2027 before new wins. The residual ($86mm in 2025, growing)
+is the undocumented US book: large software accounts like NYC DOE ($7.2mm a year) and King County, commercial customers (~$28mm globally), imputed
+layers set conservatively, and agencies outside Legistar, NTD and the app store. The model should carry that residual explicitly and split it by
+scenario, because the split is exactly the services-versus-software question: if Germany is mostly operations, US services revenue implied by the
+$223.5mm services cost is about $200mm, close to the build's $190mm for 2025, and the residual is software; if Germany is software, the residual is
+undocumented operations.
