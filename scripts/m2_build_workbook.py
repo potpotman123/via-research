@@ -339,16 +339,16 @@ for p in FADE:
     put(rb, f"{c}{R['svc_us']}", f"={pc}{R['svc_us']}*(1+{c}{R['in_fade_svc']})", bold=True, fmt=FMT_MM1)
     put(rb, f"{c}{R['svc_intl']}", f"={pc}{R['svc_intl']}*(1+{c}{R['in_fade_svc']})", fmt=FMT_MM1)
     put(rb, f"{c}{R['svc_tot']}", f"={c}{R['svc_us']}+{c}{R['svc_intl']}", bold=True, fmt=FMT_MM1)
-note(rb, R["svc_hard"], "Actual NTD RY2024 payments (agency fiscal years) and census ceilings x 0.8 haircut. Each row carries start, end, escalator (4%), volume expansion (5%/4%/3%/3% from 2027), funding tag, hazards and renewal probability. Signed 2025-26 wins (Mobile, Rochester, Plano, Sunnyvale, Addison, Grand County) are rows here.")
+note(rb, R["svc_hard"], "Actual NTD RY2024 payments (agency fiscal years) and census ceilings x 0.8 haircut. Each row carries start, end, escalator (4%), volume expansion (8%/6%/5%/4% from 2027, gliding from observed NTD hours growth), funding tag, hazards and renewal probability. Signed 2025-26 wins (Mobile, Rochester, Plano, Sunnyvale, Addison, Grand County) are rows here.")
 note(rb, R["svc_new"], "Vintages 50 / 200 / 175 / 150 / 150 vehicle-equivalents (2026-30) x $153k revenue per contracted vehicle-year (NTD RY2024: $96.8mm / 632 vehicles), 50% first-year ramp, turnkey survival after. 2026 signings ran +200 to +300 vehicle-equivalents; the base follows that pace and fades.")
 note(rb, R["svc_dt"], "10-K: 94 customers, pro forma 'not material'. Range $15mm-$35mm; default $25mm.")
-note(rb, R["svc_plug"], "Holds what documents cannot price: agencies below approval thresholds, app-only deployments, and 2026 wins with no stated price (Citilink Fort Wayne paratransit, TCATA, Highland Park). Grew +27% in 2025 and faster in 2026; base decays 20% / 15% / 12% / 10%.")
+note(rb, R["svc_plug"], "Holds what documents cannot price: agencies below approval thresholds, app-only deployments, 2026 wins with no stated price (Citilink Fort Wayne paratransit, TCATA, Highland Park), and any haircut that is too harsh on new whole-system contracts. Grew +27% in 2025 and ~+50% in 2026; glides 30% / 22% / 16% / 12%.")
 note(rb, R["svc_tot"], "FY2031E+ fade at the services growth inputs (contract detail ends 2030).")
 
 # ---------- 4. Software engine ----------
 label(rb, R["sw_hdr"], "Software Engine", bold=True, size=14)
 label(rb, R["sw_named"], "US named account: NYC DOE ($7.2mm/yr; renewal probability from FY2030E)", "$mm")
-label(rb, R["sw_small"], "US small-subscription base (residual through FY2026E; logos, expansion, churn after)", "$mm")
+label(rb, R["sw_small"], "US small-subscription base (residual through FY2026E; logos x expansion glide x churn after)", "$mm")
 label(rb, R["sw_us"], "US software revenue", "$mm", bold=True)
 label(rb, R["sw_intl"], "International software (= international revenue x (1 - services share))", "$mm")
 label(rb, R["sw_tot"], "Total software revenue", "$mm", bold=True)
@@ -362,7 +362,7 @@ for p in ENG:
     put(rb, f"{c}{R['sw_intl']}", f"={c}{R['intl']}*(1-{IN('in_intl_share')})", fmt=FMT_MM1)
     if p in ("FY2024A", "FY2025A"): put(rb, f"{c}{R['sw_small']}", f"={c}{R['a_sw']}-{c}{R['sw_intl']}-{c}{R['sw_named']}", fmt=FMT_MM1)
     elif p == "FY2026E": put(rb, f"{c}{R['sw_small']}", f"={c}{R['sw_us']}-{c}{R['sw_named']}", fmt=FMT_MM1)   # anchored year: residual of the anchored software total
-    else: put(rb, f"{c}{R['sw_small']}", f"={pc}{R['sw_small']}*(1+{IN('in_logo')})*(1+{IN('in_exp')})*(1-{IN('in_churn')})", fmt=FMT_MM1)
+    else: put(rb, f"{c}{R['sw_small']}", f"={pc}{R['sw_small']}*(1+{IN('in_logo')})*(1+{c}{R['in_exp']})*(1-{IN('in_churn')})", fmt=FMT_MM1)
     if p == "FY2026E":
         put(rb, f"{c}{R['sw_tot']}", f"={COL['1Q26A']}{R['sw']}+{COL['2Q26A']}{R['sw']}+({COL['3Q25A']}{R['sw']}+{COL['4Q25A']}{R['sw']})*(1+{IN('in_sw26')})", bold=True, fmt=FMT_MM1)
         put(rb, f"{c}{R['sw_us']}", f"={c}{R['sw_tot']}-{c}{R['sw_intl']}", bold=True, fmt=FMT_MM1)
@@ -422,12 +422,12 @@ INPUTS = [
     ("in_2h_us", "2H26 YoY growth, United States", {"FY2026E": 0.35}, FMT_PCT, "1H26 US +35.1% YoY. Holding the rate lands FY2026E on the guidance midpoint; the differentiated view starts in 2027."),
     ("in_2h_intl", "2H26 YoY growth, International", {"FY2026E": 0.05}, FMT_PCT, "Germany 2Q26 -12% (Muva ended), other countries +41%: blend ~+5%."),
     ("in_intl_g", "International revenue growth, by year", {"FY2027E": 0.06, "FY2028E": 0.07, "FY2029E": 0.05, "FY2030E": 0.04}, FMT_PCT, "Germany -5% then flat; other countries +20% / +15% / +10% / +8%: blended."),
-    ("in_plug_g", "US undocumented services growth, by year (FY2026E by subtraction)", {"FY2027E": 0.20, "FY2028E": 0.15, "FY2029E": 0.12, "FY2030E": 0.10}, FMT_PCT, "Grew +27% in 2025; decays. Bear 10% flat; bull 25%."),
+    ("in_plug_g", "US undocumented services growth, by year (glide; FY2026E by subtraction)", {"FY2027E": 0.30, "FY2028E": 0.22, "FY2029E": 0.16, "FY2030E": 0.12}, FMT_PCT, "Grew +27% in 2025 and ~+50% in 2026 (it holds the unpriced Dec-2025 launches: Citilink Fort Wayne paratransit, TCATA, plus Highland Park), which annualize in 2027. Glide 30% / 22% / 16% / 12%. Bear 15% flat; bull 35% / 30% / 25% / 20%."),
     ("in_dt26", "Downtowner FY2026E revenue ($mm)", {"FY2026E": 25.0}, FMT_MM1, "Range $15mm-$35mm (10-K: not material pro forma; 94 resort-town customers)."),
     ("in_dt_g", "Downtowner growth after FY2026E", {"FY2026E": 0.04}, FMT_PCT, "Escalators only."),
     ("in_sw26", "2H26 YoY growth, software (FY2026E software = 1H26A + 2H25A x (1 + this))", {"FY2026E": 0.20}, FMT_PCT, "The software residual grew +23% in 2025 and +25% in 1H26 (2Q26 includes the implementation-fee spike management cited). Base 20%; bear 15%; bull 25%."),
     ("in_logo", "Net software logo growth (FY2027E+)", {"FY2026E": 0.06}, FMT_PCT, "Customer count ex-Downtowner +9.3%; operations customers (~15%-20% of count) grew ~15%-20%, leaving ~6%-7% for software. Bull 9%."),
-    ("in_exp", "Expansion at existing software accounts (FY2027E+)", {"FY2026E": 0.07}, FMT_PCT, "Historic residual growth less logos = 10-14 pts; base 7%, bear 3%, bull 9%."),
+    ("in_exp", "Expansion at existing software accounts, by year (glide)", {"FY2027E": 0.13, "FY2028E": 0.10, "FY2029E": 0.08, "FY2030E": 0.07}, FMT_PCT, "Residual software growth less logos ran 10-14 pts in 2025-26; the glide takes expansion from 13% to 7% over four years instead of stepping to the mature rate in 2027. Bear 8% flat; bull 15% flat."),
     ("in_churn", "Competitive software churn (Spare, RideCo)", {"FY2026E": 0.035}, FMT_PCT, "6-7 displacements since 2024 out of ~70 documented software relationships."),
     ("in_doe", "NYC DOE renewal probability at the FY2030E re-bid", {"FY2026E": 0.70}, "0.00", "Judgment; single largest software account."),
     ("in_tk_adds", "Net new operations customers per year", {"FY2026E": 15}, FMT_INT, "2025-26 pace: Mobile, TCATA, Rochester, Plano, Addison, Highland Park, Grand County, Sunnyvale, Citilink."),
@@ -593,10 +593,10 @@ for k, (text, val, fmt, nt) in enumerate([("Annual rate escalator on operations 
     put(cl, f"A{r_in+k}", text, italic=True, size=11); put(cl, f"C{r_in+k}", val, RED, italic=True, fmt=fmt, size=11); put(cl, f"F{r_in+k}", nt, GREY, italic=True, size=10)
 r_exp = r_in + 6
 put(cl, f"A{r_exp}", "Volume expansion at existing documented contracts, by year (zones, hours; applies to all rows from 2027)", italic=True, size=11)
-put(cl, f"F{r_exp}", "Existing-account expansion has been a main growth source (NRR 119%; UTA service orders, Douglas, HRT zones). Base decays 5% / 4% / 3% / 3%; bear 2%; bull 8%.", GREY, italic=True, size=10)
+put(cl, f"F{r_exp}", "Existing-account expansion has been a main growth source (NRR 119%; NTD hours +10% in 2025, +8% in 2026; UTA service orders, Douglas, HRT zones). Glide 8% / 6% / 5% / 4%; bear 3% flat; bull 10% flat.", GREY, italic=True, size=10)
 for j, y in enumerate(YEARS):
     col = L(19 + j)
-    if y >= 2027: put(cl, f"{col}{r_exp}", {2027: 0.05, 2028: 0.04, 2029: 0.03, 2030: 0.03}[y], RED, italic=True, fmt=FMT_PCT, size=11)
+    if y >= 2027: put(cl, f"{col}{r_exp}", {2027: 0.08, 2028: 0.06, 2029: 0.05, 2030: 0.04}[y], RED, italic=True, fmt=FMT_PCT, size=11)
 put(cl, f"A{r_idx_n}", "Volume index, NTD rows (2025 and 2026 from NTD hours, then expansion)", italic=True, size=11)
 put(cl, f"A{r_idx_c}", "Volume index, census-priced rows (expansion from 2027)", italic=True, size=11)
 for j, y in enumerate(YEARS):
