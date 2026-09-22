@@ -657,6 +657,13 @@ put(nd, f"I{rr}", f"=SUM(I5:I{rr-1})", bold=True, fmt=FMT_INT)
 put(nd, f"A{rr+2}", "Reading: payments rose $2.0mm (RY2019) -> $9.7mm -> $17.6mm -> $37.2mm -> $58.6mm -> $96.8mm (RY2024) across 2 -> 26 agencies. LA Metro's Metro Micro was directly operated through RY2024 and will first appear in RY2025 (~Oct 2026). Trinity Metro's RY2024 rows list no Via seller.", GREY, italic=True)
 
 # ---------- SOTP sheet ----------
+def wrow(prefix):
+    wsx = wb["WACC and Reverse DCF (KW)"]
+    for r in range(1, 60):
+        v = wsx.cell(r, 2).value
+        if isinstance(v, str) and v.strip().lower().startswith(prefix.lower()): return r
+    raise KeyError(prefix)
+W_EV, W_SH, W_DEBT, W_CASH, W_STI, W_PX = wrow("Enterprise Value"), wrow("Fully Diluted Shares"), wrow("(+) Total Debt"), wrow("(-) Cash"), wrow("(-) Short-Term"), wrow("Current Share Price")
 if "SOTP (KW)" in wb.sheetnames: del wb["SOTP (KW)"]
 so = wb.create_sheet("SOTP (KW)"); so.sheet_view.showGridLines = False
 so.column_dimensions["A"].width = 72; so.column_dimensions["B"].width = 8
@@ -679,16 +686,16 @@ V = [("Services EV / gross profit multiple (input)", 2.2, FMT_X, RED, "Lyft trad
      ("Software EV / gross profit multiple (input)", 10.0, FMT_X, RED, "Vertical SaaS peers ~8x-15x gross profit; sensitivity below."),
      ("Services enterprise value", "=D7*C16", FMT_MM1, BLACK, ""), ("Software enterprise value", "=D10*C17", FMT_MM1, BLACK, ""),
      ("Enterprise value", "=C18+C19", FMT_MM1, BLACK, ""),
-     ("(+) Cash and short-term investments (6/30/2026)", f"={WC}!D16+{WC}!D17", FMT_MM1, GREEN, ""), ("(-) Total debt", f"={WC}!D15", FMT_MM1, GREEN, ""),
-     ("Equity value", "=C20+C21-C22", FMT_MM1, BLACK, ""), ("Fully diluted shares (mm)", f"={WC}!D13", FMT_MM1, GREEN, ""),
-     ("SOTP value per share", "=C23/C24", '"$"#,##0.00', BLACK, ""), ("Current share price", f"={WC}!D6", '"$"#,##0.00', GREEN, ""), ("Implied upside / (downside)", "=C25/C26-1", FMT_PCT, BLACK, ""),
+     ("(+) Cash and short-term investments", f"={WC}!D{W_CASH}+{WC}!D{W_STI}", FMT_MM1, GREEN, ""), ("(-) Total debt", f"={WC}!D{W_DEBT}", FMT_MM1, GREEN, ""),
+     ("Equity value", "=C20+C21-C22", FMT_MM1, BLACK, ""), ("Fully diluted shares (mm)", f"={WC}!D{W_SH}", FMT_MM1, GREEN, ""),
+     ("SOTP value per share", "=C23/C24", '"$"#,##0.00', BLACK, ""), ("Current share price", f"={WC}!D{W_PX}", '"$"#,##0.00', GREEN, ""), ("Implied upside / (downside)", "=C25/C26-1", FMT_PCT, BLACK, ""),
      ("Memo: DCF blended value per share (DCF + EPS sheet)", "='DCF + EPS (KW)'!D81", '"$"#,##0.00', GREEN, "The DCF runs off the same revenue and gross-profit path with the Three Statements opex assumptions."),
      ("Memo: SOTP enterprise value / FY2027E revenue", "=C20/D11", FMT_X, BLACK, "")]
 for i, (t, f, fmt, colr, nt) in enumerate(V):
     r = 16 + i; put(so, f"A{r}", t, bold=t in ("Enterprise value", "Equity value", "SOTP value per share")); put(so, f"C{r}", f, colr, italic=(colr in (GREEN, RED)), bold=t in ("Enterprise value", "Equity value", "SOTP value per share"), fmt=fmt)
     if nt: put(so, f"I{r}", nt, GREY, italic=True)
 put(so, "A31", "What the current share price implies", bold=True, size=14)
-M = [("Market enterprise value (WACC sheet)", f"={WC}!D18", FMT_MM1, GREEN), ("(-) Services enterprise value at the input multiple", "=C18", FMT_MM1, BLACK),
+M = [("Market enterprise value (WACC sheet)", f"={WC}!D{W_EV}", FMT_MM1, GREEN), ("(-) Services enterprise value at the input multiple", "=C18", FMT_MM1, BLACK),
      ("Implied software enterprise value", "=C32-C33", FMT_MM1, BLACK), ("Implied software EV / FY2027E software gross profit", "=IF(D10=0,0,C34/D10)", FMT_X, BLACK),
      ("Implied software EV / FY2027E software revenue", "=IF(D8=0,0,C34/D8)", FMT_X, BLACK),
      ("Services multiple needed to justify the price with software at the input multiple", "=IF(D7=0,0,(C32-C19)/D7)", FMT_X, BLACK)]
