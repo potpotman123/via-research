@@ -25,7 +25,8 @@ FLAT_SVC_GM = {RB: {"S61": 0, "T61": 0, "U61": 0, "V61": 0}}
 SERVICES_OPEX = {TS: {**dict(zip([f"{c}16" for c in ["T", "U", "V", "W", "X", "Y", "Z", "AA"]], [0.14, 0.13, 0.12, 0.11, 0.10, 0.09, 0.085, 0.08])),
                       **dict(zip([f"{c}18" for c in ["T", "U", "V", "W", "X", "Y", "Z", "AA"]], [0.12, 0.11, 0.10, 0.09, 0.085, 0.08, 0.075, 0.07])),
                       **dict(zip([f"{c}20" for c in ["T", "U", "V", "W", "X", "Y", "Z", "AA"]], [0.15, 0.135, 0.12, 0.11, 0.10, 0.095, 0.09, 0.085]))}}
-SCENARIOS = [("S0_base", {}), ("S1_hazards_off", HAZARDS_OFF), ("S2_high_growth", HIGH_GROWTH), ("S3_high_growth_flat_svc_GM", merge(HIGH_GROWTH, FLAT_SVC_GM)), ("S4_S3_plus_services_opex", merge(HIGH_GROWTH, FLAT_SVC_GM, SERVICES_OPEX))]
+FUNDING_CLIFF = {CL: {"B82": 0.02, "C82": 0.90, "D82": 0.0, "B83": 0.0, "C83": 0.85, "D83": 0.10, "B84": 0.0, "C84": 0.55, "D84": 0.0, "B85": 0.0, "C85": 0.70, "D85": 0.0, "B86": 0.01, "C86": 0.75, "D86": 0.03, "C90": 0.03}}
+SCENARIOS = [("S0_base", {}), ("S1_hazards_off", HAZARDS_OFF), ("S6_funding_cliff", FUNDING_CLIFF), ("S2_high_growth", HIGH_GROWTH), ("S3_high_growth_flat_svc_GM", merge(HIGH_GROWTH, FLAT_SVC_GM)), ("S4_S3_plus_services_opex", merge(HIGH_GROWTH, FLAT_SVC_GM, SERVICES_OPEX))]
 if __name__ == "__main__":
     res = [run(n, e) for n, e in SCENARIOS]; keys = list(res[0].keys())
     print(" | ".join(f"{k:>9s}" for k in keys))

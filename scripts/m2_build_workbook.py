@@ -340,7 +340,7 @@ for p in FADE:
     put(rb, f"{c}{R['svc_intl']}", f"={pc}{R['svc_intl']}*(1+{c}{R['in_fade_svc']})", fmt=FMT_MM1)
     put(rb, f"{c}{R['svc_tot']}", f"={c}{R['svc_us']}+{c}{R['svc_intl']}", bold=True, fmt=FMT_MM1)
 note(rb, R["svc_hard"], "Actual NTD RY2024 payments (agency fiscal years) and census ceilings x 0.8 haircut. Each row carries start, end, escalator (4%), volume expansion (8%/6%/5%/4% from 2027, gliding from observed NTD hours growth), funding tag, hazards and renewal probability. Signed 2025-26 wins (Mobile, Rochester, Plano, Sunnyvale, Addison, Grand County) are rows here.")
-note(rb, R["svc_new"], "Vintages 50 / 200 / 175 / 150 / 150 vehicle-equivalents (2026-30) x $153k revenue per contracted vehicle-year (NTD RY2024: $96.8mm / 632 vehicles), 50% first-year ramp, turnkey survival after. 2026 signings ran +200 to +300 vehicle-equivalents; the base follows that pace and fades.")
+note(rb, R["svc_new"], "Vintages 50 / 250 / 200 / 175 / 150 vehicle-equivalents (2026-30) x $153k revenue per contracted vehicle-year (NTD RY2024: $96.8mm / 632 vehicles), 50% first-year ramp, turnkey survival after. 2026 signings ran +200 to +300 vehicle-equivalents; the base follows that pace and fades.")
 note(rb, R["svc_dt"], "10-K: 94 customers, pro forma 'not material'. Range $15mm-$35mm; default $25mm.")
 note(rb, R["svc_plug"], "Holds what documents cannot price: agencies below approval thresholds, app-only deployments, 2026 wins with no stated price (Citilink Fort Wayne paratransit, TCATA, Highland Park), and any haircut that is too harsh on new whole-system contracts. Grew +27% in 2025 and ~+50% in 2026; glides 30% / 22% / 16% / 12%.")
 note(rb, R["svc_tot"], "FY2031E+ fade at the services growth inputs (contract detail ends 2030).")
@@ -427,7 +427,7 @@ INPUTS = [
     ("in_dt_g", "Downtowner growth after FY2026E", {"FY2026E": 0.04}, FMT_PCT, "Escalators only."),
     ("in_sw26", "2H26 YoY growth, software (FY2026E software = 1H26A + 2H25A x (1 + this))", {"FY2026E": 0.20}, FMT_PCT, "The software residual grew +23% in 2025 and +25% in 1H26 (2Q26 includes the implementation-fee spike management cited). Base 20%; bear 15%; bull 25%."),
     ("in_logo", "Net software logo growth (FY2027E+)", {"FY2026E": 0.06}, FMT_PCT, "Customer count ex-Downtowner +9.3%; operations customers (~15%-20% of count) grew ~15%-20%, leaving ~6%-7% for software. Bull 9%."),
-    ("in_exp", "Expansion at existing software accounts, by year (glide)", {"FY2027E": 0.13, "FY2028E": 0.10, "FY2029E": 0.08, "FY2030E": 0.07}, FMT_PCT, "Residual software growth less logos ran 10-14 pts in 2025-26; the glide takes expansion from 13% to 7% over four years instead of stepping to the mature rate in 2027. Bear 8% flat; bull 15% flat."),
+    ("in_exp", "Expansion at existing software accounts, by year (glide)", {"FY2027E": 0.17, "FY2028E": 0.14, "FY2029E": 0.11, "FY2030E": 0.08}, FMT_PCT, "The software residual grew ~23% in each of 2024, 2025 and 2026 with net logos near 6%, so expansion ran ~14-16 pts. The glide starts there (17%) and fades to 8% by 2030. Bear 10% flat; bull 17% flat."),
     ("in_churn", "Competitive software churn (Spare, RideCo)", {"FY2026E": 0.035}, FMT_PCT, "6-7 displacements since 2024 out of ~70 documented software relationships."),
     ("in_doe", "NYC DOE renewal probability at the FY2030E re-bid", {"FY2026E": 0.70}, "0.00", "Judgment; single largest software account."),
     ("in_tk_adds", "Net new operations customers per year", {"FY2026E": 15}, FMT_INT, "2025-26 pace: Mobile, TCATA, Rochester, Plano, Addison, Highland Park, Grand County, Sunnyvale, Citilink."),
@@ -554,7 +554,7 @@ r_idx_n, r_idx_c = r_in + 7, r_in + 8      # volume index rows (written in the i
 ESC, VOL25, VOL26, RATE, RAMP = f"$C${r_in+1}", f"$C${r_in+2}", f"$C${r_in+3}", f"$C${r_in+4}", f"$C${r_in+5}"
 r_hz = r_in + 10                           # hazard table header row
 HZ_TAGS = ["local", "federal formula", "federal one-time", "state", "unknown"]
-HZ = {"local": (0.02, 0.90, 0.0), "federal formula": (0.0, 0.85, 0.10), "federal one-time": (0.0, 0.55, 0.0), "state": (0.0, 0.70, 0.0), "unknown": (0.01, 0.75, 0.03)}
+HZ = {"local": (0.01, 0.95, 0.0), "federal formula": (0.0, 0.90, 0.0), "federal one-time": (0.0, 0.60, 0.0), "state": (0.0, 0.80, 0.0), "unknown": (0.005, 0.85, 0.0)}   # base = observed retention; funding-cliff set lives in scripts/m3_scenarios.py
 tag_rng = f"$A${r_hz+1}:$A${r_hz+len(HZ_TAGS)}"; ann_rng = f"$B${r_hz+1}:$B${r_hz+len(HZ_TAGS)}"; ren_rng = f"$C${r_hz+1}:$C${r_hz+len(HZ_TAGS)}"; cut_rng = f"$D${r_hz+1}:$D${r_hz+len(HZ_TAGS)}"
 COMP_TK, COMP_SW, DOWNSELL = f"$C${r_hz+7}", f"$C${r_hz+8}", f"$C${r_hz+9}"
 put(cl, f"A{first-1}", "Contracts", bold=True)
@@ -607,23 +607,23 @@ for j, y in enumerate(YEARS):
     else: put(cl, f"{col}{r_idx_n}", f"={prev}{r_idx_n}*(1+{col}{r_exp})", fmt="0.000", size=11); put(cl, f"{col}{r_idx_c}", f"={prev}{r_idx_c}*(1+{col}{r_exp})", fmt="0.000", size=11)
 # hazard table
 put(cl, f"A{r_hz}", "Funding tag", bold=True, size=11, border_b=True); put(cl, f"B{r_hz}", "Annual funding hazard", bold=True, size=11, border_b=True, align="center"); put(cl, f"C{r_hz}", "Renewal probability at expiry", bold=True, size=11, border_b=True, align="center"); put(cl, f"D{r_hz}", "FY2027 level cut", bold=True, size=11, border_b=True, align="center"); put(cl, f"F{r_hz}", "Basis (growth_model_design.md sections 10-11)", bold=True, size=11, border_b=True)
-HZN = {"local": "Local budgets renew ~98%/yr; downsell 2%-4% on locally funded turnkey (Palo Alto, Milwaukee, SacRT, Arlington ceilings).",
-       "federal formula": "5307/5310/5311 continue but a 5%-15% level cut is a judgment for FY2027 (federal FY from 2026-10-01); 85% renewal at re-bid.",
-       "federal one-time": "CARES/ARPA/Sandbox pilots: about half survive expiry (Volusia, Suffolk continued; Milwaukee cut; SARTA ended).",
-       "state": "State grant programs (TRiP, LCTOP, CPUC Access for All) renew 65%-75% at expiry.",
-       "unknown": "Blend of the above weighted by documented funding exposure (local ~45%, grant-linked ~30%)."}
+HZN = {"local": "Base: NTD 2019-24 shows 25 of 26 Via agencies continuous with rising payments; budget exits (SacRT, SARTA, Palo Alto, Milwaukee) ~1%/yr of the book. Funding-cliff case: 2%/yr, 0.90 renewal.",
+       "federal formula": "5307/5310/5311 formula money continued through every cycle in the panel. Funding-cliff case: 10% FY2027 level cut, 0.85 renewal.",
+       "federal one-time": "CARES/ARPA/Sandbox pilots: Volusia, Suffolk continued; Milwaukee cut; SARTA ended. Base 0.60 renewal; cliff case 0.55.",
+       "state": "TRiP, LCTOP, CPUC Access for All cycles renew most of the time. Base 0.80; cliff case 0.70.",
+       "unknown": "Blend weighted by documented funding exposure (local ~45%, grant-linked ~30%). Base 0.5%/yr, 0.85 renewal; cliff case 1%/yr, 3% cut, 0.75 renewal."}
 for k, t in enumerate(HZ_TAGS, start=1):
     a, rp, cut = HZ[t]; put(cl, f"A{r_hz+k}", t, size=11); put(cl, f"B{r_hz+k}", a, RED, italic=True, fmt=FMT_PCT, size=11); put(cl, f"C{r_hz+k}", rp, RED, italic=True, fmt="0.00", size=11); put(cl, f"D{r_hz+k}", cut, RED, italic=True, fmt=FMT_PCT, size=11); put(cl, f"F{r_hz+k}", HZN[t], GREY, italic=True, size=10)
 put(cl, f"A{r_hz+7}", "Competitive hazard, turnkey/hybrid (annual)", italic=True, size=11); put(cl, COMP_TK.replace("$", ""), 0.005, RED, italic=True, fmt=FMT_PCT, size=11); put(cl, f"F{r_hz+7}", "No competitive turnkey loss found in NTD RY2019-24; exits are budget decisions.", GREY, italic=True, size=10)
 put(cl, f"A{r_hz+8}", "Competitive hazard, software (annual)", italic=True, size=11); put(cl, COMP_SW.replace("$", ""), 0.035, RED, italic=True, fmt=FMT_PCT, size=11); put(cl, f"F{r_hz+8}", "6-7 displacements by Spare/RideCo since 2024 out of ~70 documented software relationships.", GREY, italic=True, size=10)
-put(cl, f"A{r_hz+9}", "Downsell hazard, locally funded operations (annual)", italic=True, size=11); put(cl, DOWNSELL.replace("$", ""), 0.03, RED, italic=True, fmt=FMT_PCT, size=11); put(cl, f"F{r_hz+9}", "Ceiling reductions that GRR does not count.", GREY, italic=True, size=10)
+put(cl, f"A{r_hz+9}", "Downsell hazard, locally funded operations (annual)", italic=True, size=11); put(cl, DOWNSELL.replace("$", ""), 0.015, RED, italic=True, fmt=FMT_PCT, size=11); put(cl, f"F{r_hz+9}", "Ceiling reductions that GRR does not count (Palo Alto, Arlington, Milwaukee), net of expansions elsewhere. Cliff case 3%.", GREY, italic=True, size=10)
 # new-win vintages
 r_nw = r_hz + 12
 assert r_nw + 7 == CL_TOT_NEW, (r_nw + 7, CL_TOT_NEW)
 put(cl, f"A{r_nw}", "Unsigned new wins by vintage (vehicle-equivalents; revenue = vehicles x $/vehicle-year x ramp x escalator x turnkey survival)", bold=True)
 put(cl, f"A{r_nw+1}", "Vintage", bold=True, size=11, border_b=True); put(cl, f"B{r_nw+1}", "Vehicle-equivalents (input)", bold=True, size=11, border_b=True, align="center")
 for j, y in enumerate(YEARS): put(cl, f"{L(19+j)}{r_nw+1}", f"FY{y}{'A' if y < 2026 else 'E'}", bold=True, size=11, border_b=True, align="center")
-VINT = {2026: 50, 2027: 200, 2028: 175, 2029: 150, 2030: 150}
+VINT = {2026: 50, 2027: 250, 2028: 200, 2029: 175, 2030: 150}
 for k, (v, veh) in enumerate(VINT.items(), start=2):
     r = r_nw + k; put(cl, f"A{r}", v, size=11); put(cl, f"B{r}", veh, RED, italic=True, fmt=FMT_INT, size=11)
     for j, y in enumerate(YEARS):
@@ -634,7 +634,7 @@ for j in range(7):
     col = L(19 + j); put(cl, f"{col}{CL_TOT_NEW}", f"=SUM({col}{r_nw+2}:{col}{r_nw+6})", bold=True, fmt=FMT_MM1)
 assert CL_TOT_NEW == r_nw + 7
 put(cl, f"F{r_nw+2}", "2026 vintage is small because Rochester, Plano, Addison, Grand County and Sunnyvale are already rows above. 2026 signings totalled +200 to +300 vehicle-equivalents.", GREY, italic=True, size=10)
-put(cl, f"F{r_nw+3}", "Base 200 / 175 / 150 / 150 follows the 2026 signing pace (+200 to +300) fading; bear 100 / 75 / 60 / 60; bull 300 / 300 / 250 / 250.", GREY, italic=True, size=10)
+put(cl, f"F{r_nw+3}", "Base 250 / 200 / 175 / 150 sits inside the 2026 signing pace (+200 to +300) and fades; bear 100 / 75 / 60 / 60; bull 300 / 300 / 250 / 250.", GREY, italic=True, size=10)
 
 # ---------- NTD Data sheet ----------
 if "NTD Data" in wb.sheetnames: del wb["NTD Data"]
