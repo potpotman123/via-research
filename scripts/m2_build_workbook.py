@@ -175,7 +175,7 @@ rb.delete_rows(1, rb.max_row + 5)
 for col in range(3, 28): rb.column_dimensions[L(col)].width = 11
 rb.column_dimensions["A"].width = 74; rb.column_dimensions["B"].width = 8; rb.column_dimensions["AB"].width = 95
 rb.freeze_panes = "C5"; rb.sheet_view.showGridLines = False
-for a, b in (("E", "H"), ("J", "M"), ("O", "R")): rb.column_dimensions.group(a, b, hidden=True, outline_level=1)
+rb.column_dimensions.group("O", "R", hidden=True, outline_level=1)   # 2027 quarters exist (income statement pulls them) but are collapsed
 
 R = dict(seg_hdr=6, svc=7, svc_g=8, svc_sh=9, sw=10, sw_g=11, sw_sh=12, tot=13, tot_g=14, tot_chk=15, us=16, intl=17,
          gp_hdr=19, gm_svc=20, gp_svc=21, gm_sw=22, gp_sw=23, uplift=24, gp_tot=25, gm_blend=26, cogs=27,
@@ -206,10 +206,17 @@ def share(ws, row, base_row, tot_row):
     for p in ANN: put(ws, f"{COL[p]}{row}", f"=IF({COL[p]}{tot_row}=0,0,{COL[p]}{base_row}/{COL[p]}{tot_row})", italic=True, fmt=FMT_PCT)
 
 put(rb, "A1", "VIA, Revenue Projection Model: sum-of-the-parts build", bold=True, size=14)
-put(rb, "A2", "Revenue and gross profit by segment (services vs. software) feeding the income statement  |  $ in millions unless noted  |  quarterly columns are grouped (click + to expand)  |  rebuilt 2026-09-21", GREY, italic=True)
-put(rb, "A3", "Fiscal Year", bold=True, size=14); put(rb, "B3", "Historical", bold=True, size=14, align="left"); put(rb, f"{N_}3", "Projected", bold=True, size=14, align="center")
+put(rb, "A2", "Revenue and gross profit by segment (services vs. software) feeding the income statement  |  $ in millions unless noted  |  2027 quarterly columns are grouped (click + to expand)  |  rebuilt 2026-09-21", GREY, italic=True)
+put(rb, "A3", "Fiscal Year", bold=True, size=14)
+for col in range(3, 28): rb[f"{L(col)}3"].border = Border(bottom=THIN)
+put(rb, "C3", "Historical (reported)", bold=True, size=12, align="center", border_b=True); rb.merge_cells("C3:K3")
+put(rb, "L3", "Projected", bold=True, size=12, align="center", border_b=True); rb.merge_cells("L3:AA3")
 put(rb, "B4", "Units", align="right", border_b=True)
-for p in PER: put(rb, f"{COL[p]}4", p, align="right", border_b=True)
+FYFILL = PatternFill("solid", fgColor="FFF2F2F2")
+for p in PER:
+    put(rb, f"{COL[p]}4", p, align="right", border_b=True, bold=p.startswith("FY"))
+    if p.startswith("FY"): rb[f"{COL[p]}4"].fill = FYFILL
+put(rb, "A4", "Quarters are reported (A) through 2Q26; 3Q26E-4Q27E are projected. FY columns shaded.", GREY, italic=True, size=10)
 put(rb, "AB4", "Notes / sources", GREY, italic=True, border_b=True)
 
 # ---------- 1. Revenue by segment ----------
@@ -222,19 +229,22 @@ label(rb, R["tot"], "Total Revenue (feeds Three Statements row 7)", "$mm", bold=
 label(rb, R["tot_g"], "% Growth (YoY)", "%", italic=True); label(rb, R["tot_chk"], "Check vs. Three Statements revenue (should be 0)", "$mm", italic=True, color=GREY)
 label(rb, R["us"], "Memo: United States revenue (reported; FY2026E anchored to 1H26A)", "$mm", italic=True)
 label(rb, R["intl"], "Memo: International revenue, Germany + all other (reported)", "$mm", italic=True)
+QA = ("1Q25A", "2Q25A", "3Q25A", "4Q25A", "1Q26A", "2Q26A")
 for p in PER:
     c = COL[p]; tot = R["tot"]
-    if p in HIST3:
+    if p in HIST3 or p in QA:
         put(rb, f"{c}{R['svc']}", f"={c}{R['a_svc']}", bold=True, fmt=FMT_MM1); put(rb, f"{c}{R['sw']}", f"={c}{R['a_sw']}", bold=True, fmt=FMT_MM1)
     elif p in PROJ:
         put(rb, f"{c}{R['svc']}", f"={c}{R['svc_tot']}", bold=True, fmt=FMT_MM1); put(rb, f"{c}{R['sw']}", f"={c}{R['sw_tot']}", bold=True, fmt=FMT_MM1)
+    elif p in QTR26:
+        me = COL["3Q25A" if p == "3Q26E" else "4Q25A"]
+        for rr in (R["svc"], R["sw"]): put(rb, f"{c}{rr}", f"=({N_}{rr}-{COL['1Q26A']}{rr}-{COL['2Q26A']}{rr})*{me}{rr}/({COL['3Q25A']}{rr}+{COL['4Q25A']}{rr})", bold=True, fmt=FMT_MM1)
+    elif p in QTR27:
+        q = COL[Q25[QTR27.index(p)]]
+        for rr in (R["svc"], R["sw"]): put(rb, f"{c}{rr}", f"={COL['FY2027E']}{rr}*{q}{rr}/{COL['FY2025A']}{rr}", bold=True, fmt=FMT_MM1)
     # total revenue
     if p in ("FY2023A", "FY2024A", "1Q25A", "2Q25A", "3Q25A", "4Q25A", "1Q26A", "2Q26A"): put(rb, f"{c}{tot}", keep[(20, p)], BLUE, bold=True, fmt=FMT_MM1)
     elif p == "FY2025A": put(rb, f"{c}{tot}", f"=SUM({COL['1Q25A']}{tot}:{COL['4Q25A']}{tot})", bold=True, fmt=FMT_MM1)
-    elif p in QTR26:
-        me = COL["3Q25A" if p == "3Q26E" else "4Q25A"]
-        put(rb, f"{c}{tot}", f"=({N_}{tot}-{COL['1Q26A']}{tot}-{COL['2Q26A']}{tot})*{me}{tot}/({COL['3Q25A']}{tot}+{COL['4Q25A']}{tot})", bold=True, fmt=FMT_MM1)
-    elif p in QTR27: put(rb, f"{c}{tot}", f"={COL['FY2027E']}{tot}*{COL[Q25[QTR27.index(p)]]}{tot}/{COL['FY2025A']}{tot}", bold=True, fmt=FMT_MM1)
     else: put(rb, f"{c}{tot}", f"={c}{R['svc']}+{c}{R['sw']}", bold=True, fmt=FMT_MM1)
     put(rb, f"{c}{R['tot_chk']}", f"=ROUND({c}{tot}-{TS}!{c}7,3)", GREEN, italic=True, fmt=FMT_MM1)
     # US memo
@@ -243,6 +253,8 @@ for p in PER:
     elif p == "FY2025A": put(rb, f"{c}{u}", f"=SUM({COL['1Q25A']}{u}:{COL['4Q25A']}{u})", italic=True, fmt=FMT_MM1)
     elif p == "FY2026E": put(rb, f"{c}{u}", f"={COL['1Q26A']}{u}+{COL['2Q26A']}{u}+({COL['3Q25A']}{u}+{COL['4Q25A']}{u})*(1+{IN('in_2h_us')})", italic=True, fmt=FMT_MM1)
     elif p in PROJ: put(rb, f"{c}{u}", f"={c}{R['svc_us']}+{c}{R['sw_us']}", italic=True, fmt=FMT_MM1)
+    elif p in QTR26: put(rb, f"{c}{u}", f"=({N_}{u}-{COL['1Q26A']}{u}-{COL['2Q26A']}{u})*{COL['3Q25A' if p == '3Q26E' else '4Q25A']}{u}/({COL['3Q25A']}{u}+{COL['4Q25A']}{u})", italic=True, fmt=FMT_MM1)
+    elif p in QTR27: put(rb, f"{c}{u}", f"={COL['FY2027E']}{u}*{COL[Q25[QTR27.index(p)]]}{u}/{COL['FY2025A']}{u}", italic=True, fmt=FMT_MM1)
     # International memo
     i_ = R["intl"]
     if p in ("FY2023A", "FY2024A", "1Q25A", "2Q25A", "3Q25A", "4Q25A", "1Q26A", "2Q26A"): put(rb, f"{c}{i_}", round(keep[(12, p)] + keep[(16, p)], 3), BLUE, italic=True, fmt=FMT_MM1)
@@ -250,11 +262,17 @@ for p in PER:
     elif p == "FY2026E": put(rb, f"{c}{i_}", f"={COL['1Q26A']}{i_}+{COL['2Q26A']}{i_}+({COL['3Q25A']}{i_}+{COL['4Q25A']}{i_})*(1+{IN('in_2h_intl')})", italic=True, fmt=FMT_MM1)
     elif p in ENGP: put(rb, f"{c}{i_}", f"={COL[PREV[p]]}{i_}*(1+{c}{R['in_intl_g']})", italic=True, fmt=FMT_MM1)
     elif p in FADE: put(rb, f"{c}{i_}", f"={c}{R['svc_intl']}+{c}{R['sw_intl']}", italic=True, fmt=FMT_MM1)
-growth(rb, R["svc_g"], R["svc"]); growth(rb, R["sw_g"], R["sw"]); growth(rb, R["tot_g"], R["tot"])
-for p in ("1Q26A", "2Q26A", "3Q26E", "4Q26E"): put(rb, f"{COL[p]}{R['tot_g']}", f"=IF({COL[Q25[['1Q26A','2Q26A','3Q26E','4Q26E'].index(p)]]}{R['tot']}=0,0,{COL[p]}{R['tot']}/{COL[Q25[['1Q26A','2Q26A','3Q26E','4Q26E'].index(p)]]}{R['tot']}-1)", italic=True, fmt=FMT_PCT)
-for p in QTR27: put(rb, f"{COL[p]}{R['tot_g']}", f"=IF({COL[['1Q26A','2Q26A','3Q26E','4Q26E'][QTR27.index(p)]]}{R['tot']}=0,0,{COL[p]}{R['tot']}/{COL[['1Q26A','2Q26A','3Q26E','4Q26E'][QTR27.index(p)]]}{R['tot']}-1)", italic=True, fmt=FMT_PCT)
-share(rb, R["svc_sh"], R["svc"], R["tot"]); share(rb, R["sw_sh"], R["sw"], R["tot"])
-note(rb, R["svc"], "FY2023A-FY2025A from the cost-of-revenue identity (appendix below): services revenue = loaded services cost / (1 - services GM). FY2026E+ from the services engine. Via does not report segments; this is the model's split.")
+    elif p in QTR26: put(rb, f"{c}{i_}", f"=({N_}{i_}-{COL['1Q26A']}{i_}-{COL['2Q26A']}{i_})*{COL['3Q25A' if p == '3Q26E' else '4Q25A']}{i_}/({COL['3Q25A']}{i_}+{COL['4Q25A']}{i_})", italic=True, fmt=FMT_MM1)
+    elif p in QTR27: put(rb, f"{c}{i_}", f"={COL['FY2027E']}{i_}*{COL[Q25[QTR27.index(p)]]}{i_}/{COL['FY2025A']}{i_}", italic=True, fmt=FMT_MM1)
+Q26 = ["1Q26A", "2Q26A", "3Q26E", "4Q26E"]
+def qgrowth(ws, row, base_row):
+    for p in Q26: put(ws, f"{COL[p]}{row}", f"=IF({COL[Q25[Q26.index(p)]]}{base_row}=0,0,{COL[p]}{base_row}/{COL[Q25[Q26.index(p)]]}{base_row}-1)", italic=True, fmt=FMT_PCT)
+    for p in QTR27: put(ws, f"{COL[p]}{row}", f"=IF({COL[Q26[QTR27.index(p)]]}{base_row}=0,0,{COL[p]}{base_row}/{COL[Q26[QTR27.index(p)]]}{base_row}-1)", italic=True, fmt=FMT_PCT)
+def qshare(ws, row, base_row, tot_row):
+    for p in Q25 + Q26 + QTR27: put(ws, f"{COL[p]}{row}", f"=IF({COL[p]}{tot_row}=0,0,{COL[p]}{base_row}/{COL[p]}{tot_row})", italic=True, fmt=FMT_PCT)
+for rr, base_ in ((R["svc_g"], R["svc"]), (R["sw_g"], R["sw"]), (R["tot_g"], R["tot"])): growth(rb, rr, base_); qgrowth(rb, rr, base_)
+share(rb, R["svc_sh"], R["svc"], R["tot"]); share(rb, R["sw_sh"], R["sw"], R["tot"]); qshare(rb, R["svc_sh"], R["svc"], R["tot"]); qshare(rb, R["sw_sh"], R["sw"], R["tot"])
+note(rb, R["svc"], "FY2023A-FY2025A and 1H26A from the cost-of-revenue identity (appendix): services revenue = loaded services cost / (1 - services GM). 2025 quarters allocate the year's services cost by each quarter's share of reported cost of revenue; 1Q26/2Q26 use the disclosed YoY changes (+$18.0mm, +$13.6mm). 3Q26E/4Q26E = FY2026E less 1H26A split by the 2025 3Q/4Q pattern; 2027 quarters follow 2025 shares. FY2026E+ from the services engine.")
 note(rb, R["sw"], "Residual of total revenue less services. Grew ~+23% a year 2024-25; FY2026E carries a 20% anchored rate, then logos + expansion - churn.")
 note(rb, R["tot"], "Reported quarters and years in blue. 3Q26E/4Q26E = FY2026E less 1H26A, split by 2025's 3Q/4Q shares; 2027 quarters by 2025 quarterly shares (approximation, quarterly columns grouped).")
 note(rb, R["us"], "10-K Note 'Revenue by geographic area' and 10-Qs. 1H26 US +35.1% YoY. Kept as a memo because the FY2026E anchor and the undocumented-services plug are US figures.")
@@ -270,18 +288,20 @@ label(rb, R["uplift"], "Non-recurring margin uplift (implementation fees), point
 label(rb, R["gp_tot"], "Total gross profit", "$mm", bold=True)
 label(rb, R["gm_blend"], "Blended gross margin", "%", bold=True)
 label(rb, R["cogs"], "Cost of revenue as % of revenue (to Three Statements row 11)", "%", italic=True, color=GREY)
-for p in ANN:
-    c = COL[p]
-    if p in HIST3: put(rb, f"{c}{R['gm_svc']}", f"={IN('in_sgm')}", italic=True, fmt=FMT_PCT); put(rb, f"{c}{R['gm_sw']}", f"={c}{R['a_swgm']}", italic=True, fmt=FMT_PCT)
+for p in PER:
+    c = COL[p]; fy = {"3Q26E": "FY2026E", "4Q26E": "FY2026E"}.get(p, "FY2027E" if p in QTR27 else p)
+    if p in HIST3 or p in QA: put(rb, f"{c}{R['gm_svc']}", f"={IN('in_sgm')}", italic=True, fmt=FMT_PCT); put(rb, f"{c}{R['gm_sw']}", f"={c}{R['a_swgm']}", italic=True, fmt=FMT_PCT)
     elif p == "FY2026E": put(rb, f"{c}{R['gm_svc']}", f"={IN('in_sgm')}", fmt=FMT_PCT); put(rb, f"{c}{R['gm_sw']}", f"=${COL['FY2025A']}${R['a_swgm']}", fmt=FMT_PCT)
     elif p in ENGP: put(rb, f"{c}{R['gm_svc']}", f"={COL[PREV[p]]}{R['gm_svc']}+{c}{R['in_sgm_chg']}", fmt=FMT_PCT); put(rb, f"{c}{R['gm_sw']}", f"={COL[PREV[p]]}{R['gm_sw']}", fmt=FMT_PCT)
-    else: put(rb, f"{c}{R['gm_svc']}", f"={COL[PREV[p]]}{R['gm_svc']}", fmt=FMT_PCT); put(rb, f"{c}{R['gm_sw']}", f"={COL[PREV[p]]}{R['gm_sw']}", fmt=FMT_PCT)
+    elif p in FADE: put(rb, f"{c}{R['gm_svc']}", f"={COL[PREV[p]]}{R['gm_svc']}", fmt=FMT_PCT); put(rb, f"{c}{R['gm_sw']}", f"={COL[PREV[p]]}{R['gm_sw']}", fmt=FMT_PCT)
+    else: put(rb, f"{c}{R['gm_svc']}", f"={COL[fy]}{R['gm_svc']}", fmt=FMT_PCT); put(rb, f"{c}{R['gm_sw']}", f"={COL[fy]}{R['gm_sw']}", fmt=FMT_PCT)   # projected quarters take the year's margins
     put(rb, f"{c}{R['gp_svc']}", f"={c}{R['svc']}*{c}{R['gm_svc']}", bold=True, fmt=FMT_MM1)
     put(rb, f"{c}{R['gp_sw']}", f"={c}{R['sw']}*{c}{R['gm_sw']}", bold=True, fmt=FMT_MM1)
-    if p in PROJ: put(rb, f"{c}{R['uplift']}", f"={c}{R['in_uplift']}", italic=True, fmt=FMT_PCT)
-    put(rb, f"{c}{R['gp_tot']}", f"={c}{R['gp_svc']}+{c}{R['gp_sw']}" + (f"+{c}{R['uplift']}*{c}{R['tot']}" if p in PROJ else ""), bold=True, fmt=FMT_MM1)
+    proj = p in PROJ or p in QTR26 or p in QTR27
+    if proj: put(rb, f"{c}{R['uplift']}", f"={COL[fy]}{R['in_uplift']}", italic=True, fmt=FMT_PCT)
+    put(rb, f"{c}{R['gp_tot']}", f"={c}{R['gp_svc']}+{c}{R['gp_sw']}" + (f"+{c}{R['uplift']}*{c}{R['tot']}" if proj else ""), bold=True, fmt=FMT_MM1)
     put(rb, f"{c}{R['gm_blend']}", f"=IF({c}{R['tot']}=0,0,{c}{R['gp_tot']}/{c}{R['tot']})", bold=True, fmt=FMT_PCT)
-    if p in PROJ: put(rb, f"{c}{R['cogs']}", f"=1-{c}{R['gm_blend']}", GREEN, italic=True, fmt=FMT_PCT)
+    if proj: put(rb, f"{c}{R['cogs']}", f"=1-{c}{R['gm_blend']}", GREEN, italic=True, fmt=FMT_PCT)
 note(rb, R["gm_svc"], "Input (inputs block). Bleecker's 26%; identity band 20%-32%; drifts by the red annual change from FY2027E. Management: FY2024 and 1Q26 declines 'attributable to a revenue mix shift towards certain lower gross margin contracts'.")
 note(rb, R["gm_sw"], "Derived in the appendix (software cost = IT and other + software share of launch/support). Override by typing over the FY2026E cell.")
 note(rb, R["uplift"], "10-Q 2Q26: margin rose to 41% 'primarily attributable to a higher percentage of non-subscription revenue' (implementation fees ~5% of revenue vs ~2%). Worth 2-3 points while launches run hot; +2.0 pts FY2026E, +0.5 FY2027E, zero after.")
@@ -320,7 +340,7 @@ for p in FADE:
     put(rb, f"{c}{R['svc_intl']}", f"={pc}{R['svc_intl']}*(1+{c}{R['in_fade_svc']})", fmt=FMT_MM1)
     put(rb, f"{c}{R['svc_tot']}", f"={c}{R['svc_us']}+{c}{R['svc_intl']}", bold=True, fmt=FMT_MM1)
 note(rb, R["svc_hard"], "Actual NTD RY2024 payments (agency fiscal years) and census ceilings x 0.8 haircut. Each row carries start, end, escalator (4%), volume expansion (5%/4%/3%/3% from 2027), funding tag, hazards and renewal probability. Signed 2025-26 wins (Mobile, Rochester, Plano, Sunnyvale, Addison, Grand County) are rows here.")
-note(rb, R["svc_new"], "Vintages 50 / 150 / 100 / 100 / 100 vehicle-equivalents (2026-30) x $153k revenue per contracted vehicle-year (NTD RY2024: $96.8mm / 632 vehicles), 50% first-year ramp. 2026 signings ran +200 to +300 vehicle-equivalents.")
+note(rb, R["svc_new"], "Vintages 50 / 200 / 175 / 150 / 150 vehicle-equivalents (2026-30) x $153k revenue per contracted vehicle-year (NTD RY2024: $96.8mm / 632 vehicles), 50% first-year ramp, turnkey survival after. 2026 signings ran +200 to +300 vehicle-equivalents; the base follows that pace and fades.")
 note(rb, R["svc_dt"], "10-K: 94 customers, pro forma 'not material'. Range $15mm-$35mm; default $25mm.")
 note(rb, R["svc_plug"], "Holds what documents cannot price: agencies below approval thresholds, app-only deployments, and 2026 wins with no stated price (Citilink Fort Wayne paratransit, TCATA, Highland Park). Grew +27% in 2025 and faster in 2026; base decays 20% / 15% / 12% / 10%.")
 note(rb, R["svc_tot"], "FY2031E+ fade at the services growth inputs (contract detail ends 2030).")
@@ -328,7 +348,7 @@ note(rb, R["svc_tot"], "FY2031E+ fade at the services growth inputs (contract de
 # ---------- 4. Software engine ----------
 label(rb, R["sw_hdr"], "Software Engine", bold=True, size=14)
 label(rb, R["sw_named"], "US named account: NYC DOE ($7.2mm/yr; renewal probability from FY2030E)", "$mm")
-label(rb, R["sw_small"], "US small-subscription base (residual; logos, expansion, churn from FY2027E)", "$mm")
+label(rb, R["sw_small"], "US small-subscription base (residual through FY2026E; logos, expansion, churn after)", "$mm")
 label(rb, R["sw_us"], "US software revenue", "$mm", bold=True)
 label(rb, R["sw_intl"], "International software (= international revenue x (1 - services share))", "$mm")
 label(rb, R["sw_tot"], "Total software revenue", "$mm", bold=True)
@@ -341,10 +361,14 @@ for p in ENG:
     else: put(rb, f"{c}{R['sw_named']}", f"={pc}{R['sw_named']}", fmt=FMT_MM1)
     put(rb, f"{c}{R['sw_intl']}", f"={c}{R['intl']}*(1-{IN('in_intl_share')})", fmt=FMT_MM1)
     if p in ("FY2024A", "FY2025A"): put(rb, f"{c}{R['sw_small']}", f"={c}{R['a_sw']}-{c}{R['sw_intl']}-{c}{R['sw_named']}", fmt=FMT_MM1)
-    elif p == "FY2026E": put(rb, f"{c}{R['sw_small']}", f"={pc}{R['sw_small']}*(1+{IN('in_sw26')})", fmt=FMT_MM1)
+    elif p == "FY2026E": put(rb, f"{c}{R['sw_small']}", f"={c}{R['sw_us']}-{c}{R['sw_named']}", fmt=FMT_MM1)   # anchored year: residual of the anchored software total
     else: put(rb, f"{c}{R['sw_small']}", f"={pc}{R['sw_small']}*(1+{IN('in_logo')})*(1+{IN('in_exp')})*(1-{IN('in_churn')})", fmt=FMT_MM1)
-    put(rb, f"{c}{R['sw_us']}", f"={c}{R['sw_named']}+{c}{R['sw_small']}", bold=True, fmt=FMT_MM1)
-    put(rb, f"{c}{R['sw_tot']}", f"={c}{R['sw_us']}+{c}{R['sw_intl']}", bold=True, fmt=FMT_MM1)
+    if p == "FY2026E":
+        put(rb, f"{c}{R['sw_tot']}", f"={COL['1Q26A']}{R['sw']}+{COL['2Q26A']}{R['sw']}+({COL['3Q25A']}{R['sw']}+{COL['4Q25A']}{R['sw']})*(1+{IN('in_sw26')})", bold=True, fmt=FMT_MM1)
+        put(rb, f"{c}{R['sw_us']}", f"={c}{R['sw_tot']}-{c}{R['sw_intl']}", bold=True, fmt=FMT_MM1)
+    else:
+        put(rb, f"{c}{R['sw_us']}", f"={c}{R['sw_named']}+{c}{R['sw_small']}", bold=True, fmt=FMT_MM1)
+        put(rb, f"{c}{R['sw_tot']}", f"={c}{R['sw_us']}+{c}{R['sw_intl']}", bold=True, fmt=FMT_MM1)
     if p != "FY2024A": put(rb, f"{c}{R['sw_acv']}", f"=IF({c}{R['cust_sw']}=0,0,{c}{R['sw_small']}/{c}{R['cust_sw']}*1000)", italic=True, fmt=FMT_INT)
 for p in FADE:
     c = COL[p]; pc = COL[PREV[p]]
@@ -375,12 +399,15 @@ for p in PER:
         put(rb, f"{c}{R['cust_sw']}", f"={pc}{R['cust_sw']}*(1+{IN('in_logo')}-{IN('in_churn')})", fmt=FMT_INT); put(rb, f"{c}{R['cust_dt']}", f"={pc}{R['cust_dt']}", fmt=FMT_INT)
         put(rb, f"{c}{R['cust_tot']}", f"=ROUND({c}{R['cust_tk']}+{c}{R['cust_sw']}+{c}{R['cust_dt']},0)", bold=True, fmt=FMT_INT)
     elif p in FADE: put(rb, f"{c}{R['cust_tot']}", f"=ROUND({COL[PREV[p]]}{R['cust_tot']}*(1+{IN('in_logo')}-{IN('in_churn')}),0)", bold=True, fmt=FMT_INT)
+    elif p == "3Q26E": put(rb, f"{c}{R['cust_tot']}", f"=ROUND({COL['2Q26A']}{R['cust_tot']}+({N_}{R['cust_tot']}-{COL['2Q26A']}{R['cust_tot']})/2,0)", bold=True, fmt=FMT_INT)
+    elif p == "4Q26E": put(rb, f"{c}{R['cust_tot']}", f"={N_}{R['cust_tot']}", bold=True, fmt=FMT_INT)
+    elif p in QTR27: put(rb, f"{c}{R['cust_tot']}", f"=ROUND({N_}{R['cust_tot']}+({COL['FY2027E']}{R['cust_tot']}-{N_}{R['cust_tot']})*{QTR27.index(p)+1}/4,0)", bold=True, fmt=FMT_INT)
     if p in ANN:
         dtc = 94 if p >= "FY2025A" and p != "FY2023A" and p != "FY2024A" else 0
         put(rb, f"{c}{R['cust_org']}", f"={c}{R['cust_tot']}-{dtc}", italic=True, fmt=FMT_INT)
     for r_, k_ in ((R["rpo"], 38), (R["nrr"], 36), (R["grr"], 37)):
         if (k_, p) in keep: put(rb, f"{c}{r_}", keep[(k_, p)], BLUE, fmt=FMT_MM1 if k_ == 38 else FMT_PCT)
-growth(rb, R["cust_g"], R["cust_tot"])
+growth(rb, R["cust_g"], R["cust_tot"]); qgrowth(rb, R["cust_g"], R["cust_tot"])
 note(rb, R["cust_tot"], "10-K/10-Q KPI: 665 (Dec-24), 689 (Jun-25), 821 (Dec-25, incl. 94 from Downtowner), 847 (Jun-26). Organic growth 9.3%.")
 note(rb, R["cust_tk"], "Census: 78 US agencies ever turnkey/hybrid, 26 NTD-paid (overlapping), a share of 62 app-only agencies, plus international operations customers: ~105 (2024), ~120 (2025); inputs.")
 note(rb, R["rpo"], "RPO $294.4mm at Dec-25 (60% recognized in 2026, 27% in 2027); $318.3mm at Jun-26 (37% due in 2027).")
@@ -398,7 +425,7 @@ INPUTS = [
     ("in_plug_g", "US undocumented services growth, by year (FY2026E by subtraction)", {"FY2027E": 0.20, "FY2028E": 0.15, "FY2029E": 0.12, "FY2030E": 0.10}, FMT_PCT, "Grew +27% in 2025; decays. Bear 10% flat; bull 25%."),
     ("in_dt26", "Downtowner FY2026E revenue ($mm)", {"FY2026E": 25.0}, FMT_MM1, "Range $15mm-$35mm (10-K: not material pro forma; 94 resort-town customers)."),
     ("in_dt_g", "Downtowner growth after FY2026E", {"FY2026E": 0.04}, FMT_PCT, "Escalators only."),
-    ("in_sw26", "US small-subscription software growth, FY2026E (anchored year)", {"FY2026E": 0.20}, FMT_PCT, "Residual software grew ~+23% in 2025 and about the same in 1H26."),
+    ("in_sw26", "2H26 YoY growth, software (FY2026E software = 1H26A + 2H25A x (1 + this))", {"FY2026E": 0.20}, FMT_PCT, "The software residual grew +23% in 2025 and +25% in 1H26 (2Q26 includes the implementation-fee spike management cited). Base 20%; bear 15%; bull 25%."),
     ("in_logo", "Net software logo growth (FY2027E+)", {"FY2026E": 0.06}, FMT_PCT, "Customer count ex-Downtowner +9.3%; operations customers (~15%-20% of count) grew ~15%-20%, leaving ~6%-7% for software. Bull 9%."),
     ("in_exp", "Expansion at existing software accounts (FY2027E+)", {"FY2026E": 0.07}, FMT_PCT, "Historic residual growth less logos = 10-14 pts; base 7%, bear 3%, bull 9%."),
     ("in_churn", "Competitive software churn (Spare, RideCo)", {"FY2026E": 0.035}, FMT_PCT, "6-7 displacements since 2024 out of ~70 documented software relationships."),
@@ -434,9 +461,13 @@ label(rb, R["a_chk"], "Check: services GP + software GP - reported gross profit 
 SVC_COST = {"FY2023A": 117.5, "FY2024A": 167.7, "FY2025A": 223.5}
 LS_ = f"${COL['FY2025A']}${R['a_ls']}"
 put(rb, f"{COL['FY2025A']}{R['a_ls']}", 25.8 / 39.1, BLUE, italic=True, fmt=FMT_PCT)
-for p in HIST3:
+label(rb, R["a_chk"] + 1, "Memo: YoY change in technology-enabled services cost, 1Q26 and 2Q26 (10-Q MD&A)", "$mm", italic=True, color=GREY)
+put(rb, f"{COL['1Q26A']}{R['a_chk']+1}", 18.0, BLUE, italic=True, fmt=FMT_MM1); put(rb, f"{COL['2Q26A']}{R['a_chk']+1}", 13.6, BLUE, italic=True, fmt=FMT_MM1)
+for p in HIST3 + QA:
     c = COL[p]
-    put(rb, f"{c}{R['a_cost']}", SVC_COST[p], BLUE, fmt=FMT_MM1)
+    if p in HIST3: put(rb, f"{c}{R['a_cost']}", SVC_COST[p], BLUE, fmt=FMT_MM1)
+    elif p in Q25: put(rb, f"{c}{R['a_cost']}", f"=${COL['FY2025A']}${R['a_cost']}*{TS}!{c}10/{TS}!${COL['FY2025A']}$10", fmt=FMT_MM1)
+    else: put(rb, f"{c}{R['a_cost']}", f"={COL[Q25[QA.index(p)-4]]}{R['a_cost']}+{c}{R['a_chk']+1}", fmt=FMT_MM1)
     put(rb, f"{c}{R['a_other']}", f"={TS}!{c}10-{c}{R['a_cost']}", GREEN, italic=True, fmt=FMT_MM1)
     put(rb, f"{c}{R['a_loaded']}", f"={c}{R['a_cost']}+(1-{IN('in_alloc')})*{LS_}*{c}{R['a_other']}", fmt=FMT_MM1)
     put(rb, f"{c}{R['a_svc']}", f"={c}{R['a_loaded']}/(1-{IN('in_sgm')})", bold=True, fmt=FMT_MM1)
@@ -444,7 +475,7 @@ for p in HIST3:
     put(rb, f"{c}{R['a_swcost']}", f"={c}{R['a_other']}-({c}{R['a_loaded']}-{c}{R['a_cost']})", fmt=FMT_MM1)
     put(rb, f"{c}{R['a_swgm']}", f"=1-{c}{R['a_swcost']}/{c}{R['a_sw']}", italic=True, fmt=FMT_PCT)
     put(rb, f"{c}{R['a_chk']}", f"=ROUND(({c}{R['a_svc']}-{c}{R['a_loaded']})+({c}{R['a_sw']}-{c}{R['a_swcost']})-({TS}!{c}7-{TS}!{c}10),3)", GREEN, italic=True, fmt=FMT_MM1)
-note(rb, R["a_cost"], "10-K FY2025 MD&A: cost of revenue $262.5mm = $223.5mm technology-enabled services + $25.8mm launch and support personnel + $13.3mm IT and other; 2024 and 2023 from the MD&A change sentences (+$55.8mm; +$50.2mm).")
+note(rb, R["a_cost"], "10-K FY2025 MD&A: cost of revenue $262.5mm = $223.5mm technology-enabled services + $25.8mm launch and support personnel + $13.3mm IT and other; 2024 and 2023 from the MD&A change sentences (+$55.8mm; +$50.2mm). Quarterly 2025 = FY allocated by each quarter's share of reported cost of revenue (estimate); 1Q26/2Q26 = prior-year quarter + disclosed change.")
 note(rb, R["a_other"], "Was $31.9mm / $39.1mm / $39.0mm in 2023-25: flat, so software cost of revenue is not growing with software revenue.")
 note(rb, R["a_swgm"], "Should land 70%-80%. Corner cases fail: all launch/support on software at 80% GM would imply services at 6% margin.")
 
@@ -592,7 +623,7 @@ assert r_nw + 7 == CL_TOT_NEW, (r_nw + 7, CL_TOT_NEW)
 put(cl, f"A{r_nw}", "Unsigned new wins by vintage (vehicle-equivalents; revenue = vehicles x $/vehicle-year x ramp x escalator x turnkey survival)", bold=True)
 put(cl, f"A{r_nw+1}", "Vintage", bold=True, size=11, border_b=True); put(cl, f"B{r_nw+1}", "Vehicle-equivalents (input)", bold=True, size=11, border_b=True, align="center")
 for j, y in enumerate(YEARS): put(cl, f"{L(19+j)}{r_nw+1}", f"FY{y}{'A' if y < 2026 else 'E'}", bold=True, size=11, border_b=True, align="center")
-VINT = {2026: 50, 2027: 150, 2028: 100, 2029: 100, 2030: 100}
+VINT = {2026: 50, 2027: 200, 2028: 175, 2029: 150, 2030: 150}
 for k, (v, veh) in enumerate(VINT.items(), start=2):
     r = r_nw + k; put(cl, f"A{r}", v, size=11); put(cl, f"B{r}", veh, RED, italic=True, fmt=FMT_INT, size=11)
     for j, y in enumerate(YEARS):
@@ -603,7 +634,7 @@ for j in range(7):
     col = L(19 + j); put(cl, f"{col}{CL_TOT_NEW}", f"=SUM({col}{r_nw+2}:{col}{r_nw+6})", bold=True, fmt=FMT_MM1)
 assert CL_TOT_NEW == r_nw + 7
 put(cl, f"F{r_nw+2}", "2026 vintage is small because Rochester, Plano, Addison, Grand County and Sunnyvale are already rows above. 2026 signings totalled +200 to +300 vehicle-equivalents.", GREY, italic=True, size=10)
-put(cl, f"F{r_nw+3}", "Bear 100 / 60 / 60; bull 220 / 200 / 200 for 2027-29.", GREY, italic=True, size=10)
+put(cl, f"F{r_nw+3}", "Base 200 / 175 / 150 / 150 follows the 2026 signing pace (+200 to +300) fading; bear 100 / 75 / 60 / 60; bull 300 / 300 / 250 / 250.", GREY, italic=True, size=10)
 
 # ---------- NTD Data sheet ----------
 if "NTD Data" in wb.sheetnames: del wb["NTD Data"]
@@ -687,8 +718,7 @@ put(so, "A61", "The margin sensitivity holds FY2027E segment revenues fixed; cha
 # ---------- re-point Three Statements (revenue row 7, cost of revenue % row 11) ----------
 for p in QTR26 + QTR27 + ["FY2028E", "FY2029E", "FY2030E"] + FADE:
     c = COL[p]; put(ts, f"{c}7", f"={RB}!{c}{R['tot']}", GREEN, italic=True, bold=True, fmt=FMT_MM1)
-for p in QTR26: put(ts, f"{COL[p]}11", f"={RB}!{N_}{R['cogs']}", GREEN, italic=True, fmt=FMT_PCT)
-for p in QTR27: put(ts, f"{COL[p]}11", f"={RB}!{COL['FY2027E']}{R['cogs']}", GREEN, italic=True, fmt=FMT_PCT)
+for p in QTR26 + QTR27: put(ts, f"{COL[p]}11", f"={RB}!{COL[p]}{R['cogs']}", GREEN, italic=True, fmt=FMT_PCT)
 for p in ("FY2028E", "FY2029E", "FY2030E") + tuple(FADE): put(ts, f"{COL[p]}11", f"={RB}!{COL[p]}{R['cogs']}", GREEN, italic=True, fmt=FMT_PCT)
 ts["AB7"].value = "Projected periods link to the Revenue Build total (row %d), 2026-09-21." % R["tot"]; ts["AB7"].font = font(GREY, italic=True)
 ts["AB11"].value = "Projected cost of revenue %% links to the Revenue Build gross-profit block (row %d): segment mix x segment margins, plus a fading implementation-fee uplift (2026-09-21)." % R["cogs"]; ts["AB11"].font = font(GREY, italic=True)
