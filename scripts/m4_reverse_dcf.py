@@ -29,7 +29,7 @@ print("EV row", R_EV, "| WACC row", R_WACC)
 refs = [(ws.title, c.coordinate, c.value[:60]) for ws in wb.worksheets if ws.title != w.title for row in ws.iter_rows() for c in row
         if isinstance(c.value, str) and c.value.startswith("=") and re.search(r"WACC and Reverse DCF \(KW\)'!\$?[A-Z]+\$?(5[4-9]|[6-9]\d|1[0-3]\d)\b", c.value)]
 print("external references into rows 54-137:", len(refs), "(Summary block re-pointed below)")
-for r in range(54, 138):
+for r in range(54, 139):
     for c in range(2, 40):
         cell = w.cell(r, c); cell.value = None; cell.font = font(); cell.number_format = "General"; cell.border = Border(); cell.alignment = Alignment()
 w["B3"].value = "Market-implied expectations: what free cash flow does the current enterprise value require?  |  $ in millions except per share"
