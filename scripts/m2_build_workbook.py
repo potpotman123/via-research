@@ -205,7 +205,7 @@ def growth(ws, row, base_row=None):
 def share(ws, row, base_row, tot_row):
     for p in ANN: put(ws, f"{COL[p]}{row}", f"=IF({COL[p]}{tot_row}=0,0,{COL[p]}{base_row}/{COL[p]}{tot_row})", italic=True, fmt=FMT_PCT)
 
-put(rb, "A1", "VIA, Revenue Projection Model: sum-of-the-parts build", bold=True, size=14)
+put(rb, "A1", "VIA, SOTP RPM", bold=True, size=14)   # title as Kendall set it in Excel
 put(rb, "A2", "Revenue and gross profit by segment (services vs. software) feeding the income statement  |  $ in millions unless noted  |  2027 quarterly columns are grouped (click + to expand)  |  rebuilt 2026-09-21", GREY, italic=True)
 put(rb, "A3", "Fiscal Year", bold=True, size=14)
 for col in range(3, 28): rb[f"{L(col)}3"].border = Border(bottom=THIN)
