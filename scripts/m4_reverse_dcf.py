@@ -110,5 +110,18 @@ sm = wb["Summary"]
 for row in sm.iter_rows():
     for c in row:
         if isinstance(c.value, str) and c.value.startswith("Reverse DCF holds"): c.value = "Reverse DCF solves for the FY2035E free cash flow the current enterprise value requires (linear dollar ramp from the FY2026E pitch-case burn), not for revenue growth."
+# ---- Summary block (N20:O34) pointed at the old rows; re-point to the FCF outputs ----
+W = "'WACC and Reverse DCF (KW)'"
+SUMM = [("FY2026E Unlevered FCF, pitch case ($mm)", f"={W}!D61", FMT_MM), ("FY2035E Unlevered FCF, pitch case ($mm)", f"={W}!D63", FMT_MM),
+        ("Market-Implied FY2035E Unlevered FCF ($mm)", f"={W}!D64", FMT_MM), ("Market-Implied FY2035E UFCF Margin (on pitch revenue)", f"={W}!D65", FMT_PCT),
+        ("Pitch-Case FY2035E UFCF Margin", f"={W}!D66", FMT_PCT), ("Gap: market-implied less pitch-case FY2035E UFCF ($mm)", f"={W}!D67", FMT_MM),
+        ("Market-Implied FY2035E UFCF as a multiple of the pitch case", f"={W}!D68", FMT_X)]
+for i, (lab, f, fmt) in enumerate(SUMM):
+    r = 22 + i; sm[f"N{r}"].value = lab; sm[f"O{r}"].value = f; sm[f"O{r}"].number_format = fmt; sm[f"O{r}"].font = font(GREEN, italic=True)
+sm["N29"].value = "Implied FY2035E UFCF ($mm) by WACC (terminal growth as on the DCF tab):"
+for i, r in enumerate((30, 31, 32)):
+    sm[f"N{r}"].value = f"={W}!C{92+i}"; sm[f"N{r}"].number_format = FMT_PCT; sm[f"N{r}"].font = font(GREEN, italic=True)
+    sm[f"O{r}"].value = f"={W}!F{92+i}"; sm[f"O{r}"].number_format = FMT_MM; sm[f"O{r}"].font = font(GREEN, italic=True)
+for r in (33, 34): sm[f"N{r}"].value = None; sm[f"O{r}"].value = None
 for o in OUT: wb.save(o)
 print("saved")
