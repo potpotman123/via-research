@@ -154,7 +154,18 @@ for c in contracts:
     if c["agency"].startswith("Bi-State"): c["end"] = date(2026, 6, 30); c["basis"] += "; one-year extension to mid-2026 (Resolution 1421), renewal probability applies after"
     if c["agency"] == "City of Mobile": c["end"] = date(2030, 9, 30)
     if c["agency"] == "Stark Area Regional Transit Authority": c["end"] = date(2024, 11, 7); c["term"] = "Y"
-print(f"contract rows: {len(contracts)}; tags {collections.Counter(c['tag'] for c in contracts)}")
+# funding tags / shares from model/inputs/funding_tags.csv (document-specific shares > NTD funding mix > municipal default)
+TAGS = list(csv.DictReader(open(f"{ROOT}/model/inputs/funding_tags.csv")))
+for c in contracts:
+    c["shares"] = None; c["evidence"] = ""
+    for t in TAGS:
+        if t["match"].lower() in c["agency"].lower():
+            sh = {k: float(t[k]) for k in ("local", "state", "fed_formula", "fed_onetime") if t[k] not in ("", None)}
+            if sh and sum(sh.values()) > 0: c["shares"] = sh; c["tag"] = "shares"
+            elif t["tag"]: c["tag"] = t["tag"]
+            c["evidence"] = (t["evidence"] + " [" + t["source"] + "]").strip(); break
+n_sh = sum(1 for c in contracts if c["shares"]); n_unk = sum(1 for c in contracts if c["tag"] == "unknown")
+print(f"contract rows: {len(contracts)}; share-weighted {n_sh}; tagged {len(contracts)-n_sh-n_unk}; unknown {n_unk}")
 
 # ---------- open workbook ----------
 wb = openpyxl.load_workbook(SRC)
@@ -535,12 +546,13 @@ cl.sheet_view.showGridLines = False
 put(cl, "A1", "VIA, Contract Layer: documented US operations contracts (services engine detail)", bold=True, size=14)
 put(cl, "A2", "One row per contract. Value in year Y = base x start proration x (1+escalator)^(Y-base year) x NTD volume growth x (1-annual hazard)^(Y-2025) x FY2027 level cut x expiry treatment (renewal probability after the end date). $ in millions.", GREY, italic=True)
 HDR = ["Agency", "Via entity", "Scope", "Labor-only (agency vehicles)", "Layer", "Funding (census text)", "Funding tag (editable)", "Run-rate / NTD payment ($mm)", "Haircut", "Base ($mm)", "Base year", "Start", "End (blank = none stated)", "NTD row", "Terminated",
-       "Annual hazard", "Renewal prob. at end", "FY27 level cut", "FY2024A", "FY2025A", "FY2026E", "FY2027E", "FY2028E", "FY2029E", "FY2030E", "Basis", "Source"]
+       "Annual hazard", "Renewal prob. at end", "FY27 level cut", "FY2024A", "FY2025A", "FY2026E", "FY2027E", "FY2028E", "FY2029E", "FY2030E", "Basis", "Source",
+       "Local share", "State share", "Federal formula share", "Federal one-time share", "Funding evidence"]
 YEARS = [2024, 2025, 2026, 2027, 2028, 2029, 2030]
 for i, h in enumerate(HDR): put(cl, f"{L(i+1)}4", h, bold=True, align="center" if i > 6 else None, border_b=True, size=11)
 for i, y in enumerate(YEARS): put(cl, f"{L(19+i)}3", y, GREY, italic=True, align="center", size=11)   # numeric years used by formulas
 put(cl, "A3", "Year (numeric, used by formulas) ->", GREY, italic=True, size=11)
-widths = {"A": 44, "B": 22, "C": 10, "D": 10, "E": 13, "F": 34, "G": 15, "H": 12, "I": 8, "J": 10, "K": 8, "L": 11, "M": 11, "N": 7, "O": 9, "P": 9, "Q": 9, "R": 9, "Z": 70, "AA": 40}
+widths = {"A": 44, "B": 22, "C": 10, "D": 10, "E": 13, "F": 34, "G": 15, "H": 12, "I": 8, "J": 10, "K": 8, "L": 11, "M": 11, "N": 7, "O": 9, "P": 9, "Q": 9, "R": 9, "Z": 70, "AA": 40, "AB": 9, "AC": 9, "AD": 9, "AE": 9, "AF": 90}
 for k, v in widths.items(): cl.column_dimensions[k].width = v
 for i in range(19, 26): cl.column_dimensions[L(i)].width = 10
 cl.freeze_panes = "B5"
@@ -558,6 +570,7 @@ HZ = {"local": (0.01, 0.95, 0.0), "federal formula": (0.0, 0.90, 0.0), "federal 
 tag_rng = f"$A${r_hz+1}:$A${r_hz+len(HZ_TAGS)}"; ann_rng = f"$B${r_hz+1}:$B${r_hz+len(HZ_TAGS)}"; ren_rng = f"$C${r_hz+1}:$C${r_hz+len(HZ_TAGS)}"; cut_rng = f"$D${r_hz+1}:$D${r_hz+len(HZ_TAGS)}"
 COMP_TK, COMP_SW, DOWNSELL = f"$C${r_hz+7}", f"$C${r_hz+8}", f"$C${r_hz+9}"
 put(cl, f"A{first-1}", "Contracts", bold=True)
+put(cl, f"AB{first-2}", "Funding shares (red): when filled, the hazard, renewal probability and level cut are share-weighted across the hazard table below and the tag in column G is ignored ('shares'). Blank shares fall back to the tag.", GREY, italic=True, size=10)
 for i, c in enumerate(contracts):
     r = first + i
     put(cl, f"A{r}", c["agency"], size=11); put(cl, f"B{r}", c["entity"], size=11); put(cl, f"C{r}", c["scope"], size=11); put(cl, f"D{r}", c["labor"], size=11, align="center"); put(cl, f"E{r}", c["layer"], size=11)
@@ -566,9 +579,14 @@ for i, c in enumerate(contracts):
     put(cl, f"K{r}", c["base_year"], BLUE, size=11, align="center"); put(cl, f"L{r}", c["start"], BLUE, fmt=FMT_DATE, size=11)
     if c["end"]: put(cl, f"M{r}", c["end"], BLUE if not c["basis"].startswith("ASSUMPTION") else RED, fmt=FMT_DATE, size=11)
     put(cl, f"N{r}", c["ntd"], size=11, align="center"); put(cl, f"O{r}", c["term"], size=11, align="center")
-    put(cl, f"P{r}", f"=IF(C{r}=\"Software-only\",{COMP_SW},{COMP_TK})+INDEX({ann_rng},MATCH(G{r},{tag_rng},0))+IF(AND(G{r}=\"local\",C{r}<>\"Software-only\"),{DOWNSELL},0)", fmt=FMT_PCT, size=11)
-    put(cl, f"Q{r}", f"=IF(O{r}=\"Y\",0,INDEX({ren_rng},MATCH(G{r},{tag_rng},0)))", fmt="0.00", size=11)
-    put(cl, f"R{r}", f"=INDEX({cut_rng},MATCH(G{r},{tag_rng},0))", fmt=FMT_PCT, size=11)
+    if c["shares"]:
+        for col, k in (("AB", "local"), ("AC", "state"), ("AD", "fed_formula"), ("AE", "fed_onetime")): put(cl, f"{col}{r}", round(c["shares"].get(k, 0.0), 3), RED, italic=True, fmt=FMT_PCT, size=11)
+    put(cl, f"AF{r}", c["evidence"], GREY, italic=True, size=10)
+    S_ = f"SUM(AB{r}:AE{r})"; rl, rf, r1, rs = r_hz + 1, r_hz + 2, r_hz + 3, r_hz + 4
+    wsum = lambda colhz: f"(AB{r}*${colhz}${rl}+AC{r}*${colhz}${rs}+AD{r}*${colhz}${rf}+AE{r}*${colhz}${r1})"
+    put(cl, f"P{r}", f"=IF(C{r}=\"Software-only\",{COMP_SW},{COMP_TK})+IF({S_}>0,{wsum('B')},INDEX({ann_rng},MATCH(G{r},{tag_rng},0)))+IF(C{r}<>\"Software-only\",{DOWNSELL}*IF({S_}>0,AB{r},IF(G{r}=\"local\",1,0)),0)", fmt=FMT_PCT, size=11)
+    put(cl, f"Q{r}", f"=IF(O{r}=\"Y\",0,IF({S_}>0,{wsum('C')},INDEX({ren_rng},MATCH(G{r},{tag_rng},0))))", fmt="0.00", size=11)
+    put(cl, f"R{r}", f"=IF({S_}>0,{wsum('D')},INDEX({cut_rng},MATCH(G{r},{tag_rng},0)))", fmt=FMT_PCT, size=11)
     for j, y in enumerate(YEARS):
         col = L(19 + j); Y = f"{col}$3"
         f = (f"=IF(OR($J{r}=0,{Y}<YEAR($L{r})),0,$J{r}*IF({Y}=YEAR($L{r}),(DATE({Y},12,31)-$L{r}+1)/365,1)*(1+{ESC})^({Y}-$K{r})"

@@ -41,3 +41,15 @@ Effect: S1 shows the hazards remove ~4 points of 2027 services growth and ~7% of
 3. Budget documents for the rest (11 agencies with no funding page: Hampton Roads, Muskegon, Norman, BJCTA, Rochester, Placer, Gastonia, Addison,
    Omaha, Brighton, Tacoma schools): adopted-budget PDFs name the fund for each contract line. One fetch each.
 Until then, the honest presentation is the S1 bracket: hazards on (base) versus off, ~4 points of 2027 services growth.
+
+## 4. Funding tags resolved (2026-09-22)
+All 59 contract rows now carry funding shares (local / state / federal formula / federal one-time) in Contract Layer columns AB:AE with a one-line
+evidence note in AF; the hazard, renewal probability and FY2027 level cut are share-weighted across the hazard table. Precedence: a document naming
+what pays for the Via contract (Sunnyvale TIRCP 50/50; Arlington 60/40; Grand Prairie and Valdosta 5307 with local match; Placer TOT; Omaha
+philanthropic pilot; Wilson NCDOT AIM; SacRT CPUC Access for All; Tahoe ARPA; Jersey City CRRSAA pilot now city budget) > the agency's NTD 2024
+operating funding mix ex-capital (`text/enum/ntd_funding_mix_2024*.csv`, from the FTA funding-source tables on data.transportation.gov, datasets
+ujv8-f24s and qpjk-b3zw) > municipal general fund for cities and districts with no grant named (Addison, San Diego, Tacoma schools). Three earlier
+keyword tags were wrong and are replaced: LA Metro 'federal one-time' (a 2018 pilot grant; the operations contracts are Metro-funded), UTA 'federal
+formula' (93% local), Cupertino 'state' (general fund). Inputs: `model/inputs/funding_tags.csv`.
+Effect: dollar-weighted annual hazard on the documented book 2.05%; base-case 2027 growth unchanged (19.5%), 2030 revenue -0.5%; funding-cliff
+scenario 2027 growth 17.7% (was 17.5%). The layer is now defensible row by row; it was never the valuation driver.

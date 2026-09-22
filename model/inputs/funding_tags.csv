@@ -1,0 +1,60 @@
+match,tag,local,state,fed_formula,fed_onetime,evidence,source
+Hampton Roads,,0.309,0.369,0.321,0.0,"NTD 2024 operating funding mix ex-capital (FTA funding-source tables, data.transportation.gov): local 31%, state 37%, federal formula 32%, other federal 0%. HRT board packets fund service contracts ~27% federal 5307 / ~65% state grant; the 10/2025 microtransit award (contract 25-00363) is funded by state TRiP grant funds.",NTD 2024 funding-source tables
+King County,,0.85,0.122,0.027,0.001,"NTD 2024 operating funding mix ex-capital (FTA funding-source tables, data.transportation.gov): local 85%, state 12%, federal formula 3%, other federal 0%.",NTD 2024 funding-source tables
+Pierce,,0.727,0.166,0.098,0.009,"NTD 2024 operating funding mix ex-capital (FTA funding-source tables, data.transportation.gov): local 73%, state 17%, federal formula 10%, other federal 1%. Census: grant funds applied for; local funds if not awarded.",NTD 2024 funding-source tables
+Ben Franklin,,0.715,0.142,0.143,0.0,"NTD 2024 operating funding mix ex-capital (FTA funding-source tables, data.transportation.gov): local 72%, state 14%, federal formula 14%, other federal 0%. Census: local operating budget.",NTD 2024 funding-source tables
+Snohomish,,0.872,0.039,0.089,0.0,"NTD 2024 operating funding mix ex-capital (FTA funding-source tables, data.transportation.gov): local 87%, state 4%, federal formula 9%, other federal 0%.",NTD 2024 funding-source tables
+Worcester,,0.156,0.561,0.282,0.001,"NTD 2024 operating funding mix ex-capital (FTA funding-source tables, data.transportation.gov): local 16%, state 56%, federal formula 28%, other federal 0%. Census: MassDOT / WRTA operating budget.",NTD 2024 funding-source tables
+Suffolk,,0.325,0.397,0.248,0.03,"NTD 2024 operating funding mix ex-capital (FTA funding-source tables, data.transportation.gov): local 32%, state 40%, federal formula 25%, other federal 3%. Minutes: Kings Park microtransit approved for $1.0mm state IMI pilot funds.",NTD 2024 funding-source tables
+Volusia,,0.249,0.156,0.595,0.0,"NTD 2024 operating funding mix ex-capital (FTA funding-source tables, data.transportation.gov): local 25%, state 16%, federal formula 60%, other federal 0%.",NTD 2024 funding-source tables
+Birmingham,,0.475,0.0,0.525,0.0,"NTD 2024 operating funding mix ex-capital (FTA funding-source tables, data.transportation.gov): local 48%, state 0%, federal formula 52%, other federal 0%. Birmingham Times: city funds routed to BJCTA via IGA so BJCTA can access FTA federal match.",NTD 2024 funding-source tables
+Sarasota,,0.605,0.079,0.316,0.0,"NTD 2024 operating funding mix ex-capital (FTA funding-source tables, data.transportation.gov): local 60%, state 8%, federal formula 32%, other federal 0%.",NTD 2024 funding-source tables
+Green Bay,,0.168,0.334,0.481,0.017,"NTD 2024 operating funding mix ex-capital (FTA funding-source tables, data.transportation.gov): local 17%, state 33%, federal formula 48%, other federal 2%.",NTD 2024 funding-source tables
+Milwaukee,,0.366,0.445,0.187,0.001,"NTD 2024 operating funding mix ex-capital (FTA funding-source tables, data.transportation.gov): local 37%, state 44%, federal formula 19%, other federal 0%. County packet tabulates 5307 formula funds for the program.",NTD 2024 funding-source tables
+Toledo,,0.724,0.036,0.237,0.003,"NTD 2024 operating funding mix ex-capital (FTA funding-source tables, data.transportation.gov): local 72%, state 4%, federal formula 24%, other federal 0%. TARTA board reports: sales tax levy is the main operating source.",NTD 2024 funding-source tables
+Muskegon,,0.098,0.36,0.516,0.026,"NTD 2024 operating funding mix ex-capital (FTA funding-source tables, data.transportation.gov): local 10%, state 36%, federal formula 52%, other federal 3%.",NTD 2024 funding-source tables
+Ann Arbor,,0.412,0.422,0.161,0.005,"NTD 2024 operating funding mix ex-capital (FTA funding-source tables, data.transportation.gov): local 41%, state 42%, federal formula 16%, other federal 0%.",NTD 2024 funding-source tables
+Lorain,,0.156,0.282,0.563,0.0,"NTD 2024 operating funding mix ex-capital (FTA funding-source tables, data.transportation.gov): local 16%, state 28%, federal formula 56%, other federal 0%. Census: local purchased-services account, itself funded by the agency mix.",NTD 2024 funding-source tables
+Capital Area Transit,,0.761,0.015,0.215,0.008,"NTD 2024 operating funding mix ex-capital (FTA funding-source tables, data.transportation.gov): local 76%, state 2%, federal formula 22%, other federal 1%. CATS operates on a dedicated property tax.",NTD 2024 funding-source tables
+Denton County,,0.671,0.01,0.319,0.0,"NTD 2024 operating funding mix ex-capital (FTA funding-source tables, data.transportation.gov): local 67%, state 1%, federal formula 32%, other federal 0%. DCTA grant schedule lists CMAQ $8.4mm, 5307 and 5339; GoZone is partly CMAQ-supported (counted in the federal formula share).",NTD 2024 funding-source tables
+Norman,,0.453,0.038,0.395,0.114,"NTD 2024 operating funding mix ex-capital (FTA funding-source tables, data.transportation.gov): local 45%, state 4%, federal formula 40%, other federal 11%.",NTD 2024 funding-source tables
+Bi-State,,0.858,0.015,0.119,0.009,"NTD 2024 operating funding mix ex-capital (FTA funding-source tables, data.transportation.gov): local 86%, state 2%, federal formula 12%, other federal 1%. Metro St. Louis: sales tax dominated.",NTD 2024 funding-source tables
+Utah Transit,,0.931,0.0,0.052,0.017,"NTD 2024 operating funding mix ex-capital (FTA funding-source tables, data.transportation.gov): local 93%, state 0%, federal formula 5%, other federal 2%. UTA is ~93% locally funded (sales tax); earlier 'federal formula' tag came from a budget line, not the contract.",NTD 2024 funding-source tables
+Sioux Falls,,0.536,0.008,0.456,0.0,"NTD 2024 operating funding mix ex-capital (FTA funding-source tables, data.transportation.gov): local 54%, state 1%, federal formula 46%, other federal 0%. Census: city transit fund, which the NTD mix shows is ~46% federal formula.",NTD 2024 funding-source tables
+Trinity,,0.684,0.0,0.316,0.0,"NTD 2024 operating funding mix ex-capital (FTA funding-source tables, data.transportation.gov): local 68%, state 0%, federal formula 32%, other federal 0%. Trinity Metro budget: sales tax ~$41mm of $47mm operating revenue.",NTD 2024 funding-source tables
+Rochester,,0.418,0.321,0.256,0.004,"NTD 2024 operating funding mix ex-capital (FTA funding-source tables, data.transportation.gov): local 42%, state 32%, federal formula 26%, other federal 0%.",NTD 2024 funding-source tables
+Suburban Mobility,,0.456,0.23,0.27,0.043,"NTD 2024 operating funding mix ex-capital (FTA funding-source tables, data.transportation.gov): local 46%, state 23%, federal formula 27%, other federal 4%. SMART: property tax millage plus state operating assistance.",NTD 2024 funding-source tables
+Gastonia,,0.307,0.053,0.64,0.0,"NTD 2024 operating funding mix ex-capital (FTA funding-source tables, data.transportation.gov): local 31%, state 5%, federal formula 64%, other federal 0%.",NTD 2024 funding-source tables
+Norwalk,,0.565,0.161,0.274,0.0,"NTD 2024 operating funding mix ex-capital (FTA funding-source tables, data.transportation.gov): local 56%, state 16%, federal formula 27%, other federal 0%.",NTD 2024 funding-source tables
+Los Angeles,,0.666,0.213,0.118,0.003,"NTD 2024 operating funding mix ex-capital (FTA funding-source tables, data.transportation.gov): local 67%, state 21%, federal formula 12%, other federal 0%. The 2018 MOD Sandbox grant funded the pilot only; the 10/2024 operations contracts are Metro-funded (sales tax measures). Earlier 'federal one-time' tag replaced.",NTD 2024 funding-source tables
+Arlington,,0.6,0.0,0.4,0.0,"Arlington staff report: FTA formula funds ~40%, City funds ~60% (plus fares/advertising).",census staff report
+Grand Prairie,,0.3,0.0,0.7,0.0,"Staff report: primarily FTA 5307 grant funds and farebox, some local match.",census staff report
+Valdosta,,0.2,0.0,0.8,0.0,FTA 5307 Urbanized Area Formula grant 80% / City match 20% (FY25 budget).,census
+Stark,,0.2,0.0,0.8,0.0,Federal award / local match (service terminated 11/2024).,census
+Placer,,0.6,0.3,0.1,0.0,"Placer County board: $685k of the contract funded from Transient Occupancy Tax (reallocated from tourism marketing); remainder from TART's funding mix (NTD: local 32%, state 40%, federal 28%).",census + NTD
+Sunnyvale,,0.5,0.5,0.0,0.0,Council item 26-0333: total project $8.358mm = TIRCP state grant $4.179mm + City matching funds $4.179mm ($917k from the General Fund in the budget modification).,corpus doc 186
+Grand County,,0.2,0.0,0.8,0.0,4/2026 amendment to the Dec-2021 services price agreement funded with FY26 FTA 5307 grant funds; local match assumed 20%.,census
+Denver,,0.25,0.75,0.0,0.0,Two RTD partnership grants plus City and County of Denver matching funds; RTD grants treated as a renewable regional grant (state bucket).,census
+Brighton,,0.25,0.75,0.0,0.0,RTD grant $600k/yr through 2027 + City contribution $200k/yr; RTD grant treated as a regional grant (state bucket) expiring 2027.,census
+Lake County,,0.25,0.75,0.0,0.0,CDOT Multimodal Transportation and Mitigation Options Fund grant $1.04mm; Lake County and City of Leadville $173k each.,census
+Miami-Dade,,0.5,0.5,0.0,0.0,"Census: 'State Funds and DTPW Operating' (agency NTD mix: local 79%, state 7%, federal 12%).",census + NTD
+Cobb,,0.3,0.35,0.35,0.0,"Staff report: state and federal grants ~70% (ATL authority), Cobb County funds ~30%.",census
+West Sacramento,,0.4,0.6,0.0,0.0,SACOG TDM Innovation grant plus State Transportation Development Act funds.,census
+Douglas,,0.6,0.4,0.0,0.0,"Road and Bridge Sales and Use Tax revenue, state grants, and a $250k partner contribution.",census
+New Braunfels,,0.0,0.3,0.4,0.3,"Census: FTA, TxDOT and ARPA funds.",census
+Mobile,,1.0,0.0,0.0,0.0,Council: general fund (turnkey system management contract).,census
+Omaha,,0.0,0.0,0.0,1.0,Resolution 2025-10: Metro Flex two-year pilot funded by philanthropic grants (one-time); agency NTD mix local 62% / federal 38% applies if the program is absorbed into the operating budget.,census + NTD
+Washoe,,0.0,0.0,0.0,1.0,ARPA State and Local Fiscal Recovery Funds (one-time).,census
+Wilson,,0.0,0.0,0.0,1.0,NCDOT AIM (Accelerating Innovative Mobility) FY20 award: one-time state pilot money.,census
+Sacramento Regional,,0.0,0.0,0.0,1.0,"CPUC Access for All program award, 3-year phase 7/2026-6/2029 (one-time program funding).",census
+Tahoe,,0.0,0.0,0.0,1.0,ARPA State and Local Fiscal Recovery Funds (one-time).,census
+Jersey City,,1.0,0.0,0.0,0.0,"Pilot (2021-23) funded by a $7mm FTA CRRSAA grant (one-time, expired); the continuing service is funded from the city budget (2025-26 budget decisions).",census
+Passaic,,1.0,0.0,0.0,0.0,County funding account T-24-56-850-000-801; no named grant program.,census
+Rosemead,,1.0,0.0,0.0,0.0,Proposition A/C local-return transportation sales tax (LA County).,census
+Addison,,1.0,0.0,0.0,0.0,Town general fund via the 791 cooperative contract (municipal default; no grant named).,census (default)
+San Diego,,1.0,0.0,0.0,0.0,City pilot; no grant named (municipal default).,census (default)
+Tacoma,,1.0,0.0,0.0,0.0,School district contract funded from district budget (default).,census (default)
+Plano,,1.0,0.0,0.0,0.0,FY2025-26 General Fund budget.,census
+Palo Alto,,1.0,0.0,0.0,0.0,General Fund and Stanford partnership.,census
+Highland Park,,1.0,0.0,0.0,0.0,FY26 budget amendment ($1.55mm).,census
+Cupertino,,1.0,0.0,0.0,0.0,General Fund (Traffic Engineering Program); earlier 'state' tag came from an unrelated state-funding sentence.,census
