@@ -325,7 +325,7 @@ for p in ENG:
     if p == "FY2024A": put(rb, f"{c}{R['svc_dt']}", 0, fmt=FMT_MM1)
     elif p == "FY2025A": put(rb, f"{c}{R['svc_dt']}", f"={IN('in_dt26')}*19/365", fmt=FMT_MM1)
     elif p == "FY2026E": put(rb, f"{c}{R['svc_dt']}", f"={IN('in_dt26')}", fmt=FMT_MM1)
-    else: put(rb, f"{c}{R['svc_dt']}", f"={pc}{R['svc_dt']}*(1+{IN('in_dt_g')})", fmt=FMT_MM1)
+    else: put(rb, f"{c}{R['svc_dt']}", f"={pc}{R['svc_dt']}*(1+{c}{R['in_dt_g']})", fmt=FMT_MM1)
     if p in ("FY2024A", "FY2025A"): put(rb, f"{c}{R['svc_plug']}", f"={c}{R['memo_split']}-{c}{R['svc_hard']}-{c}{R['svc_dt']}", fmt=FMT_MM1)
     elif p == "FY2026E": put(rb, f"{c}{R['svc_plug']}", f"={c}{R['svc_us']}-{c}{R['svc_hard']}-{c}{R['svc_new']}-{c}{R['svc_dt']}", fmt=FMT_MM1)
     else: put(rb, f"{c}{R['svc_plug']}", f"={pc}{R['svc_plug']}*(1+{c}{R['in_plug_g']})", fmt=FMT_MM1)
@@ -341,7 +341,7 @@ for p in FADE:
     put(rb, f"{c}{R['svc_tot']}", f"={c}{R['svc_us']}+{c}{R['svc_intl']}", bold=True, fmt=FMT_MM1)
 note(rb, R["svc_hard"], "Actual NTD RY2024 payments (agency fiscal years) and census ceilings x 0.8 haircut. Each row carries start, end, escalator (4%), volume expansion (8%/6%/5%/4% from 2027, gliding from observed NTD hours growth), funding tag, hazards and renewal probability. Signed 2025-26 wins (Mobile, Rochester, Plano, Sunnyvale, Addison, Grand County) are rows here.")
 note(rb, R["svc_new"], "Vintages 50 / 250 / 200 / 175 / 150 vehicle-equivalents (2026-30) x $153k revenue per contracted vehicle-year (NTD RY2024: $96.8mm / 632 vehicles), 50% first-year ramp, turnkey survival after. 2026 signings ran +200 to +300 vehicle-equivalents; the base follows that pace and fades.")
-note(rb, R["svc_dt"], "10-K: 94 customers, pro forma 'not material'. Range $15mm-$35mm; default $25mm.")
+note(rb, R["svc_dt"], "10-K Note 3: $40.7mm cash, 94 customers, revenue since acquisition 'not material', pro forma not presented. Level $25mm (range $15mm-$35mm); growth by year from the inputs block (15% / 12% / 8% / 6%), organic from FY2027E onward.")
 note(rb, R["svc_plug"], "Holds what documents cannot price: agencies below approval thresholds, app-only deployments, 2026 wins with no stated price (Citilink Fort Wayne paratransit, TCATA, Highland Park), and any haircut that is too harsh on new whole-system contracts. Grew +27% in 2025 and ~+50% in 2026; glides 30% / 22% / 16% / 12%.")
 note(rb, R["svc_tot"], "FY2031E+ fade at the services growth inputs (contract detail ends 2030).")
 
@@ -423,8 +423,8 @@ INPUTS = [
     ("in_2h_intl", "2H26 YoY growth, International", {"FY2026E": 0.05}, FMT_PCT, "Germany 2Q26 -12% (Muva ended), other countries +41%: blend ~+5%."),
     ("in_intl_g", "International revenue growth, by year", {"FY2027E": 0.06, "FY2028E": 0.07, "FY2029E": 0.05, "FY2030E": 0.04}, FMT_PCT, "Germany -5% then flat; other countries +20% / +15% / +10% / +8%: blended."),
     ("in_plug_g", "US undocumented services growth, by year (glide; FY2026E by subtraction)", {"FY2027E": 0.30, "FY2028E": 0.22, "FY2029E": 0.16, "FY2030E": 0.12}, FMT_PCT, "Grew +27% in 2025 and ~+50% in 2026 (it holds the unpriced Dec-2025 launches: Citilink Fort Wayne paratransit, TCATA, plus Highland Park), which annualize in 2027. Glide 30% / 22% / 16% / 12%. Bear 15% flat; bull 35% / 30% / 25% / 20%."),
-    ("in_dt26", "Downtowner FY2026E revenue ($mm)", {"FY2026E": 25.0}, FMT_MM1, "Range $15mm-$35mm (10-K: not material pro forma; 94 resort-town customers)."),
-    ("in_dt_g", "Downtowner growth after FY2026E", {"FY2026E": 0.04}, FMT_PCT, "Escalators only."),
+    ("in_dt26", "Downtowner FY2026E revenue ($mm)", {"FY2026E": 25.0}, FMT_MM1, "10-K Note 3: acquired 2025-12-12 for $40.7mm cash (goodwill $26.4mm; intangibles $13.0mm, of which developed technology only $5.0mm, customer relationships $6.8mm); revenue since acquisition 'not material'; pro forma not presented. A mostly-services business at $40.7mm implies ~1x-2x revenue, i.e. $20mm-$40mm; base $25mm, range $15mm-$35mm."),
+    ("in_dt_g", "Downtowner growth, by year (FY2027E+)", {"FY2027E": 0.15, "FY2028E": 0.12, "FY2029E": 0.08, "FY2030E": 0.06}, FMT_PCT, "Bought to expand into destination cities (Aspen, Park City, Truckee) that Via's release calls 'an important and growing market'; cross-sell of Via software to 94 customers plus new towns. Base follows the services book with a lag; bear 4% (escalators only); bull 20%."),
     ("in_sw26", "2H26 YoY growth, software (FY2026E software = 1H26A + 2H25A x (1 + this))", {"FY2026E": 0.20}, FMT_PCT, "The software residual grew +23% in 2025 and +25% in 1H26 (2Q26 includes the implementation-fee spike management cited). Base 20%; bear 15%; bull 25%."),
     ("in_logo", "Net software logo growth (FY2027E+)", {"FY2026E": 0.06}, FMT_PCT, "Customer count ex-Downtowner +9.3%; operations customers (~15%-20% of count) grew ~15%-20%, leaving ~6%-7% for software. Bull 9%."),
     ("in_exp", "Expansion at existing software accounts, by year (glide)", {"FY2027E": 0.17, "FY2028E": 0.14, "FY2029E": 0.11, "FY2030E": 0.08}, FMT_PCT, "The software residual grew ~23% in each of 2024, 2025 and 2026 with net logos near 6%, so expansion ran ~14-16 pts. The glide starts there (17%) and fades to 8% by 2030. Bear 10% flat; bull 17% flat."),
