@@ -227,7 +227,7 @@ FYFILL = PatternFill("solid", fgColor="FFF2F2F2")
 for p in PER:
     put(rb, f"{COL[p]}4", p, align="right", border_b=True, bold=p.startswith("FY"))
     if p.startswith("FY"): rb[f"{COL[p]}4"].fill = FYFILL
-put(rb, "A4", "Quarters are reported (A) through 2Q26; 3Q26E-4Q27E are projected. FY columns shaded.", GREY, italic=True, size=10)
+put(rb, "A5", "Quarters reported (A) through 2Q26, projected 3Q26E-4Q27E; FY columns shaded. Engine sections below the KPIs are annual: their quarterly cells are greyed out.", GREY, italic=True, size=10)
 put(rb, "AB4", "Notes / sources", GREY, italic=True, border_b=True)
 
 # ---------- 1. Revenue by segment ----------
@@ -237,7 +237,7 @@ label(rb, R["svc_g"], "% Growth (YoY)", "%", italic=True); label(rb, R["svc_sh"]
 label(rb, R["sw"], "Software revenue (subscriptions, Remix, named accounts)", "$mm", bold=True)
 label(rb, R["sw_g"], "% Growth (YoY)", "%", italic=True); label(rb, R["sw_sh"], "% of Total Revenue", "%", italic=True)
 label(rb, R["tot"], "Total Revenue (feeds Three Statements row 7)", "$mm", bold=True)
-label(rb, R["tot_g"], "% Growth (YoY)", "%", italic=True); label(rb, R["tot_org"], "% Growth (YoY) ex-Downtowner, at the Downtowner revenue estimate in the inputs", "%", bold=True)
+label(rb, R["tot_g"], "% Growth (YoY)", "%", italic=True); label(rb, R["tot_org"], "% Growth (YoY) ex-Downtowner (at the estimate in the inputs)", "%", bold=True)
 label(rb, R["tot_chk"], "Check vs. Three Statements revenue (should be 0)", "$mm", italic=True, color=GREY)
 label(rb, R["us"], "Memo: United States revenue (reported; FY2026E anchored to 1H26A)", "$mm", italic=True)
 label(rb, R["intl"], "Memo: International revenue, Germany + all other (reported)", "$mm", italic=True)
@@ -545,6 +545,11 @@ label(rb, r_flag, "All checks", "", bold=True)
 put(rb, f"{N_}{r_flag}", f"=IF(COUNTIF({N_}{R['chk_hdr']+1}:{N_}{r_flag-1},\"FAIL\")=0,\"ALL PASS\",COUNTIF({N_}{R['chk_hdr']+1}:{N_}{r_flag-1},\"FAIL\")&\" FAIL\")", GREEN, bold=True, align="right")
 note(rb, R["chk_hdr"] + 5, "The reconciliation between the census/NTD book and the filings: fails when the services GM input is too low for the documented US operations revenue.")
 note(rb, R["chk_hdr"] + 11, "Adjusted EBITDA flows from the Three Statements opex assumptions, which this rebuild did not change; the tolerance covers that.")
+QFILL = PatternFill("solid", fgColor="FFF4F4F4"); QCOLS = [COL[p] for p in Q25 + Q26 + QTR27]; ANNCOLS = [COL[p] for p in ANN]
+for r_ in range(R["se_hdr"], r_flag + 1):
+    has_ann = any(rb[f"{c_}{r_}"].value is not None for c_ in ANNCOLS); has_q = any(rb[f"{c_}{r_}"].value is not None for c_ in QCOLS)
+    if has_ann and not has_q:
+        for c_ in QCOLS: rb[f"{c_}{r_}"].fill = QFILL
 label(rb, r_flag + 2, "Notes", bold=True)
 NOTES = ["Architecture: filings set totals and the historical services/software split (one assumption, services GM); the contract layer dates the services book; software is the residual grown by logos, expansion and churn; gross margin follows mix. See via-research repo: growth_model_design.md sections 8-12, rpm_spec.md, rpm_walkthrough.md.",
          "Colour legend as on the Cover: blue reported input, red assumption, black formula, green cross-sheet link or check.",
@@ -558,14 +563,17 @@ cl = wb.create_sheet("Contract Layer (KW)", index=wb.sheetnames.index("Revenue B
 cl.sheet_view.showGridLines = False
 put(cl, "A1", "VIA, Contract Layer: documented US operations contracts (services engine detail)", bold=True, size=14)
 put(cl, "A2", "One row per contract. Value in year Y = base x start proration x (1+escalator)^(Y-base year) x NTD volume growth x (1-annual hazard)^(Y-2025) x FY2027 level cut x expiry treatment (renewal probability after the end date). $ in millions.", GREY, italic=True)
-HDR = ["Agency", "Via entity", "Scope", "Labor-only (agency vehicles)", "Layer", "Funding (census text)", "Funding tag (editable)", "Run-rate / NTD payment ($mm)", "Haircut", "Base ($mm)", "Base year", "Start", "End (blank = none stated)", "NTD row", "Terminated",
+HDR = ["Agency", "Via entity", "Scope", "Labor-only (agency vehicles)", "Layer", "Census funding text (raw)", "Dominant funding source (from shares; type a tag only if shares are blank)", "Run-rate / NTD payment ($mm)", "Haircut", "Base ($mm)", "Base year", "Start", "End (blank = none stated)", "NTD row", "Terminated",
        "Annual hazard", "Renewal prob. at end", "FY27 level cut", "FY2024A", "FY2025A", "FY2026E", "FY2027E", "FY2028E", "FY2029E", "FY2030E", "Basis", "Source",
-       "Local share", "State share", "Federal formula share", "Federal one-time share", "Funding evidence"]
+       "Local share", "State share", "Federal formula share", "Federal one-time share", "Funding evidence (document > NTD 2024 mix > municipal default)"]
 YEARS = [2024, 2025, 2026, 2027, 2028, 2029, 2030]
-for i, h in enumerate(HDR): put(cl, f"{L(i+1)}4", h, bold=True, align="center" if i > 6 else None, border_b=True, size=11)
+for i, h in enumerate(HDR):
+    c_ = put(cl, f"{L(i+1)}4", h, bold=True, align="center" if i > 6 else None, border_b=True, size=11)
+    c_.alignment = Alignment(horizontal=("center" if i > 6 else "left"), vertical="bottom", wrap_text=True)
+cl.row_dimensions[4].height = 48
 for i, y in enumerate(YEARS): put(cl, f"{L(19+i)}3", y, GREY, italic=True, align="center", size=11)   # numeric years used by formulas
 put(cl, "A3", "Year (numeric, used by formulas) ->", GREY, italic=True, size=11)
-widths = {"A": 44, "B": 22, "C": 10, "D": 10, "E": 13, "F": 34, "G": 15, "H": 12, "I": 8, "J": 10, "K": 8, "L": 11, "M": 11, "N": 7, "O": 9, "P": 9, "Q": 9, "R": 9, "Z": 70, "AA": 40, "AB": 9, "AC": 9, "AD": 9, "AE": 9, "AF": 90}
+widths = {"A": 56, "B": 26, "C": 11, "D": 11, "E": 14, "F": 40, "G": 17, "H": 13, "I": 8, "J": 11, "K": 9, "L": 11, "M": 12, "N": 7, "O": 11, "P": 11, "Q": 11, "R": 11, "Z": 80, "AA": 48, "AB": 10, "AC": 10, "AD": 11, "AE": 11, "AF": 100}
 for k, v in widths.items(): cl.column_dimensions[k].width = v
 for i in range(19, 26): cl.column_dimensions[L(i)].width = 10
 cl.freeze_panes = "B5"
@@ -583,11 +591,13 @@ HZ = {"local": (0.01, 0.95, 0.0), "federal formula": (0.0, 0.90, 0.0), "federal 
 tag_rng = f"$A${r_hz+1}:$A${r_hz+len(HZ_TAGS)}"; ann_rng = f"$B${r_hz+1}:$B${r_hz+len(HZ_TAGS)}"; ren_rng = f"$C${r_hz+1}:$C${r_hz+len(HZ_TAGS)}"; cut_rng = f"$D${r_hz+1}:$D${r_hz+len(HZ_TAGS)}"
 COMP_TK, COMP_SW, DOWNSELL = f"$C${r_hz+7}", f"$C${r_hz+8}", f"$C${r_hz+9}"
 put(cl, f"A{first-1}", "Contracts", bold=True)
-put(cl, f"AB{first-2}", "Funding shares (red): when filled, the hazard, renewal probability and level cut are share-weighted across the hazard table below and the tag in column G is ignored ('shares'). Blank shares fall back to the tag.", GREY, italic=True, size=10)
+put(cl, f"AB{first-3}", "Funding shares (red): when filled, the hazard, renewal probability and level cut are share-weighted across the hazard table below; column G then shows the dominant source. Blank shares fall back to a typed tag in G.", GREY, italic=True, size=10)
 for i, c in enumerate(contracts):
     r = first + i
     put(cl, f"A{r}", c["agency"], size=11); put(cl, f"B{r}", c["entity"], size=11); put(cl, f"C{r}", c["scope"], size=11); put(cl, f"D{r}", c["labor"], size=11, align="center"); put(cl, f"E{r}", c["layer"], size=11)
-    put(cl, f"F{r}", c["fund_raw"], GREY, italic=True, size=10); put(cl, f"G{r}", c["tag"], RED, italic=True, size=11)
+    put(cl, f"F{r}", c["fund_raw"], GREY, italic=True, size=10)
+    if c["shares"]: put(cl, f"G{r}", f'=IF(SUM(AB{r}:AE{r})>0,INDEX({{"local","state","federal formula","federal one-time"}},MATCH(MAX(AB{r}:AE{r}),AB{r}:AE{r},0)),"unknown")', size=11)
+    else: put(cl, f"G{r}", c["tag"], RED, italic=True, size=11)
     put(cl, f"H{r}", round(c["runrate"], 3), BLUE, fmt=FMT_MM2, size=11); put(cl, f"I{r}", c["haircut"], RED, italic=True, fmt="0.00", size=11); put(cl, f"J{r}", f"=H{r}*I{r}", fmt=FMT_MM2, size=11)
     put(cl, f"K{r}", c["base_year"], BLUE, size=11, align="center"); put(cl, f"L{r}", c["start"], BLUE, fmt=FMT_DATE, size=11)
     if c["end"]: put(cl, f"M{r}", c["end"], BLUE if not c["basis"].startswith("ASSUMPTION") else RED, fmt=FMT_DATE, size=11)
@@ -674,7 +684,10 @@ put(nd, "A1", "FTA National Transit Database: purchased-transportation payments 
 put(nd, "A2", "Source: NTD Annual Database 'Contractual Relationship' tables RY2019-RY2024 (Direct Payment / Agency Subsidy). Seller names are free text ('VIA', 'River North (VIA)', 'VIA, North River Transit'); matched on a word-boundary 'via' plus subsidiary names, excluding Via Mobility Services (Boulder nonprofit) and RideCo/RideCorp. Report year = agency fiscal year. Regenerated 2026-09-21.", GREY, italic=True)
 yrs = ["2019", "2020", "2021", "2022", "2023", "2024"]
 for i, h in enumerate(["Agency", "Seller as reported (RY2024)"] + [f"RY{y}" for y in yrs] + ["VOMS under contract (RY2024)", "Fares retained by Via (RY2024)", "Modes"]): put(nd, f"{L(i+1)}4", h, bold=True, border_b=True, size=11, align="center" if i > 1 else None)
-nd.column_dimensions["A"].width = 52; nd.column_dimensions["B"].width = 26; nd.column_dimensions["K"].width = 14
+nd.column_dimensions["A"].width = 64; nd.column_dimensions["B"].width = 28; nd.column_dimensions["K"].width = 16
+for col_ in "CDEFGH": nd.column_dimensions[col_].width = 12
+nd.column_dimensions["I"].width = 16; nd.column_dimensions["J"].width = 16; nd.row_dimensions[4].height = 32
+for col_ in "ABCDEFGHIJK": nd[f"{col_}4"].alignment = Alignment(horizontal=("center" if col_ not in "AB" else "left"), vertical="bottom", wrap_text=True)
 rr = 5
 for ag, a in sorted(agg.items(), key=lambda x: -x[1]["pay"]):
     if not a["hist"]: continue
@@ -698,7 +711,7 @@ W_EV, W_SH, W_DEBT, W_CASH, W_STI, W_PX = wrow("Enterprise Value"), wrow("Fully 
 if "SOTP (KW)" in wb.sheetnames: del wb["SOTP (KW)"]
 so = wb.create_sheet("SOTP (KW)"); so.sheet_view.showGridLines = False
 so.column_dimensions["A"].width = 72; so.column_dimensions["B"].width = 8
-for c in "CDEFG": so.column_dimensions[c].width = 13
+for c in "CDEFG": so.column_dimensions[c].width = 16
 so.column_dimensions["I"].width = 90
 put(so, "A1", "VIA, Sum-of-the-Parts: services and software valued on segment gross profit", bold=True, size=14)
 put(so, "A2", "Segment revenue and gross profit link to the Revenue Build; share count, cash and price link to the WACC sheet. Services = labor-intensive operations (transit-operator / rideshare gross-profit multiples); software = vertical SaaS gross-profit multiples.", GREY, italic=True)
@@ -771,6 +784,18 @@ for row, (name, path, was) in OPEX.items():
                             f"(FY2027E) to 44% (FY2028E) and 25% (FY2035E). Mix-weighted floor: software-company opex ~37% x 24% share + operator overhead ~10% x 76% share = ~16.5%; "
                             f"the path stays above it for platform cost. In dollars, {name.lower()} grows ~1%-2% a year 2025-35.")
     ts[f"AB{row}"].font = font(GREY, italic=True)
+summ.column_dimensions["N"].width = max(summ.column_dimensions["N"].width or 0, 58); summ.column_dimensions["B"].width = max(summ.column_dimensions["B"].width or 0, 50)
+cover.column_dimensions["B"].width = max(cover.column_dimensions["B"].width or 0, 48)
+for r_ in range(5, 40):
+    b_ = cover.cell(r_, 2).value
+    if isinstance(b_, str) and b_.startswith("Price Target (DCF, blended)") and cover.cell(r_, 3).value in (None, ""):
+        cover.cell(r_, 3).value = "='DCF + EPS (KW)'!D81"; cover.cell(r_, 3).number_format = '"$"#,##0.00'; cover.cell(r_, 3).font = font(GREEN, italic=True)
+    if isinstance(b_, str) and b_.startswith("Implied Upside / (Downside)") and cover.cell(r_, 3).value in (None, ""):
+        cover.cell(r_, 3).value = "='DCF + EPS (KW)'!D82"; cover.cell(r_, 3).number_format = FMT_PCT; cover.cell(r_, 3).font = font(GREEN, italic=True)
+    if isinstance(b_, str) and b_.startswith("Market-Implied FCF CAGR") :
+        cover.cell(r_, 2).value = "Market-Implied Revenue CAGR (FY26E-35E, reverse DCF)"; cover.cell(r_, 3).value = "='WACC and Reverse DCF (KW)'!D64"; cover.cell(r_, 3).number_format = FMT_PCT; cover.cell(r_, 3).font = font(GREEN, italic=True)
+    if isinstance(b_, str) and b_.startswith("Pitch-Case FCF CAGR"):
+        cover.cell(r_, 2).value = "Pitch-Case Revenue CAGR (FY26E-35E)"; cover.cell(r_, 3).value = "='WACC and Reverse DCF (KW)'!D66"; cover.cell(r_, 3).number_format = FMT_PCT; cover.cell(r_, 3).font = font(GREEN, italic=True)
 # ---------- re-point Summary customers (row 21) ----------
 for sc_, rc_ in (("D", "C"), ("E", "D"), ("F", "I"), ("G", "N"), ("H", "S"), ("I", "T"), ("J", "U"), ("K", "V")):
     cell = summ[f"{sc_}21"]; cell.value = f"={RB}!{rc_}{R['cust_tot']}"
