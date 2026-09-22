@@ -188,7 +188,7 @@ rb.column_dimensions["A"].width = 74; rb.column_dimensions["B"].width = 8; rb.co
 rb.freeze_panes = "C5"; rb.sheet_view.showGridLines = False
 rb.column_dimensions.group("O", "R", hidden=True, outline_level=1)   # 2027 quarters exist (income statement pulls them) but are collapsed
 
-R = dict(seg_hdr=6, svc=7, svc_g=8, svc_sh=9, sw=10, sw_g=11, sw_sh=12, tot=13, tot_g=14, tot_chk=15, us=16, intl=17,
+R = dict(seg_hdr=6, svc=7, svc_g=8, svc_sh=9, sw=10, sw_g=11, sw_sh=12, tot=13, tot_g=14, tot_org=15, us=16, intl=17, tot_chk=18,
          gp_hdr=19, gm_svc=20, gp_svc=21, gm_sw=22, gp_sw=23, uplift=24, gp_tot=25, gm_blend=26, cogs=27,
          se_hdr=29, svc_hard=30, svc_new=31, svc_dt=32, svc_plug=33, svc_us=34, svc_intl=35, svc_tot=36, memo_split=37, memo_imp=38,
          sw_hdr=40, sw_named=41, sw_small=42, sw_us=43, sw_intl=44, sw_tot=45, sw_acv=46,
@@ -237,7 +237,8 @@ label(rb, R["svc_g"], "% Growth (YoY)", "%", italic=True); label(rb, R["svc_sh"]
 label(rb, R["sw"], "Software revenue (subscriptions, Remix, named accounts)", "$mm", bold=True)
 label(rb, R["sw_g"], "% Growth (YoY)", "%", italic=True); label(rb, R["sw_sh"], "% of Total Revenue", "%", italic=True)
 label(rb, R["tot"], "Total Revenue (feeds Three Statements row 7)", "$mm", bold=True)
-label(rb, R["tot_g"], "% Growth (YoY)", "%", italic=True); label(rb, R["tot_chk"], "Check vs. Three Statements revenue (should be 0)", "$mm", italic=True, color=GREY)
+label(rb, R["tot_g"], "% Growth (YoY)", "%", italic=True); label(rb, R["tot_org"], "% Growth (YoY) ex-Downtowner, at the Downtowner revenue estimate in the inputs", "%", bold=True)
+label(rb, R["tot_chk"], "Check vs. Three Statements revenue (should be 0)", "$mm", italic=True, color=GREY)
 label(rb, R["us"], "Memo: United States revenue (reported; FY2026E anchored to 1H26A)", "$mm", italic=True)
 label(rb, R["intl"], "Memo: International revenue, Germany + all other (reported)", "$mm", italic=True)
 QA = ("1Q25A", "2Q25A", "3Q25A", "4Q25A", "1Q26A", "2Q26A")
@@ -283,6 +284,18 @@ def qshare(ws, row, base_row, tot_row):
     for p in Q25 + Q26 + QTR27: put(ws, f"{COL[p]}{row}", f"=IF({COL[p]}{tot_row}=0,0,{COL[p]}{base_row}/{COL[p]}{tot_row})", italic=True, fmt=FMT_PCT)
 for rr, base_ in ((R["svc_g"], R["svc"]), (R["sw_g"], R["sw"]), (R["tot_g"], R["tot"])): growth(rb, rr, base_); qgrowth(rb, rr, base_)
 share(rb, R["svc_sh"], R["svc"], R["tot"]); share(rb, R["sw_sh"], R["sw"], R["tot"]); qshare(rb, R["svc_sh"], R["svc"], R["tot"]); qshare(rb, R["sw_sh"], R["sw"], R["tot"])
+DT = R["svc_dt"]; T_ = R["tot"]
+for p in ANN:
+    if p in ("FY2023A", "FY2024A"): continue
+    c, pc = COL[p], COL[PREV[p]]
+    put(rb, f"{c}{R['tot_org']}", f"=IF({pc}{T_}=0,0,({c}{T_}-{c}{DT}+{pc}{DT})/{pc}{T_}-1)", bold=True, fmt=FMT_PCT)
+for p in Q26:   # 2026 quarters vs 2025 quarters: remove a quarter of the FY2026E Downtowner estimate (4Q25 held the 19-day stub)
+    c = COL[p]; pq = COL[Q25[Q26.index(p)]]; prior_dt = f"{COL['FY2025A']}{DT}" if p == "4Q26E" else "0"
+    put(rb, f"{c}{R['tot_org']}", f"=IF({pq}{T_}=0,0,({c}{T_}-{N_}{DT}/4+{prior_dt})/{pq}{T_}-1)", bold=True, fmt=FMT_PCT)
+for p in QTR27:
+    c = COL[p]; pq = COL[Q26[QTR27.index(p)]]
+    put(rb, f"{c}{R['tot_org']}", f"=IF({pq}{T_}=0,0,({c}{T_}-{COL['FY2027E']}{DT}/4)/({pq}{T_}-{N_}{DT}/4)-1)", bold=True, fmt=FMT_PCT)
+note(rb, R["tot_org"], "Total growth with Downtowner's revenue removed from both years. Downtowner's revenue is NOT disclosed (10-K: 'not material'); the line uses the $25mm FY2026E estimate in the inputs block, so it is an estimate: at $15mm the FY2026E figure is ~2.3 pts higher, at $35mm ~2.3 pts lower. Quarters spread the year's estimate evenly. Documented Downtowner contracts total ~$7mm-$8mm a year (Placer, Denver Montbello, Salisbury, Lake County, Washoe) across 6 of its 94 customers.")
 note(rb, R["svc"], "FY2023A-FY2025A and 1H26A from the cost-of-revenue identity (appendix): services revenue = loaded services cost / (1 - services GM). 2025 quarters allocate the year's services cost by each quarter's share of reported cost of revenue; 1Q26/2Q26 use the disclosed YoY changes (+$18.0mm, +$13.6mm). 3Q26E/4Q26E = FY2026E less 1H26A split by the 2025 3Q/4Q pattern; 2027 quarters follow 2025 shares. FY2026E+ from the services engine.")
 note(rb, R["sw"], "Residual of total revenue less services. Grew ~+23% a year 2024-25; FY2026E carries a 20% anchored rate, then logos + expansion - churn.")
 note(rb, R["tot"], "Reported quarters and years in blue. 3Q26E/4Q26E = FY2026E less 1H26A, split by 2025's 3Q/4Q shares; 2027 quarters by 2025 quarterly shares (approximation, quarterly columns grouped).")
