@@ -722,6 +722,17 @@ for p in QTR26 + QTR27: put(ts, f"{COL[p]}11", f"={RB}!{COL[p]}{R['cogs']}", GRE
 for p in ("FY2028E", "FY2029E", "FY2030E") + tuple(FADE): put(ts, f"{COL[p]}11", f"={RB}!{COL[p]}{R['cogs']}", GREEN, italic=True, fmt=FMT_PCT)
 ts["AB7"].value = "Projected periods link to the Revenue Build total (row %d), 2026-09-21." % R["tot"]; ts["AB7"].font = font(GREY, italic=True)
 ts["AB11"].value = "Projected cost of revenue %% links to the Revenue Build gross-profit block (row %d): segment mix x segment margins, plus a fading implementation-fee uplift (2026-09-21)." % R["cogs"]; ts["AB11"].font = font(GREY, italic=True)
+# ---------- Three Statements: operating-expense ratios for a services-heavy mix (FY2028E-FY2035E; 2026-27 quarterly inputs untouched) ----------
+OPEX = {16: ("Research & development", [0.155, 0.14, 0.125, 0.115, 0.105, 0.095, 0.09, 0.085], "was 16.0% -> 12.0%"),
+        18: ("Sales & marketing", [0.125, 0.115, 0.105, 0.095, 0.09, 0.085, 0.08, 0.075], "was 13.5% -> 10.0%"),
+        20: ("General & administrative", [0.16, 0.145, 0.13, 0.12, 0.11, 0.10, 0.095, 0.09], "was 17.5% -> 12.0%")}
+for row, (name, path, was) in OPEX.items():
+    for p, val in zip(["FY2028E", "FY2029E", "FY2030E", "FY2031E", "FY2032E", "FY2033E", "FY2034E", "FY2035E"], path):
+        cell = ts[f"{COL[p]}{row}"]; cell.value = val; cell.font = font(RED, italic=True); cell.number_format = FMT_PCT
+    ts[f"AB{row}"].value = (f"{name} % of revenue, FY2028E-FY2035E ({was}), reset 2026-09-21 for a mix that is ~75% services: total opex steps from 50% of revenue "
+                            f"(FY2027E) to 44% (FY2028E) and 25% (FY2035E). Mix-weighted floor: software-company opex ~37% x 24% share + operator overhead ~10% x 76% share = ~16.5%; "
+                            f"the path stays above it for platform cost. In dollars, {name.lower()} grows ~1%-2% a year 2025-35.")
+    ts[f"AB{row}"].font = font(GREY, italic=True)
 # ---------- re-point Summary customers (row 21) ----------
 for sc_, rc_ in (("D", "C"), ("E", "D"), ("F", "I"), ("G", "N"), ("H", "S"), ("I", "T"), ("J", "U"), ("K", "V")):
     cell = summ[f"{sc_}21"]; cell.value = f"={RB}!{rc_}{R['cust_tot']}"
