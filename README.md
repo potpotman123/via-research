@@ -1,6 +1,6 @@
-# VIA — independent test of Bleecker Street's short thesis on Via Transportation (NYSE: VIA)
+# VIA — Independent Scrape and Research of Via Transportation's Contracts (NYSE: VIA)
 
-Owner: Kendall Wu (KW). Created 2026-09-20. This folder is separate from the Copart repo at `~/cprt`.
+Owner: Kendall Wu (KW). Created 2026-09-20. 
 
 ## Purpose
 
